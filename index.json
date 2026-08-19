@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "token": "2026-08-18_c4",
+      "part": "A",
+      "file": "tests/2026-08-18_c4_A.json",
+      "name": "Cycle 4 · Grand Test — Part A",
+      "subtitle": "Pre & Para-clinical",
+      "size": 150,
+      "minutes": 150
+    },
+    {
+      "token": "2026-08-18_c4",
+      "part": "B",
+      "file": "tests/2026-08-18_c4_B.json",
+      "name": "Cycle 4 · Grand Test — Part B",
+      "subtitle": "Clinical",
+      "size": 150,
+      "minutes": 150
+    }
+  ]
+}

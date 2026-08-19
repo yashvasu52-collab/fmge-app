@@ -88,6 +88,7 @@
   .opt .k{width:26px;height:26px;border-radius:8px;background:var(--surface-2);border:1px solid var(--border);display:grid;place-items:center;font-weight:800;font-size:12.5px;flex:none}
   .opt.correct{border-color:var(--green);background:var(--green-soft)} .opt.correct .k{background:var(--green);color:#fff;border-color:transparent}
   .opt.wrong{border-color:var(--red);background:var(--red-soft)} .opt.wrong .k{background:var(--red);color:#fff;border-color:transparent}
+  .opt.sel{border-color:var(--accent);background:var(--accent-soft)} .opt.sel .k{background:var(--accent);color:#fff;border-color:transparent}
   .yourhist{background:var(--accent-soft);color:var(--accent-ink);border-radius:11px;padding:9px 13px;font-weight:700;font-size:12.5px;margin:2px 0 10px}
   .viewsol{display:flex;align-items:center;justify-content:center;gap:6px;font-weight:800;color:var(--accent-ink);cursor:pointer;padding:13px;border-top:1px solid var(--border);margin:8px -20px -18px}
 
@@ -180,7 +181,7 @@
 
           <div class="sec">Continue / Practice</div>
           <div class="card listcard">
-            <div class="row" onclick="startTest('Cycle 4 · Part A',150,150)"><div class="ic">📝</div><div class="t"><b>Cycle 4 · Grand Test — Part A</b><p>150 Q · ⏱ 150 min · timed</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="startGrand('tests/2026-08-18_c4_A.json',150)"><div class="ic">📝</div><div class="t"><b>Cycle 4 · Grand Test — Part A</b><p>150 Q · ⏱ 150 min · timed</p></div><span class="go">▸</span></div>
             <div class="row" onclick="nav('practice')"><div class="ic">📚</div><div class="t"><b>QBank by subject</b><p>Pathology · Medicine · Pharmac · +16</p></div><span class="go">▸</span></div>
             <div class="row" onclick="openSol()"><div class="ic">🔁</div><div class="t"><b>Revise your mistakes</b><p>7 concepts due today</p></div><span class="go">▸</span></div>
           </div>
@@ -196,8 +197,8 @@
         <section class="screen" id="s-practice">
           <div class="sec">Mock tests</div>
           <div class="card listcard">
-            <div class="row" onclick="startTest('Cycle 4 · Part A',150,150)"><div class="ic">📝</div><div class="t"><b>Grand Test — Part A</b><p>150 Q · ⏱ 150 min · Pre &amp; Para</p></div><span class="go">▸</span></div>
-            <div class="row" onclick="startTest('Cycle 4 · Part B',150,150)"><div class="ic">📝</div><div class="t"><b>Grand Test — Part B</b><p>150 Q · ⏱ 150 min · Clinical</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="startGrand('tests/2026-08-18_c4_A.json',150)"><div class="ic">📝</div><div class="t"><b>Grand Test — Part A</b><p>150 Q · ⏱ 150 min · Pre &amp; Para</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="startGrand('tests/2026-08-18_c4_B.json',150)"><div class="ic">📝</div><div class="t"><b>Grand Test — Part B</b><p>150 Q · ⏱ 150 min · Clinical</p></div><span class="go">▸</span></div>
           </div>
           <div class="sec">QBank by subject</div>
           <div class="card listcard">
@@ -291,17 +292,13 @@
     <div class="over" id="flow-results">
       <div class="ohead"><button class="tbtn" onclick="closeResults()">‹</button><b>Result</b><span style="width:34px"></span></div>
       <div class="obody" style="padding:0">
-        <div class="score-hero"><div class="muted" style="font-weight:700">Your score</div><div class="big"><span id="resScore">14</span><span id="resTot" style="font-size:22px;color:var(--muted)">/20</span></div><span class="delta">✅ On track — keep it up</span></div>
+        <div class="score-hero"><div class="muted" style="font-weight:700">Your score</div><div class="big"><span id="resScore">14</span><span id="resTot" style="font-size:22px;color:var(--muted)">/20</span></div><span class="delta" id="resDelta">✅ On track — keep it up</span></div>
         <div style="padding:0 16px 16px">
-          <div class="sec">By concept (weak → strong)</div>
-          <div class="card bars">
-            <div class="bar"><span class="name">Necrosis types</span><span class="track"><span class="fill" style="width:40%;background:var(--amber)"></span></span><span class="pct">40%</span></div>
-            <div class="bar"><span class="name">Inflammation</span><span class="track"><span class="fill" style="width:75%;background:var(--accent)"></span></span><span class="pct">75%</span></div>
-            <div class="bar"><span class="name">Neoplasia</span><span class="track"><span class="fill" style="width:90%;background:var(--green)"></span></span><span class="pct">90%</span></div>
-          </div>
-          <div class="sec">Review</div>
-          <div class="card listcard"><div class="row" onclick="openSol()"><div class="t"><b>✗ Q3 · Necrosis types</b><p>You B · Correct A</p></div><span class="go">See ›</span></div><div class="row" onclick="openSol()"><div class="t"><b>✗ Q7 · Amyloidosis</b><p>You D · Correct B</p></div><span class="go">See ›</span></div></div>
-          <div style="margin:16px 0"><button class="btn" onclick="alert('(mockup) exports answers → score in Codespaces')">Save &amp; export answers</button></div>
+          <div class="sec">By subject (weak → strong)</div>
+          <div class="card bars" id="resBars"></div>
+          <div class="sec">Review · wrong answers</div>
+          <div class="card listcard" id="resReview"></div>
+          <div style="margin:16px 0"><button class="btn" onclick="exportAnswers()">Save &amp; export answers</button></div>
         </div>
       </div>
     </div>
@@ -321,17 +318,39 @@
   function openSol(){document.getElementById('solOver').classList.add('active');}
   function closeSol(){document.getElementById('solOver').classList.remove('active');}
   const SUBS=['Necrosis','Inflammation','Neoplasia','Anemia','Amyloidosis'];
-  let N=20,MIN=20,Q=[],cur=0;
-  function startTest(name,count,mins){N=count||20;MIN=mins||20;Q=[];for(let i=0;i<N;i++)Q.push({stem:`(${i+1}) A biopsy shows features of ${SUBS[i%SUBS.length].toLowerCase()}. Which statement is most accurate?`,opts:['First option','Second option','Third option','Fourth option'],ans:null,marked:false});cur=0;document.getElementById('tName').textContent=name;document.getElementById('flow-test').classList.add('active');renderQ();startTimer();}
+  let N=20,MIN=20,Q=[],cur=0,TEST=null;
+  function beginFlow(name){cur=0;document.getElementById('tName').textContent=name;document.getElementById('flow-test').classList.add('active');renderQ();startTimer();}
+  function startTest(name,count,mins){TEST={token:'demo',part:'-',name};N=count||20;MIN=mins||20;Q=[];for(let i=0;i<N;i++)Q.push({stem:`(${i+1}) A biopsy shows features of ${SUBS[i%SUBS.length].toLowerCase()}. Which statement is most accurate?`,opts:['First option','Second option','Third option','Fourth option'],correct:0,subject:SUBS[i%SUBS.length],ans:null,marked:false});beginFlow(name);}
+  async function startGrand(file,mins){try{const r=await fetch(file+'?v='+Date.now());if(!r.ok)throw 0;const d=await r.json();TEST={token:d.token,part:d.part,name:d.name};N=d.size;MIN=d.time_limit_min||mins;Q=d.questions.map(q=>({stem:q.stem,opts:q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,n:q.n,ans:null,marked:false}));beginFlow(d.name);}catch(e){alert('Could not load the paper. Open the app from the live link (…github.io) — browsers block loading local files over file://.');}}
   function quitTest(){document.getElementById('flow-test').classList.remove('active');stopTimer();}
-  function renderQ(){const q=Q[cur];document.getElementById('qnum').textContent='Q'+(cur+1);document.getElementById('stem').textContent=q.stem;document.getElementById('prog').textContent=`Q${cur+1} of ${N}`;document.getElementById('navPill').textContent='▦ '+(cur+1)+'/'+N;const box=document.getElementById('opts');box.innerHTML='';['A','B','C','D'].forEach((k,i)=>{const d=document.createElement('div');d.className='opt'+(q.ans===i?' correct':'');d.style.cursor='pointer';d.innerHTML=`<span class="k">${k}</span> ${q.opts[i]}`;d.onclick=()=>{q.ans=i;renderQ();};box.appendChild(d);});const m=document.getElementById('markBtn');m.textContent=q.marked?'★ Marked':'★ Mark';m.style.color=q.marked?'var(--amber)':'';document.getElementById('nextBtn').textContent=cur===N-1?'Submit ✓':'Next ▸';}
+  function renderQ(){const q=Q[cur];document.getElementById('qnum').textContent='Q'+(cur+1);document.getElementById('stem').textContent=q.stem;document.getElementById('prog').textContent=`Q${cur+1} of ${N}`;document.getElementById('navPill').textContent='▦ '+(cur+1)+'/'+N;const box=document.getElementById('opts');box.innerHTML='';['A','B','C','D'].forEach((k,i)=>{const d=document.createElement('div');d.className='opt'+(q.ans===i?' sel':'');d.style.cursor='pointer';d.innerHTML=`<span class="k">${k}</span> ${q.opts[i]}`;d.onclick=()=>{q.ans=i;renderQ();};box.appendChild(d);});const m=document.getElementById('markBtn');m.textContent=q.marked?'★ Marked':'★ Mark';m.style.color=q.marked?'var(--amber)':'';document.getElementById('nextBtn').textContent=cur===N-1?'Submit ✓':'Next ▸';}
   function qnav(d){cur=Math.max(0,Math.min(N-1,cur+d));renderQ();}
   function nextOrSubmit(){if(cur===N-1)submitTest();else qnav(1);}
   function toggleMark(){Q[cur].marked=!Q[cur].marked;renderQ();}
   function openSheet(){const g=document.getElementById('navgrid');g.innerHTML='';for(let i=0;i<N;i++){const b=document.createElement('button');b.textContent=i+1;if(Q[i].marked)b.classList.add('marked');else if(Q[i].ans!=null)b.classList.add('answered');b.onclick=()=>{cur=i;renderQ();closeSheet();};g.appendChild(b);}document.getElementById('sheet').classList.add('active');}
   function closeSheet(){document.getElementById('sheet').classList.remove('active');}
-  function submitTest(){closeSheet();stopTimer();const sc=Math.round(N*0.7);document.getElementById('resScore').textContent=sc;document.getElementById('resTot').textContent='/'+N;document.getElementById('flow-test').classList.remove('active');document.getElementById('flow-results').classList.add('active');}
+  function submitTest(){closeSheet();stopTimer();
+    let sc=0;const bySub={},wrong=[];
+    Q.forEach((q,i)=>{const ok=q.ans===q.correct;if(ok)sc++;const s=q.subject||'—';(bySub[s]=bySub[s]||{c:0,t:0}).t++;if(ok)bySub[s].c++;if(!ok)wrong.push({i,q});});
+    document.getElementById('resScore').textContent=sc;document.getElementById('resTot').textContent='/'+N;
+    const pct=Math.round(100*sc/N),dlt=document.getElementById('resDelta');
+    dlt.textContent=(pct>=50?'✅ ':'◔ ')+pct+'% correct';dlt.style.background=pct>=50?'var(--green-soft)':'var(--red-soft)';dlt.style.color=pct>=50?'var(--green)':'var(--red)';
+    const bars=Object.entries(bySub).map(([s,o])=>({s,p:Math.round(100*o.c/o.t)})).sort((a,b)=>a.p-b.p).slice(0,10);
+    document.getElementById('resBars').innerHTML=bars.map(b=>`<div class="bar"><span class="name">${b.s}</span><span class="track"><span class="fill" style="width:${b.p}%;background:${b.p<50?'var(--red)':b.p<70?'var(--amber)':'var(--green)'}"></span></span><span class="pct">${b.p}%</span></div>`).join('')||'<div class="muted" style="padding:8px">—</div>';
+    document.getElementById('resReview').innerHTML=wrong.length?wrong.slice(0,50).map(w=>`<div class="row" onclick="openSolFor(${w.i})"><div class="t"><b>✗ Q${w.i+1} · ${w.q.subject}</b><p>You ${w.q.ans==null?'—':'ABCD'[w.q.ans]} · Correct ${'ABCD'[w.q.correct]}</p></div><span class="go">See ›</span></div>`).join(''):'<div class="row"><div class="t"><b>No wrong answers 🎉</b></div></div>';
+    document.getElementById('flow-test').classList.remove('active');document.getElementById('flow-results').classList.add('active');}
   function closeResults(){document.getElementById('flow-results').classList.remove('active');}
+  function openSolFor(i){const q=Q[i];if(!q)return openSol();
+    document.querySelector('#solOver .obody').innerHTML=
+      `<div class="qhead">${q.subject||''}${q.topic?(' · '+q.topic):''}</div><div class="qtext">${q.stem}</div>`+
+      q.opts.map((o,j)=>`<div class="opt${j===q.correct?' correct':(j===q.ans?' wrong':'')}"><span class="k">${'ABCD'[j]}</span> ${o}</div>`).join('')+
+      `<div class="yourhist" style="margin-top:12px">You chose ${q.ans==null?'—':'ABCD'[q.ans]} · Correct is ${'ABCD'[q.correct]}.</div>`+
+      `<div class="soltitle"><b>Explanation</b><span class="pill mid">${({E:'Easy',M:'Medium',H:'Hard'})[q.difficulty]||''}</span></div>`+
+      `<div class="ans">Correct answer: ${'ABCD'[q.correct]}) ${q.opts[q.correct]}</div>`+
+      `<div class="expl"><p style="font-size:14px">${q.concept||'Explanation coming soon (content phase).'}</p></div>`+
+      `<div class="metarow"><span class="ic">📖</span><div><div class="lbl">Reference</div><div class="val">${q.reference||'—'}</div></div></div>`;
+    openSol();}
+  function exportAnswers(){const p={token:TEST?TEST.token:'demo',part:TEST?TEST.part:'-',submitted_at:new Date().toISOString(),answers:{}};Q.forEach(q=>{if(q.n!=null)p.answers[q.n]=q.ans==null?null:'ABCD'[q.ans];});const b=new Blob([JSON.stringify(p,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='answers_'+p.token+'_'+p.part+'.json';a.click();}
   let secs=1200,tid=null;
   function fmt(s){const h=Math.floor(s/3600),m=Math.floor(s%3600/60),x=s%60;return h?`${h}:${String(m).padStart(2,'0')}:${String(x).padStart(2,'0')}`:`${m}:${String(x).padStart(2,'0')}`;}
   function startTimer(){stopTimer();document.getElementById('pausedOv').classList.remove('active');secs=MIN*60;tick();runTimer();}
