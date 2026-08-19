@@ -167,16 +167,11 @@
 
           <div class="sec">Question of the day</div>
           <div class="card qod">
-            <div class="top"><span class="pill clin">Clinical · Medicine</span><span class="pill mid">Medium</span></div>
-            <div class="q">Acromegaly: the most reliable confirmatory test is —</div>
-            <div id="qOpts">
-              <div class="opt" data-i="0"><span class="k">A</span> ↑ GH levels</div>
-              <div class="opt" data-i="1"><span class="k">B</span> ↑ IGF-1 levels</div>
-              <div class="opt" data-i="2"><span class="k">C</span> No GH suppression after glucose</div>
-              <div class="opt" data-i="3"><span class="k">D</span> No IGF-1 suppression after glucose</div>
-            </div>
-            <div id="qHist" class="yourhist hidden">↺ You've missed this concept twice before — let's lock it in.</div>
-            <div class="viewsol" onclick="openSol()">See full solution ›</div>
+            <div class="top" id="qodTop"></div>
+            <div class="q" id="qodQ">Loading today's question…</div>
+            <div id="qOpts"></div>
+            <div id="qHist" class="yourhist hidden"></div>
+            <div class="viewsol" onclick="qodSolution()">See full solution ›</div>
           </div>
 
           <div class="sec">Continue / Practice</div>
@@ -311,10 +306,19 @@
   function backToLogin(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('v-login').classList.remove('hidden');}
   function fillOtp(){document.querySelectorAll('#otpRow input').forEach((el,i)=>el.value=window._otp[i]);}
   document.querySelectorAll('#otpRow input').forEach((el,i,a)=>el.addEventListener('input',()=>{if(el.value&&i<3)a[i+1].focus();}));
-  function login(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('app').classList.remove('hidden');}
+  function login(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('app').classList.remove('hidden');loadQod();}
   function logout(){document.getElementById('app').classList.add('hidden');document.getElementById('v-login').classList.remove('hidden');document.getElementById('phone').value='';document.getElementById('getOtp').disabled=true;}
   function nav(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('s-'+id).classList.add('active');document.querySelectorAll('.bnav button').forEach((b,i)=>b.classList.toggle('active',['home','practice','progress','profile'][i]===id));document.querySelector('.stage').scrollTop=0;}
-  document.querySelectorAll('#qOpts .opt').forEach(o=>o.onclick=()=>{const p=+o.dataset.i;document.querySelectorAll('#qOpts .opt').forEach((x,i)=>{x.classList.remove('correct','wrong');if(i===2)x.classList.add('correct');else if(i===p)x.classList.add('wrong');});document.getElementById('qHist').classList.remove('hidden');});
+  async function loadQod(){try{const d=await(await fetch('qod.json?v='+Date.now())).json();window.QOD=d;
+    const part=d.part==='A'?'Pre & Para-clinical':'Clinical';const diff={E:'Easy',M:'Medium',H:'Hard'}[d.difficulty]||'';
+    document.getElementById('qodTop').innerHTML=`<span class="pill clin">${d.subject} · ${part}</span>`+(diff?`<span class="pill mid" style="margin-left:5px">${diff}</span>`:'');
+    document.getElementById('qodQ').textContent=d.stem;
+    document.getElementById('qOpts').innerHTML=d.options.map((o,i)=>`<div class="opt" data-i="${i}"><span class="k">${'ABCD'[i]}</span> ${o}</div>`).join('');
+    document.querySelectorAll('#qOpts .opt').forEach(o=>o.onclick=()=>{const p=+o.dataset.i;window.QOD._pick=p;
+      document.querySelectorAll('#qOpts .opt').forEach((x,i)=>{x.classList.remove('correct','wrong');if(i===d.correct)x.classList.add('correct');else if(i===p)x.classList.add('wrong');});
+      const g=document.getElementById('qHist');g.classList.remove('hidden');g.textContent=(p===d.correct?'✅ Correct. ':'✗ Correct answer: '+'ABCD'[d.correct]+') ')+d.options[d.correct];});
+    }catch(e){document.getElementById('qodQ').textContent="Open from the live link to load today's question.";}}
+  function qodSolution(){const q=window.QOD;if(!q)return openSol();renderSol({stem:q.stem,opts:q.options,correct:q.correct,ans:(q._pick==null?null:q._pick),subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty});}
   function openSol(){document.getElementById('solOver').classList.add('active');}
   function closeSol(){document.getElementById('solOver').classList.remove('active');}
   const SUBS=['Necrosis','Inflammation','Neoplasia','Anemia','Amyloidosis'];
@@ -340,7 +344,7 @@
     document.getElementById('resReview').innerHTML=wrong.length?wrong.slice(0,50).map(w=>`<div class="row" onclick="openSolFor(${w.i})"><div class="t"><b>✗ Q${w.i+1} · ${w.q.subject}</b><p>You ${w.q.ans==null?'—':'ABCD'[w.q.ans]} · Correct ${'ABCD'[w.q.correct]}</p></div><span class="go">See ›</span></div>`).join(''):'<div class="row"><div class="t"><b>No wrong answers 🎉</b></div></div>';
     document.getElementById('flow-test').classList.remove('active');document.getElementById('flow-results').classList.add('active');}
   function closeResults(){document.getElementById('flow-results').classList.remove('active');}
-  function openSolFor(i){const q=Q[i];if(!q)return openSol();
+  function renderSol(q){
     document.querySelector('#solOver .obody').innerHTML=
       `<div class="qhead">${q.subject||''}${q.topic?(' · '+q.topic):''}</div><div class="qtext">${q.stem}</div>`+
       q.opts.map((o,j)=>`<div class="opt${j===q.correct?' correct':(j===q.ans?' wrong':'')}"><span class="k">${'ABCD'[j]}</span> ${o}</div>`).join('')+
@@ -350,6 +354,7 @@
       `<div class="expl"><p style="font-size:14px">${q.concept||'Explanation coming soon (content phase).'}</p></div>`+
       `<div class="metarow"><span class="ic">📖</span><div><div class="lbl">Reference</div><div class="val">${q.reference||'—'}</div></div></div>`;
     openSol();}
+  function openSolFor(i){const q=Q[i];if(q)renderSol(q);else openSol();}
   function exportAnswers(){const p={token:TEST?TEST.token:'demo',part:TEST?TEST.part:'-',submitted_at:new Date().toISOString(),answers:{}};Q.forEach(q=>{if(q.n!=null)p.answers[q.n]=q.ans==null?null:'ABCD'[q.ans];});const b=new Blob([JSON.stringify(p,null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='answers_'+p.token+'_'+p.part+'.json';a.click();}
   let secs=1200,tid=null;
   function fmt(s){const h=Math.floor(s/3600),m=Math.floor(s%3600/60),x=s%60;return h?`${h}:${String(m).padStart(2,'0')}:${String(x).padStart(2,'0')}`:`${m}:${String(x).padStart(2,'0')}`;}
