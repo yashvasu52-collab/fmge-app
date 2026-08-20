@@ -161,7 +161,7 @@
             <div class="g">Good afternoon, Yash 🌱</div>
             <h1>You're <b>+26</b> from a pass.</h1>
             <div class="today">Today: <b>20 timed Pathology questions</b> — your weakest backbone.</div>
-            <button class="btn" onclick="startTest('Today · Pathology',20,20)">Start today's set ▸</button>
+            <button class="btn" onclick="startSubject('Pathology',20,20)">Start today's set ▸</button>
             <div class="progbar"><div class="track"><span class="fill" style="width:59%"></span><span class="mark" style="left:50%"></span></div><div class="lbls"><span>0</span><span>Projected 176 · pass 150 ✓</span><span>300</span></div></div>
           </div>
 
@@ -178,7 +178,7 @@
           <div class="card listcard">
             <div class="row" onclick="startGrand('tests/2026-08-18_c4_A.json',150)"><div class="ic">📝</div><div class="t"><b>Cycle 4 · Grand Test — Part A</b><p>150 Q · ⏱ 150 min · timed</p></div><span class="go">▸</span></div>
             <div class="row" onclick="nav('practice')"><div class="ic">📚</div><div class="t"><b>QBank by subject</b><p>Pathology · Medicine · Pharmac · +16</p></div><span class="go">▸</span></div>
-            <div class="row" onclick="openSol()"><div class="ic">🔁</div><div class="t"><b>Revise your mistakes</b><p>7 concepts due today</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="startMistakes()"><div class="ic">🔁</div><div class="t"><b>Revise your mistakes</b><p id="mrev1">Take a test — wrong answers collect here</p></div><span class="go">▸</span></div>
           </div>
 
           <div class="sec">Progress to 150 <span class="all" onclick="nav('progress')">Details ›</span></div>
@@ -196,15 +196,12 @@
             <div class="row" onclick="startGrand('tests/2026-08-18_c4_B.json',150)"><div class="ic">📝</div><div class="t"><b>Grand Test — Part B</b><p>150 Q · ⏱ 150 min · Clinical</p></div><span class="go">▸</span></div>
           </div>
           <div class="sec">QBank by subject</div>
-          <div class="card listcard">
-            <div class="row" onclick="openSol()"><div class="ic">🅿</div><div class="t"><b>Pathology</b><p>47 questions · weak — start here</p></div><span class="go">▸</span></div>
-            <div class="row" onclick="openSol()"><div class="ic">🅜</div><div class="t"><b>Medicine</b><p>50 questions</p></div><span class="go">▸</span></div>
-            <div class="row" onclick="openSol()"><div class="ic">💊</div><div class="t"><b>Pharmacology</b><p>33 questions</p></div><span class="go">▸</span></div>
-          </div>
+          <div class="card listcard" id="qbankSubs"><div class="row"><div class="t"><span class="muted">Loading subjects…</span></div></div></div>
           <div class="sec">More ways to practise</div>
           <div class="card listcard">
-            <div class="row"><div class="ic">🎯</div><div class="t"><b>Study-then-test</b><p>Just studied a topic? Test it now</p></div><span class="go">▸</span></div>
-            <div class="row"><div class="ic">🛠️</div><div class="t"><b>Custom test</b><p>Pick subjects, count &amp; difficulty</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="document.getElementById('qbankSubs').scrollIntoView({behavior:'smooth'})"><div class="ic">🎯</div><div class="t"><b>Study-then-test</b><p>Pick the subject you just studied ↑</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="startCustom()"><div class="ic">🛠️</div><div class="t"><b>Custom test</b><p>25 mixed questions, timed</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="startMistakes()"><div class="ic">🔁</div><div class="t"><b>Mistakes &amp; revision</b><p id="mrev2">Re-test what you got wrong</p></div><span class="go">▸</span></div>
           </div>
         </section>
 
@@ -226,16 +223,39 @@
             <div class="bar"><span class="name">OBG</span><span class="track"><span class="fill" style="width:93%;background:var(--green)"></span></span><span class="pct">93%</span></div>
           </div>
           <div class="sec">Your mistakes</div>
-          <div class="card listcard"><div class="row" onclick="openSol()"><div class="ic">⚑</div><div class="t"><b>7 concepts to revise</b><p>Auto-collected from your wrong answers</p></div><span class="go">▸</span></div></div>
+          <div class="card listcard"><div class="row" onclick="startMistakes()"><div class="ic">⚑</div><div class="t"><b id="mrevCount">No mistakes yet</b><p>Auto-collected from your wrong answers · tap to re-test</p></div><span class="go">▸</span></div></div>
         </section>
 
         <!-- PROFILE -->
         <section class="screen" id="s-profile">
-          <div class="card" style="padding:22px;text-align:center;margin-top:8px"><div class="av" style="width:64px;height:64px;font-size:24px;margin:0 auto 10px">Y</div><b style="font-size:17px">Yash · Candidate</b><div class="muted" style="font-size:12.5px">Exam 9 Jan 2027 · 143 days left</div></div>
+          <div class="card" style="padding:22px;text-align:center;margin-top:8px">
+            <div class="av" style="width:72px;height:72px;font-size:26px;margin:0 auto 10px">Y</div>
+            <b style="font-size:18px">Yash</b>
+            <div class="muted" style="font-size:12.5px">+91 ·····90 · Free plan</div>
+            <div style="display:flex;gap:8px;justify-content:center;margin-top:12px;flex-wrap:wrap">
+              <span class="pill clin">🎯 Exam 9 Jan 2027</span><span class="pill mid">⏳ 142 days left</span>
+            </div>
+          </div>
+          <div class="card kpi" style="padding:14px;margin-top:12px">
+            <div class="kpiC"><div class="n g">+26</div><div class="l">from pass (150)</div></div>
+            <div class="kpiC"><div class="n">176</div><div class="l">projected / 300</div></div>
+            <div class="kpiC"><div class="n">4🔥</div><div class="l">day streak</div></div>
+            <div class="kpiC"><div class="n" id="pfMist">0</div><div class="l">to revise</div></div>
+          </div>
           <div class="sec">Attempt history</div>
-          <div class="card listcard"><div class="row"><div class="t"><b>June 2026 · real exam</b><p>Scored 114 / 300</p></div></div><div class="row"><div class="t"><b>Cycles practised</b><p>4 · projected 176</p></div></div></div>
+          <div class="card listcard">
+            <div class="row"><div class="ic">📄</div><div class="t"><b>June 2026 · real exam</b><p>114 / 300 · fail</p></div></div>
+            <div class="row"><div class="ic">📝</div><div class="t"><b>Practice cycles</b><p>4 done · projected 176</p></div></div>
+          </div>
+          <div class="sec">Plan</div>
+          <div class="card listcard"><div class="row"><div class="ic">✨</div><div class="t"><b>Free plan</b><p>Grand Tests · QBank · Question of the Day</p></div><span class="go">Upgrade ›</span></div></div>
           <div class="sec">Settings</div>
-          <div class="card listcard"><div class="row"><div class="t"><b>Daily reminder</b><p>7:30 pm</p></div><span class="go">On</span></div><div class="row" onclick="logout()"><div class="t"><b>Log out</b></div><span class="go">›</span></div></div>
+          <div class="card listcard">
+            <div class="row"><div class="ic">🔔</div><div class="t"><b>Daily reminder</b><p>7:30 pm</p></div><span class="go">On</span></div>
+            <div class="row"><div class="ic">🔥</div><div class="t"><b>Streak alerts</b><p>Don't break the chain</p></div><span class="go">On</span></div>
+            <div class="row"><div class="ic">💬</div><div class="t"><b>Help &amp; support</b></div><span class="go">›</span></div>
+            <div class="row" onclick="logout()"><div class="ic">🚪</div><div class="t"><b style="color:var(--red)">Log out</b></div><span class="go">›</span></div>
+          </div>
         </section>
       </div>
 
@@ -306,9 +326,9 @@
   function backToLogin(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('v-login').classList.remove('hidden');}
   function fillOtp(){document.querySelectorAll('#otpRow input').forEach((el,i)=>el.value=window._otp[i]);}
   document.querySelectorAll('#otpRow input').forEach((el,i,a)=>el.addEventListener('input',()=>{if(el.value&&i<3)a[i+1].focus();}));
-  function login(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('app').classList.remove('hidden');loadQod();}
+  function login(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('app').classList.remove('hidden');loadQod();preload();}
   function logout(){document.getElementById('app').classList.add('hidden');document.getElementById('v-login').classList.remove('hidden');document.getElementById('phone').value='';document.getElementById('getOtp').disabled=true;}
-  function nav(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('s-'+id).classList.add('active');document.querySelectorAll('.bnav button').forEach((b,i)=>b.classList.toggle('active',['home','practice','progress','profile'][i]===id));document.querySelector('.stage').scrollTop=0;}
+  function nav(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('s-'+id).classList.add('active');document.querySelectorAll('.bnav button').forEach((b,i)=>b.classList.toggle('active',['home','practice','progress','profile'][i]===id));document.querySelector('.stage').scrollTop=0;refreshMistakeCounts();}
   async function loadQod(){try{const d=await(await fetch('qod.json?v='+Date.now())).json();window.QOD=d;
     const part=d.part==='A'?'Pre & Para-clinical':'Clinical';const diff={E:'Easy',M:'Medium',H:'Hard'}[d.difficulty]||'';
     document.getElementById('qodTop').innerHTML=`<span class="pill clin">${d.subject} · ${part}</span>`+(diff?`<span class="pill mid" style="margin-left:5px">${diff}</span>`:'');
@@ -326,6 +346,18 @@
   function beginFlow(name){cur=0;document.getElementById('tName').textContent=name;document.getElementById('flow-test').classList.add('active');renderQ();startTimer();}
   function startTest(name,count,mins){TEST={token:'demo',part:'-',name};N=count||20;MIN=mins||20;Q=[];for(let i=0;i<N;i++)Q.push({stem:`(${i+1}) A biopsy shows features of ${SUBS[i%SUBS.length].toLowerCase()}. Which statement is most accurate?`,opts:['First option','Second option','Third option','Fourth option'],correct:0,subject:SUBS[i%SUBS.length],ans:null,marked:false});beginFlow(name);}
   async function startGrand(file,mins){try{const r=await fetch(file+'?v='+Date.now());if(!r.ok)throw 0;const d=await r.json();TEST={token:d.token,part:d.part,name:d.name};N=d.size;MIN=d.time_limit_min||mins;Q=d.questions.map(q=>({stem:q.stem,opts:q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,n:q.n,ans:null,marked:false}));beginFlow(d.name);}catch(e){alert('Could not load the paper. Open the app from the live link (…github.io) — browsers block loading local files over file://.');}}
+  let ALLQ=[];
+  async function preload(){try{const idx=await(await fetch('index.json?v='+Date.now())).json();ALLQ=[];for(const t of idx.tests){const d=await(await fetch(t.file+'?v='+Date.now())).json();d.questions.forEach(q=>ALLQ.push(q));}renderSubjects();}catch(e){}refreshMistakeCounts();}
+  function renderSubjects(){const c={};ALLQ.forEach(q=>c[q.subject]=(c[q.subject]||0)+1);const el=document.getElementById('qbankSubs');if(!el)return;const rows=Object.entries(c).sort((a,b)=>b[1]-a[1]);el.innerHTML=rows.map(([s,n])=>`<div class="row" data-sub="${s.replace(/"/g,'&quot;')}"><div class="ic">📚</div><div class="t"><b>${s}</b><p>${n} questions</p></div><span class="go">▸</span></div>`).join('')||'<div class="row"><div class="t"><span class="muted">Open from the live link to load subjects.</span></div></div>';el.querySelectorAll('.row[data-sub]').forEach(r=>r.onclick=()=>startSubject(r.getAttribute('data-sub')));}
+  function startFromPool(pool,name,mins,part){if(!pool.length){alert('Questions still loading — open from the live link and try again in a moment.');return;}TEST={token:'2026-08-18_c4',part:part||name,name};N=pool.length;MIN=mins||Math.max(10,N);Q=pool.map(q=>({stem:q.stem||q.stem,opts:q.opts||q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,n:q.n,ans:null,marked:false}));beginFlow(name);}
+  function startSubject(subject,limit,mins){let pool=ALLQ.filter(q=>q.subject===subject);if(limit)pool=pool.slice(0,limit);startFromPool(pool,(limit?'Today · ':'')+subject+(limit?'':' · QBank'),mins,subject);}
+  function startCustom(){const pool=ALLQ.slice().sort(()=>Math.random()-0.5).slice(0,25);startFromPool(pool,'Custom · 25 mixed',25,'custom');}
+  // ---- mistakes (browser-persisted; the coach loop) ----
+  function getMistakes(){try{return JSON.parse(localStorage.getItem('fmge_mistakes')||'[]');}catch(e){return[];}}
+  function saveMistakes(a){localStorage.setItem('fmge_mistakes',JSON.stringify(a.slice(-200)));}
+  function recordWrong(list){const seen=new Set(getMistakes().map(m=>m.stem));const add=list.filter(m=>!seen.has(m.stem));if(add.length){saveMistakes(getMistakes().concat(add));}refreshMistakeCounts();}
+  function refreshMistakeCounts(){const n=getMistakes().length;const t1=n?(n+' concepts to revise'):'Take a test — wrong answers collect here';['mrev1','mrevCount'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=t1;});const p=document.getElementById('pfMist');if(p)p.textContent=n;const m2=document.getElementById('mrev2');if(m2)m2.textContent=n?(n+' concepts saved'):'Re-test what you got wrong';}
+  function startMistakes(){const m=getMistakes();if(!m.length){alert('No mistakes yet — take a test and your wrong answers collect here automatically, so you can re-test them.');return;}startFromPool(m.map(q=>Object.assign({},q)),'Mistakes & revision',Math.max(10,m.length),'revise');}
   function quitTest(){document.getElementById('flow-test').classList.remove('active');stopTimer();}
   function renderQ(){const q=Q[cur];document.getElementById('qnum').textContent='Q'+(cur+1);document.getElementById('stem').textContent=q.stem;document.getElementById('prog').textContent=`Q${cur+1} of ${N}`;document.getElementById('navPill').textContent='▦ '+(cur+1)+'/'+N;const box=document.getElementById('opts');box.innerHTML='';['A','B','C','D'].forEach((k,i)=>{const d=document.createElement('div');d.className='opt'+(q.ans===i?' sel':'');d.style.cursor='pointer';d.innerHTML=`<span class="k">${k}</span> ${q.opts[i]}`;d.onclick=()=>{q.ans=i;renderQ();};box.appendChild(d);});const m=document.getElementById('markBtn');m.textContent=q.marked?'★ Marked':'★ Mark';m.style.color=q.marked?'var(--amber)':'';document.getElementById('nextBtn').textContent=cur===N-1?'Submit ✓':'Next ▸';}
   function qnav(d){cur=Math.max(0,Math.min(N-1,cur+d));renderQ();}
@@ -342,6 +374,7 @@
     const bars=Object.entries(bySub).map(([s,o])=>({s,p:Math.round(100*o.c/o.t)})).sort((a,b)=>a.p-b.p).slice(0,10);
     document.getElementById('resBars').innerHTML=bars.map(b=>`<div class="bar"><span class="name">${b.s}</span><span class="track"><span class="fill" style="width:${b.p}%;background:${b.p<50?'var(--red)':b.p<70?'var(--amber)':'var(--green)'}"></span></span><span class="pct">${b.p}%</span></div>`).join('')||'<div class="muted" style="padding:8px">—</div>';
     document.getElementById('resReview').innerHTML=wrong.length?wrong.slice(0,50).map(w=>`<div class="row" onclick="openSolFor(${w.i})"><div class="t"><b>✗ Q${w.i+1} · ${w.q.subject}</b><p>You ${w.q.ans==null?'—':'ABCD'[w.q.ans]} · Correct ${'ABCD'[w.q.correct]}</p></div><span class="go">See ›</span></div>`).join(''):'<div class="row"><div class="t"><b>No wrong answers 🎉</b></div></div>';
+    recordWrong(wrong.map(w=>({stem:w.q.stem,opts:w.q.opts,correct:w.q.correct,subject:w.q.subject,topic:w.q.topic,concept:w.q.concept,reference:w.q.reference,difficulty:w.q.difficulty,n:w.q.n})));
     document.getElementById('flow-test').classList.remove('active');document.getElementById('flow-results').classList.add('active');}
   function closeResults(){document.getElementById('flow-results').classList.remove('active');}
   function renderSol(q){
