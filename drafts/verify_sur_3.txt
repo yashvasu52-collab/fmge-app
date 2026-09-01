@@ -1,0 +1,44 @@
+Q_SUR_HED_011 | del | duplicate covering the middle meningeal artery source of Q_SUR_HED_001 and the lucid interval of Q_SUR_HED_003. Both of those are retained
+Q_SUR_HED_016 | del | duplicate of Q_SUR_HED_008, whose key already gives the relatively normal initial computed tomogram and the petechial grey-white junction haemorrhages. The first item is retained
+Q_SUR_LIV_008 | del | duplicate of Q_SUR_LIV_011, which names the same three vaccines and additionally the two week lead time. The fuller item is retained
+Q_SUR_LIV_012 | del | duplicate of Q_SUR_LIV_005, whose key already gives the solitary right lobe amoebic abscess. The first item is retained
+Q_SUR_LIV_013 | del | duplicate of Q_SUR_LIV_006 on the anaphylaxis and dissemination risk of aspirating a hydatid cyst. The first item is retained
+Q_SUR_GP_005 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. The Pancreas | a pancreatitis severity item cited the gallbladder and bile ducts chapter
+Q_SUR_GP_006 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. The Pancreas | a pancreatic pseudocyst item cited the gallbladder and bile ducts chapter
+Q_SUR_LIV_003 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. Liver; KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Antihypertensives | the reference gave both books in short form with no chapter for either
+Q_SUR_GP_004 | ok |
+Q_SUR_GP_007 | ok |
+Q_SUR_GP_008 | ok |
+Q_SUR_HED_001 | ok |
+Q_SUR_HED_002 | ok |
+Q_SUR_HED_003 | ok |
+Q_SUR_HED_004 | ok |
+Q_SUR_HED_005 | ok |
+Q_SUR_HED_006 | ok |
+Q_SUR_HED_008 | ok |
+Q_SUR_HED_009 | ok |
+Q_SUR_HED_010 | ok |
+Q_SUR_HED_012 | ok |
+Q_SUR_HED_013 | ok |
+Q_SUR_HED_015 | ok |
+Q_SUR_LIV_001 | ok |
+Q_SUR_LIV_002 | ok |
+Q_SUR_LIV_004 | ok |
+Q_SUR_LIV_005 | ok |
+Q_SUR_LIV_006 | ok |
+Q_SUR_LIV_007 | ok |
+Q_SUR_LIV_009 | ok |
+Q_SUR_LIV_010 | ok |
+Q_SUR_LIV_011 | ok |
+Q_SUR_LIV_014 | ok |
+Q_SUR_LIV_016 | ok |
+Q_SUR_OES_001 | ok |
+Q_SUR_OES_002 | ok |
+Q_SUR_OES_003 | ok |
+Q_SUR_OES_004 | ok |
+Q_SUR_OES_005 | ok |
+Q_SUR_OES_006 | ok |
+Q_SUR_OES_007 | ok |
+Q_SUR_OES_008 | ok |
+Q_SUR_OES_009 | ok |
+Q_SUR_OES_010 | ok |

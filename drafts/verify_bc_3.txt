@@ -1,0 +1,46 @@
+Q_h3d_015 | del | duplicate of Q_PYQ_FMGE_2025JULP2_028 on classic galactosaemia from galactose-1-phosphate uridyltransferase deficiency. The real exam recall is retained
+Q_BC_HAE_005 | del | duplicate of Q_BC_HAE_017, which gives the same lipid solubility and albumin binding of unconjugated bilirubin and additionally why it causes kernicterus, with the urine finding already in Q_BC_HAE_007. Both of those are retained
+Q_BC_IEM_004 | del | duplicate of Q_PYQ_FMGE_2025JULP2_047 on ornithine transcarbamylase deficiency with hyperammonaemia and orotic aciduria. The real exam recall is retained
+Q_BC_CAN_007 | del | duplicate of Q_PYQ_INICET_2025MAY_004 on the Warburg effect of aerobic glycolysis in tumour cells. The real exam recall is retained
+Q_h3d_014 | del | duplicate of Q_BC_IEM_002, which gives the same cystathionine beta-synthase deficiency and additionally its pyridoxine responsiveness, and sits in the inborn errors topic. The fuller item is retained
+Q_A_031 | ref=Lippincott Illustrated Reviews: Biochemistry 8e, Ch. Amino Acid Degradation and Synthesis | the reference named the book with no chapter
+Q_h3d_016 | ref=Lippincott Illustrated Reviews: Biochemistry 8e, Ch. Nucleotide Metabolism | the reference named the book with no chapter
+Q_PYQ_FMGE_2025JANP1_055 | stem=Which glycosaminoglycan accumulates in Natowicz disease, the mucopolysaccharidosis caused by hyaluronidase deficiency?;;ref=FMGE January 2025 Part 1 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Chemistry of Carbohydrates | the stem asked which substance was "deficient" when the keyed answer is the glycosaminoglycan that accumulates; the deficient molecule is the enzyme hyaluronidase
+Q_BC_GEN_013 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_GEN_014 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_GEN_015 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_GEN_016 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_GEN_017 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_GEN_018 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_HAE_001 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_002 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_003 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_004 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_006 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_007 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_008 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_009 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_BC_HAE_010 | ref=Harper's Illustrated Biochemistry 32e, Ch. Porphyrins and Bile Pigments | the chapter was cited as "Porphyrins", an incomplete chapter title
+Q_PYQ_FMGE_2024JUN_004 | ref=FMGE June 2024 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Detoxification and Biotransformation | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_054 | ref=FMGE January 2025 Part 1 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Gluconeogenesis and the Control of Blood Glucose | exam-paper-only reference given a study source
+Q_PYQ_INICET_2025MAY_004 | ref=INI-CET May 2025 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_012 | ref=FMGE January 2025 Part 1 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Metabolism of Carbohydrates | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_053 | ref=FMGE January 2025 Part 1 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Inborn Errors of Metabolism | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_028 | ref=FMGE July 2025 Part 2 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Inborn Errors of Metabolism | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_052 | ref=FMGE July 2025 Part 2 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Inborn Errors of Metabolism | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_018 | ref=FMGE January 2026 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. The Pentose Phosphate Pathway and Other Pathways of Hexose Metabolism | exam-paper-only reference given a study source
+Q_BC_HAE_011 | ok |
+Q_BC_HAE_012 | ok |
+Q_BC_HAE_013 | ok |
+Q_BC_HAE_014 | ok |
+Q_BC_HAE_015 | ok |
+Q_BC_HAE_016 | ok |
+Q_BC_HAE_017 | ok |
+Q_BC_HAE_018 | ok |
+Q_BC_IEM_002 | ok |
+Q_BC_INT_001 | ok |
+Q_BC_INT_002 | ok |
+Q_BC_INT_003 | ok |
+Q_BC_INT_004 | ok |
+Q_BC_INT_005 | ok |
+Q_BC_INT_006 | ok |

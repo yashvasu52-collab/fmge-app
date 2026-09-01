@@ -1,0 +1,36 @@
+Q_DE_ECZ_008 | del | duplicate of Q_h3a_029, which covers the same hereditary angio-oedema from C1 esterase inhibitor deficiency and adds the low C4 and ACE-inhibitor trigger. The complement item is retained
+Q_PYQ_FMGE_2025JANP1_044 | del | duplicate of Q_PYQ_FMGE_2024JAN_007 on chancroid presenting as painful genital ulcers with tender lymphadenopathy. The first item is retained
+Q_PYQ_FMGE_2025JANP1_129 | del | third question in this topic keying chancroid, alongside Q_PYQ_FMGE_2024JAN_007 which is retained
+Q_PYQ_FMGE_2025JULP2_096 | del | duplicate of Q_PYQ_FMGE_2025JANP2_031 on a Tzanck smear showing multinucleated giant cells indicating herpes simplex. The first item is retained
+Q_PYQ_FMGE_2025JULP1_067 | del | duplicate of Q_DE_INF_007 on umbilicated pearly papules of molluscum contagiosum. The infections item is retained
+Q_h3d_038 | del | duplicate of Q_DE_DRG_003 on stopping the culprit drug as the key step in toxic epidermal necrolysis, which sits alongside Q_DE_DRG_001 and Q_DE_DRG_002 covering the body-surface-area definition and the implicated drugs. The systematic set is retained
+Q_PYQ_FMGE_2025JULP1_070 | stem=A patient with borderline tuberculoid leprosy develops a type 1 (reversal) reaction with a visibly thickened nerve in the neck. Which immunological mechanism underlies the reaction, and which nerve is enlarged?;;opt0=Type IV delayed cell-mediated hypersensitivity, with the greater auricular nerve enlarged;;opt1=Type I immediate IgE-mediated hypersensitivity, with the greater auricular nerve enlarged;;opt2=Type III immune-complex hypersensitivity, with the anterior auricular nerve enlarged;;opt3=Type II antibody-mediated cytotoxicity, with the great auricular nerve enlarged;;key=0;;concept=A reversal reaction is a cell-mediated upgrading response, so it is a type IV hypersensitivity, whereas erythema nodosum leprosum (type 2 reaction) is immune-complex mediated and therefore type III. The nomenclature clash between "type 1 reaction" and "type IV hypersensitivity" is the trap.;;ref=Neena Khanna Illustrated Synopsis of Dermatology 6e, Ch. Leprosy | the item conflated two numbering systems: the options offered "Type 1" through "Type 4" without stating whether these were leprosy reaction types or Gell and Coombs hypersensitivity types, and a type 1 reversal reaction IS a type IV hypersensitivity, so two options were arguably correct. Rewritten to name both systems explicitly; exam-paper-only reference replaced
+Q_PYQ_INICET_2025MAY_033 | stem=A man has a painless indurated genital ulcer with rubbery inguinal lymphadenopathy 4 weeks after unprotected intercourse. Which investigation confirms the diagnosis?;;ref=Neena Khanna Illustrated Synopsis of Dermatology 6e, Ch. Sexually Transmitted Infections | the stem gave only "lesions and a history of unprotected sexual intercourse a few months ago", which does not point to any one diagnosis or investigation. The characteristic painless indurated chancre with rubbery nodes added; exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JANP1_058 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Leprosy (WHO multidrug therapy) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JUN_008 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Leprosy (treatment in pregnancy) | reference cited only the exam paper; a study source added
+Q_h3d_039 | ref=Neena Khanna Illustrated Synopsis of Dermatology 6e, Ch. Leprosy | the reference chapter simply repeated the book title and named no chapter
+Q_PYQ_FMGE_2024JAN_007 | ref=Neena Khanna Illustrated Synopsis of Dermatology 6e, Ch. Sexually Transmitted Infections | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP2_031 | ref=Neena Khanna Illustrated Synopsis of Dermatology 6e, Ch. Viral Infections | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JUN_007 | ref=Neena Khanna Illustrated Synopsis of Dermatology 6e, Ch. Sexually Transmitted Infections (lymphogranuloma venereum) | reference cited only the exam paper; a study source added
+Q_DE_ECZ_009 | ok |
+Q_DE_ECZ_010 | ok |
+Q_DE_PIG_001 | ok |
+Q_DE_PIG_002 | ok |
+Q_DE_PIG_003 | ok |
+Q_DE_PIG_004 | ok |
+Q_DE_PIG_005 | ok |
+Q_DE_PIG_006 | ok |
+Q_DE_PIG_007 | ok |
+Q_DE_PIG_008 | ok |
+Q_DE_PIG_009 | ok |
+Q_DE_PIG_010 | ok |
+Q_DE_STR_001 | ok |
+Q_DE_STR_002 | ok |
+Q_DE_STR_003 | ok |
+Q_DE_STR_004 | ok |
+Q_DE_STR_005 | ok |
+Q_DE_STR_006 | ok |
+Q_DE_STR_007 | ok |
+Q_DE_STR_008 | ok |
+Q_DE_STR_009 | ok |
+Q_DE_STR_010 | ok |

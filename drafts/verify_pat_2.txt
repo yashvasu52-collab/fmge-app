@@ -1,0 +1,44 @@
+Q_PAT_CAR_012 | del | duplicate of Q_PAT_CAR_004 on hepatitis virus infection causing hepatocellular carcinoma, and the retained item also names hepatitis C
+Q_PAT_CAR_015 | del | duplicate of Q_PAT_CAR_006 on the Warburg effect of aerobic glycolysis. The first item is retained
+Q_PAT_CYT_011 | del | duplicate of Q_PAT_CYT_005 on cytokeratin indicating epithelial origin. The first item is retained
+Q_PAT_CYT_016 | del | duplicate of Q_PAT_CYT_009 on fluorescence in situ hybridisation detecting translocations and amplification. The first item is retained
+Q_PAT_CAR_004 | ok |
+Q_PAT_CAR_006 | ok |
+Q_PAT_CAR_007 | ok |
+Q_PAT_CAR_008 | ok |
+Q_PAT_CAR_009 | ok |
+Q_PAT_CAR_010 | ok |
+Q_PAT_CAR_011 | ok |
+Q_PAT_CAR_013 | ok |
+Q_PAT_CAR_014 | ok |
+Q_PAT_CAR_016 | ok |
+Q_PAT_CAR_017 | ok |
+Q_PAT_CIA_001 | ok |
+Q_PAT_CIA_002 | ok |
+Q_PAT_CIA_003 | ok |
+Q_PAT_CIA_005 | ok |
+Q_PAT_CIA_006 | ok |
+Q_PAT_CIA_007 | ok |
+Q_PAT_CIA_008 | ok |
+Q_PAT_CYT_001 | ok |
+Q_PAT_CYT_002 | ok |
+Q_PAT_CYT_003 | ok |
+Q_PAT_CYT_004 | ok |
+Q_PAT_CYT_005 | ok |
+Q_PAT_CYT_006 | ok |
+Q_PAT_CYT_007 | ok |
+Q_PAT_CYT_008 | ok |
+Q_PAT_CYT_009 | ok |
+Q_PAT_CYT_010 | ok |
+Q_PAT_CYT_012 | ok |
+Q_PAT_CYT_014 | ok |
+Q_PAT_CYT_015 | ok |
+Q_PAT_CYT_017 | ok |
+Q_PAT_ENP_001 | ok |
+Q_PAT_ENP_002 | ok |
+Q_PAT_ENP_003 | ok |
+Q_PAT_ENP_004 | ok |
+Q_PAT_ENP_005 | ok |
+Q_PAT_ENP_006 | ok |
+Q_PAT_ENP_007 | ok |
+Q_PAT_ENP_008 | ok |

@@ -1,0 +1,44 @@
+Q_OBG_GTD_003 | del | duplicate of Q_OBG_GTD_011, which gives the same suction evacuation and additionally the timing of oxytocin. The fuller item is retained
+Q_OBG_GTD_006 | del | duplicate of Q_OBG_GTD_017, which describes the same lichen sclerosus and additionally its treatment. The fuller item is retained
+Q_OBG_IND_011 | del | duplicate of Q_OBG_IND_003, whose key already names the classical caesarean scar as an absolute contraindication to induction. The first item is retained
+Q_OBG_IND_005 | del | duplicate of Q_OBG_IND_015 on cephalhaematoma being commoner after vacuum than forceps. The later item, which also names subgaleal haemorrhage, is retained
+Q_OBG_IND_008 | del | duplicate of Q_OBG_IND_014, which applies the same management of hyperstimulation to a case. The vignette is retained
+Q_OBG_INF_001 | del | duplicate of Q_OBG_INF_011, which covers the same postnatal anti-D within 72 hours and additionally the routine antenatal dose. The fuller item is retained
+Q_OBG_GTD_017 | ref=Shaw's Textbook of Gynaecology 17e, Ch. Vulval Disorders | a vulval lesion was cited to the gestational trophoblastic disease chapter
+Q_OBG_INF_006 | ref=NACO National Guidelines for Prevention of Parent to Child Transmission of HIV 2017; Park's Textbook of Preventive and Social Medicine 27e, Ch. AIDS | the reference read "NACO PPTCT Guidelines" with no title, year or supporting textbook
+Q_OBG_PID_019 | ok |
+Q_OBG_GTD_001 | ok |
+Q_OBG_GTD_002 | ok |
+Q_OBG_GTD_004 | ok |
+Q_OBG_GTD_007 | ok |
+Q_OBG_GTD_008 | ok |
+Q_OBG_GTD_009 | ok |
+Q_OBG_GTD_010 | ok |
+Q_OBG_GTD_011 | ok |
+Q_OBG_GTD_013 | ok |
+Q_OBG_GTD_014 | ok |
+Q_OBG_GTD_016 | ok |
+Q_OBG_GTD_018 | ok |
+Q_OBG_GTD_019 | ok |
+Q_OBG_IND_002 | ok |
+Q_OBG_IND_003 | ok |
+Q_OBG_IND_004 | ok |
+Q_OBG_IND_006 | ok |
+Q_OBG_IND_007 | ok |
+Q_OBG_IND_009 | ok |
+Q_OBG_IND_010 | ok |
+Q_OBG_IND_013 | ok |
+Q_OBG_IND_014 | ok |
+Q_OBG_IND_015 | ok |
+Q_OBG_IND_016 | ok |
+Q_OBG_IND_017 | ok |
+Q_OBG_IND_018 | ok |
+Q_OBG_IND_019 | ok |
+Q_OBG_INF_003 | ok |
+Q_OBG_INF_004 | ok |
+Q_OBG_INF_005 | ok |
+Q_OBG_INF_007 | ok |
+Q_OBG_INF_008 | ok |
+Q_OBG_INF_009 | ok |
+Q_OBG_INF_010 | ok |
+Q_OBG_INF_011 | ok |

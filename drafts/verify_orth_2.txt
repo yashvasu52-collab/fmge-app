@@ -1,0 +1,34 @@
+Q_PYQ_FMGE_2025JULP1_140 | del | duplicate of Q_OR_FRC_003, which covers the same fat embolism syndrome after long bone fracture with its timing and triad. This item was also the weaker of the two, offering only "X-ray findings are suggestive" and a raised D-dimer, which is non-specific
+Q_OR_UL_004 | del | duplicate of Q_h3d_025, which covers the same anatomical snuffbox tenderness and radiographically occult scaphoid fracture and additionally asks why immobilisation and re-imaging are needed. The fuller item is retained
+Q_PYQ_FMGE_2025JULP1_136 | stem=A child has a chronic painful lesion in the proximal tibial metaphysis. Radiograph shows a well-defined lytic cavity surrounded by dense reactive sclerosis, and there is no systemic upset. What is the most likely diagnosis?;;ref=Maheshwari Essential Orthopaedics 6e, Ch. Infections of Bones and Joints | the stem gave only "a ring-shaped (lytic) lesion in the bone", which does not distinguish the keyed answer from osteoid osteoma or a simple bone cyst, both of which were offered. Site, sclerotic rim and absence of systemic upset added, and the exam-paper-only reference replaced
+Q_h3d_026 | topic=Arthritis, avascular necrosis & joint replacement | misfiled: acute septic arthritis of the hip in a child sat under "Osteomyelitis & TB spine". Refiled to the topic covering joint disease
+Q_PYQ_FMGE_2024JAN_019 | ref=Maheshwari Essential Orthopaedics 6e, Ch. Lower Limb Injuries | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_072 | topic=Upper limb injuries: shoulder, humerus, elbow, wrist;;ref=Maheshwari Essential Orthopaedics 6e, Ch. Upper Limb Injuries | misfiled: a shoulder dislocation sat under "Specific fractures (Colles, NOF, supracondylar) & healing", which is a fracture topic. Refiled, and the exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JULP1_135 | ref=Maheshwari Essential Orthopaedics 6e, Ch. Lower Limb Injuries (femoral neck fractures) | reference cited only the exam paper; a study source added
+Q_OR_UL_003 | topic=Specific fractures (Colles, NOF, supracondylar) & healing | misfiled: the Colles fracture is named explicitly in the specific-fractures topic but sat under general upper limb injuries
+Q_OR_UL_006 | topic=Specific fractures (Colles, NOF, supracondylar) & healing | misfiled: the supracondylar fracture is named explicitly in the specific-fractures topic but sat under general upper limb injuries
+Q_OR_NRV_004 | ok |
+Q_OR_NRV_005 | ok |
+Q_OR_NRV_006 | ok |
+Q_OR_NRV_007 | ok |
+Q_OR_NRV_008 | ok |
+Q_OR_NRV_009 | ok |
+Q_OR_NRV_010 | ok |
+Q_OR_SPN_001 | ok |
+Q_OR_SPN_002 | ok |
+Q_OR_SPN_003 | ok |
+Q_OR_SPN_004 | ok |
+Q_OR_SPN_005 | ok |
+Q_OR_SPN_006 | ok |
+Q_OR_SPN_007 | ok |
+Q_OR_SPN_008 | ok |
+Q_OR_SPN_009 | ok |
+Q_OR_SPN_010 | ok |
+Q_OR_UL_001 | ok |
+Q_OR_UL_002 | ok |
+Q_OR_UL_005 | ok |
+Q_OR_UL_007 | ok |
+Q_OR_UL_008 | ok |
+Q_OR_UL_009 | ok |
+Q_OR_UL_010 | ok |
+Q_h3d_025 | ok |

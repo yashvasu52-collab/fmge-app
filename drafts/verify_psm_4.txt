@@ -1,0 +1,44 @@
+Q_PSM_INT_016 | del | duplicate of Q_PSM_INT_004 on the International Health Regulations requiring notification of a public health emergency of international concern. The first item is retained
+Q_PSM_INT_015 | del | duplicate of Q_PSM_INT_006 on the red triage category denoting immediate life-saving need. The first item is retained
+Q_PSM_INT_009 | del | duplicate of Q_PSM_HCD_017, which tests the same Alma-Ata principles through the ASHA programme. The applied item is retained
+Q_PSM_MAT_011 | del | duplicate of Q_PSM_MAT_001 on four antenatal visits with the first in the first trimester. The first item is retained
+Q_PSM_MAT_006 | del | duplicate of Q_PSM_NIS_005 on two doses of tetanus toxoid four weeks apart in pregnancy. The item in the immunisation topic is retained
+Q_PSM_NIS_002 | del | duplicate of Q_PSM_CHI_005, whose key already gives the second measles-rubella dose at 16 to 24 months. The fuller item is retained
+Q_PSM_INT_002 | ok |
+Q_PSM_INT_003 | ok |
+Q_PSM_INT_004 | ok |
+Q_PSM_INT_005 | ok |
+Q_PSM_INT_006 | ok |
+Q_PSM_INT_007 | ok |
+Q_PSM_INT_008 | ok |
+Q_PSM_INT_010 | ok |
+Q_PSM_INT_012 | ok |
+Q_PSM_INT_013 | ok |
+Q_PSM_INT_014 | ok |
+Q_PSM_INT_017 | ok |
+Q_PSM_MAT_001 | ok |
+Q_PSM_MAT_003 | ok |
+Q_PSM_MAT_004 | ok |
+Q_PSM_MAT_005 | ok |
+Q_PSM_MAT_007 | ok |
+Q_PSM_MAT_008 | ok |
+Q_PSM_MAT_009 | ok |
+Q_PSM_MAT_010 | ok |
+Q_PSM_MAT_014 | ok |
+Q_PSM_MAT_015 | ok |
+Q_PSM_MAT_016 | ok |
+Q_PSM_MAT_017 | ok |
+Q_PSM_NHP_001 | ok |
+Q_PSM_NIS_001 | ok |
+Q_PSM_NIS_003 | ok |
+Q_PSM_NIS_004 | ok |
+Q_PSM_NIS_005 | ok |
+Q_PSM_NIS_006 | ok |
+Q_PSM_NIS_007 | ok |
+Q_PSM_NCD_001 | ok |
+Q_PSM_NCD_002 | ok |
+Q_PSM_NCD_003 | ok |
+Q_PSM_NCD_005 | ok |
+Q_PSM_NCD_006 | ok |
+Q_PSM_NCD_007 | ok |
+Q_PSM_NCD_008 | ok |

@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_SUR_NEK_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "E",
+   "stem": "A cystic hygroma in an infant is:",
+   "options": [
+    "A lymphatic malformation, usually in the posterior triangle, that brilliantly transilluminates",
+    "A vascular tumour",
+    "A branchial cyst",
+    "A thyroid swelling"
+   ],
+   "correct": 0,
+   "concept": "Cystic hygroma is a macrocystic lymphatic malformation presenting at or soon after birth in the posterior triangle, soft, compressible and brilliantly transilluminant. Sclerotherapy with bleomycin or OK-432 is often preferred to excision.",
+   "reference": "Bailey & Love 28e, Neck Swellings",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "M",
+   "stem": "A cold nodule on thyroid scintigraphy is significant because:",
+   "options": [
+    "It carries a higher risk of malignancy than a hot nodule",
+    "It is always malignant",
+    "It is always benign",
+    "It indicates thyrotoxicosis"
+   ],
+   "correct": 0,
+   "concept": "About 15 to 20% of cold nodules are malignant compared with under 1% of hot nodules, but scintigraphy has largely been replaced by ultrasound with fine needle aspiration cytology as the primary investigation.",
+   "reference": "Bailey & Love 28e, Thyroid",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "M",
+   "stem": "The commonest thyroid malignancy is:",
+   "options": [
+    "Papillary carcinoma",
+    "Follicular carcinoma",
+    "Medullary carcinoma",
+    "Anaplastic carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Papillary carcinoma accounts for about 70 to 80%, spreads by lymphatics, shows Orphan Annie nuclei and psammoma bodies, and has an excellent prognosis. Follicular carcinoma spreads haematogenously and cannot be diagnosed on cytology alone.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "E",
+   "stem": "Medullary carcinoma of the thyroid arises from and secretes:",
+   "options": [
+    "Parafollicular C cells, secreting calcitonin",
+    "Follicular cells, secreting thyroxine",
+    "Parathyroid cells, secreting PTH",
+    "Lymphocytes"
+   ],
+   "correct": 0,
+   "concept": "Medullary carcinoma arises from neural crest derived C cells with amyloid stroma and raised calcitonin used for diagnosis and follow-up. It occurs in MEN 2A and 2B with RET mutations, warranting family screening.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "M",
+   "stem": "A ranula is:",
+   "options": [
+    "A mucous retention cyst in the floor of the mouth arising from the sublingual gland",
+    "A parotid tumour",
+    "A thyroglossal cyst",
+    "A dermoid cyst of the neck"
+   ],
+   "correct": 0,
+   "concept": "A ranula is a bluish translucent swelling in the floor of the mouth; a plunging ranula extends through mylohyoid into the neck. Excision of the sublingual gland with the cyst prevents recurrence.",
+   "reference": "Bailey & Love 28e, Salivary Glands",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "M",
+   "stem": "The commonest cause of a lateral neck swelling in an adult over 40 years is:",
+   "options": [
+    "Metastatic lymph node from a head and neck primary",
+    "Branchial cyst",
+    "Lipoma",
+    "Thyroglossal cyst"
+   ],
+   "correct": 0,
+   "concept": "A cervical node in an adult over 40 is metastatic malignancy until proven otherwise, needing panendoscopy to find the primary. FNAC is acceptable, but open biopsy is avoided as it compromises later neck dissection.",
+   "reference": "Bailey & Love 28e, Neck Swellings",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "E",
+   "stem": "The commonest cause of a solitary thyroid nodule is:",
+   "options": [
+    "A dominant nodule in a multinodular goitre or a benign colloid nodule",
+    "Papillary carcinoma",
+    "Lymphoma",
+    "Thyroiditis"
+   ],
+   "correct": 0,
+   "concept": "Most clinically solitary nodules are benign colloid nodules or a dominant nodule within an unrecognised multinodular gland. Ultrasound with FNAC reported by the Bethesda system guides management.",
+   "reference": "Bailey & Love 28e, Thyroid",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "H",
+   "stem": "Sialography is contraindicated in:",
+   "options": [
+    "Acute salivary gland infection",
+    "Chronic sialadenitis",
+    "Sialolithiasis",
+    "Sjogren syndrome"
+   ],
+   "correct": 0,
+   "concept": "Injecting contrast retrogradely during acute infection can force organisms into the parenchyma and worsen sepsis. It is also of limited value where ultrasound and MR sialography are available.",
+   "reference": "Bailey & Love 28e, Salivary Glands",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "H",
+   "stem": "The most important prognostic factor in oral cavity squamous carcinoma is:",
+   "options": [
+    "Presence and extent of cervical lymph node metastasis",
+    "Tumour site",
+    "Patient age",
+    "Degree of pain"
+   ],
+   "correct": 0,
+   "concept": "Nodal metastasis roughly halves survival, and extracapsular spread worsens it further. Depth of invasion predicts occult nodal disease, which is why elective neck dissection is offered even for clinically node-negative necks with deep tumours.",
+   "reference": "Bailey & Love 28e, Oral Cavity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_NEK_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Salivary glands, neck swellings & oral cavity carcinoma",
+   "difficulty": "M",
+   "stem": "A dermoid cyst in the neck differs from a thyroglossal cyst in that it:",
+   "options": [
+    "Does not move on tongue protrusion or swallowing",
+    "Moves on tongue protrusion",
+    "Is always infected",
+    "Transilluminates"
+   ],
+   "correct": 0,
+   "concept": "A midline dermoid arises from inclusion of ectoderm along fusion lines and has no attachment to the hyoid or tongue base, so it does not move with tongue protrusion - the key clinical discriminator.",
+   "reference": "Bailey & Love 28e, Neck Swellings",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "E",
+   "stem": "The metabolic abnormality in infantile hypertrophic pyloric stenosis is:",
+   "options": [
+    "Hypochloraemic hypokalaemic metabolic alkalosis",
+    "Metabolic acidosis",
+    "Respiratory alkalosis",
+    "Hyperchloraemic acidosis"
+   ],
+   "correct": 0,
+   "concept": "Persistent vomiting of gastric contents loses hydrogen and chloride, producing alkalosis with paradoxical aciduria. Surgery is deferred until this is corrected with normal saline and potassium, as anaesthesia in alkalosis risks apnoea.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "M",
+   "stem": "The definitive treatment of infantile hypertrophic pyloric stenosis is:",
+   "options": [
+    "Ramstedt pyloromyotomy after metabolic correction",
+    "Immediate gastrectomy",
+    "Balloon dilatation",
+    "Long-term antiemetics"
+   ],
+   "correct": 0,
+   "concept": "Ramstedt extramucosal pyloromyotomy splits the hypertrophied muscle down to but not through the mucosa. It is never an emergency operation - fluid and electrolyte correction always comes first.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "M",
+   "stem": "The investigation of choice for suspected intussusception is:",
+   "options": [
+    "Ultrasound showing a target or doughnut sign",
+    "Plain radiograph",
+    "CT abdomen",
+    "Barium meal"
+   ],
+   "correct": 0,
+   "concept": "Ultrasound is sensitive, safe and avoids radiation, showing a target sign on transverse and pseudokidney on longitudinal section. Pneumatic or hydrostatic reduction under imaging guidance is then both diagnostic and therapeutic.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "E",
+   "stem": "A contraindication to hydrostatic or pneumatic reduction of intussusception is:",
+   "options": [
+    "Peritonitis, perforation or haemodynamic instability",
+    "Age under one year",
+    "Duration under 12 hours",
+    "Redcurrant jelly stool"
+   ],
+   "correct": 0,
+   "concept": "Signs of peritonitis, free perforation or shock mandate resuscitation and surgery. Reduction is otherwise attempted first, with a recurrence rate of about 10% and a success rate around 80 to 90%.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "M",
+   "stem": "In hypospadias, circumcision should be avoided because:",
+   "options": [
+    "The foreskin is required for later reconstructive urethroplasty",
+    "It causes bleeding",
+    "It worsens chordee",
+    "It is contraindicated in children"
+   ],
+   "correct": 0,
+   "concept": "The preputial skin provides the best tissue for urethral reconstruction, so circumcision must be deferred until repair. Surgery is usually performed between 6 and 18 months, correcting chordee, reconstructing the urethra and achieving cosmesis.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "M",
+   "stem": "An undescended testis should be surgically corrected by orchidopexy at:",
+   "options": [
+    "Six to eighteen months of age",
+    "Five years",
+    "Puberty",
+    "Any time before adulthood"
+   ],
+   "correct": 0,
+   "concept": "Early orchidopexy preserves fertility potential and allows examination for malignancy, though the increased risk of germ cell tumour is not abolished. Spontaneous descent is unlikely after six months of age.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "E",
+   "stem": "A congenital inguinal hernia in an infant results from:",
+   "options": [
+    "A patent processus vaginalis",
+    "Weak abdominal muscles",
+    "Raised intra-abdominal pressure alone",
+    "Direct wall defect"
+   ],
+   "correct": 0,
+   "concept": "Almost all paediatric inguinal hernias are indirect through a patent processus vaginalis, so herniotomy - simple ligation of the sac - suffices without any repair of the abdominal wall, unlike in adults.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "H",
+   "stem": "Bilious vomiting in a neonate must be considered as:",
+   "options": [
+    "Malrotation with midgut volvulus until proven otherwise, requiring urgent upper GI contrast study",
+    "Physiological reflux",
+    "Overfeeding",
+    "Pyloric stenosis"
+   ],
+   "correct": 0,
+   "concept": "Bilious vomiting in a neonate is a surgical emergency because midgut volvulus can infarct the entire small bowel within hours. An upper gastrointestinal contrast study showing an abnormally placed duodenojejunal flexure is diagnostic; Ladd procedure is the treatment.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "H",
+   "stem": "Exomphalos differs from gastroschisis in that:",
+   "options": [
+    "The herniated viscera are covered by a sac and associated anomalies are common",
+    "There is no sac",
+    "It is always to the right of the umbilicus",
+    "It has no associated anomalies"
+   ],
+   "correct": 0,
+   "concept": "Exomphalos (omphalocele) has a covering amnioperitoneal sac with the cord inserting on it, and is associated with cardiac, chromosomal and Beckwith-Wiedemann anomalies. Gastroschisis is a defect to the right of a normal cord with no sac and few associated anomalies.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_PDS_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+   "difficulty": "M",
+   "stem": "The commonest cause of intestinal obstruction in a child between 3 months and 2 years is:",
+   "options": [
+    "Intussusception",
+    "Adhesions",
+    "Hernia",
+    "Volvulus"
+   ],
+   "correct": 0,
+   "concept": "Ileocolic intussusception peaks in this age group, often triggered by lymphoid hyperplasia after a viral illness. In older children adhesions from previous surgery and obstructed hernias predominate.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "E",
+   "stem": "Centriacinar emphysema is most characteristically associated with:",
+   "options": [
+    "Cigarette smoking, affecting the upper lobes",
+    "Alpha-1 antitrypsin deficiency",
+    "Asthma",
+    "Bronchiectasis"
+   ],
+   "correct": 0,
+   "concept": "Smoking causes centriacinar emphysema predominantly in the upper lobes, while alpha-1 antitrypsin deficiency causes panacinar emphysema with lower lobe predominance in younger non-smokers, often with liver disease.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "M",
+   "stem": "Chronic bronchitis is defined clinically as:",
+   "options": [
+    "Productive cough for at least three months in two consecutive years",
+    "Cough for two weeks",
+    "Wheeze with reversible obstruction",
+    "Dyspnoea on exertion alone"
+   ],
+   "correct": 0,
+   "concept": "The definition is clinical, not pathological, and requires exclusion of other causes. The Reid index, the ratio of mucous gland to bronchial wall thickness, is increased above 0.4 pathologically.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "M",
+   "stem": "Which lung carcinoma is most strongly associated with smoking and central location with cavitation?",
+   "options": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Large cell carcinoma",
+    "Carcinoid"
+   ],
+   "correct": 0,
+   "concept": "Squamous carcinoma arises centrally from bronchial epithelium through squamous metaplasia and dysplasia, cavitates, and causes hypercalcaemia through parathyroid hormone-related peptide. Adenocarcinoma is peripheral and the commonest type in non-smokers and women.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "E",
+   "stem": "Small cell carcinoma of the lung is characteristically associated with:",
+   "options": [
+    "Paraneoplastic syndromes such as SIADH and Cushing syndrome, with early metastasis",
+    "Cavitation",
+    "Slow growth",
+    "Excellent surgical cure rates"
+   ],
+   "correct": 0,
+   "concept": "Small cell carcinoma is a neuroendocrine tumour with rapid growth and early dissemination, treated with chemotherapy and radiotherapy rather than surgery, and produces ADH, ACTH and Lambert-Eaton syndrome.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "M",
+   "stem": "Ferruginous bodies in lung tissue indicate exposure to:",
+   "options": [
+    "Asbestos",
+    "Silica",
+    "Coal dust",
+    "Cotton dust"
+   ],
+   "correct": 0,
+   "concept": "Asbestos fibres coated with iron and protein form golden-brown beaded ferruginous bodies. Asbestos causes pleural plaques, interstitial fibrosis, bronchogenic carcinoma and mesothelioma, with a multiplicative risk in smokers.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "M",
+   "stem": "Silicosis characteristically causes:",
+   "options": [
+    "Upper lobe nodular fibrosis with eggshell calcification of hilar nodes and increased tuberculosis risk",
+    "Lower lobe fibrosis",
+    "Pleural plaques",
+    "Reversible obstruction"
+   ],
+   "correct": 0,
+   "concept": "Crystalline silica is ingested by macrophages which release fibrogenic mediators, producing whorled collagenous nodules in the upper zones. Silica impairs macrophage function, markedly increasing susceptibility to tuberculosis.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "E",
+   "stem": "Caplan syndrome is the combination of:",
+   "options": [
+    "Rheumatoid arthritis with pneumoconiosis producing large nodules",
+    "Asthma with eosinophilia",
+    "Sarcoidosis with erythema nodosum",
+    "Asbestosis with mesothelioma"
+   ],
+   "correct": 0,
+   "concept": "Caplan syndrome describes rheumatoid pneumoconiosis, in which rheumatoid arthritis modifies the response to inhaled dust producing large well-defined peripheral nodules that may cavitate.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "H",
+   "stem": "Non-caseating granulomas in the lung with bilateral hilar lymphadenopathy and raised serum ACE suggest:",
+   "options": [
+    "Sarcoidosis",
+    "Tuberculosis",
+    "Silicosis",
+    "Hypersensitivity pneumonitis"
+   ],
+   "correct": 0,
+   "concept": "Sarcoidosis shows non-caseating epithelioid granulomas with Schaumann and asteroid bodies, bilateral hilar lymphadenopathy, hypercalcaemia from macrophage vitamin D activation and raised ACE. Caseation would indicate tuberculosis.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "H",
+   "stem": "Bronchiectasis is characterised pathologically by:",
+   "options": [
+    "Permanent dilatation of bronchi with destruction of muscle and elastic tissue from chronic infection",
+    "Reversible bronchial narrowing",
+    "Alveolar wall destruction",
+    "Pleural thickening"
+   ],
+   "correct": 0,
+   "concept": "Chronic necrotising infection with obstruction destroys the bronchial wall, causing irreversible dilatation with copious purulent sputum, haemoptysis and clubbing. Causes include post-infectious damage, cystic fibrosis, ciliary dyskinesia and ABPA.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_LNG_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+   "difficulty": "M",
+   "stem": "Diffuse alveolar damage with hyaline membranes is the histological hallmark of:",
+   "options": [
+    "Acute respiratory distress syndrome",
+    "Chronic bronchitis",
+    "Emphysema",
+    "Bronchial asthma"
+   ],
+   "correct": 0,
+   "concept": "ARDS shows diffuse alveolar damage with capillary leak, protein-rich exudate and hyaline membranes in the exudative phase, followed by proliferation and fibrosis, presenting with refractory hypoxaemia and bilateral infiltrates.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

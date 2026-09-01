@@ -1,0 +1,29 @@
+Q_OBG_PUE_009 | del | duplicate of Q_OBG_PUE_014, which applies the same continued feeding and antistaphylococcal treatment to a case of mastitis. The vignette is retained
+Q_OBG_PUE_010 | del | duplicate of Q_OBG_PUE_019 on distinguishing postpartum blues from postnatal depression, and its reference gave no chapter for either book. The fuller item is retained
+Q_OBG_PUE_013 | del | duplicate of Q_OBG_PUE_003 on oxytocin mediating milk ejection. The first item is retained
+Q_OBG_THI_008 | del | duplicate of Q_OBG_PH_006 on the B-Lynch brace suture for atonic haemorrhage. The first item is retained
+Q_OBG_THI_010 | del | duplicate of Q_OBG_PH_007 on retained products with endometritis causing secondary postpartum haemorrhage. The first item is retained
+Q_OBG_THI_007 | ref=WHO Recommendations for the Prevention and Treatment of Postpartum Haemorrhage 2012; DC Dutta's Textbook of Obstetrics 9e, Ch. Postpartum Haemorrhage | the reference read "WHO PPH Guidelines" with no title, year or supporting textbook
+Q_OBG_THI_009 | ref=WOMAN Trial, Lancet 2017; WHO Recommendations for the Prevention and Treatment of Postpartum Haemorrhage 2012; DC Dutta's Textbook of Obstetrics 9e, Ch. Postpartum Haemorrhage | the reference named the trial with no year or journal and the guideline with no title
+Q_OBG_PUE_005 | ok |
+Q_OBG_PUE_006 | ok |
+Q_OBG_PUE_007 | ok |
+Q_OBG_PUE_008 | ok |
+Q_OBG_PUE_012 | ok |
+Q_OBG_PUE_014 | ok |
+Q_OBG_PUE_015 | ok |
+Q_OBG_PUE_016 | ok |
+Q_OBG_PUE_017 | ok |
+Q_OBG_PUE_018 | ok |
+Q_OBG_PUE_019 | ok |
+Q_OBG_THI_002 | ok |
+Q_OBG_THI_004 | ok |
+Q_OBG_THI_005 | ok |
+Q_OBG_THI_012 | ok |
+Q_OBG_THI_013 | ok |
+Q_OBG_THI_014 | ok |
+Q_OBG_THI_015 | ok |
+Q_OBG_THI_016 | ok |
+Q_OBG_THI_017 | ok |
+Q_OBG_THI_018 | ok |
+Q_OBG_THI_019 | ok |

@@ -1,0 +1,44 @@
+Q_BC_INT_009 | del | duplicate of Q_PYQ_FMGE_2025JANP1_054 on ethanol raising the NADH to NAD ratio and blocking gluconeogenesis. The real exam recall is retained
+Q_BC_INT_014 | del | duplicate of Q_BC_INT_002, whose key already states that the liver cannot use ketone bodies for want of thiophorase. The first item is retained
+Q_BC_MIN_003 | del | duplicate of Q_BC_MIN_017, which asks the same question about the bicarbonate buffer and requires the open-system reason. The fuller item is retained
+Q_BC_NUC_003 | del | duplicate of Q_h3d_016 on Lesch-Nyhan syndrome from hypoxanthine-guanine phosphoribosyltransferase deficiency. The vignette is retained
+Q_A_024 | ref=Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Metabolism of Lipids | the reference named the book with no chapter
+Q_h3d_017 | ref=Harper's Illustrated Biochemistry 32e, Ch. Glycosaminoglycans and Sphingolipids | the reference named the book with no chapter
+Q_PYQ_FMGE_2025JULP2_024 | ref=FMGE July 2025 Part 2 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Lipid Transport and Storage | exam-paper-only reference given a study source
+Q_BC_MIN_001 | ref=Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Minerals and Acid-Base Balance | the chapter was cited as "Acid-Base", which is not a chapter in the book cited
+Q_BC_MIN_002 | ref=Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Minerals and Acid-Base Balance | the chapter was cited as "Acid-Base", which is not a chapter in the book cited
+Q_BC_MIN_009 | ref=Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Minerals and Acid-Base Balance | the chapter was cited as "Acid-Base", which is not a chapter in the book cited
+Q_BC_MIN_004 | ref=Harper's Illustrated Biochemistry 32e, Ch. Micronutrients: Vitamins and Minerals | the chapter was cited as "Minerals", an incomplete chapter title
+Q_BC_MIN_005 | ref=Harper's Illustrated Biochemistry 32e, Ch. Micronutrients: Vitamins and Minerals | the chapter was cited as "Minerals", an incomplete chapter title
+Q_BC_MIN_006 | ref=Harper's Illustrated Biochemistry 32e, Ch. Micronutrients: Vitamins and Minerals | the chapter was cited as "Minerals", an incomplete chapter title
+Q_BC_MIN_008 | ref=Harper's Illustrated Biochemistry 32e, Ch. Micronutrients: Vitamins and Minerals | the chapter was cited as "Minerals", an incomplete chapter title
+Q_BC_MIN_010 | ref=Harper's Illustrated Biochemistry 32e, Ch. Micronutrients: Vitamins and Minerals | the chapter was cited as "Minerals", an incomplete chapter title
+Q_BC_INT_007 | ok |
+Q_BC_INT_008 | ok |
+Q_BC_INT_010 | ok |
+Q_BC_INT_011 | ok |
+Q_BC_INT_012 | ok |
+Q_BC_INT_013 | ok |
+Q_BC_INT_015 | ok |
+Q_BC_INT_016 | ok |
+Q_BC_INT_018 | ok |
+Q_BC_MIN_007 | ok |
+Q_BC_MIN_011 | ok |
+Q_BC_MIN_012 | ok |
+Q_BC_MIN_013 | ok |
+Q_BC_MIN_014 | ok |
+Q_BC_MIN_015 | ok |
+Q_BC_MIN_016 | ok |
+Q_BC_MIN_017 | ok |
+Q_BC_MIN_018 | ok |
+Q_BC_NUC_001 | ok |
+Q_BC_NUC_002 | ok |
+Q_BC_NUC_005 | ok |
+Q_BC_NUC_006 | ok |
+Q_BC_NUC_007 | ok |
+Q_BC_NUC_008 | ok |
+Q_BC_NUC_009 | ok |
+Q_BC_NUC_010 | ok |
+Q_BC_NUC_011 | ok |
+Q_BC_NUC_012 | ok |
+Q_BC_NUC_013 | ok |

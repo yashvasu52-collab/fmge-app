@@ -1,0 +1,70 @@
+Q_PSM_OCC_003 | del | this item claimed engineering control at source is "the most important measure" to prevent occupational disease, which contradicts Q_PSM_OCC_016 in the same topic correctly placing elimination or substitution highest in the hierarchy of control. The correct item is retained
+Q_PED_END_007 | del | duplicate of Q_PED_END_016 on cerebral oedema as the main risk during paediatric DKA treatment. The item explaining the fluid rationale is retained
+Q_MED_COAG_009 | del | duplicate of Q_MED_COAG_014, which reaches heparin-induced thrombocytopenia from the day 5 to 10 platelet fall with new thrombosis. The vignette is retained
+Q_ENT_LAR_016 | del | my authored item duplicated Q_ENT_LAR_009 on glottic carcinoma having the best prognosis because of sparse lymphatic drainage. The existing item is retained
+Q_PY_END_004 | del | duplicate of Q_PY_END_015, which covers the same angiotensin II and potassium regulation of aldosterone and additionally names the zona glomerulosa. The fuller item is retained
+Q_OBG_MEN_004 | del | duplicate of Q_OBG_MEN_014 on unopposed oestrogen causing endometrial hyperplasia and carcinoma. The item explaining why a progestogen is added is retained
+Q_SUR_BRN_011 | del | one of three items on the Parkland formula in this topic; Q_SUR_BRN_002 is retained
+Q_SUR_BRN_013 | del | my earlier rewrite of this item to the Parkland formula duplicated Q_SUR_BRN_002 in the same topic. Deleted
+Q_OBG_MED_006 | del | duplicate of Q_OBG_MED_015 on severe pulmonary hypertension being the cardiac lesion most dangerous in pregnancy. The fuller item is retained
+Q_MIC_HAI_003 | del | duplicate of Q_c1_101 in PSM on the yellow biomedical waste category. PSM is the natural home for the Bio-Medical Waste Rules and is retained
+Q_MIC_HAI_013 | del | duplicate of Q_PSM_WWB_006 in PSM on the red biomedical waste category. PSM is the natural home and is retained
+Q_OBG_PID_006 | del | duplicate of Q_OBG_PID_014 on empirical cover for pelvic inflammatory disease. The vignette is retained
+Q_PED_PTB_001 | del | duplicate of Q_PED_PTB_011 on gastric aspirate or induced sputum for cartridge-based testing in childhood tuberculosis. The fuller item is retained
+Q_PED_NEU_015 | del | duplicate of Q_PED_NEU_004 on Streptococcus pneumoniae causing bacterial meningitis beyond the neonatal period. The first item is retained
+Q_PED_EMG_005 | del | duplicate of Q_PED_EMG_013 on urgent pre-referral treatment and referral for an IMNCI general danger sign. The item specifying the age band is retained
+Q_PY_SEN_001 | del | one of three items on cerebrospinal fluid formation in this topic; Q_PY_SEN_011, which covers both production and absorption, is retained
+Q_PY_SEN_017 | del | my earlier rewrite of this item to cerebrospinal fluid dynamics duplicated Q_PY_SEN_011 in the same topic. Deleted
+Q_PED_END_013 | del | my earlier rewrite of this item to precocious puberty duplicated Q_PED_END_018, which already tests the GnRH-stimulated LH rise. Deleted
+Q_MED_NUT_006 | del | duplicate of Q_MED_NUT_014, which reaches osteomalacia from vitamin D deficiency in a clinical vignette. The vignette is retained
+Q_PAT_PLZ_004 | del | duplicate of Q_PAT_PLZ_015 on Waldenstrom macroglobulinaemia with an IgM paraprotein and hyperviscosity. The fuller item is retained
+Q_PH_PRK_001 | del | duplicate of Q_PH_PRK_011 on carbidopa inhibiting peripheral dopa decarboxylase. The fuller item is retained
+Q_PH_CTR_011 | del | duplicate of Q_PH_CTR_001 on phase I trials assessing safety and pharmacokinetics. The first item is retained
+Q_MED_DEM_005 | del | duplicate of Q_MED_DEM_015 on the cape-like sensory loss of syringomyelia. The item asking for the diagnosis from the pattern is retained
+Q_SUR_COL_012 | del | duplicate of Q_SUR_COL_006 on the definition of second-degree haemorrhoids. The first item is retained
+Q_MED_ANE_009 | del | duplicate of Q_MED_ANE_018, which reaches paroxysmal nocturnal haemoglobinuria from a clinical and laboratory picture. The vignette is retained
+Q_ENT_LAR_013 | del | my authored item duplicated Q_ENT_LAR_008 on the site of vocal nodules. The existing item is retained
+Q_MIC_ARB_014 | del | my authored item duplicated Q_MIC_ARB_002 on antibody-dependent enhancement in secondary dengue infection. The existing item is retained
+Q_OBG_INFT_009 | del | duplicate of Q_OBG_INFT_013 on anti-Mullerian hormone being the cycle-independent measure of ovarian reserve. The fuller item is retained
+Q_OBG_MUL_001 | del | duplicate of Q_OBG_MUL_012 on twin-to-twin transfusion being unique to monochorionic twins. The fuller item is retained
+Q_PED_END_016 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_COAG_014 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_ENT_LAR_009 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PY_END_015 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_MEN_014 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_SUR_BRN_002 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_MED_015 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_PID_014 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_PTB_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_NEU_004 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PSM_OCC_016 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_EMG_013 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MIC_RAB_008 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MIC_RAB_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PY_END_007 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PY_END_014 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PY_SEN_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_END_018 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2026JUN_022 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2026JUN_038 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_NUT_014 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PAT_PLZ_015 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PH_PRK_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PH_ANT_007 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PH_ANT_013 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PH_CTR_001 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_DEM_015 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_SUR_COL_006 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_ANE_018 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_ENT_LAR_008 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MIC_ARB_002 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_INFT_013 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_NEP_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_NEP_013 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PSM_NCD_004 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PSM_NCD_012 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_MUL_012 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2026JAN_045 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_A_013 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_RA_008 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_RA_018 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed

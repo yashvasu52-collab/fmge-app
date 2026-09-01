@@ -1,0 +1,34 @@
+Q_PYQ_FMGE_2025JULP1_034 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Chest (central venous catheter position) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_036 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Chest (occupational lung disease) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_075 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Chest (pneumoconioses) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2024JAN_032 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Nuclear Medicine (PET tracers in oncology) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2024JUN_036 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Nuclear Medicine | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_088 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Oesophagus (achalasia) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_084 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Skull and Temporal Bone Trauma | reference cited only the exam paper; a study source added
+Q_PYQ_INICET_2025MAY_031 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Spine (infection) | reference cited only the exam paper; a study source added
+Q_RD_ABD_001 | ok |
+Q_RD_ABD_002 | ok |
+Q_RD_ABD_003 | ok |
+Q_RD_ABD_004 | ok |
+Q_RD_ABD_005 | ok |
+Q_RD_ABD_006 | ok |
+Q_RD_ABD_007 | ok |
+Q_RD_ABD_008 | ok |
+Q_RD_ABD_009 | ok |
+Q_RD_ABD_010 | ok |
+Q_RD_CNS_001 | ok |
+Q_RD_CNS_002 | ok |
+Q_RD_CNS_003 | ok |
+Q_RD_CNS_004 | ok |
+Q_RD_CNS_005 | ok |
+Q_RD_CNS_006 | ok |
+Q_RD_CNS_007 | ok |
+Q_RD_CNS_008 | ok |
+Q_RD_CNS_009 | ok |
+Q_RD_CNS_010 | ok |
+Q_RD_CXR_001 | ok |
+Q_RD_CXR_002 | ok |
+Q_RD_CXR_003 | ok |
+Q_RD_MOD_001 | ok |
+Q_RD_MOD_002 | ok |
+Q_RD_NUC_001 | ok |

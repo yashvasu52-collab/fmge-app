@@ -1,0 +1,286 @@
+
+=== Medicine / AKI/CKD & electrolyte/acid-base disorders
+Q_PYQ_FMGE_2026JAN_027 [M] A patient with severe burns develops hemoglobinuria and acute renal failure. Which pigment is responsible?
+    A. Bilirubin
+   *B. Myoglobin
+    C. Hemosiderin
+    D. Hematin
+   key=B ref=FMGE January 2026 (real exam recall)
+   concept: Pigment-induced acute kidney injury after major burns occurs when heme pigment precipitates in and is directly toxic to renal tubules. NOTE: the stem says 'haemoglobinuria' (which would make haemoglobin the pigment), but haemoglobin is NOT among the options; the recall key gives myoglobin (from associated rhabdomyolysis/deep muscle injury). The item is internally inconsistent, so it is flagged verified:N: teach the general concept of pigment nephropathy rather than relying on this key.
+Q_c1_080 [H] A patient has arterial pH 7.28, HCO3 12 mEq/L and a calculated anion gap of 24 (a HIGH anion-gap metabolic acidosis). Which of the following is a recognized cause?
+    A. Prolonged diarrhea
+   *B. Diabetic ketoacidosis
+    C. Type II (proximal) renal tubular acidosis
+    D. Excessive normal-saline infusion
+   key=B ref=Harrison's 21e, Acid-Base Disorders
+   concept: High anion-gap metabolic acidosis (mnemonic MUDPILES) includes methanol, uremia, DKA, propylene glycol, INH/iron, lactic acidosis, ethylene glycol and salicylates. Diarrhea, RTA and saline cause a NORMAL (hyperchloremic) anion-gap acidosis.
+
+=== Medicine / COPD & asthma
+Q_c1_071 [M] A 60-year-old smoker with chronic cough and dyspnea has a POST-bronchodilator FEV1/FVC ratio of 0.6 with little reversibility. This spirometry confirms?
+    A. Restrictive lung disease
+   *B. An obstructive pattern consistent with COPD
+    C. Normal spirometry
+    D. Pure asthma with full reversibility
+   key=B ref=GOLD guidelines / Harrison's 21e, COPD
+   concept: A post-bronchodilator FEV1/FVC below 0.70 that is not fully reversible defines COPD (GOLD). Restrictive disease shows reduced lung volumes with a normal or increased FEV1/FVC ratio.
+
+=== Medicine / Cirrhosis, hepatitis, GI bleed, IBD/PUD
+Q_PYQ_FMGE_2025JULP2_123 [E] What is the eye manifestation seen in HLA-B27-positive patients with ulcerative colitis?
+   *A. Uveitis
+    B. Conjunctivitis
+    C. Scleritis
+    D. Iridocyclitis
+   key=A ref=FMGE July 2025 Part 2 (real exam recall)
+   concept: The HLA-B27-associated ocular lesion in inflammatory bowel disease and the spondyloarthropathies is acute anterior uveitis. NOTE: option D 'iridocyclitis' is a synonym for anterior uveitis, so A and D describe the same entity and the item effectively has two correct options. Keyed answer A ('uveitis', the broader conventional term) retained but flagged. (Source explanation was missing.)
+
+=== Medicine / Dengue, malaria, enteric fever
+Q_c1_084 [E] A patient has one week of stepwise rising fever, relative bradycardia, abdominal discomfort and rose spots on the trunk. Which test is MOST useful for confirmation during the first week of illness?
+   *A. Blood culture
+    B. Stool culture
+    C. Widal test
+    D. Urine culture
+   key=A ref=Harrison's 21e / Ananthanarayan, Enteric Fever
+   concept: In enteric (typhoid) fever, blood culture is positive and most useful in the first week; stool and urine cultures become positive later (2nd-3rd week). The Widal test is less specific and can give false positives.
+
+=== Medicine / Diabetes mellitus: diagnosis, complications, mgmt
+Q_c1_075 [M] A 19-year-old type-1 diabetic presents with vomiting, deep rapid breathing, fruity breath, glucose 480 mg/dL, ketonuria and pH 7.1. After starting IV fluids and insulin, which electrolyte must be closely monitored and replaced to prevent a fatal arrhythmia?
+    A. Calcium
+   *B. Potassium
+    C. Magnesium
+    D. Phosphate
+   key=B ref=Harrison's 21e, Diabetic Ketoacidosis
+   concept: In diabetic ketoacidosis, insulin drives potassium into cells and can precipitate dangerous hypokalemia. Potassium must be monitored and replaced (insulin is withheld if K+ is below 3.3 mEq/L) to prevent cardiac arrhythmias.
+Q_c1_076 [M] The earliest clinical indicator of diabetic nephropathy, which warrants starting an ACE inhibitor or ARB for renoprotection, is?
+    A. Overt proteinuria (more than 3.5 g/day)
+   *B. Microalbuminuria
+    C. A raised serum creatinine
+    D. Oliguria
+   key=B ref=Harrison's 21e, Diabetic Nephropathy
+   concept: Microalbuminuria (30-300 mg/day albumin) is the earliest sign of diabetic nephropathy. ACE inhibitors or ARBs reduce intraglomerular pressure and slow progression, and are started at this stage.
+
+=== Medicine / IHD / acute MI: diagnosis & management
+Q_c1_068 [M] A patient with acute chest pain has ST elevation in leads V1 to V4. This localizes the infarct to which wall, supplied by which coronary artery?
+    A. Inferior wall; right coronary artery
+   *B. Anteroseptal wall; left anterior descending artery
+    C. Lateral wall; left circumflex artery
+    D. Posterior wall; posterior descending artery
+   key=B ref=Harrison's Principles of Internal Medicine 21e, ECG in MI
+   concept: V1-V4 ST elevation indicates an anteroseptal infarct supplied by the LAD. Inferior wall (II, III, aVF) maps to the RCA, and lateral leads (I, aVL, V5-V6) map to the left circumflex.
+
+=== Medicine / Pulmonary TB: diagnosis & regimens
+Q_GEN_MED_RESP_TB_001 [E] Mycobacterium tuberculosis retains carbol fuchsin despite decolourization with acid-alcohol during Ziehl-Neelsen staining. This acid-fast property is chiefly attributable to which component of its cell wall?
+    A. Peptidoglycan cross-linked with lysine
+    B. Lipoteichoic acid
+   *C. Mycolic acids
+    D. Lipopolysaccharide (endotoxin)
+   key=C ref=Harrison's Principles of Internal Medicine, 21st ed — Tuberculosis (microbiology); Ananthanarayan & Paniker's Textbook of Microbiology — Mycobacterium
+   concept: Acid-fastness results from the thick, waxy mycolic acid layer of the mycobacterial cell wall, which resists decolourization by acid-alcohol so bacilli retain carbol fuchsin and appear red against a methylene-blue counterstain. Peptidoglycan and lipoteichoic acid are Gram-positive wall features; LPS/endotoxin is Gram-negative. This lipid-rich wall also underlies slow growth and disinfectant resistance.
+Q_GEN_MED_RESP_TB_002 [M] A sputum sample is sent for mycobacterial culture. Compared with solid Löwenstein-Jensen (LJ) medium, the automated liquid MGIT (Mycobacteria Growth Indicator Tube) system chiefly offers which advantage?
+    A. It detects rifampicin resistance directly without drug-susceptibility testing
+   *B. It yields a positive result faster, typically within 1-2 weeks
+    C. It is more specific because contamination never occurs
+    D. It does not require a biosafety level 3 laboratory
+   key=B ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Laboratory diagnosis; WHO liquid culture policy
+   concept: Liquid MGIT culture detects growth (via fluorescence from oxygen consumption) in roughly 1-2 weeks versus 2-8 weeks for solid LJ medium, and is more sensitive, so WHO/NTEP prefer liquid culture where feasible. However, liquid systems have higher contamination rates, still require BSL-3 containment, and culture alone does not identify drug resistance — that needs phenotypic DST or molecular tests. LJ remains cheaper and useful for colony morphology.
+Q_GEN_MED_RESP_TB_003 [H] Sputum smear microscopy is far less sensitive than culture for diagnosing pulmonary tuberculosis. Approximately what minimum bacillary load per millilitre of sputum is generally required for a smear to be reliably positive?
+   *A. About 10,000 bacilli/mL
+    B. About 10 bacilli/mL
+    C. About 1 bacillus/mL
+    D. About 100 bacilli/mL
+   key=A ref=Harrison's Principles of Internal Medicine, 21st ed — Tuberculosis (diagnosis); API Textbook of Medicine
+   concept: Smear microscopy (Ziehl-Neelsen or fluorescent) needs roughly 5,000-10,000 acid-fast bacilli per mL of sputum to be consistently positive, which is why smear-negative but culture-positive or CBNAAT-positive disease is common. Culture can detect as few as 10-100 viable bacilli/mL, and CBNAAT around 130 bacilli/mL, making both far more sensitive. This threshold explains the value of molecular testing in paucibacillary and HIV-associated TB.
+Q_GEN_MED_RESP_TB_004 [M] A 40-year-old man with 4 weeks of cough submits sputum for CBNAAT (GeneXpert MTB/RIF). Besides confirming the presence of Mycobacterium tuberculosis, this single assay simultaneously detects resistance to which drug?
+    A. Isoniazid
+    B. Ethambutol
+   *C. Rifampicin
+    D. Pyrazinamide
+   key=C ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Molecular diagnostics; WHO Xpert MTB/RIF policy
+   concept: GeneXpert MTB/RIF (CBNAAT) is a cartridge-based nucleic acid amplification test that detects M. tuberculosis DNA and rpoB gene mutations conferring rifampicin resistance, giving results in about 2 hours. It does NOT detect isoniazid, ethambutol or pyrazinamide resistance — those need line probe assay or phenotypic DST. Rifampicin resistance serves as a surrogate marker for likely MDR-TB and triggers further DST under NTEP's Universal DST policy.
+Q_GEN_MED_RESP_TB_005 [M] Under NTEP, the first-line Line Probe Assay (LPA) is used on smear-positive specimens or cultures. It rapidly detects resistance to which combination of drugs?
+    A. Fluoroquinolones and second-line injectables only
+    B. Rifampicin and ethambutol
+    C. Isoniazid and pyrazinamide
+   *D. Rifampicin and isoniazid
+   key=D ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Line Probe Assay; WHO LPA policy update
+   concept: First-line LPA (GenoType MTBDRplus) detects rifampicin resistance (rpoB) and isoniazid resistance (katG for high-level, inhA for low-level) within 1-2 days. Second-line LPA (MTBDRsl) detects fluoroquinolone and second-line injectable resistance. LPA thus adds isoniazid resistance information that CBNAAT (rifampicin only) cannot provide, helping distinguish isoniazid mono/poly-resistant TB from MDR-TB and guide regimen selection.
+Q_GEN_MED_RESP_TB_006 [M] A tuberculin skin test (Mantoux) is performed with 5 TU of PPD injected intradermally. Which statement about its correct interpretation is TRUE?
+    A. Erythema diameter is measured at 24 hours
+   *B. Induration is measured transversely at 48-72 hours
+    C. A positive test confirms active tuberculosis disease
+    D. Prior BCG vaccination never affects the result
+   key=B ref=NTEP guidelines; Harrison's Principles of Internal Medicine, 21st ed — Tuberculosis (TST)
+   concept: The Mantoux test is read at 48-72 hours by measuring the transverse diameter of INDURATION (not erythema). It indicates infection/immune sensitisation, not active disease, and may be positive from prior BCG or non-tuberculous mycobacteria (false positive) or falsely negative in HIV, miliary TB, malnutrition or immunosuppression. Cutoffs vary by risk group (>=5 mm in HIV/close contacts, >=10 mm in others in India). Verify programme cutoffs against current NTEP guidance.
+Q_GEN_MED_RESP_TB_007 [M] Choose the correct option. Assertion (A): Interferon-gamma release assays (IGRAs) are preferred over the tuberculin skin test for detecting TB infection in BCG-vaccinated individuals. Reason (R): IGRAs use the antigens ESAT-6 and CFP-10, which are absent from the BCG vaccine strain and from most non-tuberculous mycobacteria.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=A ref=Harrison's Principles of Internal Medicine, 21st ed — Tuberculosis (IGRA); CDC/WHO IGRA guidance
+   concept: IGRAs (QuantiFERON-TB Gold, T-SPOT.TB) measure interferon-gamma release from T-cells stimulated by M. tuberculosis-specific antigens ESAT-6 and CFP-10, encoded in the RD1 region deleted from BCG and absent from most NTM. Hence IGRAs are not confounded by prior BCG vaccination, unlike the TST, so R correctly explains A. Like the TST, however, IGRA cannot distinguish latent infection from active disease.
+Q_GEN_MED_RESP_TB_008 [M] A paediatric chest radiograph shows a peripheral subpleural parenchymal focus in the right lower zone together with enlarged ipsilateral hilar lymph nodes. This combination is best described as:
+    A. A cavitary lesion of the right upper lobe (post-primary TB)
+    B. Miliary mottling throughout both lungs
+   *C. The Ghon complex (primary TB)
+    D. A tuberculoma with rim calcification
+   key=C ref=Davidson's Principles and Practice of Medicine — Tuberculosis; Harrison's 21st ed
+   concept: Primary TB typically produces a peripheral parenchymal Ghon focus (often mid/lower zones) plus draining hilar/mediastinal lymphadenopathy — together the Ghon (primary) complex; when calcified it becomes the Ranke complex. Post-primary (reactivation) TB classically favours the apical/posterior segments of upper lobes with cavitation. Miliary TB shows diffuse millet-seed nodules. Recognising primary versus post-primary patterns aids age-appropriate diagnosis in children.
+Q_GEN_MED_RESP_TB_009 [M] Under the NTEP daily fixed-dose combination regimen for a new case of drug-sensitive pulmonary TB, the continuation phase consists of which drugs and duration?
+    A. Isoniazid + rifampicin for 2 months
+   *B. Isoniazid + rifampicin + ethambutol for 4 months
+    C. Isoniazid + rifampicin + pyrazinamide for 4 months
+    D. Isoniazid + rifampicin for 7 months
+   key=B ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Treatment of drug-sensitive TB
+   concept: In the NTEP daily regimen, new drug-sensitive pulmonary TB is treated with a 2-month intensive phase of HRZE followed by a 4-month continuation phase of HRE — ethambutol is retained through the continuation phase (unlike older thrice-weekly regimens that used only HR). Pyrazinamide is stopped after the intensive phase; total duration is 6 months. Regimen composition and durations are change-prone; verify against current NTEP Technical and Operational Guidelines.
+Q_GEN_MED_RESP_TB_010 [M] A 60-kg adult with newly diagnosed drug-sensitive pulmonary TB is started on the NTEP daily FDC regimen. In the intensive phase, how many adult four-drug FDC tablets (HRZE) should he receive each day?
+    A. 2 tablets
+    B. 3 tablets
+   *C. 4 tablets
+    D. 5 tablets
+   key=C ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Weight-band dosing
+   concept: NTEP daily FDC dosing is weight-band based: 25-39 kg = 2 tablets, 40-54 kg = 3, 55-69 kg = 4, and >=70 kg = 5 tablets daily. A 60-kg patient falls in the 55-69 kg band and receives 4 adult HRZE tablets daily in the intensive phase (and 4 HRE tablets in the continuation phase). Weight-band tablet counts are change-prone; verify against current NTEP guidelines and re-band the patient if weight changes.
+Q_GEN_MED_RESP_TB_011 [M] Under NTEP outcome definitions, a bacteriologically confirmed pulmonary TB patient who completes treatment and is documented smear- or culture-negative at the end of treatment (and on at least one earlier occasion) is classified as:
+   *A. Cured
+    B. Treatment completed
+    C. Treatment failure
+    D. Lost to follow-up
+   key=A ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Treatment outcome definitions
+   concept: 'Cured' applies to a bacteriologically confirmed patient who is smear/culture-negative at the end of treatment AND on at least one previous occasion. 'Treatment completed' is one who finished treatment without evidence of failure but WITHOUT the documented end-of-treatment negative result (test not done/unavailable). 'Failure' is sputum positive at month 5 or later. 'Lost to follow-up' is treatment interrupted for >=1 consecutive month. Verify exact wording against current NTEP.
+Q_GEN_MED_RESP_TB_012 [E] A 30-year-old malnourished man on antitubercular therapy develops numbness and burning in both feet. Which drug is responsible, and which agent prevents this adverse effect?
+    A. Ethambutol; prevented by zinc
+    B. Rifampicin; prevented by folic acid
+    C. Pyrazinamide; prevented by allopurinol
+   *D. Isoniazid; prevented by pyridoxine
+   key=D ref=Harrison's Principles of Internal Medicine, 21st ed — Antituberculous drugs; KD Tripathi Pharmacology
+   concept: Isoniazid causes dose-dependent peripheral neuropathy by interfering with pyridoxine (vitamin B6) metabolism and increasing its excretion; risk is higher in malnutrition, alcoholism, diabetes, pregnancy, HIV and renal failure. Prophylactic pyridoxine (10 mg/day, more for treatment) prevents and treats it. Ethambutol causes optic neuritis, rifampicin causes orange secretions/hepatotoxicity, and pyrazinamide causes hyperuricemia — none is the cause here.
+Q_GEN_MED_RESP_TB_013 [E] Choose the correct option. Assertion (A): Orange-red discolouration of urine in a patient on rifampicin indicates hepatotoxicity and mandates immediately stopping the drug. Reason (R): Rifampicin can cause drug-induced hepatitis.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true, but R is false
+   *D. A is false, but R is true
+   key=D ref=KD Tripathi Pharmacology — Antitubercular drugs; Harrison's 21st ed
+   concept: Orange-red discolouration of urine, sweat, tears and other secretions is a harmless, expected effect of rifampicin (it may permanently stain soft contact lenses) and is NOT a sign of hepatotoxicity, so the drug should be continued with reassurance — the Assertion is false. The Reason is true: rifampicin genuinely can cause drug-induced hepatitis, which is detected by symptoms and rising transaminases/bilirubin, not by urine colour.
+Q_GEN_MED_RESP_TB_014 [M] Choose the correct option. Assertion (A): Pyrazinamide can precipitate arthralgia and acute gout in patients on antitubercular therapy. Reason (R): Pyrazinamide is a bactericidal drug that is most active against intracellular bacilli in an acidic environment.
+    A. Both A and R are true, and R is the correct explanation of A
+   *B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=B ref=KD Tripathi Pharmacology — Pyrazinamide; Harrison's 21st ed
+   concept: Both statements are individually true, but the Reason does not explain the Assertion. Pyrazinamide causes hyperuricemia because its metabolite pyrazinoic acid inhibits renal tubular secretion of uric acid, precipitating arthralgia/gout — this is unrelated to its separate, true property of being bactericidal against intracellular bacilli in acidic (phagolysosomal) conditions. Hence the answer is 'both true, R not the correct explanation'.
+Q_GEN_MED_RESP_TB_015 [E] Streptomycin, an aminoglycoside occasionally used in TB treatment, most characteristically causes which pair of adverse effects?
+    A. Optic neuritis and red-green colour blindness
+    B. Peripheral neuropathy and seizures
+   *C. Ototoxicity (eighth cranial nerve) and nephrotoxicity
+    D. Hyperuricemia and photosensitivity
+   key=C ref=KD Tripathi Pharmacology — Streptomycin; Harrison's 21st ed
+   concept: Streptomycin damages the vestibulocochlear (eighth cranial) nerve causing vestibular disturbance and hearing loss, and is nephrotoxic — classic aminoglycoside toxicities that are largely dose- and age-related and often partly irreversible. It is contraindicated in pregnancy (fetal ototoxicity). Optic neuritis is ethambutol, neuropathy is isoniazid, and hyperuricemia is pyrazinamide — matching those toxicities to the wrong drug is a common exam trap.
+Q_GEN_MED_RESP_TB_016 [H] WHO (2022) and NTEP now recommend a 6-month oral regimen for eligible rifampicin-resistant/MDR-TB known by the acronym BPaLM. Which four drugs does BPaLM comprise?
+    A. Bedaquiline, pyrazinamide, levofloxacin, meropenem
+    B. Bedaquiline, para-aminosalicylic acid, linezolid, moxifloxacin
+    C. Bedaquiline, prothionamide, levofloxacin, minocycline
+   *D. Bedaquiline, pretomanid, linezolid, moxifloxacin
+   key=D ref=WHO Consolidated Guidelines on Drug-Resistant TB Treatment 2022; NTEP DR-TB guidelines
+   concept: BPaLM = Bedaquiline + Pretomanid + Linezolid + Moxifloxacin, a WHO-recommended (2022) all-oral 6-month regimen for RR/MDR-TB, replacing longer injectable-containing regimens for eligible patients; where fluoroquinolone resistance is confirmed the 'M' is dropped (BPaL). Key toxicities include linezolid myelosuppression/neuropathy and bedaquiline/moxifloxacin QT prolongation. DR-TB regimens change frequently — verify eligibility and composition against current NTEP/WHO guidance.
+Q_GEN_MED_RESP_TB_017 [H] According to the revised WHO 2021 definitions, extensively drug-resistant tuberculosis (XDR-TB) is MDR/RR-TB with additional resistance to:
+    A. Any second-line injectable agent only
+   *B. Any fluoroquinolone AND at least one of bedaquiline or linezolid
+    C. Isoniazid and ethambutol
+    D. Pyrazinamide and any fluoroquinolone
+   key=B ref=WHO 2021 revised definitions of pre-XDR and XDR-TB; NTEP DR-TB guidelines
+   concept: In the WHO 2021 revision, pre-XDR-TB = MDR/RR-TB plus resistance to any fluoroquinolone; XDR-TB = MDR/RR-TB plus resistance to any fluoroquinolone AND to at least one additional Group A drug (bedaquiline or linezolid). The older definition (fluoroquinolone plus a second-line injectable) is now outdated because injectables were deprioritised. These definitions are change-prone; verify against current WHO/NTEP guidance.
+Q_GEN_MED_RESP_TB_018 [H] A newly diagnosed HIV-positive patient (CD4 count 40 cells/µL) is found to have pulmonary TB. Regarding sequencing of therapy, the recommended approach is:
+   *A. Start antitubercular treatment first, then initiate ART as early as within 2 weeks
+    B. Start ART first and defer antitubercular treatment until viral suppression
+    C. Start both simultaneously on day 1 in every patient regardless of CD4
+    D. Withhold ART entirely until antitubercular treatment is completed
+   key=A ref=NACO/NTEP TB-HIV guidelines; WHO HIV-associated TB guidelines; Harrison's 21st ed
+   concept: In TB-HIV coinfection, antitubercular treatment is started first and ART is added early: with CD4 <50 cells/µL, ART should begin within 2 weeks of starting ATT; with higher CD4, within 2-8 weeks. Early ART reduces mortality but risks paradoxical immune reconstitution inflammatory syndrome (IRIS), especially at very low CD4. ART is indicated in ALL TB-HIV patients regardless of CD4; never defer it until ATT completion. Note rifampicin-antiretroviral drug interactions.
+Q_GEN_MED_RESP_TB_019 [M] A household contact is offered TB preventive treatment (TPT) after active TB is excluded. The '3HP' regimen used in expanded NTEP TPT refers to:
+    A. 3 months of daily isoniazid alone
+    B. 3 years of isoniazid plus pyridoxine
+   *C. 3 months of weekly isoniazid plus rifapentine (12 doses)
+    D. 3 months of daily pyrazinamide plus rifampicin
+   key=C ref=NTEP Guidelines for Programmatic Management of TB Preventive Treatment in India; WHO TPT guidelines
+   concept: 3HP is a short-course TB preventive regimen of once-weekly isoniazid plus rifapentine for 3 months (12 doses); rifapentine's long half-life permits weekly dosing, improving completion versus 6 months of daily isoniazid (6H). NTEP has expanded shorter TPT options (3HP, 3HR, 1HP) alongside 6H. Active TB must always be excluded before starting TPT. TPT options are change-prone; verify eligibility and dosing against current NTEP guidance.
+Q_GEN_MED_RESP_TB_020 [H] A 25-year-old with weeks of fever, weight loss and dyspnoea has a chest radiograph showing innumerable uniform 1-3 mm nodules evenly distributed throughout both lung fields; fundoscopy may reveal choroidal tubercles. The most likely diagnosis is:
+    A. Lobar bacterial pneumonia
+    B. Post-primary cavitary tuberculosis
+    C. Pulmonary alveolar proteinosis
+   *D. Miliary tuberculosis
+   key=D ref=Harrison's Principles of Internal Medicine, 21st ed — Miliary TB; API Textbook of Medicine
+   concept: Miliary TB results from haematogenous dissemination of bacilli, producing myriad uniform millet-sized (1-3 mm) nodules diffusely across both lungs; choroidal tubercles on fundoscopy are highly suggestive. It is often smear-negative (paucibacillary), so diagnosis relies on imaging, biopsy/culture and clinical context, and it can be complicated by TB meningitis. Cavitary upper-lobe disease and lobar pneumonia produce quite different radiographic patterns.
+Q_GEN_MED_RESP_TB_021 [M] A pregnant woman is diagnosed with drug-sensitive pulmonary TB. Which antitubercular drug is contraindicated in pregnancy owing to fetal ototoxicity?
+   *A. Streptomycin
+    B. Isoniazid
+    C. Rifampicin
+    D. Ethambutol
+   key=A ref=Harrison's Principles of Internal Medicine, 21st ed — TB in pregnancy; NTEP guidelines
+   concept: Streptomycin (and other aminoglycosides) crosses the placenta and can cause irreversible fetal eighth-nerve damage (congenital deafness), so it is contraindicated in pregnancy. The standard first-line oral drugs — isoniazid, rifampicin, pyrazinamide and ethambutol — are considered safe, and TB should be treated promptly in pregnancy. Pyridoxine is co-administered with isoniazid. Untreated TB poses greater risk to mother and fetus than the first-line drugs.
+Q_GEN_MED_RESP_TB_022 [H] A new smear-positive pulmonary TB patient is on the NTEP 6-month daily regimen. Under standard monitoring, the FIRST scheduled follow-up sputum smear examination is performed at:
+    A. The end of the 1st month
+   *B. The end of the intensive phase (end of 2nd month)
+    C. The end of the 4th month only
+    D. Only at the end of treatment (6th month)
+   key=B ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Treatment monitoring
+   concept: Follow-up sputum smears assess response: the first is done at the end of the intensive phase (end of month 2). If positive at that point, further evaluation and drug-susceptibility testing are undertaken (routine IP extension has been dropped in favour of assessing for resistance). Subsequent smears are done in the continuation phase and at the end of treatment (month 6); positivity at month 5 or later defines treatment failure. Monitoring schedules are change-prone; verify against current NTEP guidelines.
+Q_GEN_MED_RESP_TB_023 [H] A patient on HRZE develops nausea and jaundice; serum ALT is 6 times the upper limit of normal. The most appropriate immediate step is to:
+    A. Continue all drugs and add a hepatoprotective agent
+    B. Stop only ethambutol and continue HRZ
+    C. Halve the dose of all four drugs
+   *D. Stop all hepatotoxic antitubercular drugs and monitor liver function
+   key=D ref=ATS/IDSA hepatotoxicity statement; NTEP guidelines; Harrison's 21st ed
+   concept: Antitubercular drug-induced hepatitis warrants stopping the hepatotoxic drugs (isoniazid, rifampicin, pyrazinamide) when ALT is >=3x ULN with symptoms/jaundice or >=5x ULN without symptoms. Ethambutol is not hepatotoxic. Once transaminases and bilirubin normalise and symptoms resolve, drugs are reintroduced sequentially (rechallenge) under monitoring; a non-hepatotoxic bridging regimen may be used if treatment cannot be interrupted. Continuing or merely reducing doses risks fulminant hepatic failure.
+Q_GEN_MED_RESP_TB_024 [H] In the DOTS (Directly Observed Treatment, Short-course) strategy, the phrase 'directly observed treatment' specifically means that:
+    A. A physician must personally prescribe every dose in a hospital
+    B. The patient records each self-administered dose in a diary
+   *C. A trained treatment supporter watches the patient swallow each dose
+    D. Sputum is directly examined before each dose is given
+   key=C ref=WHO DOTS/Stop TB strategy; NTEP Technical and Operational Guidelines for TB Control in India 2023
+   concept: The 'directly observed' component of DOTS means a trained treatment supporter or health worker actually watches the patient swallow each dose to ensure adherence and completion, reducing treatment failure, relapse and acquired drug resistance. DOTS has five pillars: political/administrative commitment, diagnosis by quality-assured bacteriology, standardized supervised treatment with patient support, uninterrupted drug supply, and standardized recording/reporting with outcome monitoring.
+Q_GEN_MED_RESP_TB_025 [E] In India's National TB Elimination Programme, 'Ni-kshay' primarily refers to:
+   *A. The web-based portal for TB case notification and patient management
+    B. A new fixed-dose combination antitubercular tablet
+    C. A rapid molecular diagnostic cartridge
+    D. A surgical procedure for drug-resistant TB
+   key=A ref=NTEP Technical and Operational Guidelines for TB Control in India 2023 — Ni-kshay and surveillance
+   concept: Ni-kshay is the national web- and app-based information system of NTEP used to notify, register and longitudinally manage TB patients — including private-sector notification, drug logistics and monitoring outcomes. The linked Ni-kshay Poshan Yojana provides direct-benefit nutritional support to notified patients. It is a surveillance/case-management platform, not a drug, diagnostic cartridge or procedure. Programme features evolve; verify current Ni-kshay functions against NTEP.
+Q_c1_073 [E] Multidrug-resistant tuberculosis (MDR-TB) is defined as resistance to at least which drugs?
+   *A. Isoniazid and rifampicin
+    B. Rifampicin and ethambutol
+    C. Isoniazid and streptomycin
+    D. Any two first-line drugs
+   key=A ref=Harrison's 21e / NTEP guidelines, Drug-resistant TB
+   concept: MDR-TB is defined as resistance to at least isoniazid AND rifampicin, the two most potent first-line drugs. Extensively drug-resistant (XDR) TB adds resistance to fluoroquinolones and other key second-line agents.
+
+=== Medicine / Stroke, epilepsy, meningitis
+Q_PYQ_FMGE_2025JULP1_074 [M] A patient has a severe headache; brain CT shows an abnormality in the basal cisterns (marked 'X'). What is the most likely diagnosis?
+   *A. Subarachnoid hemorrhage
+    B. Meningococcal meningitis
+    C. Brain abscess
+    D. Pneumocephalus
+   key=A ref=FMGE July 2025 Part 1 (real exam recall)
+   concept: A sudden severe ('thunderclap') headache with blood filling the basal cisterns (a star-shaped pattern) on non-contrast CT is a subarachnoid haemorrhage, usually from a ruptured berry aneurysm. NOTE: the source stem describes the lesion as 'hypodense', which is inconsistent - acute subarachnoid blood is HYPERdense (bright); this is almost certainly a PDF/transcription error, so the item is flagged pending review even though SAH is the intended answer. A brain abscess is ring-enhancing and pneumocephalus shows air (very dark) density.
+Q_c1_082 [E] A young adult has fever, severe headache and neck rigidity. CSF shows high neutrophils, LOW glucose and high protein. The most likely diagnosis is?
+   *A. Bacterial (pyogenic) meningitis
+    B. Viral meningitis
+    C. Tuberculous meningitis
+    D. Fungal meningitis
+   key=A ref=Harrison's 21e, Meningitis
+   concept: Pyogenic bacterial meningitis gives turbid CSF with neutrophilic pleocytosis, low glucose and high protein. Viral meningitis is lymphocytic with normal glucose; tuberculous meningitis is lymphocytic with low glucose, high protein and a cobweb clot.
+Q_c1_102 [M] VIDEO-DESCRIBED: A ward video shows a patient who suddenly cries out and becomes rigid with all four limbs extended (tonic phase) for about 20 seconds, then develops rhythmic jerking of all limbs (clonic phase) with frothing at the mouth and tongue-biting, followed by a period of confusion and drowsiness. This semiology is most consistent with?
+   *A. Generalized tonic-clonic (grand mal) seizure
+    B. Absence (petit mal) seizure
+    C. Focal aware seizure
+    D. Psychogenic non-epileptic (pseudo) seizure
+   key=A ref=Harrison's 21e, Seizures and Epilepsy
+   concept: A tonic stiffening phase followed by clonic jerking of all limbs, with loss of awareness, tongue-biting and a post-ictal confusional state, defines a generalized tonic-clonic seizure. Absence seizures are brief staring spells with no post-ictal phase; focal aware seizures preserve awareness; psychogenic events lack true post-ictal drowsiness and typical injury.
+
+=== Medicine / Thyroid disorders
+Q_c1_078 [E] A 45-year-old woman has fatigue, weight gain, cold intolerance and a firm goiter; TSH is high, free T4 low, and anti-thyroid-peroxidase (anti-TPO) antibodies are strongly positive. The diagnosis is?
+    A. Graves disease
+   *B. Hashimoto thyroiditis
+    C. Toxic multinodular goiter
+    D. Papillary thyroid carcinoma
+   key=B ref=Harrison's 21e, Hypothyroidism
+   concept: Hashimoto (chronic autoimmune) thyroiditis is the commonest cause of hypothyroidism in iodine-sufficient areas; anti-TPO antibodies are positive and there is lymphocytic infiltration. It carries a small long-term risk of thyroid lymphoma.
+
+[38 shown of 38 unverified in scope]

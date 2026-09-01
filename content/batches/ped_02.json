@@ -1,0 +1,972 @@
+{
+ "questions": [
+  {
+   "id": "Q_PED_PTB_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "E",
+   "stem": "The most useful investigation to diagnose pulmonary tuberculosis in a young child unable to expectorate is:",
+   "options": [
+    "Gastric aspirate or induced sputum for Xpert MTB/RIF",
+    "Mantoux test alone",
+    "Chest radiograph alone",
+    "ESR"
+   ],
+   "correct": 0,
+   "concept": "Children swallow sputum, so gastric aspirate, induced sputum or nasopharyngeal aspirate for molecular testing gives the best bacteriological yield. Childhood tuberculosis is paucibacillary, so diagnosis often rests on contact history, symptoms, tuberculin test and radiography together.",
+   "reference": "NTEP Paediatric TB Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "M",
+   "stem": "A Mantoux test is read as positive in a child when the induration is:",
+   "options": [
+    "10 mm or more at 48 to 72 hours",
+    "5 mm of erythema",
+    "Any induration",
+    "20 mm or more"
+   ],
+   "correct": 0,
+   "concept": "Induration of 10 mm or more measured transversely at 48 to 72 hours is positive in India; 5 mm is used in severely immunocompromised or malnourished children. Erythema is not measured, and the test indicates infection, not active disease.",
+   "reference": "NTEP Guidelines; Ghai Essential Pediatrics 9e",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "M",
+   "stem": "The commonest form of extrapulmonary tuberculosis in children is:",
+   "options": [
+    "Tuberculous lymphadenitis",
+    "Tuberculous meningitis",
+    "Spinal tuberculosis",
+    "Abdominal tuberculosis"
+   ],
+   "correct": 0,
+   "concept": "Peripheral lymph node tuberculosis, usually cervical, is the commonest extrapulmonary form, presenting as matted painless nodes that may form a cold abscess and sinus. Tuberculous meningitis is the most lethal form.",
+   "reference": "Ghai Essential Pediatrics 9e, Tuberculosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "E",
+   "stem": "BCG vaccine is given at birth and protects best against:",
+   "options": [
+    "Disseminated tuberculosis and tuberculous meningitis in children",
+    "Adult pulmonary tuberculosis",
+    "Leprosy only",
+    "Reinfection in adults"
+   ],
+   "correct": 0,
+   "concept": "BCG gives about 60 to 80% protection against severe disseminated disease and tuberculous meningitis in young children but poor and variable protection against adult pulmonary tuberculosis. It is a live attenuated vaccine given intradermally.",
+   "reference": "Park 27e, BCG Vaccine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "M",
+   "stem": "Tuberculosis preventive therapy is indicated for a 3-year-old household contact of a sputum-positive case who is:",
+   "options": [
+    "Asymptomatic with active disease excluded",
+    "Symptomatic with fever and cough",
+    "Already on treatment",
+    "BCG vaccinated only"
+   ],
+   "correct": 0,
+   "concept": "Children under 5 in household contact with a pulmonary tuberculosis case receive preventive therapy once active disease is excluded, since risk of progression is highest at this age. Isoniazid for six months or shorter rifapentine-based regimens are used.",
+   "reference": "NTEP Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "M",
+   "stem": "In paediatric HIV, the diagnostic test of choice in an infant under 18 months is:",
+   "options": [
+    "HIV DNA or RNA nucleic acid testing",
+    "Rapid antibody test",
+    "Western blot",
+    "CD4 count"
+   ],
+   "correct": 0,
+   "concept": "Maternal antibodies persist up to 18 months, so antibody tests cannot diagnose infection in infants; virological testing by DNA PCR at 6 weeks is used, with early antiretroviral therapy for all confirmed infants regardless of stage.",
+   "reference": "NACO Paediatric HIV Guidelines",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "E",
+   "stem": "The commonest opportunistic infection in an HIV-infected infant is:",
+   "options": [
+    "Pneumocystis jirovecii pneumonia",
+    "Cryptococcal meningitis",
+    "Kaposi sarcoma",
+    "Toxoplasmosis"
+   ],
+   "correct": 0,
+   "concept": "Pneumocystis pneumonia peaks at 3 to 6 months of age in HIV-infected infants and is often the presenting illness, which is why cotrimoxazole prophylaxis is started at 6 weeks in all HIV-exposed infants.",
+   "reference": "Nelson 21e, Paediatric HIV",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "H",
+   "stem": "Failure to thrive with generalised lymphadenopathy, parotid enlargement and recurrent infections in a child suggests:",
+   "options": [
+    "Symptomatic HIV infection",
+    "Nephrotic syndrome",
+    "Coeliac disease",
+    "Cystic fibrosis"
+   ],
+   "correct": 0,
+   "concept": "Persistent generalised lymphadenopathy with bilateral parotid swelling, hepatosplenomegaly, oral thrush, chronic diarrhoea and failure to thrive is a classic paediatric HIV presentation, and parotid enlargement is particularly suggestive.",
+   "reference": "Nelson 21e, Paediatric HIV",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "H",
+   "stem": "Anti-tuberculosis drug doses in children are higher per kilogram than in adults because children:",
+   "options": [
+    "Metabolise and clear the drugs faster, achieving lower serum levels at adult doses",
+    "Absorb less from the gut",
+    "Have larger livers",
+    "Are more likely to have resistant organisms"
+   ],
+   "correct": 0,
+   "concept": "Faster clearance means weight-band dosing uses higher mg/kg - isoniazid 10, rifampicin 15, pyrazinamide 35 and ethambutol 20 mg/kg - to reach therapeutic concentrations. Doses are recalculated as the child gains weight.",
+   "reference": "NTEP Paediatric TB Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_PTB_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Childhood tuberculosis & paediatric HIV",
+   "difficulty": "M",
+   "stem": "The commonest chest radiograph finding in childhood primary pulmonary tuberculosis is:",
+   "options": [
+    "Hilar or mediastinal lymphadenopathy",
+    "Apical cavitation",
+    "Miliary mottling",
+    "Pleural effusion"
+   ],
+   "correct": 0,
+   "concept": "Primary tuberculosis in children characteristically causes hilar and mediastinal lymphadenopathy with a small parenchymal focus (the primary complex), which may compress a bronchus causing collapse. Cavitation is a feature of adult reactivation disease.",
+   "reference": "Ghai Essential Pediatrics 9e, Tuberculosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "E",
+   "stem": "The tetrad of nephrotic syndrome in children includes all EXCEPT:",
+   "options": [
+    "Haematuria",
+    "Proteinuria above 40 mg/m2/hour",
+    "Hypoalbuminaemia",
+    "Oedema"
+   ],
+   "correct": 0,
+   "concept": "Nephrotic syndrome is heavy proteinuria, hypoalbuminaemia below 2.5 g/dL, oedema and hyperlipidaemia. Significant haematuria, hypertension or renal failure are atypical features suggesting a lesion other than minimal change disease.",
+   "reference": "Nelson 21e, Nephrotic Syndrome",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "M",
+   "stem": "Steroid-resistant nephrotic syndrome is defined as failure of remission after:",
+   "options": [
+    "Four to six weeks of daily adequate prednisolone",
+    "One week",
+    "Three months of alternate-day therapy",
+    "Two doses"
+   ],
+   "correct": 0,
+   "concept": "Failure to achieve remission after four to six weeks of daily prednisolone at 2 mg/kg defines steroid resistance and warrants renal biopsy, which usually shows focal segmental glomerulosclerosis rather than minimal change disease.",
+   "reference": "Ghai Essential Pediatrics 9e, Nephrotic Syndrome",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "M",
+   "stem": "The commonest infection complicating childhood nephrotic syndrome is:",
+   "options": [
+    "Spontaneous bacterial peritonitis due to Streptococcus pneumoniae",
+    "Urinary tract infection by Proteus",
+    "Tuberculous meningitis",
+    "Osteomyelitis"
+   ],
+   "correct": 0,
+   "concept": "Loss of immunoglobulins and complement factor B in urine impairs opsonisation of encapsulated organisms, so pneumococcal peritonitis is characteristic; pneumococcal and varicella vaccination are recommended in remission.",
+   "reference": "Nelson 21e, Nephrotic Syndrome",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "E",
+   "stem": "Post-streptococcal glomerulonephritis in a child typically follows a skin or throat infection after a latent period of:",
+   "options": [
+    "One to three weeks",
+    "One day",
+    "Three months",
+    "Six months"
+   ],
+   "correct": 0,
+   "concept": "Nephritis follows pharyngitis by 1 to 2 weeks and skin infection by 3 to 6 weeks, presenting with smoky urine, periorbital oedema, hypertension and oliguria, with low C3 and raised ASO or anti-DNase B titres.",
+   "reference": "Nelson 21e, Acute Glomerulonephritis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "M",
+   "stem": "The most serious acute complication of post-streptococcal glomerulonephritis in a child is:",
+   "options": [
+    "Hypertensive encephalopathy with seizures and pulmonary oedema",
+    "Chronic renal failure",
+    "Nephrotic syndrome",
+    "Renal vein thrombosis"
+   ],
+   "correct": 0,
+   "concept": "Salt and water retention causes circulatory overload with hypertensive encephalopathy and acute pulmonary oedema, which is the main cause of early mortality. Management is fluid and salt restriction with diuretics and antihypertensives.",
+   "reference": "Ghai Essential Pediatrics 9e, Acute Glomerulonephritis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "M",
+   "stem": "The commonest organism causing urinary tract infection in children is:",
+   "options": [
+    "Escherichia coli",
+    "Proteus mirabilis",
+    "Klebsiella",
+    "Enterococcus"
+   ],
+   "correct": 0,
+   "concept": "E. coli causes 80 to 90% of paediatric urinary tract infections. Proteus is more frequent in boys and with stones, and infection in an infant may present only as fever, vomiting or failure to thrive.",
+   "reference": "Nelson 21e, Urinary Tract Infection",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "E",
+   "stem": "A child with recurrent febrile urinary tract infection should be investigated for:",
+   "options": [
+    "Vesicoureteric reflux and renal scarring",
+    "Nephrotic syndrome",
+    "Diabetes insipidus",
+    "Renal calculi only"
+   ],
+   "correct": 0,
+   "concept": "Ultrasound is done in all, with micturating cystourethrogram to detect vesicoureteric reflux in infants and recurrent infections, and DMSA scan for cortical scarring - the pathway to reflux nephropathy, hypertension and chronic kidney disease.",
+   "reference": "Ghai Essential Pediatrics 9e, Urinary Tract Infection",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "H",
+   "stem": "The commonest cause of an abdominal mass in a neonate arising from the kidney is:",
+   "options": [
+    "Multicystic dysplastic kidney or hydronephrosis",
+    "Wilms tumour",
+    "Neuroblastoma",
+    "Renal cell carcinoma"
+   ],
+   "correct": 0,
+   "concept": "In neonates, hydronephrosis from pelviureteric junction obstruction and multicystic dysplastic kidney are the commonest renal masses. Wilms tumour typically presents between 2 and 5 years as a smooth flank mass that does not cross the midline.",
+   "reference": "Nelson 21e, Renal Masses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "H",
+   "stem": "Haemolytic uraemic syndrome in a child classically follows diarrhoea caused by:",
+   "options": [
+    "Shiga toxin-producing Escherichia coli O157:H7",
+    "Rotavirus",
+    "Giardia",
+    "Vibrio cholerae"
+   ],
+   "correct": 0,
+   "concept": "Shiga toxin damages endothelium producing the triad of microangiopathic haemolytic anaemia with schistocytes, thrombocytopenia and acute kidney injury. Management is supportive with dialysis if needed; antibiotics and antimotility drugs may worsen it.",
+   "reference": "Nelson 21e, Haemolytic Uraemic Syndrome",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEP_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+   "difficulty": "M",
+   "stem": "Posterior urethral valves should be suspected in a male infant with:",
+   "options": [
+    "A poor urinary stream with a palpable bladder and bilateral hydronephrosis",
+    "Nocturnal enuresis at 6 years",
+    "Isolated proteinuria",
+    "Recurrent balanitis"
+   ],
+   "correct": 0,
+   "concept": "Posterior urethral valves are the commonest cause of lower urinary tract obstruction in male infants, often detected antenatally as bilateral hydroureteronephrosis with oligohydramnios. Micturating cystourethrogram is diagnostic and endoscopic valve ablation is the treatment.",
+   "reference": "Nelson 21e, Posterior Urethral Valves",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "E",
+   "stem": "The commonest cause of anaemia in Indian children is:",
+   "options": [
+    "Iron deficiency",
+    "Thalassaemia",
+    "Sickle cell disease",
+    "Aplastic anaemia"
+   ],
+   "correct": 0,
+   "concept": "Nutritional iron deficiency, aggravated by hookworm infestation and early cow's milk feeding, is by far the commonest cause. The national programme provides weekly iron and folic acid supplementation and deworming.",
+   "reference": "Park 27e, Nutritional Anaemia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "M",
+   "stem": "Beta thalassaemia major typically presents at:",
+   "options": [
+    "Six months to two years of age as fetal haemoglobin declines",
+    "Birth",
+    "Five years",
+    "Adolescence"
+   ],
+   "correct": 0,
+   "concept": "Symptoms appear as HbF production switches to HbA at around 6 months, giving severe transfusion-dependent anaemia, hepatosplenomegaly, frontal bossing and a hair-on-end skull radiograph. Diagnosis is by HPLC showing absent or reduced HbA.",
+   "reference": "Nelson 21e, Thalassaemia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "M",
+   "stem": "The commonest cause of death in a well-transfused thalassaemia major patient is:",
+   "options": [
+    "Cardiac failure and arrhythmia from iron overload",
+    "Infection",
+    "Bleeding",
+    "Renal failure"
+   ],
+   "correct": 0,
+   "concept": "Transfusional iron overload deposits in the myocardium causing cardiomyopathy and arrhythmia, the leading cause of death, alongside endocrine failure. Chelation with deferasirox or desferrioxamine and cardiac T2* MRI monitoring are essential.",
+   "reference": "Nelson 21e, Thalassaemia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "E",
+   "stem": "Hydroxyurea benefits sickle cell disease by:",
+   "options": [
+    "Increasing fetal haemoglobin and reducing painful crises",
+    "Increasing HbS",
+    "Suppressing the marrow permanently",
+    "Chelating iron"
+   ],
+   "correct": 0,
+   "concept": "Hydroxyurea raises HbF, which interferes with HbS polymerisation, reducing vaso-occlusive crises, acute chest syndrome and transfusion need. Folic acid, penicillin prophylaxis and pneumococcal vaccination are also part of care.",
+   "reference": "KDT 8e, Anticancer Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "M",
+   "stem": "The commonest childhood malignancy is:",
+   "options": [
+    "Acute lymphoblastic leukaemia",
+    "Wilms tumour",
+    "Neuroblastoma",
+    "Retinoblastoma"
+   ],
+   "correct": 0,
+   "concept": "Acute lymphoblastic leukaemia is the commonest childhood cancer, presenting with pallor, fever, bleeding, bone pain and organomegaly. Cure rates now exceed 80% with risk-stratified multi-agent chemotherapy including CNS prophylaxis.",
+   "reference": "Nelson 21e, Leukaemia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "M",
+   "stem": "Which feature indicates a favourable prognosis in childhood acute lymphoblastic leukaemia?",
+   "options": [
+    "Age 1 to 10 years with a white cell count below 50,000 and hyperdiploidy",
+    "Age under 1 year",
+    "White cell count above 100,000",
+    "Philadelphia chromosome positivity"
+   ],
+   "correct": 0,
+   "concept": "Good prognostic factors are age 1 to 10, presenting white cell count under 50,000, B-cell precursor lineage, hyperdiploidy or ETV6-RUNX1 fusion, and rapid clearance of minimal residual disease. Infancy, hyperleucocytosis and BCR-ABL are adverse.",
+   "reference": "Nelson 21e, Leukaemia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "E",
+   "stem": "A child with a smooth abdominal flank mass that does not cross the midline, with haematuria and hypertension, most likely has:",
+   "options": [
+    "Wilms tumour",
+    "Neuroblastoma",
+    "Hepatoblastoma",
+    "Splenomegaly"
+   ],
+   "correct": 0,
+   "concept": "Wilms tumour arises from the kidney, so it is smooth and confined to one side, whereas neuroblastoma arises from the sympathetic chain, is irregular, crosses the midline and shows calcification with raised urinary catecholamines.",
+   "reference": "Nelson 21e, Wilms Tumour",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "H",
+   "stem": "Leucocoria in a young child requires urgent evaluation for:",
+   "options": [
+    "Retinoblastoma",
+    "Congenital cataract only",
+    "Vitamin A deficiency",
+    "Conjunctivitis"
+   ],
+   "correct": 0,
+   "concept": "A white pupillary reflex with squint is the classic presentation of retinoblastoma, which may be hereditary and bilateral from RB1 germline mutation. Delay risks extraocular spread and death, so urgent examination under anaesthesia is required.",
+   "reference": "AK Khurana Ophthalmology, Retinoblastoma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "H",
+   "stem": "Vitamin K deficiency bleeding of the newborn is prevented by:",
+   "options": [
+    "Intramuscular vitamin K 1 mg at birth",
+    "Oral iron",
+    "Breastfeeding alone",
+    "Vitamin D drops"
+   ],
+   "correct": 0,
+   "concept": "Newborns have low stores and sterile gut, and breast milk is low in vitamin K, so a single intramuscular dose at birth prevents classical and late haemorrhagic disease, the latter often presenting as intracranial bleeding at 2 to 12 weeks.",
+   "reference": "Nelson 21e, Vitamin K Deficiency Bleeding",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_HEM_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+   "difficulty": "M",
+   "stem": "Physiological anaemia of infancy reaches its nadir at about:",
+   "options": [
+    "8 to 12 weeks of age",
+    "1 week",
+    "6 months",
+    "1 year"
+   ],
+   "correct": 0,
+   "concept": "After birth, rising oxygen saturation suppresses erythropoietin and fetal red cells have a shorter lifespan, so haemoglobin falls to about 10 to 11 g/dL by 8 to 12 weeks in term infants before recovering. No treatment is needed.",
+   "reference": "Ghai Essential Pediatrics 9e, Anaemia in Infancy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "E",
+   "stem": "Short stature is defined as height below:",
+   "options": [
+    "The third centile or more than 2 standard deviations below the mean for age and sex",
+    "The tenth centile",
+    "The fiftieth centile",
+    "The twenty-fifth centile"
+   ],
+   "correct": 0,
+   "concept": "Height below the third centile or below minus 2 standard deviations, or an abnormally low growth velocity, defines short stature. Growth velocity is more informative than a single height measurement.",
+   "reference": "Ghai Essential Pediatrics 9e, Growth Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "M",
+   "stem": "Which pattern suggests a pathological rather than familial cause of short stature?",
+   "options": [
+    "Low growth velocity with delayed bone age and low weight-for-height",
+    "Height consistent with mid-parental height",
+    "Normal growth velocity along the third centile",
+    "Bone age equal to chronological age"
+   ],
+   "correct": 0,
+   "concept": "Familial short stature has a normal growth velocity and bone age matching chronological age, while endocrine causes show slow velocity with delayed bone age; disproportionate short stature suggests skeletal dysplasia or rickets.",
+   "reference": "Ghai Essential Pediatrics 9e, Growth Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_END_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "M",
+   "stem": "In growth hormone deficiency, the child characteristically has:",
+   "options": [
+    "Height affected more than weight, with a chubby appearance and delayed bone age",
+    "Weight affected more than height",
+    "Normal bone age",
+    "Coarse facies with macroglossia"
+   ],
+   "correct": 0,
+   "concept": "Growth hormone deficiency spares weight relative to height, giving a well-nourished chubby child with mid-facial hypoplasia, delayed dentition and bone age, and possibly neonatal hypoglycaemia and micropenis. Malnutrition instead affects weight first.",
+   "reference": "Nelson 21e, Growth Hormone Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "E",
+   "stem": "Untreated congenital hypothyroidism causes:",
+   "options": [
+    "Cretinism with intellectual disability, coarse facies, macroglossia and umbilical hernia",
+    "Tall stature",
+    "Precocious puberty",
+    "Hyperactivity"
+   ],
+   "correct": 0,
+   "concept": "Cretinism features intellectual disability, short stature with delayed bone age, coarse facies, macroglossia, hoarse cry, umbilical hernia, constipation and prolonged neonatal jaundice. Thyroxine must be started within the first two weeks.",
+   "reference": "Nelson 21e, Congenital Hypothyroidism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "M",
+   "stem": "The commonest cause of acquired hypothyroidism in older children is:",
+   "options": [
+    "Autoimmune (Hashimoto) thyroiditis",
+    "Iodine deficiency",
+    "Thyroid dysgenesis",
+    "Pituitary tumour"
+   ],
+   "correct": 0,
+   "concept": "Hashimoto thyroiditis with anti-thyroid peroxidase antibodies is the commonest acquired cause in non-iodine-deficient areas, presenting with goitre, growth deceleration and delayed puberty; it may transiently be thyrotoxic.",
+   "reference": "Nelson 21e, Hashimoto Thyroiditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "M",
+   "stem": "Type 1 diabetes mellitus in a child classically presents with:",
+   "options": [
+    "Polyuria, polydipsia and weight loss, sometimes with ketoacidosis",
+    "Obesity with acanthosis nigricans",
+    "Isolated glycosuria",
+    "Hypoglycaemia"
+   ],
+   "correct": 0,
+   "concept": "Autoimmune beta cell destruction causes absolute insulin deficiency with the osmotic triad and weight loss over weeks, and about a third present in ketoacidosis. Insulin is mandatory from diagnosis; oral agents have no role.",
+   "reference": "Nelson 21e, Type 1 Diabetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "E",
+   "stem": "The most important immediate risk while treating paediatric diabetic ketoacidosis is:",
+   "options": [
+    "Cerebral oedema from rapid fluid and osmolar shifts",
+    "Hypercalcaemia",
+    "Hypernatraemia only",
+    "Pulmonary embolism"
+   ],
+   "correct": 0,
+   "concept": "Cerebral oedema is the leading cause of death in paediatric ketoacidosis, so fluids are given cautiously over 48 hours, sodium is corrected slowly, insulin is started after initial volume expansion and bicarbonate is avoided.",
+   "reference": "Nelson 21e, Diabetic Ketoacidosis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_END_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "H",
+   "stem": "Precocious puberty with a raised 17-hydroxyprogesterone and virilisation in a female infant suggests:",
+   "options": [
+    "Congenital adrenal hyperplasia due to 21-hydroxylase deficiency",
+    "Turner syndrome",
+    "Growth hormone excess",
+    "Hypothyroidism"
+   ],
+   "correct": 0,
+   "concept": "21-hydroxylase deficiency, the commonest form, shunts precursors to androgens causing ambiguous genitalia in females and salt-wasting crisis with hyponatraemia, hyperkalaemia and hypotension. Treatment is hydrocortisone with fludrocortisone.",
+   "reference": "Nelson 21e, Congenital Adrenal Hyperplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "H",
+   "stem": "Rickets in a child is most reliably confirmed by:",
+   "options": [
+    "Raised alkaline phosphatase with low phosphate and radiographic metaphyseal changes",
+    "Serum calcium alone",
+    "Bone density scan",
+    "Urine calcium"
+   ],
+   "correct": 0,
+   "concept": "Nutritional rickets shows raised alkaline phosphatase, low 25-hydroxyvitamin D and phosphate with secondary hyperparathyroidism; radiographs show cupping, fraying and splaying of metaphyses, rachitic rosary and bowing of legs.",
+   "reference": "Ghai Essential Pediatrics 9e, Rickets",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_END_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+   "difficulty": "M",
+   "stem": "Obesity in a child with short stature suggests:",
+   "options": [
+    "An endocrine cause such as hypothyroidism or Cushing syndrome",
+    "Simple nutritional obesity",
+    "Normal growth",
+    "Malnutrition"
+   ],
+   "correct": 0,
+   "concept": "Exogenous obesity accelerates linear growth, so an obese child who is short warrants evaluation for hypothyroidism, Cushing syndrome, growth hormone deficiency or a genetic syndrome such as Prader-Willi.",
+   "reference": "Nelson 21e, Obesity",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

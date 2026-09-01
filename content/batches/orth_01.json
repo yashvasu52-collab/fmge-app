@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_OR_UL_001",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "E",
+   "stem": "The commonest direction of shoulder dislocation is:",
+   "options": [
+    "Anterior",
+    "Posterior",
+    "Inferior",
+    "Superior"
+   ],
+   "correct": 0,
+   "concept": "Over 95% are anterior, from abduction and external rotation, giving a flattened deltoid contour with the arm held abducted. The axillary nerve must be tested for sensation over the regimental badge area before and after reduction.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Upper Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_002",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "M",
+   "stem": "Posterior shoulder dislocation is classically associated with:",
+   "options": [
+    "Epileptic seizures and electric shock",
+    "Falls on outstretched hand",
+    "Direct trauma",
+    "Overhead activity"
+   ],
+   "correct": 0,
+   "concept": "Violent internal rotator contraction during a seizure or shock drives the head posteriorly. It is frequently missed on an anteroposterior film, showing a light-bulb sign; an axillary or scapular Y view is essential.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Upper Limb Injuries",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_003",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "M",
+   "stem": "A Colles fracture is a fracture of the distal radius with:",
+   "options": [
+    "Dorsal displacement and angulation producing a dinner-fork deformity",
+    "Volar displacement",
+    "No displacement",
+    "Radial shortening only"
+   ],
+   "correct": 0,
+   "concept": "Colles fracture follows a fall on the outstretched hand in an osteoporotic patient, with dorsal tilt, dorsal shift, radial shift and supination. A Smith fracture is the volar-displaced reverse injury.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Upper Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_004",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "E",
+   "stem": "Tenderness in the anatomical snuffbox after a fall on the outstretched hand suggests:",
+   "options": [
+    "Scaphoid fracture, which is often not visible on the initial radiograph",
+    "Colles fracture",
+    "Lunate dislocation",
+    "Radial head fracture"
+   ],
+   "correct": 0,
+   "concept": "Because of the risk of avascular necrosis of the proximal pole, a clinically suspected scaphoid fracture is immobilised in a scaphoid cast and re-imaged at 10 to 14 days, or assessed by MRI or CT.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Upper Limb Injuries",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_005",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "M",
+   "stem": "The nerve most commonly injured in a fracture of the shaft of the humerus is:",
+   "options": [
+    "Radial nerve, causing wrist drop",
+    "Ulnar nerve",
+    "Median nerve",
+    "Axillary nerve"
+   ],
+   "correct": 0,
+   "concept": "The radial nerve lies in the spiral groove against the humerus and is injured in about 10% of shaft fractures. Most are neuropraxias recovering spontaneously, so initial management is conservative with a splint.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Upper Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_006",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "M",
+   "stem": "Supracondylar fracture of the humerus in a child most commonly injures:",
+   "options": [
+    "The anterior interosseous branch of the median nerve",
+    "The ulnar nerve",
+    "The axillary nerve",
+    "The musculocutaneous nerve"
+   ],
+   "correct": 0,
+   "concept": "The extension-type fracture displaces posteriorly, stretching the median nerve and brachial artery. Loss of the OK sign indicates anterior interosseous palsy, and vascular compromise with Volkmann contracture is the feared complication.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures in Children",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_007",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "E",
+   "stem": "A Monteggia fracture-dislocation consists of:",
+   "options": [
+    "Fracture of the proximal ulna with dislocation of the radial head",
+    "Fracture of the distal radius with distal radioulnar dislocation",
+    "Fracture of both bones",
+    "Isolated radial head fracture"
+   ],
+   "correct": 0,
+   "concept": "Monteggia is ulnar fracture with radial head dislocation; Galeazzi is radial shaft fracture with distal radioulnar joint disruption. In any single forearm bone fracture the joints above and below must be imaged.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Upper Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_008",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "H",
+   "stem": "Carpal tunnel syndrome causes sensory loss over:",
+   "options": [
+    "The lateral three and a half digits, sparing the thenar eminence",
+    "The whole hand",
+    "The medial one and a half digits",
+    "The dorsum only"
+   ],
+   "correct": 0,
+   "concept": "The palmar cutaneous branch arises proximal to the flexor retinaculum, so thenar skin sensation is spared - the key sign distinguishing carpal tunnel compression from a proximal median nerve lesion.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Peripheral Nerve Lesions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_009",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "H",
+   "stem": "Injury to the ulnar nerve at the elbow produces:",
+   "options": [
+    "Claw hand that is less deforming than a distal lesion, due to the ulnar paradox",
+    "A more severe claw",
+    "No deformity",
+    "Wrist drop"
+   ],
+   "correct": 0,
+   "concept": "A proximal lesion also paralyses flexor digitorum profundus to the ring and little fingers, so those fingers cannot flex at the DIP joints and the claw is less marked - the ulnar paradox.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Peripheral Nerve Lesions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_UL_010",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb injuries: shoulder, humerus, elbow, wrist",
+   "difficulty": "M",
+   "stem": "Recurrent anterior shoulder dislocation is associated with:",
+   "options": [
+    "A Bankart lesion of the anteroinferior labrum and a Hill-Sachs defect of the humeral head",
+    "A rotator cuff tear only",
+    "Clavicle fracture",
+    "Acromioclavicular injury"
+   ],
+   "correct": 0,
+   "concept": "Detachment of the anteroinferior labrum with capsular stripping predisposes to recurrence, and impaction of the posterolateral humeral head against the glenoid rim creates the Hill-Sachs defect. Arthroscopic Bankart repair is the treatment.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Upper Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_001",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "E",
+   "stem": "A patient with a shortened, adducted and internally rotated lower limb after a dashboard injury has:",
+   "options": [
+    "Posterior dislocation of the hip",
+    "Anterior dislocation of the hip",
+    "Fracture neck of femur",
+    "Pelvic fracture"
+   ],
+   "correct": 0,
+   "concept": "Posterior dislocation accounts for about 90% of hip dislocations and is an orthopaedic emergency; reduction within 6 hours minimises avascular necrosis. Sciatic nerve injury occurs in about 10%.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Lower Limb Injuries",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_002",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "M",
+   "stem": "A fracture of the neck of femur classically presents with the limb:",
+   "options": [
+    "Shortened and externally rotated",
+    "Shortened and internally rotated",
+    "Lengthened",
+    "Neutral"
+   ],
+   "correct": 0,
+   "concept": "External rotation distinguishes it from posterior hip dislocation which is internally rotated. Intracapsular fractures risk avascular necrosis and non-union because the retinacular blood supply is disrupted.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Lower Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_003",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "M",
+   "stem": "In an elderly patient with a displaced intracapsular femoral neck fracture, the treatment of choice is:",
+   "options": [
+    "Hemiarthroplasty or total hip replacement",
+    "Internal fixation with screws",
+    "Traction alone",
+    "Bed rest"
+   ],
+   "correct": 0,
+   "concept": "Displaced intracapsular fractures in the elderly have high rates of avascular necrosis and non-union after fixation, so replacement allows immediate weight-bearing. Fixation is preferred in the young to preserve the native head.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Lower Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_004",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "E",
+   "stem": "The most immediately life-threatening complication of an unstable pelvic fracture is:",
+   "options": [
+    "Massive retroperitoneal haemorrhage",
+    "Sciatic nerve injury",
+    "Non-union",
+    "Leg shortening"
+   ],
+   "correct": 0,
+   "concept": "The pelvis can conceal several litres of blood from the presacral venous plexus and cancellous bone. A pelvic binder, resuscitation and angiographic embolisation or packing take priority over definitive fixation.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Pelvic Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_005",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "M",
+   "stem": "A positive Trendelenburg sign indicates weakness of:",
+   "options": [
+    "The hip abductors (gluteus medius and minimus) or their nerve supply",
+    "Hip flexors",
+    "Quadriceps",
+    "Hamstrings"
+   ],
+   "correct": 0,
+   "concept": "When standing on the affected leg the opposite hemipelvis drops. Causes include superior gluteal nerve palsy, hip dislocation, femoral neck fracture and any condition altering the abductor lever arm.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Examination of the Hip",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_006",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "M",
+   "stem": "The commonest mechanism of ankle injury producing a lateral malleolar fracture is:",
+   "options": [
+    "Inversion and supination",
+    "Direct anterior blow",
+    "Eversion alone",
+    "Axial loading"
+   ],
+   "correct": 0,
+   "concept": "The Weber classification relates the fibular fracture to the syndesmosis: Weber A below, B at, and C above the level, with C implying syndesmotic disruption needing fixation. Ottawa ankle rules guide the need for radiography.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Lower Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_007",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "E",
+   "stem": "The unhappy triad of knee injury consists of:",
+   "options": [
+    "Anterior cruciate ligament, medial collateral ligament and medial meniscus injury",
+    "ACL, LCL and lateral meniscus",
+    "PCL, MCL and medial meniscus",
+    "ACL, PCL and patella"
+   ],
+   "correct": 0,
+   "concept": "A valgus force with external rotation on a planted foot injures all three structures. The anterior drawer and Lachman tests assess the ACL, and McMurray test the menisci.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Knee Injuries",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_008",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "H",
+   "stem": "A fracture of the shaft of the femur in an adult may cause hypovolaemic shock because it can lose:",
+   "options": [
+    "One to one and a half litres of blood",
+    "100 mL",
+    "Under 500 mL",
+    "No significant blood"
+   ],
+   "correct": 0,
+   "concept": "Closed femoral shaft fractures conceal substantial blood loss, and bilateral fractures or associated pelvic injury can cause profound shock. Early splinting reduces bleeding and pain.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Lower Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_009",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "H",
+   "stem": "Common peroneal nerve injury at the neck of the fibula produces:",
+   "options": [
+    "Foot drop with loss of sensation over the dorsum of the foot",
+    "Loss of plantar flexion",
+    "Loss of knee extension",
+    "Claw toes only"
+   ],
+   "correct": 0,
+   "concept": "The nerve is superficial at the fibular neck, vulnerable to fractures, tight casts and prolonged squatting. Loss of dorsiflexion and eversion gives a high-stepping gait; the sole is spared as it is supplied by the tibial nerve.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Peripheral Nerve Lesions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_LL_010",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lower limb & pelvic injuries; hip dislocation",
+   "difficulty": "M",
+   "stem": "In a suspected femoral neck fracture with normal radiographs, the next investigation is:",
+   "options": [
+    "MRI of the hip",
+    "Repeat radiograph after two weeks",
+    "Bone scan immediately",
+    "CT only"
+   ],
+   "correct": 0,
+   "concept": "MRI detects occult fractures within hours with the highest sensitivity, avoiding the delay of repeat films or the reduced early sensitivity of bone scanning - important as delayed diagnosis worsens outcomes in the elderly.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Lower Limb Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_001",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "E",
+   "stem": "The commonest level of lumbar intervertebral disc prolapse is:",
+   "options": [
+    "L4-L5 and L5-S1",
+    "L1-L2",
+    "T12-L1",
+    "L2-L3"
+   ],
+   "correct": 0,
+   "concept": "The lower lumbar levels bear the greatest mechanical load. A posterolateral L4-5 prolapse compresses the L5 root causing weak great toe dorsiflexion, and L5-S1 compresses S1 with a reduced ankle jerk.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_002",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "M",
+   "stem": "Cauda equina syndrome is an emergency indicated by:",
+   "options": [
+    "Saddle anaesthesia, bladder or bowel dysfunction and bilateral leg weakness",
+    "Unilateral sciatica",
+    "Back pain alone",
+    "Neck stiffness"
+   ],
+   "correct": 0,
+   "concept": "Urinary retention with overflow incontinence and perianal numbness demand urgent MRI and decompression within 24 to 48 hours; delay causes permanent sphincter dysfunction and is a common source of litigation.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_003",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "M",
+   "stem": "The straight leg raising (Lasegue) test is positive in:",
+   "options": [
+    "Lumbar disc prolapse with nerve root tension",
+    "Hip arthritis",
+    "Sacroiliitis",
+    "Muscle strain"
+   ],
+   "correct": 0,
+   "concept": "Pain radiating below the knee between 30 and 70 degrees of elevation indicates root irritation, and the crossed straight leg raise is more specific though less sensitive for a large central prolapse.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_004",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "E",
+   "stem": "The commonest site of tuberculosis of the spine (Pott disease) is:",
+   "options": [
+    "The thoracolumbar junction, beginning in the paradiscal region",
+    "The cervical spine",
+    "The sacrum",
+    "The coccyx"
+   ],
+   "correct": 0,
+   "concept": "Paradiscal involvement destroys the disc and adjacent vertebral bodies producing anterior wedging with kyphosis (gibbus) and a cold abscess. Disc destruction distinguishes it from metastasis, which spares the disc.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_005",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "M",
+   "stem": "Paraplegia complicating spinal tuberculosis is most often due to:",
+   "options": [
+    "Inflammatory oedema, abscess or granulation tissue compressing the cord, which is largely reversible with treatment",
+    "Complete cord transection",
+    "Tumour infiltration",
+    "Vascular occlusion only"
+   ],
+   "correct": 0,
+   "concept": "Early-onset paraplegia during active disease is usually from compressive inflammatory tissue and responds to antitubercular therapy with or without decompression, whereas late-onset paraplegia from fibrosis or bony ridge has a poorer prognosis.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_006",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "M",
+   "stem": "Adolescent idiopathic scoliosis is assessed radiologically by:",
+   "options": [
+    "The Cobb angle on a standing full-spine radiograph",
+    "Leg length only",
+    "MRI in all cases",
+    "Bone scan"
+   ],
+   "correct": 0,
+   "concept": "Curves under 20 degrees are observed, 20 to 40 degrees braced in a skeletally immature patient, and above 45 to 50 degrees considered for fusion. The Adams forward bend test with a rib hump is the clinical screen.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_007",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "E",
+   "stem": "Spinal shock after acute cord injury is characterised by:",
+   "options": [
+    "Transient flaccid areflexic paralysis with loss of the bulbocavernosus reflex",
+    "Immediate spasticity",
+    "Hyperreflexia",
+    "Normal reflexes"
+   ],
+   "correct": 0,
+   "concept": "Neurological assessment is unreliable until spinal shock resolves, marked by return of the bulbocavernosus reflex within 24 to 48 hours; only then can a complete injury be confidently diagnosed.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_008",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "H",
+   "stem": "Neurogenic claudication of lumbar canal stenosis is distinguished from vascular claudication by:",
+   "options": [
+    "Relief on sitting or bending forward, with preserved peripheral pulses",
+    "Relief on standing still",
+    "Absent pulses",
+    "Pain at rest only"
+   ],
+   "correct": 0,
+   "concept": "Flexion increases canal diameter, so patients report relief on stooping and can cycle further than they can walk. Vascular claudication is relieved simply by stopping, with diminished pulses and a reduced ABPI.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_009",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "H",
+   "stem": "The most important initial step in managing a suspected cervical spine injury at the scene is:",
+   "options": [
+    "Immobilisation of the whole spine with attention to airway and breathing",
+    "Immediate radiography",
+    "Immediate reduction",
+    "Administration of steroids"
+   ],
+   "correct": 0,
+   "concept": "Neutral in-line immobilisation prevents secondary neurological injury during airway management and transfer. Routine high-dose steroids are no longer recommended because of harm outweighing benefit.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_SPN_010",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spine injury, disc prolapse & spinal deformity",
+   "difficulty": "M",
+   "stem": "Spondylolisthesis refers to:",
+   "options": [
+    "Forward slipping of one vertebra over the one below",
+    "Fusion of vertebrae",
+    "Disc prolapse",
+    "Lateral curvature"
+   ],
+   "correct": 0,
+   "concept": "Most commonly at L5 over S1 from a pars interarticularis defect, graded by Meyerding into four quarters of slip. It causes back pain with a step on palpation and may compress nerve roots.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Spine",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

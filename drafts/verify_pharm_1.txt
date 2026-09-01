@@ -1,0 +1,47 @@
+Q_PH_ANT_011 | del | duplicate of Q_PH_ANT_001 on albendazole binding beta-tubulin to inhibit microtubule polymerisation. The first item is retained
+Q_PH_ANT_016 | del | duplicate of Q_PH_ANT_008 on metronidazole causing a disulfiram-like reaction with alcohol. The first item is retained
+Q_PH_ANT_006 | del | duplicate of Q_PH_ANT_015 on clofazimine causing reddish-brown skin discolouration, which additionally notes its anti-inflammatory action. The fuller item is retained
+Q_PH_ANT_004 | del | duplicate of Q_GEN_DERM_LEPROSY_012 on the WHO multibacillary leprosy multidrug regimen. Dermatology is the natural home and is retained
+Q_PS_DEP_010 | del | duplicate of Q_PH_AAA_007 on tyramine displacing stored noradrenaline during monoamine oxidase inhibition. Pharmacology is the natural home for the interaction mechanism and is retained
+Q_MED_COAG_011 | del | my earlier rewrite of this item to heparin monitoring duplicated Q_PH_ACG_011 in Pharmacology, which covers the same activated partial thromboplastin time monitoring and adds the antidote. Deleted
+Q_PH_AEI_001 | ok |
+Q_PH_AEI_002 | ok |
+Q_PH_AEI_003 | ok |
+Q_PH_AEI_004 | ok |
+Q_PH_AEI_005 | ok |
+Q_PH_AEI_006 | ok |
+Q_PH_AAA_001 | ok |
+Q_PH_AAA_002 | ok |
+Q_PH_AAA_003 | ok |
+Q_PH_AAA_004 | ok |
+Q_PH_AAA_005 | ok |
+Q_PH_AAA_006 | ok |
+Q_PH_AAA_007 | ok |
+Q_PH_ANT_001 | ok |
+Q_PH_ANT_002 | ok |
+Q_PH_ANT_003 | ok |
+Q_PH_ANT_005 | ok |
+Q_PH_ANT_008 | ok |
+Q_PH_ANT_009 | ok |
+Q_PH_ANT_010 | ok |
+Q_PH_ANT_012 | ok |
+Q_PH_ANT_014 | ok |
+Q_PH_ANT_015 | ok |
+Q_PH_ACM_001 | ok |
+Q_PH_ACM_003 | ok |
+Q_PH_ACM_004 | ok |
+Q_PH_ACM_005 | ok |
+Q_PH_ACM_006 | ok |
+Q_PH_ACM_007 | ok |
+Q_PH_ACG_001 | ok |
+Q_PH_ACG_003 | ok |
+Q_PH_ACG_004 | ok |
+Q_PH_ACG_005 | ok |
+Q_PH_ACG_006 | ok |
+Q_PH_ACG_007 | ok |
+Q_PH_ACG_008 | ok |
+Q_PH_ACG_009 | ok |
+Q_PH_ACG_010 | ok |
+Q_PH_ACG_011 | ok |
+Q_PH_ACG_012 | ok |
+Q_PH_ACG_013 | ok |

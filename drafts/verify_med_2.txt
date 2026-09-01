@@ -1,0 +1,44 @@
+Q_MED_CMP_012 | del | duplicate of Q_MED_CMP_002 on the murmur of hypertrophic obstructive cardiomyopathy increasing with Valsalva. The first item is retained
+Q_MED_COMA_012 | del | duplicate of Q_MED_COMA_003 on uncal herniation compressing the oculomotor nerve. The first item is retained
+Q_MED_CA_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 285 (Asthma) | an asthma item was cited to the chronic obstructive pulmonary disease chapter
+Q_MED_CA_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 285 (Asthma) | an asthma item was cited to the chronic obstructive pulmonary disease chapter
+Q_MED_CHG_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 341 (Chronic Hepatitis) | a hepatitis B serology item was cited to the cirrhosis chapter
+Q_MED_CHG_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 326 (Inflammatory Bowel Disease) | a Crohn's disease item was cited to the cirrhosis chapter
+Q_MED_CHG_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 324 (Peptic Ulcer Disease and Related Disorders) | a Zollinger-Ellison item was cited to the cirrhosis chapter
+Q_MED_CMP_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 258 (Cardiomyopathy and Myocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_CMP_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 258 (Cardiomyopathy and Myocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_CMP_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 258 (Cardiomyopathy and Myocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_CMP_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 258 (Cardiomyopathy and Myocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_CMP_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 258 (Cardiomyopathy and Myocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_CMP_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 258 (Cardiomyopathy and Myocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COMA_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 300 (Coma) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COAG_017 | ok |
+Q_MED_COAG_019 | ok |
+Q_MED_CA_001 | ok |
+Q_MED_CA_002 | ok |
+Q_MED_CA_003 | ok |
+Q_MED_CA_004 | ok |
+Q_MED_CA_005 | ok |
+Q_MED_CA_006 | ok |
+Q_MED_CMP_004 | ok |
+Q_MED_CMP_010 | ok |
+Q_MED_CMP_013 | ok |
+Q_MED_CMP_015 | ok |
+Q_MED_CMP_016 | ok |
+Q_MED_CMP_017 | ok |
+Q_MED_CMP_019 | ok |
+Q_MED_CHG_001 | ok |
+Q_MED_CHG_002 | ok |
+Q_MED_CHG_003 | ok |
+Q_MED_CHG_004 | ok |
+Q_MED_CHG_007 | ok |
+Q_MED_COMA_006 | ok |
+Q_MED_COMA_011 | ok |

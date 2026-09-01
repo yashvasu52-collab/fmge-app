@@ -1,0 +1,38 @@
+Q_PYQ_FMGE_2025JANP2_024 | stem=A woman becomes unable to speak after a quarrel with her husband. Neurological examination and investigations are normal, and she appears strikingly unconcerned about her symptom. What is the diagnosis, and what is the term for her lack of concern?;;opt0=Conversion (functional neurological) disorder, the lack of concern being termed la belle indifference;;opt1=Malingering, the lack of concern being termed secondary gain;;opt2=Somatic symptom disorder, the lack of concern being termed alexithymia;;opt3=Factitious disorder, the lack of concern being termed dissociation;;key=0;;concept=The symptom is genuinely experienced and not consciously produced, which separates it from malingering and factitious disorder, and the discrepancy between a dramatic deficit and the patient's calm is characteristic though not diagnostic on its own.;;topic=Somatoform, dissociative, personality & sexual disorders;;ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Dissociative and Somatoform Disorders;;source=ai | the keyed answer "La belle indifference" is a clinical sign, not a diagnosis, so the question as asked had no correct option. Rewritten to ask for the diagnosis and name the sign, and refiled from anxiety disorders to the somatoform and dissociative topic
+Q_PYQ_FMGE_2025JULP1_055 | topic=Somatoform, dissociative, personality & sexual disorders;;ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Dissociative and Somatoform Disorders | misfiled: dissociative amnesia with a fugue sat under "Anxiety disorders & substance use". Refiled, and the exam-paper-only reference replaced
+Q_PYQ_FMGE_2026JUN_026 | topic=Somatoform, dissociative, personality & sexual disorders;;ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Dissociative and Somatoform Disorders | misfiled: illness anxiety disorder (hypochondriasis) sat under "Anxiety disorders & substance use" while the plan has a somatoform topic. Refiled, and the exam-paper-only reference replaced
+Q_PYQ_FMGE_2024JAN_030 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic, Stress-Related and Somatoform Disorders (phobias) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_057 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Stress-Related Disorders | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_014 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Substance Use Disorders (alcohol withdrawal) | reference cited only the exam paper; a study source added
+Q_h3d_035 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Anxiety Disorders (panic disorder) | the reference chapter simply repeated the book title and named no chapter
+Q_PS_ANX_001 | ok |
+Q_PS_ANX_002 | ok |
+Q_PS_ANX_003 | ok |
+Q_PS_ANX_004 | ok |
+Q_PS_ANX_005 | ok |
+Q_PS_ANX_006 | ok |
+Q_PS_ANX_007 | ok |
+Q_PS_ANX_008 | ok |
+Q_PS_ANX_009 | ok |
+Q_PS_ANX_010 | ok |
+Q_PS_CHI_001 | ok |
+Q_PS_CHI_002 | ok |
+Q_PS_CHI_003 | ok |
+Q_PS_CHI_004 | ok |
+Q_PS_CHI_005 | ok |
+Q_PS_CHI_006 | ok |
+Q_PS_CHI_007 | ok |
+Q_PS_CHI_008 | ok |
+Q_PS_CHI_009 | ok |
+Q_PS_CHI_010 | ok |
+Q_PS_CHI_011 | ok |
+Q_PS_CHI_012 | ok |
+Q_PS_CHI_013 | ok |
+Q_PS_CHI_014 | ok |
+Q_PS_CHI_015 | ok |
+Q_PS_CHI_016 | ok |
+Q_PS_CHI_017 | ok |
+Q_PS_CHI_018 | ok |
+Q_PS_DEL_001 | ok |
+Q_PS_DEL_003 | ok |
+Q_PS_DEL_004 | ok |

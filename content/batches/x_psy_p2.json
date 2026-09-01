@@ -1,0 +1,508 @@
+{
+ "questions": [
+  {
+   "id": "Q_PS_CHI_011",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "A 3-year-old has delayed speech, does not point or share interest, avoids eye contact and lines up toys repetitively. What is the diagnosis and the mainstay of management?",
+   "options": [
+    "Autism spectrum disorder, managed with early structured behavioural and educational intervention",
+    "Intellectual disability, managed with special schooling alone",
+    "Attention deficit hyperactivity disorder, managed with methylphenidate",
+    "Childhood schizophrenia, managed with an antipsychotic"
+   ],
+   "correct": 0,
+   "concept": "Deficits in social communication with restricted repetitive behaviour define it, no drug treats the core features, and medication is used only for associated aggression, irritability or hyperactivity.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_CHI_012",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "E",
+   "stem": "Which intelligence quotient range corresponds to mild intellectual disability?",
+   "options": [
+    "50 to 69, with most affected people achieving independent living with support",
+    "35 to 49",
+    "20 to 34",
+    "Below 20"
+   ],
+   "correct": 0,
+   "concept": "Current classifications emphasise adaptive functioning in conceptual, social and practical domains rather than the quotient alone, because two people with the same score can differ greatly in what they can manage.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_CHI_013",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "A bright 8-year-old reads far below her class level and reverses letters, with normal vision, hearing and intelligence. What is the diagnosis and the intervention?",
+   "options": [
+    "Specific learning disorder with impairment in reading, managed with remedial teaching and examination accommodations",
+    "Intellectual disability, managed with special school",
+    "Attention deficit hyperactivity disorder, managed with a stimulant",
+    "Autism spectrum disorder, managed with behaviour therapy"
+   ],
+   "correct": 0,
+   "concept": "The gap between measured ability and academic achievement is the defining feature, and recognition matters because untreated children develop secondary demoralisation, school refusal and conduct problems.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_CHI_014",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "A 7-year-old refuses school with morning abdominal pain and cries when the mother leaves, but plays normally at home during the day. What is the diagnosis and the management principle?",
+   "options": [
+    "Separation anxiety disorder, managed by graded early return to school with parental counselling",
+    "Conduct disorder, managed by discipline",
+    "Truancy, managed by punishment",
+    "Depression, managed with an antidepressant alone"
+   ],
+   "correct": 0,
+   "concept": "Prolonged absence entrenches the avoidance, so a rapid graded return is the priority, and truancy is distinguished by the child concealing the absence and not being distressed by separation.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_CHI_015",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "A 10-year-old has multiple motor tics and involuntary throat clearing and grunting for over a year. What is the diagnosis and which drug class is used if treatment is needed?",
+   "options": [
+    "Tourette syndrome, treated when disabling with an alpha-2 agonist such as clonidine or a low-dose antipsychotic",
+    "Obsessive-compulsive disorder, treated with an SSRI",
+    "Sydenham chorea, treated with penicillin",
+    "Absence epilepsy, treated with valproate"
+   ],
+   "correct": 0,
+   "concept": "Both motor and vocal tics for more than a year are required, many children need only psychoeducation and habit reversal therapy, and comorbid attention deficit and obsessive symptoms are often more disabling than the tics.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_CHI_016",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "How many sessions does a typical course of electroconvulsive therapy involve, and what is its principal adverse effect?",
+   "options": [
+    "About 6 to 12 sessions given two or three times a week, with transient anterograde and retrograde memory impairment as the main adverse effect",
+    "A single session, with permanent memory loss",
+    "Daily sessions for 3 months, with hepatotoxicity",
+    "Two sessions, with tardive dyskinesia"
+   ],
+   "correct": 0,
+   "concept": "It is the fastest effective treatment for severe depression with suicidal risk, catatonia or refusal to eat, and unilateral electrode placement and brief pulse stimuli reduce the cognitive effects.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_CHI_017",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "Which feature distinguishes conduct disorder from oppositional defiant disorder?",
+   "options": [
+    "Conduct disorder involves violation of the rights of others or major social norms such as theft, cruelty and assault, whereas oppositional defiant disorder involves defiance, irritability and argumentativeness without such violation",
+    "Both require criminal acts",
+    "Oppositional defiant disorder involves cruelty to animals",
+    "Conduct disorder occurs only after 18 years"
+   ],
+   "correct": 0,
+   "concept": "Management in both rests on parent management training and family intervention rather than medication, and conduct disorder in childhood is the strongest predictor of antisocial personality disorder in adult life.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_CHI_018",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "Which adverse effects should be monitored in a child taking methylphenidate for attention deficit hyperactivity disorder?",
+   "options": [
+    "Reduced appetite with slowing of growth, insomnia, and a rise in pulse and blood pressure",
+    "Weight gain and sedation",
+    "Hepatic failure and jaundice",
+    "Agranulocytosis"
+   ],
+   "correct": 0,
+   "concept": "Height, weight, pulse and blood pressure are recorded at every visit, and drug holidays are sometimes used where growth suppression is a concern, while tics and pre-existing cardiac disease need specific consideration.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Child and Adolescent Psychiatry"
+  },
+  {
+   "id": "Q_PS_DEL_011",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "A hypertensive diabetic man has cognitive decline that worsened abruptly on two occasions, with brisk reflexes and a gait disorder. What is the diagnosis and the key intervention?",
+   "options": [
+    "Vascular dementia, in which control of vascular risk factors can slow further decline",
+    "Alzheimer disease, treated with donepezil alone",
+    "Frontotemporal dementia",
+    "Dementia with Lewy bodies"
+   ],
+   "correct": 0,
+   "concept": "A stepwise course with focal neurological signs and imaging evidence of infarcts distinguishes it, and because the mechanism is vascular, blood pressure, glycaemia, lipids and antiplatelet therapy are the treatment.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_DEL_012",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "An elderly man has gait apraxia, urinary incontinence and cognitive slowing with dilated ventricles and no significant cortical atrophy. What is the diagnosis and the treatment?",
+   "options": [
+    "Normal pressure hydrocephalus, potentially reversible by ventriculoperitoneal shunting",
+    "Alzheimer disease, treated with a cholinesterase inhibitor",
+    "Vascular dementia, treated with an antiplatelet",
+    "Parkinson disease dementia"
+   ],
+   "correct": 0,
+   "concept": "The gait disturbance usually appears first and responds best to shunting, and a large-volume lumbar puncture that transiently improves gait is used to select patients likely to benefit.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_DEL_013",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "H",
+   "stem": "A 62-year-old has dementia progressing over 4 months with startle myoclonus and periodic sharp waves on the electroencephalogram. What is the diagnosis?",
+   "options": [
+    "Creutzfeldt-Jakob disease",
+    "Alzheimer disease",
+    "Vitamin B12 deficiency",
+    "Neurosyphilis"
+   ],
+   "correct": 0,
+   "concept": "Rapid progression over months rather than years with myoclonus is the clue, supported by raised cerebrospinal fluid protein markers and cortical ribboning on diffusion-weighted imaging, and no treatment alters the course.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_DEL_014",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "Which drug is added for moderate to severe Alzheimer disease and by what mechanism?",
+   "options": [
+    "Memantine, a low-affinity NMDA receptor antagonist that reduces glutamatergic excitotoxicity",
+    "Levodopa, which replaces dopamine",
+    "Haloperidol, which blocks D2 receptors",
+    "Selegiline, which inhibits monoamine oxidase B"
+   ],
+   "correct": 0,
+   "concept": "It can be combined with a cholinesterase inhibitor, and the benefit of both classes is modest and symptomatic rather than disease-modifying, which should be made clear when counselling families.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_DEL_015",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "Why is hypoactive delirium more often missed than the hyperactive form, and why does this matter?",
+   "options": [
+    "The patient is quiet and withdrawn rather than agitated so is mistaken for depressed or simply tired, yet the hypoactive form carries the worse prognosis",
+    "It occurs only in children",
+    "It has no fluctuation in attention",
+    "It resolves without any treatment"
+   ],
+   "correct": 0,
+   "concept": "Routine use of a brief attention test such as reciting the months backwards detects it, and the underlying cause of infection, drugs, retention, pain or metabolic derangement must still be found and treated.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_DEL_016",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "E",
+   "stem": "Which pathological findings characterise Alzheimer disease?",
+   "options": [
+    "Extracellular amyloid beta plaques and intracellular hyperphosphorylated tau neurofibrillary tangles, with early medial temporal and hippocampal atrophy",
+    "Lewy bodies in the substantia nigra",
+    "Tau-negative ubiquitin inclusions in the frontal lobes",
+    "Multiple lacunar infarcts"
+   ],
+   "correct": 0,
+   "concept": "The cholinergic deficit from loss of neurons in the basal forebrain is the rationale for cholinesterase inhibitors, and the early hippocampal involvement explains why recent memory fails first.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_DEL_017",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "A 40-year-old with a family history of a similar illness has choreiform movements, irritability and progressive cognitive decline. What is the diagnosis and the mode of inheritance?",
+   "options": [
+    "Huntington disease, autosomal dominant with a CAG trinucleotide repeat expansion",
+    "Wilson disease, autosomal recessive",
+    "Sydenham chorea, not inherited",
+    "Multiple sclerosis, multifactorial"
+   ],
+   "correct": 0,
+   "concept": "Psychiatric symptoms including depression and personality change frequently precede the movement disorder, and the suicide risk is high, so genetic counselling and psychiatric support are as important as symptomatic treatment.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_DEL_018",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "Which measures reduce the incidence of delirium in a hospitalised elderly patient?",
+   "options": [
+    "Reorientation, correction of sensory deficits with spectacles and hearing aids, early mobilisation, sleep hygiene, hydration and review of culprit drugs",
+    "Routine prophylactic haloperidol",
+    "Physical restraint at night",
+    "Routine sedation to ensure sleep"
+   ],
+   "correct": 0,
+   "concept": "Antipsychotics have no established preventive role and restraint worsens agitation and injury, so the evidence supports the multicomponent non-pharmacological bundle rather than any drug.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Organic Mental Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_011",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "How is somatic symptom disorder distinguished from factitious disorder and from malingering?",
+   "options": [
+    "In somatic symptom disorder the symptoms are genuinely experienced without conscious production, in factitious disorder they are deliberately produced for the sick role, and in malingering they are feigned for an external gain",
+    "All three involve conscious production",
+    "Somatic symptom disorder involves conscious feigning",
+    "Malingering is a psychiatric diagnosis with the sick role as its motive"
+   ],
+   "correct": 0,
+   "concept": "Malingering is not classified as a mental disorder at all because the motive is external, so distinguishing motive rather than the symptom itself is what determines both diagnosis and management.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_012",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "A young man is preoccupied for hours daily with a barely perceptible defect in his nose, seeks repeated cosmetic surgery and avoids social contact. What is the diagnosis and the treatment?",
+   "options": [
+    "Body dysmorphic disorder, treated with a selective serotonin reuptake inhibitor and cognitive behaviour therapy rather than surgery",
+    "Delusional disorder, treated with an antipsychotic alone",
+    "Somatic symptom disorder, treated with reassurance",
+    "Social anxiety disorder, treated with a beta blocker"
+   ],
+   "correct": 0,
+   "concept": "Surgery characteristically fails to satisfy the patient and the preoccupation shifts to another feature, and the suicide risk in this disorder is high enough to warrant specific enquiry.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_013",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "A woman is brought after suddenly behaving as though a deity were speaking through her, with later amnesia for the episode, in a culturally sanctioned setting. How is this classified?",
+   "options": [
+    "A dissociative trance and possession disorder, diagnosed only when it is unwanted, distressing and outside accepted cultural or religious practice",
+    "Schizophrenia, regardless of the cultural context",
+    "Malingering",
+    "Temporal lobe epilepsy in all cases"
+   ],
+   "correct": 0,
+   "concept": "Culturally accepted trance during religious ritual is not a disorder, so the diagnosis rests on distress, loss of control and impairment, and an organic cause including epilepsy must still be excluded.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_014",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "How does avoidant personality disorder differ from dependent personality disorder?",
+   "options": [
+    "Avoidant personality involves social inhibition from fear of criticism and rejection, whereas dependent personality involves an excessive need to be cared for with difficulty making decisions alone",
+    "Both involve fear of criticism as the core feature",
+    "Avoidant personality involves clinging behaviour",
+    "Dependent personality involves avoidance of relationships"
+   ],
+   "correct": 0,
+   "concept": "Both belong to the anxious cluster C along with obsessive-compulsive personality, and the avoidant pattern overlaps closely with social anxiety disorder, which is why the longitudinal pattern from early adulthood is what identifies a personality disorder.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_015",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "When does an unusual sexual interest amount to a paraphilic disorder?",
+   "options": [
+    "When it causes distress or impairment to the person, or involves harm or risk of harm to others such as non-consenting persons or children",
+    "Whenever the interest is statistically unusual",
+    "Whenever the person is unmarried",
+    "Only when a criminal offence has occurred"
+   ],
+   "correct": 0,
+   "concept": "The distinction between an interest and a disorder is what prevents the diagnosis being used to pathologise consensual variation, and treatment for the harmful forms combines psychological therapy with antiandrogen or serotonergic medication.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_016",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "A newly married woman is unable to permit penetration because of involuntary spasm of the perineal muscles with anticipatory anxiety. What is the diagnosis and the treatment?",
+   "options": [
+    "Vaginismus, treated with education, relaxation, graded dilatation and couple therapy",
+    "Dyspareunia from pelvic infection, treated with antibiotics",
+    "Hypoactive sexual desire disorder, treated with hormones",
+    "Conversion disorder, treated with hypnosis"
+   ],
+   "correct": 0,
+   "concept": "A physical examination is needed to exclude local causes and is itself part of the education, and the woman own control over the pace of the graded procedure is essential to success.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_017",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "E",
+   "stem": "A young man complains of passing semen in urine, weakness and fatigue, attributing his symptoms to loss of vital fluid, with no organic abnormality. What is this presentation called?",
+   "options": [
+    "Dhat syndrome, a culture-bound presentation in South Asia often associated with depression or anxiety",
+    "Koro",
+    "Amok",
+    "Latah"
+   ],
+   "correct": 0,
+   "concept": "Management is reassurance with correction of the underlying belief and treatment of the frequently comorbid depression or anxiety, and investigating repeatedly for an organic cause reinforces the illness belief.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  },
+  {
+   "id": "Q_PS_SOM_018",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "Which sexual adverse effect commonly leads to non-adherence with selective serotonin reuptake inhibitors, and how is it managed?",
+   "options": [
+    "Delayed ejaculation or anorgasmia with reduced desire, managed by dose reduction, a drug holiday, or a switch to bupropion or mirtazapine",
+    "Priapism, managed by aspiration",
+    "Retrograde ejaculation, managed surgically",
+    "Gynaecomastia, managed with tamoxifen"
+   ],
+   "correct": 0,
+   "concept": "The effect is dose-related and often unreported unless specifically asked about, and the same mechanism is used therapeutically when these drugs are prescribed for premature ejaculation.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Somatoform, Dissociative and Personality Disorders"
+  }
+ ]
+}

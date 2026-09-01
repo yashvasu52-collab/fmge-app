@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_FM_ALC_001",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "E",
+   "stem": "The legal limit of blood alcohol concentration for driving in India is:",
+   "options": [
+    "30 mg per 100 mL of blood",
+    "80 mg per 100 mL",
+    "50 mg per 100 mL",
+    "Zero"
+   ],
+   "correct": 0,
+   "concept": "India sets a stricter limit of 30 mg/100 mL than many countries. Breath analysers give an indirect estimate; blood is the definitive medico-legal sample and must be collected without alcohol-containing antiseptic.",
+   "reference": "Reddy Forensic Medicine 35e, Alcohol",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_002",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "M",
+   "stem": "The preservative used for a blood sample collected for alcohol estimation is:",
+   "options": [
+    "Sodium fluoride with potassium oxalate",
+    "Formalin",
+    "EDTA alone",
+    "Heparin"
+   ],
+   "correct": 0,
+   "concept": "Sodium fluoride prevents fermentation by inhibiting glycolysis, which would otherwise generate alcohol in vitro, while potassium oxalate acts as anticoagulant. The skin is cleaned with a non-alcoholic antiseptic.",
+   "reference": "Reddy Forensic Medicine 35e, Alcohol",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_003",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "M",
+   "stem": "Methyl alcohol poisoning causes blindness because of:",
+   "options": [
+    "Formic acid accumulation damaging the optic nerve and retina",
+    "Direct alcohol toxicity",
+    "Cataract",
+    "Retinal detachment"
+   ],
+   "correct": 0,
+   "concept": "Alcohol dehydrogenase converts methanol to formaldehyde and formic acid, causing high anion gap metabolic acidosis and optic neuropathy. Fomepizole or ethanol blocks the enzyme, and haemodialysis removes both toxin and metabolite.",
+   "reference": "Reddy Forensic Medicine 35e, Alcohol",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_004",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "E",
+   "stem": "Under Section 85 of the Indian Penal Code, voluntary intoxication:",
+   "options": [
+    "Is not a defence to a criminal charge",
+    "Is a complete defence",
+    "Reduces all charges",
+    "Is a defence only for minor offences"
+   ],
+   "correct": 0,
+   "concept": "Only involuntary intoxication, where the substance was administered without knowledge or against will, may afford a defence by negating the capacity to form intent. Voluntary intoxication is not exculpatory.",
+   "reference": "Reddy Forensic Medicine 35e, Alcohol",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_005",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "M",
+   "stem": "The triad of opioid overdose is:",
+   "options": [
+    "Coma, pinpoint pupils and respiratory depression",
+    "Coma, dilated pupils and tachycardia",
+    "Agitation, sweating and hypertension",
+    "Seizures, fever and rigidity"
+   ],
+   "correct": 0,
+   "concept": "Naloxone reverses it dramatically and is both diagnostic and therapeutic, but its short half-life requires repeated doses or infusion since most opioids outlast it, risking re-sedation.",
+   "reference": "KDT 8e, Opioid Analgesics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_006",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "M",
+   "stem": "Body packers who swallow drug-filled packets should not be given:",
+   "options": [
+    "Whole bowel irrigation is preferred; endoscopic removal is avoided as it may rupture packets",
+    "Any treatment",
+    "Surgery always",
+    "Charcoal only"
+   ],
+   "correct": 0,
+   "concept": "Rupture of a packet can cause fatal overdose, so endoscopic retrieval is hazardous. Whole bowel irrigation with polyethylene glycol is used, with surgery reserved for obstruction, perforation or evidence of leakage.",
+   "reference": "Reddy Forensic Medicine 35e, Toxicology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_007",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "E",
+   "stem": "Cannabis preparations in order of increasing potency are:",
+   "options": [
+    "Bhang, ganja, charas",
+    "Charas, ganja, bhang",
+    "Ganja, charas, bhang",
+    "All equal"
+   ],
+   "correct": 0,
+   "concept": "Bhang comes from dried leaves, ganja from flowering tops, and charas is the resin, the most potent. Run amok and delirium may occur, and the drug is controlled under the NDPS Act.",
+   "reference": "Reddy Forensic Medicine 35e, Toxicology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_008",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "H",
+   "stem": "Drug-facilitated sexual assault most commonly involves:",
+   "options": [
+    "Alcohol, with benzodiazepines such as flunitrazepam and gamma-hydroxybutyrate",
+    "Only opioids",
+    "Only cannabis",
+    "Only cocaine"
+   ],
+   "correct": 0,
+   "concept": "Alcohol remains by far the commonest agent. Rapid metabolism means urine must be collected as early as possible, and specific request for a drug screen is needed as routine panels may miss these agents.",
+   "reference": "Reddy Forensic Medicine 35e, Toxicology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_009",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "H",
+   "stem": "The NDPS Act punishment depends principally on:",
+   "options": [
+    "The quantity of drug - small, intermediate or commercial",
+    "The type of drug only",
+    "The age of the accused",
+    "The place of arrest"
+   ],
+   "correct": 0,
+   "concept": "The Narcotic Drugs and Psychotropic Substances Act grades punishment by quantity, with the most severe penalties for commercial quantities. It also provides for treatment and rehabilitation of addicts rather than punishment alone.",
+   "reference": "Reddy Forensic Medicine 35e, Toxicology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ALC_010",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Alcohol, opioids, sedatives & drugs of abuse (medico-legal)",
+   "difficulty": "M",
+   "stem": "Delirium tremens in a hospitalised patient is best treated with:",
+   "options": [
+    "Benzodiazepines with thiamine and supportive care",
+    "Antipsychotics alone",
+    "Alcohol administration",
+    "Physical restraint alone"
+   ],
+   "correct": 0,
+   "concept": "Benzodiazepines are cross-tolerant with alcohol and prevent seizures and death; parenteral thiamine must precede glucose to avoid precipitating Wernicke encephalopathy. Antipsychotics lower the seizure threshold.",
+   "reference": "KDT 8e, Alcohol",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_001",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "E",
+   "stem": "The McNaughten rule concerns:",
+   "options": [
+    "Criminal responsibility of a person with mental illness at the time of the act",
+    "Civil competence",
+    "Testamentary capacity",
+    "Consent to treatment"
+   ],
+   "correct": 0,
+   "concept": "Codified in Section 84 of the Indian Penal Code, it holds a person not responsible if, by reason of unsoundness of mind, they did not know the nature of the act or that it was wrong or contrary to law.",
+   "reference": "Reddy Forensic Medicine 35e, Forensic Psychiatry",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_002",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "M",
+   "stem": "Testamentary capacity requires that the person:",
+   "options": [
+    "Understands the nature of the act, the extent of property and the claims of those excluded",
+    "Is over 60",
+    "Has no mental illness ever",
+    "Is physically fit"
+   ],
+   "correct": 0,
+   "concept": "A person with mental illness may still make a valid will during a lucid interval provided these three elements are satisfied at the time of execution, which is why contemporaneous medical documentation matters.",
+   "reference": "Reddy Forensic Medicine 35e, Forensic Psychiatry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_003",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "M",
+   "stem": "Lucid interval in forensic psychiatry refers to:",
+   "options": [
+    "A period of normal mental functioning between episodes of mental illness",
+    "The interval in extradural haematoma",
+    "A period of amnesia",
+    "A period of intoxication"
+   ],
+   "correct": 0,
+   "concept": "The same phrase means something different in head injury, where it describes the period of consciousness between concussion and deterioration in extradural haemorrhage - a classic source of confusion.",
+   "reference": "Reddy Forensic Medicine 35e, Forensic Psychiatry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_004",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "E",
+   "stem": "The universal antidote in poisoning has been replaced in modern practice by:",
+   "options": [
+    "Activated charcoal",
+    "Milk",
+    "Egg white",
+    "Potassium permanganate"
+   ],
+   "correct": 0,
+   "concept": "Activated charcoal 1 g/kg given within one hour adsorbs most poisons, but not iron, lithium, alcohols, corrosives or hydrocarbons. Gastric lavage is now rarely indicated and is contraindicated with corrosives.",
+   "reference": "KDT 8e, Poisoning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_005",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "M",
+   "stem": "The viscera to be preserved in a suspected poisoning autopsy include:",
+   "options": [
+    "Stomach with contents, upper small intestine, liver, kidney and blood",
+    "Brain only",
+    "Lungs only",
+    "Skin only"
+   ],
+   "correct": 0,
+   "concept": "Saturated sodium chloride is the routine preservative, except for suspected alcohol where sodium fluoride is used. Rectified spirit is never used when alcohol or organophosphate poisoning is suspected.",
+   "reference": "Reddy Forensic Medicine 35e, Autopsy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_006",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "M",
+   "stem": "In a medico-legal autopsy, the incision of choice for opening the body is:",
+   "options": [
+    "The I-shaped or Y-shaped incision, avoiding the neck where strangulation is suspected until bloodless dissection",
+    "Any incision",
+    "A small incision",
+    "No incision"
+   ],
+   "correct": 0,
+   "concept": "In suspected neck compression, the head and brain are removed first to drain blood, then layer-by-layer bloodless neck dissection is performed to avoid artefactual haemorrhage that could mimic true injury.",
+   "reference": "Reddy Forensic Medicine 35e, Autopsy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_007",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "E",
+   "stem": "A medico-legal autopsy should be performed:",
+   "options": [
+    "Only in daylight or equivalent illumination, as artificial light alters colour perception",
+    "At night preferably",
+    "Any time",
+    "Only after 24 hours"
+   ],
+   "correct": 0,
+   "concept": "Colour changes such as the cherry-red of carbon monoxide, jaundice and bruise colour are misjudged under artificial light. The autopsy must not be delayed unnecessarily as putrefaction destroys evidence.",
+   "reference": "Reddy Forensic Medicine 35e, Autopsy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_008",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "H",
+   "stem": "Negative autopsy refers to one in which:",
+   "options": [
+    "No cause of death is found despite gross, microscopic, toxicological and laboratory examination",
+    "Only gross examination is negative",
+    "The autopsy was not done",
+    "The cause is obvious"
+   ],
+   "correct": 0,
+   "concept": "Negative autopsies constitute 2 to 5% of cases; possible mechanisms include vagal inhibition, cardiac arrhythmia, epilepsy and anaphylaxis, which leave no morphological trace.",
+   "reference": "Reddy Forensic Medicine 35e, Autopsy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_009",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "H",
+   "stem": "Vagal inhibition causing sudden death is characteristically associated with:",
+   "options": [
+    "Minor trauma to sensitive areas such as the neck, larynx, epigastrium or genitalia",
+    "Massive haemorrhage",
+    "Prolonged illness",
+    "Severe head injury"
+   ],
+   "correct": 0,
+   "concept": "Reflex cardiac arrest from parasympathetic overactivity produces a negative autopsy, so the diagnosis is one of exclusion based on circumstances. Alcohol and a full stomach are predisposing factors.",
+   "reference": "Reddy Forensic Medicine 35e, Autopsy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_PSY_010",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Forensic psychiatry, general toxicology & autopsy technique",
+   "difficulty": "M",
+   "stem": "The Mental Healthcare Act 2017 is significant because it:",
+   "options": [
+    "Decriminalises attempted suicide and establishes advance directives and the right to treatment",
+    "Increases penalties for suicide",
+    "Removes patient rights",
+    "Applies only to institutions"
+   ],
+   "correct": 0,
+   "concept": "The Act presumes that a person attempting suicide has severe stress and shall not be punished under Section 309 IPC, mandates a duty of care, and empowers patients through advance directives and nominated representatives.",
+   "reference": "Mental Healthcare Act 2017",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "E",
+   "stem": "Aspirin irreversibly inhibits cyclo-oxygenase, which explains why:",
+   "options": [
+    "Its antiplatelet effect lasts the 7 to 10 day lifespan of the platelet",
+    "It acts for only 4 hours",
+    "It must be given twice daily",
+    "It has no antiplatelet effect"
+   ],
+   "correct": 0,
+   "concept": "Platelets lack nuclei and cannot resynthesise COX-1, so a single low dose suppresses thromboxane A2 for the platelet lifespan, which is why aspirin is stopped about a week before elective surgery.",
+   "reference": "KDT 8e, NSAIDs",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "Reye syndrome, an encephalopathy with fatty liver, contraindicates aspirin in:",
+   "options": [
+    "Children with viral illness such as varicella or influenza",
+    "All adults",
+    "Diabetics",
+    "The elderly"
+   ],
+   "correct": 0,
+   "concept": "Aspirin is avoided under 16 years except in Kawasaki disease and rheumatic fever, where the benefit outweighs the small risk. Paracetamol is the antipyretic of choice in children.",
+   "reference": "KDT 8e, NSAIDs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "Selective COX-2 inhibitors were developed to reduce gastric toxicity, but are limited by:",
+   "options": [
+    "Increased cardiovascular thrombotic risk",
+    "Hepatotoxicity",
+    "Nephrotoxicity only",
+    "Bone marrow suppression"
+   ],
+   "correct": 0,
+   "concept": "Sparing COX-1 preserves gastric prostaglandins but reduces endothelial prostacyclin without inhibiting platelet thromboxane, shifting the balance towards thrombosis - which led to withdrawal of rofecoxib.",
+   "reference": "KDT 8e, NSAIDs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "E",
+   "stem": "Paracetamol differs from other NSAIDs in that it:",
+   "options": [
+    "Has negligible anti-inflammatory and antiplatelet action",
+    "Is the most potent anti-inflammatory",
+    "Causes gastric ulcers",
+    "Is an antiplatelet"
+   ],
+   "correct": 0,
+   "concept": "Paracetamol is a good analgesic and antipyretic acting centrally with little peripheral COX inhibition, making it safe in peptic ulcer, asthma and bleeding disorders, but useless for inflammatory arthritis.",
+   "reference": "KDT 8e, Analgesic-Antipyretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "Hepatotoxicity in paracetamol overdose is caused by:",
+   "options": [
+    "Accumulation of NAPQI once glutathione stores are depleted",
+    "The parent drug directly",
+    "Renal metabolites",
+    "Immune reaction"
+   ],
+   "correct": 0,
+   "concept": "CYP2E1 generates the reactive metabolite NAPQI, normally detoxified by glutathione. N-acetylcysteine replenishes glutathione, and chronic alcohol use and malnutrition increase susceptibility.",
+   "reference": "KDT 8e, Analgesic-Antipyretics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "NSAIDs are contraindicated in a patient with which condition?",
+   "options": [
+    "Peptic ulcer disease and chronic kidney disease",
+    "Hypertension alone",
+    "Diabetes",
+    "Anaemia"
+   ],
+   "correct": 0,
+   "concept": "Loss of protective gastric prostaglandins causes ulceration and bleeding, and loss of afferent arteriolar vasodilatation precipitates acute kidney injury, especially with ACE inhibitors and diuretics - the triple whammy.",
+   "reference": "KDT 8e, NSAIDs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "E",
+   "stem": "Colchicine relieves acute gout by:",
+   "options": [
+    "Binding tubulin and inhibiting neutrophil migration into the joint",
+    "Lowering serum urate",
+    "Increasing urate excretion",
+    "Blocking xanthine oxidase"
+   ],
+   "correct": 0,
+   "concept": "Colchicine does not affect urate levels and its usefulness is limited by diarrhoea, vomiting and abdominal pain at effective doses. NSAIDs and steroids are generally preferred for the acute attack.",
+   "reference": "KDT 8e, Drugs for Gout",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "H",
+   "stem": "Aspirin in low doses affects urate handling by:",
+   "options": [
+    "Reducing urate excretion and therefore raising serum urate",
+    "Increasing excretion",
+    "Having no effect",
+    "Inhibiting xanthine oxidase"
+   ],
+   "correct": 0,
+   "concept": "Low-dose aspirin retains urate, whereas high doses are uricosuric. This is why low-dose aspirin can precipitate gout, though its cardiovascular benefit usually outweighs this.",
+   "reference": "KDT 8e, Drugs for Gout",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "H",
+   "stem": "Febuxostat differs from allopurinol in that it:",
+   "options": [
+    "Is a non-purine selective xanthine oxidase inhibitor, usable in allopurinol hypersensitivity",
+    "Is uricosuric",
+    "Is a purine analogue",
+    "Increases urate production"
+   ],
+   "correct": 0,
+   "concept": "Febuxostat is largely hepatically metabolised, so dose adjustment in mild to moderate renal impairment is unnecessary, but concerns about cardiovascular mortality restrict its first-line use.",
+   "reference": "KDT 8e, Drugs for Gout",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_NSA_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "Probenecid is ineffective and contraindicated in patients with:",
+   "options": [
+    "Renal impairment or a history of urate stones",
+    "Hypertension",
+    "Diabetes",
+    "Asthma"
+   ],
+   "correct": 0,
+   "concept": "Uricosurics require adequate glomerular filtration to work and increase urinary urate load, risking stone formation, so high fluid intake and urinary alkalinisation are advised. They must never be started during an acute attack.",
+   "reference": "KDT 8e, Drugs for Gout",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

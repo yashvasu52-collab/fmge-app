@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_ENT_ORL_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "E",
+   "stem": "The commonest salivary gland tumour is:",
+   "options": [
+    "Pleomorphic adenoma of the parotid",
+    "Warthin tumour",
+    "Adenoid cystic carcinoma",
+    "Mucoepidermoid carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Pleomorphic adenoma (benign mixed tumour) accounts for most salivary neoplasms, usually in the superficial lobe of the parotid, presenting as a slow-growing painless mobile swelling. Superficial parotidectomy is preferred over enucleation to avoid recurrence.",
+   "reference": "Dhingra ENT 7e, Salivary Glands",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "M",
+   "stem": "Facial nerve palsy in a patient with a parotid swelling suggests:",
+   "options": [
+    "Malignant transformation or a malignant parotid tumour",
+    "A benign pleomorphic adenoma",
+    "Sialolithiasis",
+    "Mumps"
+   ],
+   "correct": 0,
+   "concept": "The facial nerve passes through the parotid but is not affected by benign tumours; palsy, pain, fixity, rapid growth or cervical nodes indicate malignancy. FNAC and imaging are needed before surgery.",
+   "reference": "Dhingra ENT 7e, Salivary Glands",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "M",
+   "stem": "The commonest malignant salivary gland tumour is:",
+   "options": [
+    "Mucoepidermoid carcinoma",
+    "Adenoid cystic carcinoma",
+    "Acinic cell carcinoma",
+    "Squamous cell carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Mucoepidermoid carcinoma is the commonest salivary malignancy overall, while adenoid cystic carcinoma is notorious for perineural spread, late distant metastasis to lung and poor long-term survival despite indolent growth.",
+   "reference": "Dhingra ENT 7e, Salivary Glands",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "E",
+   "stem": "Salivary calculi most commonly occur in the:",
+   "options": [
+    "Submandibular gland and Wharton duct",
+    "Parotid gland",
+    "Sublingual gland",
+    "Minor salivary glands"
+   ],
+   "correct": 0,
+   "concept": "About 80% of salivary stones occur in the submandibular system because its secretion is more mucinous and alkaline with higher calcium, and Wharton duct drains uphill against gravity. Pain and swelling occur at mealtimes.",
+   "reference": "Dhingra ENT 7e, Salivary Glands",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "M",
+   "stem": "Frey syndrome following parotidectomy is characterised by:",
+   "options": [
+    "Gustatory sweating and flushing over the cheek from aberrant parasympathetic reinnervation",
+    "Facial palsy",
+    "Xerostomia",
+    "Trismus"
+   ],
+   "correct": 0,
+   "concept": "Severed auriculotemporal parasympathetic fibres regenerate into sweat glands of the overlying skin, so eating provokes sweating and flushing. A positive starch-iodine test confirms it; botulinum toxin is the treatment of choice.",
+   "reference": "Dhingra ENT 7e, Salivary Glands",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "M",
+   "stem": "The commonest site of oral cavity carcinoma in India is:",
+   "options": [
+    "The buccal mucosa and gingivobuccal sulcus, related to tobacco quid chewing",
+    "The lip",
+    "The hard palate",
+    "The floor of mouth"
+   ],
+   "correct": 0,
+   "concept": "Gingivobuccal complex carcinoma is characteristic of Indian tobacco and areca nut chewing habits, sometimes called the Indian oral cancer. In Western countries the tongue and floor of mouth predominate.",
+   "reference": "Park 27e, Oral Cancer",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "E",
+   "stem": "Oral submucous fibrosis is strongly associated with:",
+   "options": [
+    "Areca nut (betel quid) chewing",
+    "Alcohol only",
+    "Smoking only",
+    "Poor dentition"
+   ],
+   "correct": 0,
+   "concept": "Areca nut alkaloids cause juxta-epithelial fibrosis producing blanching, burning on spicy food and progressive trismus. It is a potentially malignant disorder with substantial risk of squamous carcinoma, so habit cessation and surveillance are essential.",
+   "reference": "Park 27e, Oral Cancer",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "H",
+   "stem": "Which oral lesion carries the highest risk of malignant transformation?",
+   "options": [
+    "Erythroplakia",
+    "Leukoplakia",
+    "Lichen planus",
+    "Aphthous ulcer"
+   ],
+   "correct": 0,
+   "concept": "Erythroplakia, a velvety red patch, shows dysplasia or carcinoma in situ in most cases and carries far higher transformation risk than leukoplakia, so it must always be biopsied.",
+   "reference": "Dhingra ENT 7e, Oral Cavity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "H",
+   "stem": "Adenotonsillar hypertrophy in a child may lead to:",
+   "options": [
+    "Obstructive sleep apnoea with adenoid facies and cor pulmonale if severe",
+    "Conductive deafness only",
+    "Bronchiectasis",
+    "Sinus thrombosis"
+   ],
+   "correct": 0,
+   "concept": "Chronic upper airway obstruction causes mouth breathing, adenoid facies with a high arched palate, hyponasal voice, sleep apnoea, failure to thrive and eventually pulmonary hypertension. Adenotonsillectomy is curative.",
+   "reference": "Dhingra ENT 7e, Adenoids",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_ORL_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oral cavity, salivary gland & pharyngeal disease",
+   "difficulty": "M",
+   "stem": "An absolute indication for tonsillectomy is:",
+   "options": [
+    "Suspected malignancy of the tonsil",
+    "A single episode of tonsillitis",
+    "Halitosis",
+    "Mild snoring"
+   ],
+   "correct": 0,
+   "concept": "Absolute indications include suspected malignancy, obstructive sleep apnoea from tonsillar hypertrophy and recurrent quinsy. Recurrent tonsillitis meeting the Paradise criteria is a relative indication.",
+   "reference": "Dhingra ENT 7e, Tonsillectomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "E",
+   "stem": "An extradural haematoma most commonly results from injury to the:",
+   "options": [
+    "Middle meningeal artery with an associated temporal bone fracture",
+    "Bridging veins",
+    "Superior sagittal sinus",
+    "Vertebral artery"
+   ],
+   "correct": 0,
+   "concept": "Rupture of the middle meningeal artery beneath a temporal fracture produces an arterial extradural collection, classically with a lucid interval, and appears biconvex (lens-shaped) on CT because it cannot cross suture lines.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "M",
+   "stem": "A crescent-shaped hyperdense collection crossing suture lines on CT indicates:",
+   "options": [
+    "Acute subdural haematoma from torn bridging veins",
+    "Extradural haematoma",
+    "Subarachnoid haemorrhage",
+    "Intracerebral haematoma"
+   ],
+   "correct": 0,
+   "concept": "Subdural blood from torn bridging veins spreads across the whole hemisphere crossing sutures but not the midline, appearing crescentic. It is common in the elderly and alcoholics with cerebral atrophy and carries worse prognosis than extradural bleeds.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "M",
+   "stem": "The lucid interval classically described in head injury refers to:",
+   "options": [
+    "A period of normal consciousness between the initial concussion and subsequent deterioration",
+    "Permanent recovery",
+    "Coma from the outset",
+    "Amnesia only"
+   ],
+   "correct": 0,
+   "concept": "The lucid interval is characteristic of extradural haematoma, as arterial blood slowly strips the dura before the mass effect causes deterioration and uncal herniation. Its presence demands urgent CT and evacuation.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "E",
+   "stem": "A Glasgow Coma Scale score of 8 or less indicates:",
+   "options": [
+    "Severe head injury requiring intubation for airway protection",
+    "Mild injury",
+    "Moderate injury",
+    "Normal consciousness"
+   ],
+   "correct": 0,
+   "concept": "GCS 13 to 15 is mild, 9 to 12 moderate and 8 or below severe. A score of 8 or less means the patient cannot protect the airway and requires definitive airway management with neurosurgical referral.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "M",
+   "stem": "Battle sign and raccoon eyes in a head-injured patient indicate:",
+   "options": [
+    "A base of skull fracture",
+    "A depressed vault fracture",
+    "A cervical spine injury",
+    "An orbital blowout fracture"
+   ],
+   "correct": 0,
+   "concept": "Mastoid ecchymosis (Battle sign) and periorbital bruising (raccoon eyes) with CSF otorrhoea or rhinorrhoea and haemotympanum indicate basal skull fracture. Nasogastric tubes are avoided because of the risk of intracranial passage.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "M",
+   "stem": "The Monro-Kellie doctrine explains why:",
+   "options": [
+    "Intracranial pressure rises steeply once compensatory displacement of CSF and venous blood is exhausted",
+    "The brain can expand indefinitely",
+    "CSF production stops after injury",
+    "Blood pressure falls with rising ICP"
+   ],
+   "correct": 0,
+   "concept": "The cranium is a rigid box containing brain, blood and CSF; an expanding mass is first buffered by displacing CSF and venous blood, but once this reserve is exhausted, small further increases in volume cause steep rises in pressure.",
+   "reference": "Bailey & Love 28e, Intracranial Pressure",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "E",
+   "stem": "Cerebral perfusion pressure is calculated as:",
+   "options": [
+    "Mean arterial pressure minus intracranial pressure",
+    "Systolic pressure minus ICP",
+    "MAP plus ICP",
+    "ICP minus MAP"
+   ],
+   "correct": 0,
+   "concept": "CPP equals MAP minus ICP and should be maintained above about 60 mmHg. This is why hypotension is so damaging in head injury and why both raising MAP and lowering ICP are therapeutic goals.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "H",
+   "stem": "Diffuse axonal injury is characterised by:",
+   "options": [
+    "Immediate prolonged coma with relatively normal initial CT and petechial haemorrhages at grey-white junctions",
+    "A large focal haematoma",
+    "A lucid interval",
+    "Rapid full recovery"
+   ],
+   "correct": 0,
+   "concept": "Rotational acceleration-deceleration shears axons, causing immediate and prolonged unconsciousness with a CT that may look near-normal; MRI shows lesions at the grey-white junction, corpus callosum and brainstem. Prognosis is poor.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "H",
+   "stem": "The commonest cause of spontaneous subarachnoid haemorrhage is:",
+   "options": [
+    "Rupture of a berry (saccular) aneurysm of the circle of Willis",
+    "Arteriovenous malformation",
+    "Hypertensive bleed",
+    "Tumour"
+   ],
+   "correct": 0,
+   "concept": "About 85% of spontaneous subarachnoid haemorrhage is from a ruptured saccular aneurysm, presenting with sudden thunderclap headache, neck stiffness and photophobia. CT then lumbar puncture for xanthochromia confirms it; nimodipine prevents vasospasm.",
+   "reference": "Bailey & Love 28e, Subarachnoid Haemorrhage",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_HED_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head injury & neurosurgical emergencies",
+   "difficulty": "M",
+   "stem": "A chronic subdural haematoma in an elderly patient typically presents with:",
+   "options": [
+    "Fluctuating confusion, headache and progressive focal deficit weeks after trivial trauma",
+    "Sudden coma",
+    "Immediate hemiplegia",
+    "Fever and neck stiffness"
+   ],
+   "correct": 0,
+   "concept": "Cerebral atrophy stretches bridging veins so minor trauma, often forgotten, produces a slowly enlarging collection presenting weeks later with confusion, headache and gait disturbance. Burr-hole drainage gives excellent results.",
+   "reference": "Bailey & Love 28e, Head Injury",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "E",
+   "stem": "The rule of nines assigns what percentage of body surface area to an adult's entire lower limb?",
+   "options": [
+    "Eighteen percent",
+    "Nine percent",
+    "Twenty-seven percent",
+    "Thirty-six percent"
+   ],
+   "correct": 0,
+   "concept": "In adults the head is 9%, each upper limb 9%, each lower limb 18%, anterior trunk 18%, posterior trunk 18% and perineum 1%. In children the head is proportionately larger and the limbs smaller, so the Lund-Browder chart is more accurate.",
+   "reference": "Bailey & Love 28e, Burns",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "M",
+   "stem": "The Parkland formula for fluid resuscitation in burns is:",
+   "options": [
+    "4 mL x body weight in kg x percentage burn of Ringer lactate in 24 hours, half in the first 8 hours",
+    "2 mL x weight x percentage over 24 hours",
+    "4 mL x weight x percentage of colloid",
+    "Maintenance fluids only"
+   ],
+   "correct": 0,
+   "concept": "Parkland gives 4 mL/kg per percent burn of Ringer lactate over 24 hours from the time of injury, with half in the first 8 hours. Urine output of 0.5 to 1 mL/kg/hour is the best guide, as the formula is only a starting estimate.",
+   "reference": "Bailey & Love 28e, Burns",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "M",
+   "stem": "A deep partial thickness (deep dermal) burn is characterised by:",
+   "options": [
+    "Reduced sensation with a mottled appearance and sluggish capillary refill, healing slowly with scarring",
+    "Intact sensation with blistering and brisk refill",
+    "Painless, dry, leathery eschar",
+    "Erythema only"
+   ],
+   "correct": 0,
+   "concept": "Superficial dermal burns are painful, blistered and blanch briskly, healing in two weeks. Deep dermal burns have diminished sensation and sluggish refill, heal slowly with scarring and often need grafting; full thickness burns are painless and leathery.",
+   "reference": "Bailey & Love 28e, Burns",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "E",
+   "stem": "Which finding suggests inhalational injury requiring early intubation?",
+   "options": [
+    "Facial burns with singed nasal hair, soot in the oropharynx and hoarseness",
+    "Burns to the lower limbs",
+    "A small scald on the hand",
+    "Circumferential limb burn"
+   ],
+   "correct": 0,
+   "concept": "Airway oedema develops rapidly and unpredictably, so early elective intubation is safer than emergency intubation later. Carboxyhaemoglobin should be measured and 100% oxygen given, as pulse oximetry is falsely reassuring.",
+   "reference": "Bailey & Love 28e, Burns",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "M",
+   "stem": "Escharotomy is indicated for:",
+   "options": [
+    "A circumferential full-thickness burn causing distal ischaemia or restricting chest expansion",
+    "Any partial thickness burn",
+    "Superficial burns",
+    "Facial burns"
+   ],
+   "correct": 0,
+   "concept": "Inelastic circumferential eschar acts as a tourniquet as oedema develops, compromising limb perfusion or ventilation. Escharotomy incisions through the eschar down to fat relieve this and are performed at the bedside.",
+   "reference": "Bailey & Love 28e, Burns",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "M",
+   "stem": "The topical agent of choice for most burn wounds, with good eschar penetration limitations, is:",
+   "options": [
+    "Silver sulfadiazine",
+    "Mafenide acetate for all burns",
+    "Plain petroleum jelly",
+    "Systemic antibiotics alone"
+   ],
+   "correct": 0,
+   "concept": "Silver sulfadiazine is widely used and painless but penetrates eschar poorly and may cause transient leucopenia. Mafenide penetrates eschar well, useful for cartilage-containing areas, but is painful and causes metabolic acidosis by carbonic anhydrase inhibition.",
+   "reference": "Bailey & Love 28e, Burns",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "E",
+   "stem": "A split-thickness skin graft consists of:",
+   "options": [
+    "Epidermis with part of the dermis",
+    "Epidermis only",
+    "Epidermis and full dermis",
+    "Dermis with subcutaneous fat"
+   ],
+   "correct": 0,
+   "concept": "Split-thickness grafts include epidermis and a variable part of dermis, take more readily on imperfect beds and allow donor site re-epithelialisation, but contract more. Full-thickness grafts contract less and give better cosmesis but need an excellent bed.",
+   "reference": "Bailey & Love 28e, Plastic Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "H",
+   "stem": "The commonest cause of death in the first 24 to 48 hours after a major burn is:",
+   "options": [
+    "Hypovolaemic shock from capillary leak",
+    "Sepsis",
+    "Renal failure",
+    "Curling ulcer"
+   ],
+   "correct": 0,
+   "concept": "Massive capillary leak causes burn shock and death early if resuscitation is inadequate; beyond the first week, sepsis and multi-organ failure become the leading causes. Curling ulcer is a stress ulcer complication.",
+   "reference": "Bailey & Love 28e, Burns",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "H",
+   "stem": "Marjolin ulcer is:",
+   "options": [
+    "A squamous cell carcinoma arising in a chronic burn scar or long-standing sinus",
+    "A basal cell carcinoma of the face",
+    "A venous ulcer",
+    "A pressure sore"
+   ],
+   "correct": 0,
+   "concept": "Malignant transformation in a chronic unstable scar, ulcer or sinus produces a well-differentiated but locally aggressive squamous carcinoma after many years. Any non-healing or changing scar should be biopsied.",
+   "reference": "Bailey & Love 28e, Skin Tumours",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_BRN_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Burns & basics of plastic surgery",
+   "difficulty": "M",
+   "stem": "A skin graft fails to take most commonly because of:",
+   "options": [
+    "Haematoma or seroma beneath the graft preventing plasmatic imbibition and revascularisation",
+    "Excessive graft thickness only",
+    "Cold weather",
+    "Systemic antibiotics"
+   ],
+   "correct": 0,
+   "concept": "Graft take depends on plasmatic imbibition then inosculation and revascularisation, all of which fail if a collection, shear movement or infection separates graft from bed. Meticulous haemostasis and immobilisation are therefore essential.",
+   "reference": "Bailey & Love 28e, Plastic Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

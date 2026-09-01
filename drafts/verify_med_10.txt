@@ -1,0 +1,55 @@
+Q_MED_SEP_012 | del | duplicate of Q_MED_SEP_006 on procalcitonin guiding antibiotic de-escalation. The first item is retained
+Q_MED_SEP_013 | del | duplicate of Q_MED_SEP_007 on de-escalating to the narrowest effective agent. The first item is retained
+Q_MED_SEP_014 | del | duplicate of Q_MED_SEP_002 on early appropriate antibiotics with source control. The first item is retained
+Q_MED_PE_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 273 (Deep Venous Thrombosis and Pulmonary Thromboembolism) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PE_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 273 (Deep Venous Thrombosis and Pulmonary Thromboembolism) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PE_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 273 (Deep Venous Thrombosis and Pulmonary Thromboembolism) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PE_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 273 (Deep Venous Thrombosis and Pulmonary Thromboembolism) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PE_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 273 (Deep Venous Thrombosis and Pulmonary Thromboembolism) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PE_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 273 (Deep Venous Thrombosis and Pulmonary Thromboembolism) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PE_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 273 (Deep Venous Thrombosis and Pulmonary Thromboembolism) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PE_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Sleep Apnea | a sleep apnoea item was cited to the venous thromboembolism chapter
+Q_MED_PE_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Sleep Apnea | a sleep apnoea item was cited to the venous thromboembolism chapter
+Q_MED_PE_018 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Sleep Apnea | a sleep apnoea item was cited to the venous thromboembolism chapter
+Q_MED_PE_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Sleep Apnea | a sleep apnoea item was cited to the venous thromboembolism chapter
+Q_MED_PE_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Pulmonary Hypertension | a pulmonary hypertension item was cited to the venous thromboembolism chapter
+Q_MED_PE_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Pulmonary Hypertension | a pulmonary hypertension item was cited to the venous thromboembolism chapter
+Q_MED_RA_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 358 (Rheumatoid Arthritis) | the chapter was cited as "Rheumatoid Arthritis and SLE", a merged title that is not a chapter in the book
+Q_MED_RA_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 358 (Rheumatoid Arthritis) | the chapter was cited as "Rheumatoid Arthritis and SLE", a merged title that is not a chapter in the book
+Q_MED_RA_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 358 (Rheumatoid Arthritis) | the chapter was cited as "Rheumatoid Arthritis and SLE", a merged title that is not a chapter in the book
+Q_MED_RA_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 358 (Rheumatoid Arthritis) | the chapter was cited as "Rheumatoid Arthritis and SLE", a merged title that is not a chapter in the book
+Q_MED_RA_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Systemic Lupus Erythematosus | a lupus item was cited to a merged or rheumatoid arthritis chapter
+Q_MED_RA_015 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Systemic Lupus Erythematosus | a lupus item was cited to a merged or rheumatoid arthritis chapter
+Q_MED_RA_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Systemic Lupus Erythematosus | a lupus item was cited to a merged or rheumatoid arthritis chapter
+Q_MED_RA_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Sjogren Syndrome | a Sjogren syndrome item was cited to a merged rheumatoid arthritis and lupus chapter
+Q_MED_RA_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Systemic Sclerosis | a systemic sclerosis item was cited to the rheumatoid arthritis chapter
+Q_MED_SEP_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 297 (Sepsis and Septic Shock) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_SEP_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 297 (Sepsis and Septic Shock) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_SEP_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 297 (Sepsis and Septic Shock) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_SEP_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 297 (Sepsis and Septic Shock) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_SEP_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 297 (Sepsis and Septic Shock) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_POI_009 | ok |
+Q_MED_POI_010 | ok |
+Q_MED_POI_011 | ok |
+Q_MED_POI_012 | ok |
+Q_MED_POI_013 | ok |
+Q_MED_POI_014 | ok |
+Q_MED_POI_015 | ok |
+Q_MED_POI_016 | ok |
+Q_MED_POI_017 | ok |
+Q_MED_POI_019 | ok |
+Q_MED_PE_011 | ok |
+Q_MED_PE_012 | ok |
+Q_MED_PE_013 | ok |
+Q_MED_PE_014 | ok |
+Q_MED_PE_015 | ok |
+Q_MED_RA_003 | ok |
+Q_MED_RA_007 | ok |
+Q_MED_RA_011 | ok |
+Q_MED_RA_012 | ok |
+Q_MED_RA_013 | ok |
+Q_MED_RA_014 | ok |
+Q_MED_SEP_003 | ok |
+Q_MED_SEP_007 | ok |
+Q_MED_SEP_010 | ok |
+Q_MED_SEP_011 | ok |

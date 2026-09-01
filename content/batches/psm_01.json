@@ -1,0 +1,490 @@
+{
+ "questions": [
+  {
+   "id": "Q_PSM_MAT_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "E",
+   "stem": "The minimum number of antenatal visits recommended under the Indian programme is:",
+   "options": [
+    "Four, with the first in the first trimester",
+    "One",
+    "Two",
+    "Eight"
+   ],
+   "correct": 0,
+   "concept": "WHO now recommends eight contacts, but the Indian programme requires at least four, supplemented by Pradhan Mantri Surakshit Matritva Abhiyan providing free specialist antenatal care on the ninth of every month.",
+   "reference": "Park 27e, Maternal Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "M",
+   "stem": "Janani Suraksha Yojana was introduced primarily to:",
+   "options": [
+    "Promote institutional delivery through conditional cash transfer",
+    "Provide free medicines",
+    "Train doctors",
+    "Build hospitals"
+   ],
+   "correct": 0,
+   "concept": "By addressing the financial barrier it substantially raised institutional delivery rates. Janani Shishu Suraksha Karyakram additionally entitles pregnant women to free delivery, drugs, diagnostics, diet and transport.",
+   "reference": "Park 27e, Maternal Health",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "M",
+   "stem": "The maternal mortality ratio in India has declined chiefly due to:",
+   "options": [
+    "Increased institutional delivery with skilled birth attendance and emergency obstetric care",
+    "Better nutrition alone",
+    "Smaller family size alone",
+    "Improved literacy alone"
+   ],
+   "correct": 0,
+   "concept": "Most maternal deaths occur around labour and the first 24 hours postpartum, so skilled attendance with functioning referral for emergency obstetric care addresses the period of greatest risk.",
+   "reference": "Park 27e, Maternal Mortality",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "E",
+   "stem": "Iron and folic acid supplementation in pregnancy under the national programme provides:",
+   "options": [
+    "Elemental iron 60 mg with folic acid 500 micrograms daily for at least 180 days",
+    "Iron only",
+    "Folic acid only",
+    "Weekly dosing"
+   ],
+   "correct": 0,
+   "concept": "Supplementation begins after the first trimester and continues 180 days postpartum. Anaemia Mukt Bharat extends supplementation across all life stages with a 6x6x6 strategy.",
+   "reference": "Park 27e, Anaemia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "M",
+   "stem": "The high-risk approach in antenatal care means:",
+   "options": [
+    "Identifying and referring women with risk factors while continuing universal basic care",
+    "Treating only high-risk women",
+    "Ignoring low-risk women",
+    "Screening after delivery"
+   ],
+   "correct": 0,
+   "concept": "Since most complications occur in women with no identified risk factor, every pregnancy is treated as potentially at risk - which is why birth preparedness and skilled attendance are universal rather than selective.",
+   "reference": "Park 27e, Maternal Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "M",
+   "stem": "Tetanus toxoid in pregnancy is given as:",
+   "options": [
+    "Two doses one month apart, or a single booster if immunised within the last three years",
+    "One dose only",
+    "Three doses",
+    "Five doses"
+   ],
+   "correct": 0,
+   "concept": "Maternal antibodies cross the placenta protecting the newborn against neonatal tetanus, which together with clean delivery practices led to elimination of maternal and neonatal tetanus in India in 2015.",
+   "reference": "Park 27e, Immunisation",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "E",
+   "stem": "The couple protection rate refers to:",
+   "options": [
+    "The percentage of eligible couples effectively protected by a contraceptive method",
+    "Number of condoms distributed",
+    "Birth rate",
+    "Sterilisation numbers"
+   ],
+   "correct": 0,
+   "concept": "A rate of about 60% is needed to achieve net reproduction rate of one. Eligible couples are those where the wife is in the reproductive age group of 15 to 45 years.",
+   "reference": "Park 27e, Family Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "H",
+   "stem": "The most effective reversible contraceptive method in the national programme is:",
+   "options": [
+    "The intrauterine contraceptive device such as Cu-T 380A",
+    "Condoms",
+    "Oral pills",
+    "Rhythm method"
+   ],
+   "correct": 0,
+   "concept": "Cu-T 380A provides protection for 10 years with a very low failure rate and no user compliance requirement, and is offered postpartum and post-abortion to maximise uptake.",
+   "reference": "Park 27e, Family Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "H",
+   "stem": "Pearl index is used to measure:",
+   "options": [
+    "Contraceptive failure rate per 100 woman-years of exposure",
+    "Contraceptive acceptance",
+    "Birth rate",
+    "Maternal mortality"
+   ],
+   "correct": 0,
+   "concept": "A lower index indicates greater efficacy. Method failure reflects the technique itself, while user failure reflects incorrect or inconsistent use - a distinction important in counselling.",
+   "reference": "Park 27e, Family Planning",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_PSM_MAT_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Maternal health, RCH & safe motherhood programmes",
+   "difficulty": "M",
+   "stem": "Under the RCH programme, a woman is advised to space births by at least:",
+   "options": [
+    "Three years between successive births",
+    "One year",
+    "Six months",
+    "Five years"
+   ],
+   "correct": 0,
+   "concept": "Short birth intervals increase risks of preterm birth, low birth weight, maternal anaemia and infant mortality. The recommendation is birth spacing of three years and first pregnancy delayed to at least two years after marriage.",
+   "reference": "Park 27e, Family Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "E",
+   "stem": "The infant mortality rate is expressed as deaths under one year per:",
+   "options": [
+    "1,000 live births",
+    "100,000 live births",
+    "1,000 population",
+    "100 live births"
+   ],
+   "correct": 0,
+   "concept": "IMR is the most sensitive single index of the health and socio-economic status of a community, being highly responsive to nutrition, sanitation, maternal education and health service quality.",
+   "reference": "Park 27e, Health Indicators",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "M",
+   "stem": "The neonatal period contributes what proportion of infant deaths in India?",
+   "options": [
+    "About two-thirds",
+    "One-tenth",
+    "One-quarter",
+    "One-half only in rural areas"
+   ],
+   "correct": 0,
+   "concept": "Because most infant deaths are neonatal and most of those in the first week, further reduction in IMR depends on newborn care - the rationale for Home Based Newborn Care by ASHAs and SNCUs.",
+   "reference": "Park 27e, Child Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "M",
+   "stem": "The three main causes of under-five mortality in India are:",
+   "options": [
+    "Prematurity, pneumonia and diarrhoea",
+    "Injuries, cancer and congenital disease",
+    "Malaria, measles and tetanus",
+    "Malnutrition alone"
+   ],
+   "correct": 0,
+   "concept": "Undernutrition is an underlying contributor to more than half of these deaths rather than a direct cause, which is why nutrition interventions have such large effects on child mortality.",
+   "reference": "Park 27e, Child Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "E",
+   "stem": "IMNCI differs from IMCI in that the Indian adaptation:",
+   "options": [
+    "Includes the first week of life and prioritises the young infant",
+    "Excludes newborns",
+    "Covers only children over 2 months",
+    "Is hospital-based only"
+   ],
+   "correct": 0,
+   "concept": "Since most deaths occur in the neonatal period, the Indian version allocates greater training time to young infants aged 0 to 2 months and incorporates home visits.",
+   "reference": "Park 27e, IMNCI",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "M",
+   "stem": "Under the Universal Immunisation Programme, measles-rubella vaccine is given at:",
+   "options": [
+    "Nine to twelve months with a second dose at 16 to 24 months",
+    "Birth",
+    "Six weeks",
+    "Five years"
+   ],
+   "correct": 0,
+   "concept": "Two doses are required because about 15% do not seroconvert to the first. Vitamin A is given with the second dose and continued six-monthly up to five years.",
+   "reference": "Park 27e, Immunisation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "M",
+   "stem": "The vaccines given at birth in the national schedule are:",
+   "options": [
+    "BCG, oral polio zero dose and hepatitis B birth dose",
+    "DPT and OPV",
+    "Measles",
+    "Rotavirus"
+   ],
+   "correct": 0,
+   "concept": "The hepatitis B birth dose must be given within 24 hours to prevent perinatal transmission, and OPV zero dose primes mucosal immunity before the primary series begins at 6 weeks.",
+   "reference": "Park 27e, Immunisation",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "E",
+   "stem": "Mission Indradhanush was launched to:",
+   "options": [
+    "Increase full immunisation coverage by reaching unvaccinated and partially vaccinated children",
+    "Provide nutrition",
+    "Build hospitals",
+    "Train nurses"
+   ],
+   "correct": 0,
+   "concept": "It targets districts with low coverage in campaign mode, addressing the reality that dropout between first and later doses, rather than complete non-immunisation, is the main gap.",
+   "reference": "Park 27e, Immunisation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "H",
+   "stem": "Under Rashtriya Bal Swasthya Karyakram, children are screened for the 4 Ds, which are:",
+   "options": [
+    "Defects at birth, Deficiencies, Diseases and Developmental delays including disability",
+    "Diarrhoea, Dysentery, Dengue, Diphtheria",
+    "Diabetes, Deafness, Dental, Dermatitis",
+    "Deficiency, Dysentery, Delay, Diabetes"
+   ],
+   "correct": 0,
+   "concept": "Screening covers children from birth to 18 years through facilities, anganwadis and schools, with referral to District Early Intervention Centres for confirmed conditions.",
+   "reference": "Park 27e, Child Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "H",
+   "stem": "The most important component of school health services is:",
+   "options": [
+    "Periodic medical examination with follow-up of detected conditions",
+    "Health education alone",
+    "Immunisation only",
+    "Sanitation only"
+   ],
+   "correct": 0,
+   "concept": "Screening without treatment and follow-up achieves nothing, which is the commonest failure of school health programmes. Nutrition through the mid-day meal and a healthful school environment are equally important.",
+   "reference": "Park 27e, School Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CHI_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child health programmes, IMNCI & school health",
+   "difficulty": "M",
+   "stem": "Anganwadi centres under the ICDS scheme provide all EXCEPT:",
+   "options": [
+    "Inpatient treatment of severe illness",
+    "Supplementary nutrition",
+    "Immunisation and health check-up",
+    "Non-formal preschool education"
+   ],
+   "correct": 0,
+   "concept": "ICDS delivers six services - supplementary nutrition, immunisation, health check-up, referral, nutrition and health education, and preschool education - to children under six, pregnant and lactating women.",
+   "reference": "Park 27e, ICDS",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

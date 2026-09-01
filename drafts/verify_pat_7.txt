@@ -1,0 +1,10 @@
+Q_PAT_SKN_011 | del | duplicate of Q_PAT_SKN_005, whose key already gives suprabasal acantholysis in pemphigus vulgaris. The item that also contrasts bullous pemphigoid is retained
+Q_PAT_SKN_004 | del | duplicate of Q_PAT_SKN_014, which covers the same premalignant actinic keratosis and additionally the progression through Bowen disease to invasion. The fuller item is retained
+Q_PAT_SKN_007 | ok |
+Q_PAT_SKN_008 | ok |
+Q_PAT_SKN_009 | ok |
+Q_PAT_SKN_010 | ok |
+Q_PAT_SKN_012 | ok |
+Q_PAT_SKN_014 | ok |
+Q_PAT_SKN_015 | ok |
+Q_PAT_SKN_016 | ok |

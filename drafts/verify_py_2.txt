@@ -1,0 +1,44 @@
+Q_PY_CO_007 | del | duplicate of Q_PY_CO_016, which covers the same thermoregulatory role of the skin circulation and additionally its competition with muscle during exercise. The fuller item is retained
+Q_PY_CMT_011 | del | duplicate of Q_PY_CMT_003, which identifies the same sodium-potassium ATPase and additionally its electrogenic stoichiometry. The fuller item is retained
+Q_PY_CMT_005 | del | duplicate of Q_PY_CMT_017, which names albumin as the source of oncotic pressure and additionally its role in the Starling equation. The fuller item is retained
+Q_PY_CMT_015 | del | duplicate of Q_PY_CMT_009 on aquaporin-2 regulation by vasopressin in the collecting duct. The first item is retained
+Q_PY_CMT_014 | del | duplicate of Q_PY_CMT_010 on isotonic saline expanding only the extracellular compartment. The first item is retained
+Q_h3d_009 | ref=Guyton and Hall Textbook of Medical Physiology 14e, Ch. Regulation of Potassium, Calcium, Phosphate and Magnesium | the reference named the book with no chapter
+Q_A_015 | ref=Guyton and Hall Textbook of Medical Physiology 14e, Ch. Glomerular Filtration, Renal Blood Flow and Their Control | the chapter was recorded as "Physiology", a placeholder rather than a chapter
+Q_PYQ_FMGE_2025JANP1_045 | topic=Cell membrane transport & body fluid compartments;;ref=FMGE January 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. The Cell and Body Fluid Compartments | a body fluid compartment item sat in the glomerular filtration topic, and the reference named only the exam paper
+Q_PYQ_FMGE_2024JAN_028 | ref=FMGE January 2024 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Glomerular Filtration, Renal Blood Flow and Their Control | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2024JAN_029 | ref=FMGE January 2024 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Glomerular Filtration, Renal Blood Flow and Their Control | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_004 | ref=FMGE January 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Urine Concentration and Dilution | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_042 | ref=FMGE January 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Glomerular Filtration, Renal Blood Flow and Their Control | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_084 | ref=FMGE January 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Tubular Reabsorption and Secretion | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_031 | ref=FMGE January 2026 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Urine Concentration and Dilution | exam-paper-only reference given a study source
+Q_PY_CCE_007 | ok |
+Q_PY_CCE_008 | ok |
+Q_PY_CO_001 | ok |
+Q_PY_CO_002 | ok |
+Q_PY_CO_003 | ok |
+Q_PY_CO_005 | ok |
+Q_PY_CO_006 | ok |
+Q_PY_CO_008 | ok |
+Q_PY_CO_009 | ok |
+Q_PY_CO_010 | ok |
+Q_PY_CO_012 | ok |
+Q_PY_CO_013 | ok |
+Q_PY_CO_014 | ok |
+Q_PY_CO_015 | ok |
+Q_PY_CO_016 | ok |
+Q_PY_CO_018 | ok |
+Q_PY_CO_019 | ok |
+Q_PY_CMT_002 | ok |
+Q_PY_CMT_003 | ok |
+Q_PY_CMT_004 | ok |
+Q_PY_CMT_006 | ok |
+Q_PY_CMT_007 | ok |
+Q_PY_CMT_008 | ok |
+Q_PY_CMT_009 | ok |
+Q_PY_CMT_010 | ok |
+Q_PY_CMT_012 | ok |
+Q_PY_CMT_016 | ok |
+Q_PY_CMT_017 | ok |
+Q_PY_CMT_018 | ok |
+Q_PY_CMT_019 | ok |

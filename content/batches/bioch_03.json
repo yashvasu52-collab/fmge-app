@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "id": "Q_BC_PRO_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "E",
+   "stem": "The alpha helix and beta pleated sheet represent which level of protein structure?",
+   "options": [
+    "Secondary structure, stabilised by hydrogen bonds",
+    "Primary",
+    "Tertiary",
+    "Quaternary"
+   ],
+   "correct": 0,
+   "concept": "Primary structure is the amino acid sequence, tertiary the three-dimensional fold stabilised by disulphide, hydrophobic and ionic interactions, and quaternary the assembly of multiple subunits.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "M",
+   "stem": "Collagen is unique in containing high amounts of:",
+   "options": [
+    "Glycine at every third residue, with hydroxyproline and hydroxylysine",
+    "Cysteine",
+    "Tryptophan",
+    "Histidine"
+   ],
+   "correct": 0,
+   "concept": "Glycine's small size permits the tight triple helix. Hydroxylation of proline and lysine requires vitamin C, so scurvy produces unstable collagen with bleeding gums and poor wound healing.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "M",
+   "stem": "Type I collagen is the predominant collagen of:",
+   "options": [
+    "Bone, skin and tendon",
+    "Cartilage",
+    "Basement membrane",
+    "Reticular fibres"
+   ],
+   "correct": 0,
+   "concept": "Type II is in cartilage, type III is reticulin, and type IV forms basement membrane and is the target in Goodpasture and Alport syndromes. Type I defects cause osteogenesis imperfecta.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "E",
+   "stem": "Sickle cell haemoglobin results from substitution at position 6 of the beta chain of:",
+   "options": [
+    "Valine for glutamic acid",
+    "Glutamic acid for valine",
+    "Lysine for glutamic acid",
+    "Valine for lysine"
+   ],
+   "correct": 0,
+   "concept": "Replacing a charged residue with a hydrophobic one creates a sticky patch causing polymerisation on deoxygenation. HbC results from lysine substitution at the same position.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "M",
+   "stem": "Haemoglobin exhibits a sigmoid oxygen dissociation curve because of:",
+   "options": [
+    "Cooperative binding between its four subunits",
+    "Single subunit binding",
+    "Covalent oxygen binding",
+    "Enzyme activity"
+   ],
+   "correct": 0,
+   "concept": "Myoglobin with a single haem shows a hyperbolic curve and higher affinity, making it a tissue oxygen store rather than a transporter. Cooperativity is what allows efficient loading and unloading.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "M",
+   "stem": "2,3-bisphosphoglycerate lowers haemoglobin oxygen affinity by:",
+   "options": [
+    "Binding the central cavity of deoxyhaemoglobin and stabilising the T state",
+    "Binding haem iron",
+    "Oxidising iron",
+    "Binding the alpha chains"
+   ],
+   "correct": 0,
+   "concept": "HbF binds 2,3-BPG poorly because gamma chains lack key binding residues, giving it higher affinity and enabling placental oxygen transfer from maternal blood.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "E",
+   "stem": "Methaemoglobin differs from normal haemoglobin in that iron is:",
+   "options": [
+    "In the ferric state and cannot bind oxygen",
+    "In the ferrous state",
+    "Absent",
+    "Bound to carbon monoxide"
+   ],
+   "correct": 0,
+   "concept": "Cyanosis unresponsive to oxygen with chocolate-brown blood is characteristic. Methylene blue is the antidote, but is ineffective and dangerous in G6PD deficiency where ascorbic acid is used.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "H",
+   "stem": "Denaturation of a protein involves:",
+   "options": [
+    "Loss of higher-order structure with retention of the primary sequence",
+    "Breaking peptide bonds",
+    "Loss of amino acids",
+    "Change in sequence"
+   ],
+   "correct": 0,
+   "concept": "Heat, extremes of pH, urea and detergents disrupt non-covalent interactions. The classic demonstration is the heat coagulation test for urinary protein, where albumin denatures on boiling.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "H",
+   "stem": "Prion diseases result from:",
+   "options": [
+    "Conformational conversion of a normal alpha-helical protein into a beta-sheet-rich infectious form",
+    "A viral genome",
+    "A bacterial toxin",
+    "A gene deletion"
+   ],
+   "correct": 0,
+   "concept": "The abnormal PrP-Sc is protease-resistant and templates conversion of normal protein, causing Creutzfeldt-Jakob disease and kuru. It resists standard sterilisation, a major concern for surgical instruments.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_PRO_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Protein structure, collagen & haemoglobin variants",
+   "difficulty": "M",
+   "stem": "Electrophoresis separates haemoglobin variants on the basis of:",
+   "options": [
+    "Charge and molecular size at a given pH",
+    "Molecular weight only",
+    "Solubility",
+    "Oxygen affinity"
+   ],
+   "correct": 0,
+   "concept": "HbS moves more slowly than HbA towards the anode because it has lost a negative charge. HPLC has largely replaced electrophoresis for accurate quantification in thalassaemia and sickle screening.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Proteins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "E",
+   "stem": "Transcription in eukaryotes producing messenger RNA is carried out by:",
+   "options": [
+    "RNA polymerase II",
+    "RNA polymerase I",
+    "RNA polymerase III",
+    "DNA polymerase"
+   ],
+   "correct": 0,
+   "concept": "Polymerase I makes ribosomal RNA and III transfer RNA. Alpha-amanitin from Amanita phalloides specifically inhibits polymerase II, which is why mushroom poisoning causes fulminant hepatic failure.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "M",
+   "stem": "Post-transcriptional processing of eukaryotic mRNA includes:",
+   "options": [
+    "5' capping, 3' polyadenylation and splicing out of introns",
+    "Only splicing",
+    "No processing",
+    "Reverse transcription"
+   ],
+   "correct": 0,
+   "concept": "Alternative splicing lets one gene encode multiple proteins, and splicing mutations cause disease - beta thalassaemia frequently results from splice site mutations rather than deletions.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "M",
+   "stem": "The genetic code is described as degenerate because:",
+   "options": [
+    "Most amino acids are encoded by more than one codon",
+    "One codon codes for several amino acids",
+    "It contains errors",
+    "It varies between species"
+   ],
+   "correct": 0,
+   "concept": "Degeneracy is mostly in the third base (wobble position), so third-base substitutions are often silent. This buffers the effect of point mutations.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "E",
+   "stem": "A frameshift mutation results from:",
+   "options": [
+    "Insertion or deletion of nucleotides not in multiples of three",
+    "A single base substitution",
+    "Deletion of three bases",
+    "Duplication of a gene"
+   ],
+   "correct": 0,
+   "concept": "Frameshifts alter every downstream codon and usually create a premature stop, producing a severely truncated protein - which is why Duchenne dystrophy from frameshift deletions is far more severe than in-frame Becker deletions.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "M",
+   "stem": "A nonsense mutation is one that:",
+   "options": [
+    "Converts an amino acid codon into a stop codon",
+    "Changes one amino acid",
+    "Has no effect",
+    "Adds a base"
+   ],
+   "correct": 0,
+   "concept": "Missense changes one amino acid as in sickle cell disease, silent mutations change nothing, and nonsense mutations truncate the protein, typically causing complete loss of function.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "M",
+   "stem": "Diphtheria toxin inhibits protein synthesis by:",
+   "options": [
+    "ADP-ribosylating elongation factor 2",
+    "Blocking the ribosome",
+    "Cleaving mRNA",
+    "Blocking transcription"
+   ],
+   "correct": 0,
+   "concept": "A single toxin molecule can kill a cell, explaining its extraordinary potency. Pseudomonas exotoxin A acts by the same mechanism, while ricin depurinates ribosomal RNA.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "E",
+   "stem": "Post-translational modifications include all EXCEPT:",
+   "options": [
+    "Splicing of introns",
+    "Glycosylation",
+    "Phosphorylation",
+    "Gamma-carboxylation"
+   ],
+   "correct": 0,
+   "concept": "Splicing is post-transcriptional, occurring on RNA. Vitamin K-dependent gamma-carboxylation of clotting factors and vitamin C-dependent hydroxylation of collagen are clinically important post-translational steps.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "H",
+   "stem": "Reverse transcriptase is characteristic of:",
+   "options": [
+    "Retroviruses, synthesising DNA from an RNA template",
+    "DNA viruses",
+    "Bacteria",
+    "All eukaryotes"
+   ],
+   "correct": 0,
+   "concept": "It is the target of zidovudine and nevirapine in HIV therapy and lacks proofreading, giving a high mutation rate that drives drug resistance and frustrates vaccine development.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "H",
+   "stem": "Southern, Northern and Western blotting detect respectively:",
+   "options": [
+    "DNA, RNA and protein",
+    "RNA, DNA and protein",
+    "Protein, DNA and RNA",
+    "DNA, protein and RNA"
+   ],
+   "correct": 0,
+   "concept": "SNOW DROP is the mnemonic - Southern, Northern, Western for DNA, RNA, Protein. Western blot was the traditional confirmatory HIV test, and Southern blot detects trinucleotide repeat expansions.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_TRN_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Transcription, translation & post-translational modification",
+   "difficulty": "M",
+   "stem": "The polymerase chain reaction requires all EXCEPT:",
+   "options": [
+    "Reverse transcriptase for amplifying DNA",
+    "Thermostable DNA polymerase",
+    "Primers",
+    "Deoxynucleotides"
+   ],
+   "correct": 0,
+   "concept": "Reverse transcriptase is needed only for RT-PCR when starting from RNA, as in viral load testing. Standard PCR needs template, primers, Taq polymerase, dNTPs and thermal cycling.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

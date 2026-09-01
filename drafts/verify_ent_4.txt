@@ -1,0 +1,49 @@
+Q_ENT_SED_009 | del | duplicate of Q_ENT_NAS_007 on unilateral obstruction with bleeding indicating sinonasal malignancy, with the biopsy point already covered by Q_ENT_NAS_018. Both of those are retained
+Q_h3d_029 | del | duplicate of Q_PYQ_INICET_2025MAY_008 on biopsy being contraindicated in juvenile nasopharyngeal angiofibroma. The real exam recall is retained
+Q_ENT_TCL_004 | del | duplicate of Q_ENT_NCK_003 on the trismus, uvular deviation and muffled voice of quinsy. The first item is retained
+Q_ENT_TCL_005 | del | duplicate of Q_PYQ_FMGE_2026JUN_019 on a submucous cleft being unmasked by adenotonsillar surgery. The real exam recall is retained
+Q_ENT_VER_011 | del | duplicate of Q_ENT_VER_002 on the Dix-Hallpike test diagnosing benign paroxysmal positional vertigo. The first item is retained
+Q_ENT_VER_009 | del | duplicate of Q_ENT_VER_014, which gives the same vertical nystagmus with brainstem signs and additionally the failure of fixation to suppress it. The fuller item is retained
+Q_ENT_EAR_017 | del | duplicate of Q_PYQ_FMGE_2024JUN_008 on unilateral serous otitis media in an adult indicating nasopharyngeal carcinoma. The real exam recall is retained
+Q_ENT_NAS_006 | del | duplicate of Q_PYQ_FMGE_2025JULP2_086 on rhino-orbito-cerebral mucormycosis in an uncontrolled diabetic. The real exam recall is retained, and Q_ENT_NAS_019 still carries the mechanism
+Q_ENT_SED_006 | stem=A patient who has used intranasal cocaine for several years develops a mucosal ulcer over the nasal septum that progresses to a perforation. What accounts for the perforation? | the stem named septal perforation and the key answered "septal perforation", so the item restated its own stem
+Q_ENT_VER_004 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Vertigo; Ganong's Review of Medical Physiology 26e, Ch. Hearing and Equilibrium | the reference read "Dhingra ENT 7e" in short form at an edition that conflicts with the 8e used throughout the bank
+Q_PYQ_FMGE_2024JUN_008 | topic=Nasal polyps, granulomatous disease & tumours of nose and PNS;;ref=FMGE June 2024 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Nasopharyngeal Carcinoma | a nasopharyngeal carcinoma item sat in the sinusitis and epistaxis topic, and the reference named only the exam paper
+Q_PYQ_FMGE_2025JANP1_060 | topic=Nasal polyps, granulomatous disease & tumours of nose and PNS;;ref=FMGE January 2025 Part 1 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Nasopharyngeal Carcinoma | a nasopharyngeal carcinoma item sat in the tonsillitis and carcinoma larynx topic, and the reference named only the exam paper
+Q_PYQ_FMGE_2026JUN_019 | topic=Oral cavity, salivary gland & pharyngeal disease;;ref=FMGE June 2026 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Adenoids | an adenoidectomy complication sat in the tonsillitis and carcinoma larynx topic, and the reference named only the exam paper
+Q_h3d_030 | topic=Neck spaces, deep neck infection & aerodigestive foreign bodies;;ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Deep Neck Space Infections | Ludwig angina sat in the tonsillitis and carcinoma larynx topic, and the reference named the book with no chapter
+Q_PYQ_FMGE_2026JUN_018 | stem=A 7-year-old boy presents with high-grade fever, drooling of saliva, severe odynophagia and a stiff neck held to one side. What is the likely diagnosis?;;ref=FMGE June 2026 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Deep Neck Space Infections | the stem referred to radiographic findings shown below although the bank holds no image for it, so the item was not self-contained
+Q_PYQ_FMGE_2025JANP2_054 | stem=A patient with chronic suppurative otitis media presents with seizures. On examination and evaluation, homonymous hemianopia and epilepsy are present. Identify the condition. | the stem referred to a CT scan provided although the bank holds no image for it
+Q_PYQ_FMGE_2025JANP1_059 | ref=FMGE January 2025 Part 1 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Anatomy of Nose and Paranasal Sinuses | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_104 | ref=FMGE January 2025 Part 1 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Atrophic Rhinitis | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_010 | ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Anatomy of Nose and Paranasal Sinuses | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_086 | ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Fungal Sinusitis | exam-paper-only reference given a study source
+Q_PYQ_INICET_2025MAY_008 | ref=INI-CET May 2025 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Nasopharyngeal Angiofibroma | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_006 | ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Anatomy and Physiology of Larynx | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_081 | ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Tumours of Oropharynx | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_110 | ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Stridor | exam-paper-only reference given a study source
+Q_ENT_SED_001 | ok |
+Q_ENT_SED_002 | ok |
+Q_ENT_SED_003 | ok |
+Q_ENT_SED_004 | ok |
+Q_ENT_SED_005 | ok |
+Q_ENT_SED_007 | ok |
+Q_ENT_SED_008 | ok |
+Q_ENT_SED_010 | ok |
+Q_ENT_TCL_001 | ok |
+Q_ENT_TCL_002 | ok |
+Q_ENT_TCL_003 | ok |
+Q_ENT_TCL_006 | ok |
+Q_ENT_TCL_007 | ok |
+Q_ENT_TCL_008 | ok |
+Q_ENT_VER_001 | ok |
+Q_ENT_VER_002 | ok |
+Q_ENT_VER_003 | ok |
+Q_ENT_VER_005 | ok |
+Q_ENT_VER_006 | ok |
+Q_ENT_VER_007 | ok |
+Q_ENT_VER_008 | ok |
+Q_ENT_VER_010 | ok |
+Q_ENT_VER_013 | ok |
+Q_ENT_VER_014 | ok |
+Q_ENT_VER_015 | ok |

@@ -1,0 +1,24 @@
+Q_BC_TRN_009 | del | duplicate of Q_BC_GEN_010, Q_BC_GEN_011 and Q_BC_GEN_012, which cover Northern, Southern and Western blotting individually in the molecular techniques topic. Those are retained
+Q_BC_TRN_010 | topic=Gene regulation & molecular techniques (PCR, blotting);;ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | a polymerase chain reaction item sat in the transcription and translation topic, and the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_h3d_019 | ref=Harper's Illustrated Biochemistry 32e, Ch. Micronutrients: Vitamins and Minerals | the reference named the book with no chapter
+Q_BC_TRN_005 | ref=Harper's Illustrated Biochemistry 32e, Ch. Protein Synthesis and the Genetic Code | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_TRN_006 | ref=Harper's Illustrated Biochemistry 32e, Ch. Protein Synthesis and the Genetic Code | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_TRN_007 | ref=Harper's Illustrated Biochemistry 32e, Ch. Protein Synthesis and the Genetic Code | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_TRN_008 | ref=Harper's Illustrated Biochemistry 32e, Ch. RNA Synthesis, Processing and Modification | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_PYQ_FMGE_2024JUN_006 | ref=FMGE June 2024 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Vitamins | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2024JUN_007 | ref=FMGE June 2024 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Vitamins | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_056 | ref=FMGE January 2025 Part 1 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Vitamins | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_029 | ref=FMGE July 2025 Part 2 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Vitamins | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_140 | ref=FMGE July 2025 Part 2 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Vitamins | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_013 | ref=FMGE January 2026 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Vitamins | exam-paper-only reference given a study source
+Q_BC_TRN_011 | ok |
+Q_BC_TRN_013 | ok |
+Q_BC_TRN_014 | ok |
+Q_BC_TRN_015 | ok |
+Q_BC_TRN_016 | ok |
+Q_BC_TRN_017 | ok |
+Q_BC_TRN_018 | ok |
+Q_BC_VIT_001 | ok |
+Q_BC_VIT_002 | ok |
+Q_BC_VIT_003 | ok |
+Q_BC_VIT_004 | ok |

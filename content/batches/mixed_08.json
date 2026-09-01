@@ -1,0 +1,971 @@
+{
+ "questions": [
+  {
+   "id": "Q_OBG_GTD_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "E",
+   "stem": "A complete hydatidiform mole has which karyotype?",
+   "options": [
+    "46,XX entirely of paternal origin (diploid androgenetic)",
+    "69,XXY triploid",
+    "46,XY of maternal origin",
+    "45,XO"
+   ],
+   "correct": 0,
+   "concept": "A complete mole arises from fertilisation of an empty ovum, giving a diploid androgenetic 46,XX karyotype with no fetal tissue, diffuse villous swelling and marked trophoblastic proliferation. A partial mole is triploid, usually 69,XXY, with fetal parts.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, GTD",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "M",
+   "stem": "The classical ultrasound appearance of a complete hydatidiform mole is:",
+   "options": [
+    "A snowstorm appearance with no fetal parts and often bilateral theca lutein cysts",
+    "A single gestational sac with a live fetus",
+    "An empty uterus",
+    "A thickened endometrium only"
+   ],
+   "correct": 0,
+   "concept": "The snowstorm or cluster-of-grapes pattern reflects hydropic villi, with a uterus large for dates, very high hCG and theca lutein cysts from hCG hyperstimulation. Hyperemesis, early pre-eclampsia and hyperthyroidism may occur.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, GTD",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "M",
+   "stem": "The treatment of choice for a hydatidiform mole is:",
+   "options": [
+    "Suction evacuation with oxytocin cover and subsequent hCG follow-up",
+    "Hysterectomy in all cases",
+    "Methotrexate first",
+    "Expectant management"
+   ],
+   "correct": 0,
+   "concept": "Suction evacuation is the standard, with oxytocics started after evacuation begins to reduce embolisation risk. Serial hCG is then monitored weekly until three normal values, then monthly, with contraception for six months.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, GTD",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "E",
+   "stem": "Which feature most strongly suggests choriocarcinoma rather than a persisting mole?",
+   "options": [
+    "Rising hCG with distant metastases, commonly pulmonary",
+    "Falling hCG",
+    "Uterine size reduction",
+    "Absence of bleeding"
+   ],
+   "correct": 0,
+   "concept": "Choriocarcinoma is a highly vascular malignancy with early haematogenous spread, most often to the lungs producing a cannonball or snowstorm pattern, then vagina, brain and liver. It is remarkably chemosensitive with high cure rates.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, GTD",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "M",
+   "stem": "Single-agent chemotherapy for low-risk gestational trophoblastic neoplasia uses:",
+   "options": [
+    "Methotrexate or actinomycin D",
+    "Cisplatin and etoposide",
+    "Cyclophosphamide alone",
+    "Tamoxifen"
+   ],
+   "correct": 0,
+   "concept": "Low-risk disease by the FIGO/WHO score is treated with single-agent methotrexate with folinic acid rescue, or actinomycin D. High-risk disease requires multi-agent EMA-CO chemotherapy.",
+   "reference": "KDT 8e, Anticancer Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "M",
+   "stem": "Lichen sclerosus of the vulva characteristically presents with:",
+   "options": [
+    "Intense pruritus with thin white parchment-like skin and loss of architecture",
+    "A pigmented raised nodule",
+    "Painful ulceration",
+    "Frothy discharge"
+   ],
+   "correct": 0,
+   "concept": "Lichen sclerosus causes atrophic white plaques with figure-of-eight distribution, introital narrowing and loss of labia minora, with a small risk of squamous carcinoma. Potent topical corticosteroid such as clobetasol is first line and biopsy is needed for any thickened or ulcerated area.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Vulval Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "E",
+   "stem": "A Bartholin cyst arises from obstruction of the duct located:",
+   "options": [
+    "At the posterolateral vaginal introitus at 4 and 8 o'clock",
+    "At the anterior vestibule",
+    "In the labia majora tip",
+    "Near the clitoris"
+   ],
+   "correct": 0,
+   "concept": "The greater vestibular glands open into the posterolateral introitus; duct obstruction gives a cyst and infection an abscess. Marsupialisation is preferred over simple incision as it reduces recurrence; excision is needed in women over 40 to exclude carcinoma.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Vulval Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "H",
+   "stem": "The commonest histological type of vulval carcinoma is:",
+   "options": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Melanoma",
+    "Basal cell carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Over 90% of vulval carcinoma is squamous, related either to HPV in younger women or to lichen sclerosus and differentiated VIN in older women. Spread is to inguinofemoral nodes, and sentinel node biopsy is now used in early disease.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Vulval Carcinoma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "H",
+   "stem": "Theca lutein cysts associated with molar pregnancy:",
+   "options": [
+    "Regress spontaneously as hCG falls and rarely need surgery",
+    "Require immediate oophorectomy",
+    "Are malignant",
+    "Persist lifelong"
+   ],
+   "correct": 0,
+   "concept": "These bilateral multiloculated cysts result from hCG hyperstimulation and resolve as hCG normalises after evacuation. Surgery is needed only for torsion, rupture or haemorrhage.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, GTD",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_GTD_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+   "difficulty": "M",
+   "stem": "Vaginal adenosis and clear cell adenocarcinoma of the vagina are associated with in-utero exposure to:",
+   "options": [
+    "Diethylstilbestrol",
+    "Thalidomide",
+    "Warfarin",
+    "Phenytoin"
+   ],
+   "correct": 0,
+   "concept": "Maternal diethylstilbestrol exposure causes vaginal adenosis, clear cell adenocarcinoma, a T-shaped uterine cavity and cervical hood in female offspring - the classic example of a transplacental carcinogen.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Vaginal Lesions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "E",
+   "stem": "Low birth weight is defined as a birth weight less than:",
+   "options": [
+    "2500 g",
+    "3000 g",
+    "2000 g",
+    "1500 g"
+   ],
+   "correct": 0,
+   "concept": "Low birth weight is below 2500 g, very low below 1500 g and extremely low below 1000 g. In India about 20% of babies are low birth weight, mostly due to intrauterine growth restriction rather than prematurity.",
+   "reference": "Park 27e, Low Birth Weight",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "M",
+   "stem": "The Apgar score is assessed at:",
+   "options": [
+    "One and five minutes, with additional scores if the five-minute score is below 7",
+    "Birth only",
+    "Ten minutes only",
+    "One hour"
+   ],
+   "correct": 0,
+   "concept": "Apgar scores heart rate, respiratory effort, muscle tone, reflex irritability and colour at 1 and 5 minutes, repeated every 5 minutes up to 20 if depressed. It describes the transition but must not be used to decide whether to start resuscitation.",
+   "reference": "Nelson 21e, Delivery Room Care",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "M",
+   "stem": "The first step in neonatal resuscitation of an apnoeic term baby is:",
+   "options": [
+    "Drying, warmth, positioning and clearing the airway, then positive pressure ventilation",
+    "Chest compressions",
+    "Intravenous adrenaline",
+    "Sodium bicarbonate"
+   ],
+   "correct": 0,
+   "concept": "Initial steps are warmth, drying, stimulation and airway positioning; if the baby remains apnoeic or the heart rate is below 100, positive pressure ventilation is begun within the golden minute. Ventilation, not compression, is the priority in newborns because the cause is usually respiratory.",
+   "reference": "Nelson 21e, Neonatal Resuscitation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "E",
+   "stem": "Chest compressions in neonatal resuscitation are started when the heart rate remains below:",
+   "options": [
+    "60 beats per minute despite 30 seconds of effective ventilation",
+    "100 beats per minute",
+    "80 beats per minute",
+    "40 beats per minute"
+   ],
+   "correct": 0,
+   "concept": "Compressions begin at a heart rate below 60 after adequate ventilation, at a compression to ventilation ratio of 3 to 1. Adrenaline is given if the rate remains below 60 despite coordinated compressions and ventilation.",
+   "reference": "Nelson 21e, Neonatal Resuscitation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "M",
+   "stem": "The New Ballard score is used to assess:",
+   "options": [
+    "Gestational age from neuromuscular and physical maturity",
+    "Severity of jaundice",
+    "Respiratory distress",
+    "Nutritional status"
+   ],
+   "correct": 0,
+   "concept": "The Ballard score assesses six neuromuscular and six physical criteria to estimate gestational age within about two weeks, and is valid from 20 to 44 weeks including extremely preterm infants.",
+   "reference": "Ghai Essential Pediatrics 9e, Newborn Assessment",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "M",
+   "stem": "Kangaroo mother care principally provides:",
+   "options": [
+    "Skin-to-skin contact for thermal control, exclusive breastfeeding and early discharge",
+    "Intravenous nutrition",
+    "Mechanical ventilation",
+    "Phototherapy"
+   ],
+   "correct": 0,
+   "concept": "Kangaroo mother care gives continuous skin-to-skin contact with exclusive breast milk feeding and support for early discharge, reducing hypothermia, infection and mortality in low birth weight babies - a highly cost-effective intervention.",
+   "reference": "Park 27e; WHO KMC Guidelines",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "E",
+   "stem": "The commonest cause of neonatal hypothermia in a delivery room is:",
+   "options": [
+    "Evaporative heat loss from a wet newborn",
+    "Conduction through the cot",
+    "Fever",
+    "Radiant gain"
+   ],
+   "correct": 0,
+   "concept": "A wet newborn loses heat rapidly by evaporation, so immediate drying and removal of wet linen is the single most effective preventive step, along with a warm delivery room, skin-to-skin contact and delayed bathing.",
+   "reference": "Nelson 21e, Thermoregulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "H",
+   "stem": "A term baby weighing 1800 g at birth is classified as:",
+   "options": [
+    "Small for gestational age and low birth weight",
+    "Preterm",
+    "Appropriate for gestational age",
+    "Large for gestational age"
+   ],
+   "correct": 0,
+   "concept": "Birth weight below the tenth centile for gestational age defines small for gestational age; a term baby of 1800 g is both SGA and low birth weight. Such babies are at risk of hypoglycaemia, hypothermia and polycythaemia.",
+   "reference": "Ghai Essential Pediatrics 9e, Low Birth Weight",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "H",
+   "stem": "Retinopathy of prematurity is most strongly associated with:",
+   "options": [
+    "Prematurity with unmonitored supplemental oxygen exposure",
+    "Hyperbilirubinaemia",
+    "Hypocalcaemia",
+    "Maternal diabetes"
+   ],
+   "correct": 0,
+   "concept": "Immature retinal vasculature exposed to fluctuating high oxygen tension undergoes vaso-obliteration then pathological neovascularisation. Screening of babies below 34 weeks or 1750 g is mandatory, with laser or anti-VEGF treatment for threshold disease.",
+   "reference": "Nelson 21e, Retinopathy of Prematurity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NB_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Newborn assessment, prematurity & low birth weight",
+   "difficulty": "M",
+   "stem": "Delayed cord clamping in a term newborn is recommended because it:",
+   "options": [
+    "Improves iron stores and reduces anaemia in infancy",
+    "Prevents jaundice",
+    "Reduces birth weight",
+    "Prevents infection"
+   ],
+   "correct": 0,
+   "concept": "Clamping after 1 to 3 minutes allows placental transfusion of about 80 mL of blood, improving haemoglobin and iron stores for up to six months, at the cost of a small increase in phototherapy requirement.",
+   "reference": "WHO Guidelines; Nelson 21e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "E",
+   "stem": "The commonest cause of acute watery diarrhoea in children under two years worldwide is:",
+   "options": [
+    "Rotavirus",
+    "Shigella",
+    "Entamoeba histolytica",
+    "Giardia"
+   ],
+   "correct": 0,
+   "concept": "Rotavirus is the leading cause of severe dehydrating diarrhoea in infants, now preventable by rotavirus vaccine included in the Indian universal immunisation programme. Shigella typically causes dysentery with blood and mucus.",
+   "reference": "Park 27e, Diarrhoeal Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "M",
+   "stem": "The composition of WHO low-osmolarity ORS includes sodium and glucose in a ratio designed to:",
+   "options": [
+    "Exploit sodium-glucose co-transport in the small intestine",
+    "Increase intestinal osmotic load",
+    "Provide calories only",
+    "Neutralise gastric acid"
+   ],
+   "correct": 0,
+   "concept": "Glucose-coupled sodium absorption via SGLT1 remains intact in secretory diarrhoea, so ORS drives water absorption. The reduced osmolarity formula, 245 mOsm/L with 75 mmol sodium and 75 mmol glucose, lessens stool output and vomiting.",
+   "reference": "Park 27e, ORS",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "M",
+   "stem": "In WHO Plan C for severe dehydration, Ringer lactate is given to an infant under 12 months as:",
+   "options": [
+    "30 mL/kg over 1 hour then 70 mL/kg over 5 hours",
+    "100 mL/kg over 1 hour",
+    "30 mL/kg over 30 minutes then 70 mL/kg over 2.5 hours",
+    "20 mL/kg over 20 minutes"
+   ],
+   "correct": 0,
+   "concept": "For infants under 12 months the first 30 mL/kg is given over 1 hour and the next 70 mL/kg over 5 hours; for children above 12 months the same volumes are given over 30 minutes and 2.5 hours respectively.",
+   "reference": "IMNCI Guidelines; Ghai Essential Pediatrics 9e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "E",
+   "stem": "Zinc supplementation in childhood diarrhoea is recommended because it:",
+   "options": [
+    "Reduces the duration and severity of the episode and recurrence over the following months",
+    "Stops vomiting",
+    "Replaces ORS",
+    "Treats the infection"
+   ],
+   "correct": 0,
+   "concept": "Zinc 20 mg daily for 14 days, or 10 mg under six months, shortens the episode by about 25% and reduces stool volume and recurrence, by restoring mucosal integrity and immune function.",
+   "reference": "Park 27e, Diarrhoeal Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "M",
+   "stem": "Signs of severe dehydration in IMNCI include:",
+   "options": [
+    "Lethargy or unconsciousness, sunken eyes, inability to drink and very slow skin pinch",
+    "Restlessness only",
+    "Normal skin pinch",
+    "Increased urine output"
+   ],
+   "correct": 0,
+   "concept": "Two or more of lethargy or unconsciousness, sunken eyes, inability to drink or drinking poorly, and a skin pinch returning very slowly classify severe dehydration requiring Plan C intravenous therapy.",
+   "reference": "IMNCI Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "M",
+   "stem": "Antibiotics in acute childhood diarrhoea are indicated for:",
+   "options": [
+    "Bloody diarrhoea (dysentery), suspected cholera and severe malnutrition with diarrhoea",
+    "All watery diarrhoea",
+    "Rotavirus diarrhoea",
+    "Any diarrhoea over 3 days"
+   ],
+   "correct": 0,
+   "concept": "Most acute watery diarrhoea is viral and self-limiting; antibiotics are given for dysentery, suspected cholera with severe dehydration, and diarrhoea in severe acute malnutrition. Antimotility agents are contraindicated in children.",
+   "reference": "IMNCI Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "E",
+   "stem": "Persistent diarrhoea in a child is defined as diarrhoea lasting:",
+   "options": [
+    "14 days or more",
+    "3 days or more",
+    "7 days",
+    "30 days"
+   ],
+   "correct": 0,
+   "concept": "Diarrhoea lasting 14 days or longer is persistent, typically resulting from mucosal damage with secondary lactose intolerance and malnutrition, and requires dietary modification with continued feeding and micronutrient support.",
+   "reference": "IMNCI Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "H",
+   "stem": "Hyponatraemic dehydration in a child is corrected slowly because rapid correction risks:",
+   "options": [
+    "Osmotic demyelination syndrome",
+    "Cerebral oedema",
+    "Hypokalaemia",
+    "Renal failure"
+   ],
+   "correct": 0,
+   "concept": "Overly rapid correction of chronic hyponatraemia dehydrates brain cells causing osmotic demyelination, so sodium is raised by no more than 8 to 10 mmol/L in 24 hours. Conversely, too-rapid correction of hypernatraemia causes cerebral oedema.",
+   "reference": "HARR 21e; Nelson 21e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "H",
+   "stem": "The commonest electrolyte abnormality complicating severe childhood diarrhoea is:",
+   "options": [
+    "Hypokalaemia with metabolic acidosis",
+    "Hyperkalaemia with alkalosis",
+    "Hypercalcaemia",
+    "Hypermagnesaemia"
+   ],
+   "correct": 0,
+   "concept": "Stool losses of potassium and bicarbonate produce hypokalaemia with normal anion gap metabolic acidosis, causing abdominal distension, ileus and weakness. Potassium is added once urine output is established.",
+   "reference": "Ghai Essential Pediatrics 9e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_DIA_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+   "difficulty": "M",
+   "stem": "Maintenance fluid requirement for a 22 kg child by the Holliday-Segar method is:",
+   "options": [
+    "1540 mL per day",
+    "2200 mL per day",
+    "1000 mL per day",
+    "880 mL per day"
+   ],
+   "correct": 0,
+   "concept": "The formula gives 100 mL/kg for the first 10 kg, 50 mL/kg for the next 10 kg and 20 mL/kg thereafter: 1000 plus 500 plus 40 equals 1540 mL per day.",
+   "reference": "Ghai Essential Pediatrics 9e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "E",
+   "stem": "In IMNCI, fast breathing in a child aged 12 months to 5 years is defined as a respiratory rate of:",
+   "options": [
+    "40 breaths per minute or more",
+    "50 or more",
+    "60 or more",
+    "30 or more"
+   ],
+   "correct": 0,
+   "concept": "Age-specific cut-offs are 60 or more below 2 months, 50 or more from 2 to 12 months and 40 or more from 12 months to 5 years. Fast breathing with cough indicates pneumonia in the IMNCI algorithm.",
+   "reference": "IMNCI Guidelines",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "M",
+   "stem": "Chest indrawing with cough in a 2-year-old child classifies the illness as:",
+   "options": [
+    "Severe pneumonia requiring referral and injectable antibiotics",
+    "No pneumonia",
+    "Pneumonia treated at home",
+    "Bronchial asthma"
+   ],
+   "correct": 0,
+   "concept": "Lower chest indrawing indicates severe pneumonia; danger signs such as inability to drink, persistent vomiting, convulsions, lethargy or stridor at rest mandate urgent referral with a first dose of injectable antibiotic and oxygen.",
+   "reference": "IMNCI Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "M",
+   "stem": "The commonest bacterial cause of childhood pneumonia is:",
+   "options": [
+    "Streptococcus pneumoniae",
+    "Staphylococcus aureus",
+    "Klebsiella pneumoniae",
+    "Mycoplasma pneumoniae"
+   ],
+   "correct": 0,
+   "concept": "Streptococcus pneumoniae is the leading bacterial cause beyond the neonatal period, now reduced by pneumococcal conjugate vaccine. Staphylococcal pneumonia is suspected with rapid deterioration, empyema or pneumatoceles.",
+   "reference": "Nelson 21e, Community-Acquired Pneumonia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "E",
+   "stem": "The commonest cause of bronchiolitis in infants is:",
+   "options": [
+    "Respiratory syncytial virus",
+    "Adenovirus",
+    "Influenza A",
+    "Parainfluenza"
+   ],
+   "correct": 0,
+   "concept": "Respiratory syncytial virus causes most bronchiolitis, presenting under 2 years with coryza followed by wheeze, fine crackles and hyperinflation. Management is supportive with oxygen and feeding support.",
+   "reference": "Nelson 21e, Bronchiolitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "M",
+   "stem": "The management of bronchiolitis is primarily:",
+   "options": [
+    "Supportive care with oxygen, hydration and minimal handling",
+    "Systemic corticosteroids",
+    "Nebulised adrenaline routinely",
+    "Antibiotics for all"
+   ],
+   "correct": 0,
+   "concept": "Evidence does not support bronchodilators, steroids or antibiotics in typical bronchiolitis; oxygen for saturation below 90 to 92%, careful feeding and monitoring for apnoea in young infants are the mainstays.",
+   "reference": "Nelson 21e, Bronchiolitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "M",
+   "stem": "Stridor with a barking cough and hoarseness in a 2-year-old suggests:",
+   "options": [
+    "Acute laryngotracheobronchitis (viral croup)",
+    "Acute epiglottitis",
+    "Bronchiolitis",
+    "Foreign body in the bronchus"
+   ],
+   "correct": 0,
+   "concept": "Croup, usually parainfluenza, causes a barking cough with inspiratory stridor and a steeple sign on radiograph. Treatment is a single dose of oral dexamethasone with nebulised adrenaline for severe cases.",
+   "reference": "Nelson 21e, Croup",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "E",
+   "stem": "A child with high fever, drooling, muffled voice and a tripod posture most likely has:",
+   "options": [
+    "Acute epiglottitis",
+    "Viral croup",
+    "Bronchiolitis",
+    "Asthma"
+   ],
+   "correct": 0,
+   "concept": "Epiglottitis, classically Haemophilus influenzae type b, causes rapid onset fever, drooling, dysphagia and a toxic child sitting forward. The throat must not be examined without airway support, and Hib vaccine has made it rare.",
+   "reference": "Nelson 21e, Epiglottitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "H",
+   "stem": "Empyema thoracis complicating childhood pneumonia is most often caused by:",
+   "options": [
+    "Staphylococcus aureus",
+    "Mycoplasma",
+    "Respiratory syncytial virus",
+    "Chlamydia"
+   ],
+   "correct": 0,
+   "concept": "Staphylococcus aureus and Streptococcus pneumoniae are the usual organisms; management combines prolonged antibiotics with intercostal drainage, and fibrinolytics or video-assisted thoracoscopy for loculated collections.",
+   "reference": "Nelson 21e, Pleural Effusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "H",
+   "stem": "Sudden onset of unilateral wheeze and reduced breath sounds in a previously well toddler suggests:",
+   "options": [
+    "Inhaled foreign body",
+    "Bronchiolitis",
+    "Asthma",
+    "Pneumonia"
+   ],
+   "correct": 0,
+   "concept": "A radiolucent foreign body lodges most often in the right main bronchus, causing unilateral hyperinflation from a ball-valve effect with a normal chest radiograph in many cases. Rigid bronchoscopy is diagnostic and therapeutic.",
+   "reference": "Nelson 21e, Foreign Body Aspiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_ARI_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+   "difficulty": "M",
+   "stem": "Pneumococcal conjugate vaccine in the Indian universal immunisation programme is given at:",
+   "options": [
+    "6 weeks, 14 weeks and a booster at 9 months",
+    "Birth only",
+    "9 months only",
+    "5 years"
+   ],
+   "correct": 0,
+   "concept": "PCV is given at 6 and 14 weeks with a booster at 9 months in the national schedule, reducing invasive pneumococcal disease and pneumonia mortality.",
+   "reference": "Government of India Immunisation Schedule",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

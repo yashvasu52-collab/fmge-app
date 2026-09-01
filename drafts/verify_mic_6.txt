@@ -1,0 +1,36 @@
+Q_MIC_SPC_007 | del | duplicate of Q_MIC_SPC_015, which asks the same question about a fourfold rise in paired sera and requires the endemic-area reasoning. The fuller item is retained
+Q_MIC_SPI_015 | del | duplicate of Q_MIC_SPI_008 on antigenic variation explaining the relapsing fever of Borrelia recurrentis. The first item is retained
+Q_MIC_SPI_007 | del | duplicate of Q_MIC_SPI_017, which gives the same Borrelia burgdorferi and Ixodes vector and additionally the erythema migrans stage. The fuller item is retained
+Q_MIC_SDS_007 | ref=Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Culture Media | a culture media item was cited to the sterilisation and disinfection chapter
+Q_MIC_SPC_008 | ok |
+Q_MIC_SPC_009 | ok |
+Q_MIC_SPC_010 | ok |
+Q_MIC_SPC_012 | ok |
+Q_MIC_SPC_014 | ok |
+Q_MIC_SPC_015 | ok |
+Q_MIC_SPC_016 | ok |
+Q_MIC_SPC_017 | ok |
+Q_MIC_SPC_018 | ok |
+Q_MIC_SPI_001 | ok |
+Q_MIC_SPI_002 | ok |
+Q_MIC_SPI_003 | ok |
+Q_MIC_SPI_004 | ok |
+Q_MIC_SPI_005 | ok |
+Q_MIC_SPI_006 | ok |
+Q_MIC_SPI_008 | ok |
+Q_MIC_SPI_009 | ok |
+Q_MIC_SPI_010 | ok |
+Q_MIC_SPI_011 | ok |
+Q_MIC_SPI_012 | ok |
+Q_MIC_SPI_013 | ok |
+Q_MIC_SPI_014 | ok |
+Q_MIC_SPI_016 | ok |
+Q_MIC_SPI_017 | ok |
+Q_MIC_SPI_018 | ok |
+Q_MIC_SDS_002 | ok |
+Q_MIC_SDS_003 | ok |
+Q_MIC_SDS_004 | ok |
+Q_MIC_SDS_005 | ok |
+Q_MIC_SDS_006 | ok |
+Q_MIC_SDS_008 | ok |
+Q_MIC_SDS_009 | ok |

@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_PH_ACG_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "E",
+   "stem": "Heparin acts by:",
+   "options": [
+    "Activating antithrombin III, which then inactivates thrombin and factor Xa",
+    "Inhibiting vitamin K epoxide reductase",
+    "Blocking platelet ADP receptors",
+    "Activating plasminogen"
+   ],
+   "correct": 0,
+   "concept": "Unfractionated heparin acts immediately and is monitored by APTT, with protamine sulphate as antidote. Low molecular weight heparins act mainly on factor Xa, need no monitoring and are only partly reversed by protamine.",
+   "reference": "KDT 8e, Anticoagulants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "M",
+   "stem": "Warfarin has a delayed onset of action because:",
+   "options": [
+    "Existing clotting factors must be cleared, with factor II having the longest half-life",
+    "It is poorly absorbed",
+    "It needs hepatic activation",
+    "It binds plasma protein"
+   ],
+   "correct": 0,
+   "concept": "Warfarin blocks synthesis of new factors II, VII, IX and X, so heparin cover is needed for the first days. Paradoxical early hypercoagulability from rapid loss of protein C causes warfarin-induced skin necrosis.",
+   "reference": "KDT 8e, Anticoagulants",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "M",
+   "stem": "Warfarin is contraindicated in pregnancy because it causes:",
+   "options": [
+    "Fetal warfarin syndrome with nasal hypoplasia and stippled epiphyses, and fetal haemorrhage",
+    "Preterm labour",
+    "Gestational diabetes",
+    "Placenta praevia"
+   ],
+   "correct": 0,
+   "concept": "Warfarin crosses the placenta and is teratogenic in the first trimester and causes fetal intracranial haemorrhage near term, so heparin, which does not cross the placenta, is used instead.",
+   "reference": "KDT 8e, Anticoagulants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "E",
+   "stem": "Clopidogrel exerts its antiplatelet effect by:",
+   "options": [
+    "Irreversibly blocking the platelet P2Y12 ADP receptor",
+    "Inhibiting cyclo-oxygenase",
+    "Blocking GpIIb/IIIa",
+    "Inhibiting thrombin"
+   ],
+   "correct": 0,
+   "concept": "Clopidogrel is a prodrug requiring CYP2C19 activation, so poor metabolisers and concurrent omeprazole reduce efficacy. Prasugrel and ticagrelor are alternatives with more consistent effect.",
+   "reference": "KDT 8e, Antiplatelet Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "M",
+   "stem": "The principal risk of thrombolytic therapy with streptokinase or alteplase is:",
+   "options": [
+    "Intracranial haemorrhage",
+    "Renal failure",
+    "Hepatotoxicity",
+    "Neutropenia"
+   ],
+   "correct": 0,
+   "concept": "Absolute contraindications include previous intracranial haemorrhage, ischaemic stroke within 3 months, active bleeding, aortic dissection and recent major surgery. Streptokinase is antigenic and cannot be repeated within a year.",
+   "reference": "KDT 8e, Fibrinolytics",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "M",
+   "stem": "Direct oral anticoagulants such as rivaroxaban and dabigatran are preferred over warfarin because they:",
+   "options": [
+    "Need no routine monitoring and have fewer food and drug interactions",
+    "Are reversible by vitamin K",
+    "Are safe in pregnancy",
+    "Are usable in mechanical valves"
+   ],
+   "correct": 0,
+   "concept": "They are contraindicated in mechanical heart valves and severe renal impairment. Idarucizumab reverses dabigatran and andexanet alfa reverses factor Xa inhibitors.",
+   "reference": "KDT 8e, Anticoagulants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "E",
+   "stem": "Statins lower cholesterol principally by:",
+   "options": [
+    "Inhibiting HMG-CoA reductase and upregulating hepatic LDL receptors",
+    "Blocking cholesterol absorption",
+    "Increasing bile acid excretion",
+    "Activating PPAR-alpha"
+   ],
+   "correct": 0,
+   "concept": "Reduced intracellular cholesterol increases LDL receptor expression, clearing LDL from plasma. Statins also have pleiotropic plaque-stabilising and anti-inflammatory effects, and are best taken at night.",
+   "reference": "KDT 8e, Hypolipidaemic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "H",
+   "stem": "Ezetimibe lowers cholesterol by:",
+   "options": [
+    "Inhibiting the NPC1L1 transporter blocking intestinal cholesterol absorption",
+    "Inhibiting HMG-CoA reductase",
+    "Binding bile acids",
+    "Activating LPL"
+   ],
+   "correct": 0,
+   "concept": "It gives an additional 15 to 20% LDL reduction when added to a statin, useful when statin dose is limited by myopathy. PCSK9 inhibitors give far greater reductions by preventing LDL receptor degradation.",
+   "reference": "KDT 8e, Hypolipidaemic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "H",
+   "stem": "Fibrates act mainly on triglycerides by:",
+   "options": [
+    "Activating PPAR-alpha, increasing lipoprotein lipase activity",
+    "Inhibiting HMG-CoA reductase",
+    "Blocking absorption",
+    "Binding bile acids"
+   ],
+   "correct": 0,
+   "concept": "Fenofibrate and gemfibrozil are first line for severe hypertriglyceridaemia to prevent pancreatitis. Combination with statins increases myopathy risk, particularly with gemfibrozil.",
+   "reference": "KDT 8e, Hypolipidaemic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ACG_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+   "difficulty": "M",
+   "stem": "Aspirin and clopidogrel dual therapy is typically given after:",
+   "options": [
+    "Coronary stent placement, to prevent stent thrombosis",
+    "Any surgery",
+    "Deep vein thrombosis",
+    "Atrial fibrillation alone"
+   ],
+   "correct": 0,
+   "concept": "Dual antiplatelet therapy prevents stent thrombosis while endothelialisation occurs, with duration depending on stent type and bleeding risk. Atrial fibrillation instead requires anticoagulation, not antiplatelet therapy.",
+   "reference": "KDT 8e, Antiplatelet Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "E",
+   "stem": "Combined oral contraceptives prevent pregnancy principally by:",
+   "options": [
+    "Suppressing the LH surge and thereby inhibiting ovulation",
+    "Killing sperm",
+    "Preventing implantation only",
+    "Blocking fertilisation only"
+   ],
+   "correct": 0,
+   "concept": "Negative feedback on gonadotrophin release prevents ovulation, with secondary effects of thickened cervical mucus and an unfavourable endometrium. Failure rate is under 1% with perfect use.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Combined oral contraceptives are absolutely contraindicated in:",
+   "options": [
+    "A woman over 35 who smokes heavily, or with a history of thromboembolism",
+    "Diabetes",
+    "Mild hypertension",
+    "Acne"
+   ],
+   "correct": 0,
+   "concept": "The oestrogen component increases thrombotic risk, compounded by smoking after 35, migraine with aura, known thrombophilia and oestrogen-dependent tumours. Progestogen-only methods are safer alternatives.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Levonorgestrel emergency contraception is most effective when taken:",
+   "options": [
+    "As soon as possible and within 72 hours of unprotected intercourse",
+    "Within 5 days at equal efficacy",
+    "After one week",
+    "Only before intercourse"
+   ],
+   "correct": 0,
+   "concept": "Efficacy declines with delay. Ulipristal is effective up to 120 hours, and the copper intrauterine device inserted within 5 days is the most effective emergency method and provides ongoing contraception.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "E",
+   "stem": "Mifepristone is used in medical abortion because it:",
+   "options": [
+    "Antagonises progesterone receptors, sensitising the myometrium to prostaglandins",
+    "Is an oxytocic",
+    "Is an oestrogen",
+    "Blocks LH"
+   ],
+   "correct": 0,
+   "concept": "Mifepristone followed 24 to 48 hours later by misoprostol achieves complete abortion in over 95% of early pregnancies, and is permitted under the MTP Act up to 9 weeks by a registered practitioner.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Oxytocin differs from ergometrine in that oxytocin:",
+   "options": [
+    "Produces rhythmic contractions with relaxation between, so it can be used before delivery of the fetus",
+    "Causes sustained tetanic contraction",
+    "Is contraindicated postpartum",
+    "Cannot be given intravenously"
+   ],
+   "correct": 0,
+   "concept": "Ergometrine causes sustained tonic contraction and is only used after delivery, and is contraindicated in hypertension and pre-eclampsia. Oxytocin has antidiuretic action, risking water intoxication in high-dose infusions.",
+   "reference": "KDT 8e, Oxytocics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Tamoxifen acts as a selective oestrogen receptor modulator that is:",
+   "options": [
+    "Antagonist in the breast but agonist in the endometrium and bone",
+    "Agonist everywhere",
+    "Antagonist everywhere",
+    "An aromatase inhibitor"
+   ],
+   "correct": 0,
+   "concept": "This tissue selectivity gives benefit in ER-positive breast cancer and preserves bone density but increases endometrial carcinoma and thromboembolic risk, so abnormal bleeding must always be investigated.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "E",
+   "stem": "Bisphosphonates must be taken:",
+   "options": [
+    "Fasting with a full glass of water, remaining upright for 30 minutes",
+    "With food",
+    "At bedtime lying down",
+    "With calcium tablets"
+   ],
+   "correct": 0,
+   "concept": "Poor oral bioavailability requires fasting administration, and staying upright prevents oesophagitis and ulceration. Absorption is abolished by calcium, iron and antacids taken simultaneously.",
+   "reference": "KDT 8e, Drugs for Osteoporosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "H",
+   "stem": "Teriparatide, recombinant parathyroid hormone, increases bone mass because:",
+   "options": [
+    "Intermittent administration stimulates osteoblasts, unlike continuous PTH excess which causes resorption",
+    "It blocks osteoclasts",
+    "It is a bisphosphonate",
+    "It is an oestrogen"
+   ],
+   "correct": 0,
+   "concept": "Teriparatide is the principal anabolic agent for severe osteoporosis, used for a limited period because of osteosarcoma concerns in animal studies, and followed by an antiresorptive to maintain the gain.",
+   "reference": "KDT 8e, Drugs for Osteoporosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "H",
+   "stem": "Finasteride is contraindicated in women of childbearing potential because it:",
+   "options": [
+    "Inhibits 5-alpha-reductase, feminising a male fetus",
+    "Causes infertility",
+    "Causes hepatotoxicity",
+    "Is ineffective"
+   ],
+   "correct": 0,
+   "concept": "Even handling crushed tablets is discouraged in pregnancy. In men it treats benign prostatic hyperplasia and androgenetic alopecia, and lowers PSA by about half, which must be accounted for in cancer screening.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_SEX_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Danazol acts in endometriosis by:",
+   "options": [
+    "Producing a hypo-oestrogenic hyperandrogenic state suppressing gonadotrophins",
+    "Increasing oestrogen",
+    "Blocking progesterone",
+    "Stimulating ovulation"
+   ],
+   "correct": 0,
+   "concept": "Its androgenic side effects - hirsutism, acne, voice deepening and weight gain - limit use, so combined pills, progestogens, dienogest and GnRH analogues with add-back therapy are generally preferred.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "E",
+   "stem": "Levodopa is combined with carbidopa in order to:",
+   "options": [
+    "Inhibit peripheral dopa decarboxylase, increasing brain delivery and reducing nausea",
+    "Increase peripheral conversion",
+    "Block central dopamine",
+    "Prolong absorption"
+   ],
+   "correct": 0,
+   "concept": "Carbidopa does not cross the blood-brain barrier, so it blocks only peripheral conversion, allowing the levodopa dose to be reduced by about 75% with far less nausea, hypotension and arrhythmia.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "Pyridoxine reduces the effect of levodopa when given without carbidopa because it:",
+   "options": [
+    "Is a cofactor for peripheral dopa decarboxylase, increasing peripheral conversion",
+    "Blocks absorption",
+    "Is an antagonist",
+    "Increases excretion"
+   ],
+   "correct": 0,
+   "concept": "Vitamin B6 accelerates peripheral metabolism leaving less levodopa for the brain. With a decarboxylase inhibitor this interaction is largely abolished, so modern combinations are unaffected.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "The on-off phenomenon in long-term levodopa therapy refers to:",
+   "options": [
+    "Abrupt unpredictable fluctuations between mobility and immobility",
+    "Gradual loss of effect",
+    "Morning stiffness only",
+    "Drug-induced psychosis"
+   ],
+   "correct": 0,
+   "concept": "Progressive loss of dopaminergic terminals narrows the therapeutic window. Management includes more frequent smaller doses, COMT and MAO-B inhibitors, dopamine agonists and eventually deep brain stimulation.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "E",
+   "stem": "Anticholinergics such as trihexyphenidyl are most useful in Parkinsonism for:",
+   "options": [
+    "Tremor, particularly in younger patients and drug-induced parkinsonism",
+    "Bradykinesia",
+    "Postural instability",
+    "Gait freezing"
+   ],
+   "correct": 0,
+   "concept": "They restore the dopamine-acetylcholine balance in the striatum and are the treatment of choice for drug-induced parkinsonism, where levodopa would be ineffective. They are avoided in the elderly because of confusion.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "Selegiline acts by:",
+   "options": [
+    "Selectively inhibiting MAO-B, reducing central dopamine breakdown",
+    "Inhibiting MAO-A",
+    "Blocking COMT",
+    "Being a dopamine agonist"
+   ],
+   "correct": 0,
+   "concept": "MAO-B selectivity avoids the cheese reaction of non-selective MAO inhibitors at usual doses. Entacapone instead inhibits COMT, prolonging levodopa action and reducing end-of-dose wearing off.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "Baclofen relieves spasticity by acting as:",
+   "options": [
+    "A GABA-B receptor agonist in the spinal cord",
+    "A GABA-A agonist",
+    "A glycine antagonist",
+    "A calcium channel blocker"
+   ],
+   "correct": 0,
+   "concept": "Baclofen reduces spasticity in multiple sclerosis and spinal injury, and may be given intrathecally for severe cases. Abrupt withdrawal, especially of intrathecal therapy, causes seizures and rebound spasticity.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "E",
+   "stem": "Dantrolene acts peripherally by:",
+   "options": [
+    "Blocking calcium release from the sarcoplasmic reticulum via the ryanodine receptor",
+    "Acting on the spinal cord",
+    "Blocking acetylcholine release",
+    "Antagonising GABA"
+   ],
+   "correct": 0,
+   "concept": "This direct muscle action makes dantrolene the specific antidote for malignant hyperthermia and useful in neuroleptic malignant syndrome. Hepatotoxicity limits long-term oral use for spasticity.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "H",
+   "stem": "Botulinum toxin relieves focal spasticity and dystonia by:",
+   "options": [
+    "Preventing acetylcholine release at the neuromuscular junction",
+    "Blocking the receptor",
+    "Acting centrally",
+    "Destroying the muscle"
+   ],
+   "correct": 0,
+   "concept": "Cleavage of SNARE proteins gives chemical denervation lasting about 3 months until new terminals sprout. It is used for cervical dystonia, blepharospasm, spasticity, achalasia, hyperhidrosis and cosmetically.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "H",
+   "stem": "Dopamine agonists such as pramipexole may be preferred as initial therapy in young patients because they:",
+   "options": [
+    "Delay the onset of levodopa-induced dyskinesias",
+    "Are more effective than levodopa",
+    "Have no side effects",
+    "Cure the disease"
+   ],
+   "correct": 0,
+   "concept": "They are less potent than levodopa but delay motor complications in younger patients with a long disease course ahead. Impulse control disorders such as pathological gambling are a distinctive adverse effect.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_PRK_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "Amantadine is useful in Parkinsonism because it:",
+   "options": [
+    "Enhances dopamine release and blocks NMDA receptors, reducing dyskinesia",
+    "Blocks dopamine",
+    "Is an anticholinesterase",
+    "Is a MAO inhibitor"
+   ],
+   "correct": 0,
+   "concept": "Amantadine gives modest symptomatic benefit and is particularly valued for reducing levodopa-induced dyskinesia. It causes livedo reticularis and ankle oedema, and was originally an antiviral against influenza A.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

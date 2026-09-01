@@ -1,0 +1,45 @@
+Q_PSM_NCD_005 | del | duplicate of Q_PSM_NCD_014, which names the same commonest cancer among Indian women and additionally the national screening approach. The fuller item is retained
+Q_PSM_NCD_018 | del | duplicate of Q_PSM_NCD_003 on Rose's population strategy and the prevention paradox. The first item is retained
+Q_PSM_NCD_015 | del | duplicate of Q_PSM_NCD_008 on smokeless tobacco causing oral cancer in India. The first item is retained
+Q_PSM_NUT_002 | del | duplicate of Q_PSM_NUT_015, which gives the same mid-upper arm circumference cut-off within the full definition of severe acute malnutrition. The fuller item is retained
+Q_PSM_NUT_006 | del | duplicate of Q_PSM_NUT_012 on the school meal scheme improving nutrition, enrolment and attendance. The item that gives its current name is retained
+Q_PSM_NUT_009 | del | duplicate of Q_PSM_NUT_018, which identifies stunting as the index of chronic undernutrition and additionally explains why. The fuller item is retained
+Q_PSM_NUT_001 | del | duplicate of Q_PSM_NRD_002 on egg protein having the highest biological value and net protein utilisation. The later item is retained
+Q_PSM_OCC_002 | del | duplicate of Q_PSM_OCC_012 on byssinosis with Monday morning chest tightness. The later item is retained
+Q_PSM_OCC_015 | del | duplicate of Q_PSM_OCC_004 on notification of occupational diseases under the Factories Act. The first item is retained
+Q_PSM_OCC_008 | del | duplicate of Q_PSM_ECO_016 and Q_PSM_ECO_005, which between them cover the coverage and the financing of the Employees State Insurance Scheme. Both of those are retained
+Q_PSM_OCC_017 | del | duplicate of Q_PS_CAU_008 on the healthy worker effect as a selection bias. The first item is retained
+Q_PSM_NCD_009 | ok |
+Q_PSM_NCD_010 | ok |
+Q_PSM_NCD_011 | ok |
+Q_PSM_NCD_013 | ok |
+Q_PSM_NCD_014 | ok |
+Q_PSM_NCD_016 | ok |
+Q_PSM_NCD_017 | ok |
+Q_PSM_NUT_003 | ok |
+Q_PSM_NUT_004 | ok |
+Q_PSM_NUT_005 | ok |
+Q_PSM_NUT_007 | ok |
+Q_PSM_NUT_008 | ok |
+Q_PSM_NUT_010 | ok |
+Q_PSM_NUT_011 | ok |
+Q_PSM_NUT_012 | ok |
+Q_PSM_NUT_014 | ok |
+Q_PSM_NUT_015 | ok |
+Q_PSM_NUT_016 | ok |
+Q_PSM_NUT_017 | ok |
+Q_PSM_NUT_018 | ok |
+Q_PSM_NRD_001 | ok |
+Q_PSM_NRD_002 | ok |
+Q_PSM_NRD_003 | ok |
+Q_PSM_NRD_004 | ok |
+Q_PSM_NRD_005 | ok |
+Q_PSM_OCC_001 | ok |
+Q_PSM_OCC_004 | ok |
+Q_PSM_OCC_006 | ok |
+Q_PSM_OCC_007 | ok |
+Q_PSM_OCC_009 | ok |
+Q_PSM_OCC_010 | ok |
+Q_PSM_OCC_011 | ok |
+Q_PSM_OCC_012 | ok |
+Q_PSM_OCC_013 | ok |

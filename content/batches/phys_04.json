@@ -1,0 +1,488 @@
+{
+ "questions": [
+  {
+   "id": "Q_PY_REP_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "E",
+   "stem": "Ovulation is triggered by:",
+   "options": [
+    "The LH surge, occurring about 36 hours before ovulation",
+    "The FSH surge",
+    "Progesterone rise",
+    "Oestrogen fall"
+   ],
+   "correct": 0,
+   "concept": "Rising oestradiol from the dominant follicle switches to positive feedback, generating the LH surge. Urinary LH kits detect this, predicting ovulation about 24 to 36 hours in advance.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "M",
+   "stem": "The corpus luteum is maintained in early pregnancy by:",
+   "options": [
+    "Human chorionic gonadotropin from the trophoblast",
+    "LH",
+    "FSH",
+    "Progesterone"
+   ],
+   "correct": 0,
+   "concept": "hCG rescues the corpus luteum until the placenta takes over progesterone production at about 7 to 9 weeks - the luteoplacental shift, which is why luteal support is unnecessary beyond this point.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "M",
+   "stem": "The basal body temperature rises after ovulation because of:",
+   "options": [
+    "The thermogenic effect of progesterone",
+    "Oestrogen",
+    "LH",
+    "FSH"
+   ],
+   "correct": 0,
+   "concept": "A sustained rise of 0.3 to 0.5 degrees marks the luteal phase, which is consistently 14 days long. Cycle length variation arises almost entirely from the follicular phase.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "E",
+   "stem": "Spermatogenesis requires a testicular temperature that is:",
+   "options": [
+    "About 2 to 3 degrees below core body temperature",
+    "Equal to core temperature",
+    "Above core temperature",
+    "Irrelevant"
+   ],
+   "correct": 0,
+   "concept": "The pampiniform plexus provides countercurrent cooling and the dartos and cremaster adjust position. Cryptorchidism and varicocele impair spermatogenesis through raised temperature.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "M",
+   "stem": "Sertoli cells function to:",
+   "options": [
+    "Support germ cells, form the blood-testis barrier and secrete inhibin and androgen-binding protein",
+    "Secrete testosterone",
+    "Produce sperm directly",
+    "Secrete LH"
+   ],
+   "correct": 0,
+   "concept": "Leydig cells secrete testosterone under LH control, while FSH acts on Sertoli cells. Inhibin B provides negative feedback specifically on FSH, making it a marker of spermatogenic function.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "M",
+   "stem": "Lactation is suppressed during pregnancy despite high prolactin because:",
+   "options": [
+    "High oestrogen and progesterone block the action of prolactin on the breast",
+    "Prolactin is low",
+    "The breast is immature",
+    "Oxytocin is absent"
+   ],
+   "correct": 0,
+   "concept": "Delivery of the placenta removes this inhibition, allowing milk secretion within 2 to 3 days. Retained placental fragments can therefore delay lactogenesis.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "E",
+   "stem": "Suckling stimulates release of:",
+   "options": [
+    "Both prolactin for milk secretion and oxytocin for milk ejection",
+    "Only prolactin",
+    "Only oxytocin",
+    "Neither"
+   ],
+   "correct": 0,
+   "concept": "The neuroendocrine reflex requires an intact hypothalamic pathway. Oxytocin release is conditionable and inhibited by pain and anxiety, whereas prolactin release is not - which is why maternal distress impairs let-down.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "H",
+   "stem": "Testosterone is converted in target tissues to:",
+   "options": [
+    "Dihydrotestosterone by 5-alpha-reductase and to oestradiol by aromatase",
+    "Only DHT",
+    "Only oestradiol",
+    "Cortisol"
+   ],
+   "correct": 0,
+   "concept": "DHT mediates external genital development, prostate growth and male pattern baldness, while aromatised oestradiol is essential for epiphyseal closure and male bone density.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "H",
+   "stem": "The acrosome reaction is necessary for:",
+   "options": [
+    "Sperm penetration of the zona pellucida",
+    "Sperm motility",
+    "Capacitation",
+    "Implantation"
+   ],
+   "correct": 0,
+   "concept": "Capacitation in the female tract precedes it. After fertilisation the cortical reaction hardens the zona, preventing polyspermy - a critical safeguard against triploidy.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REP_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Reproductive physiology, pregnancy & lactation",
+   "difficulty": "M",
+   "stem": "Menopause is characterised hormonally by:",
+   "options": [
+    "High FSH and LH with low oestradiol and low inhibin",
+    "Low FSH",
+    "High oestradiol",
+    "High progesterone"
+   ],
+   "correct": 0,
+   "concept": "Loss of ovarian follicles removes inhibin and oestradiol feedback. FSH rises more than LH because inhibin B specifically restrains FSH, making FSH the more sensitive marker.",
+   "reference": "Ganong Review of Medical Physiology 26e, Reproduction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "E",
+   "stem": "Cerebrospinal fluid is produced mainly by:",
+   "options": [
+    "The choroid plexus, at about 500 mL per day",
+    "The arachnoid granulations",
+    "The pia mater",
+    "The ependyma alone"
+   ],
+   "correct": 0,
+   "concept": "With a circulating volume of about 150 mL, CSF turns over three times daily. Acetazolamide reduces production, and obstruction of flow or absorption causes hydrocephalus.",
+   "reference": "Ganong Review of Medical Physiology 26e, Central Nervous System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "M",
+   "stem": "Normal cerebrospinal fluid compared with plasma has:",
+   "options": [
+    "Lower glucose and protein with lower potassium and higher chloride",
+    "Higher glucose",
+    "Higher protein",
+    "Identical composition"
+   ],
+   "correct": 0,
+   "concept": "CSF glucose is about two-thirds of plasma; markedly low glucose suggests bacterial or tuberculous meningitis, whereas viral meningitis characteristically leaves glucose normal.",
+   "reference": "Ganong Review of Medical Physiology 26e, Central Nervous System",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "M",
+   "stem": "The primary thermoregulatory centre is located in the:",
+   "options": [
+    "Anterior hypothalamus for heat loss and posterior for heat conservation",
+    "Medulla",
+    "Cerebellum",
+    "Thalamus"
+   ],
+   "correct": 0,
+   "concept": "In fever, pyrogens acting via prostaglandin E2 raise the hypothalamic set point, so the patient feels cold and shivers. Antipyretics work by inhibiting prostaglandin synthesis, resetting the thermostat.",
+   "reference": "Ganong Review of Medical Physiology 26e, Central Nervous System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "E",
+   "stem": "Heat loss from the body at normal ambient temperature occurs mainly by:",
+   "options": [
+    "Radiation and convection, with evaporation dominating at high ambient temperature",
+    "Conduction only",
+    "Evaporation only",
+    "Respiration"
+   ],
+   "correct": 0,
+   "concept": "Once ambient temperature exceeds skin temperature, evaporation becomes the only effective route, which is why high humidity is so dangerous in heat waves - it blocks the sole remaining mechanism.",
+   "reference": "Ganong Review of Medical Physiology 26e, Central Nervous System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "M",
+   "stem": "Rapid eye movement sleep is characterised by:",
+   "options": [
+    "Desynchronised EEG resembling wakefulness with muscle atonia and dreaming",
+    "Slow delta waves",
+    "Increased muscle tone",
+    "Absence of dreams"
+   ],
+   "correct": 0,
+   "concept": "REM occupies about 20 to 25% of adult sleep, cycling every 90 minutes with increasing duration towards morning. Loss of atonia causes REM sleep behaviour disorder, an early marker of synucleinopathies.",
+   "reference": "Ganong Review of Medical Physiology 26e, Central Nervous System",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "M",
+   "stem": "The receptors responsible for colour vision are:",
+   "options": [
+    "Cones, with three types maximally sensitive to red, green and blue",
+    "Rods",
+    "Both equally",
+    "Ganglion cells"
+   ],
+   "correct": 0,
+   "concept": "Cones are concentrated at the fovea giving high acuity in bright light, while rods with rhodopsin dominate the periphery for scotopic vision. Vitamin A deficiency affects rods first, causing night blindness.",
+   "reference": "Ganong Review of Medical Physiology 26e, Vision",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "E",
+   "stem": "Presbyopia results from:",
+   "options": [
+    "Loss of lens elasticity reducing accommodation with age",
+    "Corneal flattening",
+    "Retinal degeneration",
+    "Optic nerve damage"
+   ],
+   "correct": 0,
+   "concept": "The near point recedes progressively from childhood, becoming symptomatic around 40 to 45 years and corrected with convex reading lenses. It is distinct from hypermetropia, which is an axial or refractive error.",
+   "reference": "Ganong Review of Medical Physiology 26e, Vision",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "H",
+   "stem": "Sound transduction occurs through:",
+   "options": [
+    "Deflection of stereocilia on hair cells of the organ of Corti opening mechanoelectrical channels",
+    "Ossicular vibration alone",
+    "Tympanic membrane movement",
+    "Eustachian tube function"
+   ],
+   "correct": 0,
+   "concept": "Tonotopic organisation means high frequencies are detected at the cochlear base and low at the apex, which is why noise damage and presbycusis affect high frequencies first.",
+   "reference": "Ganong Review of Medical Physiology 26e, Hearing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "H",
+   "stem": "The blood-brain barrier is formed principally by:",
+   "options": [
+    "Tight junctions between capillary endothelial cells supported by astrocyte foot processes",
+    "Fenestrated capillaries",
+    "The pia mater",
+    "The choroid plexus only"
+   ],
+   "correct": 0,
+   "concept": "Circumventricular organs such as the area postrema lack the barrier, allowing chemoreceptor trigger zone detection of blood-borne emetics - which is why domperidone acts as an antiemetic without central effects.",
+   "reference": "Ganong Review of Medical Physiology 26e, Central Nervous System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_SEN_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Special senses, CSF, temperature regulation & sleep",
+   "difficulty": "M",
+   "stem": "Slow wave (deep) sleep is characterised by:",
+   "options": [
+    "High-amplitude low-frequency delta waves with growth hormone secretion",
+    "Beta waves",
+    "REM",
+    "Muscle atonia"
+   ],
+   "correct": 0,
+   "concept": "Most growth hormone is released in the first slow wave episodes, which is why sleep deprivation impairs growth in children. Sleepwalking and night terrors also arise from slow wave sleep.",
+   "reference": "Ganong Review of Medical Physiology 26e, Central Nervous System",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

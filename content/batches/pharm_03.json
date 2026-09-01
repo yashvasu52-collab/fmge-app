@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_PH_ANT_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "E",
+   "stem": "Albendazole acts by:",
+   "options": [
+    "Binding beta-tubulin and inhibiting microtubule polymerisation in the parasite",
+    "Blocking folate synthesis",
+    "Inhibiting protein synthesis",
+    "Depolarising neuromuscular junctions"
+   ],
+   "correct": 0,
+   "concept": "Selective toxicity arises from higher affinity for parasite tubulin. Albendazole covers most intestinal nematodes and is used with praziquantel for neurocysticercosis and for hydatid disease.",
+   "reference": "KDT 8e, Anthelmintics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "M",
+   "stem": "Ivermectin acts by:",
+   "options": [
+    "Opening glutamate-gated chloride channels causing parasite paralysis",
+    "Blocking tubulin",
+    "Inhibiting folate",
+    "Blocking calcium channels"
+   ],
+   "correct": 0,
+   "concept": "These channels are absent in mammals and ivermectin poorly crosses the intact blood-brain barrier, giving selective toxicity. It is the drug of choice for strongyloidiasis, onchocerciasis and crusted scabies.",
+   "reference": "KDT 8e, Anthelmintics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "M",
+   "stem": "Diethylcarbamazine remains the mainstay for lymphatic filariasis and is given with albendazole because:",
+   "options": [
+    "The combination improves clearance of microfilariae in mass drug administration",
+    "DEC alone is toxic",
+    "Albendazole treats the vector",
+    "DEC is inactive alone"
+   ],
+   "correct": 0,
+   "concept": "Mass drug administration with DEC plus albendazole, or ivermectin-based triple therapy, aims to interrupt transmission. The Mazzotti reaction from dying microfilariae limits DEC use in onchocerciasis.",
+   "reference": "KDT 8e, Anthelmintics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "E",
+   "stem": "Multidrug therapy for multibacillary leprosy comprises:",
+   "options": [
+    "Rifampicin, clofazimine and dapsone for 12 months",
+    "Dapsone alone",
+    "Rifampicin alone",
+    "Isoniazid and rifampicin"
+   ],
+   "correct": 0,
+   "concept": "Monthly supervised rifampicin and clofazimine with daily clofazimine and dapsone is given for 12 months in multibacillary and 6 months of rifampicin and dapsone in paucibacillary disease.",
+   "reference": "Park 27e, Leprosy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "M",
+   "stem": "The most important adverse effect of dapsone is:",
+   "options": [
+    "Haemolysis, particularly severe in G6PD deficiency, and methaemoglobinaemia",
+    "Hepatic failure",
+    "Renal failure",
+    "Optic neuritis"
+   ],
+   "correct": 0,
+   "concept": "Dapsone also causes agranulocytosis and the dapsone hypersensitivity syndrome. It is additionally used for dermatitis herpetiformis and Pneumocystis prophylaxis in sulfa-intolerant patients.",
+   "reference": "KDT 8e, Antileprotic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "M",
+   "stem": "Clofazimine characteristically causes:",
+   "options": [
+    "Reddish-black skin discolouration and ichthyosis",
+    "Deafness",
+    "Renal stones",
+    "Peripheral neuropathy"
+   ],
+   "correct": 0,
+   "concept": "The pigmentation is dose-related and reversible but distressing, a major cause of poor adherence. Clofazimine also has anti-inflammatory action valuable in erythema nodosum leprosum.",
+   "reference": "KDT 8e, Antileprotic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "E",
+   "stem": "The drug of choice for invasive amoebiasis including amoebic liver abscess is:",
+   "options": [
+    "Metronidazole followed by a luminal amoebicide",
+    "Diloxanide alone",
+    "Chloroquine",
+    "Albendazole"
+   ],
+   "correct": 0,
+   "concept": "Metronidazole clears tissue trophozoites but not luminal cysts, so a luminal agent such as diloxanide furoate or paromomycin must follow to prevent relapse and further transmission.",
+   "reference": "KDT 8e, Antiamoebic Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "H",
+   "stem": "Metronidazole with alcohol causes:",
+   "options": [
+    "A disulfiram-like reaction with flushing, vomiting and headache",
+    "No interaction",
+    "Enhanced sedation",
+    "Hepatic failure"
+   ],
+   "correct": 0,
+   "concept": "Inhibition of aldehyde dehydrogenase causes acetaldehyde accumulation, so alcohol is avoided during and for 48 hours after therapy. Metronidazole also potentiates warfarin and causes a metallic taste and peripheral neuropathy.",
+   "reference": "KDT 8e, Antiamoebic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "H",
+   "stem": "Erythema nodosum leprosum (type 2 lepra reaction) is best treated with:",
+   "options": [
+    "Thalidomide, or corticosteroids where thalidomide is contraindicated",
+    "Increased dapsone",
+    "Stopping all treatment",
+    "Antihistamines alone"
+   ],
+   "correct": 0,
+   "concept": "Thalidomide is dramatically effective but absolutely contraindicated in women of childbearing potential because of phocomelia. Multidrug therapy is continued throughout the reaction.",
+   "reference": "KDT 8e, Antileprotic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_ANT_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anthelmintics, antileprotics & antiamoebics",
+   "difficulty": "M",
+   "stem": "Praziquantel is the drug of choice for:",
+   "options": [
+    "Schistosomiasis and most cestode infections including taeniasis",
+    "Ascariasis",
+    "Hookworm",
+    "Filariasis"
+   ],
+   "correct": 0,
+   "concept": "It increases parasite membrane permeability to calcium causing tetanic paralysis and tegumental damage. In neurocysticercosis it is used with albendazole and corticosteroids to control inflammation.",
+   "reference": "KDT 8e, Anthelmintics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "E",
+   "stem": "Ciclosporin acts by:",
+   "options": [
+    "Inhibiting calcineurin and thereby IL-2 production by T cells",
+    "Blocking purine synthesis",
+    "Alkylating DNA",
+    "Blocking TNF"
+   ],
+   "correct": 0,
+   "concept": "Ciclosporin binds cyclophilin and tacrolimus binds FKBP, both inhibiting calcineurin. Nephrotoxicity is dose-limiting and requires trough level monitoring; gum hypertrophy and hirsutism are characteristic of ciclosporin.",
+   "reference": "KDT 8e, Immunosuppressants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "M",
+   "stem": "Azathioprine dose must be reduced when given with allopurinol because:",
+   "options": [
+    "Xanthine oxidase inhibition prevents metabolism of its active metabolite, causing marrow suppression",
+    "It increases excretion",
+    "It blocks absorption",
+    "It is inactivated"
+   ],
+   "correct": 0,
+   "concept": "Azathioprine is converted to 6-mercaptopurine which is degraded by xanthine oxidase; blocking this enzyme leads to accumulation and severe myelosuppression, so the dose is cut to about a quarter.",
+   "reference": "KDT 8e, Immunosuppressants",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "M",
+   "stem": "Methotrexate toxicity is reduced by:",
+   "options": [
+    "Folinic acid (leucovorin) rescue and weekly rather than daily dosing",
+    "Folic acid antagonists",
+    "Daily dosing",
+    "Increasing the dose"
+   ],
+   "correct": 0,
+   "concept": "Folinic acid bypasses the blocked dihydrofolate reductase step rescuing normal cells. A catastrophic error is daily instead of weekly dosing in rheumatoid arthritis, causing fatal mucositis and marrow aplasia.",
+   "reference": "KDT 8e, Immunosuppressants",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "E",
+   "stem": "Before starting anti-TNF biologicals such as infliximab, it is essential to screen for:",
+   "options": [
+    "Latent tuberculosis and hepatitis B",
+    "Diabetes",
+    "Hypertension",
+    "Renal stones"
+   ],
+   "correct": 0,
+   "concept": "TNF is essential for maintaining granulomas, so blockade reactivates latent tuberculosis, often in disseminated or extrapulmonary form. Screening with tuberculin test or IGRA and chest radiograph is mandatory.",
+   "reference": "KDT 8e, Immunosuppressants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "M",
+   "stem": "Cyclophosphamide characteristically causes haemorrhagic cystitis, prevented by:",
+   "options": [
+    "Mesna with adequate hydration",
+    "Allopurinol",
+    "Folinic acid",
+    "Vitamin K"
+   ],
+   "correct": 0,
+   "concept": "The metabolite acrolein irritates the bladder urothelium; mesna binds it in urine. Cyclophosphamide also causes marrow suppression, infertility, alopecia, SIADH and later bladder carcinoma.",
+   "reference": "KDT 8e, Anticancer Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "M",
+   "stem": "Vitamin K is required for gamma-carboxylation of:",
+   "options": [
+    "Clotting factors II, VII, IX, X and proteins C and S",
+    "Factor VIII",
+    "Fibrinogen",
+    "Platelets"
+   ],
+   "correct": 0,
+   "concept": "Deficiency prolongs the prothrombin time first because factor VII has the shortest half-life. Newborns receive prophylactic vitamin K because of low stores, sterile gut and low content in breast milk.",
+   "reference": "KDT 8e, Vitamin K",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "E",
+   "stem": "Vitamin A in very high doses during early pregnancy is:",
+   "options": [
+    "Teratogenic, causing craniofacial and cardiac defects",
+    "Safe",
+    "Required in high doses",
+    "Ineffective"
+   ],
+   "correct": 0,
+   "concept": "Retinoids including isotretinoin and acitretin are potent teratogens, requiring strict contraception. Chronic hypervitaminosis A also causes benign intracranial hypertension, bone pain and hepatotoxicity.",
+   "reference": "KDT 8e, Vitamins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "H",
+   "stem": "The chelating agent of choice for lead poisoning in a child with encephalopathy is:",
+   "options": [
+    "Calcium disodium edetate, often with dimercaprol",
+    "Desferrioxamine",
+    "Penicillamine alone",
+    "N-acetylcysteine"
+   ],
+   "correct": 0,
+   "concept": "Severe lead poisoning is treated with parenteral edetate plus dimercaprol, given first to avoid redistributing lead to the brain. Succimer is used orally for less severe poisoning.",
+   "reference": "KDT 8e, Chelating Agents",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "H",
+   "stem": "Penicillamine is used in Wilson disease because it:",
+   "options": [
+    "Chelates copper promoting urinary excretion",
+    "Blocks copper absorption",
+    "Increases ceruloplasmin",
+    "Is an immunosuppressant"
+   ],
+   "correct": 0,
+   "concept": "Pyridoxine is co-administered as penicillamine is an antipyridoxine agent. Trientine is an alternative chelator and zinc blocks intestinal copper absorption, used for maintenance therapy.",
+   "reference": "KDT 8e, Chelating Agents",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_IMS_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunosuppressants, biologicals, vitamins & chelators",
+   "difficulty": "M",
+   "stem": "Rituximab is a monoclonal antibody directed against:",
+   "options": [
+    "CD20 on B lymphocytes",
+    "CD4 on T cells",
+    "TNF-alpha",
+    "IL-6 receptor"
+   ],
+   "correct": 0,
+   "concept": "B-cell depletion is used in non-Hodgkin lymphoma, chronic lymphocytic leukaemia, rheumatoid arthritis, ANCA vasculitis and pemphigus. Hepatitis B reactivation and progressive multifocal leukoencephalopathy are recognised risks.",
+   "reference": "KDT 8e, Immunosuppressants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "E",
+   "stem": "Phase I clinical trials are primarily designed to assess:",
+   "options": [
+    "Safety, tolerability and pharmacokinetics, usually in healthy volunteers",
+    "Efficacy in patients",
+    "Post-marketing safety",
+    "Comparative effectiveness"
+   ],
+   "correct": 0,
+   "concept": "Phase I involves 20 to 100 subjects; phase II assesses efficacy and dose-finding in a few hundred patients; phase III confirms efficacy in large randomised trials; and phase IV is post-marketing surveillance.",
+   "reference": "KDT 8e, Clinical Pharmacology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "M",
+   "stem": "Randomisation in a clinical trial is performed to:",
+   "options": [
+    "Eliminate selection bias and balance known and unknown confounders between groups",
+    "Increase sample size",
+    "Ensure blinding",
+    "Improve compliance"
+   ],
+   "correct": 0,
+   "concept": "Randomisation is the only method that balances unmeasured confounders, which is why randomised controlled trials sit at the top of the evidence hierarchy. Allocation concealment protects the randomisation.",
+   "reference": "KDT 8e, Clinical Pharmacology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "M",
+   "stem": "A double-blind trial means that:",
+   "options": [
+    "Neither the participant nor the investigator knows the treatment allocation",
+    "Only the patient is blinded",
+    "Only the assessor is blinded",
+    "No one is blinded"
+   ],
+   "correct": 0,
+   "concept": "Blinding minimises performance and detection bias, particularly important for subjective outcomes such as pain. Where blinding is impossible, blinded outcome assessment is used instead.",
+   "reference": "KDT 8e, Clinical Pharmacology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "E",
+   "stem": "An intention-to-treat analysis means:",
+   "options": [
+    "Participants are analysed in the group to which they were randomised, regardless of adherence",
+    "Only compliant patients are analysed",
+    "Dropouts are excluded",
+    "Groups are reassigned by treatment received"
+   ],
+   "correct": 0,
+   "concept": "ITT preserves the benefits of randomisation and gives a pragmatic estimate of effectiveness. Per-protocol analysis, which excludes non-adherers, reintroduces selection bias and typically overestimates efficacy.",
+   "reference": "KDT 8e, Clinical Pharmacology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "M",
+   "stem": "Pharmacovigilance is defined as:",
+   "options": [
+    "The science of detection, assessment, understanding and prevention of adverse drug effects",
+    "Drug manufacturing quality control",
+    "Prescription auditing",
+    "Drug pricing"
+   ],
+   "correct": 0,
+   "concept": "Spontaneous reporting under the Pharmacovigilance Programme of India detects rare adverse effects missed in trials of limited size and duration. Under-reporting is the main weakness of such systems.",
+   "reference": "KDT 8e, Adverse Drug Reactions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "M",
+   "stem": "A type A adverse drug reaction is:",
+   "options": [
+    "Dose-related and predictable from the drug's pharmacology, such as bleeding with warfarin",
+    "Idiosyncratic and unpredictable",
+    "Always immunological",
+    "Always fatal"
+   ],
+   "correct": 0,
+   "concept": "Type A (augmented) reactions are common, predictable and dose-dependent and are managed by dose reduction. Type B (bizarre) reactions are unpredictable, often immunological and usually require drug withdrawal.",
+   "reference": "KDT 8e, Adverse Drug Reactions",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "E",
+   "stem": "Schedule H drugs under the Drugs and Cosmetics Rules are those which:",
+   "options": [
+    "Can be sold only on the prescription of a registered medical practitioner",
+    "Are available over the counter",
+    "Are banned",
+    "Are Ayurvedic"
+   ],
+   "correct": 0,
+   "concept": "Schedule H and H1 require prescription, with H1 additionally requiring the pharmacist to keep a separate register for three years - a measure aimed at curbing antimicrobial misuse and resistance.",
+   "reference": "Drugs and Cosmetics Rules; KDT 8e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "H",
+   "stem": "Schedule X drugs differ from Schedule H in that they:",
+   "options": [
+    "Require a prescription in duplicate, with the pharmacist retaining a copy for two years",
+    "Are unrestricted",
+    "Are banned",
+    "Are herbal"
+   ],
+   "correct": 0,
+   "concept": "Schedule X covers drugs with high abuse potential such as certain barbiturates and amphetamines, with stringent record-keeping and storage requirements under lock and key.",
+   "reference": "Drugs and Cosmetics Rules",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "H",
+   "stem": "The essential parts of a prescription include the superscription, inscription, subscription and:",
+   "options": [
+    "Signatura (directions to the patient), with the prescriber's signature and registration number",
+    "The diagnosis",
+    "The patient's occupation",
+    "The cost"
+   ],
+   "correct": 0,
+   "concept": "Legible writing, generic names, avoidance of dangerous abbreviations such as U for units, and clear dose and duration reduce medication errors, which are a major preventable source of patient harm.",
+   "reference": "KDT 8e, Prescription Writing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_CTR_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+   "difficulty": "M",
+   "stem": "An essential medicines list is defined by WHO as drugs that:",
+   "options": [
+    "Satisfy the priority health care needs of the population, selected for efficacy, safety and cost-effectiveness",
+    "Are the newest available",
+    "Are the cheapest only",
+    "Are patented"
+   ],
+   "correct": 0,
+   "concept": "The concept promotes rational prescribing and procurement. India's National List of Essential Medicines also underpins price control, improving affordability and access.",
+   "reference": "Park 27e; KDT 8e",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

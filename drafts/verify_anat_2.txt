@@ -1,0 +1,44 @@
+Q_PYQ_FMGE_2025JANP1_034 | del | duplicate of Q_PYQ_FMGE_2025JANP1_031 in the same paper, both describing lower motor neuron facial palsy with forehead involvement. The first item, which requires the infranuclear versus supranuclear distinction, is retained
+Q_PYQ_FMGE_2025JULP2_021 | del | duplicate of Q_AN_HN_010 on Frey syndrome after parotid surgery; this item was also misfiled under cranial nerves rather than head and neck. The head and neck item, which gives the mechanism of aberrant regeneration, is retained
+Q_AN_SK_011 | del | my authored item on the jugular foramen duplicated Q_h3d_002, which reaches the same answer from a Vernet syndrome vignette. The vignette is retained and refiled to the skull base topic
+Q_h3d_002 | topic=Skull base, cavernous sinus & meninges | misfiled: a question turning on which foramen transmits cranial nerves IX to XI belongs in the skull base topic rather than cranial nerves and nuclei
+Q_AN_LL_005 | del | my authored item duplicated Q_h3d_005 in the same topic, which tests the identical positive Trendelenburg sign, superior gluteal nerve and hip abductors. The existing item is retained
+Q_A_004 | del | duplicate of Q_PYQ_FMGE_2026JUN_010 in the same topic, which describes the same common peroneal nerve palsy at the fibular neck with fuller examination findings. The exam-recall item is retained
+Q_PYQ_FMGE_2025JULP1_139 | del | duplicate of Q_h3d_001, which covers the same left gastric to azygos porto-systemic anastomosis underlying oesophageal varices and is the fuller item. Retained and refiled to the abdomen topic
+Q_h3d_001 | topic=Abdomen: peritoneum, liver & biliary, portal system | misfiled: a porto-systemic anastomosis question sat under "Inguinal canal, GIT relations" while the plan has a topic that names the portal system explicitly
+Q_PYQ_INICET_2025MAY_001 | del | duplicate of Q_AN_AB_004 on the boundaries of the hepatocystic (Calot) triangle, asked from the opposite direction; this item was also misfiled under "Inguinal canal, GIT relations". The abdomen item is retained
+Q_PYQ_FMGE_2025JANP2_107 | stem=During laparoscopic port placement in the lower abdomen, which vessel must be avoided by siting the trocar lateral to the rectus sheath?;;opt0=The inferior epigastric artery;;opt1=The superior epigastric artery;;opt2=The deep circumflex iliac artery;;opt3=The abdominal aorta;;key=0;;concept=The vessel runs on the deep surface of the rectus abdominis from the external iliac artery, so a port placed through or medial to the lateral border of the rectus sheath risks it, and injury causes a rectus sheath haematoma or significant intraperitoneal bleeding.;;ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Abdomen (anterior abdominal wall);;source=ai | the keyed option was "Both A and B", which refers to option letters and becomes meaningless once options are shuffled, and one distractor was the abdominal aorta, which no one would consider a port site. Rewritten with four distinct vessels; exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JANP1_031 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (facial nerve) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_049 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (visual pathway) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_064 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (oculomotor nerve) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_016 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (orbit and superior orbital fissure) | reference cited only the exam paper; a study source added
+Q_PYQ_INICET_2025MAY_010 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (trigeminal nerve) | reference cited only the exam paper; a study source added
+Q_AN_EMB_001 | ok |
+Q_AN_EMB_002 | ok |
+Q_AN_EMB_003 | ok |
+Q_AN_EMB_004 | ok |
+Q_AN_EMB_005 | ok |
+Q_AN_EMB_006 | ok |
+Q_AN_EMB_007 | ok |
+Q_AN_EMB_008 | ok |
+Q_AN_EMB_010 | ok |
+Q_AN_EMB_011 | ok |
+Q_AN_EMB_012 | ok |
+Q_AN_EMB_013 | ok |
+Q_AN_HN_002 | ok |
+Q_AN_HN_003 | ok |
+Q_AN_HN_004 | ok |
+Q_AN_HN_005 | ok |
+Q_AN_HN_006 | ok |
+Q_AN_HN_007 | ok |
+Q_AN_HN_008 | ok |
+Q_AN_HN_009 | ok |
+Q_AN_HN_010 | ok |
+Q_AN_HN_011 | ok |
+Q_AN_HN_012 | ok |
+Q_AN_HN_013 | ok |
+Q_A_007 | ok |
+Q_AN_LL_001 | ok |
+Q_AN_LL_003 | ok |
+Q_AN_LL_004 | ok |
+Q_h3d_005 | ok |

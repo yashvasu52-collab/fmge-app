@@ -1,0 +1,44 @@
+Q_SUR_OES_011 | del | duplicate of Q_SUR_OES_002, whose key already gives the manometric failure of sphincter relaxation with absent peristalsis. The first item is retained
+Q_SUR_OES_012 | del | duplicate of Q_SUR_OES_003 on Barrett oesophagus being intestinal metaplasia predisposing to adenocarcinoma. The first item is retained
+Q_SUR_OES_013 | del | duplicate of Q_SUR_OES_006 on the Virchow node and Troisier sign. The first item is retained
+Q_SUR_PDS_001 | del | duplicate of Q_SUR_PDS_011, which gives the same hypochloraemic hypokalaemic alkalosis and additionally why it must be corrected before surgery. The fuller item is retained
+Q_SUR_PDS_006 | del | duplicate of Q_SUR_PDS_016, which states the timing in its stem and asks for the reason, and the two gave slightly different age ranges. The fuller item is retained
+Q_SUR_URO_001 | del | duplicate of Q_SUR_USB_007 on painless visible haematuria indicating urothelial malignancy. Haematuria is named in the stones and haematuria topic, so that item is retained
+Q_SUR_OES_014 | ok |
+Q_SUR_OES_015 | ok |
+Q_SUR_OES_016 | ok |
+Q_SUR_PDS_002 | ok |
+Q_SUR_PDS_003 | ok |
+Q_SUR_PDS_004 | ok |
+Q_SUR_PDS_005 | ok |
+Q_SUR_PDS_007 | ok |
+Q_SUR_PDS_008 | ok |
+Q_SUR_PDS_009 | ok |
+Q_SUR_PDS_010 | ok |
+Q_SUR_PDS_011 | ok |
+Q_SUR_PDS_012 | ok |
+Q_SUR_PDS_013 | ok |
+Q_SUR_PDS_014 | ok |
+Q_SUR_PDS_016 | ok |
+Q_SUR_NEK_001 | ok |
+Q_SUR_NEK_002 | ok |
+Q_SUR_NEK_004 | ok |
+Q_SUR_NEK_005 | ok |
+Q_SUR_NEK_006 | ok |
+Q_SUR_NEK_007 | ok |
+Q_SUR_NEK_008 | ok |
+Q_SUR_NEK_009 | ok |
+Q_SUR_NEK_010 | ok |
+Q_SUR_NEK_011 | ok |
+Q_SUR_NEK_012 | ok |
+Q_SUR_NEK_013 | ok |
+Q_SUR_NEK_014 | ok |
+Q_SUR_NEK_015 | ok |
+Q_SUR_NEK_016 | ok |
+Q_SUR_USB_001 | ok |
+Q_SUR_USB_002 | ok |
+Q_SUR_USB_003 | ok |
+Q_SUR_USB_004 | ok |
+Q_SUR_USB_005 | ok |
+Q_SUR_USB_006 | ok |
+Q_SUR_USB_007 | ok |

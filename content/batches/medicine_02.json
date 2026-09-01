@@ -1,0 +1,1216 @@
+{
+ "questions": [
+  {
+   "id": "Q_MED_CMP_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "E",
+   "stem": "The commonest type of cardiomyopathy is:",
+   "options": [
+    "Dilated cardiomyopathy",
+    "Hypertrophic cardiomyopathy",
+    "Restrictive cardiomyopathy",
+    "Arrhythmogenic right ventricular cardiomyopathy"
+   ],
+   "correct": 0,
+   "concept": "Dilated cardiomyopathy accounts for the majority of cases and presents with biventricular systolic failure and a globally dilated, poorly contracting heart. Hypertrophic cardiomyopathy is the commonest inherited form.",
+   "reference": "HARR 21e, Cardiomyopathy and Myocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "M",
+   "stem": "The systolic murmur of hypertrophic obstructive cardiomyopathy increases in intensity with:",
+   "options": [
+    "Squatting",
+    "Valsalva manoeuvre",
+    "Passive leg raising",
+    "Sustained handgrip"
+   ],
+   "correct": 1,
+   "concept": "Valsalva reduces venous return and left ventricular cavity size, worsening dynamic outflow obstruction and intensifying the murmur. Squatting, leg raising and handgrip all increase preload or afterload and soften it - the reverse of aortic stenosis.",
+   "reference": "HARR 21e, Cardiomyopathy and Myocarditis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "M",
+   "stem": "Hypertrophic cardiomyopathy is most commonly inherited as:",
+   "options": [
+    "Autosomal recessive",
+    "X-linked recessive",
+    "Autosomal dominant",
+    "Mitochondrial"
+   ],
+   "correct": 2,
+   "concept": "Hypertrophic cardiomyopathy is autosomal dominant with variable penetrance, most often from mutations in beta-myosin heavy chain (MYH7) or myosin-binding protein C. First-degree relatives should be screened.",
+   "reference": "HARR 21e, Cardiomyopathy and Myocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "E",
+   "stem": "The commonest congenital heart disease overall is:",
+   "options": [
+    "Atrial septal defect",
+    "Patent ductus arteriosus",
+    "Tetralogy of Fallot",
+    "Ventricular septal defect"
+   ],
+   "correct": 3,
+   "concept": "Ventricular septal defect is the commonest congenital cardiac malformation. Tetralogy of Fallot is the commonest cyanotic lesion beyond infancy and bicuspid aortic valve the commonest congenital valve anomaly.",
+   "reference": "Nelson 21e, Congenital Heart Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "M",
+   "stem": "The commonest cyanotic congenital heart disease beyond one year of age is:",
+   "options": [
+    "Total anomalous pulmonary venous connection",
+    "Tetralogy of Fallot",
+    "Truncus arteriosus",
+    "Tricuspid atresia"
+   ],
+   "correct": 1,
+   "concept": "Tetralogy of Fallot is the commonest cyanotic lesion surviving beyond infancy, while transposition of the great arteries is the commonest presenting in the neonatal period. Squatting relieves cyanosis by raising systemic vascular resistance.",
+   "reference": "Nelson 21e, Cyanotic Congenital Heart Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "M",
+   "stem": "A wide and fixed split second heart sound is characteristic of:",
+   "options": [
+    "Ventricular septal defect",
+    "Patent ductus arteriosus",
+    "Ostium secundum atrial septal defect",
+    "Pulmonary stenosis"
+   ],
+   "correct": 2,
+   "concept": "Fixed wide splitting of the second sound results from the constant right ventricular volume overload of an atrial septal defect, which abolishes the normal respiratory variation. Pulmonary stenosis causes wide but still variable splitting.",
+   "reference": "HARR 21e, Cardiomyopathy and Myocarditis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "E",
+   "stem": "A continuous machinery murmur best heard in the left infraclavicular area suggests:",
+   "options": [
+    "Patent ductus arteriosus",
+    "Ventricular septal defect",
+    "Atrial septal defect",
+    "Coarctation of the aorta"
+   ],
+   "correct": 0,
+   "concept": "A patent ductus arteriosus produces a continuous machinery murmur because the aorta-to-pulmonary artery pressure gradient persists through systole and diastole, with a wide pulse pressure and bounding pulses.",
+   "reference": "Nelson 21e, Patent Ductus Arteriosus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "H",
+   "stem": "A cyanosed infant has pink upper limbs with cyanosed lower limbs (differential cyanosis). The likely lesion is:",
+   "options": [
+    "Tetralogy of Fallot",
+    "Atrial septal defect",
+    "Ventricular septal defect",
+    "Patent ductus arteriosus with shunt reversal"
+   ],
+   "correct": 3,
+   "concept": "Differential cyanosis sparing the upper body occurs when deoxygenated pulmonary artery blood enters the aorta distal to the left subclavian through a reversed ductus, as in severe pulmonary hypertension or a duct-dependent coarctation. Intracardiac shunts cause uniform cyanosis.",
+   "reference": "HARR 21e, Cardiomyopathy and Myocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "H",
+   "stem": "The commonest cause of restrictive cardiomyopathy worldwide is:",
+   "options": [
+    "Sarcoidosis",
+    "Haemochromatosis",
+    "Amyloidosis",
+    "Endomyocardial fibrosis"
+   ],
+   "correct": 2,
+   "concept": "Cardiac amyloidosis is the commonest cause of restrictive cardiomyopathy, showing a speckled myocardium with low-voltage ECG despite thick walls. Endomyocardial fibrosis is important in tropical regions but is less frequent overall.",
+   "reference": "HARR 21e, Cardiomyopathy and Myocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_CMP_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Cardiomyopathies & adult congenital heart disease",
+   "difficulty": "M",
+   "stem": "Which drug is contraindicated in hypertrophic obstructive cardiomyopathy?",
+   "options": [
+    "Propranolol",
+    "Digoxin",
+    "Verapamil",
+    "Disopyramide"
+   ],
+   "correct": 1,
+   "concept": "Digoxin increases contractility and therefore worsens dynamic outflow tract obstruction; diuretics, nitrates and vasodilators are similarly harmful. Beta blockers, verapamil and disopyramide are negatively inotropic and are the mainstay of treatment.",
+   "reference": "KDT 8e, Cardiac Glycosides",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "E",
+   "stem": "The commonest bacterial cause of community-acquired pneumonia is:",
+   "options": [
+    "Streptococcus pneumoniae",
+    "Klebsiella pneumoniae",
+    "Staphylococcus aureus",
+    "Haemophilus influenzae"
+   ],
+   "correct": 0,
+   "concept": "Streptococcus pneumoniae remains the single commonest identified cause of community-acquired pneumonia, typically producing lobar consolidation with rusty sputum and a rapid response to amoxicillin.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "M",
+   "stem": "Which is NOT a component of the CURB-65 severity score?",
+   "options": [
+    "Confusion",
+    "Oxygen saturation",
+    "Blood urea",
+    "Respiratory rate"
+   ],
+   "correct": 1,
+   "concept": "CURB-65 comprises Confusion, Urea above 7 mmol/L, Respiratory rate 30 or more, Blood pressure below 90/60 mmHg and age 65 or above. Oxygen saturation is not part of the score, although it guides oxygen therapy.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "M",
+   "stem": "A young adult has an atypical pneumonia with cold agglutinins and haemolysis. The likely organism is:",
+   "options": [
+    "Legionella pneumophila",
+    "Chlamydophila pneumoniae",
+    "Mycoplasma pneumoniae",
+    "Coxiella burnetii"
+   ],
+   "correct": 2,
+   "concept": "Mycoplasma pneumoniae is associated with cold agglutinin mediated haemolysis, erythema multiforme and bullous myringitis, and radiographic changes exceeding clinical signs. It is treated with a macrolide or doxycycline as it lacks a cell wall.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "E",
+   "stem": "In a patient who aspirates while supine, a lung abscess most commonly develops in the:",
+   "options": [
+    "Left lower lobe",
+    "Lingula",
+    "Right middle lobe",
+    "Posterior segment of the right upper lobe"
+   ],
+   "correct": 3,
+   "concept": "Aspirated material follows gravity into the posterior segment of the right upper lobe or the superior segment of the right lower lobe when supine, favoured by the more vertical right main bronchus.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "M",
+   "stem": "The investigation of choice for confirming bronchiectasis is:",
+   "options": [
+    "Chest radiograph",
+    "High-resolution computed tomography of the chest",
+    "Bronchography",
+    "Spirometry"
+   ],
+   "correct": 1,
+   "concept": "High-resolution CT is the current standard, showing bronchial dilatation with a bronchoarterial ratio above 1, lack of tapering and the signet-ring sign. Bronchography is obsolete.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "M",
+   "stem": "Kartagener syndrome comprises:",
+   "options": [
+    "Bronchiectasis, pancreatic insufficiency and infertility",
+    "Asthma, eosinophilia and nasal polyps",
+    "Situs inversus, bronchiectasis and sinusitis",
+    "Bronchiectasis, haemoptysis and clubbing"
+   ],
+   "correct": 2,
+   "concept": "Kartagener syndrome is the triad of situs inversus, bronchiectasis and chronic sinusitis caused by primary ciliary dyskinesia, with immotile sperm producing male infertility.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "E",
+   "stem": "Thick, blood-tinged currant-jelly sputum in a diabetic alcoholic with an upper lobe cavity suggests:",
+   "options": [
+    "Klebsiella pneumoniae",
+    "Streptococcus pneumoniae",
+    "Mycoplasma pneumoniae",
+    "Pseudomonas aeruginosa"
+   ],
+   "correct": 0,
+   "concept": "Klebsiella (Friedlander) pneumonia typically affects diabetics and alcoholics, producing viscid currant-jelly sputum, upper lobe involvement, bulging fissures and a tendency to cavitate.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "H",
+   "stem": "The most useful rapid diagnostic test for Legionella pneumophila infection is:",
+   "options": [
+    "Sputum Gram stain",
+    "Blood culture",
+    "Cold agglutinin titre",
+    "Urinary antigen detection"
+   ],
+   "correct": 3,
+   "concept": "Legionella does not stain on routine Gram stain and grows only on buffered charcoal yeast extract medium, so urinary antigen detection is the practical rapid test. Hyponatraemia, diarrhoea and raised transaminases are supportive clues.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "H",
+   "stem": "An HIV-positive patient with CD4 count 90 per microlitre has progressive breathlessness, bilateral perihilar infiltrates and a markedly raised lactate dehydrogenase. The likely diagnosis is:",
+   "options": [
+    "Pulmonary tuberculosis",
+    "Bacterial pneumonia",
+    "Pneumocystis jirovecii pneumonia",
+    "Kaposi sarcoma of the lung"
+   ],
+   "correct": 2,
+   "concept": "Pneumocystis pneumonia occurs when CD4 falls below 200, causing dry cough, marked hypoxia on exertion, bilateral perihilar ground-glass shadowing and raised LDH. Diagnosis is by silver or immunofluorescent staining of induced sputum or lavage.",
+   "reference": "HARR 21e, Pneumonia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PNA_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pneumonia, bronchiectasis & lung abscess",
+   "difficulty": "M",
+   "stem": "The drug of choice for Pneumocystis jirovecii pneumonia is:",
+   "options": [
+    "Azithromycin",
+    "Cotrimoxazole",
+    "Amphotericin B",
+    "Fluconazole"
+   ],
+   "correct": 1,
+   "concept": "High-dose cotrimoxazole is first line for both treatment and prophylaxis; adjunctive corticosteroids are added when the arterial oxygen tension is below 70 mmHg. Antifungals are ineffective despite the organism being a fungus.",
+   "reference": "KDT 8e, Sulfonamides and Cotrimoxazole",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "E",
+   "stem": "By Light's criteria, a pleural fluid to serum protein ratio greater than 0.5 indicates:",
+   "options": [
+    "An exudate",
+    "A transudate",
+    "A chylothorax",
+    "An empyema"
+   ],
+   "correct": 0,
+   "concept": "Light's criteria classify fluid as exudative if the protein ratio exceeds 0.5, the LDH ratio exceeds 0.6, or pleural LDH exceeds two-thirds of the upper limit of normal serum LDH. Transudates arise from altered hydrostatic or oncotic pressure.",
+   "reference": "HARR 21e, Disorders of the Pleura",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "M",
+   "stem": "The commonest cause of an exudative pleural effusion in India is:",
+   "options": [
+    "Malignancy",
+    "Tuberculosis",
+    "Parapneumonic effusion",
+    "Pulmonary embolism"
+   ],
+   "correct": 1,
+   "concept": "Tuberculosis is the leading cause of exudative effusion in India, characteristically lymphocyte-predominant with high adenosine deaminase and low glucose, and pleural biopsy has a higher yield than fluid culture.",
+   "reference": "Park 27e, Tuberculosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "M",
+   "stem": "A parapneumonic effusion with pH 7.0, glucose 30 mg/dL and frank pus on aspiration requires:",
+   "options": [
+    "Antibiotics alone",
+    "Repeated therapeutic aspiration",
+    "Intercostal tube drainage",
+    "Observation"
+   ],
+   "correct": 2,
+   "concept": "A complicated parapneumonic effusion or empyema, indicated by pH below 7.2, glucose below 60 mg/dL, high LDH or frank pus, needs prompt intercostal tube drainage in addition to antibiotics.",
+   "reference": "HARR 21e, Disorders of the Pleura",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "E",
+   "stem": "The immediate management of a tension pneumothorax is:",
+   "options": [
+    "Chest radiograph then intercostal drainage",
+    "Intubation and ventilation",
+    "Needle thoracostomy for immediate decompression",
+    "Pleurodesis"
+   ],
+   "correct": 2,
+   "concept": "Tension pneumothorax is a clinical diagnosis treated by immediate needle decompression in the second intercostal space in the midclavicular space or the safe triangle, followed by tube drainage. Waiting for a radiograph can be fatal.",
+   "reference": "HARR 21e, Disorders of the Pleura",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "M",
+   "stem": "In a massive pleural effusion, the trachea and mediastinum are displaced:",
+   "options": [
+    "To the same side",
+    "To the opposite side",
+    "They remain central",
+    "Inferiorly"
+   ],
+   "correct": 1,
+   "concept": "A large effusion is a space-occupying process that pushes the mediastinum away from the affected side, whereas collapse or fibrosis pulls it towards the lesion - the key bedside distinction.",
+   "reference": "HARR 21e, Disorders of the Pleura",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "M",
+   "stem": "High-resolution CT showing basal, subpleural reticulation with honeycombing and traction bronchiectasis indicates:",
+   "options": [
+    "Nonspecific interstitial pneumonia",
+    "Hypersensitivity pneumonitis",
+    "Usual interstitial pneumonia pattern of idiopathic pulmonary fibrosis",
+    "Sarcoidosis"
+   ],
+   "correct": 2,
+   "concept": "Basal and subpleural predominant reticulation with honeycombing defines the usual interstitial pneumonia pattern, which is diagnostic of idiopathic pulmonary fibrosis in the right clinical setting and avoids the need for biopsy.",
+   "reference": "HARR 21e, Disorders of the Pleura",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "E",
+   "stem": "Exposure to asbestos is most specifically associated with which malignancy?",
+   "options": [
+    "Malignant mesothelioma",
+    "Small cell carcinoma of lung",
+    "Squamous cell carcinoma of lung",
+    "Thymoma"
+   ],
+   "correct": 0,
+   "concept": "Malignant pleural mesothelioma is the tumour most specifically linked to asbestos, with a long latency of 20 to 40 years and no relation to smoking, although asbestos also increases bronchogenic carcinoma risk.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "H",
+   "stem": "Eggshell calcification of hilar lymph nodes on a chest radiograph is characteristic of:",
+   "options": [
+    "Coal worker's pneumoconiosis",
+    "Byssinosis",
+    "Berylliosis",
+    "Silicosis"
+   ],
+   "correct": 3,
+   "concept": "Peripheral or eggshell calcification of hilar nodes is classical of silicosis, which also predisposes strongly to tuberculosis (silicotuberculosis). Byssinosis from cotton dust causes no radiographic change.",
+   "reference": "Park 27e, Occupational Diseases",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "H",
+   "stem": "The characteristic pulmonary function pattern in interstitial lung disease is:",
+   "options": [
+    "Reduced FEV1 with reduced FEV1/FVC ratio",
+    "Normal spirometry with raised residual volume",
+    "Reduced FVC with normal or raised FEV1/FVC ratio and reduced DLCO",
+    "Raised total lung capacity with reduced DLCO"
+   ],
+   "correct": 2,
+   "concept": "Interstitial disease is restrictive: total lung capacity and FVC fall while the FEV1 to FVC ratio is preserved or raised, and diffusing capacity falls early, often before radiographic change.",
+   "reference": "HARR 21e, Disorders of the Pleura",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PLE_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pleural effusion, pneumothorax & interstitial lung disease",
+   "difficulty": "M",
+   "stem": "The commonest non-traumatic cause of chylothorax is:",
+   "options": [
+    "Tuberculosis",
+    "Lymphoma",
+    "Nephrotic syndrome",
+    "Cirrhosis"
+   ],
+   "correct": 1,
+   "concept": "Lymphoma is the commonest non-traumatic cause of chylothorax through obstruction of the thoracic duct, while surgical or penetrating injury dominates traumatic cases. The fluid is milky with triglycerides above 110 mg/dL.",
+   "reference": "HARR 21e, Disorders of the Pleura",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "E",
+   "stem": "The commonest source of a pulmonary embolus is:",
+   "options": [
+    "Deep veins of the lower limb and pelvis",
+    "Right atrial thrombus",
+    "Upper limb veins",
+    "Renal vein thrombosis"
+   ],
+   "correct": 0,
+   "concept": "More than 90% of pulmonary emboli arise from deep vein thrombosis of the lower limbs and pelvic veins, particularly the ileofemoral segment, which yields the largest and most dangerous emboli.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "M",
+   "stem": "The commonest electrocardiographic finding in acute pulmonary embolism is:",
+   "options": [
+    "S1Q3T3 pattern",
+    "Sinus tachycardia",
+    "Right bundle branch block",
+    "Right axis deviation"
+   ],
+   "correct": 1,
+   "concept": "Sinus tachycardia is the commonest ECG finding, while the classical S1Q3T3 pattern is uncommon and indicates massive embolism. A normal ECG does not exclude the diagnosis.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "M",
+   "stem": "The investigation of choice for suspected pulmonary embolism in a haemodynamically stable patient is:",
+   "options": [
+    "Ventilation-perfusion scan",
+    "Echocardiography",
+    "Computed tomography pulmonary angiography",
+    "Lower limb Doppler"
+   ],
+   "correct": 2,
+   "concept": "CT pulmonary angiography is the current investigation of choice, directly demonstrating intraluminal filling defects. Ventilation-perfusion scanning is reserved for renal failure, contrast allergy or pregnancy.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "E",
+   "stem": "The main clinical value of the D-dimer assay in suspected pulmonary embolism is that it:",
+   "options": [
+    "Confirms the diagnosis when raised",
+    "Correlates with clot size",
+    "Predicts the risk of recurrence",
+    "Excludes the diagnosis when normal in a low-probability patient"
+   ],
+   "correct": 3,
+   "concept": "D-dimer has high sensitivity but poor specificity, so a normal value in a patient with low or intermediate clinical probability effectively excludes venous thromboembolism, whereas a raised value is non-specific and needs imaging.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "M",
+   "stem": "A patient with pulmonary embolism has systolic blood pressure of 78 mmHg. The treatment of choice is:",
+   "options": [
+    "Unfractionated heparin alone",
+    "Systemic thrombolysis",
+    "Inferior vena cava filter",
+    "Oral warfarin"
+   ],
+   "correct": 1,
+   "concept": "Massive pulmonary embolism with haemodynamic instability is an indication for systemic thrombolysis with alteplase, or surgical or catheter embolectomy if thrombolysis is contraindicated. Anticoagulation alone is insufficient.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "M",
+   "stem": "Which is NOT a component of the Wells score for pulmonary embolism?",
+   "options": [
+    "Heart rate above 100 per minute",
+    "Previous venous thromboembolism",
+    "Raised D-dimer",
+    "Haemoptysis"
+   ],
+   "correct": 2,
+   "concept": "The Wells score uses clinical features and risk factors including tachycardia, immobilisation or surgery, previous venous thromboembolism, haemoptysis, malignancy and signs of deep vein thrombosis. D-dimer is applied after the score, not within it.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "E",
+   "stem": "The Westermark sign on chest radiograph in pulmonary embolism refers to:",
+   "options": [
+    "Regional oligaemia from reduced perfusion",
+    "A wedge-shaped peripheral opacity",
+    "An elevated hemidiaphragm",
+    "A prominent right descending pulmonary artery"
+   ],
+   "correct": 0,
+   "concept": "The Westermark sign is regional oligaemia distal to the occluded vessel. The Hampton hump is the peripheral wedge-shaped infarct and the Palla sign the enlarged right descending pulmonary artery.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "H",
+   "stem": "Pulmonary hypertension is currently defined by a mean pulmonary artery pressure at rest greater than:",
+   "options": [
+    "10 mmHg",
+    "15 mmHg",
+    "18 mmHg",
+    "20 mmHg"
+   ],
+   "correct": 3,
+   "concept": "The current haemodynamic definition is a mean pulmonary artery pressure above 20 mmHg at rest on right heart catheterisation, which remains the diagnostic gold standard; pre-capillary disease additionally requires pulmonary vascular resistance of 2 Wood units or more.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "H",
+   "stem": "The gold standard investigation for obstructive sleep apnoea is:",
+   "options": [
+    "Overnight pulse oximetry",
+    "Epworth sleepiness scale",
+    "Polysomnography",
+    "Multiple sleep latency test"
+   ],
+   "correct": 2,
+   "concept": "Polysomnography establishes the diagnosis and grades severity by the apnoea-hypopnoea index: 5 to 15 mild, 15 to 30 moderate and above 30 severe. The Epworth scale only assesses subjective sleepiness.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PE_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+   "difficulty": "M",
+   "stem": "The treatment of choice for moderate to severe obstructive sleep apnoea is:",
+   "options": [
+    "Modafinil",
+    "Continuous positive airway pressure",
+    "Uvulopalatopharyngoplasty",
+    "Nocturnal oxygen"
+   ],
+   "correct": 1,
+   "concept": "Nasal continuous positive airway pressure splints the upper airway open and is the treatment of choice, reducing daytime sleepiness and cardiovascular risk. Weight reduction is essential adjunctive therapy.",
+   "reference": "HARR 21e, Deep Venous Thrombosis and Pulmonary Thromboembolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "E",
+   "stem": "The commonest cause of anaemia worldwide is:",
+   "options": [
+    "Iron deficiency",
+    "Vitamin B12 deficiency",
+    "Folate deficiency",
+    "Anaemia of chronic disease"
+   ],
+   "correct": 0,
+   "concept": "Iron deficiency is the commonest nutritional deficiency and cause of anaemia globally, producing a microcytic hypochromic picture with low ferritin, raised total iron binding capacity and low transferrin saturation.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "M",
+   "stem": "The earliest laboratory indicator of iron deficiency is:",
+   "options": [
+    "Fall in haemoglobin",
+    "Fall in serum ferritin",
+    "Rise in total iron binding capacity",
+    "Fall in mean corpuscular volume"
+   ],
+   "correct": 1,
+   "concept": "Depletion of iron stores lowers serum ferritin before serum iron, red cell indices or haemoglobin change, making ferritin the earliest and most useful marker. Haemoglobin falls only after stores are exhausted.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "M",
+   "stem": "Which iron profile is characteristic of anaemia of chronic disease?",
+   "options": [
+    "Low serum iron, high TIBC, low ferritin",
+    "Low serum iron, high TIBC, high ferritin",
+    "Low serum iron, low TIBC, normal or raised ferritin",
+    "High serum iron, low TIBC, high ferritin"
+   ],
+   "correct": 2,
+   "concept": "In anaemia of chronic disease hepcidin traps iron in macrophages, so serum iron and TIBC are both low while ferritin is normal or raised. Iron deficiency differs by having a high TIBC and low ferritin.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "E",
+   "stem": "Macrocytic anaemia accompanied by subacute combined degeneration of the spinal cord indicates deficiency of:",
+   "options": [
+    "Iron",
+    "Folic acid",
+    "Pyridoxine",
+    "Vitamin B12"
+   ],
+   "correct": 3,
+   "concept": "Only vitamin B12 deficiency causes neurological disease - posterior column and pyramidal tract degeneration and peripheral neuropathy - because B12 is required for myelin maintenance. Folate replacement alone can precipitate or worsen these features.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "M",
+   "stem": "Which biochemical finding distinguishes vitamin B12 deficiency from folate deficiency?",
+   "options": [
+    "Raised serum homocysteine",
+    "Raised serum methylmalonic acid",
+    "Hypersegmented neutrophils",
+    "Raised lactate dehydrogenase"
+   ],
+   "correct": 1,
+   "concept": "Methylmalonic acid accumulates only in B12 deficiency because B12 is the cofactor for methylmalonyl-CoA mutase. Homocysteine rises in both, and hypersegmented neutrophils occur in any megaloblastic process.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "M",
+   "stem": "A child with anaemia, abdominal colic and basophilic stippling of red cells most likely has:",
+   "options": [
+    "Thalassaemia",
+    "Sideroblastic anaemia of alcohol",
+    "Lead poisoning",
+    "Hereditary spherocytosis"
+   ],
+   "correct": 2,
+   "concept": "Lead inhibits ferrochelatase and ALA dehydratase, producing microcytic anaemia with coarse basophilic stippling, abdominal colic, a gum lead line and raised free erythrocyte protoporphyrin.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "E",
+   "stem": "Sickle cell disease results from substitution of valine for glutamic acid at position 6 of the:",
+   "options": [
+    "Beta globin chain",
+    "Alpha globin chain",
+    "Gamma globin chain",
+    "Delta globin chain"
+   ],
+   "correct": 0,
+   "concept": "HbS arises from a single point mutation replacing glutamic acid with valine at the sixth residue of the beta globin chain, which polymerises on deoxygenation and deforms the red cell.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "H",
+   "stem": "A patient has haemoglobin 10.5 g/dL, MCV 62 fL, a normal red cell count of 5.6 million per microlitre and normal serum ferritin. The likely diagnosis is:",
+   "options": [
+    "Iron deficiency anaemia",
+    "Anaemia of chronic disease",
+    "Sideroblastic anaemia",
+    "Beta thalassaemia trait"
+   ],
+   "correct": 3,
+   "concept": "Marked microcytosis with a preserved or raised red cell count and normal iron stores indicates thalassaemia trait; the Mentzer index (MCV divided by RBC count) is below 13, whereas iron deficiency gives a value above 13 with a low red cell count.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "H",
+   "stem": "Paroxysmal nocturnal haemoglobinuria is best diagnosed by:",
+   "options": [
+    "Ham acid haemolysis test",
+    "Sucrose lysis test",
+    "Flow cytometry for CD55 and CD59 deficiency",
+    "Osmotic fragility test"
+   ],
+   "correct": 2,
+   "concept": "A PIGA mutation causes loss of GPI-anchored complement regulators CD55 and CD59, so flow cytometry demonstrating their deficiency has replaced the older Ham and sucrose lysis tests as the diagnostic standard.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ANE_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anaemias & haematinic deficiencies",
+   "difficulty": "M",
+   "stem": "Pancytopenia with a hypocellular bone marrow and no hepatosplenomegaly or lymphadenopathy suggests:",
+   "options": [
+    "Acute leukaemia",
+    "Aplastic anaemia",
+    "Myelofibrosis",
+    "Megaloblastic anaemia"
+   ],
+   "correct": 1,
+   "concept": "Aplastic anaemia is pancytopenia with a fatty, hypocellular marrow and characteristically absent organomegaly. Leukaemia and myelofibrosis give a cellular marrow with splenomegaly, and megaloblastic anaemia a hypercellular marrow.",
+   "reference": "HARR 21e, Anemia and Iron Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

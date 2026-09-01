@@ -1,0 +1,44 @@
+Q_MED_GN_013 | del | duplicate of Q_MED_GN_003 on the low C3 with normal C4 of post-streptococcal glomerulonephritis. The first item is retained
+Q_MED_GN_015 | del | duplicate of Q_MED_GN_004 on linear IgG deposition in anti-glomerular basement membrane disease. The first item is retained
+Q_MED_GN_017 | del | duplicate of Q_MED_GN_009 on urinary antithrombin III loss causing hypercoagulability. The first item is retained
+Q_MED_HIV_016 | del | duplicate of Q_MED_HIV_008 on immune reconstitution inflammatory syndrome. The first item is retained
+Q_MED_HIV_015 | del | duplicate of Q_MED_HIV_004 on toxoplasma encephalitis causing ring-enhancing lesions in AIDS. The first item is retained
+Q_MED_GER_006 | ref=WHO Guidelines for the Pharmacological and Radiotherapeutic Management of Cancer Pain in Adults and Adolescents 2018; Harrison's Principles of Internal Medicine 21e, Ch. 471 (Palliative and End-of-Life Care) | the reference read "WHO Cancer Pain Relief; Park 27e" with no year and cited a community medicine text for a palliative care principle
+Q_MED_GER_009 | ref=Common Cause v Union of India, Supreme Court of India 2018; Harrison's Principles of Internal Medicine 21e, Ch. 471 (Palliative and End-of-Life Care) | the judgment was cited with no supporting clinical source
+Q_MED_HIV_002 | ref=NACO National Guidelines on Antiretroviral Therapy for HIV 2021; Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the reference read "NACO National ART Guidelines" with no year or supporting textbook
+Q_MED_GER_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 471 (Palliative and End-of-Life Care) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GER_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 471 (Palliative and End-of-Life Care) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GN_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 314 (Glomerular Diseases) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GN_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 314 (Glomerular Diseases) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GN_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 314 (Glomerular Diseases) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GN_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 314 (Glomerular Diseases) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GN_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 314 (Glomerular Diseases) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GN_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 314 (Glomerular Diseases) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GN_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 314 (Glomerular Diseases) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HIV_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HIV_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HIV_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HIV_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HIV_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HIV_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HIV_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 202 (Human Immunodeficiency Virus Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_GER_007 | ok |
+Q_MED_GER_011 | ok |
+Q_MED_GER_012 | ok |
+Q_MED_GER_013 | ok |
+Q_MED_GER_015 | ok |
+Q_MED_GER_016 | ok |
+Q_MED_GER_017 | ok |
+Q_MED_GER_018 | ok |
+Q_MED_GN_010 | ok |
+Q_MED_GN_018 | ok |
+Q_MED_GN_019 | ok |
+Q_MED_HIV_009 | ok |
+Q_MED_HIV_010 | ok |
+Q_MED_HIV_012 | ok |
+Q_MED_HIV_014 | ok |
+Q_MED_HIV_017 | ok |
+Q_MED_HIV_018 | ok |
+Q_MED_HIV_019 | ok |
+Q_MED_HFV_001 | ok |
+Q_MED_HFV_002 | ok |

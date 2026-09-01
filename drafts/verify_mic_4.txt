@@ -1,0 +1,44 @@
+Q_MIC_NEI_001 | del | duplicate of Q_MIC_NEI_011, which names the same Thayer-Martin medium and additionally its selective antibiotics. The fuller item is retained
+Q_MIC_NEI_005 | del | duplicate of Q_MIC_NEI_013, which gives the same X and V factor requirement and additionally satellitism. The fuller item is retained
+Q_MIC_NEI_007 | del | duplicate of Q_MIC_NEI_015, which names the same medium and additionally explains why charcoal and blood are included. The fuller item is retained
+Q_MIC_NEI_009 | del | duplicate of Q_MIC_NEI_017, which gives the same standard tube agglutination test and additionally the prozone caveat. The fuller item is retained
+Q_MIC_RAB_012 | del | duplicate of Q_MIC_RAB_002, which covers the same category III exposure and gives the full management of wound washing, immunoglobulin infiltration and vaccine. The fuller item is retained
+Q_MIC_RAB_013 | del | duplicate of Q_MIC_RAB_005 on oral polio vaccine causing vaccine-associated paralytic poliomyelitis. The first item is retained
+Q_MIC_MOP_001 | ok |
+Q_MIC_MOP_002 | ok |
+Q_MIC_MOP_003 | ok |
+Q_MIC_MOP_004 | ok |
+Q_MIC_MOP_005 | ok |
+Q_MIC_MOP_006 | ok |
+Q_MIC_MOP_008 | ok |
+Q_MIC_MIF_001 | ok |
+Q_MIC_MIF_002 | ok |
+Q_MIC_MIF_003 | ok |
+Q_MIC_MIF_004 | ok |
+Q_MIC_MIF_005 | ok |
+Q_MIC_MIF_006 | ok |
+Q_MIC_MIF_007 | ok |
+Q_MIC_MIF_008 | ok |
+Q_MIC_MIF_009 | ok |
+Q_MIC_NEI_002 | ok |
+Q_MIC_NEI_004 | ok |
+Q_MIC_NEI_006 | ok |
+Q_MIC_NEI_008 | ok |
+Q_MIC_NEI_010 | ok |
+Q_MIC_NEI_011 | ok |
+Q_MIC_NEI_012 | ok |
+Q_MIC_NEI_013 | ok |
+Q_MIC_NEI_014 | ok |
+Q_MIC_NEI_015 | ok |
+Q_MIC_NEI_016 | ok |
+Q_MIC_NEI_017 | ok |
+Q_MIC_NEI_018 | ok |
+Q_MIC_RAB_001 | ok |
+Q_MIC_RAB_002 | ok |
+Q_MIC_RAB_003 | ok |
+Q_MIC_RAB_004 | ok |
+Q_MIC_RAB_005 | ok |
+Q_MIC_RAB_006 | ok |
+Q_MIC_RAB_007 | ok |
+Q_MIC_RAB_009 | ok |
+Q_MIC_RAB_010 | ok |

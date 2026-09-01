@@ -1,0 +1,46 @@
+Q_ENT_EAR_013 | del | duplicate of Q_ENT_EAR_004 on stapedotomy being the definitive treatment, with the risk of a dead ear already covered by Q_ENT_EAR_019. Both retained items together carry the whole point
+Q_ENT_EAR_014 | del | duplicate of Q_ENT_EAR_003 on the Schwartze sign of active otospongiosis. The first item is retained
+Q_ENT_EAR_015 | del | duplicate of Q_ENT_EAR_005, which describes the same retracted drum with effusion in a child and additionally the type C tympanogram. The fuller item is retained
+Q_ENT_LAR_006 | del | duplicate of Q_ENT_LAR_017 on the site of election for tracheostomy, and the two gave different ring numbers. The item that also names the structures to avoid is retained and its ring range corrected
+Q_ENT_LAR_005 | del | duplicate of Q_ENT_LAR_015, which identifies laryngomalacia from the positional stridor and states that it is the commonest cause. The vignette is retained
+Q_ENT_LAR_014 | del | duplicate covering the paramedian cord position of Q_ENT_LAR_011 and the danger of bilateral palsy of Q_ENT_LAR_010. Both of those are retained
+Q_ENT_NAS_017 | del | duplicate of Q_ENT_NAS_005 on rhinoscleroma caused by Klebsiella rhinoscleromatis with Mikulicz cells. The first item is retained
+Q_ENT_NAS_004 | del | duplicate of Q_ENT_NAS_020, which describes the same strawberry-like friable mass and additionally the white surface dots and the pond water source. The vignette is retained
+Q_ENT_NAS_013 | del | duplicate of Q_ENT_NAS_008 on hardwood dust and ethmoid adenocarcinoma. The first item is retained
+Q_ENT_LAR_017 | opt0=Between the second and third tracheal rings, avoiding the first ring to prevent subglottic stenosis and the isthmus of the thyroid | the option read "second and fourth", contradicting the site of election given in Dhingra and in the item that has now been removed as its duplicate
+Q_ENT_LAR_003 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Anatomy and Physiology of Larynx; Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck | the reference read "Dhingra ENT 7e" in short form at an edition that conflicts with the 8e used throughout the bank
+Q_ENT_NAS_008 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Tumours of Nasal Cavity and Paranasal Sinuses; Park's Textbook of Preventive and Social Medicine 27e, Ch. Occupational Health | a sinonasal tumour was sourced only to a community medicine textbook
+Q_ENT_NAS_010 | topic=Sinusitis, epistaxis, DNS | epistaxis has its own topic; the item was filed under nasal polyps and tumours
+Q_ENT_EAR_016 | ok |
+Q_ENT_EAR_017 | ok |
+Q_ENT_EAR_018 | ok |
+Q_ENT_EAR_019 | ok |
+Q_ENT_EAR_020 | ok |
+Q_ENT_LAR_001 | ok |
+Q_ENT_LAR_004 | ok |
+Q_ENT_LAR_007 | ok |
+Q_ENT_LAR_010 | ok |
+Q_ENT_LAR_011 | ok |
+Q_ENT_LAR_012 | ok |
+Q_ENT_LAR_015 | ok |
+Q_ENT_LAR_018 | ok |
+Q_ENT_LAR_019 | ok |
+Q_ENT_LAR_020 | ok |
+Q_ENT_NAS_001 | ok |
+Q_ENT_NAS_002 | ok |
+Q_ENT_NAS_003 | ok |
+Q_ENT_NAS_005 | ok |
+Q_ENT_NAS_006 | ok |
+Q_ENT_NAS_007 | ok |
+Q_ENT_NAS_009 | ok |
+Q_ENT_NAS_015 | ok |
+Q_ENT_NAS_016 | ok |
+Q_ENT_NAS_018 | ok |
+Q_ENT_NAS_019 | ok |
+Q_ENT_NAS_020 | ok |
+Q_ENT_NCK_001 | ok |
+Q_ENT_NCK_002 | ok |
+Q_ENT_NCK_003 | ok |
+Q_ENT_NCK_004 | ok |
+Q_ENT_NCK_005 | ok |
+Q_ENT_NCK_006 | ok |

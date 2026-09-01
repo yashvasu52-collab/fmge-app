@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_PAT_GEN_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "E",
+   "stem": "Marfan syndrome results from a mutation in the gene encoding:",
+   "options": [
+    "Fibrillin-1",
+    "Type I collagen",
+    "Elastin",
+    "Dystrophin"
+   ],
+   "correct": 0,
+   "concept": "FBN1 mutations impair microfibril formation, producing tall stature, arachnodactyly, lens dislocation upward, and aortic root dilatation with dissection - the main cause of death. Inheritance is autosomal dominant.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "M",
+   "stem": "Homocystinuria is distinguished from Marfan syndrome by:",
+   "options": [
+    "Downward lens dislocation, intellectual disability and thrombotic tendency, with autosomal recessive inheritance",
+    "Upward lens dislocation",
+    "Autosomal dominant inheritance",
+    "Aortic dissection"
+   ],
+   "correct": 0,
+   "concept": "Cystathionine beta-synthase deficiency causes marfanoid habitus but with inferomedial lens dislocation, intellectual disability and a marked thrombotic tendency. Some cases respond to pyridoxine.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "M",
+   "stem": "Duchenne muscular dystrophy is inherited as:",
+   "options": [
+    "X-linked recessive, from deletion in the dystrophin gene",
+    "Autosomal dominant",
+    "Autosomal recessive",
+    "Mitochondrial"
+   ],
+   "correct": 0,
+   "concept": "Frameshift deletions in the dystrophin gene at Xp21 abolish protein, causing progressive proximal weakness from age 3 to 5, calf pseudohypertrophy, Gower sign and markedly raised creatine kinase. Becker dystrophy has in-frame mutations with milder disease.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "E",
+   "stem": "Klinefelter syndrome has the karyotype:",
+   "options": [
+    "47,XXY",
+    "45,XO",
+    "47,XYY",
+    "46,XX"
+   ],
+   "correct": 0,
+   "concept": "An extra X in a phenotypic male gives tall stature with long limbs, small firm testes, gynaecomastia, azoospermia and raised gonadotrophins with low testosterone. It is the commonest genetic cause of male infertility.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "M",
+   "stem": "Mitochondrial disorders are characterised by:",
+   "options": [
+    "Exclusively maternal transmission with variable expression from heteroplasmy",
+    "Paternal transmission",
+    "Autosomal dominant inheritance",
+    "X-linked inheritance"
+   ],
+   "correct": 0,
+   "concept": "Mitochondria are inherited only from the ovum, so affected mothers transmit to all children while affected fathers transmit to none. Heteroplasmy - variable mutant mitochondrial proportions - explains highly variable severity, as in Leber optic neuropathy and MELAS.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "M",
+   "stem": "Anticipation, in which a disease appears earlier and more severely in successive generations, is characteristic of:",
+   "options": [
+    "Trinucleotide repeat expansion disorders such as Huntington disease and fragile X",
+    "Chromosomal deletions",
+    "Mitochondrial disorders",
+    "Autosomal recessive disease"
+   ],
+   "correct": 0,
+   "concept": "Unstable trinucleotide repeats expand during gametogenesis, so the repeat number grows across generations, correlating with earlier onset and greater severity. Paternal transmission expands CAG repeats most in Huntington disease.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "E",
+   "stem": "Neurofibromatosis type 1 is characterised by:",
+   "options": [
+    "Cafe-au-lait macules, axillary freckling, neurofibromas and Lisch nodules",
+    "Bilateral acoustic neuromas",
+    "Renal cysts and haemangioblastoma",
+    "Facial angiofibromas and seizures"
+   ],
+   "correct": 0,
+   "concept": "NF1 from mutation of the NF1 tumour suppressor on chromosome 17 shows six or more cafe-au-lait spots, cutaneous neurofibromas, axillary or inguinal freckling, optic glioma and iris Lisch nodules. NF2 on chromosome 22 causes bilateral vestibular schwannomas.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "H",
+   "stem": "Genomic imprinting means that:",
+   "options": [
+    "Expression of a gene depends on whether it was inherited from the mother or father",
+    "Genes are randomly inactivated",
+    "Only autosomal genes are expressed",
+    "Both alleles are always expressed"
+   ],
+   "correct": 0,
+   "concept": "Epigenetic silencing of one parental allele means deletion of the active copy causes disease, illustrated by Prader-Willi from paternal 15q deletion and Angelman from maternal deletion of the same region.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "H",
+   "stem": "Lyonisation refers to:",
+   "options": [
+    "Random inactivation of one X chromosome in each female somatic cell",
+    "Loss of a Y chromosome",
+    "Duplication of an autosome",
+    "Silencing of mitochondrial DNA"
+   ],
+   "correct": 0,
+   "concept": "Random X inactivation early in embryogenesis makes females mosaic, forming the Barr body. It explains variable expression of X-linked disorders in carrier females and the patchy pattern seen in conditions such as X-linked hypohidrotic ectodermal dysplasia.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Genetic & chromosomal disorders",
+   "difficulty": "M",
+   "stem": "Edward syndrome is trisomy of chromosome:",
+   "options": [
+    "18",
+    "21",
+    "13",
+    "16"
+   ],
+   "correct": 0,
+   "concept": "Trisomy 18 shows a prominent occiput, micrognathia, clenched hands with overlapping index finger, rocker-bottom feet and severe cardiac defects, with most infants dying within the first year. Trisomy 13 is Patau syndrome with midline defects.",
+   "reference": "Robbins & Cotran 10e, Genetic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "E",
+   "stem": "Hyperacute rejection of a transplanted kidney occurs:",
+   "options": [
+    "Within minutes to hours, due to preformed recipient antibodies against donor antigens",
+    "After weeks",
+    "After years",
+    "Only with living donors"
+   ],
+   "correct": 0,
+   "concept": "Preformed anti-donor antibodies from prior transfusion, pregnancy or transplantation bind graft endothelium, activating complement and causing thrombosis with immediate graft failure. Crossmatching before transplantation prevents it.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "M",
+   "stem": "Acute cellular rejection of a renal allograft is characterised by:",
+   "options": [
+    "Interstitial mononuclear infiltrate with tubulitis, responsive to increased immunosuppression",
+    "Vascular thrombosis within minutes",
+    "Interstitial fibrosis and tubular atrophy",
+    "Granuloma formation"
+   ],
+   "correct": 0,
+   "concept": "T-cell mediated rejection occurring days to months after transplantation shows lymphocytic infiltration with tubulitis and endarteritis, and generally responds to pulse corticosteroids or anti-lymphocyte therapy.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "M",
+   "stem": "Graft-versus-host disease characteristically affects:",
+   "options": [
+    "Skin, gut and liver, after allogeneic bone marrow transplantation",
+    "Kidney and heart",
+    "Lung only",
+    "Brain"
+   ],
+   "correct": 0,
+   "concept": "Immunocompetent donor T cells attack recipient tissues, producing rash, diarrhoea and cholestatic jaundice. Prevention uses HLA matching and immunosuppression; irradiation of blood products prevents transfusion-associated GVHD.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "E",
+   "stem": "X-linked agammaglobulinaemia (Bruton disease) is characterised by:",
+   "options": [
+    "Absent B cells and immunoglobulins with recurrent pyogenic infections after six months of age",
+    "Absent T cells",
+    "Absent neutrophils",
+    "Complement deficiency"
+   ],
+   "correct": 0,
+   "concept": "BTK gene mutation blocks B-cell maturation, so infections with encapsulated bacteria begin as maternal IgG wanes at about 6 months. Tonsils and lymph nodes are absent; treatment is immunoglobulin replacement.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "M",
+   "stem": "The commonest primary immunodeficiency is:",
+   "options": [
+    "Selective IgA deficiency",
+    "Severe combined immunodeficiency",
+    "Chronic granulomatous disease",
+    "DiGeorge syndrome"
+   ],
+   "correct": 0,
+   "concept": "Selective IgA deficiency is often asymptomatic but may cause mucosal infections, giardiasis, coeliac disease and atopy. Anaphylaxis can occur if blood products containing IgA are given to patients with anti-IgA antibodies.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "M",
+   "stem": "DiGeorge syndrome results from failure of development of:",
+   "options": [
+    "The third and fourth pharyngeal pouches, causing thymic and parathyroid aplasia",
+    "The first pharyngeal arch",
+    "The neural tube",
+    "The yolk sac"
+   ],
+   "correct": 0,
+   "concept": "22q11 deletion causes thymic aplasia with T-cell deficiency, hypocalcaemic tetany from parathyroid absence, conotruncal cardiac anomalies and facial dysmorphism - the CATCH-22 constellation.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "E",
+   "stem": "Chronic granulomatous disease results from a defect in:",
+   "options": [
+    "NADPH oxidase, impairing the respiratory burst",
+    "Complement C3",
+    "Immunoglobulin production",
+    "T-cell receptor signalling"
+   ],
+   "correct": 0,
+   "concept": "Failure to generate superoxide means phagocytes ingest but cannot kill catalase-positive organisms such as Staphylococcus aureus, Serratia, Burkholderia, Nocardia and Aspergillus. The nitroblue tetrazolium or dihydrorhodamine test is diagnostic.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "H",
+   "stem": "Deficiency of the terminal complement components C5 to C9 predisposes specifically to:",
+   "options": [
+    "Recurrent Neisseria infections",
+    "Viral infections",
+    "Fungal infections",
+    "Parasitic infections"
+   ],
+   "correct": 0,
+   "concept": "The membrane attack complex is essential for lysing Neisseria species, so terminal complement deficiency causes recurrent meningococcal and gonococcal infection. C1 inhibitor deficiency instead causes hereditary angio-oedema.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "H",
+   "stem": "HLA-B27 is most strongly associated with:",
+   "options": [
+    "Ankylosing spondylitis",
+    "Rheumatoid arthritis",
+    "Systemic lupus erythematosus",
+    "Type 1 diabetes"
+   ],
+   "correct": 0,
+   "concept": "HLA-B27 is present in over 90% of ankylosing spondylitis and in reactive arthritis, psoriatic arthritis and enteropathic arthritis. Rheumatoid arthritis associates with HLA-DR4 and coeliac disease with DQ2/DQ8.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_IMM_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Immunodeficiency, transplant rejection & HLA",
+   "difficulty": "M",
+   "stem": "Type II hypersensitivity is best exemplified by:",
+   "options": [
+    "Autoimmune haemolytic anaemia with antibody directed against cell surface antigens",
+    "Anaphylaxis",
+    "Serum sickness",
+    "Contact dermatitis"
+   ],
+   "correct": 0,
+   "concept": "Type II reactions involve IgG or IgM against fixed tissue antigens causing complement-mediated lysis, opsonisation or dysfunction, as in haemolytic anaemia, Goodpasture disease, myasthenia gravis and Graves disease. Type III involves circulating immune complexes.",
+   "reference": "Robbins & Cotran 10e, Diseases of the Immune System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "E",
+   "stem": "The commonest skin malignancy is:",
+   "options": [
+    "Basal cell carcinoma",
+    "Squamous cell carcinoma",
+    "Malignant melanoma",
+    "Merkel cell carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Basal cell carcinoma arises on sun-exposed skin, especially the face above a line from the angle of the mouth to the ear lobe, as a pearly nodule with telangiectasia and rolled edges. It invades locally but virtually never metastasises.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "M",
+   "stem": "The single most important prognostic factor in cutaneous malignant melanoma is:",
+   "options": [
+    "Breslow thickness, the depth of invasion in millimetres",
+    "Diameter of the lesion",
+    "Colour variation",
+    "Site of the lesion"
+   ],
+   "correct": 0,
+   "concept": "Breslow thickness from the granular layer to the deepest tumour cell predicts outcome better than Clark level and determines excision margins and the need for sentinel node biopsy. Ulceration and mitotic rate are additional adverse factors.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "M",
+   "stem": "The commonest type of malignant melanoma is:",
+   "options": [
+    "Superficial spreading melanoma",
+    "Nodular melanoma",
+    "Lentigo maligna melanoma",
+    "Acral lentiginous melanoma"
+   ],
+   "correct": 0,
+   "concept": "Superficial spreading melanoma has a prolonged radial growth phase allowing early detection by the ABCDE criteria. Nodular melanoma grows vertically from the outset with worse prognosis, and acral lentiginous is commonest in dark-skinned and Asian populations.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "E",
+   "stem": "Actinic (solar) keratosis is significant because it is:",
+   "options": [
+    "A premalignant lesion that may progress to squamous cell carcinoma",
+    "Entirely benign",
+    "A form of melanoma",
+    "An infection"
+   ],
+   "correct": 0,
+   "concept": "Chronic ultraviolet exposure produces rough scaly erythematous patches with epidermal dysplasia and solar elastosis. A minority progress to squamous carcinoma, so treatment with cryotherapy, 5-fluorouracil or imiquimod is offered.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "M",
+   "stem": "Pemphigus vulgaris differs from bullous pemphigoid in that it shows:",
+   "options": [
+    "Suprabasal intraepidermal blisters with acantholysis and a positive Nikolsky sign",
+    "Subepidermal blisters",
+    "Tense bullae",
+    "Antibodies to hemidesmosomes"
+   ],
+   "correct": 0,
+   "concept": "Pemphigus antibodies target desmoglein 3 in desmosomes causing intraepidermal acantholysis with flaccid, easily ruptured bullae, oral involvement and a positive Nikolsky sign. Pemphigoid targets hemidesmosomes producing tense subepidermal bullae sparing the mouth.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "M",
+   "stem": "Psoriasis shows which characteristic histological features?",
+   "options": [
+    "Parakeratosis, acanthosis with regular elongation of rete ridges and Munro microabscesses",
+    "Spongiosis with eosinophils",
+    "Interface dermatitis with Civatte bodies",
+    "Granulomas"
+   ],
+   "correct": 0,
+   "concept": "Psoriasis shows epidermal hyperproliferation with retained nuclei in the stratum corneum, thinning of the suprapapillary plate causing Auspitz sign, and neutrophil collections (Munro microabscesses) in the horny layer.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "E",
+   "stem": "Lichen planus is characterised histologically by:",
+   "options": [
+    "Band-like lymphocytic infiltrate at the dermo-epidermal junction with sawtooth rete ridges",
+    "Munro microabscesses",
+    "Subepidermal bullae",
+    "Acantholysis"
+   ],
+   "correct": 0,
+   "concept": "Lichen planus shows hyperkeratosis without parakeratosis, wedge-shaped hypergranulosis, basal cell degeneration with Civatte bodies and a band-like lymphocytic infiltrate, presenting as violaceous flat-topped pruritic papules with Wickham striae.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "H",
+   "stem": "Mycosis fungoides is:",
+   "options": [
+    "A cutaneous T-cell lymphoma with epidermotropism and Pautrier microabscesses",
+    "A fungal infection",
+    "A form of melanoma",
+    "A benign eczema"
+   ],
+   "correct": 0,
+   "concept": "Despite the name, mycosis fungoides is a lymphoma of CD4 T cells progressing through patch, plaque and tumour stages, with atypical cerebriform lymphocytes forming intraepidermal Pautrier microabscesses. Sezary syndrome is its leukaemic form.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "H",
+   "stem": "Xeroderma pigmentosum results from a defect in:",
+   "options": [
+    "Nucleotide excision repair of ultraviolet-induced DNA damage",
+    "Mismatch repair",
+    "Base excision repair",
+    "Homologous recombination"
+   ],
+   "correct": 0,
+   "concept": "Inability to repair pyrimidine dimers causes extreme photosensitivity with early onset of multiple basal cell, squamous cell carcinomas and melanomas, requiring rigorous sun avoidance from infancy.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_SKN_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skin pathology & melanoma",
+   "difficulty": "M",
+   "stem": "Erythema multiforme is characterised by:",
+   "options": [
+    "Target (iris) lesions, often triggered by herpes simplex infection or drugs",
+    "Flaccid bullae",
+    "Scaly plaques",
+    "Violaceous papules"
+   ],
+   "correct": 0,
+   "concept": "Target lesions with a central dusky zone appear acrally, most often after herpes simplex reactivation or drug exposure. Severe mucosal involvement with epidermal detachment defines Stevens-Johnson syndrome and toxic epidermal necrolysis.",
+   "reference": "Robbins & Cotran 10e, The Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+Q_MED_HTN_013 | del | duplicate of Q_MED_HTN_009, which gives the same radiofemoral delay and additionally the rib notching. The fuller item is retained
+Q_MED_IE_011 | del | duplicate of Q_MED_IE_002, which names the same Staphylococcus aureus in an injecting drug user and additionally the valve involved. The fuller item is retained
+Q_MED_IE_017 | del | duplicate of Q_MED_IE_008 on pulsus paradoxus in cardiac tamponade, with the rest of Beck's triad already in Q_MED_IE_007. Both of those are retained
+Q_MED_HFV_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Valvular Heart Disease | a valvular heart disease item was cited to the heart failure chapter
+Q_MED_HFV_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Valvular Heart Disease | a valvular heart disease item was cited to the heart failure chapter
+Q_MED_HFV_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Valvular Heart Disease | a valvular heart disease item was cited to the heart failure chapter
+Q_MED_HFV_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Valvular Heart Disease | a valvular heart disease item was cited to the heart failure chapter
+Q_MED_HTN_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 271 (Hypertensive Vascular Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HTN_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 271 (Hypertensive Vascular Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HTN_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 271 (Hypertensive Vascular Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HTN_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 271 (Hypertensive Vascular Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HTN_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 271 (Hypertensive Vascular Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_IE_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 128 (Infective Endocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_IE_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 128 (Infective Endocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_IE_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 128 (Infective Endocarditis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_IE_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Pericardial Disease | a pericardial disease item was cited to the infective endocarditis chapter
+Q_MED_IE_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Pericardial Disease | a pericardial disease item was cited to the infective endocarditis chapter
+Q_MED_IE_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Pericardial Disease | a pericardial disease item was cited to the infective endocarditis chapter
+Q_MED_IE_018 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Pericardial Disease | a pericardial disease item was cited to the infective endocarditis chapter
+Q_MED_IE_013 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute Rheumatic Fever | a rheumatic fever item was cited to the infective endocarditis chapter
+Q_MED_HFV_007 | ok |
+Q_MED_HTN_007 | ok |
+Q_MED_HTN_010 | ok |
+Q_MED_HTN_012 | ok |
+Q_MED_HTN_015 | ok |
+Q_MED_HTN_016 | ok |
+Q_MED_HTN_017 | ok |
+Q_MED_HTN_018 | ok |
+Q_MED_HTN_019 | ok |
+Q_MED_IAM_001 | ok |
+Q_MED_IAM_002 | ok |
+Q_MED_IAM_003 | ok |
+Q_MED_IAM_004 | ok |
+Q_MED_IAM_005 | ok |
+Q_MED_IAM_006 | ok |
+Q_MED_IAM_007 | ok |
+Q_MED_IE_004 | ok |
+Q_MED_IE_005 | ok |
+Q_MED_IE_015 | ok |
+Q_MED_IE_016 | ok |
+Q_MED_IE_019 | ok |
+Q_MED_ZOO_001 | ok |
+Q_MED_ZOO_002 | ok |
+Q_MED_ZOO_003 | ok |

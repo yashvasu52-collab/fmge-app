@@ -1,0 +1,592 @@
+{
+ "questions": [
+  {
+   "id": "Q_PS_ANX_001",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "M",
+   "stem": "A 26-year-old washes her hands 60 times a day because of intrusive thoughts of contamination that she recognises as her own and senseless. Which combination is first-line treatment?",
+   "options": [
+    "A selective serotonin reuptake inhibitor at a higher dose than for depression, with exposure and response prevention",
+    "A low-dose antipsychotic with supportive therapy",
+    "A benzodiazepine with relaxation training",
+    "Lithium with psychoeducation"
+   ],
+   "correct": 0,
+   "concept": "The obsessions are recognised as the patient own and are resisted, which distinguishes them from delusions, and clomipramine is the alternative where a serotonin reuptake inhibitor fails.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_002",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "E",
+   "stem": "Which feature is required for a diagnosis of generalised anxiety disorder?",
+   "options": [
+    "Excessive free-floating worry about several domains, present on most days for at least 6 months, with autonomic and muscle tension symptoms",
+    "Discrete attacks of terror lasting minutes",
+    "Fear restricted to a single object",
+    "Anxiety only in social situations"
+   ],
+   "correct": 0,
+   "concept": "The absence of a specific trigger is what makes the anxiety free-floating, and treatment combines a serotonergic antidepressant with cognitive behaviour therapy rather than long-term benzodiazepines.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_003",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "E",
+   "stem": "A young man avoids meetings and eating in public because he fears being scrutinised and humiliated, and blushes and trembles when observed. What is the diagnosis?",
+   "options": [
+    "Social anxiety disorder",
+    "Agoraphobia",
+    "Panic disorder",
+    "Schizoid personality disorder"
+   ],
+   "correct": 0,
+   "concept": "The fear is of the judgement of others rather than of the situation itself, and a selective serotonin reuptake inhibitor with cognitive behaviour therapy is preferred, with a beta blocker useful only for discrete performance anxiety.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_004",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "M",
+   "stem": "Two months after surviving a bus accident a man has intrusive re-experiencing, nightmares, avoidance of travel and hypervigilance. What is the diagnosis and the first-line treatment?",
+   "options": [
+    "Post-traumatic stress disorder, treated with trauma-focused cognitive behaviour therapy and a serotonergic antidepressant",
+    "Acute stress reaction, treated with a benzodiazepine",
+    "Adjustment disorder, treated with reassurance alone",
+    "Dissociative amnesia, treated with hypnosis"
+   ],
+   "correct": 0,
+   "concept": "An acute stress reaction resolves within days and adjustment disorder lacks the re-experiencing, and routine benzodiazepines are avoided because they impair the emotional processing that recovery depends on.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_005",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "M",
+   "stem": "A woman has become unable to leave home alone, use buses or enter crowded markets for fear of being unable to escape if she becomes unwell. What is the diagnosis?",
+   "options": [
+    "Agoraphobia, frequently with panic attacks",
+    "Social anxiety disorder",
+    "Specific phobia",
+    "Generalised anxiety disorder"
+   ],
+   "correct": 0,
+   "concept": "The core fear is of being trapped without escape or help rather than of the crowd itself, and graded exposure with an antidepressant is effective while avoidance maintains and worsens the disorder.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_006",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "M",
+   "stem": "A patient on alprazolam for 8 months needs increasing doses and becomes tremulous and anxious when a dose is missed. How should this be managed and what is the role of flumazenil?",
+   "options": [
+    "Substitute a long-acting benzodiazepine such as diazepam and taper it slowly; flumazenil is reserved for acute overdose and may precipitate seizures in a dependent patient",
+    "Stop the drug abruptly and give flumazenil",
+    "Increase the dose indefinitely",
+    "Give flumazenil daily during the taper"
+   ],
+   "correct": 0,
+   "concept": "Abrupt withdrawal risks seizures and a confusional state, and the antagonist is dangerous in dependence for the same reason, so the emphasis is on a gradual taper with psychological support.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_007",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "M",
+   "stem": "Which drugs are used for opioid substitution treatment, and what is the rationale?",
+   "options": [
+    "Buprenorphine or methadone, because a long-acting agonist prevents withdrawal and craving and reduces injecting risk",
+    "Naltrexone during acute withdrawal",
+    "Naloxone as maintenance",
+    "Disulfiram as maintenance"
+   ],
+   "correct": 0,
+   "concept": "Naltrexone is used for relapse prevention only after detoxification is complete, because giving an antagonist to a dependent patient precipitates severe withdrawal.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_008",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "M",
+   "stem": "How does disulfiram help maintain abstinence from alcohol, and what must the patient be warned about?",
+   "options": [
+    "It inhibits aldehyde dehydrogenase so acetaldehyde accumulates and any alcohol causes flushing, vomiting and hypotension; hidden alcohol in medicines and mouthwash must be avoided",
+    "It reduces craving by blocking opioid receptors",
+    "It blocks alcohol absorption",
+    "It sedates the patient so drinking is unattractive"
+   ],
+   "correct": 0,
+   "concept": "It works by deterrence rather than by altering craving, so it requires a motivated patient and supervision, and it is contraindicated in ischaemic heart disease and severe liver disease.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_009",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "M",
+   "stem": "Which two drugs reduce craving rather than acting as a deterrent in alcohol dependence, and how do they differ?",
+   "options": [
+    "Acamprosate, which modulates glutamate and is safe in liver disease, and naltrexone, an opioid antagonist that reduces the reward of drinking but is avoided in hepatic impairment",
+    "Disulfiram and thiamine",
+    "Diazepam and lorazepam",
+    "Baclofen and haloperidol"
+   ],
+   "correct": 0,
+   "concept": "Either can be combined with psychosocial treatment, and the choice usually rests on liver function and on whether the patient is also using opioids, in which case the antagonist is contraindicated.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_ANX_010",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Anxiety disorders & substance use",
+   "difficulty": "E",
+   "stem": "Which brief instrument is used to screen for hazardous and harmful alcohol use in a general clinic?",
+   "options": [
+    "The AUDIT questionnaire, with the CAGE questions as a shorter alternative",
+    "The Mini-Mental State Examination",
+    "The Hamilton Depression Rating Scale",
+    "The Glasgow Coma Scale"
+   ],
+   "correct": 0,
+   "concept": "Screening matters because most hazardous drinkers are not dependent and respond to brief advice, and biochemical markers such as gamma-glutamyl transferase and mean corpuscular volume support but do not replace the questionnaire.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Neurotic and Substance Use Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_001",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "E",
+   "stem": "Which class of drug is first-line for moderate depression, and what happens if it is stopped abruptly?",
+   "options": [
+    "A selective serotonin reuptake inhibitor, and abrupt cessation can cause a discontinuation syndrome with dizziness, paraesthesiae, irritability and flu-like symptoms",
+    "A tricyclic antidepressant, with no withdrawal effects",
+    "A monoamine oxidase inhibitor, with no withdrawal effects",
+    "A benzodiazepine, which should be stopped abruptly"
+   ],
+   "correct": 0,
+   "concept": "Paroxetine and venlafaxine with their short half-lives cause the syndrome most readily and fluoxetine least, so tapering over weeks is advised rather than stopping in one step.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_002",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "H",
+   "stem": "A patient on an SSRI is given tramadol and develops agitation, hyperreflexia, clonus, diarrhoea and fever within hours. How does this differ from neuroleptic malignant syndrome?",
+   "options": [
+    "Serotonin syndrome has a rapid onset with clonus, hyperreflexia and diarrhoea, whereas neuroleptic malignant syndrome develops over days with lead-pipe rigidity, bradyreflexia and marked creatine kinase elevation",
+    "Both present identically",
+    "Serotonin syndrome develops over weeks",
+    "Neuroleptic malignant syndrome features clonus"
+   ],
+   "correct": 0,
+   "concept": "Treatment is withdrawal of the serotonergic drugs with supportive care and cyclohepatadine, while the neuroleptic syndrome needs dantrolene or bromocriptine, so the distinction changes management.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_003",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "M",
+   "stem": "A woman is tearful and labile on the fourth day after delivery but functioning normally, resolving in a few days. How does this differ from postnatal depression and puerperal psychosis?",
+   "options": [
+    "It is postpartum blues, which is common and self-limiting, whereas postnatal depression lasts weeks with functional impairment and puerperal psychosis presents early with delusions and disorganisation as a psychiatric emergency",
+    "All three are the same condition of differing severity requiring admission",
+    "Blues requires antidepressants",
+    "Psychosis appears only after 6 months"
+   ],
+   "correct": 0,
+   "concept": "Puerperal psychosis carries a real risk of infanticide and suicide so it requires urgent admission, whereas the blues needs only support and observation.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_004",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "M",
+   "stem": "A man has felt low in mood most of the time for 3 years without ever meeting criteria for a major depressive episode. What is the diagnosis?",
+   "options": [
+    "Persistent depressive disorder, formerly dysthymia",
+    "Major depressive disorder in partial remission",
+    "Cyclothymia",
+    "Adjustment disorder"
+   ],
+   "correct": 0,
+   "concept": "It responds to antidepressants and psychotherapy despite the chronic course, and a superimposed major episode is called double depression, which is why the chronic baseline is easily overlooked.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_005",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "M",
+   "stem": "Which factors most strongly increase the immediate risk of suicide in a depressed patient?",
+   "options": [
+    "A specific plan with available means, previous attempt, hopelessness, recent loss, and comorbid alcohol use",
+    "Female sex and young age alone",
+    "Presence of anxiety symptoms only",
+    "Mild sleep disturbance"
+   ],
+   "correct": 0,
+   "concept": "Direct enquiry about suicidal intent does not increase risk and is essential, and a period of apparent improvement in energy before mood recovers is a recognised high-risk window.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_006",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "H",
+   "stem": "A patient treated with an antidepressant for depression becomes elated, overtalkative and sleepless within 3 weeks. What has happened and how should treatment change?",
+   "options": [
+    "An antidepressant-induced switch to mania, so the antidepressant is withdrawn and a mood stabiliser or antipsychotic started",
+    "Serotonin syndrome, so a benzodiazepine is added",
+    "Discontinuation syndrome, so the dose is increased",
+    "Akathisia, so a beta blocker is added"
+   ],
+   "correct": 0,
+   "concept": "The episode reclassifies the illness as bipolar, so monotherapy with an antidepressant is thereafter avoided and future depressive episodes are treated under the cover of a mood stabiliser.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_007",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "E",
+   "stem": "Which treatment is specific for depression that recurs each winter with hypersomnia, increased appetite and carbohydrate craving?",
+   "options": [
+    "Bright light therapy, alongside standard antidepressant treatment",
+    "Electroconvulsive therapy as first line",
+    "Lithium monotherapy",
+    "Thyroxine"
+   ],
+   "correct": 0,
+   "concept": "The reversed pattern of increased sleep and appetite is characteristic of this atypical presentation, and timing the light exposure to the morning is what makes the treatment effective.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_008",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "M",
+   "stem": "For how long should an antidepressant be continued after a first episode of depression has remitted, and why?",
+   "options": [
+    "For at least 6 to 9 months at the effective dose, because stopping earlier substantially increases the risk of relapse",
+    "Stopped as soon as mood improves",
+    "Continued lifelong after a first episode",
+    "Halved as soon as symptoms improve"
+   ],
+   "correct": 0,
+   "concept": "Recurrent episodes justify longer or indefinite treatment, and the commonest reason for apparent treatment failure is an inadequate dose or duration rather than a wrong drug.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_009",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "M",
+   "stem": "Why is sodium valproate avoided as a mood stabiliser in a woman of childbearing potential?",
+   "options": [
+    "It carries a high risk of neural tube defects and of impaired neurodevelopment in the child, so it is used only when alternatives have failed and effective contraception is in place",
+    "It causes infertility",
+    "It has no effect in bipolar disorder in women",
+    "It interacts with all contraceptives"
+   ],
+   "correct": 0,
+   "concept": "Lithium carries a smaller and more specific cardiac risk while lamotrigine is comparatively safer, so the choice of stabiliser in a young woman is made with pregnancy in view from the outset.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_DEP_010",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Depression & bipolar disorder",
+   "difficulty": "H",
+   "stem": "Why must a patient taking a monoamine oxidase inhibitor avoid cheese, red wine and fermented foods?",
+   "options": [
+    "Dietary tyramine is normally degraded by intestinal monoamine oxidase, and when the enzyme is inhibited it releases stored noradrenaline and causes a hypertensive crisis",
+    "These foods inactivate the drug",
+    "These foods cause serotonin syndrome",
+    "These foods block drug absorption"
+   ],
+   "correct": 0,
+   "concept": "The crisis presents with severe headache and hypertension and is treated with phentolamine, and the same class must not be combined with a serotonergic drug without an adequate washout.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders"
+  },
+  {
+   "id": "Q_PS_MSE_011",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "How does circumstantiality differ from tangentiality in a patient speech?",
+   "options": [
+    "In circumstantiality the patient eventually reaches the point after excessive irrelevant detail, whereas in tangentiality the reply veers away and never arrives at the point",
+    "Both never reach the point",
+    "Circumstantiality never reaches the point",
+    "Tangentiality involves invented words"
+   ],
+   "correct": 0,
+   "concept": "Both are disorders of the form of thought rather than of content, and grading them from circumstantiality through tangentiality to loosening of associations and word salad reflects increasing severity.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  },
+  {
+   "id": "Q_PS_MSE_012",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "How does perseveration differ from stereotypy?",
+   "options": [
+    "Perseveration is the inappropriate repetition of a previous response to a new stimulus, whereas stereotypy is a repetitive purposeless movement or phrase unrelated to any stimulus",
+    "Both are responses to new stimuli",
+    "Perseveration is purposeless and unprompted",
+    "Stereotypy is a repeated answer to questions"
+   ],
+   "correct": 0,
+   "concept": "Perseveration points particularly to frontal lobe dysfunction and organic states, whereas stereotypy is seen in catatonia, autism and intellectual disability.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  },
+  {
+   "id": "Q_PS_MSE_013",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "E",
+   "stem": "What are echolalia and echopraxia?",
+   "options": [
+    "Echolalia is senseless repetition of the examiner words and echopraxia is imitation of the examiner movements",
+    "Echolalia is repetition of one own words and echopraxia is refusal to move",
+    "Both refer to speech phenomena",
+    "Both refer to movement phenomena"
+   ],
+   "correct": 0,
+   "concept": "They belong to the catatonic syndrome along with automatic obedience, negativism and waxy flexibility, and their presence should prompt a search for an organic cause as well as a psychiatric one.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  },
+  {
+   "id": "Q_PS_MSE_014",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "How does depersonalisation differ from derealisation?",
+   "options": [
+    "In depersonalisation the patient feels detached or unreal in themselves, whereas in derealisation the surroundings feel unreal or dreamlike",
+    "Both refer to the surroundings",
+    "Depersonalisation refers to the surroundings",
+    "Derealisation refers to the body"
+   ],
+   "correct": 0,
+   "concept": "Insight is retained in both, which distinguishes them from psychosis, and they occur in anxiety, dissociation, temporal lobe epilepsy and drug intoxication.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  },
+  {
+   "id": "Q_PS_MSE_015",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "Which feature distinguishes an obsession from a compulsion?",
+   "options": [
+    "An obsession is a recurrent intrusive thought, image or impulse, whereas a compulsion is the repetitive act or mental ritual performed to relieve it",
+    "An obsession is an act and a compulsion is a thought",
+    "Both are motor acts",
+    "Both are experienced as coming from outside"
+   ],
+   "correct": 0,
+   "concept": "Both are recognised as the patient own and are resisted, and the sense of being one own thought is what separates an obsession from thought insertion in schizophrenia.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  },
+  {
+   "id": "Q_PS_MSE_016",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "H",
+   "stem": "What is an overvalued idea and how does it differ from a delusion?",
+   "options": [
+    "It is an unreasonable belief pursued beyond the bounds of reason but which the person will concede is possibly wrong, whereas a delusion is held with unshakeable conviction",
+    "It is held with absolute conviction",
+    "It is always bizarre in content",
+    "It is a form of hallucination"
+   ],
+   "correct": 0,
+   "concept": "The distinction is one of the degree of conviction rather than of content, and overvalued ideas are typical of anorexia nervosa, dysmorphophobia and hypochondriasis.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  },
+  {
+   "id": "Q_PS_MSE_017",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "H",
+   "stem": "What is a pseudohallucination?",
+   "options": [
+    "A vivid perception experienced in inner subjective space and recognised as not real, unlike a true hallucination which is perceived in external space as real",
+    "A hallucination that occurs only at night",
+    "A misinterpretation of a real stimulus",
+    "A deliberately feigned hallucination"
+   ],
+   "correct": 0,
+   "concept": "Grief reactions and dissociative states commonly produce them, so their recognition prevents a bereaved person being wrongly labelled psychotic.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  },
+  {
+   "id": "Q_PS_MSE_018",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "How does flight of ideas differ from clang association?",
+   "options": [
+    "In flight of ideas the thoughts follow one another rapidly with understandable connections, whereas clang association links words by sound rather than by meaning",
+    "Both link words by sound",
+    "Flight of ideas has no discernible connection between thoughts",
+    "Clang association is a disorder of thought content"
+   ],
+   "correct": 0,
+   "concept": "Flight of ideas with pressure of speech is characteristic of mania, whereas rhyming and punning links suggest a more severe disorganisation of thought form.",
+   "reference": "Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination"
+  }
+ ]
+}

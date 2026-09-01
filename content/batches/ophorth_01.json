@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_OP_SQU_001",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "E",
+   "stem": "Amblyopia is best defined as:",
+   "options": [
+    "Reduced vision in a structurally normal eye due to abnormal visual development",
+    "Loss of vision from retinal disease",
+    "Corneal opacity",
+    "Optic atrophy"
+   ],
+   "correct": 0,
+   "concept": "Amblyopia results from form deprivation, strabismus or anisometropia during the critical period. Treatment by correcting refraction and occluding the better eye is effective only if started early, usually before 7 to 8 years.",
+   "reference": "AK Khurana Ophthalmology 8e, Squint",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_002",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "M",
+   "stem": "The Hirschberg corneal reflex test is used to:",
+   "options": [
+    "Estimate the angle of deviation in squint",
+    "Measure visual acuity",
+    "Assess colour vision",
+    "Measure intraocular pressure"
+   ],
+   "correct": 0,
+   "concept": "A torch reflex displaced from the pupil centre estimates deviation, with each millimetre corresponding to about 7 degrees. The cover-uncover test distinguishes manifest tropia from latent phoria.",
+   "reference": "AK Khurana Ophthalmology 8e, Squint",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_003",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "M",
+   "stem": "A relative afferent pupillary defect (Marcus Gunn pupil) indicates:",
+   "options": [
+    "Asymmetric optic nerve or extensive retinal disease",
+    "A lens opacity",
+    "Corneal scarring",
+    "Refractive error"
+   ],
+   "correct": 0,
+   "concept": "On swinging the torch, the affected pupil dilates because its afferent input is weaker. It is a purely afferent sign, so it never occurs with media opacities such as cataract, and is a key sign in optic neuritis.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_004",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "E",
+   "stem": "A lesion at the optic chiasm characteristically produces:",
+   "options": [
+    "Bitemporal hemianopia",
+    "Homonymous hemianopia",
+    "Central scotoma",
+    "Altitudinal defect"
+   ],
+   "correct": 0,
+   "concept": "Decussating nasal retinal fibres carrying temporal fields are damaged, classically by a pituitary adenoma extending upward, beginning in the upper temporal quadrants. Lesions behind the chiasm cause homonymous defects.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_005",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "M",
+   "stem": "A right homonymous hemianopia with macular sparing suggests a lesion of:",
+   "options": [
+    "The left occipital cortex",
+    "The right optic nerve",
+    "The chiasm",
+    "The right optic tract"
+   ],
+   "correct": 0,
+   "concept": "Macular sparing reflects dual blood supply of the occipital pole by middle and posterior cerebral arteries, so posterior cerebral artery infarction spares central vision. Congruity increases the more posterior the lesion.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_006",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "M",
+   "stem": "An Argyll Robertson pupil is characterised by:",
+   "options": [
+    "A small irregular pupil that accommodates but does not react to light",
+    "A dilated fixed pupil",
+    "Normal reactions",
+    "A constricted reactive pupil"
+   ],
+   "correct": 0,
+   "concept": "Classically associated with neurosyphilis, it shows light-near dissociation with bilateral small irregular pupils. The Adie tonic pupil is instead large with slow tonic near response and absent tendon reflexes.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_007",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "E",
+   "stem": "Sixth cranial nerve palsy produces:",
+   "options": [
+    "Failure of abduction with convergent squint and horizontal diplopia worse on looking to the affected side",
+    "Ptosis",
+    "Divergent squint",
+    "Vertical diplopia"
+   ],
+   "correct": 0,
+   "concept": "The abducens nerve has the longest intracranial course and is vulnerable to raised intracranial pressure, making its palsy a false localising sign. The eye deviates inward from unopposed medial rectus action.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_008",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "H",
+   "stem": "Optic neuritis in a young woman with pain on eye movement and a central scotoma should prompt evaluation for:",
+   "options": [
+    "Multiple sclerosis",
+    "Glaucoma",
+    "Cataract",
+    "Diabetes"
+   ],
+   "correct": 0,
+   "concept": "Optic neuritis is often the presenting feature of multiple sclerosis, and MRI showing periventricular white matter lesions predicts conversion. Intravenous methylprednisolone speeds recovery but does not alter final acuity.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_009",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "H",
+   "stem": "Fourth cranial nerve palsy characteristically causes:",
+   "options": [
+    "Vertical diplopia worse on looking down, with compensatory head tilt to the opposite side",
+    "Horizontal diplopia",
+    "Ptosis",
+    "Loss of abduction"
+   ],
+   "correct": 0,
+   "concept": "Superior oblique palsy impairs depression in adduction, so patients tilt the head away from the affected side (positive Bielschowsky test) and struggle going downstairs or reading.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_SQU_010",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)",
+   "difficulty": "M",
+   "stem": "Pseudosquint in an Indian child is most often due to:",
+   "options": [
+    "Prominent epicanthal folds giving an appearance of esotropia with normal corneal reflexes",
+    "True muscle imbalance",
+    "Cataract",
+    "Retinoblastoma"
+   ],
+   "correct": 0,
+   "concept": "Epicanthal folds obscure the nasal sclera creating an illusion of convergent squint, but corneal reflexes are symmetrical and cover test is normal. Any true squint after 6 months of age requires prompt referral.",
+   "reference": "AK Khurana Ophthalmology 8e, Squint",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_001",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "E",
+   "stem": "The immediate first aid for a chemical burn of the eye is:",
+   "options": [
+    "Copious irrigation with clean water or saline before any other assessment",
+    "Padding the eye",
+    "Topical steroid",
+    "Referral without irrigation"
+   ],
+   "correct": 0,
+   "concept": "Immediate prolonged irrigation is the single most important determinant of outcome and must precede history-taking and acuity measurement. Alkali burns penetrate deeper by saponification and are more damaging than acids.",
+   "reference": "AK Khurana Ophthalmology 8e, Ocular Injuries",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_002",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "M",
+   "stem": "A blowout fracture of the orbital floor characteristically causes:",
+   "options": [
+    "Diplopia on upgaze with enophthalmos and infraorbital anaesthesia",
+    "Proptosis",
+    "Ptosis alone",
+    "Loss of vision only"
+   ],
+   "correct": 0,
+   "concept": "Entrapment of inferior rectus and orbital fat in the maxillary sinus restricts elevation, and infraorbital nerve injury causes cheek numbness. CT shows the teardrop sign of herniated contents.",
+   "reference": "AK Khurana Ophthalmology 8e, Ocular Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_003",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "M",
+   "stem": "Hyphaema after blunt ocular trauma is managed by:",
+   "options": [
+    "Rest with head elevation, monitoring intraocular pressure, and avoiding aspirin",
+    "Immediate surgery",
+    "Vigorous activity",
+    "Aspirin for pain"
+   ],
+   "correct": 0,
+   "concept": "Most hyphaemas resorb spontaneously; the risks are secondary rebleeding around days 3 to 5, raised intraocular pressure and corneal blood staining. Aspirin and NSAIDs are avoided as they promote rebleeding.",
+   "reference": "AK Khurana Ophthalmology 8e, Ocular Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_004",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "E",
+   "stem": "Retrobulbar haemorrhage after injury or block presents with:",
+   "options": [
+    "Proptosis, tense orbit, raised intraocular pressure and threatened vision requiring urgent canthotomy",
+    "Painless proptosis",
+    "Gradual visual loss",
+    "Ptosis alone"
+   ],
+   "correct": 0,
+   "concept": "This orbital compartment syndrome compromises the optic nerve blood supply within minutes, requiring immediate lateral canthotomy and cantholysis at the bedside rather than transfer for imaging.",
+   "reference": "AK Khurana Ophthalmology 8e, Ocular Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_005",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "M",
+   "stem": "An intraocular foreign body of iron left in the eye causes:",
+   "options": [
+    "Siderosis bulbi with rusty deposits, cataract and retinal degeneration",
+    "No effect",
+    "Immediate blindness only",
+    "Corneal ulcer only"
+   ],
+   "correct": 0,
+   "concept": "Iron dissociates causing siderosis with heterochromia, pupillary mydriasis, cataract and pigmentary retinopathy; copper causes chalcosis with a sunflower cataract and Kayser-Fleischer-like ring. Both need removal.",
+   "reference": "AK Khurana Ophthalmology 8e, Ocular Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_006",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "M",
+   "stem": "Topical timolol is contraindicated in:",
+   "options": [
+    "Asthma and heart block",
+    "Diabetes",
+    "Hypertension",
+    "Cataract"
+   ],
+   "correct": 0,
+   "concept": "Even topical beta blockers are systemically absorbed through the nasolacrimal duct, precipitating bronchospasm and bradycardia. Punctal occlusion reduces absorption; prostaglandin analogues are safer alternatives.",
+   "reference": "KDT 8e, Ocular Pharmacology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_007",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "E",
+   "stem": "Atropine as a cycloplegic is preferred in children for refraction because it:",
+   "options": [
+    "Produces complete cycloplegia, essential when accommodation is strong",
+    "Is short-acting",
+    "Causes no side effects",
+    "Constricts the pupil"
+   ],
+   "correct": 0,
+   "concept": "Children have powerful accommodation that masks hypermetropia, so full cycloplegia with atropine ointment is used under 5 years. Systemic toxicity causes flushing, fever, dry mouth and delirium.",
+   "reference": "KDT 8e, Ocular Pharmacology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_008",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "H",
+   "stem": "Under the National Programme for Control of Blindness, blindness in India is defined as presenting visual acuity in the better eye of less than:",
+   "options": [
+    "3/60",
+    "6/60",
+    "6/18",
+    "1/60"
+   ],
+   "correct": 0,
+   "concept": "India revised its definition to below 3/60 to align with WHO, from the earlier 6/60 criterion. Cataract remains the leading cause of blindness, followed by refractive error, glaucoma and diabetic retinopathy.",
+   "reference": "Park 27e, Blindness",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_009",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "H",
+   "stem": "The commonest cause of blindness in India is:",
+   "options": [
+    "Cataract",
+    "Glaucoma",
+    "Trachoma",
+    "Vitamin A deficiency"
+   ],
+   "correct": 0,
+   "concept": "Cataract accounts for the majority of blindness and is reversible by surgery, which is why the national programme emphasises cataract surgical rate and intraocular lens implantation. Uncorrected refractive error is the leading cause of visual impairment.",
+   "reference": "Park 27e, Blindness",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_TRA_010",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Ocular trauma, orbit, ocular pharmacology & blindness control",
+   "difficulty": "M",
+   "stem": "Vision 2020: The Right to Sight targets which priority conditions?",
+   "options": [
+    "Cataract, refractive error, childhood blindness, trachoma, onchocerciasis and glaucoma",
+    "Only cataract",
+    "Only trauma",
+    "Only diabetes"
+   ],
+   "correct": 0,
+   "concept": "The global initiative targets avoidable blindness through disease control, human resource development and infrastructure. In India cataract, refractive error, childhood blindness and glaucoma are the operational priorities.",
+   "reference": "Park 27e, Blindness",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_001",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "E",
+   "stem": "The earliest and most reliable clinical sign of acute compartment syndrome is:",
+   "options": [
+    "Pain out of proportion to injury, worsened by passive stretch of the compartment muscles",
+    "Absent distal pulses",
+    "Pallor",
+    "Paralysis"
+   ],
+   "correct": 0,
+   "concept": "Pulselessness and paralysis are late signs occurring after irreversible muscle necrosis. Pain on passive stretch with a tense swollen compartment demands immediate fasciotomy; a normal pulse never excludes the diagnosis.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_002",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "M",
+   "stem": "Volkmann ischaemic contracture most classically follows:",
+   "options": [
+    "Supracondylar fracture of the humerus in a child",
+    "Colles fracture",
+    "Femoral shaft fracture",
+    "Clavicle fracture"
+   ],
+   "correct": 0,
+   "concept": "Brachial artery injury or a tight cast causes forearm compartment ischaemia, and subsequent fibrosis produces flexion contracture of the fingers that relaxes on wrist flexion. Early recognition and fasciotomy prevent it.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_003",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "M",
+   "stem": "Fat embolism syndrome after a long bone fracture typically presents:",
+   "options": [
+    "24 to 72 hours after injury with hypoxia, confusion and petechiae",
+    "Immediately",
+    "After two weeks",
+    "Only after surgery"
+   ],
+   "correct": 0,
+   "concept": "The classic triad of respiratory distress, neurological change and a petechial rash over the axilla, conjunctiva and upper chest appears after a latent interval. Management is supportive with oxygen and early fracture fixation.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_004",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "E",
+   "stem": "Delayed union differs from non-union in that:",
+   "options": [
+    "Union is slower than expected but the healing process is still ongoing",
+    "Healing has permanently ceased",
+    "There is infection",
+    "The fracture is comminuted"
+   ],
+   "correct": 0,
+   "concept": "Non-union shows a sclerosed sealed medullary canal with persistent mobility and no radiological progression over three months, requiring bone grafting and stable fixation; delayed union may still unite with time and protection.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_005",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "M",
+   "stem": "Avascular necrosis is a particular risk after fracture of the:",
+   "options": [
+    "Femoral neck, scaphoid and talus",
+    "Clavicle",
+    "Radial shaft",
+    "Fibula"
+   ],
+   "correct": 0,
+   "concept": "These bones have a retrograde blood supply entering distally, so a proximal fracture interrupts perfusion of the proximal fragment. This is why undisplaced scaphoid fractures are immobilised even with a normal initial radiograph.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_006",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "M",
+   "stem": "A greenstick fracture is characteristic of children because:",
+   "options": [
+    "Their bone is soft with a thick periosteum, so it bends and breaks on one cortex only",
+    "Their bones are brittle",
+    "They have thin periosteum",
+    "They heal slowly"
+   ],
+   "correct": 0,
+   "concept": "Paediatric bone is more porous and elastic with a thick osteogenic periosteum, giving incomplete fractures, rapid healing and considerable remodelling potential, but also physeal injuries with growth disturbance.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures in Children",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_007",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "E",
+   "stem": "An open (compound) fracture requires:",
+   "options": [
+    "Urgent wound debridement, antibiotics and tetanus prophylaxis with fracture stabilisation",
+    "Immediate internal fixation only",
+    "Delayed treatment",
+    "Closed reduction alone"
+   ],
+   "correct": 0,
+   "concept": "The Gustilo-Anderson classification grades severity. Early antibiotics, thorough debridement and stabilisation reduce infection, which is the principal complication; primary closure is avoided in contaminated wounds.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Open Fractures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_008",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "H",
+   "stem": "The Salter-Harris classification describes:",
+   "options": [
+    "Physeal (growth plate) injuries in children, with higher types carrying greater growth arrest risk",
+    "Adult intra-articular fractures",
+    "Spinal injuries",
+    "Pelvic fractures"
+   ],
+   "correct": 0,
+   "concept": "Type I is through the physis, II extends into metaphysis (commonest), III into epiphysis, IV crosses both, and V is a crush injury with the worst prognosis for growth arrest and deformity.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures in Children",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_009",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "H",
+   "stem": "Compartment pressure measurement supports fasciotomy when the delta pressure (diastolic minus compartment pressure) is:",
+   "options": [
+    "Less than 30 mmHg",
+    "Greater than 60 mmHg",
+    "Greater than 100 mmHg",
+    "Equal to systolic pressure"
+   ],
+   "correct": 0,
+   "concept": "A delta pressure below 30 mmHg indicates inadequate perfusion. Measurement supports but never replaces clinical judgement, and in a convincing clinical picture fasciotomy should not await manometry.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_FRC_010",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fracture principles, complications & compartment syndrome",
+   "difficulty": "M",
+   "stem": "Complex regional pain syndrome (Sudeck atrophy) after a fracture presents with:",
+   "options": [
+    "Disproportionate burning pain, swelling, vasomotor changes and patchy osteopenia",
+    "Painless stiffness",
+    "Normal radiographs always",
+    "Rapid resolution"
+   ],
+   "correct": 0,
+   "concept": "Sympathetically mediated pain with allodynia, trophic skin changes and spotty osteoporosis follows apparently minor injury, classically after Colles fracture. Early mobilisation, physiotherapy and analgesia are the mainstay.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+Q_PYQ_FMGE_2025JANP2_109 | opt0=Flucytosine alone;;opt1=Fluconazole alone;;opt2=Liposomal amphotericin B alone;;opt3=Liposomal amphotericin B plus flucytosine;;key=3;;concept=Induction is liposomal amphotericin B with flucytosine for two weeks, followed by high-dose fluconazole consolidation and then maintenance, and raised intracranial pressure is managed with repeated therapeutic lumbar puncture. | the options used the unexplained abbreviation "L.Amp" for liposomal amphotericin B, which a student cannot be expected to decode. Options rewritten in full with the key preserved
+Q_PYQ_FMGE_2026JUN_021 | stem=Aciclovir is selectively toxic to herpes-infected cells. Which step accounts for that selectivity?;;opt0=It is phosphorylated to its active form by viral thymidine kinase, which uninfected human cells lack;;opt1=It binds the viral capsid and blocks cell entry;;opt2=It inhibits viral neuraminidase;;opt3=It is activated only in the liver;;key=0;;concept=The triphosphate then inhibits viral DNA polymerase and acts as a chain terminator, and resistance arises through thymidine kinase-deficient mutants, which are treated with foscarnet because it needs no activation.;;source=ai | duplicate of Q_PH_IMS_001, which asks the same ciclosporin and calcineurin mechanism from the opposite direction; an immunomodulator question was also misfiled in the antimicrobial topic. Rewritten to aciclovir selectivity; provenance changed to ai
+Q_PYQ_FMGE_2025JANP2_009 | stem=A farmer with organophosphate poisoning is receiving an atropine infusion. Which endpoint indicates adequate atropinisation?;;opt0=Drying of secretions with a clear chest on auscultation;;opt1=Fully dilated pupils;;opt2=A heart rate above 140 per minute;;opt3=Complete resolution of muscle weakness;;key=0;;concept=Pupil size and heart rate are unreliable endpoints and chasing them causes atropine toxicity, and muscle weakness is nicotinic so it never responds to atropine and needs an oxime with ventilatory support.;;source=ai | duplicate of Q_PYQ_FMGE_2025JANP1_033, which tests the same point that atropine reverses muscarinic but not nicotinic effects. Rewritten to the clinical endpoint of atropinisation; provenance changed to ai
+Q_PYQ_FMGE_2025JANP2_001 | stem=A patient sedated with a high-dose propofol infusion for several days in intensive care develops metabolic acidosis, rhabdomyolysis, hyperkalaemia and cardiac failure. What has occurred?;;opt0=Propofol infusion syndrome, requiring immediate withdrawal of the drug and supportive care;;opt1=Malignant hyperthermia, requiring dantrolene;;opt2=Neuroleptic malignant syndrome, requiring bromocriptine;;opt3=Serotonin syndrome, requiring cyproheptadine;;key=0;;concept=It is attributed to impaired mitochondrial fatty acid oxidation, so risk rises with dose above 4 mg/kg/hour and with duration beyond 48 hours, which is why sedation is capped and lactate and creatine kinase are monitored.;;source=ai | duplicate of Q_h3a_045, which describes the same malignant hyperthermia presentation and keys dantrolene. Rewritten to propofol infusion syndrome; provenance changed to ai
+Q_PYQ_FMGE_2025JULP2_059 | stem=A drug has a volume of distribution of 6 litres and an elimination half-life of 3 hours. What is its approximate clearance?;;concept=Clearance equals 0.693 multiplied by the volume of distribution and divided by the half-life, so 0.693 x 6000 mL / 180 min is about 23 mL/min. Clearance and volume of distribution are the independent variables and the half-life is derived from them. | the item was unanswerable as printed: clearance cannot be calculated from half-life alone, and no volume of distribution was given, only a body weight. The volume of distribution is now stated, and it is the value consistent with the existing key
+Q_PYQ_FMGE_2025JULP2_074 | ok |
+Q_PYQ_FMGE_2026JUN_023 | ok |
+Q_PYQ_FMGE_2026JUN_024 | ok |
+Q_PYQ_INICET_2025MAY_029 | ok |
+Q_c1_039 | ok |
+Q_PYQ_FMGE_2025JANP1_047 | ok |
+Q_PYQ_FMGE_2025JANP1_078 | ok |
+Q_PYQ_FMGE_2025JANP1_083 | ok |
+Q_PYQ_FMGE_2025JULP2_075 | ok |
+Q_c1_047 | ok |
+Q_h3a_041 | ok |
+Q_PYQ_FMGE_2025JANP1_033 | ok |
+Q_PYQ_FMGE_2025JULP1_062 | ok |
+Q_PYQ_FMGE_2026JAN_008 | ok |
+Q_PYQ_INICET_2025MAY_024 | ok |
+Q_c1_029 | ok |
+Q_h3a_037 | ok |
+Q_h3a_038 | ok |
+Q_PYQ_FMGE_2024JUN_001 | ok |
+Q_PYQ_FMGE_2025JULP2_076 | ok |
+Q_PYQ_INICET_2025MAY_025 | ok |
+Q_c1_041 | ok |
+Q_h3a_045 | ok |
+Q_c1_035 | ok |
+Q_h3a_047 | ok |
+Q_h3a_048 | ok |
+Q_PYQ_FMGE_2025JANP1_046 | ok |
+Q_PYQ_FMGE_2025JULP2_062 | ok |
+Q_c1_048 | ok |
+Q_h3a_051 | ok |
+Q_h3a_053 | ok |

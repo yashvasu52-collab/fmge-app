@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_PED_NEU_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "E",
+   "stem": "A simple febrile seizure is characterised by:",
+   "options": [
+    "A generalised seizure under 15 minutes, not recurring within 24 hours, in a child aged 6 months to 5 years",
+    "Focal features lasting 30 minutes",
+    "Onset at 2 months of age",
+    "Recurrence three times in one day"
+   ],
+   "correct": 0,
+   "concept": "Simple febrile seizures are brief, generalised, single episodes in a neurologically normal child of 6 months to 5 years with fever. They carry an excellent prognosis and need no anticonvulsant, only parental reassurance and fever advice.",
+   "reference": "Nelson 21e, Febrile Seizures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "M",
+   "stem": "The commonest type of cerebral palsy is:",
+   "options": [
+    "Spastic",
+    "Dyskinetic",
+    "Ataxic",
+    "Hypotonic"
+   ],
+   "correct": 0,
+   "concept": "Spastic cerebral palsy accounts for about 70 to 80%, with spastic diplegia classically following periventricular leukomalacia in preterm infants. Dyskinetic forms follow basal ganglia injury as in kernicterus or severe asphyxia.",
+   "reference": "Ghai Essential Pediatrics 9e, Cerebral Palsy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "M",
+   "stem": "Cerebral palsy is best described as:",
+   "options": [
+    "A non-progressive disorder of movement and posture from a static insult to the developing brain",
+    "A progressive degenerative disease",
+    "A purely genetic muscular disorder",
+    "A demyelinating disease"
+   ],
+   "correct": 0,
+   "concept": "The brain lesion is static and non-progressive, though the clinical picture evolves as the child grows, with contractures and deformity developing. Associated epilepsy, intellectual disability, visual, hearing and feeding problems are common.",
+   "reference": "Ghai Essential Pediatrics 9e, Cerebral Palsy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "E",
+   "stem": "The commonest organism causing bacterial meningitis in children beyond the neonatal period in India is:",
+   "options": [
+    "Streptococcus pneumoniae",
+    "Group B Streptococcus",
+    "Listeria monocytogenes",
+    "Staphylococcus epidermidis"
+   ],
+   "correct": 0,
+   "concept": "Pneumococcus is the leading cause beyond the neonatal period, with Haemophilus influenzae type b and meningococcus reduced by vaccination. Group B Streptococcus, E. coli and Listeria dominate in neonates.",
+   "reference": "Nelson 21e, Bacterial Meningitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "M",
+   "stem": "Cerebrospinal fluid in tuberculous meningitis typically shows:",
+   "options": [
+    "Lymphocytic pleocytosis with high protein and low glucose",
+    "Neutrophilic pleocytosis with normal protein",
+    "Normal findings",
+    "Very high glucose"
+   ],
+   "correct": 0,
+   "concept": "Tuberculous meningitis shows lymphocytosis, markedly raised protein with cobweb coagulum, low glucose and raised ADA, with basal exudates and hydrocephalus on imaging. Pyogenic meningitis instead shows neutrophils with very low glucose.",
+   "reference": "Ghai Essential Pediatrics 9e, Tuberculous Meningitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "M",
+   "stem": "Dexamethasone in childhood bacterial meningitis is given to reduce:",
+   "options": [
+    "Sensorineural hearing loss and neurological sequelae",
+    "Fever only",
+    "Duration of antibiotics",
+    "Risk of seizures alone"
+   ],
+   "correct": 0,
+   "concept": "Dexamethasone given before or with the first dose of antibiotic reduces hearing loss and neurological sequelae, particularly in Haemophilus influenzae meningitis, by blunting the inflammatory response to bacterial lysis.",
+   "reference": "KDT 8e; Nelson 21e",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "E",
+   "stem": "Infantile spasms (West syndrome) are characterised by:",
+   "options": [
+    "Clusters of flexor spasms with hypsarrhythmia on EEG and developmental regression",
+    "Absence spells with 3 Hz spike-wave",
+    "Focal motor seizures",
+    "Febrile seizures"
+   ],
+   "correct": 0,
+   "concept": "West syndrome comprises the triad of infantile spasms in clusters, hypsarrhythmia on EEG and developmental arrest or regression, usually beginning at 3 to 8 months. Treatment is ACTH, vigabatrin or corticosteroids.",
+   "reference": "Nelson 21e, Infantile Spasms",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "H",
+   "stem": "Absence seizures show which characteristic EEG pattern?",
+   "options": [
+    "Generalised 3 Hz spike-and-wave discharges",
+    "Hypsarrhythmia",
+    "Focal temporal spikes",
+    "Burst suppression"
+   ],
+   "correct": 0,
+   "concept": "Childhood absence epilepsy shows generalised 3 per second spike-and-wave discharges provoked by hyperventilation, with brief blank spells and no post-ictal confusion. Ethosuximide or valproate are effective; carbamazepine worsens it.",
+   "reference": "KDT 8e, Antiepileptic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "H",
+   "stem": "The commonest cause of acute flaccid paralysis in children now that polio is eliminated in India is:",
+   "options": [
+    "Guillain-Barre syndrome",
+    "Poliomyelitis",
+    "Transverse myelitis",
+    "Traumatic neuritis"
+   ],
+   "correct": 0,
+   "concept": "With wild poliovirus eliminated, Guillain-Barre syndrome is the commonest cause of acute flaccid paralysis. Surveillance requires two stool samples from every case under 15 years to exclude poliovirus.",
+   "reference": "Park 27e, AFP Surveillance",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_NEU_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+   "difficulty": "M",
+   "stem": "Neurocysticercosis in an Indian child most commonly presents with:",
+   "options": [
+    "Focal seizures with a solitary ring-enhancing lesion on CT",
+    "Chronic headache alone",
+    "Flaccid paralysis",
+    "Deafness"
+   ],
+   "correct": 0,
+   "concept": "Neurocysticercosis is the commonest cause of focal seizures in Indian children, typically a single small enhancing lesion with perilesional oedema. Treatment is albendazole with corticosteroids and antiepileptics.",
+   "reference": "Ghai Essential Pediatrics 9e, Neurocysticercosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "E",
+   "stem": "Non-bilious projectile vomiting at 3 to 6 weeks of age with a palpable olive-shaped epigastric mass suggests:",
+   "options": [
+    "Infantile hypertrophic pyloric stenosis",
+    "Duodenal atresia",
+    "Gastro-oesophageal reflux",
+    "Intussusception"
+   ],
+   "correct": 0,
+   "concept": "Pyloric stenosis presents at 3 to 6 weeks with non-bilious projectile vomiting, visible gastric peristalsis and a palpable pyloric mass, causing hypochloraemic hypokalaemic metabolic alkalosis. Treatment is rehydration then Ramstedt pyloromyotomy.",
+   "reference": "Nelson 21e, Pyloric Stenosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "M",
+   "stem": "Bilious vomiting with a double-bubble sign on abdominal radiograph in a neonate indicates:",
+   "options": [
+    "Duodenal atresia",
+    "Pyloric stenosis",
+    "Oesophageal atresia",
+    "Hirschsprung disease"
+   ],
+   "correct": 0,
+   "concept": "Duodenal atresia gives a double bubble from a dilated stomach and proximal duodenum with no distal gas, and is strongly associated with Down syndrome and polyhydramnios. Vomiting is bilious because the obstruction is distal to the ampulla.",
+   "reference": "Nelson 21e, Duodenal Atresia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "M",
+   "stem": "A 9-month-old with paroxysmal colicky pain, redcurrant jelly stools and a sausage-shaped mass has:",
+   "options": [
+    "Intussusception",
+    "Volvulus",
+    "Appendicitis",
+    "Meckel diverticulitis"
+   ],
+   "correct": 0,
+   "concept": "Ileocolic intussusception peaks at 6 to 12 months, often after a viral illness with lymphoid hyperplasia. Ultrasound shows a target or doughnut sign, and pneumatic or hydrostatic reduction is both diagnostic and therapeutic if there is no peritonitis.",
+   "reference": "Nelson 21e, Intussusception",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "E",
+   "stem": "Delayed passage of meconium beyond 48 hours with abdominal distension and a tight empty rectum on examination suggests:",
+   "options": [
+    "Hirschsprung disease",
+    "Pyloric stenosis",
+    "Necrotising enterocolitis",
+    "Anal fissure"
+   ],
+   "correct": 0,
+   "concept": "Aganglionosis of the distal bowel causes functional obstruction with delayed meconium, distension and explosive stool on withdrawal of the examining finger. Rectal biopsy showing absent ganglion cells is diagnostic.",
+   "reference": "Nelson 21e, Hirschsprung Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "M",
+   "stem": "The commonest cause of neonatal cholestasis requiring urgent diagnosis is:",
+   "options": [
+    "Biliary atresia",
+    "Physiological jaundice",
+    "Breast milk jaundice",
+    "Gilbert syndrome"
+   ],
+   "correct": 0,
+   "concept": "Biliary atresia causes conjugated hyperbilirubinaemia with pale stools and dark urine, and outcomes of the Kasai portoenterostomy fall sharply after 60 days of life, so any infant jaundiced beyond two weeks needs fractionated bilirubin urgently.",
+   "reference": "Nelson 21e, Biliary Atresia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "M",
+   "stem": "Necrotising enterocolitis is most common in:",
+   "options": [
+    "Preterm formula-fed neonates, presenting with distension, bloody stools and pneumatosis intestinalis",
+    "Term breastfed babies",
+    "Children over 5 years",
+    "Adolescents"
+   ],
+   "correct": 0,
+   "concept": "Prematurity, enteral formula feeding and mucosal ischaemia predispose to necrotising enterocolitis, with pneumatosis intestinalis on radiograph. Feeds are stopped with nasogastric decompression and antibiotics; perforation requires surgery. Breast milk is protective.",
+   "reference": "Nelson 21e, Necrotising Enterocolitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "E",
+   "stem": "Painless massive lower gastrointestinal bleeding in a toddler is most likely due to:",
+   "options": [
+    "Meckel diverticulum with ectopic gastric mucosa",
+    "Anal fissure",
+    "Intussusception",
+    "Ulcerative colitis"
+   ],
+   "correct": 0,
+   "concept": "Meckel diverticulum follows the rule of 2s - 2% of population, 2 feet from the ileocaecal valve, 2 inches long, presenting before 2 years - and ectopic gastric mucosa ulcerates adjacent ileum causing painless bleeding. Technetium pertechnetate scan is diagnostic.",
+   "reference": "Nelson 21e, Meckel Diverticulum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "H",
+   "stem": "Chronic diarrhoea with steatorrhoea, recurrent chest infections and salty sweat in a child suggests:",
+   "options": [
+    "Cystic fibrosis",
+    "Coeliac disease",
+    "Tropical sprue",
+    "Giardiasis"
+   ],
+   "correct": 0,
+   "concept": "CFTR dysfunction causes pancreatic exocrine insufficiency with steatorrhoea and failure to thrive, thick airway secretions with recurrent infection and raised sweat chloride. Meconium ileus at birth may be the first sign.",
+   "reference": "Nelson 21e, Cystic Fibrosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "H",
+   "stem": "Reye syndrome, with encephalopathy and fatty liver, is associated with the use of which drug during a viral illness?",
+   "options": [
+    "Aspirin",
+    "Paracetamol",
+    "Ibuprofen",
+    "Amoxicillin"
+   ],
+   "correct": 0,
+   "concept": "Aspirin during varicella or influenza is linked to Reye syndrome with mitochondrial dysfunction, vomiting, encephalopathy, raised transaminases and hyperammonaemia without jaundice, which is why aspirin is avoided under 16 years except in Kawasaki disease.",
+   "reference": "KDT 8e, Analgesic-Antipyretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_GIT_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Paediatric GIT, liver disease & malabsorption",
+   "difficulty": "M",
+   "stem": "Wilson disease should be suspected in a child with:",
+   "options": [
+    "Chronic liver disease with neuropsychiatric features and low serum ceruloplasmin",
+    "Isolated obesity",
+    "Recurrent diarrhoea",
+    "Isolated splenomegaly"
+   ],
+   "correct": 0,
+   "concept": "Wilson disease presents in older children as hepatitis, cirrhosis or fulminant failure with Coombs-negative haemolysis, and later with tremor, dystonia and behavioural change, with Kayser-Fleischer rings and raised urinary copper.",
+   "reference": "Nelson 21e, Wilson Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "E",
+   "stem": "In Rinne's test, a negative result (bone conduction better than air conduction) indicates:",
+   "options": [
+    "Conductive hearing loss in the tested ear",
+    "Sensorineural hearing loss",
+    "Normal hearing",
+    "Malingering"
+   ],
+   "correct": 0,
+   "concept": "A negative Rinne means bone conduction exceeds air conduction, indicating conductive loss of at least 15 to 20 dB in that ear. In sensorineural loss, Rinne stays positive because both conductions fall together.",
+   "reference": "Dhingra ENT 7e, Assessment of Hearing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "M",
+   "stem": "In Weber's test, lateralisation of the sound to the affected ear suggests:",
+   "options": [
+    "Conductive hearing loss in that ear",
+    "Sensorineural loss in that ear",
+    "Normal hearing",
+    "Otosclerosis of the opposite ear"
+   ],
+   "correct": 0,
+   "concept": "Sound lateralises to the ear with conductive loss because masking ambient noise is reduced and bone conduction is enhanced, whereas in sensorineural loss it lateralises to the better hearing ear.",
+   "reference": "Dhingra ENT 7e, Assessment of Hearing",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "M",
+   "stem": "A type B tympanogram with a flat trace indicates:",
+   "options": [
+    "Middle ear fluid as in otitis media with effusion",
+    "Normal middle ear",
+    "Eustachian tube dysfunction with negative pressure",
+    "Ossicular discontinuity"
+   ],
+   "correct": 0,
+   "concept": "A flat type B curve reflects poor compliance from middle ear fluid or a thickened drum. Type C shows negative middle ear pressure from eustachian dysfunction, and type Ad high compliance as in ossicular discontinuity.",
+   "reference": "Dhingra ENT 7e, Impedance Audiometry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "E",
+   "stem": "The test of choice for newborn hearing screening is:",
+   "options": [
+    "Otoacoustic emissions with automated brainstem response as confirmation",
+    "Pure tone audiometry",
+    "Rinne test",
+    "Tympanometry"
+   ],
+   "correct": 0,
+   "concept": "Otoacoustic emissions test outer hair cell function and require no cooperation, making them ideal for newborn screening; automated auditory brainstem response confirms and detects auditory neuropathy which OAE misses.",
+   "reference": "Dhingra ENT 7e, Deafness in Children",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "M",
+   "stem": "The organ of Corti is situated on the:",
+   "options": [
+    "Basilar membrane of the cochlea",
+    "Tectorial membrane",
+    "Reissner membrane",
+    "Round window"
+   ],
+   "correct": 0,
+   "concept": "The organ of Corti rests on the basilar membrane within the scala media, with hair cells whose stereocilia contact the tectorial membrane. High frequencies are detected at the base and low frequencies at the apex - tonotopic organisation.",
+   "reference": "Ganong Review of Medical Physiology, Hearing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "M",
+   "stem": "The ossicular chain amplifies sound principally by:",
+   "options": [
+    "The areal ratio of tympanic membrane to stapes footplate and the lever action of the ossicles",
+    "Resonance of the external canal alone",
+    "Fluid movement in the semicircular canals",
+    "Contraction of the stapedius"
+   ],
+   "correct": 0,
+   "concept": "Impedance matching between air and cochlear fluid is achieved by a 17 to 1 areal ratio and a 1.3 to 1 ossicular lever, giving about 22 to 25 dB of gain. Loss of this mechanism produces conductive deafness.",
+   "reference": "Ganong Review of Medical Physiology, Hearing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "E",
+   "stem": "Pure tone audiometry showing an air-bone gap indicates:",
+   "options": [
+    "Conductive component of hearing loss",
+    "Pure sensorineural loss",
+    "Normal hearing",
+    "Retrocochlear pathology"
+   ],
+   "correct": 0,
+   "concept": "The air-bone gap quantifies the conductive component; a mixed loss shows both a raised bone conduction threshold and an air-bone gap. Speech audiometry and brainstem responses assess retrocochlear lesions.",
+   "reference": "Dhingra ENT 7e, Audiometry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "H",
+   "stem": "Carhart's notch, a dip in bone conduction at 2000 Hz, is characteristic of:",
+   "options": [
+    "Otosclerosis",
+    "Meniere disease",
+    "Presbycusis",
+    "Noise-induced hearing loss"
+   ],
+   "correct": 0,
+   "concept": "Carhart's notch is an artefactual depression of bone conduction thresholds around 2 kHz caused by loss of the ossicular resonance contribution in stapes fixation, and it resolves after successful stapedectomy.",
+   "reference": "Dhingra ENT 7e, Otosclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "H",
+   "stem": "A 4000 Hz dip on audiometry is characteristic of:",
+   "options": [
+    "Noise-induced hearing loss",
+    "Otosclerosis",
+    "Otitis media with effusion",
+    "Presbycusis"
+   ],
+   "correct": 0,
+   "concept": "Industrial noise exposure characteristically notches hearing at 4 kHz before spreading to adjacent frequencies, and is preventable by hearing protection and engineering controls; it is a compensable occupational disease.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_AUD_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Anatomy & physiology of the ear; audiological tests",
+   "difficulty": "M",
+   "stem": "Sensorineural hearing loss of ageing, affecting high frequencies bilaterally, is termed:",
+   "options": [
+    "Presbycusis",
+    "Otosclerosis",
+    "Meniere disease",
+    "Otitis media"
+   ],
+   "correct": 0,
+   "concept": "Presbycusis is bilateral symmetrical high-frequency sensorineural loss with disproportionate difficulty understanding speech in noise, managed with hearing aids and auditory rehabilitation.",
+   "reference": "Dhingra ENT 7e, Presbycusis",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

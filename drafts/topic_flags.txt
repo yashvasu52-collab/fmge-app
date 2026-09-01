@@ -1,0 +1,1129 @@
+scope: 4134 questions
+
+=== A. matches its own topic on NOTHING, but matches another: 271 ===
+  Q_h3d_026                  Orthopedics  
+      filed : Osteomyelitis & TB spine
+      better: Arthritis, avascular necrosis & joint replacement  (+4)
+      stem  : A 5-year-old refuses to bear weight, holds the hip flexed, abducted and externally rotated, has 
+  Q_ENT_AUD_009              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+4)
+      stem  : A 4000 Hz dip on audiometry is characteristic of:
+  Q_ENT_AUD_010              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+4)
+      stem  : Sensorineural hearing loss of ageing, affecting high frequencies bilaterally, is termed:
+  Q_ENT_CMP_002              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+4)
+      stem  : Gradenigo syndrome comprises:
+  Q_AN_UL_002                Anatomy      
+      filed : Upper limb: axilla, cubital fossa, hand spaces
+      better: Brachial plexus & nerve injuries (radial/median/ulnar)  (+4)
+      stem  : The structure most commonly damaged in a mid-shaft humeral fracture is:
+  Q_AN_UL_006                Anatomy      
+      filed : Upper limb: axilla, cubital fossa, hand spaces
+      better: Brachial plexus & nerve injuries (radial/median/ulnar)  (+4)
+      stem  : Ape thumb deformity with loss of opposition results from injury to:
+  Q_BC_INT_006               Biochemistr  
+      filed : Integration of metabolism: fed/fasting, diabetes, ketosis
+      better: Amino acid metabolism & urea cycle  (+4)
+      stem  : The Cori cycle involves:
+  Q_PYQ_FMGE_2024JUN_002     Anaesthesia  
+      filed : Local anaesthetics (max doses, toxicity)
+      better: Regional, spinal & epidural anaesthesia; postoperative care, pain & complications  (+3)
+      stem  : In epidural anesthesia, which of the following layers is least likely to be punctured during the
+  Q_PYQ_FMGE_2024JUN_017     Ophthalmolo  
+      filed : Diabetic retinopathy, retinal detachment
+      better: Uveitis, scleritis & ocular inflammation  (+3)
+      stem  : A 32-year-old patient presents with blurred vision, photophobia, and mild ocular pain. Examinati
+  Q_PYQ_FMGE_2025JANP1_072   Orthopedics  
+      filed : Specific fractures (Colles, NOF, supracondylar) & healing
+      better: Upper limb injuries: shoulder, humerus, elbow, wrist  (+3)
+      stem  : A 23 year old male epileptic patient presented with pain in right shoulder region. Examination r
+  Q_PYQ_FMGE_2025JANP2_037   Pediatrics   
+      filed : Growth & development milestones
+      better: Paediatric endocrinology: short stature, hypothyroidism, diabetes  (+3)
+      stem  : While evaluating a 3-year-old with short stature, height is measured at 90cm and the lower segme
+  Q_PYQ_FMGE_2025JULP1_120   Anaesthesia  
+      filed : Preop assessment (ASA), airway management
+      better: Regional, spinal & epidural anaesthesia; postoperative care, pain & complications  (+3)
+      stem  : A patient is scheduled for laparoscopic surgery under general anesthesia in a day-care setting. 
+  Q_PYQ_FMGE_2025JULP2_020   Physiology   
+      filed : O2/CO2 transport, hypoxia
+      better: Renal tubular transport, acid-base regulation & micturition  (+3)
+      stem  : A woman from Delhi travels to Ladakh, a high-altitude region. Soon after arrival, she develops s
+  Q_PYQ_NEETPG_2025_002      Physiology   
+      filed : O2/CO2 transport, hypoxia
+      better: Renal tubular transport, acid-base regulation & micturition  (+3)
+      stem  : A man is climbing a mountain for trekking. Based on his physiological response to the high altit
+  Q_h3c_023                  Pediatrics   
+      filed : Neonatal jaundice, sepsis, resuscitation
+      better: Respiratory distress in the newborn & neonatal seizures  (+3)
+      stem  : A chest radiograph of a 32-week preterm neonate who developed grunting, nasal flaring, tachypnoe
+  Q_h3d_046                  Anaesthesia  
+      filed : Local anaesthetics (max doses, toxicity)
+      better: Regional, spinal & epidural anaesthesia; postoperative care, pain & complications  (+3)
+      stem  : Two days after an uncomplicated spinal anaesthetic for a caesarean section, a young woman develo
+  Q_MED_ANE_001              Medicine     
+      filed : Anaemias & haematinic deficiencies
+      better: Nutritional & vitamin deficiency states in adults  (+3)
+      stem  : The commonest cause of anaemia worldwide is:
+  Q_OBG_IND_010              Obstetrics   
+      filed : Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)
+      better: Third-stage complications, retained placenta & uterine inversion  (+3)
+      stem  : Amniotomy accelerates labour but carries the risk of:
+  Q_OBG_PID_004              Obstetrics   
+      filed : Genital infections, PID & STIs in women
+      better: Endometriosis, adenomyosis & chronic pelvic pain  (+3)
+      stem  : The most serious long-term consequence of pelvic inflammatory disease is:
+  Q_ENT_CMP_003              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: External & middle ear disease: otitis externa, otosclerosis  (+3)
+      stem  : A positive fistula test, with vertigo and nystagmus on pressing the tragus, indicates:
+  Q_ENT_ORL_002              ENT          
+      filed : Oral cavity, salivary gland & pharyngeal disease
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+3)
+      stem  : Facial nerve palsy in a patient with a parotid swelling suggests:
+  Q_OP_RET_002               Ophthalmolo  
+      filed : Retina & vitreous: vascular occlusions, ARMD, retinoblastoma
+      better: Diabetic retinopathy, retinal detachment  (+3)
+      stem  : A blood-and-thunder fundus with flame haemorrhages in all quadrants indicates:
+  Q_OR_FRC_008               Orthopedics  
+      filed : Fracture principles, complications & compartment syndrome
+      better: Spine injury, disc prolapse & spinal deformity  (+3)
+      stem  : The Salter-Harris classification describes:
+  Q_OR_LL_003                Orthopedics  
+      filed : Lower limb & pelvic injuries; hip dislocation
+      better: Arthritis, avascular necrosis & joint replacement  (+3)
+      stem  : In an elderly patient with a displaced intracapsular femoral neck fracture, the treatment of cho
+  Q_OR_NRV_003               Orthopedics  
+      filed : Nerve injuries, implants, splints & rehabilitation
+      better: Upper limb injuries: shoulder, humerus, elbow, wrist  (+3)
+      stem  : Erb palsy from upper brachial plexus injury (C5-C6) produces:
+  Q_DE_STR_004               Dermatology  
+      filed : Structure of skin & approach to dermatological diagnosis
+      better: Psoriasis, lichen planus  (+3)
+      stem  : The Auspitz sign, pinpoint bleeding on removing a scale, is characteristic of:
+  Q_DE_STR_005               Dermatology  
+      filed : Structure of skin & approach to dermatological diagnosis
+      better: Psoriasis, lichen planus  (+3)
+      stem  : Nikolsky sign, in which the epidermis shears off with lateral pressure, is positive in:
+  Q_DE_STR_008               Dermatology  
+      filed : Structure of skin & approach to dermatological diagnosis
+      better: Psoriasis, lichen planus  (+3)
+      stem  : Dermatitis is described as spongiotic when histology shows:
+  Q_DE_INF_003               Dermatology  
+      filed : Bacterial, fungal & viral skin infections; scabies, pediculosis
+      better: Psoriasis, lichen planus  (+3)
+      stem  : An annular scaly plaque with central clearing and an active raised scaly border indicates:
+  Q_FM_JUR_010               Forensic Me  
+      filed : Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts
+      better: Legal procedure, consent, key IPC sections  (+3)
+      stem  : A doctor may examine an accused person at the request of the police under:
+  Q_BC_CHO_007               Biochemistr  
+      filed : Carbohydrate chemistry, glycogen metabolism & HMP shunt
+      better: Glycolysis, TCA, gluconeogenesis (key enzymes)  (+3)
+      stem  : The rate-limiting and irreversible enzyme of glycolysis is:
+  Q_PSM_ENV_010              PSM (Commun  
+      filed : Environmental health: air, noise, housing, climate
+      better: Nutrition programmes, food fortification & food hygiene  (+3)
+      stem  : The sanitation barrier in preventing faeco-oral disease works by:
+  Q_OBG_INFT_016             Obstetrics   
+      filed : Infertility & assisted reproduction
+      better: Abortion, ectopic pregnancy, recurrent pregnancy loss  (+3)
+      stem  : Which complication of controlled ovarian stimulation presents with abdominal distension, ascites
+  Q_OBG_MDP_005              Obstetrics   
+      filed : Menstrual disorders, PCOS, fibroids
+      better: Ca cervix / endometrium / ovary; screening  (+3)
+      stem  : A woman with polycystic ovary syndrome and oligomenorrhoea who does not want pregnancy needs end
+  Q_MIC_COR_018              Microbiolog  
+      filed : Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces
+      better: Innate & adaptive immunity, antigen-antibody reactions, vaccines  (+3)
+      stem  : Why does the Schick test have little role in modern diphtheria control?
+  Q_PSM_CHI_016              PSM (Commun  
+      filed : Child health programmes, IMNCI & school health
+      better: Health care delivery: PHC/CHC, HWC, ASHA & IPHS  (+3)
+      stem  : Home-based newborn care visits by an ASHA for an institutional delivery are scheduled on which d
+  Q_PY_GCU_007               Physiology   
+      filed : GFR, clearance, urine concentration
+      better: Renal tubular transport, acid-base regulation & micturition  (+3)
+      stem  : Which finding indicates that glucosuria is due to exceeding the tubular transport maximum rather
+  Q_PY_RSP_013               Physiology   
+      filed : Respiratory regulation, high altitude & diving
+      better: Lung volumes, compliance, V/Q & mechanics of breathing  (+3)
+      stem  : Which reflex terminates inspiration when the lung is greatly inflated?
+  Q_PH_AEI_002               Pharmacolog  
+      filed : ADRs, enzyme inducers/inhibitors
+      better: Clinical trials, pharmacovigilance, prescription writing & drug schedules  (+3)
+      stem  : Which reporting system in India collects spontaneous reports of suspected adverse drug reactions
+  Q_ENT_CMP_019              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+3)
+      stem  : Why does facial nerve palsy occur more readily in acute otitis media in a child than in an adult
+  Q_ENT_ORL_015              ENT          
+      filed : Oral cavity, salivary gland & pharyngeal disease
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+3)
+      stem  : Which sign indicates that a parotid mass is malignant rather than benign?
+  Q_BC_IEM_004               Biochemistr  
+      filed : Inborn errors of metabolism
+      better: Amino acid metabolism & urea cycle  (+3)
+      stem  : A male neonate has vomiting, coma and hyperammonaemia with high urinary orotic acid and low citr
+  Q_PYQ_FMGE_2024JUN_008     ENT          
+      filed : Sinusitis, epistaxis, DNS
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : A 50-year-old male presents with right-sided serous otitis media and a history of cervical lymph
+  Q_PYQ_FMGE_2025JANP1_004   Physiology   
+      filed : GFR, clearance, urine concentration
+      better: Synapses, reflexes, ascending/descending pathways  (+2)
+      stem  : Which segment of the nephron has the lowest osmolality under the influence of antidiuretic hormo
+  Q_PYQ_FMGE_2025JANP1_005   Anatomy      
+      filed : Cranial nerves & nuclei
+      better: Lower limb: femoral/sciatic nerve, foot drop  (+2)
+      stem  : Which of the following is the afferent limb of the corneal reflex?
+  Q_PYQ_FMGE_2025JANP1_008   Physiology   
+      filed : Action potential & neuromuscular junction
+      better: Muscle physiology: skeletal, smooth & cardiac contraction  (+2)
+      stem  : Which of the following changes occurs during muscle contraction while exercising?
+  Q_PYQ_FMGE_2025JANP1_031   Anatomy      
+      filed : Cranial nerves & nuclei
+      better: Lower limb: femoral/sciatic nerve, foot drop  (+2)
+      stem  : A young man presents with weakness of the entire right side of his face - drooping of the right 
+  Q_PYQ_FMGE_2025JANP1_045   Physiology   
+      filed : GFR, clearance, urine concentration
+      better: Cell membrane transport & body fluid compartments  (+2)
+      stem  : Dehydration is more severe in infants than in adults. Which of the following is a true statement
+  Q_PYQ_FMGE_2025JANP1_059   ENT          
+      filed : Sinusitis, epistaxis, DNS
+      better: Nasal polyps, granulomatous disease & tumours of nose and PNS  (+2)
+      stem  : A 45-year-old male was admitted with respiratory distress. CT showed a nasal polyp with fluid co
+  Q_PYQ_FMGE_2025JANP1_104   ENT          
+      filed : Sinusitis, epistaxis, DNS
+      better: Nasal polyps, granulomatous disease & tumours of nose and PNS  (+2)
+      stem  : A patient presents to the OPD with greenish-black material in the nose associated with a foul (o
+  Q_PYQ_FMGE_2025JANP1_109   Pediatrics   
+      filed : Growth & development milestones
+      better: Paediatric endocrinology: short stature, hypothyroidism, diabetes  (+2)
+      stem  : A child presents with short stature, muscle weakness (hypotonia) and learning disability. Chromo
+  Q_PYQ_FMGE_2025JANP2_024   Psychiatry   
+      filed : Anxiety disorders & substance use
+      better: Psychiatric history, mental status examination & classification (ICD/DSM)  (+2)
+      stem  : A lady presents to the hospital after having a fight with her husband. She reports that she is u
+  Q_PYQ_FMGE_2025JANP2_033   Pediatrics   
+      filed : Neonatal jaundice, sepsis, resuscitation
+      better: Congenital & rheumatic heart disease in children  (+2)
+      stem  : A neonate was born to a controlled gestational diabetes mother. At the time of birth, he was fin
+  Q_PYQ_FMGE_2025JULP1_139   Anatomy      
+      filed : Inguinal canal, GIT relations
+      better: Abdomen: peritoneum, liver & biliary, portal system  (+2)
+      stem  : Which of the following veins is involved in the formation of esophageal varices?
+  Q_PYQ_FMGE_2025JULP2_023   Physiology   
+      filed : Action potential & neuromuscular junction
+      better: Muscle physiology: skeletal, smooth & cardiac contraction  (+2)
+      stem  : In malignant hyperthermia, a genetic mutation in the ryanodine receptor (RYR1) leads to a life-t
+  Q_PYQ_FMGE_2025JULP2_127   Pediatrics   
+      filed : Neonatal jaundice, sepsis, resuscitation
+      better: Newborn assessment, prematurity & low birth weight  (+2)
+      stem  : Which of the following is considered harmful to a newborn baby in the immediate postnatal period
+  Q_PYQ_FMGE_2025JULP2_129   Pediatrics   
+      filed : Immunization & common infections
+      better: Acute respiratory infection, pneumonia & bronchiolitis  (+2)
+      stem  : A 4-month-old infant has a respiratory rate of 66/min with chest indrawing and nasal flaring, an
+  Q_PYQ_FMGE_2026JAN_031     Physiology   
+      filed : GFR, clearance, urine concentration
+      better: Synapses, reflexes, ascending/descending pathways  (+2)
+      stem  : Which part of the nephron is impermeable to water?
+  Q_PYQ_FMGE_2026JAN_036     ENT          
+      filed : Tonsillitis, carcinoma larynx
+      better: Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy  (+2)
+      stem  : Which nerve is responsible for abduction of the vocal cords?
+  Q_PYQ_FMGE_2026JUN_019     ENT          
+      filed : Tonsillitis, carcinoma larynx
+      better: Nasal polyps, granulomatous disease & tumours of nose and PNS  (+2)
+      stem  : A 6-year-old child underwent adenoidectomy for adenoid hypertrophy. Post-surgery, the child deve
+  Q_PYQ_FMGE_2026JUN_036     Pediatrics   
+      filed : PEM, breastfeeding, micronutrients
+      better: Fluid & electrolyte therapy and diarrhoeal disease in children  (+2)
+      stem  : A child with severe acute malnutrition and diarrhoea has danger signs. Which is the appropriate 
+  Q_PYQ_INICET_2025MAY_003   Biochemistr  
+      filed : Inborn errors of metabolism
+      better: Glycolysis, TCA, gluconeogenesis (key enzymes)  (+2)
+      stem  : A child presents with fatigue and hepatomegaly. Liver enzymes (ALT, AST) are elevated and ketosi
+  Q_PYQ_INICET_2025MAY_007   Physiology   
+      filed : Action potential & neuromuscular junction
+      better: Muscle physiology: skeletal, smooth & cardiac contraction  (+2)
+      stem  : The contraction phase of a single muscle twitch lasts 40 milliseconds. What is the tetanization 
+  Q_PYQ_INICET_2025MAY_009   ENT          
+      filed : Tonsillitis, carcinoma larynx
+      better: Neck spaces, deep neck infection & aerodigestive foreign bodies  (+2)
+      stem  : A middle-aged lady choked while eating fish and has coughing, hoarseness of voice and a foreign-
+  Q_h3c_021                  Pediatrics   
+      filed : PEM, breastfeeding, micronutrients
+      better: Acute respiratory infection, pneumonia & bronchiolitis  (+2)
+      stem  : A 2-year-old with severe acute malnutrition (weight-for-height below -3 SD with bilateral pittin
+  Q_h3d_001                  Anatomy      
+      filed : Inguinal canal, GIT relations
+      better: Abdomen: peritoneum, liver & biliary, portal system  (+2)
+      stem  : A 48-year-old man with alcoholic cirrhosis vomits large volumes of fresh blood; endoscopy shows 
+  Q_h3d_007                  Anatomy      
+      filed : Mediastinum, heart & great vessels
+      better: Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum  (+2)
+      stem  : A week after a difficult oesophagectomy, a patient's chest drain begins to yield about a litre a
+  Q_h3d_016                  Biochemistr  
+      filed : Inborn errors of metabolism
+      better: Nucleotide metabolism: purine/pyrimidine, gout  (+2)
+      stem  : A 3-year-old boy has severe intellectual disability, choreoathetosis, spasticity and compulsive 
+  Q_h3d_030                  ENT          
+      filed : Tonsillitis, carcinoma larynx
+      better: Neck spaces, deep neck infection & aerodigestive foreign bodies  (+2)
+      stem  : A 45-year-old diabetic with a recent lower-molar infection develops a tense, tender, board-like 
+  Q_A_017                    Physiology   
+      filed : O2/CO2 transport, hypoxia
+      better: Muscle physiology: skeletal, smooth & cardiac contraction  (+2)
+      stem  : In actively exercising skeletal muscle the oxygen-haemoglobin dissociation curve shifts to the r
+  Q_MED_ARR_009              Medicine     
+      filed : Arrhythmias & ECG interpretation
+      better: Diabetes mellitus: diagnosis, complications, mgmt  (+2)
+      stem  : A 70-year-old man with atrial fibrillation has hypertension and diabetes mellitus and no other r
+  Q_MED_CMP_008              Medicine     
+      filed : Cardiomyopathies & adult congenital heart disease
+      better: Pulmonary embolism, pulmonary hypertension & sleep apnoea  (+2)
+      stem  : A cyanosed infant has pink upper limbs with cyanosed lower limbs (differential cyanosis). The li
+  Q_MED_ANE_004              Medicine     
+      filed : Anaemias & haematinic deficiencies
+      better: Peripheral neuropathy, GBS & myasthenia gravis  (+2)
+      stem  : Macrocytic anaemia accompanied by subacute combined degeneration of the spinal cord indicates de
+  Q_MED_ANE_005              Medicine     
+      filed : Anaemias & haematinic deficiencies
+      better: Nutritional & vitamin deficiency states in adults  (+2)
+      stem  : Which biochemical finding distinguishes vitamin B12 deficiency from folate deficiency?
+  Q_MED_RTA_008              Medicine     
+      filed : Tubulointerstitial disease, RTA & renal replacement therapy
+      better: Diabetes mellitus: diagnosis, complications, mgmt  (+2)
+      stem  : Which is an absolute contraindication to peritoneal dialysis?
+  Q_MED_PN_002               Medicine     
+      filed : Peripheral neuropathy, GBS & myasthenia gravis
+      better: Pancreatitis, malabsorption & acute liver failure  (+2)
+      stem  : Guillain-Barre syndrome most characteristically presents with:
+  Q_MED_COMA_005             Medicine     
+      filed : Coma, raised intracranial pressure & brain death
+      better: Demyelinating disease, spinal cord syndromes & headache  (+2)
+      stem  : Decorticate posturing (flexion of the upper limbs with extension of the lower limbs) localises t
+  Q_MED_OBM_007              Medicine     
+      filed : Obesity, dyslipidaemia & metabolic syndrome
+      better: Pancreatitis, malabsorption & acute liver failure  (+2)
+      stem  : Eruptive xanthomas with milky serum and abdominal pain indicate marked elevation of:
+  Q_MED_RA_008               Medicine     
+      filed : Rheumatoid arthritis, SLE & connective tissue disease
+      better: Pleural effusion, pneumothorax & interstitial lung disease  (+2)
+      stem  : Anti-centromere antibody is associated with:
+  Q_MED_NUT_003              Medicine     
+      filed : Nutritional & vitamin deficiency states in adults
+      better: Peripheral neuropathy, GBS & myasthenia gravis  (+2)
+      stem  : Isoniazid-induced peripheral neuropathy is prevented by supplementing:
+  Q_OBG_MED_007              Obstetrics   
+      filed : Medical disorders in pregnancy: anaemia, diabetes, heart disease
+      better: Third-stage complications, retained placenta & uterine inversion  (+2)
+      stem  : In a pregnant woman with rheumatic mitral stenosis, the period of greatest haemodynamic risk is:
+  Q_OBG_PTL_006              Obstetrics   
+      filed : Preterm labour, PROM & post-term pregnancy
+      better: Postpartum haemorrhage  (+2)
+      stem  : The most feared maternal complication of prolonged rupture of membranes is:
+  Q_OBG_THI_002              Obstetrics   
+      filed : Third-stage complications, retained placenta & uterine inversion
+      better: Postpartum haemorrhage  (+2)
+      stem  : The uterotonic of first choice for prophylaxis of postpartum haemorrhage is:
+  Q_OBG_THI_009              Obstetrics   
+      filed : Third-stage complications, retained placenta & uterine inversion
+      better: Postpartum haemorrhage  (+2)
+      stem  : Tranexamic acid in postpartum haemorrhage is most effective when given:
+  Q_OBG_IND_006              Obstetrics   
+      filed : Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)
+      better: Physiological changes in pregnancy & fetal development  (+2)
+      stem  : The commonest indication for primary caesarean section is:
+  Q_OBG_INFT_006             Obstetrics   
+      filed : Infertility & assisted reproduction
+      better: Ca cervix / endometrium / ovary; screening  (+2)
+      stem  : The current first-line drug for ovulation induction in polycystic ovary syndrome is:
+  Q_OBG_PID_003              Obstetrics   
+      filed : Genital infections, PID & STIs in women
+      better: Medical disorders in pregnancy: anaemia, diabetes, heart disease  (+2)
+      stem  : Thick white curdy discharge with intense pruritus and pseudohyphae on KOH mount indicates:
+  Q_OBG_GTD_004              Obstetrics   
+      filed : Gestational trophoblastic disease & vulvo-vaginal lesions
+      better: Puberty, amenorrhoea & abnormal uterine bleeding  (+2)
+      stem  : Which feature most strongly suggests choriocarcinoma rather than a persisting mole?
+  Q_PED_NB_003               Pediatrics   
+      filed : Newborn assessment, prematurity & low birth weight
+      better: Respiratory distress in the newborn & neonatal seizures  (+2)
+      stem  : The first step in neonatal resuscitation of an apnoeic term baby is:
+  Q_PED_NB_004               Pediatrics   
+      filed : Newborn assessment, prematurity & low birth weight
+      better: Neonatal jaundice, sepsis, resuscitation  (+2)
+      stem  : Chest compressions in neonatal resuscitation are started when the heart rate remains below:
+  Q_PED_NB_005               Pediatrics   
+      filed : Newborn assessment, prematurity & low birth weight
+      better: Respiratory distress in the newborn & neonatal seizures  (+2)
+      stem  : The New Ballard score is used to assess:
+  Q_PED_IEM_002              Pediatrics   
+      filed : Inborn errors, newborn screening & chromosomal syndromes
+      better: Congenital & rheumatic heart disease in children  (+2)
+      stem  : A Down syndrome child is at greatest risk of which cardiac lesion?
+  Q_PED_IEM_004              Pediatrics   
+      filed : Inborn errors, newborn screening & chromosomal syndromes
+      better: Respiratory distress in the newborn & neonatal seizures  (+2)
+      stem  : Phenylketonuria results from deficiency of:
+  Q_PED_IEM_006              Pediatrics   
+      filed : Inborn errors, newborn screening & chromosomal syndromes
+      better: Neonatal jaundice, sepsis, resuscitation  (+2)
+      stem  : Galactosaemia classically presents in a neonate with:
+  Q_PED_IEM_007              Pediatrics   
+      filed : Inborn errors, newborn screening & chromosomal syndromes
+      better: Paediatric endocrinology: short stature, hypothyroidism, diabetes  (+2)
+      stem  : Turner syndrome is characterised by:
+  Q_PED_PTB_007              Pediatrics   
+      filed : Childhood tuberculosis & paediatric HIV
+      better: Acute respiratory infection, pneumonia & bronchiolitis  (+2)
+      stem  : The commonest opportunistic infection in an HIV-infected infant is:
+  Q_PED_HEM_009              Pediatrics   
+      filed : Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia
+      better: Newborn assessment, prematurity & low birth weight  (+2)
+      stem  : Vitamin K deficiency bleeding of the newborn is prevented by:
+  Q_PED_GIT_005              Pediatrics   
+      filed : Paediatric GIT, liver disease & malabsorption
+      better: Neonatal jaundice, sepsis, resuscitation  (+2)
+      stem  : The commonest cause of neonatal cholestasis requiring urgent diagnosis is:
+  Q_ENT_AUD_001              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : In Rinne's test, a negative result (bone conduction better than air conduction) indicates:
+  Q_ENT_AUD_002              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : In Weber's test, lateralisation of the sound to the affected ear suggests:
+  Q_ENT_AUD_003              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : A type B tympanogram with a flat trace indicates:
+  Q_ENT_AUD_007              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Pure tone audiometry showing an air-bone gap indicates:
+  Q_ENT_AUD_008              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Carhart's notch, a dip in bone conduction at 2000 Hz, is characteristic of:
+  Q_PED_BEH_009              Pediatrics   
+      filed : Behavioural & developmental disorders; adolescent health
+      better: Acute respiratory infection, pneumonia & bronchiolitis  (+2)
+      stem  : Sydenham chorea following streptococcal infection is a major criterion of:
+  Q_PED_EMG_006              Pediatrics   
+      filed : Paediatric emergencies, poisoning & IMNCI
+      better: Respiratory distress in the newborn & neonatal seizures  (+2)
+      stem  : Kerosene ingestion in a child is managed by:
+  Q_PED_EMG_008              Pediatrics   
+      filed : Paediatric emergencies, poisoning & IMNCI
+      better: Acute respiratory infection, pneumonia & bronchiolitis  (+2)
+      stem  : Severe acute malnutrition in a child 6 to 59 months is defined by any of:
+  Q_PED_EMG_009              Pediatrics   
+      filed : Paediatric emergencies, poisoning & IMNCI
+      better: Fluid & electrolyte therapy and diarrhoeal disease in children  (+2)
+      stem  : In severe acute malnutrition, the rehydration fluid of choice for a dehydrated child is:
+  Q_ENT_EAR_010              ENT          
+      filed : External & middle ear disease: otitis externa, otosclerosis
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Traumatic perforation of the tympanic membrane is usually managed by:
+  Q_ENT_CMP_001              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : The commonest intracranial complication of chronic suppurative otitis media is:
+  Q_ENT_CMP_004              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+2)
+      stem  : Lateral sinus thrombosis classically causes:
+  Q_ENT_CMP_005              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+2)
+      stem  : Otitic hydrocephalus is characterised by:
+  Q_ENT_CMP_009              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Acute mastoiditis is clinically suggested by:
+  Q_ENT_NAS_009              ENT          
+      filed : Nasal polyps, granulomatous disease & tumours of nose and PNS
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Nasopharyngeal carcinoma is strongly associated with:
+  Q_ENT_ORL_005              ENT          
+      filed : Oral cavity, salivary gland & pharyngeal disease
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+2)
+      stem  : Frey syndrome following parotidectomy is characterised by:
+  Q_SUR_URO_010              Surgery      
+      filed : Urology: renal, bladder & testicular tumours; hydrocele, phimosis
+      better: Urinary stones, BPH, hematuria  (+2)
+      stem  : The commonest composition of urinary calculi is:
+  Q_SUR_LIV_009              Surgery      
+      filed : Liver, spleen & portal hypertension surgery
+      better: Oesophagus, stomach & gastric carcinoma  (+2)
+      stem  : Alpha-fetoprotein is most useful as a tumour marker in:
+  Q_PAT_HDN_006              Pathology    
+      filed : Haemodynamics: oedema, thrombosis, embolism, infarction, shock
+      better: Cirrhosis, hepatitis, jaundice patterns  (+2)
+      stem  : Nutmeg liver on gross examination indicates:
+  Q_PAT_LNG_010              Pathology    
+      filed : Lung: COPD, pneumonia, carcinoma lung, occupational lung disease
+      better: Leukemias (acute/chronic) & basic classification  (+2)
+      stem  : Diffuse alveolar damage with hyaline membranes is the histological hallmark of:
+  Q_PAT_CAR_002              Pathology    
+      filed : Carcinogenesis, molecular basis & metastasis
+      better: Cell injury, adaptation, necrosis vs apoptosis  (+2)
+      stem  : The most commonly mutated gene in human cancers is:
+  Q_PAT_CAR_004              Pathology    
+      filed : Carcinogenesis, molecular basis & metastasis
+      better: Cirrhosis, hepatitis, jaundice patterns  (+2)
+      stem  : Which virus is associated with hepatocellular carcinoma?
+  Q_PAT_CAR_005              Pathology    
+      filed : Carcinogenesis, molecular basis & metastasis
+      better: Lung: COPD, pneumonia, carcinoma lung, occupational lung disease  (+2)
+      stem  : Aflatoxin B1, a chemical carcinogen produced by Aspergillus flavus, causes:
+  Q_PAT_REN_004              Pathology    
+      filed : Renal: tubulointerstitial, cystic disease, renal tumours
+      better: Cell injury, adaptation, necrosis vs apoptosis  (+2)
+      stem  : Acute tubular necrosis most commonly results from:
+  Q_PAT_IMM_003              Pathology    
+      filed : Immunodeficiency, transplant rejection & HLA
+      better: Myelodysplasia, marrow failure & transfusion medicine  (+2)
+      stem  : Graft-versus-host disease characteristically affects:
+  Q_PAT_PLZ_004              Pathology    
+      filed : Plasma cell dyscrasias & myeloproliferative neoplasms
+      better: Myelodysplasia, marrow failure & transfusion medicine  (+2)
+      stem  : Waldenstrom macroglobulinaemia is characterised by:
+  Q_PSM_CON_005              PSM (Commun  
+      filed : Concepts of health & disease, natural history, levels of prevention
+      better: Screening: sensitivity/specificity/PPV  (+2)
+      stem  : The epidemiological triad consists of:
+  Q_PAT_CYT_006              Pathology    
+      filed : Cytopathology, IHC, autopsy & lab techniques
+      better: Neoplasia: grading vs staging, tumor markers  (+2)
+      stem  : Immunohistochemistry for oestrogen receptor, progesterone receptor and HER2 in breast cancer is 
+  Q_PAT_CYT_008              Pathology    
+      filed : Cytopathology, IHC, autopsy & lab techniques
+      better: Bone & soft tissue tumours  (+2)
+      stem  : Flow cytometry is most useful in the diagnosis of:
+  Q_PAT_CYT_009              Pathology    
+      filed : Cytopathology, IHC, autopsy & lab techniques
+      better: Genetic & chromosomal disorders  (+2)
+      stem  : Fluorescence in situ hybridisation (FISH) is used in pathology to:
+  Q_MIC_CLO_008              Microbiolog  
+      filed : Clostridia & anaerobes (tetanus, gas gangrene, botulism)
+      better: Gram-positive: Staph, Strep, toxins  (+2)
+      stem  : Bacteroides fragilis is clinically important because it is:
+  Q_MIC_HRP_009              Microbiolog  
+      filed : Herpesviruses, CMV & EBV
+      better: Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella  (+2)
+      stem  : Roseola infantum (exanthem subitum) with high fever followed by rash as the fever settles is cau
+  Q_MIC_SPI_001              Microbiolog  
+      filed : Spirochaetes: syphilis, leptospira, borrelia
+      better: Sterilization, disinfection, stains, culture media  (+2)
+      stem  : Treponema pallidum is best visualised by:
+  Q_MIC_HAI_010              Microbiolog  
+      filed : Hospital-acquired infection, biomedical waste & infection control
+      better: Hepatitis viruses (serology markers)  (+2)
+      stem  : One percent sodium hypochlorite is recommended for:
+  Q_MIC_HEL_007              Microbiolog  
+      filed : Helminths: intestinal & tissue nematodes, cestodes, trematodes
+      better: Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas  (+2)
+      stem  : Autoinfection allowing lifelong persistence and hyperinfection in the immunosuppressed is charac
+  Q_AN_RA_006                Anaesthesia  
+      filed : Regional, spinal & epidural anaesthesia; postoperative care, pain & complications
+      better: Local anaesthetics (max doses, toxicity)  (+2)
+      stem  : Local anaesthetic systemic toxicity presents initially with:
+  Q_AN_RA_007                Anaesthesia  
+      filed : Regional, spinal & epidural anaesthesia; postoperative care, pain & complications
+      better: Local anaesthetics (max doses, toxicity)  (+2)
+      stem  : Adrenaline is added to local anaesthetic solutions to:
+  Q_PS_CHI_008               Psychiatry   
+      filed : Child psychiatry, psychopharmacology, ECT & psychotherapies
+      better: Anxiety disorders & substance use  (+2)
+      stem  : Cognitive behaviour therapy works on the principle that:
+  Q_RD_NUC_002               Radiology    
+      filed : Nuclear medicine, radiotherapy basics & interventional radiology
+      better: Skeletal radiology & classic bone signs  (+2)
+      stem  : A bone scan using technetium-99m MDP shows increased uptake in all EXCEPT:
+  Q_MIC_NEI_002              Microbiolog  
+      filed : Neisseria, Haemophilus, Bordetella, Brucella
+      better: Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas  (+2)
+      stem  : Gram-negative intracellular diplococci within neutrophils in a urethral smear from a symptomatic
+  Q_MIC_RIC_008              Microbiolog  
+      filed : Rickettsia, Chlamydia, Mycoplasma
+      better: Hospital-acquired infection, biomedical waste & infection control  (+2)
+      stem  : Q fever is distinctive among rickettsial diseases because it:
+  Q_OP_CNJ_009               Ophthalmolo  
+      filed : Conjunctiva, lids & lacrimal apparatus
+      better: Cornea: keratitis, ulcers, dystrophies & corneal transplant  (+2)
+      stem  : Entropion causing trichiasis is most importantly complicated by:
+  Q_OP_CNJ_010               Ophthalmolo  
+      filed : Conjunctiva, lids & lacrimal apparatus
+      better: Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields)  (+2)
+      stem  : Ptosis with a dilated pupil and the eye deviated down and out indicates:
+  Q_OP_UVE_005               Ophthalmolo  
+      filed : Uveitis, scleritis & ocular inflammation
+      better: Diabetic retinopathy, retinal detachment  (+2)
+      stem  : Sympathetic ophthalmitis is:
+  Q_OP_UVE_009               Ophthalmolo  
+      filed : Uveitis, scleritis & ocular inflammation
+      better: Diabetic retinopathy, retinal detachment  (+2)
+      stem  : Cytomegalovirus retinitis in advanced HIV appears as:
+  Q_OR_UL_003                Orthopedics  
+      filed : Upper limb injuries: shoulder, humerus, elbow, wrist
+      better: Spine injury, disc prolapse & spinal deformity  (+2)
+      stem  : A Colles fracture is a fracture of the distal radius with:
+  Q_OR_UL_004                Orthopedics  
+      filed : Upper limb injuries: shoulder, humerus, elbow, wrist
+      better: Arthritis, avascular necrosis & joint replacement  (+2)
+      stem  : Tenderness in the anatomical snuffbox after a fall on the outstretched hand suggests:
+  Q_OR_NRV_005               Orthopedics  
+      filed : Nerve injuries, implants, splints & rehabilitation
+      better: Fracture principles, complications & compartment syndrome  (+2)
+      stem  : A plaster cast applied for an acute fracture should be:
+  Q_OR_NRV_007               Orthopedics  
+      filed : Nerve injuries, implants, splints & rehabilitation
+      better: Specific fractures (Colles, NOF, supracondylar) & healing  (+2)
+      stem  : The principle of intramedullary nailing is that it provides:
+  Q_DE_ECZ_010               Dermatology  
+      filed : Eczema, atopic & contact dermatitis, urticaria
+      better: Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy  (+2)
+      stem  : Lichen simplex chronicus results from:
+  Q_DE_PIG_006               Dermatology  
+      filed : Pigmentary disorders (vitiligo, melasma) & genodermatoses
+      better: Eczema, atopic & contact dermatitis, urticaria  (+2)
+      stem  : Ichthyosis vulgaris is characterised by:
+  Q_DE_PIG_010               Dermatology  
+      filed : Pigmentary disorders (vitiligo, melasma) & genodermatoses
+      better: Eczema, atopic & contact dermatitis, urticaria  (+2)
+      stem  : Post-inflammatory hyperpigmentation is particularly troublesome in Indian skin because:
+  Q_FM_JUR_009               Forensic Me  
+      filed : Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts
+      better: Legal procedure, consent, key IPC sections  (+2)
+      stem  : Consent for a surgical procedure in India must be:
+  Q_FM_SEX_008               Forensic Me  
+      filed : Sexual offences, infanticide & abortion law
+      better: Alcohol, opioids, sedatives & drugs of abuse (medico-legal)  (+2)
+      stem  : In examining a suspected rape survivor, the most important medico-legal principle is:
+  Q_FM_PSY_004               Forensic Me  
+      filed : Forensic psychiatry, general toxicology & autopsy technique
+      better: Common poisons (OPC, corrosives, snakebite)  (+2)
+      stem  : The universal antidote in poisoning has been replaced in modern practice by:
+  Q_PH_DIU_003               Pharmacolog  
+      filed : Diuretics & drugs acting on the kidney
+      better: Heart failure, antiarrhythmics, antianginals  (+2)
+      stem  : Spironolactone is a:
+  Q_PH_AST_004               Pharmacolog  
+      filed : Asthma & COPD drugs, antitussives & antihistamines
+      better: Heart failure, antiarrhythmics, antianginals  (+2)
+      stem  : Theophylline has a narrow therapeutic index, with toxicity manifesting as:
+  Q_AN_TH_004                Anatomy      
+      filed : Thorax: lungs, pleura, diaphragm
+      better: Lower limb: femoral/sciatic nerve, foot drop  (+2)
+      stem  : The intercostal neurovascular bundle lies:
+  Q_AN_AB_007                Anatomy      
+      filed : Abdomen: peritoneum, liver & biliary, portal system
+      better: Inguinal canal, GIT relations  (+2)
+      stem  : The lesser sac communicates with the greater sac through:
+  Q_AN_HN_005                Anatomy      
+      filed : Head & neck: triangles, thyroid, parotid, TMJ
+      better: Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum  (+2)
+      stem  : The carotid sinus, important in blood pressure regulation, is located at:
+  Q_AN_HN_009                Anatomy      
+      filed : Head & neck: triangles, thyroid, parotid, TMJ
+      better: Skull base, cavernous sinus & meninges  (+2)
+      stem  : The danger area of the face refers to spread of infection via:
+  Q_AN_PP_009                Anatomy      
+      filed : Pelvis & perineum: pelvic floor, urogenital triangle
+      better: Inguinal canal, GIT relations  (+2)
+      stem  : Above the pectinate line, the anal canal is characterised by:
+  Q_AN_SK_005                Anatomy      
+      filed : Skull base, cavernous sinus & meninges
+      better: Spinal cord tracts & lesions  (+2)
+      stem  : Lumbar puncture is performed at the L3-L4 interspace because:
+  Q_AN_CER_001               Anatomy      
+      filed : Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum
+      better: Upper limb: axilla, cubital fossa, hand spaces  (+2)
+      stem  : Occlusion of the middle cerebral artery characteristically causes:
+  Q_PY_MUS_007               Physiology   
+      filed : Muscle physiology: skeletal, smooth & cardiac contraction
+      better: Action potential & neuromuscular junction  (+2)
+      stem  : The neuromuscular junction transmitter and receptor are:
+  Q_PY_BLD_010               Physiology   
+      filed : Blood: haemopoiesis, haemostasis, blood groups
+      better: Hormone actions & feedback  (+2)
+      stem  : Thrombin has which of the following actions?
+  Q_PY_REN_005               Physiology   
+      filed : Renal tubular transport, acid-base regulation & micturition
+      better: GFR, clearance, urine concentration  (+2)
+      stem  : The countercurrent multiplier responsible for the medullary concentration gradient operates in:
+  Q_BC_TRN_005               Biochemistr  
+      filed : Transcription, translation & post-translational modification
+      better: Minerals, trace elements & acid-base biochemistry  (+2)
+      stem  : A nonsense mutation is one that:
+  Q_BC_MIN_005               Biochemistr  
+      filed : Minerals, trace elements & acid-base biochemistry
+      better: Haem synthesis, porphyrias & bilirubin metabolism  (+2)
+      stem  : Copper deficiency causes anaemia because copper is required for:
+  Q_PSM_MAT_005              PSM (Commun  
+      filed : Maternal health, RCH & safe motherhood programmes
+      better: Health care delivery: PHC/CHC, HWC, ASHA & IPHS  (+2)
+      stem  : The high-risk approach in antenatal care means:
+  Q_PSM_CHI_005              PSM (Commun  
+      filed : Child health programmes, IMNCI & school health
+      better: Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)  (+2)
+      stem  : Under the Universal Immunisation Programme, measles-rubella vaccine is given at:
+  Q_PSM_CHI_006              PSM (Commun  
+      filed : Child health programmes, IMNCI & school health
+      better: Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)  (+2)
+      stem  : The vaccines given at birth in the national schedule are:
+  Q_PSM_CHI_008              PSM (Commun  
+      filed : Child health programmes, IMNCI & school health
+      better: Nutritional requirements & deficiency diseases  (+2)
+      stem  : Under Rashtriya Bal Swasthya Karyakram, children are screened for the 4 Ds, which are:
+  Q_PSM_DIA_009              PSM (Commun  
+      filed : Diarrhoeal disease, enteric fever, hepatitis & helminths
+      better: Epidemiology & control: TB, malaria, HIV  (+2)
+      stem  : The key epidemiological feature making cholera amenable to control is:
+  Q_MED_ANE_012              Medicine     
+      filed : Anaemias & haematinic deficiencies
+      better: Nutritional & vitamin deficiency states in adults  (+2)
+      stem  : A raised red cell distribution width with a normal MCV in an anaemic patient suggests:
+  Q_MED_ANE_016              Medicine     
+      filed : Anaemias & haematinic deficiencies
+      better: Nutritional & vitamin deficiency states in adults  (+2)
+      stem  : Treating vitamin B12 deficiency with folate alone is dangerous because:
+  Q_MED_COAG_011             Medicine     
+      filed : Bleeding disorders, thrombophilia & anticoagulation
+      better: Nutritional & vitamin deficiency states in adults  (+2)
+      stem  : An isolated prolonged activated partial thromboplastin time that corrects on mixing with normal 
+  Q_MED_COAG_015             Medicine     
+      filed : Bleeding disorders, thrombophilia & anticoagulation
+      better: Pancreatitis, malabsorption & acute liver failure  (+2)
+      stem  : Prolonged prothrombin time and APTT with low fibrinogen, high D-dimer and thrombocytopenia in a 
+  Q_MED_DMD_008              Medicine     
+      filed : Diabetes mellitus: diagnosis, complications, mgmt
+      better: Peripheral neuropathy, GBS & myasthenia gravis  (+2)
+      stem  : A diabetic with painless foot ulceration over the metatarsal head, palpable pulses and absent an
+  Q_MED_IAM_003              Medicine     
+      filed : IHD / acute MI: diagnosis & management
+      better: Pulmonary embolism, pulmonary hypertension & sleep apnoea  (+2)
+      stem  : Hypotension after sublingual nitrate in an inferior myocardial infarction should raise suspicion
+  Q_MED_MDN_003              Medicine     
+      filed : Muscular dystrophies & neuromuscular disorders
+      better: Peripheral neuropathy, GBS & myasthenia gravis  (+2)
+      stem  : Fatigable ptosis and diplopia worsening through the day indicate:
+  Q_MED_MDN_007              Medicine     
+      filed : Muscular dystrophies & neuromuscular disorders
+      better: Peripheral neuropathy, GBS & myasthenia gravis  (+2)
+      stem  : Asymmetric distal weakness with fasciculations and brisk reflexes without sensory loss suggests:
+  Q_MED_MDN_009              Medicine     
+      filed : Muscular dystrophies & neuromuscular disorders
+      better: Peripheral neuropathy, GBS & myasthenia gravis  (+2)
+      stem  : Proximal weakness that improves briefly after exercise, with autonomic dryness and an underlying
+  Q_MED_OBM_015              Medicine     
+      filed : Obesity, dyslipidaemia & metabolic syndrome
+      better: Pancreatitis, malabsorption & acute liver failure  (+2)
+      stem  : A fasting triglyceride level above 885 mg/dL primarily risks:
+  Q_MED_PN_015               Medicine     
+      filed : Peripheral neuropathy, GBS & myasthenia gravis
+      better: Coma, raised intracranial pressure & brain death  (+2)
+      stem  : Autonomic involvement in Guillain-Barre syndrome is important because it causes:
+  Q_MED_RA_016               Medicine     
+      filed : Rheumatoid arthritis, SLE & connective tissue disease
+      better: Cardiomyopathies & adult congenital heart disease  (+2)
+      stem  : Which antibody in systemic lupus erythematosus is associated with neonatal lupus and congenital 
+  Q_MED_RA_018               Medicine     
+      filed : Rheumatoid arthritis, SLE & connective tissue disease
+      better: Pleural effusion, pneumothorax & interstitial lung disease  (+2)
+      stem  : Which autoantibody in systemic sclerosis predicts the greatest risk of interstitial lung disease
+  Q_OBG_ABL_014              Obstetrics   
+      filed : Abnormal labour: malpresentation, obstructed labour, CPD
+      better: Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)  (+2)
+      stem  : A primigravida at term has a mento-posterior face presentation with no descent after 2 hours of 
+  Q_OBG_CCE_001              Obstetrics   
+      filed : Ca cervix / endometrium / ovary; screening
+      better: Third-stage complications, retained placenta & uterine inversion  (+2)
+      stem  : A woman with cervical carcinoma has disease extending to the lower third of the vagina but no pe
+  Q_OBG_C_001                Obstetrics   
+      filed : Contraception
+      better: Preterm labour, PROM & post-term pregnancy  (+2)
+      stem  : A woman has a copper intrauterine device in situ and a positive pregnancy test with an intrauter
+  Q_OBG_C_005                Obstetrics   
+      filed : Contraception
+      better: Abortion, ectopic pregnancy, recurrent pregnancy loss  (+2)
+      stem  : After medical abortion at 8 weeks, when can a combined oral contraceptive pill be started?
+  Q_OBG_END_017              Obstetrics   
+      filed : Endometriosis, adenomyosis & chronic pelvic pain
+      better: Infertility & assisted reproduction  (+2)
+      stem  : A woman with a 5 cm ovarian endometrioma is undergoing surgery before assisted reproduction. Whi
+  Q_OBG_PID_014              Obstetrics   
+      filed : Genital infections, PID & STIs in women
+      better: Endometriosis, adenomyosis & chronic pelvic pain  (+2)
+      stem  : A young woman has lower abdominal pain, cervical motion tenderness, adnexal tenderness and a tem
+  Q_OBG_PID_015              Obstetrics   
+      filed : Genital infections, PID & STIs in women
+      better: Endometriosis, adenomyosis & chronic pelvic pain  (+2)
+      stem  : A woman with pelvic inflammatory disease develops right upper quadrant pain, and laparoscopy sho
+  Q_OBG_GTD_011              Obstetrics   
+      filed : Gestational trophoblastic disease & vulvo-vaginal lesions
+      better: Medical disorders in pregnancy: anaemia, diabetes, heart disease  (+2)
+      stem  : A woman at 14 weeks has a uterus larger than dates, absent fetal heart, a snowstorm appearance o
+  Q_OBG_GTD_016              Obstetrics   
+      filed : Gestational trophoblastic disease & vulvo-vaginal lesions
+      better: Diagnosis of pregnancy, antenatal imaging & fetal surveillance  (+2)
+      stem  : Contraception after molar evacuation should be:
+  Q_OBG_IND_016              Obstetrics   
+      filed : Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)
+      better: Puberty, amenorrhoea & abnormal uterine bleeding  (+2)
+      stem  : At caesarean section for a deeply engaged head, which manoeuvre reduces the risk of extension of
+  Q_OBG_IND_019              Obstetrics   
+      filed : Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)
+      better: Third-stage complications, retained placenta & uterine inversion  (+2)
+      stem  : In a caesarean section complicated by placenta accreta with torrential bleeding, which stepwise 
+  Q_OBG_INF_015              Obstetrics   
+      filed : Infections in pregnancy & Rh isoimmunisation
+      better: Diagnosis of pregnancy, antenatal imaging & fetal surveillance  (+2)
+      stem  : Which antenatal finding suggests congenital cytomegalovirus infection?
+  Q_OBG_INFT_019             Obstetrics   
+      filed : Infertility & assisted reproduction
+      better: Multiple pregnancy, polyhydramnios & IUGR  (+2)
+      stem  : Why is a hydrosalpinx removed or occluded before in vitro fertilisation?
+  Q_OBG_MUL_017              Obstetrics   
+      filed : Multiple pregnancy, polyhydramnios & IUGR
+      better: Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)  (+2)
+      stem  : In a twin delivery, the first twin delivers vaginally as a vertex and the second is transverse w
+  Q_OBG_MUL_019              Obstetrics   
+      filed : Multiple pregnancy, polyhydramnios & IUGR
+      better: Diagnosis of pregnancy, antenatal imaging & fetal surveillance  (+2)
+      stem  : Monoamniotic twins are delivered by planned caesarean at about 32 to 34 weeks primarily because 
+  Q_OBG_ANA_011              Obstetrics   
+      filed : Obstetric analgesia & anaesthesia; maternal mortality
+      better: Preterm labour, PROM & post-term pregnancy  (+2)
+      stem  : Which physiological change of pregnancy most increases the risk of failed intubation at caesarea
+  Q_OBG_PHY_019              Obstetrics   
+      filed : Physiological changes in pregnancy & fetal development
+      better: Third-stage complications, retained placenta & uterine inversion  (+2)
+      stem  : Which substance crosses the placenta by simple diffusion and is therefore transferred at a rate 
+  Q_OBG_PEA_006              Obstetrics   
+      filed : Preeclampsia/eclampsia, APH
+      better: Third-stage complications, retained placenta & uterine inversion  (+2)
+      stem  : A woman at 32 weeks has continuous abdominal pain, a tense tender uterus, minimal vaginal bleedi
+  Q_OBG_PEA_008              Obstetrics   
+      filed : Preeclampsia/eclampsia, APH
+      better: Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)  (+2)
+      stem  : A woman at 36 weeks has painless bleeding and ultrasound shows the placental edge 1.5 cm from th
+  Q_OBG_PEA_009              Obstetrics   
+      filed : Preeclampsia/eclampsia, APH
+      better: Antenatal care & normal labour  (+2)
+      stem  : A woman in labour has sudden painless vaginal bleeding immediately after membrane rupture, with 
+  Q_OBG_AUB_013              Obstetrics   
+      filed : Puberty, amenorrhoea & abnormal uterine bleeding
+      better: Endometriosis, adenomyosis & chronic pelvic pain  (+2)
+      stem  : A 15-year-old has cyclical lower abdominal pain with a bulging bluish membrane at the introitus 
+  Q_OBG_PUE_013              Obstetrics   
+      filed : Puerperium, lactation & puerperal sepsis
+      better: Obstetric analgesia & anaesthesia; maternal mortality  (+2)
+      stem  : Which reflex is responsible for milk ejection and is inhibited by maternal anxiety and pain?
+  Q_MIC_CLO_015              Microbiolog  
+      filed : Clostridia & anaerobes (tetanus, gas gangrene, botulism)
+      better: Hospital-acquired infection, biomedical waste & infection control  (+2)
+      stem  : Which feature of Clostridioides difficile explains why alcohol hand rub is inadequate for infect
+  Q_MIC_GPS_003              Microbiolog  
+      filed : Gram-positive: Staph, Strep, toxins
+      better: Innate & adaptive immunity, antigen-antibody reactions, vaccines  (+2)
+      stem  : Which streptococcal antigen is the basis of Lancefield grouping?
+  Q_MIC_HEL_011              Microbiolog  
+      filed : Helminths: intestinal & tissue nematodes, cestodes, trematodes
+      better: Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas  (+2)
+      stem  : Which helminth causes autoinfection and can produce disseminated hyperinfection in a patient giv
+  Q_MIC_HRP_018              Microbiolog  
+      filed : Herpesviruses, CMV & EBV
+      better: Innate & adaptive immunity, antigen-antibody reactions, vaccines  (+2)
+      stem  : Why does varicella zoster virus cause chickenpox on primary infection but a dermatomal rash on r
+  Q_MIC_MOP_003              Microbiolog  
+      filed : Malaria & other protozoa
+      better: Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas  (+2)
+      stem  : Which protozoan causes dysentery with flask-shaped colonic ulcers and may spread to form a liver
+  Q_MIC_MIF_003              Microbiolog  
+      filed : Medically important fungi
+      better: Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas  (+2)
+      stem  : Which stain best demonstrates the capsule of Cryptococcus neoformans in cerebrospinal fluid?
+  Q_MIC_RIC_017              Microbiolog  
+      filed : Rickettsia, Chlamydia, Mycoplasma
+      better: HIV: virology, diagnosis, opportunistic infections  (+2)
+      stem  : Which reproductive complication of untreated chlamydial cervicitis makes screening of young sexu
+  Q_MIC_SPC_012              Microbiolog  
+      filed : Specimen collection, serology & molecular diagnostics
+      better: Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas  (+2)
+      stem  : Which transport medium is used for stool specimens when culture will be delayed?
+  Q_MIC_SPI_018              Microbiolog  
+      filed : Spirochaetes: syphilis, leptospira, borrelia
+      better: Specimen collection, serology & molecular diagnostics  (+2)
+      stem  : Why can Treponema pallidum not be grown in artificial culture, and how does this shape diagnosis
+  Q_PED_BEH_013              Pediatrics   
+      filed : Behavioural & developmental disorders; adolescent health
+      better: Fluid & electrolyte therapy and diarrhoeal disease in children  (+2)
+      stem  : Nocturnal enuresis is defined as involuntary bed-wetting beyond the age of:
+  Q_PED_DIA_020              Pediatrics   
+      filed : Fluid & electrolyte therapy and diarrhoeal disease in children
+      better: Paediatric neurology: seizures, cerebral palsy, meningitis  (+2)
+      stem  : A child with diarrhoea develops seizures and a serum sodium of 160 mmol per litre. Correction mu
+  Q_PED_NEP_014              Pediatrics   
+      filed : Paediatric nephrology: nephrotic syndrome, UTI, AGN
+      better: Fluid & electrolyte therapy and diarrhoeal disease in children  (+2)
+      stem  : A 6-year-old has cola-coloured urine, periorbital puffiness and hypertension 2 weeks after a sor
+  Q_PED_NEP_017              Pediatrics   
+      filed : Paediatric nephrology: nephrotic syndrome, UTI, AGN
+      better: Acute respiratory infection, pneumonia & bronchiolitis  (+2)
+      stem  : Which finding on a DMSA scan indicates renal scarring rather than acute infection, and when shou
+  Q_PSM_CHI_018              PSM (Commun  
+      filed : Child health programmes, IMNCI & school health
+      better: Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)  (+2)
+      stem  : Why has the neonatal mortality rate become the limiting factor in further reducing infant mortal
+  Q_PSM_CON_018              PSM (Commun  
+      filed : Concepts of health & disease, natural history, levels of prevention
+      better: Association & causation, bias, confounding, measures of risk  (+2)
+      stem  : Why is the concept of a lead time important when a screening programme reports improved survival
+  Q_PSM_NIS_007              PSM (Commun  
+      filed : National immunization schedule
+      better: Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)  (+2)
+      stem  : Why is the open vial policy applied to some vaccines but not to reconstituted BCG and measles-ru
+  Q_PSM_NCD_018              PSM (Commun  
+      filed : Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco
+      better: Association & causation, bias, confounding, measures of risk  (+2)
+      stem  : Why does a high-risk approach alone fail to reduce the population burden of cardiovascular disea
+  Q_PSM_WWB_008              PSM (Commun  
+      filed : Water/waste, biomedical waste, vital statistics
+      better: International health, WHO, SDGs & disaster management  (+2)
+      stem  : Why does incomplete medical certification of cause of death limit health planning even when birt
+  Q_PY_GIT_017               Physiology   
+      filed : GIT secretions, motility & absorption
+      better: Synapses, reflexes, ascending/descending pathways  (+2)
+      stem  : Which reflex explains the propulsive wave ahead of a bolus in the intestine?
+  Q_PY_OCT_006               Physiology   
+      filed : O2/CO2 transport, hypoxia
+      better: Cardiac output, regional circulations & exercise  (+2)
+      stem  : Which physiological adaptation to high altitude appears within hours and which takes weeks?
+  Q_PY_OCT_007               Physiology   
+      filed : O2/CO2 transport, hypoxia
+      better: Cardiac output, regional circulations & exercise  (+2)
+      stem  : Which measurement best reflects the adequacy of tissue oxygen delivery in a critically ill patie
+  Q_PY_OCT_008               Physiology   
+      filed : O2/CO2 transport, hypoxia
+      better: Blood: haemopoiesis, haemostasis, blood groups  (+2)
+      stem  : Why does fetal haemoglobin have a higher oxygen affinity than adult haemoglobin?
+  Q_PY_REP_011               Physiology   
+      filed : Reproductive physiology, pregnancy & lactation
+      better: Hormone actions & feedback  (+2)
+      stem  : Which hormone surge triggers ovulation, and what is its source?
+  Q_PY_REP_018               Physiology   
+      filed : Reproductive physiology, pregnancy & lactation
+      better: Hormone actions & feedback  (+2)
+      stem  : Why does inhibin allow selective feedback control of follicle-stimulating hormone without affect
+  Q_PY_RSP_011               Physiology   
+      filed : Respiratory regulation, high altitude & diving
+      better: Cell membrane transport & body fluid compartments  (+2)
+      stem  : Which chemoreceptor provides the principal drive to ventilation in response to a rise in arteria
+  Q_PAT_CAR_012              Pathology    
+      filed : Carcinogenesis, molecular basis & metastasis
+      better: Cirrhosis, hepatitis, jaundice patterns  (+2)
+      stem  : Which viral infection is causally linked to hepatocellular carcinoma through chronic inflammatio
+  Q_PAT_CAR_016              Pathology    
+      filed : Carcinogenesis, molecular basis & metastasis
+      better: Cell injury, adaptation, necrosis vs apoptosis  (+2)
+      stem  : Which mechanism allows a cancer cell to divide indefinitely despite progressive telomere shorten
+  Q_PAT_GIT_014              Pathology    
+      filed : GIT: PUD, IBD, colorectal carcinoma, malabsorption
+      better: Leukemias (acute/chronic) & basic classification  (+2)
+      stem  : Which gastric pathology carries the greatest risk of gastric adenocarcinoma?
+  Q_PAT_GRN_011              Pathology    
+      filed : Granulomatous disease & TB pathology
+      better: Plasma cell dyscrasias & myeloproliferative neoplasms  (+2)
+      stem  : Which cell is the essential component of a granuloma, and what cytokine drives its formation?
+  Q_PAT_IMM_016              Pathology    
+      filed : Immunodeficiency, transplant rejection & HLA
+      better: Bone & soft tissue tumours  (+2)
+      stem  : Why does graft versus host disease occur after allogeneic bone marrow transplantation and not af
+  Q_PAT_REN_015              Pathology    
+      filed : Renal: tubulointerstitial, cystic disease, renal tumours
+      better: Leukemias (acute/chronic) & basic classification  (+2)
+      stem  : Which finding distinguishes acute tubular necrosis from prerenal azotaemia on urine analysis?
+  Q_PH_ACG_015               Pharmacolog  
+      filed : Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics
+      better: ADRs, enzyme inducers/inhibitors  (+2)
+      stem  : Which antiplatelet mechanism does clopidogrel use, and what pharmacogenetic factor limits its ef
+  Q_PH_A_006                 Pharmacolog  
+      filed : Antihypertensives
+      better: Heart failure, antiarrhythmics, antianginals  (+2)
+      stem  : Which drug causes reflex tachycardia and fluid retention, so it is given with a beta blocker and
+  Q_PH_DIU_016               Pharmacolog  
+      filed : Diuretics & drugs acting on the kidney
+      better: Heart failure, antiarrhythmics, antianginals  (+2)
+      stem  : Why does spironolactone take several days to reach full effect while amiloride acts within hours
+  Q_SUR_GP_002               Surgery      
+      filed : Gallstones, pancreatitis
+      better: Acute abdomen, appendicitis, obstruction  (+2)
+      stem  : Which clinical picture distinguishes acute cholecystitis from biliary colic?
+  Q_ENT_AUD_016              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: External & middle ear disease: otitis externa, otosclerosis  (+2)
+      stem  : Which test measures middle ear compliance and identifies a middle ear effusion?
+  Q_ENT_AUD_019              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Why does a patient with a large conductive loss never have a total hearing loss on audiometry?
+  Q_ENT_AUD_020              ENT          
+      filed : Anatomy & physiology of the ear; audiological tests
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Why is the eustachian tube more prone to dysfunction in a child than in an adult?
+  Q_ENT_CMP_011              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Which complication of chronic suppurative otitis media presents with a postauricular swelling th
+  Q_ENT_CMP_012              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+2)
+      stem  : Which type of chronic suppurative otitis media is unsafe and requires surgery?
+  Q_ENT_CMP_013              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+2)
+      stem  : Which sign indicates labyrinthine fistula in a patient with cholesteatoma?
+  Q_ENT_CMP_014              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Which intracranial complication of otitis media presents with fever, headache and papilloedema w
+  Q_ENT_CMP_016              ENT          
+      filed : Complications of ear disease & CSF leak
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+2)
+      stem  : Which triad indicates petrositis complicating middle ear disease?
+  Q_ENT_ORL_016              ENT          
+      filed : Oral cavity, salivary gland & pharyngeal disease
+      better: Vertigo, Meniere's disease & facial nerve palsy  (+2)
+      stem  : Which surgical procedure is standard for a benign tumour of the superficial lobe of the parotid?
+  Q_ENT_ORL_019              ENT          
+      filed : Oral cavity, salivary gland & pharyngeal disease
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Why is a persistent unilateral serous otitis media in an adult from a high-incidence region an i
+  Q_ENT_TCL_005              ENT          
+      filed : Tonsillitis, carcinoma larynx
+      better: Otitis media, CSOM, hearing loss  (+2)
+      stem  : Which condition must be excluded before tonsillectomy in a child with a bifid uvula or submucous
+  Q_BC_GEN_013               Biochemistr  
+      filed : Gene regulation & molecular techniques (PCR, blotting)
+      better: Transcription, translation & post-translational modification  (+2)
+      stem  : Which modification of the polymerase chain reaction allows an RNA virus such as hepatitis C to b
+  Q_BC_INT_017               Biochemistr  
+      filed : Integration of metabolism: fed/fasting, diabetes, ketosis
+      better: Glycolysis, TCA, gluconeogenesis (key enzymes)  (+2)
+      stem  : Which single metabolite reciprocally activates glycolysis and inhibits gluconeogenesis in the li
+  Q_BC_TRN_013               Biochemistr  
+      filed : Transcription, translation & post-translational modification
+      better: Protein structure, collagen & haemoglobin variants  (+2)
+      stem  : Aminoglycosides inhibit bacterial protein synthesis at which ribosomal subunit, and why does thi
+  Q_BC_TRN_015               Biochemistr  
+      filed : Transcription, translation & post-translational modification
+      better: Oxidative phosphorylation, ETC & free radicals  (+2)
+      stem  : What determines that a newly synthesised protein is translocated into the endoplasmic reticulum?
+  Q_BC_DNA_002               Biochemistr  
+      filed : DNA/RNA, replication, mutations
+      better: Nucleotide metabolism: purine/pyrimidine, gout  (+2)
+      stem  : How does a transition mutation differ from a transversion?
+  Q_FM_JUR_018               Forensic Me  
+      filed : Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts
+      better: Alcohol, opioids, sedatives & drugs of abuse (medico-legal)  (+2)
+      stem  : Which document must accompany a medico-legal case examination, and what is the significance of a
+  Q_FM_SEX_017               Forensic Me  
+      filed : Sexual offences, infanticide & abortion law
+      better: Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts  (+2)
+      stem  : Which offence is committed when a doctor performs a termination of pregnancy at an unapproved pl
+  Q_FM_THR_011               Forensic Me  
+      filed : Thermal, electrical & lightning injuries; burns
+      better: Alcohol, opioids, sedatives & drugs of abuse (medico-legal)  (+2)
+      stem  : Which method estimates the burnt surface area in an adult for prognosis and medico-legal reporti
+  Q_FM_THR_017               Forensic Me  
+      filed : Thermal, electrical & lightning injuries; burns
+      better: Death, postmortem changes (rigor/livor/algor)  (+2)
+      stem  : Which autopsy finding supports death from hypothermia?
+  Q_PS_ANX_010               Psychiatry   
+      filed : Anxiety disorders & substance use
+      better: Psychiatric history, mental status examination & classification (ICD/DSM)  (+2)
+      stem  : Which brief instrument is used to screen for hazardous and harmful alcohol use in a general clin
+  Q_PS_DEL_017               Psychiatry   
+      filed : Delirium, dementia & organic mental disorders
+      better: Psychiatric history, mental status examination & classification (ICD/DSM)  (+2)
+      stem  : A 40-year-old with a family history of a similar illness has choreiform movements, irritability 
+  Q_PS_SOM_011               Psychiatry   
+      filed : Somatoform, dissociative, personality & sexual disorders
+      better: Psychiatric history, mental status examination & classification (ICD/DSM)  (+2)
+      stem  : How is somatic symptom disorder distinguished from factitious disorder and from malingering?
+  Q_AN_RA_011                Anaesthesia  
+      filed : Regional, spinal & epidural anaesthesia; postoperative care, pain & complications
+      better: Local anaesthetics (max doses, toxicity)  (+2)
+      stem  : Which treatment is specific for local anaesthetic systemic toxicity causing cardiac arrest?
+  Q_AN_AB_011                Anatomy      
+      filed : Abdomen: peritoneum, liver & biliary, portal system
+      better: Upper limb: axilla, cubital fossa, hand spaces  (+2)
+      stem  : Which peritoneal recess is the commonest site of a subphrenic collection after upper abdominal s
+  Q_AN_EMB_013               Anatomy      
+      filed : General embryology & histology: fertilisation, placenta, epithelia
+      better: Pharyngeal arches, germ-layer derivatives  (+2)
+      stem  : Which germ layer gives rise to the adrenal medulla, and what does this explain clinically?
+  Q_AN_SK_011                Anatomy      
+      filed : Skull base, cavernous sinus & meninges
+      better: Cranial nerves & nuclei  (+2)
+      stem  : Which structures pass through the jugular foramen, and what is the effect of a tumour there?
+  Q_AN_UL_012                Anatomy      
+      filed : Upper limb: axilla, cubital fossa, hand spaces
+      better: Brachial plexus & nerve injuries (radial/median/ulnar)  (+2)
+      stem  : Which tendon sheath arrangement explains why an infection of the little finger can spread to the
+  Q_AN_UL_013                Anatomy      
+      filed : Upper limb: axilla, cubital fossa, hand spaces
+      better: Head & neck: triangles, thyroid, parotid, TMJ  (+2)
+      stem  : Which structure is compressed in the quadrangular space, and what is the resulting clinical pict
+
+=== B. another topic matches better by >= 3: 10 ===
+  Q_PYQ_FMGE_2025JANP1_060   ENT           own=1 other=4
+      filed : Tonsillitis, carcinoma larynx
+      better: Otitis media, CSOM, hearing loss
+      stem  : A 49-year-old female from Nagaland presented with right-sided hearing loss and tinnitus. On exam
+  Q_OBG_MUL_010              Obstetrics    own=2 other=5
+      filed : Multiple pregnancy, polyhydramnios & IUGR
+      better: Preterm labour, PROM & post-term pregnancy
+      stem  : The commonest complication of multiple pregnancy is:
+  Q_OBG_IND_003              Obstetrics    own=1 other=4
+      filed : Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)
+      better: Preterm labour, PROM & post-term pregnancy
+      stem  : Induction of labour is absolutely contraindicated in:
+  Q_ENT_EAR_007              ENT           own=1 other=4
+      filed : External & middle ear disease: otitis externa, otosclerosis
+      better: Otitis media, CSOM, hearing loss
+      stem  : An attic (atticoantral) type of chronic suppurative otitis media is considered unsafe because it
+  Q_OP_RET_003               Ophthalmolo   own=1 other=4
+      filed : Retina & vitreous: vascular occlusions, ARMD, retinoblastoma
+      better: Diabetic retinopathy, retinal detachment
+      stem  : The hallmark of proliferative diabetic retinopathy is:
+  Q_DE_STR_007               Dermatology   own=1 other=4
+      filed : Structure of skin & approach to dermatological diagnosis
+      better: Bacterial, fungal & viral skin infections; scabies, pediculosis
+      stem  : A KOH mount of skin scrapings is used to demonstrate:
+  Q_AN_UL_003                Anatomy       own=2 other=5
+      filed : Upper limb: axilla, cubital fossa, hand spaces
+      better: Brachial plexus & nerve injuries (radial/median/ulnar)
+      stem  : The contents of the cubital fossa from medial to lateral are:
+  Q_AN_UL_010                Anatomy       own=1 other=4
+      filed : Upper limb: axilla, cubital fossa, hand spaces
+      better: Brachial plexus & nerve injuries (radial/median/ulnar)
+      stem  : The brachial artery is most commonly compressed in:
+  Q_MED_HFV_005              Medicine      own=1 other=4
+      filed : Heart failure & valvular disease
+      better: Infective endocarditis, rheumatic fever & pericardial disease
+      stem  : The most common cause of mitral stenosis in India remains:
+  Q_MED_MDN_001              Medicine      own=1 other=4
+      filed : Muscular dystrophies & neuromuscular disorders
+      better: Peripheral neuropathy, GBS & myasthenia gravis
+      stem  : Gower sign in a boy with calf pseudohypertrophy indicates:

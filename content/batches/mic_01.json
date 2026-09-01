@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_MIC_STR_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "E",
+   "stem": "The principal component of the Gram-positive bacterial cell wall is:",
+   "options": [
+    "A thick peptidoglycan layer with teichoic acid",
+    "An outer membrane with lipopolysaccharide",
+    "Mycolic acid",
+    "Chitin"
+   ],
+   "correct": 0,
+   "concept": "Gram-positive organisms have a thick peptidoglycan layer with teichoic acid that retains the crystal violet-iodine complex. Gram-negative bacteria have thin peptidoglycan with an outer membrane containing endotoxic lipopolysaccharide.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Morphology of Bacteria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "M",
+   "stem": "Bacterial endotoxin differs from exotoxin in that it is:",
+   "options": [
+    "Lipopolysaccharide, heat stable, poorly immunogenic and cannot be toxoided",
+    "Protein and heat labile",
+    "Highly immunogenic",
+    "Converted to toxoid"
+   ],
+   "correct": 0,
+   "concept": "Endotoxin is the lipid A of the Gram-negative outer membrane, released on lysis, heat stable and causing fever, hypotension and disseminated intravascular coagulation. Exotoxins are secreted proteins, highly potent, antigenic and convertible to toxoids for vaccines.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacterial Toxins",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "M",
+   "stem": "Transduction in bacterial genetics refers to transfer of genetic material by:",
+   "options": [
+    "A bacteriophage",
+    "Direct cell-to-cell contact through a pilus",
+    "Uptake of naked DNA",
+    "Transposons only"
+   ],
+   "correct": 0,
+   "concept": "Transduction uses a bacteriophage vector, conjugation requires cell contact via a sex pilus transferring plasmids, and transformation is uptake of free DNA. Conjugation is the most important mechanism for spreading multidrug resistance.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacterial Genetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "E",
+   "stem": "Methicillin resistance in Staphylococcus aureus is mediated by:",
+   "options": [
+    "The mecA gene encoding an altered penicillin-binding protein PBP2a",
+    "Beta-lactamase production alone",
+    "Efflux pumps",
+    "Porin loss"
+   ],
+   "correct": 0,
+   "concept": "PBP2a has low affinity for all beta-lactams, so MRSA is resistant to the entire class including cephalosporins, and requires vancomycin, linezolid or daptomycin. It is detected by cefoxitin disc testing.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Staphylococcus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "M",
+   "stem": "Extended spectrum beta-lactamase producing organisms are best treated with:",
+   "options": [
+    "Carbapenems",
+    "Third generation cephalosporins",
+    "Ampicillin",
+    "Cotrimoxazole"
+   ],
+   "correct": 0,
+   "concept": "ESBLs hydrolyse penicillins and third-generation cephalosporins including aztreonam but are inhibited by clavulanate; carbapenems are the drugs of choice. Carbapenemase producers such as NDM-1 require colistin or newer agents.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Antimicrobial Resistance",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "M",
+   "stem": "Bacterial spores are formed by:",
+   "options": [
+    "Bacillus and Clostridium species, conferring extreme resistance to heat and disinfectants",
+    "All bacteria",
+    "Only Gram-negative bacteria",
+    "Mycobacteria"
+   ],
+   "correct": 0,
+   "concept": "Endospores of the aerobic Bacillus and anaerobic Clostridium contain dipicolinic acid and calcium, resisting boiling and most disinfectants, so autoclaving at 121 degrees for 15 minutes is required. Spore destruction is the benchmark of sterilisation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Morphology of Bacteria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "E",
+   "stem": "The bacterial growth curve phase in which cells are most susceptible to antibiotics is:",
+   "options": [
+    "The log (exponential) phase",
+    "The lag phase",
+    "The stationary phase",
+    "The decline phase"
+   ],
+   "correct": 0,
+   "concept": "Actively dividing cells in log phase are most vulnerable, particularly to cell wall active agents which require ongoing peptidoglycan synthesis. This is why beta-lactams are ineffective against dormant persisters.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacterial Growth",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "H",
+   "stem": "Plasmids differ from bacterial chromosomes in that they:",
+   "options": [
+    "Are extrachromosomal, self-replicating and non-essential for survival",
+    "Are essential for survival",
+    "Cannot be transferred",
+    "Are always integrated"
+   ],
+   "correct": 0,
+   "concept": "Plasmids carry accessory genes for antibiotic resistance, toxin production and virulence, replicating independently and transferable by conjugation - the principal vehicle for the spread of multidrug resistance.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacterial Genetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "H",
+   "stem": "The minimum inhibitory concentration is defined as:",
+   "options": [
+    "The lowest antibiotic concentration that prevents visible bacterial growth",
+    "The concentration that kills 99.9 percent",
+    "The peak serum level",
+    "The dose administered"
+   ],
+   "correct": 0,
+   "concept": "MIC defines susceptibility, while the minimum bactericidal concentration is the lowest concentration killing 99.9% of the inoculum. When MBC greatly exceeds MIC the organism is tolerant.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Antimicrobial Susceptibility",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_STR_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial structure, growth, genetics & antimicrobial resistance",
+   "difficulty": "M",
+   "stem": "Quorum sensing in bacteria refers to:",
+   "options": [
+    "Density-dependent regulation of gene expression through signalling molecules",
+    "Spore formation",
+    "Flagellar movement",
+    "Capsule synthesis"
+   ],
+   "correct": 0,
+   "concept": "Bacteria secrete autoinducers whose concentration reflects population density, coordinating expression of virulence factors and biofilm formation once a threshold is reached - a target for novel anti-virulence therapies.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacterial Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "E",
+   "stem": "Tetanus toxin (tetanospasmin) acts by:",
+   "options": [
+    "Blocking release of the inhibitory neurotransmitters glycine and GABA from Renshaw cells",
+    "Blocking acetylcholine release",
+    "Stimulating acetylcholine release",
+    "Blocking sodium channels"
+   ],
+   "correct": 0,
+   "concept": "Tetanospasmin travels retrogradely up motor axons to the spinal cord, cleaving synaptobrevin and preventing inhibitory neurotransmitter release, so unopposed motor activity causes trismus, risus sardonicus and opisthotonus.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "M",
+   "stem": "Botulinum toxin causes paralysis by:",
+   "options": [
+    "Preventing release of acetylcholine at the neuromuscular junction",
+    "Blocking GABA release",
+    "Destroying the motor neuron",
+    "Blocking the acetylcholine receptor"
+   ],
+   "correct": 0,
+   "concept": "Botulinum toxin cleaves SNARE proteins blocking acetylcholine exocytosis, causing descending flaccid paralysis with diplopia, dysphagia and respiratory failure - the mirror image of tetanus which blocks inhibition.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "M",
+   "stem": "Infant botulism differs from foodborne botulism in that it results from:",
+   "options": [
+    "Ingestion of spores, often in honey, which germinate in the immature gut",
+    "Preformed toxin in canned food",
+    "Wound contamination",
+    "Person-to-person spread"
+   ],
+   "correct": 0,
+   "concept": "The infant colon lacks a protective flora, so ingested spores germinate and produce toxin in situ, causing a floppy infant with constipation, poor feeding and ptosis. Honey should not be given under one year.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "E",
+   "stem": "Gas gangrene is most commonly caused by:",
+   "options": [
+    "Clostridium perfringens type A with its alpha toxin (lecithinase)",
+    "Clostridium tetani",
+    "Clostridium botulinum",
+    "Clostridium difficile"
+   ],
+   "correct": 0,
+   "concept": "Alpha toxin is a lecithinase that destroys cell membranes causing myonecrosis, crepitus from gas production and profound toxaemia. The Nagler reaction demonstrates lecithinase activity on egg yolk agar.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "M",
+   "stem": "Management of established gas gangrene centres on:",
+   "options": [
+    "Urgent radical surgical debridement with high-dose penicillin and supportive care",
+    "Antibiotics alone",
+    "Hyperbaric oxygen alone",
+    "Observation"
+   ],
+   "correct": 0,
+   "concept": "Extensive debridement or amputation of all necrotic tissue is life-saving because antibiotics cannot penetrate dead tissue; penicillin with clindamycin, which suppresses toxin synthesis, and hyperbaric oxygen are adjuncts.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "M",
+   "stem": "Prophylaxis for tetanus in a contaminated wound in an incompletely immunised patient requires:",
+   "options": [
+    "Human tetanus immunoglobulin plus tetanus toxoid at separate sites",
+    "Toxoid alone",
+    "Immunoglobulin alone",
+    "Antibiotics alone"
+   ],
+   "correct": 0,
+   "concept": "Passive immunity from immunoglobulin gives immediate protection while toxoid induces active immunity; they must be given with separate syringes at separate sites. Thorough wound toilet remains essential.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "E",
+   "stem": "Clostridioides difficile causes pseudomembranous colitis chiefly after:",
+   "options": [
+    "Broad-spectrum antibiotic use disrupting the normal colonic flora",
+    "Viral infection",
+    "Surgery alone",
+    "Dietary change"
+   ],
+   "correct": 0,
+   "concept": "Clindamycin, cephalosporins and fluoroquinolones are classic precipitants. Toxins A and B damage the mucosa producing yellow pseudomembranous plaques; diagnosis is by toxin or GDH antigen detection with PCR.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "H",
+   "stem": "Bacteroides fragilis is clinically important because it is:",
+   "options": [
+    "The commonest anaerobe isolated from intra-abdominal sepsis, and is resistant to penicillin",
+    "An aerobe",
+    "Always penicillin sensitive",
+    "A Gram-positive coccus"
+   ],
+   "correct": 0,
+   "concept": "Bacteroides fragilis is a Gram-negative anaerobic bacillus of the colonic flora causing intra-abdominal and pelvic abscesses. It produces beta-lactamase, so metronidazole, carbapenems or beta-lactam-inhibitor combinations are used.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Anaerobic Bacteria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "H",
+   "stem": "The most reliable clinical feature distinguishing tetanus from strychnine poisoning is:",
+   "options": [
+    "Persistent trismus with sustained rigidity between spasms in tetanus",
+    "Presence of spasms",
+    "Opisthotonus",
+    "Preserved consciousness"
+   ],
+   "correct": 0,
+   "concept": "In tetanus muscles remain rigid between spasms and trismus is characteristic, whereas in strychnine poisoning the patient relaxes completely between convulsions. Both preserve consciousness, which is a cruel feature of tetanus.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Clostridium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_CLO_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+   "difficulty": "M",
+   "stem": "Anaerobic infections are typically suspected when there is:",
+   "options": [
+    "Foul-smelling discharge with gas in tissues and failure to grow on aerobic culture",
+    "Watery odourless discharge",
+    "Rapid aerobic growth",
+    "Neutropenia only"
+   ],
+   "correct": 0,
+   "concept": "Putrid odour from short-chain fatty acids, gas in tissues, necrosis, proximity to mucosal surfaces and sterile pus on routine culture all suggest anaerobes, requiring special transport media and anaerobic culture.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Anaerobic Bacteria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "E",
+   "stem": "The characteristic feature of all herpesviruses is:",
+   "options": [
+    "Ability to establish lifelong latency with periodic reactivation",
+    "Inability to cause recurrence",
+    "RNA genome",
+    "Absence of an envelope"
+   ],
+   "correct": 0,
+   "concept": "Herpesviruses are enveloped DNA viruses that persist lifelong - HSV and VZV in sensory ganglia, EBV in B lymphocytes, CMV in monocytes - reactivating with stress, immunosuppression or ageing.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "M",
+   "stem": "Multinucleated giant cells with intranuclear inclusions on a Tzanck smear indicate:",
+   "options": [
+    "Herpes simplex or varicella zoster infection",
+    "Cytomegalovirus",
+    "Molluscum contagiosum",
+    "Human papillomavirus"
+   ],
+   "correct": 0,
+   "concept": "The Tzanck smear from a fresh vesicle base shows ballooning degeneration with multinucleate giant cells and Cowdry type A intranuclear inclusions, present in both HSV and VZV, so it cannot distinguish between them.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "M",
+   "stem": "Herpes simplex encephalitis characteristically involves:",
+   "options": [
+    "The temporal lobes, causing haemorrhagic necrosis",
+    "The cerebellum",
+    "The spinal cord",
+    "The occipital lobes"
+   ],
+   "correct": 0,
+   "concept": "HSV-1 encephalitis produces temporal lobe haemorrhagic necrosis with fever, behavioural change, aphasia and seizures. It is the commonest sporadic fatal encephalitis; CSF PCR is diagnostic and intravenous acyclovir must be started empirically.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "E",
+   "stem": "Shingles (herpes zoster) results from:",
+   "options": [
+    "Reactivation of latent varicella zoster virus in a dorsal root ganglion",
+    "Primary varicella infection",
+    "Reinfection with a new strain",
+    "Bacterial superinfection"
+   ],
+   "correct": 0,
+   "concept": "Reactivation produces a painful dermatomal vesicular rash that does not cross the midline. Ophthalmic zoster with Hutchinson sign threatens sight, and postherpetic neuralgia is the commonest complication in the elderly.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "M",
+   "stem": "Infectious mononucleosis caused by Epstein-Barr virus is characterised by:",
+   "options": [
+    "Fever, pharyngitis, lymphadenopathy with atypical lymphocytes and a positive Paul-Bunnell test",
+    "Neutrophilia",
+    "Absent lymphadenopathy",
+    "Negative heterophile antibodies always"
+   ],
+   "correct": 0,
+   "concept": "EBV infects B cells via CD21; the atypical lymphocytes (Downey cells) are reactive T cells. Ampicillin given in error produces a florid maculopapular rash, and splenic rupture is a feared complication.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "M",
+   "stem": "Epstein-Barr virus is aetiologically linked to all EXCEPT:",
+   "options": [
+    "Kaposi sarcoma",
+    "Burkitt lymphoma",
+    "Nasopharyngeal carcinoma",
+    "Post-transplant lymphoproliferative disease"
+   ],
+   "correct": 0,
+   "concept": "EBV is associated with Burkitt and Hodgkin lymphoma, nasopharyngeal carcinoma and post-transplant lymphoproliferative disorder. Kaposi sarcoma is caused by human herpesvirus 8.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "E",
+   "stem": "Owl's eye intranuclear inclusions are characteristic of:",
+   "options": [
+    "Cytomegalovirus",
+    "Herpes simplex",
+    "Rabies",
+    "Measles"
+   ],
+   "correct": 0,
+   "concept": "CMV produces markedly enlarged cells with a large basophilic intranuclear inclusion surrounded by a clear halo. It causes congenital infection with periventricular calcification and deafness, and retinitis in advanced HIV.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "H",
+   "stem": "The commonest cause of congenital infection worldwide is:",
+   "options": [
+    "Cytomegalovirus",
+    "Rubella",
+    "Toxoplasma",
+    "Herpes simplex"
+   ],
+   "correct": 0,
+   "concept": "Congenital CMV affects 0.5 to 1% of live births and is the leading infectious cause of sensorineural deafness and neurodevelopmental disability, though most infected newborns are asymptomatic at birth.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "H",
+   "stem": "Roseola infantum (exanthem subitum) with high fever followed by rash as the fever settles is caused by:",
+   "options": [
+    "Human herpesvirus 6",
+    "Parvovirus B19",
+    "Measles virus",
+    "Rubella virus"
+   ],
+   "correct": 0,
+   "concept": "HHV-6 causes three to five days of high fever in infants, often with febrile convulsions, followed by a maculopapular rash appearing as the temperature falls - the sequence that distinguishes it from measles.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Herpesviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HRP_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Herpesviruses, CMV & EBV",
+   "difficulty": "M",
+   "stem": "The drug of choice for cytomegalovirus retinitis in AIDS is:",
+   "options": [
+    "Ganciclovir or valganciclovir",
+    "Acyclovir",
+    "Amantadine",
+    "Zidovudine"
+   ],
+   "correct": 0,
+   "concept": "CMV thymidine kinase differs from that of HSV, so acyclovir is ineffective; ganciclovir, valganciclovir, foscarnet and cidofovir are used. Bone marrow suppression limits ganciclovir and nephrotoxicity limits foscarnet.",
+   "reference": "KDT 8e, Antiviral Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  }
+ ]
+}

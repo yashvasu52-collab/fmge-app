@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_ENT_LAR_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "E",
+   "stem": "Persistent hoarseness of voice for more than three weeks in an adult smoker requires:",
+   "options": [
+    "Urgent laryngoscopy to exclude carcinoma of the larynx",
+    "Voice rest only",
+    "Antibiotics for two weeks",
+    "Reassurance"
+   ],
+   "correct": 0,
+   "concept": "Hoarseness beyond three weeks is a red flag for laryngeal malignancy, especially in smokers, and mandates direct or flexible laryngoscopy. Glottic carcinoma presents early with hoarseness and has the best prognosis because of sparse lymphatics.",
+   "reference": "Dhingra ENT 7e, Carcinoma Larynx",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "M",
+   "stem": "The nerve most commonly injured during thyroidectomy causing hoarseness is:",
+   "options": [
+    "Recurrent laryngeal nerve",
+    "External branch of superior laryngeal nerve",
+    "Internal laryngeal nerve",
+    "Hypoglossal nerve"
+   ],
+   "correct": 0,
+   "concept": "The recurrent laryngeal nerve supplies all intrinsic laryngeal muscles except cricothyroid; unilateral injury causes hoarseness with a paramedian cord, and bilateral injury causes stridor requiring tracheostomy. Injury to the external superior laryngeal branch causes loss of voice pitch.",
+   "reference": "Dhingra ENT 7e, Vocal Cord Paralysis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "M",
+   "stem": "The only intrinsic muscle of the larynx that abducts the vocal cords is:",
+   "options": [
+    "Posterior cricoarytenoid",
+    "Lateral cricoarytenoid",
+    "Thyroarytenoid",
+    "Interarytenoid"
+   ],
+   "correct": 0,
+   "concept": "The posterior cricoarytenoid is the sole abductor, opening the glottis for respiration; its paralysis therefore threatens the airway. All other intrinsic muscles adduct or tense the cords.",
+   "reference": "Snell Clinical Anatomy; Dhingra ENT 7e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "E",
+   "stem": "Semon's law states that in a progressive lesion of the recurrent laryngeal nerve:",
+   "options": [
+    "Abductor fibres are affected before adductor fibres",
+    "Adductors are affected first",
+    "Both are affected simultaneously",
+    "Sensory fibres are affected first"
+   ],
+   "correct": 0,
+   "concept": "Semon's law describes earlier vulnerability of abductor fibres, so the cord first loses abduction and lies in a paramedian position; complete paralysis later allows it to drift to the cadaveric position with a breathy voice.",
+   "reference": "Dhingra ENT 7e, Vocal Cord Paralysis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "M",
+   "stem": "The commonest cause of stridor in a neonate is:",
+   "options": [
+    "Laryngomalacia",
+    "Vocal cord palsy",
+    "Subglottic stenosis",
+    "Laryngeal web"
+   ],
+   "correct": 0,
+   "concept": "Laryngomalacia causes inspiratory stridor worsening with feeding, crying and supine posture, from an omega-shaped epiglottis with floppy supraglottic tissue. Most resolve by 18 to 24 months; supraglottoplasty is rarely needed.",
+   "reference": "Dhingra ENT 7e, Stridor",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "M",
+   "stem": "The site of election for tracheostomy is through tracheal rings:",
+   "options": [
+    "Second to third",
+    "First",
+    "Fifth to sixth",
+    "Cricoid cartilage"
+   ],
+   "correct": 0,
+   "concept": "The second and third rings are used: higher risks perichondritis and subglottic stenosis, and the cricoid must never be divided, while lower placement risks injury to the innominate vessels and a difficult tube change.",
+   "reference": "Dhingra ENT 7e, Tracheostomy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "E",
+   "stem": "Cricothyroidotomy is preferred over tracheostomy in an emergency because it is:",
+   "options": [
+    "Quicker and technically easier through the readily palpable cricothyroid membrane",
+    "Better for long-term airway",
+    "Less likely to cause subglottic stenosis",
+    "Suitable for children under 12"
+   ],
+   "correct": 0,
+   "concept": "The cricothyroid membrane is superficial and easily palpable, allowing rapid access in a can't-intubate-can't-ventilate emergency. It is a temporary measure converted to formal tracheostomy within 24 to 48 hours, and is avoided in young children.",
+   "reference": "Bailey & Love 28e, Airway Management",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "H",
+   "stem": "Singer's nodules (vocal nodules) characteristically occur at:",
+   "options": [
+    "The junction of the anterior one-third and posterior two-thirds of the vocal cord",
+    "The posterior commissure",
+    "The anterior commissure",
+    "The vocal process"
+   ],
+   "correct": 0,
+   "concept": "This is the point of maximum vibratory contact during phonation, so chronic voice abuse produces bilateral symmetrical nodules. Treatment is voice rest and speech therapy, with surgery reserved for mature fibrotic nodules.",
+   "reference": "Dhingra ENT 7e, Vocal Nodules",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "H",
+   "stem": "Which laryngeal carcinoma has the best prognosis and why?",
+   "options": [
+    "Glottic, because of early hoarseness and sparse lymphatic drainage",
+    "Supraglottic, because of rich lymphatics",
+    "Subglottic, because of early stridor",
+    "Transglottic, because of slow growth"
+   ],
+   "correct": 0,
+   "concept": "The glottis has almost no lymphatic drainage, so nodal spread is late, and even a small tumour causes hoarseness prompting early presentation. Supraglottic tumours present late with rich bilateral lymphatics and worse outcomes.",
+   "reference": "Dhingra ENT 7e, Carcinoma Larynx",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_LAR_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+   "difficulty": "M",
+   "stem": "Bilateral abductor paralysis of the vocal cords presents with:",
+   "options": [
+    "Stridor and dyspnoea with a good voice",
+    "Aphonia with no stridor",
+    "Hoarseness alone",
+    "Dysphagia only"
+   ],
+   "correct": 0,
+   "concept": "Both cords lie in the paramedian position, so the voice is surprisingly preserved but the airway is critically narrowed, causing stridor on exertion and requiring tracheostomy or a cord lateralisation procedure.",
+   "reference": "Dhingra ENT 7e, Vocal Cord Paralysis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "E",
+   "stem": "Ludwig angina is a cellulitis of the:",
+   "options": [
+    "Bilateral submandibular and sublingual spaces, usually of dental origin",
+    "Parapharyngeal space only",
+    "Retropharyngeal space",
+    "Parotid space"
+   ],
+   "correct": 0,
+   "concept": "Ludwig angina is a rapidly spreading bilateral cellulitis of the floor of the mouth from a lower molar infection, elevating the tongue and threatening the airway. Airway protection, intravenous antibiotics and drainage are needed.",
+   "reference": "Dhingra ENT 7e, Deep Neck Space Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "M",
+   "stem": "Retropharyngeal abscess in a child typically presents with:",
+   "options": [
+    "Fever, dysphagia, torticollis and widened prevertebral soft tissue on lateral neck radiograph",
+    "Trismus and unilateral tonsillar swelling",
+    "Hoarseness alone",
+    "Otalgia only"
+   ],
+   "correct": 0,
+   "concept": "Suppuration of retropharyngeal lymph nodes after an upper respiratory infection in children under 5 causes fever, refusal to feed, neck stiffness and airway compromise, with prevertebral soft tissue widening on a lateral radiograph.",
+   "reference": "Dhingra ENT 7e, Deep Neck Space Infections",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "M",
+   "stem": "Quinsy (peritonsillar abscess) is distinguished from acute tonsillitis by:",
+   "options": [
+    "Trismus with uvular deviation to the opposite side and a muffled hot-potato voice",
+    "Bilateral tonsillar enlargement",
+    "Absence of fever",
+    "Stridor"
+   ],
+   "correct": 0,
+   "concept": "Quinsy is a unilateral collection between the tonsillar capsule and superior constrictor, causing severe unilateral pain, trismus, drooling, a muffled voice and displacement of the uvula away from the affected side. Aspiration or incision with antibiotics is the treatment.",
+   "reference": "Dhingra ENT 7e, Peritonsillar Abscess",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "E",
+   "stem": "An inhaled foreign body in a child most commonly lodges in the:",
+   "options": [
+    "Right main bronchus",
+    "Left main bronchus",
+    "Trachea",
+    "Larynx"
+   ],
+   "correct": 0,
+   "concept": "The right main bronchus is wider, shorter and more vertical, so aspirated objects preferentially enter it. Rigid bronchoscopy under general anaesthesia is both diagnostic and therapeutic.",
+   "reference": "Dhingra ENT 7e, Foreign Bodies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "M",
+   "stem": "The commonest site of impaction of an ingested foreign body in the oesophagus is:",
+   "options": [
+    "The cricopharyngeal sphincter at the level of C6",
+    "The gastro-oesophageal junction",
+    "At the level of the aortic arch",
+    "The mid-oesophagus"
+   ],
+   "correct": 0,
+   "concept": "The cricopharyngeus is the narrowest part of the alimentary tract and the commonest site of impaction; a coin lodged here appears in the coronal plane on an anteroposterior radiograph, whereas a tracheal coin appears sagittal.",
+   "reference": "Dhingra ENT 7e, Foreign Bodies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "M",
+   "stem": "A button battery lodged in the oesophagus requires:",
+   "options": [
+    "Emergency endoscopic removal because of rapid liquefactive necrosis",
+    "Observation for 24 hours",
+    "Oral fluids and repeat radiograph in a week",
+    "Induced vomiting"
+   ],
+   "correct": 0,
+   "concept": "Button batteries generate an electrolytic current causing alkaline liquefactive necrosis and perforation within hours, so removal is a true emergency, distinct from smooth blunt objects which may be observed.",
+   "reference": "Dhingra ENT 7e, Foreign Bodies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "E",
+   "stem": "The parapharyngeal space infection classically causes:",
+   "options": [
+    "Trismus with medial displacement of the lateral pharyngeal wall and tonsil",
+    "Elevation of the tongue",
+    "Prevertebral widening",
+    "Bilateral submandibular swelling"
+   ],
+   "correct": 0,
+   "concept": "Infection in the parapharyngeal space pushes the tonsil and lateral pharyngeal wall medially with trismus and neck swelling behind the angle of the jaw, and may involve the carotid sheath causing internal jugular thrombosis.",
+   "reference": "Dhingra ENT 7e, Deep Neck Space Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "H",
+   "stem": "Lemierre syndrome refers to:",
+   "options": [
+    "Septic thrombophlebitis of the internal jugular vein with septic pulmonary emboli, usually from Fusobacterium",
+    "Cavernous sinus thrombosis",
+    "Retropharyngeal abscess",
+    "Cervical lymphadenitis"
+   ],
+   "correct": 0,
+   "concept": "Following an oropharyngeal infection, Fusobacterium necrophorum causes internal jugular septic thrombophlebitis with metastatic septic emboli, most often to the lungs. Prolonged antibiotics with anaerobic cover are required.",
+   "reference": "Bailey & Love 28e, Head and Neck Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "H",
+   "stem": "A midline neck swelling that moves upward on protrusion of the tongue is:",
+   "options": [
+    "A thyroglossal cyst",
+    "A branchial cyst",
+    "A dermoid cyst",
+    "A cystic hygroma"
+   ],
+   "correct": 0,
+   "concept": "The thyroglossal duct remnant retains attachment to the hyoid and foramen caecum, so it rises on tongue protrusion and swallowing. Sistrunk operation removing the cyst with the central hyoid body prevents recurrence.",
+   "reference": "Bailey & Love 28e, Neck Swellings",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_NCK_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neck spaces, deep neck infection & aerodigestive foreign bodies",
+   "difficulty": "M",
+   "stem": "A branchial cyst characteristically presents:",
+   "options": [
+    "In the upper neck anterior to the sternocleidomastoid in a young adult",
+    "In the midline",
+    "In the posterior triangle at birth",
+    "Behind the ear"
+   ],
+   "correct": 0,
+   "concept": "A second branchial cleft cyst lies deep to the anterior border of the upper third of sternocleidomastoid, presenting in the second or third decade, often enlarging after an upper respiratory infection, with cholesterol crystals in the aspirate.",
+   "reference": "Bailey & Love 28e, Neck Swellings",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "E",
+   "stem": "Healing of a clean surgical incision with apposed edges is termed:",
+   "options": [
+    "Healing by primary intention",
+    "Healing by secondary intention",
+    "Healing by tertiary intention",
+    "Hypertrophic healing"
+   ],
+   "correct": 0,
+   "concept": "Primary intention healing occurs when edges are approximated with minimal tissue loss, giving a fine scar. Secondary intention involves granulation and contraction across a gaping wound, and tertiary (delayed primary) closure follows a period of open management.",
+   "reference": "Bailey & Love 28e, Wound Healing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "M",
+   "stem": "The tensile strength of a healing wound at the end of one week is approximately what percentage of final strength?",
+   "options": [
+    "Ten percent",
+    "Fifty percent",
+    "Eighty percent",
+    "Ninety-five percent"
+   ],
+   "correct": 0,
+   "concept": "Wound strength is only about 10% at one week, rising to 30% at three weeks and plateauing at 70 to 80% of original strength by three months - collagen remodelling continues but never restores full strength.",
+   "reference": "Bailey & Love 28e, Wound Healing",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "M",
+   "stem": "A keloid differs from a hypertrophic scar in that it:",
+   "options": [
+    "Extends beyond the original wound margins and rarely regresses",
+    "Remains within the wound",
+    "Regresses spontaneously",
+    "Occurs only in the elderly"
+   ],
+   "correct": 0,
+   "concept": "Keloids grow beyond the original wound boundary, recur after excision and are commoner in darker skin and over the sternum, shoulder and earlobe. Hypertrophic scars stay within the wound and often regress, especially across flexures after burns.",
+   "reference": "Bailey & Love 28e, Wound Healing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "E",
+   "stem": "Which vitamin deficiency most directly impairs collagen synthesis and wound healing?",
+   "options": [
+    "Vitamin C",
+    "Vitamin B12",
+    "Vitamin D",
+    "Vitamin K"
+   ],
+   "correct": 0,
+   "concept": "Ascorbic acid is essential for hydroxylation of proline and lysine in collagen; deficiency gives weak collagen with wound dehiscence, bleeding gums and perifollicular haemorrhage. Zinc and protein deficiency also impair healing.",
+   "reference": "Bailey & Love 28e, Wound Healing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "M",
+   "stem": "A clean-contaminated surgical wound is one in which:",
+   "options": [
+    "The respiratory, alimentary or genitourinary tract is entered under controlled conditions without unusual contamination",
+    "No viscus is entered",
+    "There is frank pus",
+    "There is gross spillage of bowel contents"
+   ],
+   "correct": 0,
+   "concept": "Wounds are classified clean, clean-contaminated, contaminated and dirty, with infection rates rising from under 2% to over 30%. Prophylactic antibiotics are indicated from the clean-contaminated class onward and in clean surgery involving implants.",
+   "reference": "Bailey & Love 28e, Surgical Infection",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "M",
+   "stem": "Prophylactic antibiotic for a surgical procedure is best given:",
+   "options": [
+    "Within 60 minutes before skin incision",
+    "Twelve hours before surgery",
+    "At the time of skin closure",
+    "For five days postoperatively"
+   ],
+   "correct": 0,
+   "concept": "Timing to achieve peak tissue concentration at incision is critical; a single dose within 60 minutes before incision, repeated for long operations or major blood loss, is as effective as prolonged courses and reduces resistance.",
+   "reference": "Bailey & Love 28e, Surgical Infection",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "E",
+   "stem": "Which suture material is absorbable?",
+   "options": [
+    "Polyglactin 910 (Vicryl)",
+    "Silk",
+    "Polypropylene (Prolene)",
+    "Nylon"
+   ],
+   "correct": 0,
+   "concept": "Polyglactin 910, polyglycolic acid, polydioxanone and catgut are absorbable, while silk, nylon, polypropylene and steel are non-absorbable. Absorbable sutures are used where removal is impractical, such as bowel and subcutaneous layers.",
+   "reference": "Bailey & Love 28e, Sutures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "H",
+   "stem": "Burst abdomen (abdominal wound dehiscence) classically presents:",
+   "options": [
+    "Around the sixth to eighth postoperative day with serosanguinous salmon-coloured discharge",
+    "On the first postoperative day",
+    "After three weeks",
+    "With frank pus only"
+   ],
+   "correct": 0,
+   "concept": "A pink serosanguinous discharge from the wound is the classic premonitory sign of impending dehiscence around day 6 to 8. Management is covering the wound with sterile saline packs and urgent resuture under anaesthesia.",
+   "reference": "Bailey & Love 28e, Wound Complications",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "H",
+   "stem": "The commonest cause of fever on the first postoperative day is:",
+   "options": [
+    "Atelectasis or the inflammatory response to surgery",
+    "Wound infection",
+    "Deep vein thrombosis",
+    "Urinary tract infection"
+   ],
+   "correct": 0,
+   "concept": "The classic sequence of postoperative fever is the five Ws: wind (atelectasis, days 1 to 2), water (urinary infection, days 3 to 5), wound (days 5 to 7), walking (venous thrombosis, days 5 to 7) and wonder drugs or abscess later.",
+   "reference": "Bailey & Love 28e, Postoperative Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_WND_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "M",
+   "stem": "Negative pressure wound therapy promotes healing primarily by:",
+   "options": [
+    "Removing exudate, reducing oedema and stimulating granulation tissue",
+    "Sterilising the wound",
+    "Providing systemic antibiotics",
+    "Preventing all scarring"
+   ],
+   "correct": 0,
+   "concept": "Vacuum-assisted closure applies subatmospheric pressure that removes exudate, reduces interstitial oedema, increases local blood flow and mechanically stimulates granulation, useful in large contaminated or cavity wounds.",
+   "reference": "Bailey & Love 28e, Wound Management",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

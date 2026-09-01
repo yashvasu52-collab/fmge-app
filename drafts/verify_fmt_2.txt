@@ -1,0 +1,43 @@
+Q_FM_PSY_015 | del | duplicate of Q_FM_PSY_010, which covers the advance directive together with the other significant provisions of the Mental Healthcare Act 2017. The broader item is retained
+Q_FM_PSY_011 | del | duplicate of Q_PS_MSE_003 in Psychiatry, which defines a delusion. Psychiatry is the natural home for the definition and is retained
+Q_FM_PSY_001 | del | duplicate of Q_PYQ_FMGE_2024JUN_009, which states the McNaughton rule in full. The exam-recall item is retained
+Q_FM_ID_002 | del | duplicate of Q_FM_ID_015, which covers the same radiological age estimation and names the specific ossification events used to establish 18 years. The specific item is retained
+Q_FM_ID_003 | del | duplicate of Q_FM_ID_014 on the pelvis being most reliable for skeletal sex determination, which additionally gives the reason and the specific features. The fuller item is retained
+Q_FM_ID_005 | del | duplicate of Q_FM_ID_012 on the Gustafson method, which additionally names the teeth used and the most reliable change. The fuller item is retained
+Q_FM_ID_009 | del | duplicate of Q_FM_ID_016 on the limitations of tattoos in identification, which additionally covers deliberate obliteration. The fuller item is retained
+Q_PYQ_FMGE_2025JULP2_001 | del | duplicate of Q_PYQ_FMGE_2025JANP1_015 on which court a doctor attends when holding two summonses for the same date. The January item, which states both summonses came from the same district court, is retained
+Q_PYQ_FMGE_2024JUN_009 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Forensic Psychiatry | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_014 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Legal Procedure (inquest) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_015 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Legal Procedure (the medical witness) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_019 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Legal Procedure (inquest and dowry death) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_021 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Legal Procedure (examination of witnesses) | reference cited only the exam paper; a study source added
+Q_FM_PSY_005 | ok |
+Q_FM_PSY_006 | ok |
+Q_FM_PSY_007 | ok |
+Q_FM_PSY_008 | ok |
+Q_FM_PSY_009 | ok |
+Q_FM_PSY_010 | ok |
+Q_FM_PSY_012 | ok |
+Q_FM_PSY_013 | ok |
+Q_FM_PSY_014 | ok |
+Q_FM_PSY_016 | ok |
+Q_FM_PSY_017 | ok |
+Q_FM_PSY_018 | ok |
+Q_FM_ID_001 | ok |
+Q_FM_ID_004 | ok |
+Q_FM_ID_006 | ok |
+Q_FM_ID_007 | ok |
+Q_FM_ID_008 | ok |
+Q_FM_ID_010 | ok |
+Q_FM_ID_011 | ok |
+Q_FM_ID_012 | ok |
+Q_FM_ID_013 | ok |
+Q_FM_ID_014 | ok |
+Q_FM_ID_015 | ok |
+Q_FM_ID_016 | ok |
+Q_FM_ID_017 | ok |
+Q_FM_ID_018 | ok |
+Q_FM_LEG_001 | ok |
+Q_FM_LEG_002 | ok |
+Q_FM_LEG_003 | ok |
+Q_FM_LEG_004 | ok |

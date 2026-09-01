@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_MIC_NEI_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "E",
+   "stem": "The selective medium for isolating Neisseria gonorrhoeae is:",
+   "options": [
+    "Thayer-Martin medium",
+    "MacConkey agar",
+    "Loeffler serum slope",
+    "Lowenstein-Jensen medium"
+   ],
+   "correct": 0,
+   "concept": "Thayer-Martin is chocolate agar with vancomycin, colistin and nystatin to suppress commensals. Neisseria are oxidase-positive Gram-negative diplococci; gonococcus ferments only glucose, meningococcus glucose and maltose.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Neisseria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "M",
+   "stem": "Gram-negative intracellular diplococci within neutrophils in a urethral smear from a symptomatic man indicate:",
+   "options": [
+    "Gonorrhoea, for which the smear is highly sensitive and specific",
+    "Chlamydia",
+    "Syphilis",
+    "Candidiasis"
+   ],
+   "correct": 0,
+   "concept": "In symptomatic male urethritis the Gram-stained smear is diagnostic, but sensitivity is poor in women and at extragenital sites, where culture or nucleic acid amplification is required.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Neisseria",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "M",
+   "stem": "Recurrent Neisseria infections should prompt investigation for deficiency of:",
+   "options": [
+    "Terminal complement components C5 to C9",
+    "Immunoglobulin A",
+    "Neutrophil count",
+    "T lymphocytes"
+   ],
+   "correct": 0,
+   "concept": "The membrane attack complex is required to lyse Neisseria, so terminal complement deficiency causes recurrent meningococcal disease, often with unusual serogroups and a paradoxically milder course.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Immunodeficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "E",
+   "stem": "Chemoprophylaxis of close contacts of a meningococcal meningitis case is with:",
+   "options": [
+    "Rifampicin, ciprofloxacin or ceftriaxone",
+    "Penicillin",
+    "Ampicillin",
+    "Cotrimoxazole"
+   ],
+   "correct": 0,
+   "concept": "Prophylaxis eradicates nasopharyngeal carriage, which penicillin does not achieve despite treating invasive disease. It should be given within 24 hours to household and other close contacts.",
+   "reference": "Park 27e, Meningococcal Meningitis",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "M",
+   "stem": "Haemophilus influenzae requires which growth factors?",
+   "options": [
+    "X factor (haemin) and V factor (NAD)",
+    "Only X factor",
+    "Only V factor",
+    "Neither"
+   ],
+   "correct": 0,
+   "concept": "Both factors are supplied by chocolate agar where heat lyses red cells. Satellitism around Staphylococcus colonies on blood agar, which release V factor, is a classic identifying feature.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Haemophilus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "M",
+   "stem": "Hib vaccine protects against invasive disease because it is:",
+   "options": [
+    "A polysaccharide-protein conjugate immunogenic in infants",
+    "A live vaccine",
+    "A toxoid",
+    "A killed whole-cell vaccine"
+   ],
+   "correct": 0,
+   "concept": "Plain polysaccharide vaccines are poorly immunogenic under 2 years as they are T-independent antigens; conjugation to a carrier protein recruits T-cell help, giving memory and herd protection in infancy.",
+   "reference": "Park 27e, Haemophilus",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "E",
+   "stem": "Bordetella pertussis is best isolated on:",
+   "options": [
+    "Bordet-Gengou medium",
+    "MacConkey agar",
+    "Thayer-Martin agar",
+    "Blood agar alone"
+   ],
+   "correct": 0,
+   "concept": "Bordet-Gengou glycerol-potato-blood agar with added penicillin is used, giving mercury-drop colonies. Nasopharyngeal aspirate PCR is now the most sensitive method, as culture yield falls after the catarrhal stage.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bordetella",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "H",
+   "stem": "The most infectious stage of whooping cough is:",
+   "options": [
+    "The catarrhal stage, before the characteristic cough appears",
+    "The paroxysmal stage",
+    "The convalescent stage",
+    "After antibiotics"
+   ],
+   "correct": 0,
+   "concept": "Infectivity is highest before diagnosis is clinically obvious, which is why contact prophylaxis with a macrolide and high vaccine coverage matter more than treating the established paroxysmal stage.",
+   "reference": "Park 27e, Whooping Cough",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "H",
+   "stem": "Brucellosis is diagnosed serologically by:",
+   "options": [
+    "Standard tube agglutination test, with a rising or high titre",
+    "Weil-Felix test",
+    "VDRL",
+    "Widal test"
+   ],
+   "correct": 0,
+   "concept": "The standard agglutination test with titres of 1 in 160 or above supports diagnosis; blood culture on biphasic Castaneda medium is definitive but slow and hazardous to laboratory staff.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Brucella",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_NEI_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Neisseria, Haemophilus, Bordetella, Brucella",
+   "difficulty": "M",
+   "stem": "Brucellosis in humans is most often acquired from:",
+   "options": [
+    "Unpasteurised milk and milk products, or occupational animal contact",
+    "Mosquito bite",
+    "Person-to-person contact",
+    "Contaminated water"
+   ],
+   "correct": 0,
+   "concept": "Brucella melitensis from goats and sheep causes the most severe human disease. Veterinarians, abattoir workers and laboratory staff are occupationally at risk, and treatment requires prolonged combination therapy.",
+   "reference": "Park 27e, Brucellosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "E",
+   "stem": "Rickettsiae are transmitted to humans principally by:",
+   "options": [
+    "Arthropod vectors such as ticks, mites, lice and fleas",
+    "Contaminated water",
+    "Respiratory droplets",
+    "Sexual contact"
+   ],
+   "correct": 0,
+   "concept": "All rickettsial infections except Q fever are arthropod-borne obligate intracellular organisms. Q fever from Coxiella burnetii is acquired by inhaling aerosols from infected animal birth products.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Rickettsiae",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "M",
+   "stem": "Epidemic typhus is caused by and transmitted by:",
+   "options": [
+    "Rickettsia prowazekii transmitted by the human body louse",
+    "R. typhi by fleas",
+    "Orientia by mites",
+    "R. rickettsii by ticks"
+   ],
+   "correct": 0,
+   "concept": "Louse-borne epidemic typhus occurs in overcrowding and poor hygiene during war and famine. Brill-Zinsser disease is its late recrudescence, and rickettsiae are excreted in louse faeces rubbed into bite wounds.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Rickettsiae",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "M",
+   "stem": "Chlamydia trachomatis serotypes A to C cause:",
+   "options": [
+    "Trachoma, a leading infectious cause of blindness",
+    "Lymphogranuloma venereum",
+    "Urethritis",
+    "Psittacosis"
+   ],
+   "correct": 0,
+   "concept": "Serotypes A to C cause trachoma with follicular conjunctivitis, pannus, Herbert pits and cicatricial entropion with trichiasis; D to K cause genital infection and inclusion conjunctivitis; L1 to L3 cause LGV.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Chlamydiae",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "E",
+   "stem": "The WHO SAFE strategy for trachoma elimination comprises:",
+   "options": [
+    "Surgery, Antibiotics, Facial cleanliness and Environmental improvement",
+    "Screening, Antibiotics, Follow-up, Education",
+    "Sanitation, Awareness, Food, Exercise",
+    "Surgery, Analgesia, Fluids, Education"
+   ],
+   "correct": 0,
+   "concept": "Lid surgery for trichiasis, mass azithromycin, facial cleanliness to interrupt fly-borne transmission and environmental improvement including latrines and water form the elimination strategy.",
+   "reference": "Park 27e, Trachoma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "M",
+   "stem": "The commonest cause of non-gonococcal urethritis is:",
+   "options": [
+    "Chlamydia trachomatis serotypes D to K",
+    "Neisseria gonorrhoeae",
+    "Treponema pallidum",
+    "Candida"
+   ],
+   "correct": 0,
+   "concept": "Chlamydial urethritis is often asymptomatic, causing pelvic inflammatory disease, tubal infertility and ectopic pregnancy in women and reactive arthritis in HLA-B27 individuals. Doxycycline or azithromycin is used.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Chlamydiae",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "M",
+   "stem": "Mycoplasma differs from all other bacteria in:",
+   "options": [
+    "Lacking a cell wall, making it inherently resistant to beta-lactams",
+    "Having no DNA",
+    "Being obligate intracellular",
+    "Forming spores"
+   ],
+   "correct": 0,
+   "concept": "Absence of peptidoglycan means penicillins and cephalosporins are useless, so macrolides, tetracyclines or fluoroquinolones are used. Mycoplasma is the smallest free-living organism, giving fried-egg colonies on PPLO agar.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Mycoplasma",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "E",
+   "stem": "Mycoplasma pneumoniae infection may be associated with:",
+   "options": [
+    "Cold agglutinin haemolysis and erythema multiforme",
+    "Neutropenia",
+    "Renal failure",
+    "Endocarditis"
+   ],
+   "correct": 0,
+   "concept": "Anti-I cold agglutinins cause haemolysis, and extrapulmonary manifestations include erythema multiforme, bullous myringitis, Guillain-Barre syndrome and arthritis. Radiographic changes exceed the clinical findings.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Mycoplasma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "H",
+   "stem": "Q fever is distinctive among rickettsial diseases because it:",
+   "options": [
+    "Is acquired by inhalation, has no rash, and may cause culture-negative endocarditis",
+    "Always has a rash",
+    "Is louse-borne",
+    "Is never chronic"
+   ],
+   "correct": 0,
+   "concept": "Coxiella burnetii is highly infectious by aerosol, causing pneumonia and hepatitis without the rash typical of other rickettsioses, and chronic infection presents as culture-negative endocarditis.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Rickettsiae",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "H",
+   "stem": "Lymphogranuloma venereum characteristically shows:",
+   "options": [
+    "A transient painless ulcer followed by painful matted inguinal nodes with a groove sign",
+    "Multiple painful ulcers",
+    "A single indurated painless ulcer",
+    "Vesicles"
+   ],
+   "correct": 0,
+   "concept": "Buboes above and below the inguinal ligament are separated by the ligament producing the groove sign, and may rupture forming sinuses. Doxycycline for 21 days is the treatment.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Chlamydiae",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RIC_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rickettsia, Chlamydia, Mycoplasma",
+   "difficulty": "M",
+   "stem": "The drug of choice for all rickettsial infections is:",
+   "options": [
+    "Doxycycline",
+    "Penicillin",
+    "Gentamicin",
+    "Cotrimoxazole"
+   ],
+   "correct": 0,
+   "concept": "Doxycycline produces defervescence within 48 hours, and this therapeutic response is itself diagnostically useful. Azithromycin is used in pregnancy and young children; beta-lactams are ineffective.",
+   "reference": "KDT 8e, Tetracyclines",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "E",
+   "stem": "The immunoglobulin present in highest concentration in serum is:",
+   "options": [
+    "IgG",
+    "IgA",
+    "IgM",
+    "IgE"
+   ],
+   "correct": 0,
+   "concept": "IgG constitutes about 75% of serum immunoglobulin, is the only class crossing the placenta giving passive neonatal immunity, and predominates in the secondary response. IgA predominates in secretions and IgM in the primary response.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Immunology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "M",
+   "stem": "The first antibody produced in a primary immune response is:",
+   "options": [
+    "IgM, a pentamer and the most efficient complement activator",
+    "IgG",
+    "IgA",
+    "IgE"
+   ],
+   "correct": 0,
+   "concept": "IgM appears first and its pentameric structure makes it the best agglutinator and complement fixer. Detecting specific IgM therefore indicates recent or acute infection, as in dengue or hepatitis A.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Immunology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "M",
+   "stem": "Live attenuated vaccines are contraindicated in:",
+   "options": [
+    "Pregnancy and severe immunodeficiency",
+    "Diabetes",
+    "Hypertension",
+    "Mild fever"
+   ],
+   "correct": 0,
+   "concept": "Live organisms may replicate uncontrollably in immunodeficiency and pose a theoretical fetal risk. BCG, OPV, measles, mumps, rubella, varicella and yellow fever are live; mild illness is not a contraindication.",
+   "reference": "Park 27e, Immunisation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "E",
+   "stem": "Passive immunisation with immunoglobulin provides:",
+   "options": [
+    "Immediate but temporary protection without immunological memory",
+    "Long-lasting immunity",
+    "Memory cells",
+    "Herd immunity"
+   ],
+   "correct": 0,
+   "concept": "Preformed antibody acts at once but wanes over weeks, and is used post-exposure for rabies, tetanus, hepatitis B and diphtheria alongside active immunisation, which provides durable memory but takes time.",
+   "reference": "Park 27e, Immunity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "M",
+   "stem": "The cold chain is required for vaccines because:",
+   "options": [
+    "Heat and, for some vaccines, freezing destroy potency",
+    "Cold increases potency",
+    "It prevents contamination",
+    "It is a legal formality"
+   ],
+   "correct": 0,
+   "concept": "OPV and measles are the most heat-sensitive, while DPT, hepatitis B and TT are damaged by freezing and must never be frozen - a common field error detected by the shake test.",
+   "reference": "Park 27e, Cold Chain",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "M",
+   "stem": "Herd immunity protects unvaccinated individuals by:",
+   "options": [
+    "Reducing the number of susceptible hosts so transmission chains break",
+    "Direct antibody transfer",
+    "Eliminating the pathogen from the environment",
+    "Improving nutrition"
+   ],
+   "correct": 0,
+   "concept": "Herd immunity works only for person-to-person transmitted infections; it does not apply to tetanus, which is acquired from the environment, so every individual must be immunised.",
+   "reference": "Park 27e, Immunity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "E",
+   "stem": "The complement pathway activated directly by antigen-antibody complexes is:",
+   "options": [
+    "The classical pathway",
+    "The alternative pathway",
+    "The lectin pathway",
+    "None"
+   ],
+   "correct": 0,
+   "concept": "IgM or IgG immune complexes bind C1q initiating the classical pathway; the alternative pathway is activated directly by microbial surfaces and the lectin pathway by mannose-binding lectin, all converging on C3.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Immunology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "H",
+   "stem": "ELISA detects antigen or antibody using:",
+   "options": [
+    "An enzyme-linked conjugate producing a measurable colour change",
+    "Radioisotopes",
+    "Fluorescent microscopy only",
+    "Agglutination"
+   ],
+   "correct": 0,
+   "concept": "ELISA is sensitive, quantifiable and suited to large-scale screening as in HIV and hepatitis testing. Western blot, detecting antibodies to separated proteins, was traditionally the confirmatory test.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Immunology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "H",
+   "stem": "Natural killer cells differ from cytotoxic T cells in that they:",
+   "options": [
+    "Kill without prior sensitisation and are inhibited by MHC class I",
+    "Require MHC presentation",
+    "Are antibody-producing",
+    "Are part of adaptive immunity"
+   ],
+   "correct": 0,
+   "concept": "NK cells detect missing self - loss of MHC class I on virus-infected or tumour cells - and also kill via antibody-dependent cellular cytotoxicity through CD16, bridging innate and adaptive immunity.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Immunology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_IMM_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+   "difficulty": "M",
+   "stem": "BCG is given intradermally rather than subcutaneously because:",
+   "options": [
+    "Deeper injection causes abscess formation and ulceration",
+    "It is less painful",
+    "It is absorbed better",
+    "It requires a smaller dose"
+   ],
+   "correct": 0,
+   "concept": "Intradermal injection over the left deltoid insertion produces a wheal, then a papule, pustule and healed scar over 6 to 12 weeks. Subcutaneous injection causes cold abscess and axillary lymphadenitis.",
+   "reference": "Park 27e, BCG Vaccine",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

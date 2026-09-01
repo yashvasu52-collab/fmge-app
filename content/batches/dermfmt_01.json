@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_DE_PIG_001",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "E",
+   "stem": "Vitiligo is characterised by:",
+   "options": [
+    "Depigmented macules with autoimmune destruction of melanocytes",
+    "Hypopigmented anaesthetic patches",
+    "Hyperpigmentation",
+    "Scaling"
+   ],
+   "correct": 0,
+   "concept": "Well-defined chalk-white macules that fluoresce under Wood lamp, often around orifices and over bony prominences, with associated thyroid disease, diabetes and pernicious anaemia. Sensation is normal, unlike leprosy.",
+   "reference": "IADVL Textbook of Dermatology 5e, Pigmentary Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_002",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "M",
+   "stem": "The most important differential of a hypopigmented patch in India that must be excluded is:",
+   "options": [
+    "Leprosy, by testing sensation and examining nerves",
+    "Vitiligo",
+    "Melasma",
+    "Freckles"
+   ],
+   "correct": 0,
+   "concept": "An anaesthetic hypopigmented patch with thickened peripheral nerves indicates tuberculoid leprosy. Pityriasis alba and post-inflammatory hypopigmentation are other differentials, but only leprosy has sensory loss.",
+   "reference": "Park 27e, Leprosy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_003",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "M",
+   "stem": "Melasma is characteristically:",
+   "options": [
+    "Symmetrical brown facial pigmentation worsened by sun and hormones",
+    "Depigmented",
+    "Unilateral",
+    "Associated with anaesthesia"
+   ],
+   "correct": 0,
+   "concept": "Melasma affects the malar, centrofacial and mandibular areas of women, aggravated by pregnancy, oral contraceptives and ultraviolet light. Strict photoprotection is essential; hydroquinone and triple combination creams are used.",
+   "reference": "IADVL Textbook of Dermatology 5e, Pigmentary Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_004",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "E",
+   "stem": "The mainstay of medical treatment for limited stable vitiligo is:",
+   "options": [
+    "Topical corticosteroids or calcineurin inhibitors with phototherapy",
+    "Antibiotics",
+    "Antifungals",
+    "Antihistamines"
+   ],
+   "correct": 0,
+   "concept": "Repigmentation arises from follicular melanocyte reservoirs, so hairy areas respond better than acral skin and lips. Narrowband UVB is used for extensive disease and surgical grafting for stable resistant patches.",
+   "reference": "IADVL Textbook of Dermatology 5e, Pigmentary Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_005",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "M",
+   "stem": "Albinism results from:",
+   "options": [
+    "A defect in melanin synthesis with a normal number of melanocytes",
+    "Absence of melanocytes",
+    "Autoimmune destruction",
+    "Excess melanin"
+   ],
+   "correct": 0,
+   "concept": "Oculocutaneous albinism, often from tyrosinase deficiency, causes white skin and hair with photophobia, nystagmus and reduced acuity. Rigorous sun protection is essential given the high risk of skin cancer.",
+   "reference": "IADVL Textbook of Dermatology 5e, Pigmentary Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_006",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "M",
+   "stem": "Ichthyosis vulgaris is characterised by:",
+   "options": [
+    "Fine fish-like scaling with hyperlinear palms, sparing the flexures",
+    "Scaling of flexures",
+    "Blistering",
+    "Pustules"
+   ],
+   "correct": 0,
+   "concept": "Filaggrin mutations impair barrier formation, causing dry scaly skin with prominent palmar markings and strong association with atopic dermatitis. Flexural sparing distinguishes it from other ichthyoses.",
+   "reference": "IADVL Textbook of Dermatology 5e, Genodermatoses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_007",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "E",
+   "stem": "Cafe-au-lait macules numbering six or more, over 15 mm in an adult, suggest:",
+   "options": [
+    "Neurofibromatosis type 1",
+    "Tuberous sclerosis",
+    "Vitiligo",
+    "Melasma"
+   ],
+   "correct": 0,
+   "concept": "NF1 diagnostic criteria also include axillary or inguinal freckling, two or more neurofibromas, optic glioma, Lisch nodules, a distinctive bony lesion and an affected first-degree relative.",
+   "reference": "IADVL Textbook of Dermatology 5e, Genodermatoses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_008",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "H",
+   "stem": "Ash-leaf macules and adenoma sebaceum (facial angiofibromas) with seizures indicate:",
+   "options": [
+    "Tuberous sclerosis",
+    "Neurofibromatosis",
+    "Sturge-Weber syndrome",
+    "Incontinentia pigmenti"
+   ],
+   "correct": 0,
+   "concept": "Tuberous sclerosis shows hypomelanotic ash-leaf macules best seen under Wood lamp, shagreen patch, periungual fibromas, cortical tubers with epilepsy, and renal angiomyolipomas and cardiac rhabdomyomas.",
+   "reference": "IADVL Textbook of Dermatology 5e, Genodermatoses",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_009",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "H",
+   "stem": "Epidermolysis bullosa is characterised by:",
+   "options": [
+    "Blistering at sites of minor trauma from inherited defects in structural adhesion proteins",
+    "Autoimmune blistering",
+    "Infective blistering",
+    "Drug-induced blistering"
+   ],
+   "correct": 0,
+   "concept": "Simplex, junctional and dystrophic forms are defined by the level of split - intraepidermal, lamina lucida and sublamina densa respectively. Management is supportive with meticulous wound care and avoidance of friction.",
+   "reference": "IADVL Textbook of Dermatology 5e, Genodermatoses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_PIG_010",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pigmentary disorders (vitiligo, melasma) & genodermatoses",
+   "difficulty": "M",
+   "stem": "Post-inflammatory hyperpigmentation is particularly troublesome in Indian skin because:",
+   "options": [
+    "Higher constitutive melanin means inflammation readily provokes lasting pigment change",
+    "There is less melanin",
+    "It never occurs",
+    "It resolves in days"
+   ],
+   "correct": 0,
+   "concept": "Fitzpatrick types IV to VI pigment readily after acne, eczema or any dermatitis, so treating the underlying inflammation early and rigorous photoprotection matter more than depigmenting agents alone.",
+   "reference": "IADVL Textbook of Dermatology 5e, Pigmentary Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_001",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "E",
+   "stem": "Stevens-Johnson syndrome and toxic epidermal necrolysis are distinguished by:",
+   "options": [
+    "The percentage of body surface area with epidermal detachment - under 10 percent versus over 30 percent",
+    "The causative drug",
+    "Presence of fever",
+    "Mucosal involvement"
+   ],
+   "correct": 0,
+   "concept": "SJS involves under 10%, overlap 10 to 30% and TEN over 30% detachment. Both are severe cutaneous adverse reactions with mucosal involvement, and mortality is predicted by the SCORTEN score.",
+   "reference": "IADVL Textbook of Dermatology 5e, Drug Reactions",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_002",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "M",
+   "stem": "The drugs most commonly implicated in Stevens-Johnson syndrome and TEN include:",
+   "options": [
+    "Sulphonamides, anticonvulsants, allopurinol and NSAIDs",
+    "Penicillins only",
+    "Antifungals",
+    "Antihypertensives"
+   ],
+   "correct": 0,
+   "concept": "Cotrimoxazole, carbamazepine, phenytoin, lamotrigine, nevirapine, allopurinol and oxicam NSAIDs are the classic culprits. HLA-B*1502 predicts carbamazepine-induced SJS in South Asian populations.",
+   "reference": "IADVL Textbook of Dermatology 5e, Drug Reactions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_003",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "M",
+   "stem": "The single most important step in managing toxic epidermal necrolysis is:",
+   "options": [
+    "Immediate withdrawal of the offending drug with supportive burns-unit care",
+    "Systemic steroids",
+    "Antibiotics for all",
+    "Topical steroids"
+   ],
+   "correct": 0,
+   "concept": "Early withdrawal improves survival. Management mirrors burns care - fluid balance, temperature control, nutrition, wound care, ophthalmology input and infection surveillance. The role of steroids and IVIG remains debated.",
+   "reference": "IADVL Textbook of Dermatology 5e, Drug Reactions",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_004",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "E",
+   "stem": "A fixed drug eruption is characterised by:",
+   "options": [
+    "A well-defined dusky plaque recurring at exactly the same site on re-exposure",
+    "Widespread rash",
+    "Changing sites",
+    "Blistering only"
+   ],
+   "correct": 0,
+   "concept": "Fixed drug eruption recurs at identical sites, often lips, genitalia or hands, leaving post-inflammatory hyperpigmentation. Cotrimoxazole, NSAIDs, tetracyclines and paracetamol are common causes.",
+   "reference": "IADVL Textbook of Dermatology 5e, Drug Reactions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_005",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "M",
+   "stem": "DRESS syndrome is characterised by:",
+   "options": [
+    "Rash with fever, eosinophilia, lymphadenopathy and internal organ involvement, appearing 2 to 6 weeks after the drug",
+    "Immediate onset",
+    "Absence of eosinophilia",
+    "No systemic features"
+   ],
+   "correct": 0,
+   "concept": "The long latency distinguishes DRESS from other drug eruptions, and hepatitis, nephritis and myocarditis may persist after drug withdrawal. Anticonvulsants, allopurinol and dapsone are typical causes.",
+   "reference": "IADVL Textbook of Dermatology 5e, Drug Reactions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_006",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "M",
+   "stem": "The ABCDE criteria for suspecting melanoma stand for:",
+   "options": [
+    "Asymmetry, Border irregularity, Colour variation, Diameter over 6 mm and Evolution",
+    "Area, Bleeding, Crust, Depth, Erythema",
+    "Age, Bleeding, Colour, Diameter, Elevation",
+    "Asymmetry, Bleeding, Crust, Diameter, Erythema"
+   ],
+   "correct": 0,
+   "concept": "Any changing pigmented lesion warrants excision biopsy with a narrow margin for histology, followed by wide local excision guided by Breslow thickness. Incisional or shave biopsy is avoided.",
+   "reference": "IADVL Textbook of Dermatology 5e, Skin Tumours",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_007",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "E",
+   "stem": "Basal cell carcinoma most characteristically presents as:",
+   "options": [
+    "A pearly nodule with rolled edges and telangiectasia on sun-exposed skin",
+    "A pigmented macule",
+    "An ulcer with everted edges",
+    "A scaly plaque on the trunk"
+   ],
+   "correct": 0,
+   "concept": "BCC arises on the face above a line from the angle of the mouth to the ear lobe, is locally invasive as a rodent ulcer but essentially never metastasises. Squamous carcinoma has everted edges and does metastasise.",
+   "reference": "IADVL Textbook of Dermatology 5e, Skin Tumours",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_008",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "H",
+   "stem": "Acral lentiginous melanoma is important in Indian patients because it:",
+   "options": [
+    "Occurs on palms, soles and nail beds where it is easily missed and presents late",
+    "Is the commonest type worldwide",
+    "Never metastasises",
+    "Is always pigmented"
+   ],
+   "correct": 0,
+   "concept": "It is the commonest melanoma subtype in darker-skinned and Asian populations. Longitudinal melanonychia with Hutchinson sign of periungual pigment spread is an important warning sign.",
+   "reference": "IADVL Textbook of Dermatology 5e, Skin Tumours",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_009",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "H",
+   "stem": "The quantity of topical steroid needed is estimated using:",
+   "options": [
+    "The fingertip unit, approximately 0.5 g covering two adult palm areas",
+    "Grams per kilogram",
+    "Tablespoons",
+    "Body weight"
+   ],
+   "correct": 0,
+   "concept": "One fingertip unit is the amount from the distal crease to the fingertip of an adult index finger. This standardises prescribing, prevents both underuse from steroid phobia and overuse causing atrophy.",
+   "reference": "IADVL Textbook of Dermatology 5e, Topical Therapy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_DRG_010",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Drug reactions (SJS/TEN), skin tumours & melanoma; topical therapy",
+   "difficulty": "M",
+   "stem": "Topical calcineurin inhibitors such as tacrolimus are valuable because they:",
+   "options": [
+    "Provide steroid-sparing anti-inflammatory action without causing skin atrophy",
+    "Are more potent than steroids",
+    "Are antibacterial",
+    "Cause no irritation"
+   ],
+   "correct": 0,
+   "concept": "They are particularly useful on the face, eyelids and flexures where prolonged steroid use causes atrophy and telangiectasia. Transient burning on application is the commonest side effect.",
+   "reference": "KDT 8e, Immunosuppressants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_001",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "E",
+   "stem": "The most reliable method of establishing personal identity is:",
+   "options": [
+    "Fingerprints (dactylography), as they are unique and unchanging",
+    "Height",
+    "Tattoo marks",
+    "Clothing"
+   ],
+   "correct": 0,
+   "concept": "Dermal ridge patterns form by the fourth month of fetal life, remain unchanged throughout life and are destroyed only by deep dermal damage. Loops are commonest, followed by whorls, arches and composites.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_002",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "M",
+   "stem": "Age estimation in a living person aged 15 to 21 years relies chiefly on:",
+   "options": [
+    "Radiological assessment of epiphyseal fusion",
+    "Dentition alone",
+    "Height and weight",
+    "Fingerprints"
+   ],
+   "correct": 0,
+   "concept": "Ossification centres appear and epiphyses fuse in a predictable sequence, so radiographs of the wrist, elbow, shoulder and pelvis are used. Age assessment matters medico-legally for consent, criminal responsibility and marriage.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_003",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "M",
+   "stem": "Sex determination from skeletal remains is most reliable using:",
+   "options": [
+    "The pelvis, followed by the skull",
+    "The femur",
+    "The humerus",
+    "The ribs"
+   ],
+   "correct": 0,
+   "concept": "The female pelvis is broader with a wider subpubic angle above 90 degrees, a larger circular inlet and a wider greater sciatic notch. The pelvis gives about 95% accuracy, and with the skull about 98%.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_004",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "E",
+   "stem": "DNA fingerprinting for identity is best performed on:",
+   "options": [
+    "Any nucleated cell source such as blood, hair root, bone or tissue",
+    "Mature red blood cells",
+    "Sweat only",
+    "Urine only"
+   ],
+   "correct": 0,
+   "concept": "Mature erythrocytes lack nuclei, so DNA comes from leucocytes in blood. Mitochondrial DNA is maternally inherited and useful for degraded remains and hair shafts without roots.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_005",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "M",
+   "stem": "The Gustafson method estimates age from:",
+   "options": [
+    "Age-related changes in teeth including attrition, secondary dentine and root resorption",
+    "Bone density",
+    "Hair colour",
+    "Skin elasticity"
+   ],
+   "correct": 0,
+   "concept": "Gustafson scores six dental parameters - attrition, periodontosis, secondary dentine, cementum apposition, root resorption and root transparency - each 0 to 3, and is applied to adults where epiphyses have fused.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_006",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "M",
+   "stem": "Stature can be estimated from long bones using:",
+   "options": [
+    "Regression formulae such as those of Trotter and Gleser, applied to the femur or tibia",
+    "Skull circumference",
+    "Rib length",
+    "Vertebral count"
+   ],
+   "correct": 0,
+   "concept": "Long bones of the lower limb correlate best with height. Formulae are population and sex specific, so applying Western formulae to Indian remains introduces error - hence Indian-specific tables are used.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_007",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "E",
+   "stem": "Corpus delicti in forensic medicine refers to:",
+   "options": [
+    "The essential facts constituting the crime, including identification of the body",
+    "Only the dead body",
+    "The murder weapon",
+    "The crime scene"
+   ],
+   "correct": 0,
+   "concept": "Establishing identity of the deceased is a fundamental part of the corpus delicti, without which a charge of homicide cannot proceed - which is why identification is a core forensic responsibility.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_008",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "H",
+   "stem": "Superimposition technique for identification involves:",
+   "options": [
+    "Photographic or video comparison of a skull with an antemortem photograph of the suspected individual",
+    "Fingerprint matching",
+    "DNA analysis",
+    "Dental casting"
+   ],
+   "correct": 0,
+   "concept": "Anatomical landmarks of the skull are superimposed on a life-size photograph. It is chiefly a method of exclusion rather than positive identification, and is used when other methods are unavailable.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_009",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "H",
+   "stem": "Tattoo marks are useful for identification but their limitation is that they:",
+   "options": [
+    "Can be removed or altered, and pigment may spread to regional lymph nodes",
+    "Are permanent and unalterable",
+    "Are unique like fingerprints",
+    "Cannot be seen after death"
+   ],
+   "correct": 0,
+   "concept": "Tattoos may be surgically or chemically removed leaving a scar, and are chosen so they may be shared by groups. Pigment in draining nodes can reveal a removed tattoo, and infrared photography may recover faded designs.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_ID_010",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Identification: age, sex, dactylography, DNA, anthropometry",
+   "difficulty": "M",
+   "stem": "The Bertillon system of identification was based on:",
+   "options": [
+    "Anthropometric body measurements, now superseded by fingerprinting",
+    "Fingerprints",
+    "DNA",
+    "Dental records"
+   ],
+   "correct": 0,
+   "concept": "Bertillonage used a series of body measurements but was abandoned because measurements change with age and can coincide between individuals, unlike the unique and permanent fingerprint.",
+   "reference": "Reddy Forensic Medicine 35e, Identification",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

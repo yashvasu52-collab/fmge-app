@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_ENT_VER_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "E",
+   "stem": "The classical triad of Meniere disease is:",
+   "options": [
+    "Episodic vertigo, fluctuating sensorineural hearing loss and tinnitus with aural fullness",
+    "Vertigo, facial palsy and otorrhoea",
+    "Conductive deafness, tinnitus and otalgia",
+    "Headache, vomiting and diplopia"
+   ],
+   "correct": 0,
+   "concept": "Meniere disease results from endolymphatic hydrops, giving episodic vertigo lasting 20 minutes to several hours, low-frequency fluctuating sensorineural loss, tinnitus and aural fullness. Salt restriction, betahistine and diuretics are used.",
+   "reference": "Dhingra ENT 7e, Meniere's Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "M",
+   "stem": "Benign paroxysmal positional vertigo is diagnosed by:",
+   "options": [
+    "The Dix-Hallpike test provoking rotatory nystagmus with a latent period and fatigability",
+    "Weber test",
+    "Caloric test only",
+    "Pure tone audiometry"
+   ],
+   "correct": 0,
+   "concept": "BPPV is due to canalolithiasis of the posterior semicircular canal. A positive Dix-Hallpike shows brief rotatory nystagmus with 2 to 20 second latency that fatigues on repetition, and is treated by the Epley repositioning manoeuvre.",
+   "reference": "Dhingra ENT 7e, Vertigo",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "M",
+   "stem": "Vertigo lasting several days with hearing loss and no neurological signs, following a viral illness, suggests:",
+   "options": [
+    "Labyrinthitis",
+    "Vestibular neuronitis",
+    "BPPV",
+    "Meniere disease"
+   ],
+   "correct": 0,
+   "concept": "Labyrinthitis affects both cochlear and vestibular components, giving vertigo with hearing loss, whereas vestibular neuronitis spares hearing. Both last days and settle with vestibular sedatives and early rehabilitation exercises.",
+   "reference": "Dhingra ENT 7e, Vertigo",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "E",
+   "stem": "In the caloric test, cold water irrigation of the ear produces nystagmus with the fast component directed:",
+   "options": [
+    "To the opposite side",
+    "To the same side",
+    "Vertically upward",
+    "Rotatory only"
+   ],
+   "correct": 0,
+   "concept": "The mnemonic COWS - Cold Opposite, Warm Same - describes the direction of the fast phase. Canal paresis indicates a peripheral vestibular lesion and the test can be performed in unconscious patients to assess brainstem function.",
+   "reference": "Ganong Review of Medical Physiology; Dhingra ENT 7e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "M",
+   "stem": "Bell palsy is characterised by:",
+   "options": [
+    "Lower motor neuron facial palsy with inability to wrinkle the forehead on the affected side",
+    "Sparing of the forehead",
+    "Isolated lower lip weakness",
+    "Bilateral ptosis"
+   ],
+   "correct": 0,
+   "concept": "A lower motor neuron lesion affects the whole hemiface including the frontalis, unlike an upper motor neuron lesion where bilateral cortical innervation spares the forehead. Bell palsy is idiopathic, possibly HSV-related, treated with early corticosteroids.",
+   "reference": "Dhingra ENT 7e, Facial Nerve",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "M",
+   "stem": "Facial palsy with vesicles in the external auditory canal and severe otalgia indicates:",
+   "options": [
+    "Ramsay Hunt syndrome from varicella zoster reactivation in the geniculate ganglion",
+    "Bell palsy",
+    "Acoustic neuroma",
+    "Otitis externa"
+   ],
+   "correct": 0,
+   "concept": "Herpes zoster oticus causes painful vesicles in the concha and canal with facial palsy, often with sensorineural deafness and vertigo, and has a poorer recovery than Bell palsy. Treatment is acyclovir with steroids.",
+   "reference": "Dhingra ENT 7e, Facial Nerve",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "E",
+   "stem": "Loss of taste in the anterior two-thirds of the tongue with facial palsy localises the lesion:",
+   "options": [
+    "At or above the level where chorda tympani joins the facial nerve",
+    "Below the stylomastoid foramen",
+    "In the parotid gland",
+    "In the facial nucleus only"
+   ],
+   "correct": 0,
+   "concept": "Topodiagnostic testing localises the lesion: taste loss implies involvement at or proximal to the chorda tympani, hyperacusis implies involvement at or above the nerve to stapedius, and reduced lacrimation implies a lesion at or above the geniculate ganglion.",
+   "reference": "Dhingra ENT 7e, Facial Nerve",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "H",
+   "stem": "Unilateral progressive sensorineural hearing loss with tinnitus and absent corneal reflex suggests:",
+   "options": [
+    "Vestibular schwannoma (acoustic neuroma) at the cerebellopontine angle",
+    "Meniere disease",
+    "Otosclerosis",
+    "Presbycusis"
+   ],
+   "correct": 0,
+   "concept": "A vestibular schwannoma causes asymmetrical sensorineural loss with poor speech discrimination and tinnitus, then trigeminal involvement with a diminished corneal reflex, and later facial and cerebellar signs. Gadolinium MRI is the investigation of choice.",
+   "reference": "Dhingra ENT 7e, Acoustic Neuroma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "H",
+   "stem": "Which feature favours a central rather than peripheral cause of vertigo?",
+   "options": [
+    "Vertical nystagmus that does not fatigue, with other neurological signs",
+    "Severe nausea",
+    "Rotatory nystagmus with latency",
+    "Associated hearing loss"
+   ],
+   "correct": 0,
+   "concept": "Purely vertical or direction-changing nystagmus without latency or fatigue, absent hearing loss and accompanying brainstem or cerebellar signs point to a central lesion needing urgent imaging, whereas peripheral vertigo is intense but self-limiting.",
+   "reference": "Dhingra ENT 7e, Vertigo",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_VER_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+   "difficulty": "M",
+   "stem": "The treatment of an acute attack of Meniere disease is:",
+   "options": [
+    "Vestibular sedatives such as prochlorperazine with reassurance and bed rest",
+    "Immediate labyrinthectomy",
+    "Stapedectomy",
+    "Grommet insertion"
+   ],
+   "correct": 0,
+   "concept": "Acute attacks are managed with vestibular sedatives, antiemetics and hydration. Long-term measures include salt restriction, diuretics and betahistine, with intratympanic gentamicin or surgery reserved for intractable disease.",
+   "reference": "Dhingra ENT 7e, Meniere's Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "E",
+   "stem": "The commonest intracranial complication of chronic suppurative otitis media is:",
+   "options": [
+    "Brain abscess",
+    "Meningitis",
+    "Lateral sinus thrombosis",
+    "Otitic hydrocephalus"
+   ],
+   "correct": 0,
+   "concept": "Brain abscess, usually in the temporal lobe or cerebellum, is the commonest and most lethal intracranial complication of unsafe ear disease; meningitis is the commonest overall intracranial complication in some series, and both demand urgent imaging and surgery.",
+   "reference": "Dhingra ENT 7e, Complications of CSOM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "M",
+   "stem": "Gradenigo syndrome comprises:",
+   "options": [
+    "Otorrhoea, deep retro-orbital pain and sixth nerve palsy from petrositis",
+    "Facial palsy, vertigo and deafness",
+    "Otalgia, trismus and dysphagia",
+    "Proptosis, chemosis and fever"
+   ],
+   "correct": 0,
+   "concept": "Petrous apicitis involves the abducens nerve in Dorello's canal and the trigeminal ganglion, producing the triad of ear discharge, retro-orbital pain and lateral rectus palsy.",
+   "reference": "Dhingra ENT 7e, Complications of CSOM",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "M",
+   "stem": "A positive fistula test, with vertigo and nystagmus on pressing the tragus, indicates:",
+   "options": [
+    "An erosion of the lateral semicircular canal by cholesteatoma",
+    "Otosclerosis",
+    "Otitis externa",
+    "Meniere disease"
+   ],
+   "correct": 0,
+   "concept": "Pressure transmitted through a labyrinthine fistula, usually of the lateral semicircular canal eroded by cholesteatoma, provokes vertigo and nystagmus. It signifies unsafe disease requiring urgent surgery.",
+   "reference": "Dhingra ENT 7e, Complications of CSOM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "E",
+   "stem": "Lateral sinus thrombosis classically causes:",
+   "options": [
+    "Picket-fence fever with rigors and a positive Tobey-Ayer test",
+    "Continuous low-grade fever",
+    "Painless proptosis",
+    "Isolated facial palsy"
+   ],
+   "correct": 0,
+   "concept": "Septic thrombophlebitis of the sigmoid sinus causes swinging picket-fence pyrexia with rigors, tenderness along the jugular vein (Griesinger sign) and failure of CSF pressure to rise on compressing the affected jugular vein (Tobey-Ayer test).",
+   "reference": "Dhingra ENT 7e, Complications of CSOM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "M",
+   "stem": "Otitic hydrocephalus is characterised by:",
+   "options": [
+    "Raised intracranial pressure with normal cerebrospinal fluid composition and no space-occupying lesion",
+    "Purulent CSF",
+    "A temporal lobe abscess",
+    "Ventricular dilatation"
+   ],
+   "correct": 0,
+   "concept": "Despite the name, ventricles are not dilated: raised intracranial pressure follows lateral sinus thrombosis impairing CSF absorption, causing headache, papilloedema and diplopia from sixth nerve palsy, with normal CSF constituents.",
+   "reference": "Dhingra ENT 7e, Complications of CSOM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "M",
+   "stem": "The commonest cause of cerebrospinal fluid rhinorrhoea is:",
+   "options": [
+    "Head trauma with anterior skull base fracture",
+    "Spontaneous leak",
+    "Tumour",
+    "Congenital defect"
+   ],
+   "correct": 0,
+   "concept": "Trauma accounts for most CSF rhinorrhoea, typically through the cribriform plate or fovea ethmoidalis. Beta-2 transferrin in the fluid is the most specific confirmatory test, and high-resolution CT with MR cisternography localises the defect.",
+   "reference": "Dhingra ENT 7e, CSF Rhinorrhoea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "E",
+   "stem": "The most specific laboratory test to confirm that clear nasal discharge is cerebrospinal fluid is:",
+   "options": [
+    "Beta-2 transferrin assay",
+    "Glucose oxidase strip",
+    "Halo sign on filter paper",
+    "Protein estimation"
+   ],
+   "correct": 0,
+   "concept": "Beta-2 transferrin is found almost exclusively in CSF, perilymph and aqueous humour, making it highly specific. Glucose strips and the halo sign are unreliable because nasal secretions and blood confound them.",
+   "reference": "Dhingra ENT 7e, CSF Rhinorrhoea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "H",
+   "stem": "Extradural abscess complicating ear disease is most often located:",
+   "options": [
+    "Between the bone and dura adjacent to the mastoid, often found incidentally at mastoid surgery",
+    "In the cerebellum",
+    "In the cavernous sinus",
+    "In the orbit"
+   ],
+   "correct": 0,
+   "concept": "Erosion of the tegmen or posterior fossa plate lets infection collect between bone and dura; it may be silent with only persistent headache and is frequently discovered during mastoid exploration, which is the treatment.",
+   "reference": "Dhingra ENT 7e, Complications of CSOM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "H",
+   "stem": "Acute mastoiditis is clinically suggested by:",
+   "options": [
+    "Postauricular swelling with the pinna pushed outward, downward and forward with loss of the postauricular sulcus",
+    "Preauricular swelling",
+    "Tender tragus alone",
+    "Trismus"
+   ],
+   "correct": 0,
+   "concept": "Subperiosteal abscess over the mastoid displaces the pinna outward, downward and forward and obliterates the postauricular groove, distinguishing it from otitis externa where tragal tenderness dominates. Treatment is intravenous antibiotics with cortical mastoidectomy.",
+   "reference": "Dhingra ENT 7e, Mastoiditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_CMP_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Complications of ear disease & CSF leak",
+   "difficulty": "M",
+   "stem": "The commonest route of spread of infection from the middle ear to the intracranial cavity is:",
+   "options": [
+    "Direct bone erosion, especially by cholesteatoma",
+    "Haematogenous only",
+    "Lymphatic",
+    "Along the eustachian tube"
+   ],
+   "correct": 0,
+   "concept": "Direct erosion of the tegmen tympani or posterior fossa plate by cholesteatoma or granulation tissue is the usual route, with thrombophlebitis of small veins and preformed pathways such as the oval and round windows also contributing.",
+   "reference": "Dhingra ENT 7e, Complications of CSOM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "E",
+   "stem": "An antrochoanal polyp differs from ethmoidal polyps in that it is:",
+   "options": [
+    "Usually single, unilateral, arises from the maxillary antrum and is commoner in children",
+    "Multiple and bilateral",
+    "Always allergic in origin",
+    "Confined to the ethmoid"
+   ],
+   "correct": 0,
+   "concept": "The antrochoanal (Killian) polyp is solitary and unilateral, arising in the maxillary antrum and prolapsing through the ostium into the choana, commonest in children and young adults. Ethmoidal polyps are multiple, bilateral and allergic, seen in adults.",
+   "reference": "Dhingra ENT 7e, Nasal Polyps",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "M",
+   "stem": "Samter triad consists of:",
+   "options": [
+    "Nasal polyposis, asthma and aspirin sensitivity",
+    "Polyps, deafness and sinusitis",
+    "Asthma, eczema and rhinitis",
+    "Polyps, epistaxis and anosmia"
+   ],
+   "correct": 0,
+   "concept": "Aspirin-exacerbated respiratory disease combines nasal polyposis, asthma and sensitivity to aspirin and other NSAIDs through the shunting of arachidonic acid to leukotrienes. These polyps recur readily after surgery.",
+   "reference": "Dhingra ENT 7e, Nasal Polyps",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "M",
+   "stem": "A juvenile nasopharyngeal angiofibroma characteristically occurs in:",
+   "options": [
+    "Adolescent males, presenting with recurrent profuse epistaxis and nasal obstruction",
+    "Elderly women",
+    "Infants",
+    "Middle-aged men with smoking history"
+   ],
+   "correct": 0,
+   "concept": "This highly vascular benign but locally invasive tumour occurs almost exclusively in adolescent males, arising near the sphenopalatine foramen. Biopsy is contraindicated because of torrential bleeding; contrast CT or angiography is diagnostic and embolisation precedes excision.",
+   "reference": "Dhingra ENT 7e, Nasopharyngeal Angiofibroma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "E",
+   "stem": "Rhinosporidiosis characteristically presents as:",
+   "options": [
+    "A friable, bleeding, strawberry-like polypoidal mass in the nose",
+    "A smooth pale polyp",
+    "An ulcer with cartilage destruction",
+    "A firm submucosal swelling"
+   ],
+   "correct": 0,
+   "concept": "Rhinosporidium seeberi produces a vascular polypoid mass studded with white sporangia resembling a strawberry, bleeding readily on touch. Treatment is wide excision with cauterisation of the base as recurrence is common; dapsone is adjunctive.",
+   "reference": "Dhingra ENT 7e, Granulomatous Diseases of the Nose",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "M",
+   "stem": "Rhinoscleroma is caused by:",
+   "options": [
+    "Klebsiella rhinoscleromatis, with Mikulicz cells on histology",
+    "Rhinosporidium seeberi",
+    "Mycobacterium leprae",
+    "Aspergillus"
+   ],
+   "correct": 0,
+   "concept": "Rhinoscleroma passes through catarrhal, granulomatous and cicatricial stages, with foamy Mikulicz cells and Russell bodies on histology, and causes woody nasal infiltration and stenosis. Prolonged streptomycin or tetracycline with surgery is used.",
+   "reference": "Dhingra ENT 7e, Granulomatous Diseases of the Nose",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "M",
+   "stem": "Invasive fungal sinusitis with black necrotic turbinates in an uncontrolled diabetic with ketoacidosis is caused by:",
+   "options": [
+    "Mucormycosis with broad aseptate hyphae branching at right angles",
+    "Aspergillus with septate hyphae",
+    "Candida",
+    "Histoplasma"
+   ],
+   "correct": 0,
+   "concept": "Rhino-orbito-cerebral mucormycosis invades blood vessels causing thrombosis and necrosis, spreading rapidly to orbit and brain. Treatment is urgent surgical debridement, liposomal amphotericin B and correction of ketoacidosis.",
+   "reference": "Dhingra ENT 7e, Fungal Sinusitis",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "E",
+   "stem": "Unilateral blood-stained nasal discharge with nasal obstruction in an adult should raise suspicion of:",
+   "options": [
+    "A sinonasal malignancy or foreign body",
+    "Allergic rhinitis",
+    "Vasomotor rhinitis",
+    "Common cold"
+   ],
+   "correct": 0,
+   "concept": "Unilateral symptoms in an adult are a red flag: malignancy, inverted papilloma or a retained foreign body must be excluded by endoscopy and imaging, whereas allergic and vasomotor rhinitis are bilateral.",
+   "reference": "Dhingra ENT 7e, Tumours of Nasal Cavity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "H",
+   "stem": "Occupational exposure to hardwood dust is specifically associated with:",
+   "options": [
+    "Adenocarcinoma of the ethmoid sinus",
+    "Squamous carcinoma of the larynx",
+    "Nasopharyngeal carcinoma",
+    "Mesothelioma"
+   ],
+   "correct": 0,
+   "concept": "Woodworkers exposed to hardwood dust have a markedly increased risk of ethmoidal adenocarcinoma, an established occupational cancer; nickel exposure is linked to squamous carcinoma of the nasal cavity.",
+   "reference": "Park 27e, Occupational Cancer",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "H",
+   "stem": "Nasopharyngeal carcinoma is strongly associated with:",
+   "options": [
+    "Epstein-Barr virus infection, with a high incidence in southern China",
+    "Human papillomavirus 6",
+    "Cytomegalovirus",
+    "Hepatitis B"
+   ],
+   "correct": 0,
+   "concept": "Undifferentiated nasopharyngeal carcinoma is EBV-associated and often presents with a painless upper cervical node, unilateral serous otitis media from eustachian obstruction, epistaxis and cranial nerve palsies. It is radiosensitive.",
+   "reference": "Dhingra ENT 7e, Nasopharyngeal Carcinoma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_NAS_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+   "difficulty": "M",
+   "stem": "The commonest site of epistaxis in children is:",
+   "options": [
+    "Little's area on the anterior nasal septum",
+    "The sphenopalatine artery posteriorly",
+    "Woodruff plexus",
+    "The ethmoidal arteries"
+   ],
+   "correct": 0,
+   "concept": "Little's area contains Kiesselbach plexus, an anastomosis of the anterior ethmoidal, sphenopalatine, greater palatine and superior labial arteries, and accounts for most anterior epistaxis in children, controlled by pinching and cautery.",
+   "reference": "Dhingra ENT 7e, Epistaxis",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

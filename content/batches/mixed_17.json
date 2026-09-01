@@ -1,0 +1,488 @@
+{
+ "questions": [
+  {
+   "id": "Q_PAT_CYT_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "E",
+   "stem": "The Papanicolaou smear is primarily a screening test for:",
+   "options": [
+    "Cervical intraepithelial neoplasia and cervical carcinoma",
+    "Endometrial carcinoma",
+    "Ovarian carcinoma",
+    "Vaginal infection"
+   ],
+   "correct": 0,
+   "concept": "The Pap smear samples the transformation zone to detect dysplastic squamous cells, reported by the Bethesda system. It has reduced cervical cancer mortality dramatically; HPV DNA testing now complements or replaces it in many programmes.",
+   "reference": "Robbins & Cotran 10e, The Female Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "M",
+   "stem": "The principal limitation of fine needle aspiration cytology compared with biopsy is that it:",
+   "options": [
+    "Cannot assess tissue architecture or capsular and vascular invasion",
+    "Is more painful",
+    "Requires general anaesthesia",
+    "Cannot be repeated"
+   ],
+   "correct": 0,
+   "concept": "FNAC provides cells without architecture, so it cannot distinguish follicular adenoma from carcinoma or in situ from invasive carcinoma. It is nonetheless quick, cheap, safe and highly accurate for many lesions.",
+   "reference": "Robbins & Cotran 10e, Laboratory Techniques",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "M",
+   "stem": "The standard fixative for routine histopathology is:",
+   "options": [
+    "Ten percent neutral buffered formalin",
+    "Absolute alcohol",
+    "Bouin fluid",
+    "Glutaraldehyde"
+   ],
+   "correct": 0,
+   "concept": "Formalin cross-links proteins, preserving morphology and antigenicity for immunohistochemistry. Glutaraldehyde is used for electron microscopy, and fresh unfixed tissue is needed for frozen section and some molecular studies.",
+   "reference": "Robbins & Cotran 10e, Laboratory Techniques",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "E",
+   "stem": "Frozen section during surgery is chiefly used to:",
+   "options": [
+    "Give a rapid intraoperative diagnosis and assess margins",
+    "Provide the definitive diagnosis in all cases",
+    "Replace paraffin sections",
+    "Perform immunohistochemistry"
+   ],
+   "correct": 0,
+   "concept": "Frozen section answers immediate operative questions - is it malignant, are margins clear, is the tissue adequate - within minutes, but has lower morphological quality, so paraffin sections remain the definitive diagnosis.",
+   "reference": "Robbins & Cotran 10e, Laboratory Techniques",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "M",
+   "stem": "Cytokeratin positivity on immunohistochemistry indicates a tumour of:",
+   "options": [
+    "Epithelial origin",
+    "Mesenchymal origin",
+    "Lymphoid origin",
+    "Melanocytic origin"
+   ],
+   "correct": 0,
+   "concept": "Cytokeratin marks carcinoma, vimentin sarcoma, LCA (CD45) lymphoma and S-100 with HMB-45 and Melan-A melanoma. This panel is the standard approach to an undifferentiated malignant tumour.",
+   "reference": "Robbins & Cotran 10e, Laboratory Techniques",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "M",
+   "stem": "Immunohistochemistry for oestrogen receptor, progesterone receptor and HER2 in breast cancer is primarily:",
+   "options": [
+    "Predictive of response to endocrine and anti-HER2 therapy",
+    "Diagnostic of malignancy",
+    "A grading system",
+    "A staging tool"
+   ],
+   "correct": 0,
+   "concept": "Receptor status guides treatment selection rather than establishing diagnosis: ER and PR positivity predicts benefit from tamoxifen or aromatase inhibitors, and HER2 overexpression predicts benefit from trastuzumab.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "E",
+   "stem": "A medico-legal autopsy differs from a clinical autopsy in that it:",
+   "options": [
+    "Is ordered by a legal authority and does not require relatives' consent",
+    "Requires family consent",
+    "Is done only in hospitals",
+    "Is optional"
+   ],
+   "correct": 0,
+   "concept": "A medico-legal or forensic autopsy is conducted on the order of a magistrate or police in unnatural, suspicious or unexplained deaths, and consent of relatives is not required, unlike a clinical autopsy performed for academic purposes.",
+   "reference": "Reddy Forensic Medicine 35e, Autopsy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "H",
+   "stem": "Flow cytometry is most useful in the diagnosis of:",
+   "options": [
+    "Haematolymphoid malignancies by immunophenotyping",
+    "Solid epithelial tumours",
+    "Bone tumours",
+    "Amyloidosis"
+   ],
+   "correct": 0,
+   "concept": "Flow cytometry rapidly quantifies surface and cytoplasmic antigens on cell suspensions, classifying leukaemias and lymphomas, detecting minimal residual disease, and diagnosing paroxysmal nocturnal haemoglobinuria by CD55/CD59 loss.",
+   "reference": "Robbins & Cotran 10e, Laboratory Techniques",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "H",
+   "stem": "Fluorescence in situ hybridisation (FISH) is used in pathology to:",
+   "options": [
+    "Detect specific chromosomal translocations, deletions and gene amplification in tissue sections",
+    "Measure enzyme activity",
+    "Stain for iron",
+    "Assess tissue fixation"
+   ],
+   "correct": 0,
+   "concept": "FISH uses labelled probes to visualise genetic abnormalities directly in cells, such as HER2 amplification in breast cancer, BCR-ABL1 in CML and EWSR1 rearrangement in Ewing sarcoma.",
+   "reference": "Robbins & Cotran 10e, Laboratory Techniques",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CYT_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cytopathology, IHC, autopsy & lab techniques",
+   "difficulty": "M",
+   "stem": "Liquid-based cytology offers which advantage over conventional Pap smears?",
+   "options": [
+    "Reduced obscuring blood and inflammation with fewer unsatisfactory smears and the option of HPV testing on the same sample",
+    "Lower cost",
+    "No need for a speculum",
+    "Immediate results"
+   ],
+   "correct": 0,
+   "concept": "Cells are suspended in preservative and deposited as a thin uniform layer, removing debris and allowing reflex HPV testing from the same vial, though it is more expensive than conventional smears.",
+   "reference": "Robbins & Cotran 10e, The Female Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "E",
+   "stem": "In a plain area, one primary health centre serves a population of:",
+   "options": [
+    "30,000",
+    "5,000",
+    "1,00,000",
+    "10,000"
+   ],
+   "correct": 0,
+   "concept": "A PHC covers 30,000 population in plain areas and 20,000 in hilly, tribal and difficult terrain, with a subcentre for 5,000 (3,000 in hilly areas) and a community health centre for 1,20,000 (80,000 in hilly areas).",
+   "reference": "Park 27e, Health Care of the Community",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "M",
+   "stem": "A community health centre is required to have how many specialists?",
+   "options": [
+    "Four - physician, surgeon, obstetrician-gynaecologist and paediatrician",
+    "One",
+    "Two",
+    "Six"
+   ],
+   "correct": 0,
+   "concept": "A CHC has 30 beds with four specialists and serves as the first referral unit with operation theatre, labour room, X-ray and laboratory, providing emergency obstetric and newborn care.",
+   "reference": "Park 27e, Health Care of the Community",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "M",
+   "stem": "The ASHA (Accredited Social Health Activist) is:",
+   "options": [
+    "An honorary female community volunteer, one per 1,000 population, working on a performance-based incentive",
+    "A salaried government nurse",
+    "A doctor",
+    "A sanitary inspector"
+   ],
+   "correct": 0,
+   "concept": "ASHAs are selected from and by the community, preferably married, widowed or divorced women aged 25 to 45 with at least eight years of schooling, acting as the link between the community and the health system.",
+   "reference": "Park 27e, Health Care of the Community",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "E",
+   "stem": "Health and Wellness Centres under Ayushman Bharat aim to deliver:",
+   "options": [
+    "Comprehensive primary health care including non-communicable disease screening, expanding beyond selective RCH services",
+    "Only maternal care",
+    "Only immunisation",
+    "Tertiary care"
+   ],
+   "correct": 0,
+   "concept": "HWCs upgrade subcentres and PHCs to deliver twelve packages of comprehensive primary care including NCD screening, mental health, elderly, palliative and oral health, staffed by a mid-level Community Health Officer.",
+   "reference": "Park 27e, National Health Programmes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "M",
+   "stem": "The Indian Public Health Standards (IPHS) were introduced to:",
+   "options": [
+    "Define minimum assured standards of infrastructure, manpower and services at each level of care",
+    "Set drug prices",
+    "Regulate private hospitals",
+    "License doctors"
+   ],
+   "correct": 0,
+   "concept": "IPHS provides benchmarks for facilities from subcentre to district hospital, covering staffing, equipment, drugs and services, enabling monitoring and quality improvement under the National Health Mission.",
+   "reference": "Park 27e, Health Care of the Community",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "M",
+   "stem": "The Village Health Sanitation and Nutrition Committee functions at the level of:",
+   "options": [
+    "The gram panchayat, with untied funds for local health action",
+    "The district",
+    "The state",
+    "The block only"
+   ],
+   "correct": 0,
+   "concept": "VHSNCs decentralise planning and hold untied funds for local health, sanitation and nutrition priorities, promoting community participation and accountability under the National Health Mission.",
+   "reference": "Park 27e, Health Care of the Community",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "E",
+   "stem": "The referral chain in the Indian rural health system runs:",
+   "options": [
+    "Subcentre to PHC to CHC to district hospital",
+    "PHC to subcentre to CHC",
+    "District hospital to CHC to PHC",
+    "Subcentre to district hospital directly"
+   ],
+   "correct": 0,
+   "concept": "Care is organised in tiers with progressively greater capability, so that most problems are managed close to home and only those needing specialist input are referred upward - the essence of primary health care.",
+   "reference": "Park 27e, Health Care of the Community",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "H",
+   "stem": "The Alma-Ata Declaration of 1978 is best remembered for:",
+   "options": [
+    "Defining primary health care and the goal of Health for All by 2000",
+    "Establishing the WHO",
+    "Launching the smallpox eradication programme",
+    "Creating the Millennium Development Goals"
+   ],
+   "correct": 0,
+   "concept": "Alma-Ata defined primary health care as essential care that is universally accessible, acceptable and affordable with full community participation, resting on the principles of equitable distribution, community participation, intersectoral coordination and appropriate technology.",
+   "reference": "Park 27e, Health Care of the Community",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "H",
+   "stem": "The Bhore Committee (1946) is significant because it recommended:",
+   "options": [
+    "Integration of preventive and curative services with a three-tier health system and the primary health centre concept",
+    "Privatisation of health care",
+    "Abolition of PHCs",
+    "Only urban hospitals"
+   ],
+   "correct": 0,
+   "concept": "The Health Survey and Development Committee under Sir Joseph Bhore laid the foundation of India's public health system, proposing short and long-term plans with PHCs, and the principle that no one should be denied care for inability to pay.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_HCD_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+   "difficulty": "M",
+   "stem": "The Mid-Level Health Provider posted at a Health and Wellness Centre is:",
+   "options": [
+    "A Community Health Officer - a BSc nursing or Ayurveda graduate with a certificate in community health",
+    "An MBBS doctor",
+    "A specialist",
+    "A pharmacist"
+   ],
+   "correct": 0,
+   "concept": "The Community Health Officer leads the HWC team, providing expanded primary care services, screening for common NCDs and supporting ASHAs and ANMs, with teleconsultation linkage to medical officers.",
+   "reference": "Park 27e, National Health Programmes",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

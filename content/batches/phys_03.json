@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_PY_CO_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "E",
+   "stem": "Cardiac output is the product of:",
+   "options": [
+    "Stroke volume and heart rate",
+    "Blood pressure and resistance",
+    "Preload and afterload",
+    "Contractility and pressure"
+   ],
+   "correct": 0,
+   "concept": "Normal output is about 5 L/min. Cardiac index adjusts for body surface area, and the determinants of stroke volume are preload, afterload and contractility.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "M",
+   "stem": "Cardiac output is measured by the Fick principle using:",
+   "options": [
+    "Oxygen consumption divided by the arteriovenous oxygen difference",
+    "Blood pressure and heart rate",
+    "Ejection fraction",
+    "Stroke volume alone"
+   ],
+   "correct": 0,
+   "concept": "Thermodilution using a pulmonary artery catheter and echocardiographic methods are the practical clinical alternatives, with echocardiography now predominant because it is non-invasive.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "M",
+   "stem": "Coronary blood flow to the left ventricle occurs mainly during:",
+   "options": [
+    "Diastole",
+    "Systole",
+    "Both equally",
+    "Isovolumetric contraction"
+   ],
+   "correct": 0,
+   "concept": "Systolic myocardial compression obstructs left coronary flow, so tachycardia shortening diastole and aortic stenosis reducing perfusion pressure both precipitate ischaemia even with normal coronaries.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "E",
+   "stem": "Cerebral blood flow is autoregulated over a mean arterial pressure range of approximately:",
+   "options": [
+    "60 to 160 mmHg",
+    "20 to 60 mmHg",
+    "100 to 200 mmHg",
+    "No autoregulation"
+   ],
+   "correct": 0,
+   "concept": "The range shifts rightward in chronic hypertension, so rapid lowering of blood pressure can cause cerebral hypoperfusion - which is why blood pressure is reduced gradually in hypertensive emergency.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "M",
+   "stem": "The most potent physiological stimulus increasing cerebral blood flow is:",
+   "options": [
+    "A rise in arterial carbon dioxide tension",
+    "A fall in carbon dioxide",
+    "Hypoxia alone",
+    "Hypotension"
+   ],
+   "correct": 0,
+   "concept": "Hypercapnia causes cerebral vasodilatation, which is why hyperventilation is used briefly to lower intracranial pressure. Prolonged hyperventilation risks ischaemia from excessive vasoconstriction.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "M",
+   "stem": "During exercise, the increase in cardiac output is achieved mainly by:",
+   "options": [
+    "Increased heart rate, with stroke volume plateauing at moderate intensity",
+    "Stroke volume alone",
+    "Reduced venous return",
+    "Increased peripheral resistance"
+   ],
+   "correct": 0,
+   "concept": "Total peripheral resistance falls as skeletal muscle vessels dilate, so mean pressure rises only modestly while systolic pressure and pulse pressure increase substantially.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "E",
+   "stem": "The skin circulation is unique in serving primarily:",
+   "options": [
+    "Thermoregulation, via arteriovenous anastomoses under sympathetic control",
+    "Nutrition only",
+    "Gas exchange",
+    "Filtration"
+   ],
+   "correct": 0,
+   "concept": "Cutaneous flow can vary from near zero to 30% of cardiac output. Loss of this vasoconstrictor response contributes to the warm peripheries and hypotension of septic shock.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "H",
+   "stem": "The ejection fraction is calculated as:",
+   "options": [
+    "Stroke volume divided by end-diastolic volume, normally 55 to 70 percent",
+    "Stroke volume divided by cardiac output",
+    "End-systolic over end-diastolic volume",
+    "Cardiac output over heart rate"
+   ],
+   "correct": 0,
+   "concept": "Heart failure with reduced ejection fraction below 40% is distinguished from heart failure with preserved ejection fraction, which reflects diastolic dysfunction and requires different management.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "H",
+   "stem": "The baroreceptor reflex responds to a fall in blood pressure by:",
+   "options": [
+    "Reducing vagal tone and increasing sympathetic outflow, raising rate and resistance",
+    "Increasing vagal tone",
+    "Reducing heart rate",
+    "Causing vasodilatation"
+   ],
+   "correct": 0,
+   "concept": "Carotid sinus and aortic arch stretch receptors signal via glossopharyngeal and vagus nerves. This buffer reflex resets in chronic hypertension, which is why it does not correct sustained hypertension.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CO_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cardiac output, regional circulations & exercise",
+   "difficulty": "M",
+   "stem": "Central venous pressure principally reflects:",
+   "options": [
+    "Right atrial pressure and therefore right ventricular preload and volume status",
+    "Left ventricular function",
+    "Arterial resistance",
+    "Cardiac contractility"
+   ],
+   "correct": 0,
+   "concept": "It is raised in right heart failure, tamponade, tension pneumothorax and fluid overload, and low in hypovolaemia. Trends in response to fluid challenge are more informative than single readings.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "E",
+   "stem": "Gastric acid is secreted by:",
+   "options": [
+    "Parietal (oxyntic) cells, which also secrete intrinsic factor",
+    "Chief cells",
+    "G cells",
+    "Mucous cells"
+   ],
+   "correct": 0,
+   "concept": "Chief cells secrete pepsinogen, G cells gastrin and D cells somatostatin. Loss of parietal cells in autoimmune atrophic gastritis causes both achlorhydria and pernicious anaemia from intrinsic factor deficiency.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "M",
+   "stem": "The three stimulants of gastric acid secretion acting on the parietal cell are:",
+   "options": [
+    "Acetylcholine, gastrin and histamine",
+    "Secretin, CCK and VIP",
+    "Somatostatin, GIP and motilin",
+    "Insulin, glucagon and gastrin"
+   ],
+   "correct": 0,
+   "concept": "Histamine acting on H2 receptors is the final common amplifier, which is why H2 blockers are effective; proton pump inhibitors act further downstream on the H+/K+ ATPase and are more powerful.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "M",
+   "stem": "Secretin is released from the duodenum in response to:",
+   "options": [
+    "Acid, stimulating pancreatic bicarbonate secretion",
+    "Fat",
+    "Protein",
+    "Glucose"
+   ],
+   "correct": 0,
+   "concept": "Cholecystokinin is released by fat and protein, causing gallbladder contraction, sphincter of Oddi relaxation and pancreatic enzyme secretion - a useful pairing to remember with secretin.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "E",
+   "stem": "Vitamin B12 absorption requires intrinsic factor and occurs in:",
+   "options": [
+    "The terminal ileum",
+    "The duodenum",
+    "The jejunum",
+    "The stomach"
+   ],
+   "correct": 0,
+   "concept": "This is why terminal ileal resection or Crohn disease causes B12 deficiency, whereas iron and folate are absorbed in the duodenum and upper jejunum, explaining the pattern of deficiency after different resections.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "M",
+   "stem": "Bile salts are essential for absorption of:",
+   "options": [
+    "Fat and fat-soluble vitamins A, D, E and K",
+    "Glucose",
+    "Amino acids",
+    "Iron"
+   ],
+   "correct": 0,
+   "concept": "About 95% of bile salts are reabsorbed in the terminal ileum and recycled through the enterohepatic circulation. Ileal disease therefore causes both steatorrhoea and bile-salt diarrhoea.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "M",
+   "stem": "The migrating motor complex functions to:",
+   "options": [
+    "Sweep undigested residue and bacteria along the gut during fasting",
+    "Mix food during meals",
+    "Increase absorption",
+    "Slow transit"
+   ],
+   "correct": 0,
+   "concept": "Governed by motilin and abolished by feeding, it is the intestinal housekeeper. Its impairment contributes to small intestinal bacterial overgrowth in diabetic autonomic neuropathy and scleroderma.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "E",
+   "stem": "The primary site of water absorption in the gastrointestinal tract is:",
+   "options": [
+    "The small intestine, with the colon absorbing the remainder",
+    "The colon predominantly",
+    "The stomach",
+    "The oesophagus"
+   ],
+   "correct": 0,
+   "concept": "About 8 to 9 litres enter the small bowel daily of which most is absorbed there, leaving 1 to 2 litres for the colon which absorbs all but about 100 mL - hence small bowel disease causes voluminous diarrhoea.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "H",
+   "stem": "Glucose absorption from the intestinal lumen occurs by:",
+   "options": [
+    "Sodium-coupled secondary active transport via SGLT1",
+    "Simple diffusion",
+    "Primary active transport",
+    "Pinocytosis"
+   ],
+   "correct": 0,
+   "concept": "This is the physiological basis of oral rehydration solution, in which glucose drives sodium and hence water absorption even when secretory diarrhoea is active.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "H",
+   "stem": "The enterohepatic circulation is clinically important because:",
+   "options": [
+    "Interruption by ileal disease or resin binding increases cholesterol excretion and causes fat malabsorption",
+    "It has no clinical relevance",
+    "It only affects water",
+    "It concerns only drugs"
+   ],
+   "correct": 0,
+   "concept": "Bile acid sequestrants exploit it to lower cholesterol by forcing hepatic conversion of cholesterol to new bile acids. It also prolongs the action of drugs undergoing biliary recycling.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_GIT_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT secretions, motility & absorption",
+   "difficulty": "M",
+   "stem": "Saliva has which principal digestive function?",
+   "options": [
+    "Starch digestion by salivary amylase, with lubrication and antibacterial action",
+    "Protein digestion",
+    "Fat digestion",
+    "Vitamin absorption"
+   ],
+   "correct": 0,
+   "concept": "Saliva is hypotonic with high potassium and bicarbonate. It also contains lysozyme, lactoferrin and IgA, which is why xerostomia predisposes to dental caries and oral candidiasis.",
+   "reference": "Ganong Review of Medical Physiology 26e, Gastrointestinal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "E",
+   "stem": "The most abundant hormone secreted by the thyroid gland is:",
+   "options": [
+    "Thyroxine (T4), which is converted peripherally to the more active T3",
+    "T3",
+    "Reverse T3",
+    "Calcitonin"
+   ],
+   "correct": 0,
+   "concept": "About 80% of circulating T3 comes from peripheral deiodination of T4. Propylthiouracil, propranolol, corticosteroids and severe illness inhibit this conversion, raising inactive reverse T3.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "M",
+   "stem": "Iodine is essential for thyroid hormone synthesis, and its trapping is inhibited by:",
+   "options": [
+    "Thiocyanate and perchlorate",
+    "Thiourea drugs",
+    "Iodide excess",
+    "Propranolol"
+   ],
+   "correct": 0,
+   "concept": "Carbimazole and propylthiouracil instead inhibit thyroid peroxidase, blocking organification and coupling. High-dose iodide acutely inhibits release - the Wolff-Chaikoff effect used before thyroid surgery.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_END_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "M",
+   "stem": "Cortisol secretion shows a diurnal rhythm with a peak:",
+   "options": [
+    "In the early morning around 6 to 8 am",
+    "At midnight",
+    "In the afternoon",
+    "No rhythm"
+   ],
+   "correct": 0,
+   "concept": "The midnight nadir is why a raised late-night salivary cortisol is a sensitive screen for Cushing syndrome, and why replacement is given as a larger morning dose.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "E",
+   "stem": "Aldosterone secretion is primarily regulated by:",
+   "options": [
+    "Angiotensin II and plasma potassium",
+    "ACTH predominantly",
+    "Thyroid hormone",
+    "Growth hormone"
+   ],
+   "correct": 0,
+   "concept": "ACTH has only a permissive role, which is why aldosterone secretion is largely preserved in secondary adrenal insufficiency from pituitary disease, unlike primary Addison disease where it is lost.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "M",
+   "stem": "Insulin secretion from the beta cell is triggered by:",
+   "options": [
+    "Glucose metabolism raising ATP, closing K-ATP channels and causing calcium influx",
+    "Direct glucose binding to receptors",
+    "Fall in ATP",
+    "Sodium influx"
+   ],
+   "correct": 0,
+   "concept": "Sulfonylureas close the same K-ATP channel independently of glucose, which is why they cause hypoglycaemia whereas metformin, which does not stimulate secretion, does not.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_END_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "M",
+   "stem": "The principal action of parathyroid hormone on the kidney is:",
+   "options": [
+    "Increased calcium reabsorption and increased phosphate excretion",
+    "Increased phosphate reabsorption",
+    "Reduced calcium reabsorption",
+    "No renal action"
+   ],
+   "correct": 0,
+   "concept": "PTH also stimulates 1-alpha-hydroxylase producing active vitamin D. The combination of high calcium with low phosphate and raised PTH characterises primary hyperparathyroidism.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "E",
+   "stem": "Active vitamin D (calcitriol) is formed by hydroxylation in the:",
+   "options": [
+    "Liver at position 25 and kidney at position 1",
+    "Skin only",
+    "Kidney only",
+    "Gut"
+   ],
+   "correct": 0,
+   "concept": "Renal 1-alpha-hydroxylation is the regulated step stimulated by PTH and hypophosphataemia. Its loss in chronic kidney disease causes hypocalcaemia and secondary hyperparathyroidism.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "H",
+   "stem": "Calcitonin from thyroid C cells:",
+   "options": [
+    "Lowers serum calcium by inhibiting osteoclasts, but has minor physiological importance in humans",
+    "Raises calcium",
+    "Is essential for life",
+    "Acts on the kidney only"
+   ],
+   "correct": 0,
+   "concept": "Neither thyroidectomy nor medullary carcinoma with very high calcitonin disturbs calcium significantly, showing its limited physiological role, though it is a valuable tumour marker.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "H",
+   "stem": "Growth hormone exerts most of its growth-promoting effects through:",
+   "options": [
+    "Insulin-like growth factor 1 produced by the liver",
+    "Direct action on bone only",
+    "Thyroid hormone",
+    "Cortisol"
+   ],
+   "correct": 0,
+   "concept": "IGF-1 mediates linear growth and is a stable index of GH status, unlike pulsatile GH itself. Laron dwarfism results from GH receptor resistance with high GH but low IGF-1.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_END_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+   "difficulty": "M",
+   "stem": "The counter-regulatory hormones opposing insulin include:",
+   "options": [
+    "Glucagon, cortisol, growth hormone and adrenaline",
+    "Somatostatin only",
+    "Thyroxine only",
+    "Aldosterone"
+   ],
+   "correct": 0,
+   "concept": "Glucagon and adrenaline act within minutes while cortisol and growth hormone act over hours. Their unopposed action in insulin deficiency drives the lipolysis and ketogenesis of diabetic ketoacidosis.",
+   "reference": "Ganong Review of Medical Physiology 26e, Endocrinology",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

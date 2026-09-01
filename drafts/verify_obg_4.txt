@@ -1,0 +1,44 @@
+Q_OBG_INF_018 | del | duplicate of Q_OBG_INF_003 on the Kleihauer-Betke test quantifying fetomaternal haemorrhage. The first item is retained
+Q_OBG_INFT_005 | del | duplicate of Q_OBG_INFT_012 on mid-luteal progesterone confirming ovulation. The later item is retained
+Q_OBG_INFT_007 | del | duplicate of Q_OBG_INFT_017 on intracytoplasmic sperm injection for severe male factor. The later item is retained
+Q_OBG_INFT_008 | del | duplicate of Q_OBG_INFT_016 on ovarian hyperstimulation syndrome. The later item is retained
+Q_OBG_MED_008 | del | duplicate of Q_OBG_MED_017, which applies the same anticoagulation decision to a woman at 8 weeks and adds anti-Xa monitoring. The vignette is retained
+Q_OBG_MED_007 | del | duplicate of Q_OBG_MED_013 on the greatest haemodynamic risk being the delivery and immediate postpartum period, and the two stated the timing slightly differently. The item that gives the autotransfusion mechanism is retained
+Q_OBG_INFT_010 | ref=Surrogacy (Regulation) Act 2021, Sections 4 and 38; Shaw's Textbook of Gynaecology 17e, Ch. Assisted Reproductive Technology | the reference named the Act with no section and no supporting textbook
+Q_OBG_MED_002 | ref=FOGSI-ICOG Good Clinical Practice Recommendations on Iron Deficiency Anaemia in Pregnancy 2016; DC Dutta's Textbook of Obstetrics 9e, Ch. Medical Disorders in Pregnancy | the reference read "FOGSI Anaemia Guidelines" with no title, year or supporting textbook
+Q_OBG_INF_012 | ok |
+Q_OBG_INF_013 | ok |
+Q_OBG_INF_014 | ok |
+Q_OBG_INF_015 | ok |
+Q_OBG_INF_016 | ok |
+Q_OBG_INF_017 | ok |
+Q_OBG_INF_019 | ok |
+Q_OBG_INFT_001 | ok |
+Q_OBG_INFT_002 | ok |
+Q_OBG_INFT_003 | ok |
+Q_OBG_INFT_004 | ok |
+Q_OBG_INFT_006 | ok |
+Q_OBG_INFT_011 | ok |
+Q_OBG_INFT_012 | ok |
+Q_OBG_INFT_015 | ok |
+Q_OBG_INFT_016 | ok |
+Q_OBG_INFT_017 | ok |
+Q_OBG_INFT_018 | ok |
+Q_OBG_INFT_019 | ok |
+Q_OBG_MED_001 | ok |
+Q_OBG_MED_004 | ok |
+Q_OBG_MED_005 | ok |
+Q_OBG_MED_009 | ok |
+Q_OBG_MED_010 | ok |
+Q_OBG_MED_011 | ok |
+Q_OBG_MED_012 | ok |
+Q_OBG_MED_013 | ok |
+Q_OBG_MED_014 | ok |
+Q_OBG_MED_016 | ok |
+Q_OBG_MED_017 | ok |
+Q_OBG_MED_018 | ok |
+Q_OBG_MED_019 | ok |
+Q_OBG_MEN_001 | ok |
+Q_OBG_MEN_002 | ok |
+Q_OBG_MEN_003 | ok |
+Q_OBG_MEN_006 | ok |

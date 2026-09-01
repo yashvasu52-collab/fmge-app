@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_PS_MSE_001",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "E",
+   "stem": "The mental status examination assesses all EXCEPT:",
+   "options": [
+    "Past medical history",
+    "Appearance and behaviour",
+    "Mood and affect",
+    "Thought and perception"
+   ],
+   "correct": 0,
+   "concept": "The MSE is a cross-sectional assessment of the present state - appearance, behaviour, speech, mood, affect, thought, perception, cognition, insight and judgement. Past history belongs to the psychiatric history.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Psychiatric Interview",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_002",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "The difference between mood and affect is that mood is:",
+   "options": [
+    "The patient's sustained subjective emotional state, while affect is the observed emotional expression",
+    "Observed and affect subjective",
+    "Always abnormal",
+    "Measured objectively"
+   ],
+   "correct": 0,
+   "concept": "Mood is reported by the patient and pervasive; affect is the examiner's observation of its outward expression, described by range, reactivity and congruence. Incongruent affect is characteristic of schizophrenia.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Psychiatric Interview",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_003",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "A delusion is best defined as:",
+   "options": [
+    "A fixed false belief not amenable to reason and out of keeping with cultural background",
+    "A false sensory perception",
+    "An obsessive thought",
+    "An overvalued idea"
+   ],
+   "correct": 0,
+   "concept": "Delusions are disorders of thought content and must be judged against cultural context. A hallucination is a perception without a stimulus, and an obsession is recognised by the patient as their own and resisted.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Signs and Symptoms",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_004",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "E",
+   "stem": "Insight in psychiatry refers to:",
+   "options": [
+    "The patient's awareness that they are ill and need treatment",
+    "Intelligence",
+    "Memory",
+    "Orientation"
+   ],
+   "correct": 0,
+   "concept": "Insight is graded from complete denial of illness to full awareness with understanding of its nature. It is typically absent in psychosis and mania but preserved in neurotic disorders, and predicts treatment adherence.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Psychiatric Interview",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_005",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "Formal thought disorder with loosening of associations is characteristic of:",
+   "options": [
+    "Schizophrenia",
+    "Depression",
+    "Anxiety disorder",
+    "Phobia"
+   ],
+   "correct": 0,
+   "concept": "Derailment, tangentiality, neologisms and word salad reflect disorganised thought form, a core feature of schizophrenia. Flight of ideas with retained connections is typical of mania.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Schizophrenia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_006",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "The classification system used officially in India for psychiatric diagnosis is:",
+   "options": [
+    "ICD, published by WHO",
+    "DSM, published by the American Psychiatric Association",
+    "Both are legally mandated",
+    "Neither"
+   ],
+   "correct": 0,
+   "concept": "India follows the WHO International Classification of Diseases, while DSM is widely used in research and teaching. Both are descriptive, operational and largely atheoretical regarding causation.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Classification",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_007",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "E",
+   "stem": "Confabulation refers to:",
+   "options": [
+    "Filling gaps in memory with fabricated material without intent to deceive",
+    "Deliberate lying",
+    "A hallucination",
+    "A delusion"
+   ],
+   "correct": 0,
+   "concept": "Confabulation is characteristic of Korsakoff psychosis from thiamine deficiency, where the patient unknowingly invents plausible accounts to bridge amnesic gaps. It is distinguished from malingering by the absence of intent.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_008",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "H",
+   "stem": "Thought insertion, withdrawal and broadcasting are examples of:",
+   "options": [
+    "Schneiderian first-rank symptoms suggesting schizophrenia",
+    "Depressive cognitions",
+    "Obsessional thoughts",
+    "Dissociation"
+   ],
+   "correct": 0,
+   "concept": "First-rank symptoms include audible thoughts, third-person hallucinations, running commentary, passivity phenomena and delusional perception. They are suggestive but not pathognomonic, occurring also in mania and organic states.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Schizophrenia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_009",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "H",
+   "stem": "An illusion differs from a hallucination in that an illusion is:",
+   "options": [
+    "A misinterpretation of a real external stimulus",
+    "A perception without any stimulus",
+    "Always pathological",
+    "Only visual"
+   ],
+   "correct": 0,
+   "concept": "Illusions occur in normal people, especially with poor lighting, fatigue or anxiety, and are prominent in delirium. Hallucinations occur without any external stimulus and carry greater diagnostic weight.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Signs and Symptoms",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_MSE_010",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+   "difficulty": "M",
+   "stem": "The Mini-Mental State Examination principally screens for:",
+   "options": [
+    "Cognitive impairment",
+    "Depression",
+    "Psychosis",
+    "Anxiety"
+   ],
+   "correct": 0,
+   "concept": "The MMSE scores orientation, registration, attention, recall, language and construction out of 30, with scores below 24 suggesting impairment. It is influenced by education and is a screen, not a diagnosis.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_001",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "E",
+   "stem": "The cardinal feature distinguishing delirium from dementia is:",
+   "options": [
+    "Impaired attention with acute onset and fluctuating course",
+    "Memory loss",
+    "Disorientation",
+    "Personality change"
+   ],
+   "correct": 0,
+   "concept": "Delirium is an acute confusional state with clouding of consciousness, impaired attention, fluctuation and often visual hallucinations, and is reversible once the precipitant is treated. Dementia is chronic with attention preserved until late.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_002",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "The commonest precipitants of delirium in a hospitalised elderly patient include all EXCEPT:",
+   "options": [
+    "Schizophrenia",
+    "Infection",
+    "Drugs and drug withdrawal",
+    "Electrolyte disturbance"
+   ],
+   "correct": 0,
+   "concept": "Delirium is always secondary to a medical cause - infection, drugs especially anticholinergics and benzodiazepines, hypoxia, metabolic derangement, retention or constipation. Schizophrenia is a primary psychiatric disorder, not a cause of delirium.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_003",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "The drug of choice for agitation in delirium is:",
+   "options": [
+    "Low-dose haloperidol, after treating the underlying cause",
+    "A benzodiazepine in all cases",
+    "Chlorpromazine",
+    "An anticholinergic"
+   ],
+   "correct": 0,
+   "concept": "Antipsychotics are preferred except in alcohol or benzodiazepine withdrawal delirium, where benzodiazepines are indicated. Non-pharmacological measures - reorientation, lighting, familiar attendants - come first.",
+   "reference": "KDT 8e, Antipsychotic Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_004",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "E",
+   "stem": "Delirium tremens characteristically occurs after alcohol cessation at:",
+   "options": [
+    "48 to 72 hours",
+    "2 hours",
+    "2 weeks",
+    "1 month"
+   ],
+   "correct": 0,
+   "concept": "Simple withdrawal begins at 6 to 24 hours, withdrawal seizures at 12 to 48 hours, and delirium tremens at 48 to 72 hours with tremor, autonomic overactivity, and vivid visual and tactile hallucinations. It carries significant mortality and is treated with benzodiazepines and thiamine.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Substance Use Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_005",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "Wernicke encephalopathy must be treated with parenteral thiamine before glucose because:",
+   "options": [
+    "A glucose load consumes remaining thiamine and can precipitate or worsen the encephalopathy",
+    "Glucose is toxic",
+    "Thiamine blocks glucose absorption",
+    "Glucose causes seizures"
+   ],
+   "correct": 0,
+   "concept": "Thiamine is a cofactor for pyruvate dehydrogenase and transketolase; giving carbohydrate to a depleted patient exhausts residual stores. Untreated Wernicke progresses to irreversible Korsakoff psychosis.",
+   "reference": "HARR 21e; Kaplan & Sadock Synopsis 12e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_006",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "The commonest reversible cause of dementia worth actively excluding is:",
+   "options": [
+    "Hypothyroidism and vitamin B12 deficiency",
+    "Alzheimer disease",
+    "Vascular dementia",
+    "Lewy body dementia"
+   ],
+   "correct": 0,
+   "concept": "Screening for hypothyroidism, B12 deficiency, neurosyphilis, HIV, normal pressure hydrocephalus and chronic subdural haematoma is essential because these are treatable, unlike the neurodegenerative dementias.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_007",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "E",
+   "stem": "Frontotemporal dementia is distinguished from Alzheimer disease by:",
+   "options": [
+    "Early personality change and disinhibition with relatively preserved memory",
+    "Early memory loss",
+    "Visual hallucinations",
+    "Stepwise decline"
+   ],
+   "correct": 0,
+   "concept": "Pick disease and related tauopathies affect frontal and temporal lobes first, producing behavioural disinhibition, apathy and language impairment before amnesia, typically at a younger age than Alzheimer disease.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_008",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "H",
+   "stem": "Cholinesterase inhibitors such as donepezil are used in Alzheimer disease because:",
+   "options": [
+    "Cortical cholinergic neurons from the nucleus basalis of Meynert degenerate early",
+    "Dopamine is deficient",
+    "Serotonin is deficient",
+    "GABA is deficient"
+   ],
+   "correct": 0,
+   "concept": "Loss of cholinergic projections underlies much of the cognitive deficit, so inhibiting acetylcholinesterase gives modest symptomatic benefit. Memantine, an NMDA antagonist, is added in moderate to severe disease.",
+   "reference": "KDT 8e, Drugs for Neurodegenerative Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_009",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "H",
+   "stem": "Antipsychotics must be used with extreme caution in dementia with Lewy bodies because:",
+   "options": [
+    "Patients show severe neuroleptic sensitivity with worsening rigidity and possible death",
+    "They cause sedation only",
+    "They are ineffective",
+    "They worsen memory only"
+   ],
+   "correct": 0,
+   "concept": "Marked D2 sensitivity can precipitate irreversible parkinsonism and neuroleptic malignant syndrome. If antipsychotics are unavoidable, quetiapine or clozapine in very low doses is preferred.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_DEL_010",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Delirium, dementia & organic mental disorders",
+   "difficulty": "M",
+   "stem": "Sundowning refers to:",
+   "options": [
+    "Worsening of confusion and agitation in the evening in delirium and dementia",
+    "Early morning wakening",
+    "Daytime sleepiness",
+    "Improvement at night"
+   ],
+   "correct": 0,
+   "concept": "Reduced sensory cues and disrupted circadian rhythm worsen confusion after dusk. Management is environmental - adequate lighting, orientation cues, familiar people and consistent routine - rather than sedation.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Neurocognitive Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_001",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "E",
+   "stem": "Conversion disorder is characterised by:",
+   "options": [
+    "Neurological symptoms incompatible with recognised disease, arising after psychological stress, without conscious feigning",
+    "Deliberate feigning for gain",
+    "An organic lesion",
+    "Delusions"
+   ],
+   "correct": 0,
+   "concept": "Symptoms such as paralysis, aphonia or pseudoseizures are genuinely experienced and not consciously produced, often with la belle indifference. Malingering is conscious feigning for external gain; factitious disorder seeks the sick role.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Somatic Symptom Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_002",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "Hypochondriasis (illness anxiety disorder) is best described as:",
+   "options": [
+    "Persistent preoccupation with having a serious illness despite negative investigations",
+    "A physical illness",
+    "A delusion of infestation",
+    "Deliberate deception"
+   ],
+   "correct": 0,
+   "concept": "The patient fears having a disease rather than complaining of many symptoms, and repeated reassurance is only briefly effective. Regular scheduled appointments with a single clinician and cognitive therapy are more helpful than repeated investigation.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Somatic Symptom Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_003",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "Munchausen syndrome is classified as:",
+   "options": [
+    "Factitious disorder, in which symptoms are intentionally produced to assume the sick role",
+    "Malingering for money",
+    "Conversion disorder",
+    "Somatisation"
+   ],
+   "correct": 0,
+   "concept": "The motivation is internal - to be a patient - rather than external gain, distinguishing it from malingering. Munchausen by proxy, where a carer fabricates illness in a child, is a form of child abuse.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Factitious Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_004",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "E",
+   "stem": "Dissociative amnesia typically involves:",
+   "options": [
+    "Loss of autobiographical memory for a stressful period, with intact new learning",
+    "Loss of ability to form new memories",
+    "Global intellectual decline",
+    "Language loss"
+   ],
+   "correct": 0,
+   "concept": "Dissociative disorders involve disruption of the normal integration of memory, identity and awareness following psychological trauma, with retrograde gaps but preserved anterograde learning - the reverse of organic amnesia.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Dissociative Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_005",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "Borderline personality disorder is characterised by:",
+   "options": [
+    "Unstable relationships, identity disturbance, impulsivity and recurrent self-harm",
+    "Grandiosity",
+    "Social withdrawal",
+    "Perfectionism"
+   ],
+   "correct": 0,
+   "concept": "Cluster B borderline personality shows affective instability, fear of abandonment, chronic emptiness and self-harm. Dialectical behaviour therapy is the treatment with the best evidence.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Personality Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_006",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "Antisocial personality disorder requires evidence of:",
+   "options": [
+    "Conduct disorder before age 15 with a persistent disregard for the rights of others",
+    "Onset after 40",
+    "Anxiety symptoms",
+    "Psychotic features"
+   ],
+   "correct": 0,
+   "concept": "Diagnosis requires the individual to be at least 18 with evidence of conduct disorder in childhood, showing deceitfulness, impulsivity, aggression, irresponsibility and lack of remorse. It responds poorly to treatment.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Personality Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_007",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "E",
+   "stem": "Cluster A personality disorders (paranoid, schizoid, schizotypal) are best described as:",
+   "options": [
+    "Odd and eccentric",
+    "Dramatic and erratic",
+    "Anxious and fearful",
+    "Obsessional"
+   ],
+   "correct": 0,
+   "concept": "Cluster A is odd or eccentric, cluster B dramatic, emotional or erratic (antisocial, borderline, histrionic, narcissistic), and cluster C anxious or fearful (avoidant, dependent, obsessive-compulsive personality).",
+   "reference": "Kaplan & Sadock Synopsis 12e, Personality Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_008",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "H",
+   "stem": "Obsessive-compulsive personality disorder differs from obsessive-compulsive disorder in that it:",
+   "options": [
+    "Is ego-syntonic, with traits the person accepts rather than resists",
+    "Is ego-dystonic",
+    "Involves compulsions",
+    "Responds to SSRIs"
+   ],
+   "correct": 0,
+   "concept": "In OCPD the perfectionism, rigidity and preoccupation with order feel right to the person, whereas OCD obsessions are intrusive, unwanted and resisted, causing distress and responding to SSRIs and exposure therapy.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Personality Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_009",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "H",
+   "stem": "Premature ejaculation is most effectively treated with:",
+   "options": [
+    "Behavioural techniques such as stop-start and squeeze, with SSRIs if needed",
+    "Testosterone",
+    "Antipsychotics",
+    "Beta blockers"
+   ],
+   "correct": 0,
+   "concept": "Squeeze and stop-start techniques with partner involvement are first line; SSRIs delay ejaculation as a therapeutic use of a common side effect, and topical anaesthetics are an alternative.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Sexual Dysfunctions",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_SOM_010",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Somatoform, dissociative, personality & sexual disorders",
+   "difficulty": "M",
+   "stem": "Erectile dysfunction of psychogenic origin is suggested by:",
+   "options": [
+    "Preserved nocturnal and early morning erections with abrupt situational onset",
+    "Gradual loss of all erections",
+    "Absent morning erections",
+    "Onset after prostatectomy"
+   ],
+   "correct": 0,
+   "concept": "Preserved spontaneous nocturnal erections indicate intact neurovascular mechanisms, pointing to psychogenic causes, whereas organic dysfunction from diabetes, vascular disease or drugs causes gradual global loss.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Sexual Dysfunctions",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

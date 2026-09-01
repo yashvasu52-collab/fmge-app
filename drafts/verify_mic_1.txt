@@ -1,0 +1,44 @@
+Q_MIC_ARB_012 | del | duplicate of Q_MIC_ARB_003 on NS1 antigen detection being the test for the first days of dengue illness. The first item is retained
+Q_MIC_ARB_015 | del | duplicate of Q_MIC_ARB_004 on the pig and ardeid bird amplifying cycle of Japanese encephalitis with Culex vectors. The first item is retained
+Q_MIC_ARB_005 | del | duplicate of Q_MIC_ARB_016, which gives the same congenital microcephaly and additionally sexual transmission between adults. The fuller item is retained
+Q_MIC_ARB_013 | del | duplicate of Q_MIC_ARB_010 on persistent polyarthralgia distinguishing chikungunya from dengue. The first item is retained
+Q_MIC_STR_016 | del | duplicate of Q_MIC_STR_007 on bacteria being most susceptible in the logarithmic phase. The first item is retained
+Q_MIC_CLO_011 | del | duplicate of Q_MIC_CLO_001 on tetanospasmin blocking glycine and GABA release from inhibitory interneurons. The first item is retained
+Q_MIC_STR_001 | ref=Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Morphology and Physiology of Bacteria | the chapter was cited as "Morphology of Bacteria" or "Bacterial Growth"; the book carries this material in one combined chapter
+Q_MIC_STR_006 | ref=Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Morphology and Physiology of Bacteria | the chapter was cited as "Morphology of Bacteria" or "Bacterial Growth"; the book carries this material in one combined chapter
+Q_MIC_STR_007 | ref=Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Morphology and Physiology of Bacteria | the chapter was cited as "Morphology of Bacteria" or "Bacterial Growth"; the book carries this material in one combined chapter
+Q_MIC_STR_013 | ref=Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Bacterial Genetics | a conjugation item was cited to the morphology and physiology chapter rather than to bacterial genetics
+Q_MIC_STR_014 | ref=Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Antimicrobial Resistance | a resistance mechanism was cited to the morphology and physiology chapter
+Q_MIC_STR_017 | ref=Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Antimicrobial Resistance | a resistance mechanism was cited to the morphology and physiology chapter
+Q_MIC_ARB_001 | ok |
+Q_MIC_ARB_003 | ok |
+Q_MIC_ARB_004 | ok |
+Q_MIC_ARB_006 | ok |
+Q_MIC_ARB_007 | ok |
+Q_MIC_ARB_008 | ok |
+Q_MIC_ARB_009 | ok |
+Q_MIC_ARB_010 | ok |
+Q_MIC_ARB_016 | ok |
+Q_MIC_ARB_017 | ok |
+Q_MIC_ARB_018 | ok |
+Q_MIC_STR_002 | ok |
+Q_MIC_STR_003 | ok |
+Q_MIC_STR_004 | ok |
+Q_MIC_STR_005 | ok |
+Q_MIC_STR_008 | ok |
+Q_MIC_STR_009 | ok |
+Q_MIC_STR_010 | ok |
+Q_MIC_STR_011 | ok |
+Q_MIC_STR_012 | ok |
+Q_MIC_STR_018 | ok |
+Q_MIC_CLO_001 | ok |
+Q_MIC_CLO_002 | ok |
+Q_MIC_CLO_003 | ok |
+Q_MIC_CLO_004 | ok |
+Q_MIC_CLO_005 | ok |
+Q_MIC_CLO_006 | ok |
+Q_MIC_CLO_007 | ok |
+Q_MIC_CLO_008 | ok |
+Q_MIC_CLO_009 | ok |
+Q_MIC_CLO_010 | ok |
+Q_MIC_CLO_012 | ok |

@@ -1,0 +1,92 @@
+[
+ {
+  "ans": 0.62,
+  "stem": 0.8,
+  "subject": "PSM (Community Medicine)",
+  "topic": "National immunization schedule",
+  "a": "Q_c1_092",
+  "b": "Q_PYQ_FMGE_2025JANP2_079",
+  "answer": "BCG, OPV-0 (zero dose) and Hepatitis B birth"
+ },
+ {
+  "ans": 0.62,
+  "stem": 0.4,
+  "subject": "PSM (Community Medicine)",
+  "topic": "National immunization schedule",
+  "a": "Q_c1_092",
+  "b": "Q_h3b_041",
+  "answer": "BCG, OPV-0 (zero dose) and Hepatitis B birth"
+ },
+ {
+  "ans": 0.58,
+  "stem": 0.39,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Abortion, ectopic pregnancy, recurrent pregnancy loss",
+  "a": "Q_PYQ_FMGE_2025JULP1_078",
+  "b": "Q_h3c_002",
+  "answer": "Single-dose intramuscular methotrexate, with"
+ },
+ {
+  "ans": 0.67,
+  "stem": 0.33,
+  "subject": "Pharmacology",
+  "topic": "Pharmacokinetics/dynamics, receptors",
+  "a": "Q_c1d_004",
+  "b": "Q_c1d_005",
+  "answer": "Competitive antagonist"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.29,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_024",
+  "b": "Q_PYQ_FMGE_2026JAN_046",
+  "answer": "Vitamin A"
+ },
+ {
+  "ans": 0.67,
+  "stem": 0.28,
+  "subject": "Anatomy",
+  "topic": "Lower limb: femoral/sciatic nerve, foot drop",
+  "a": "Q_PYQ_FMGE_2026JUN_010",
+  "b": "Q_AN_LL_002",
+  "answer": "Common peroneal nerve"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.27,
+  "subject": "Medicine",
+  "topic": "AKI/CKD & electrolyte/acid-base disorders",
+  "a": "Q_c1_079",
+  "b": "Q_h3b_018",
+  "answer": "Intravenous calcium gluconate"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.27,
+  "subject": "Surgery",
+  "topic": "Acute abdomen, appendicitis, obstruction",
+  "a": "Q_PYQ_FMGE_2025JANP2_082",
+  "b": "Q_C_003",
+  "answer": "Sigmoid Volvulus"
+ },
+ {
+  "ans": 0.67,
+  "stem": 0.26,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Abortion, ectopic pregnancy, recurrent pregnancy loss",
+  "a": "Q_h3c_004",
+  "b": "Q_OBG_AEP_005",
+  "answer": "Low-dose aspirin plus low-molecular-weight h"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.25,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_035",
+  "b": "Q_PYQ_FMGE_2026JAN_046",
+  "answer": "Vitamin K"
+ }
+]

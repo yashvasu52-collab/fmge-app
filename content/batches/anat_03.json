@@ -1,0 +1,488 @@
+{
+ "questions": [
+  {
+   "id": "Q_AN_CER_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "E",
+   "stem": "Occlusion of the middle cerebral artery characteristically causes:",
+   "options": [
+    "Contralateral hemiparesis affecting face and arm more than leg, with aphasia if dominant",
+    "Leg weakness only",
+    "Ipsilateral weakness",
+    "Pure sensory loss"
+   ],
+   "correct": 0,
+   "concept": "The MCA supplies the lateral surface including the motor and sensory cortex for face and upper limb and the language areas. The anterior cerebral artery supplies the medial surface affecting the leg predominantly.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "M",
+   "stem": "The commonest site of hypertensive intracerebral haemorrhage is:",
+   "options": [
+    "The putamen, from rupture of lenticulostriate arteries",
+    "The cerebellum",
+    "The pons",
+    "The cortex"
+   ],
+   "correct": 0,
+   "concept": "Lenticulostriate branches of the MCA are called the arteries of cerebral haemorrhage. Because the internal capsule lies adjacent, a small bleed causes dense contralateral hemiplegia.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "M",
+   "stem": "The posterior limb of the internal capsule carries:",
+   "options": [
+    "Corticospinal fibres, with sensory radiations posteriorly",
+    "Only sensory fibres",
+    "Only visual fibres",
+    "Frontopontine fibres"
+   ],
+   "correct": 0,
+   "concept": "The compact arrangement of descending motor fibres means a small capsular lacune produces a dense pure motor hemiplegia involving face, arm and leg equally - unlike cortical strokes which are patchy.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "E",
+   "stem": "Broca aphasia results from a lesion in:",
+   "options": [
+    "The inferior frontal gyrus of the dominant hemisphere",
+    "The superior temporal gyrus",
+    "The angular gyrus",
+    "The occipital lobe"
+   ],
+   "correct": 0,
+   "concept": "Broca area produces non-fluent effortful speech with preserved comprehension and awareness of the deficit. Wernicke aphasia from the superior temporal gyrus gives fluent but meaningless speech with impaired comprehension.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "M",
+   "stem": "The circle of Willis is completed posteriorly by:",
+   "options": [
+    "The posterior communicating arteries linking internal carotid to posterior cerebral",
+    "The anterior communicating artery",
+    "The basilar artery alone",
+    "The vertebral arteries"
+   ],
+   "correct": 0,
+   "concept": "Berry aneurysms arise at branch points, most commonly at the anterior communicating artery, then the posterior communicating artery where rupture or expansion causes a painful third nerve palsy with a dilated pupil.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "M",
+   "stem": "A cerebellar hemisphere lesion produces signs that are:",
+   "options": [
+    "Ipsilateral to the lesion",
+    "Contralateral",
+    "Bilateral always",
+    "Absent"
+   ],
+   "correct": 0,
+   "concept": "Because cerebellar output decussates twice, signs are ipsilateral - intention tremor, dysdiadochokinesia, nystagmus, dysmetria and hypotonia. Vermis lesions instead cause truncal ataxia with a wide-based gait.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "E",
+   "stem": "The basal ganglia lesion causing hemiballismus is in the:",
+   "options": [
+    "Contralateral subthalamic nucleus",
+    "Caudate nucleus",
+    "Substantia nigra",
+    "Cerebellum"
+   ],
+   "correct": 0,
+   "concept": "Loss of subthalamic excitatory drive to the globus pallidus internus disinhibits the thalamus, producing violent flinging limb movements, usually from a lacunar infarct in a hypertensive elderly patient.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "H",
+   "stem": "The blood supply of the internal capsule is chiefly from:",
+   "options": [
+    "Lenticulostriate branches of the middle cerebral artery",
+    "The anterior cerebral artery",
+    "The posterior cerebral artery",
+    "The basilar artery"
+   ],
+   "correct": 0,
+   "concept": "These are end arteries without effective anastomoses, so occlusion produces lacunar infarcts. Their perpendicular origin from a high-pressure vessel also predisposes to Charcot-Bouchard microaneurysms.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "H",
+   "stem": "Wallenberg (lateral medullary) syndrome results from occlusion of:",
+   "options": [
+    "The posterior inferior cerebellar artery or vertebral artery",
+    "The middle cerebral artery",
+    "The anterior cerebral artery",
+    "The basilar tip"
+   ],
+   "correct": 0,
+   "concept": "It causes ipsilateral facial pain and temperature loss, Horner syndrome, ataxia and bulbar palsy with contralateral body pain and temperature loss - a crossed sensory pattern with characteristically preserved motor power.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_CER_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cerebrum: blood supply, internal capsule, basal ganglia, cerebellum",
+   "difficulty": "M",
+   "stem": "Uncal herniation compresses which structure first, producing an early sign?",
+   "options": [
+    "The oculomotor nerve, causing an ipsilateral dilated pupil",
+    "The optic nerve",
+    "The abducens nerve",
+    "The trochlear nerve"
+   ],
+   "correct": 0,
+   "concept": "Superficial parasympathetic fibres are compressed first giving a fixed dilated pupil, followed by ptosis and a down-and-out eye, then contralateral hemiparesis and finally decerebration.",
+   "reference": "Snell Clinical Anatomy 10e, Neuroanatomy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "E",
+   "stem": "Fertilisation normally occurs in:",
+   "options": [
+    "The ampulla of the uterine tube",
+    "The uterine cavity",
+    "The cervix",
+    "The ovary"
+   ],
+   "correct": 0,
+   "concept": "The zygote takes about 3 to 4 days to reach the uterus and implants around day 6 to 7. Delay in transit predisposes to tubal ectopic pregnancy, the commonest site being the ampulla.",
+   "reference": "Langman Medical Embryology 14e, First Week",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "M",
+   "stem": "Implantation normally occurs in:",
+   "options": [
+    "The upper posterior wall of the uterine body",
+    "The lower segment",
+    "The cervix",
+    "The tube"
+   ],
+   "correct": 0,
+   "concept": "Implantation in the lower segment produces placenta praevia with painless antepartum haemorrhage. Normal implantation occurs around day 6 to 7 at the blastocyst stage.",
+   "reference": "Langman Medical Embryology 14e, Second Week",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "M",
+   "stem": "The fetal component of the placenta is derived from:",
+   "options": [
+    "The chorion frondosum",
+    "The decidua basalis",
+    "The decidua capsularis",
+    "The amnion"
+   ],
+   "correct": 0,
+   "concept": "The maternal component is the decidua basalis. Chorionic villi bathed in maternal blood in the intervillous space permit exchange without mixing of the two circulations.",
+   "reference": "Langman Medical Embryology 14e, Placenta",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "E",
+   "stem": "The umbilical cord normally contains:",
+   "options": [
+    "Two arteries and one vein",
+    "Two veins and one artery",
+    "One artery and one vein",
+    "Three arteries"
+   ],
+   "correct": 0,
+   "concept": "The vein carries oxygenated blood to the fetus. A single umbilical artery occurs in about 1% of births and is associated with congenital anomalies, warranting careful fetal assessment.",
+   "reference": "Langman Medical Embryology 14e, Placenta",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "M",
+   "stem": "The period of greatest teratogenic susceptibility is:",
+   "options": [
+    "Weeks 3 to 8 of gestation, the period of organogenesis",
+    "Weeks 1 to 2",
+    "The second trimester",
+    "The third trimester"
+   ],
+   "correct": 0,
+   "concept": "Before week 3 the all-or-none phenomenon operates. After week 8 teratogens cause functional and growth defects rather than gross structural anomalies, with the brain remaining vulnerable throughout.",
+   "reference": "Langman Medical Embryology 14e, Birth Defects",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "M",
+   "stem": "Simple squamous epithelium lining blood vessels is termed:",
+   "options": [
+    "Endothelium",
+    "Mesothelium",
+    "Urothelium",
+    "Epithelioid"
+   ],
+   "correct": 0,
+   "concept": "Mesothelium lines serous cavities such as pleura, pericardium and peritoneum, and urothelium (transitional epithelium) lines the urinary tract, allowing distension without loss of the permeability barrier.",
+   "reference": "Snell Clinical Anatomy 10e, Histology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "E",
+   "stem": "Pseudostratified ciliated columnar epithelium with goblet cells lines:",
+   "options": [
+    "The respiratory tract",
+    "The oesophagus",
+    "The bladder",
+    "The skin"
+   ],
+   "correct": 0,
+   "concept": "Cilia beat mucus towards the pharynx forming the mucociliary escalator, impaired by smoking and absent in primary ciliary dyskinesia, which causes bronchiectasis and situs inversus.",
+   "reference": "Snell Clinical Anatomy 10e, Histology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "H",
+   "stem": "The neural crest gives rise to all EXCEPT:",
+   "options": [
+    "Anterior pituitary",
+    "Melanocytes",
+    "Dorsal root ganglia",
+    "Adrenal medulla"
+   ],
+   "correct": 0,
+   "concept": "Neural crest derivatives include melanocytes, sensory and autonomic ganglia, Schwann cells, adrenal medulla, and facial bones and cartilage. The anterior pituitary derives from Rathke pouch, an ectodermal outpouching of the stomodeum.",
+   "reference": "Langman Medical Embryology 14e, Neural Crest",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "H",
+   "stem": "Meckel diverticulum results from persistence of:",
+   "options": [
+    "The vitellointestinal (omphalomesenteric) duct",
+    "The urachus",
+    "The processus vaginalis",
+    "The ductus venosus"
+   ],
+   "correct": 0,
+   "concept": "Persistence of the urachus instead gives a urachal fistula from the bladder to the umbilicus, and a patent processus vaginalis gives congenital hernia or hydrocele.",
+   "reference": "Langman Medical Embryology 14e, Digestive System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_EMB_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General embryology & histology: fertilisation, placenta, epithelia",
+   "difficulty": "M",
+   "stem": "Metaplasia is best defined as:",
+   "options": [
+    "Reversible replacement of one differentiated cell type by another",
+    "Irreversible malignant change",
+    "Increase in cell size",
+    "Increase in cell number"
+   ],
+   "correct": 0,
+   "concept": "Barrett oesophagus is columnar metaplasia from acid reflux, and bronchial squamous metaplasia follows smoking. Persistence of the stimulus can lead to dysplasia and then carcinoma.",
+   "reference": "Robbins & Cotran 10e, Cellular Adaptations",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

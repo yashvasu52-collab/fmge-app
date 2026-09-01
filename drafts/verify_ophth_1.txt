@@ -1,0 +1,36 @@
+Q_PYQ_FMGE_2025JANP2_070 | del | duplicate of Q_PYQ_FMGE_2025JANP1_023, which asks the same question about sorbitol accumulation causing diabetic cataract. The January Part 1 item is retained
+Q_PYQ_FMGE_2025JANP1_023 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Lens and Cataract | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_054 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Aphakia and Pseudophakia | reference cited only the exam paper; a study source added
+Q_h3d_031 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Lens and Cataract | the reference chapter simply repeated the book title ("Ch. Comprehensive Ophthalmology") and named no chapter
+Q_h3d_032 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Glaucoma | the reference chapter simply repeated the book title and named no chapter
+Q_OP_CNJ_010 | topic=Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields) | misfiled: a pupil-involving third nerve palsy is a neuro-ophthalmology question and sat under "Conjunctiva, lids & lacrimal apparatus". Its own reference already pointed to the neuro-ophthalmology chapter
+Q_PYQ_FMGE_2024JUN_017 | topic=Uveitis, scleritis & ocular inflammation;;ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Uveal Tract | misfiled: keratic precipitates with aqueous flare is anterior uveitis and sat under "Diabetic retinopathy, retinal detachment". Refiled, and the exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JANP1_026 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Examination of the Eye (ophthalmoscopy) | reference cited only the exam paper; a study source added
+Q_OP_CNJ_001 | ok |
+Q_OP_CNJ_002 | ok |
+Q_OP_CNJ_003 | ok |
+Q_OP_CNJ_004 | ok |
+Q_OP_CNJ_005 | ok |
+Q_OP_CNJ_006 | ok |
+Q_OP_CNJ_007 | ok |
+Q_OP_CNJ_008 | ok |
+Q_OP_CNJ_009 | ok |
+Q_OP_COR_001 | ok |
+Q_OP_COR_002 | ok |
+Q_OP_COR_003 | ok |
+Q_OP_COR_004 | ok |
+Q_OP_COR_005 | ok |
+Q_OP_COR_006 | ok |
+Q_OP_COR_007 | ok |
+Q_OP_COR_008 | ok |
+Q_OP_COR_009 | ok |
+Q_OP_COR_010 | ok |
+Q_OP_TRA_001 | ok |
+Q_OP_TRA_002 | ok |
+Q_OP_TRA_003 | ok |
+Q_OP_TRA_004 | ok |
+Q_OP_TRA_005 | ok |
+Q_OP_TRA_006 | ok |
+Q_OP_TRA_007 | ok |
+Q_OP_TRA_008 | ok |
+Q_OP_TRA_009 | ok |

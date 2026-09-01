@@ -1,0 +1,44 @@
+Q_PY_BLD_002 | del | duplicate of Q_PY_BLD_011, which names erythropoietin from the peritubular interstitial cells and additionally its role as the principal regulator. The fuller item is retained
+Q_PY_BLD_005 | del | duplicate of Q_PY_BLD_012, which gives the same platelet plug formation and additionally the von Willebrand and GpIIb-IIIa steps in order. The fuller item is retained
+Q_PY_BLD_006 | del | duplicate of Q_PY_BLD_015, which gives the same group O antigen and antibody profile and additionally why it makes a universal red cell donor. The fuller item is retained
+Q_PY_BLD_007 | del | duplicate of Q_PY_BLD_016, which asks the same question about later pregnancies and requires the IgM to IgG switch. The fuller item is retained
+Q_PY_CCE_004 | del | duplicate of Q_PYQ_FMGE_2025JANP2_017 on the baroreceptor reflex slowing the heart when pressure rises. The real exam recall is retained
+Q_h3d_011 | ref=Ganong's Review of Medical Physiology 26e, Ch. Excitable Tissue: Muscle | the reference named the book with no chapter
+Q_PYQ_FMGE_2025JANP1_008 | ref=FMGE January 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Contraction of Skeletal Muscle | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_030 | ref=FMGE January 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Excitation of Skeletal Muscle: Neuromuscular Transmission | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_011 | ref=FMGE July 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Membrane Potentials and Action Potentials | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_018 | ref=FMGE July 2025 Part 2 (real exam recall); Ganong's Review of Medical Physiology 26e, Ch. Excitable Tissue: Nerve | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_023 | ref=FMGE July 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Contraction of Skeletal Muscle | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_030 | ref=FMGE July 2025 Part 2 (real exam recall); Ganong's Review of Medical Physiology 26e, Ch. Excitable Tissue: Nerve | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_035 | ref=FMGE July 2025 Part 2 (real exam recall); Ganong's Review of Medical Physiology 26e, Ch. Excitable Tissue: Nerve | exam-paper-only reference given a study source
+Q_PYQ_INICET_2025MAY_007 | ref=INI-CET May 2025 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Contraction of Skeletal Muscle | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_017 | ref=FMGE January 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Nervous Regulation of the Circulation | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_028 | ref=FMGE January 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. The Heart as a Pump and Function of the Heart Valves | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_001 | ref=FMGE July 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. The Heart as a Pump and Function of the Heart Valves | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_033 | ref=FMGE January 2026 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Dominant Role of the Kidney in Long-Term Regulation of Arterial Pressure | exam-paper-only reference given a study source
+Q_PY_APN_001 | ok |
+Q_PY_APN_002 | ok |
+Q_PY_APN_003 | ok |
+Q_PY_APN_004 | ok |
+Q_PY_APN_005 | ok |
+Q_PY_APN_006 | ok |
+Q_PY_APN_007 | ok |
+Q_PY_APN_008 | ok |
+Q_PY_BLD_001 | ok |
+Q_PY_BLD_003 | ok |
+Q_PY_BLD_004 | ok |
+Q_PY_BLD_008 | ok |
+Q_PY_BLD_009 | ok |
+Q_PY_BLD_010 | ok |
+Q_PY_BLD_011 | ok |
+Q_PY_BLD_012 | ok |
+Q_PY_BLD_013 | ok |
+Q_PY_BLD_014 | ok |
+Q_PY_BLD_015 | ok |
+Q_PY_BLD_016 | ok |
+Q_PY_BLD_017 | ok |
+Q_PY_BLD_018 | ok |
+Q_PY_CCE_001 | ok |
+Q_PY_CCE_003 | ok |
+Q_PY_CCE_005 | ok |
+Q_PY_CCE_006 | ok |

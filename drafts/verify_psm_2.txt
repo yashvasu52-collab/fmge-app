@@ -1,0 +1,44 @@
+Q_PSM_CON_018 | del | duplicate of Q_PS_CAU_007 on lead time bias inflating apparent survival in screening. The first item is retained
+Q_PSM_DIA_013 | del | duplicate of Q_PSM_DIA_005, whose key already gives the faeco-oral transmission of hepatitis A and E. The item that also notes they never become chronic is retained
+Q_PSM_DIA_007 | del | duplicate of Q_PSM_DIA_012, which gives the same National Deworming Day albendazole and additionally the age group and interval. The fuller item is retained
+Q_PSM_ENV_004 | del | duplicate of Q_PSM_ENV_011, which identifies the same biomass smoke exposure by its causative particulate fraction. The fuller item is retained
+Q_PSM_ENV_006 | del | duplicate of Q_PSM_ENV_014 on the floor area standard for preventing overcrowding, and the two quoted different figures. The item matching the standard as stated in Park's is retained
+Q_PSM_ENV_007 | del | duplicate of Q_PSM_ENV_013, which gives the same 85 decibel threshold and additionally the 8-hour working day it applies to. The fuller item is retained
+Q_PSM_ENV_010 | del | duplicate of Q_PSM_DIA_018, which covers the same multiple faeco-oral transmission routes and why a single barrier is insufficient. The fuller item is retained
+Q_PSM_CON_015 | ok |
+Q_PSM_CON_016 | ok |
+Q_PSM_CON_017 | ok |
+Q_PSM_DIA_001 | ok |
+Q_PSM_DIA_002 | ok |
+Q_PSM_DIA_003 | ok |
+Q_PSM_DIA_004 | ok |
+Q_PSM_DIA_005 | ok |
+Q_PSM_DIA_006 | ok |
+Q_PSM_DIA_008 | ok |
+Q_PSM_DIA_009 | ok |
+Q_PSM_DIA_010 | ok |
+Q_PSM_DIA_011 | ok |
+Q_PSM_DIA_012 | ok |
+Q_PSM_DIA_014 | ok |
+Q_PSM_DIA_015 | ok |
+Q_PSM_DIA_016 | ok |
+Q_PSM_DIA_017 | ok |
+Q_PSM_DIA_018 | ok |
+Q_PSM_ENV_001 | ok |
+Q_PSM_ENV_002 | ok |
+Q_PSM_ENV_003 | ok |
+Q_PSM_ENV_005 | ok |
+Q_PSM_ENV_008 | ok |
+Q_PSM_ENV_009 | ok |
+Q_PSM_ENV_011 | ok |
+Q_PSM_ENV_012 | ok |
+Q_PSM_ENV_013 | ok |
+Q_PSM_ENV_014 | ok |
+Q_PSM_ENV_015 | ok |
+Q_PSM_ENV_016 | ok |
+Q_PSM_ENV_017 | ok |
+Q_PSM_ENV_018 | ok |
+Q_PSM_HCD_001 | ok |
+Q_PSM_HCD_003 | ok |
+Q_PSM_HCD_004 | ok |
+Q_PSM_HCD_005 | ok |

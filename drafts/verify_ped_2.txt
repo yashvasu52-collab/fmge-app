@@ -1,0 +1,44 @@
+Q_PED_PTB_010 | del | duplicate of Q_PED_PTB_015, which gives the same hilar lymphadenopathy and additionally the airway compression. The fuller item is retained
+Q_PED_CHD_005 | del | duplicate of Q_PED_CHD_013, which applies the same prostaglandin E1 ductal patency to a neonate with transposition. The vignette is retained
+Q_PED_DIA_002 | del | duplicate of Q_PED_DIA_019, which gives the same sodium-glucose cotransport and additionally why it works despite mucosal injury. The fuller item is retained
+Q_PED_DIA_016 | del | duplicate of Q_PED_DIA_009 on hypokalaemia complicating childhood diarrhoea. The first item is retained
+Q_PED_DIA_003 | ref=Government of India IMNCI Physicians Chart Booklet 2019; OP Ghai Essential Pediatrics 9e, Ch. Diarrhoeal Diseases | the reference read "IMNCI Guidelines" with no year and abbreviated the textbook without a chapter
+Q_PED_DIA_008 | ref=OP Ghai Essential Pediatrics 9e, Ch. Fluid and Electrolytes; Harrison's Principles of Internal Medicine 21e, Ch. Fluid and Electrolyte Disturbances | both books were cited with no chapter
+Q_C_035 | ref=OP Ghai Essential Pediatrics 9e, Ch. Growth and Development | the reference named the book with no chapter
+Q_PED_PTB_012 | ok |
+Q_PED_PTB_013 | ok |
+Q_PED_PTB_014 | ok |
+Q_PED_PTB_015 | ok |
+Q_PED_PTB_016 | ok |
+Q_PED_PTB_017 | ok |
+Q_PED_PTB_019 | ok |
+Q_PED_PTB_020 | ok |
+Q_PED_CHD_001 | ok |
+Q_PED_CHD_002 | ok |
+Q_PED_CHD_003 | ok |
+Q_PED_CHD_004 | ok |
+Q_PED_CHD_006 | ok |
+Q_PED_CHD_007 | ok |
+Q_PED_CHD_008 | ok |
+Q_PED_CHD_009 | ok |
+Q_PED_CHD_010 | ok |
+Q_PED_CHD_012 | ok |
+Q_PED_CHD_013 | ok |
+Q_PED_CHD_014 | ok |
+Q_PED_CHD_015 | ok |
+Q_PED_CHD_016 | ok |
+Q_PED_CHD_017 | ok |
+Q_PED_CHD_018 | ok |
+Q_PED_CHD_019 | ok |
+Q_PED_CHD_020 | ok |
+Q_PED_DIA_001 | ok |
+Q_PED_DIA_004 | ok |
+Q_PED_DIA_009 | ok |
+Q_PED_DIA_010 | ok |
+Q_PED_DIA_011 | ok |
+Q_PED_DIA_012 | ok |
+Q_PED_DIA_014 | ok |
+Q_PED_DIA_015 | ok |
+Q_PED_DIA_017 | ok |
+Q_PED_DIA_019 | ok |
+Q_PED_DIA_020 | ok |

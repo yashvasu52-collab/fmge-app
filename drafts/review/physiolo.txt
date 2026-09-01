@@ -1,0 +1,201 @@
+
+=== Physiology / Cardiac cycle, ECG basis, BP regulation
+Q_A_014 [E] On a normal ECG, the QRS complex represents:
+    A. Atrial depolarization
+   *B. Ventricular depolarization
+    C. Ventricular repolarization
+    D. Atrial repolarization
+   key=B ref=Sembulingam, Physiology
+   concept: The P wave is atrial depolarization, the QRS complex is ventricular depolarization (which masks atrial repolarization), and the T wave is ventricular repolarization.
+
+=== Physiology / GFR, clearance, urine concentration
+Q_A_016 [E] Antidiuretic hormone (ADH/vasopressin) increases water reabsorption mainly by inserting aquaporin-2 channels in which part of the nephron?
+    A. Proximal convoluted tubule
+    B. Descending limb of loop of Henle
+    C. Thick ascending limb
+   *D. Collecting duct
+   key=D ref=Guyton and Hall, Physiology
+   concept: ADH acts on V2 receptors of the collecting duct to insert aquaporin-2 water channels, increasing water permeability and concentrating the urine. ADH deficiency causes central diabetes insipidus.
+
+=== Physiology / Hormone actions & feedback
+Q_A_020 [M] A patient on long-term high-dose oral corticosteroids has suppressed plasma ACTH. This is best explained by:
+    A. Positive feedback on the pituitary
+   *B. Negative feedback of glucocorticoid on the hypothalamus and pituitary
+    C. Increased CRH secretion
+    D. Direct stimulation of the adrenal cortex
+   key=B ref=Guyton and Hall, Physiology
+   concept: Cortisol and exogenous glucocorticoids exert negative feedback on hypothalamic CRH and pituitary ACTH. Chronic exogenous steroids suppress the HPA axis, causing adrenal atrophy and risk of crisis if stopped abruptly.
+
+=== Physiology / O2/CO2 transport, hypoxia
+Q_A_018 [E] The largest fraction of carbon dioxide is transported in the blood as:
+    A. Dissolved CO2 in plasma
+    B. Carbaminohaemoglobin
+   *C. Bicarbonate ions
+    D. Carbonic acid
+   key=C ref=Sembulingam, Physiology
+   concept: About 70% of CO2 is carried as bicarbonate (formed by carbonic anhydrase in RBCs, with the chloride shift), roughly 20-23% as carbaminohaemoglobin, and about 7% dissolved in plasma.
+
+=== Physiology / Synapses, reflexes, ascending/descending pathways
+Q_GEN_PHYSIO_CNS_001 [E] Compared with a chemical synapse, which feature is characteristic of an electrical synapse mediated by gap junctions?
+    A. Transmission occurs across a wide (20-40 nm) synaptic cleft
+   *B. Transmission is bidirectional and occurs with virtually no synaptic delay
+    C. Signalling depends on Ca2+-triggered vesicular neurotransmitter release
+    D. It permits marked amplification and integration of the incoming signal
+   key=B ref=Guyton and Hall Textbook of Medical Physiology — The Nervous System (Synaptic Transmission)
+   concept: Electrical synapses use gap junctions (connexons) that directly couple the cytoplasm of adjacent cells, letting ions and current flow both ways almost instantaneously, so transmission is bidirectional with negligible delay and is ideal for synchronising cell populations. A is wrong because the gap-junction gap is only ~3.5 nm, not 20-40 nm (that width describes chemical synapses). C and D describe chemical synapses, which rely on Ca2+-dependent vesicle release and can amplify and integrate signals; electrical synapses can do neither.
+Q_GEN_PHYSIO_CNS_002 [M] The synaptic delay of about 0.5 ms at a chemical synapse is mainly due to the time required for which step?
+    A. Conduction of the action potential along the presynaptic axon
+    B. Diffusion of neurotransmitter across the entire width of the synaptic cleft
+   *C. Ca2+ entry triggering vesicle fusion and neurotransmitter release into the cleft
+    D. Propagation of the postsynaptic action potential to the axon hillock
+   key=C ref=Ganong's Review of Medical Physiology — Synaptic and Junctional Transmission
+   concept: Most of the synaptic delay (~0.5 ms) is consumed by the rate-limiting step of Ca2+ influx through voltage-gated channels after presynaptic depolarisation, which triggers docking and fusion of vesicles and transmitter discharge. Diffusion across the very narrow cleft is fast and contributes little, so B overstates it. A (axonal conduction) happens before the synapse and is not counted as synaptic delay, and D is a postsynaptic event that follows transmitter action rather than causing the delay.
+Q_GEN_PHYSIO_CNS_003 [M] An excitatory postsynaptic potential (EPSP) at a typical central synapse is produced mainly by opening channels permeable to which ion(s)?
+   *A. Non-selective cation channels allowing net Na+ influx (with some K+ efflux)
+    B. Selective Cl- channels producing Cl- influx
+    C. Selective K+ channels producing K+ efflux
+    D. Voltage-gated Ca2+ channels in the postsynaptic dendrite
+   key=A ref=Guyton and Hall Textbook of Medical Physiology — Synaptic Transmission in the CNS
+   concept: A fast EPSP occurs when an excitatory transmitter such as glutamate acting on AMPA receptors opens ligand-gated non-selective cation channels; the dominant net current is Na+ influx (partly offset by K+ efflux), depolarising the membrane toward threshold. B (Cl- influx) and C (K+ efflux) hyperpolarise or stabilise the membrane and underlie IPSPs, not EPSPs. D is wrong because postsynaptic depolarisation is generated by ligand-gated ionotropic receptors, not by opening postsynaptic voltage-gated Ca2+ channels.
+Q_GEN_PHYSIO_CNS_004 [M] Activation of the GABA-A receptor at a central inhibitory synapse produces an inhibitory postsynaptic potential primarily by:
+    A. Increasing Na+ conductance
+    B. Activating a G-protein that opens Ca2+ channels
+    C. Reducing the resting K+ conductance
+   *D. Increasing Cl- conductance, driving the membrane toward the Cl- equilibrium potential
+   key=D ref=Ganong's Review of Medical Physiology — Neurotransmitters and Receptors
+   concept: GABA-A is an ionotropic receptor forming a ligand-gated Cl- channel; opening it increases Cl- conductance and drives the membrane potential toward the chloride equilibrium (near or below rest), hyperpolarising or stabilising the cell to produce an IPSP. A would depolarise the cell (excitatory). B is wrong because GABA-A is a ligand-gated ion channel, not a G-protein-coupled receptor — that description fits GABA-B, which opens K+ channels. C would depolarise rather than inhibit the neuron.
+Q_GEN_PHYSIO_CNS_005 [H] Which property distinguishes the NMDA-type glutamate receptor from the AMPA-type glutamate receptor?
+    A. It is impermeable to Ca2+ and conducts only Na+ and K+
+   *B. At the resting membrane potential its channel is blocked by Mg2+, so it needs prior depolarisation to conduct
+    C. It is a metabotropic G-protein-coupled receptor
+    D. It responds to glycine only and not to glutamate
+   key=B ref=Guyton and Hall Textbook of Medical Physiology — Neurotransmitter Systems
+   concept: The NMDA receptor is a glutamate-gated ionotropic channel with a voltage-dependent Mg2+ block; only when the membrane is already depolarised (for example by AMPA activation) is Mg2+ expelled, letting Ca2+ and Na+ enter — the basis of coincidence detection and long-term potentiation. A is wrong because NMDA channels are highly Ca2+-permeable. C is wrong because NMDA is ionotropic (metabotropic glutamate receptors are a separate family). D is wrong because NMDA needs glutamate plus glycine as a co-agonist, not glycine alone.
+Q_GEN_PHYSIO_CNS_006 [H] Assertion (A): Presynaptic inhibition reduces the amount of neurotransmitter released from a presynaptic terminal. Reason (R): Activation of presynaptic GABA-B receptors decreases Ca2+ influx into that terminal. Select the correct option.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Ganong's Review of Medical Physiology — Synaptic Transmission (Presynaptic Inhibition)
+   concept: Presynaptic inhibition acts on the axon terminal itself: GABA acting on presynaptic GABA-B receptors reduces voltage-gated Ca2+ entry (and increases K+ conductance), so fewer vesicles fuse and less transmitter reaches the postsynaptic cell — selectively damping one input without changing overall postsynaptic excitability. Both statements are true and the reduced Ca2+ influx is exactly the mechanism, so R correctly explains A, giving option A. Options B, C and D misstate either the truth of the statements or the causal link between them.
+Q_GEN_PHYSIO_CNS_007 [E] Which neurotransmitter is the principal inhibitory transmitter released by interneurons in the spinal cord, and whose blockade by strychnine causes convulsions?
+    A. Glutamate
+    B. Acetylcholine
+   *C. Glycine
+    D. Dopamine
+   key=C ref=Guyton and Hall Textbook of Medical Physiology — CNS Neurotransmitters
+   concept: Glycine is the major inhibitory neurotransmitter of the spinal cord (released, for example, by Renshaw cells and Ia inhibitory interneurons), opening Cl- channels to hyperpolarise motor neurons. Strychnine competitively blocks glycine receptors, removing this inhibition and producing generalised muscle spasms and convulsions. Glutamate (A) is the main excitatory transmitter, acetylcholine (B) is the transmitter at the neuromuscular junction and autonomic ganglia, and dopamine (D) is a modulator concentrated in the basal ganglia, not the spinal inhibitory workhorse.
+Q_GEN_PHYSIO_CNS_008 [H] Assertion (A): Renshaw cells produce recurrent inhibition by releasing the excitatory transmitter glutamate onto alpha motor neurons. Reason (R): Renshaw cells are excited by recurrent collateral branches of alpha motor neuron axons. Select the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Ganong's Review of Medical Physiology — Spinal Reflexes (Renshaw Cells)
+   concept: Renshaw cells receive excitatory cholinergic input from recurrent collaterals of alpha motor neuron axons, so the reason is true. However, Renshaw cells are INHIBITORY interneurons that release glycine (not glutamate) back onto the same and neighbouring motor neurons, a negative feedback that stabilises and limits firing rate (recurrent inhibition). Because the assertion wrongly names glutamate and calls the effect excitatory, A is false while R is true, giving option D. Options A, B and C all require the assertion to be true.
+Q_GEN_PHYSIO_CNS_009 [M] Temporal summation at a neuron differs from spatial summation in that temporal summation involves:
+    A. Simultaneous activation of many different presynaptic terminals
+   *B. Rapidly repeated impulses at a single presynaptic terminal so that successive EPSPs overlap and add
+    C. Algebraic addition of an EPSP and an IPSP arriving together
+    D. Summation occurring only at electrical synapses
+   key=B ref=Guyton and Hall Textbook of Medical Physiology — Summation of Postsynaptic Potentials
+   concept: Temporal summation occurs when one presynaptic terminal fires in rapid succession so each EPSP begins before the previous one decays, allowing them to add up and reach threshold. Spatial summation, by contrast, is the simultaneous addition of EPSPs from many different terminals distributed over the cell, which is what option A describes. C describes algebraic summation of opposing potentials (inhibition), not temporal summation, and D is wrong because summation is a property of graded potentials at chemical synapses.
+Q_GEN_PHYSIO_CNS_010 [M] Excessive tension in a muscle activates its Golgi tendon organs, producing which reflex effect on that same muscle?
+   *A. Disynaptic inhibition of its own motor neurons (autogenic inhibition / inverse stretch reflex)
+    B. Monosynaptic excitation that increases its contraction
+    C. Excitation of the antagonist muscle via gamma motor neurons
+    D. Contraction of the contralateral limb
+   key=A ref=Ganong's Review of Medical Physiology — The Inverse Stretch Reflex
+   concept: Golgi tendon organs lie in series with the muscle fibres and sense tension; their Ib afferents excite inhibitory interneurons that disynaptically inhibit the muscle's own (homonymous) motor neurons, relaxing it — the inverse stretch reflex or autogenic inhibition, which protects against damaging loads. B describes the monosynaptic stretch reflex driven by muscle-spindle Ia afferents, not the GTO. C wrongly assigns the pathway to gamma motor neurons, and D describes the crossed-extensor reflex, an entirely different spinal circuit.
+Q_GEN_PHYSIO_CNS_011 [H] During a voluntary muscle contraction, simultaneous activation of gamma motor neurons (alpha-gamma coactivation) serves mainly to:
+    A. Directly generate the force of the contraction
+    B. Detect muscle tension rather than muscle length
+   *C. Keep the muscle spindle taut and sensitive to stretch as the muscle shortens
+    D. Inhibit the antagonist muscle
+   key=C ref=Guyton and Hall Textbook of Medical Physiology — Muscle Spindle and Gamma Efferents
+   concept: Alpha motor neurons drive extrafusal fibres to shorten the muscle; if the spindle were passive it would go slack and stop signalling as the muscle shortens. Gamma motor neurons contract the intrafusal fibre ends in parallel, keeping the spindle taut so it keeps reporting length changes throughout the movement, preserving stretch sensitivity and load compensation. A is the alpha motor neuron's job (intrafusal fibres generate negligible force). B is the Golgi tendon organ's function, and D is reciprocal inhibition, a separate circuit.
+Q_GEN_PHYSIO_CNS_012 [M] Assertion (A): In reciprocal innervation, the Ia afferent from a muscle spindle forms a direct monosynaptic inhibitory connection onto the antagonist muscle's motor neurons. Reason (R): Ia afferents excite Ia inhibitory interneurons that inhibit the antagonist's motor neurons. Select the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Ganong's Review of Medical Physiology — Reciprocal Innervation
+   concept: Reciprocal innervation means that when a muscle is stretched, its antagonist relaxes. The Ia afferent is monosynaptically EXCITATORY only to its own (agonist) motor neuron; inhibition of the antagonist is DISYNAPTIC, routed through a glycinergic Ia inhibitory interneuron — the afferent itself does not directly release an inhibitory transmitter onto the antagonist. So the assertion (a direct monosynaptic inhibitory Ia connection) is false while the reason correctly describes the interneuron pathway, giving option D.
+Q_GEN_PHYSIO_CNS_013 [M] A person steps on a sharp nail and rapidly withdraws that foot while the opposite leg stiffens to bear weight. The stiffening of the opposite (contralateral) limb is produced by:
+    A. The ipsilateral stretch reflex
+   *B. The crossed-extensor reflex — excitation of contralateral extensor motor neurons
+    C. Autogenic inhibition from Golgi tendon organs
+    D. Renshaw cell recurrent inhibition
+   key=B ref=Guyton and Hall Textbook of Medical Physiology — Flexor and Crossed-Extensor Reflexes
+   concept: A painful stimulus triggers the ipsilateral flexor (withdrawal) reflex to pull the limb from harm; through commissural interneurons the same afferents drive the crossed-extensor reflex, exciting extensors (and inhibiting flexors) of the contralateral limb so it can support the shifted body weight. A is wrong because a stretch reflex is not the postural response involved. C (autogenic inhibition) and D (recurrent inhibition) are local inhibitory circuits that cannot produce contralateral limb extension.
+Q_GEN_PHYSIO_CNS_014 [E] Stroking the lateral sole of the foot in an adult with an upper motor neuron lesion produces dorsiflexion of the great toe with fanning of the other toes. This sign indicates:
+   *A. A positive Babinski sign, indicating corticospinal (pyramidal) tract dysfunction
+    B. A normal plantar response
+    C. A lower motor neuron lesion of the tibial nerve
+    D. Cerebellar dysfunction
+   key=A ref=Ganong's Review of Medical Physiology — Corticospinal Tract and the Babinski Sign
+   concept: The normal adult plantar response is flexion (a downgoing great toe). An extensor (upgoing) great toe with fanning of the other toes — the Babinski sign — reflects loss of corticospinal/pyramidal (upper motor neuron) control and is a classic UMN sign; it is physiological only in infants before corticospinal myelination is complete. B is wrong because dorsiflexion is abnormal in adults. C and D are wrong because the sign localises to the corticospinal tract, not to a peripheral nerve or the cerebellum.
+Q_GEN_PHYSIO_CNS_015 [M] Damage to the dorsal column-medial lemniscus pathway on one side of the spinal cord causes loss, below the lesion, of which modalities on the SAME side of the body?
+    A. Pain and temperature only
+    B. All sensation completely
+   *C. Fine (discriminative) touch, vibration and conscious proprioception
+    D. Motor power with spasticity
+   key=C ref=Guyton and Hall Textbook of Medical Physiology — Somatosensory Pathways
+   concept: The dorsal column-medial lemniscus system carries fine discriminative touch, vibration and conscious proprioception. Its first-order fibres ascend ipsilaterally in the cord and synapse in the dorsal column nuclei of the medulla, decussating there as the internal arcuate fibres; therefore a cord lesion causes ipsilateral loss of these modalities below the level. A lists the spinothalamic modalities, B is wrong because pain and temperature (spinothalamic) are spared, and D describes a corticospinal motor lesion — a different tract altogether.
+Q_GEN_PHYSIO_CNS_016 [M] The axons of the lateral spinothalamic tract carrying pain and temperature cross the midline at which site?
+    A. They do not cross; the pathway is entirely ipsilateral
+    B. At the pyramidal decussation in the medulla
+    C. In the midbrain at the level of the red nucleus
+   *D. Within one to two segments at the spinal level, through the anterior white commissure
+   key=D ref=Ganong's Review of Medical Physiology — The Anterolateral (Spinothalamic) System
+   concept: Second-order neurons of the spinothalamic (anterolateral) system arise in the dorsal horn, cross through the anterior (ventral) white commissure within about one to two segments of entry, and then ascend contralaterally to the thalamus — which is why a cord lesion causes CONTRALATERAL pain and temperature loss starting a couple of segments below. A is wrong because the tract clearly decussates. B is where the corticospinal (motor) tract crosses, and C wrongly places the crossing in the midbrain.
+Q_GEN_PHYSIO_CNS_017 [E] About 80-85% of corticospinal tract fibres cross the midline at which location to form the lateral corticospinal tract?
+    A. At the spinal segmental level, in the anterior white commissure
+   *B. At the pyramidal decussation in the lower medulla
+    C. In the internal capsule
+    D. In the midbrain (crus cerebri)
+   key=B ref=Guyton and Hall Textbook of Medical Physiology — The Corticospinal (Pyramidal) Tract
+   concept: The corticospinal (pyramidal) tract descends through the internal capsule and crus cerebri, and at the junction of the medulla and spinal cord the majority (~80-85%) of its fibres decussate at the pyramidal decussation to form the lateral corticospinal tract that controls distal limb muscles; the remainder stay uncrossed as the anterior corticospinal tract and cross later at segmental levels. A describes the spinothalamic crossing, while C and D are levels the tract merely passes through without decussating.
+Q_GEN_PHYSIO_CNS_018 [E] Which combination of signs is characteristic of an upper motor neuron (UMN) lesion rather than a lower motor neuron (LMN) lesion?
+   *A. Spasticity, hyperreflexia and an extensor plantar response with little muscle wasting
+    B. Flaccidity, areflexia and marked early muscle atrophy with fasciculations
+    C. Fasciculations with absent deep tendon reflexes
+    D. Isolated sensory loss with normal power and reflexes
+   key=A ref=Ganong's Review of Medical Physiology — Upper and Lower Motor Neuron Lesions
+   concept: UMN (corticospinal) lesions release the cord from descending inhibition, producing spasticity (clasp-knife), hyperreflexia, clonus, an extensor plantar (Babinski) response and only mild disuse wasting. LMN lesions damage the anterior horn cell or its axon, giving flaccid weakness, hypo- or areflexia, early marked atrophy and fasciculations (options B and C). D describes a pure sensory syndrome, which is not a motor neuron lesion at all, so it does not distinguish UMN from LMN disease.
+Q_GEN_PHYSIO_CNS_019 [H] A stab wound hemisects the left half of the spinal cord at T10. Below the lesion the patient will most likely have:
+    A. Contralateral loss of vibration and proprioception with ipsilateral pain/temperature loss
+    B. Bilateral loss of all sensation with flaccid paralysis
+   *C. Ipsilateral spastic weakness with loss of vibration/proprioception, and contralateral loss of pain and temperature
+    D. Loss of pain and temperature only, in a bilateral cape distribution
+   key=C ref=Guyton and Hall Textbook of Medical Physiology — Spinal Cord Lesions (Brown-Sequard Syndrome)
+   concept: Brown-Sequard (cord hemisection) reflects tract anatomy. The corticospinal tract and dorsal columns have already crossed at or above the medulla and run ipsilaterally within the cord, so below the lesion there is IPSILATERAL spastic (UMN) weakness plus loss of vibration, proprioception and fine touch; the spinothalamic tract crossed within the cord, so pain and temperature are lost CONTRALATERALLY (beginning one to two segments below). A reverses the sides, B is complete cord transection, and D is the syringomyelia (dissociated cape) pattern.
+Q_GEN_PHYSIO_CNS_020 [H] A young adult has bilateral loss of pain and temperature sensation over both shoulders and arms (a 'cape' distribution) but preserved fine touch, vibration and proprioception. The lesion most likely involves:
+    A. The dorsal columns bilaterally
+   *B. The crossing spinothalamic fibres in the central cord (anterior white commissure), as in syringomyelia
+    C. The lateral corticospinal tracts
+    D. The peripheral sensory nerves of both arms
+   key=B ref=Ganong's Review of Medical Physiology — Dissociated Sensory Loss (Syringomyelia)
+   concept: A central cord cavity (syrinx) first interrupts the decussating spinothalamic fibres crossing in the anterior white commissure, producing a segmental, bilateral, 'suspended' cape-like loss of pain and temperature, while the dorsal columns (touch, vibration, proprioception) lying dorsally are spared — a dissociated sensory loss. A would abolish touch and vibration (the opposite pattern). C is a motor tract, and D (peripheral nerve damage) would not give a discrete suspended cape distribution matching the crossing fibres of specific segments.
+Q_GEN_PHYSIO_CNS_021 [H] In the basal ganglia, activation of the direct pathway (via D1 dopamine receptors) influences movement by:
+   *A. Facilitating (disinhibiting) the thalamus and thereby promoting movement
+    B. Inhibiting the thalamus and thereby suppressing movement
+    C. Directly exciting lower motor neurons in the spinal cord
+    D. Releasing dopamine from the striatum onto cortical neurons
+   key=A ref=Guyton and Hall Textbook of Medical Physiology — The Basal Ganglia and Motor Control
+   concept: The direct pathway (cortex to striatum to internal globus pallidus/SNpr to thalamus) uses D1 receptors and is facilitated by dopamine; it inhibits the tonically active GPi/SNpr output, which releases (disinhibits) the thalamus, increasing excitatory thalamocortical drive and promoting the desired movement. The indirect pathway (D2) does the opposite, which is option B. C is wrong because the basal ganglia act on cortex through the thalamus, not directly on spinal motor neurons; D misstates the circuit — dopamine is supplied by the substantia nigra pars compacta onto the striatum.
+Q_GEN_PHYSIO_CNS_022 [M] Which brainstem system is chiefly responsible for maintaining cortical arousal and the awake, conscious state?
+    A. The spinothalamic tract
+    B. The dorsal column nuclei
+    C. The corticospinal tract
+   *D. The ascending reticular activating system (ARAS) of the reticular formation
+   key=D ref=Ganong's Review of Medical Physiology — The Reticular Activating System and Consciousness
+   concept: The ascending reticular activating system, arising from the reticular formation of the brainstem and projecting through thalamic (intralaminar) and hypothalamic relays to the cortex, provides the diffuse tonic excitation that maintains wakefulness and consciousness; damage to it causes coma. A and B are specific sensory pathways (pain/temperature, and fine touch/proprioception respectively) and C is a descending motor pathway — none of these subserves the general arousal function of the ARAS.
+Q_GEN_PHYSIO_CNS_023 [H] Regarding pain fibres and the gate control theory of pain, which statement is correct?
+    A. C fibres are large, myelinated and carry fast, sharp, well-localised 'first' pain
+    B. Aδ fibres are unmyelinated and carry slow, burning 'second' pain
+   *C. Activity in large-diameter Aβ (touch) afferents can 'close the gate' in the dorsal horn and reduce transmission of pain
+    D. The gate control theory places the modulating gate in the thalamus
+   key=C ref=Guyton and Hall Textbook of Medical Physiology — Pain Physiology and the Gate Control Theory
+   concept: In the gate control theory, large myelinated Aβ afferents (touch/rubbing) excite inhibitory interneurons in the dorsal horn substantia gelatinosa that reduce transmission from nociceptive fibres — 'closing the gate' — which is why rubbing an injured area eases the pain. A and B are swapped: Aδ fibres are thinly myelinated and carry fast, sharp first pain, whereas C fibres are unmyelinated and carry slow, burning second pain. D is wrong because the modulating gate is located in the spinal dorsal horn, not in the thalamus.
+
+[27 shown of 27 unverified in scope]

@@ -1,0 +1,44 @@
+Q_SUR_URO_004 | del | duplicate of Q_SUR_URO_013, which gives the same inguinal orchidectomy with high cord ligation and additionally why a scrotal incision is avoided. The fuller item is retained
+Q_SUR_VAS_002 | del | duplicate of Q_SUR_VAS_011, which gives the same ankle brachial index threshold of 0.4 and additionally names the measurement. The fuller item is retained
+Q_SUR_VAS_005 | del | duplicate of Q_SUR_VAS_015, which describes the same gaiter area venous ulcer and additionally contrasts it with an arterial ulcer. The fuller item is retained
+Q_SUR_VAS_007 | del | duplicate of Q_SUR_VAS_016, which states the same 5.5 cm threshold in its stem and asks why it is used. The fuller item is retained
+Q_SUR_URO_010 | topic=Urinary stones, BPH, hematuria | stone composition belongs with the stones topic, not with tumours, hydrocele and phimosis
+Q_SUR_URO_002 | ok |
+Q_SUR_URO_005 | ok |
+Q_SUR_URO_006 | ok |
+Q_SUR_URO_007 | ok |
+Q_SUR_URO_008 | ok |
+Q_SUR_URO_009 | ok |
+Q_SUR_URO_011 | ok |
+Q_SUR_URO_012 | ok |
+Q_SUR_URO_013 | ok |
+Q_SUR_URO_014 | ok |
+Q_SUR_URO_015 | ok |
+Q_SUR_URO_016 | ok |
+Q_SUR_VAS_001 | ok |
+Q_SUR_VAS_003 | ok |
+Q_SUR_VAS_004 | ok |
+Q_SUR_VAS_006 | ok |
+Q_SUR_VAS_008 | ok |
+Q_SUR_VAS_009 | ok |
+Q_SUR_VAS_010 | ok |
+Q_SUR_VAS_011 | ok |
+Q_SUR_VAS_012 | ok |
+Q_SUR_VAS_013 | ok |
+Q_SUR_VAS_014 | ok |
+Q_SUR_VAS_015 | ok |
+Q_SUR_VAS_016 | ok |
+Q_SUR_WND_001 | ok |
+Q_SUR_WND_002 | ok |
+Q_SUR_WND_003 | ok |
+Q_SUR_WND_004 | ok |
+Q_SUR_WND_005 | ok |
+Q_SUR_WND_006 | ok |
+Q_SUR_WND_007 | ok |
+Q_SUR_WND_008 | ok |
+Q_SUR_WND_009 | ok |
+Q_SUR_WND_010 | ok |
+Q_SUR_WND_011 | ok |
+Q_SUR_WND_012 | ok |
+Q_SUR_WND_013 | ok |
+Q_SUR_WND_014 | ok |

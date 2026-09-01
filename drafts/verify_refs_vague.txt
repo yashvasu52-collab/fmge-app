@@ -1,0 +1,3 @@
+Q_h3d_041 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Trauma Imaging; ATLS 10e | reference was "Standard radiology texts; ATLS principles", which names no resolvable source and so fails the plan's requirement that a student be able to look the answer up
+Q_h3d_042 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Skeletal Radiology | reference was the unresolvable "Standard radiology texts"
+Q_h3d_043 | ref=ICRP Publication 103 (2007), Recommendations of the International Commission on Radiological Protection | reference was "Standard radiology texts; ICRP guidance", which named no specific publication

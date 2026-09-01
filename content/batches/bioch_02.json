@@ -1,0 +1,488 @@
+{
+ "questions": [
+  {
+   "id": "Q_BC_CHO_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "E",
+   "stem": "The rate-limiting enzyme of glycogenolysis is:",
+   "options": [
+    "Glycogen phosphorylase",
+    "Glycogen synthase",
+    "Debranching enzyme",
+    "Hexokinase"
+   ],
+   "correct": 0,
+   "concept": "Phosphorylase is activated by glucagon and adrenaline through cAMP-dependent phosphorylation and by AMP in muscle, coordinating glycogen breakdown with energy demand.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "M",
+   "stem": "Von Gierke disease (type I glycogen storage disease) is due to deficiency of:",
+   "options": [
+    "Glucose-6-phosphatase, causing severe fasting hypoglycaemia and hepatomegaly",
+    "Muscle phosphorylase",
+    "Lysosomal alpha-glucosidase",
+    "Debranching enzyme"
+   ],
+   "correct": 0,
+   "concept": "Without glucose-6-phosphatase the liver cannot release free glucose from either glycogenolysis or gluconeogenesis, giving hypoglycaemia, lactic acidosis, hyperuricaemia and hyperlipidaemia.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Glycogen Metabolism",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "M",
+   "stem": "McArdle disease results from deficiency of:",
+   "options": [
+    "Muscle glycogen phosphorylase, causing exercise intolerance with cramps and myoglobinuria",
+    "Liver phosphorylase",
+    "Glucose-6-phosphatase",
+    "Acid maltase"
+   ],
+   "correct": 0,
+   "concept": "Blood glucose is normal since the liver is unaffected, and there is no rise in lactate on ischaemic exercise testing. The second-wind phenomenon reflects a switch to fatty acid oxidation.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Glycogen Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "E",
+   "stem": "Pompe disease is unique among glycogen storage diseases because it is:",
+   "options": [
+    "A lysosomal storage disorder from acid maltase deficiency causing cardiomegaly",
+    "A cytosolic defect",
+    "Confined to liver",
+    "Benign"
+   ],
+   "correct": 0,
+   "concept": "Infantile Pompe disease causes massive cardiomegaly, hypotonia and death within the first year without enzyme replacement therapy - the classic heart-in-a-box radiographic appearance.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Glycogen Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "M",
+   "stem": "The principal function of the hexose monophosphate shunt is to produce:",
+   "options": [
+    "NADPH and ribose-5-phosphate",
+    "ATP",
+    "Lactate",
+    "Glycogen"
+   ],
+   "correct": 0,
+   "concept": "NADPH maintains reduced glutathione protecting red cells from oxidative damage and supports fatty acid, cholesterol and steroid synthesis; ribose-5-phosphate supplies nucleotide synthesis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "M",
+   "stem": "G6PD deficiency causes haemolysis because:",
+   "options": [
+    "Failure to generate NADPH leaves red cells unable to counter oxidative stress",
+    "Glycolysis fails",
+    "ATP is depleted",
+    "Membrane proteins are absent"
+   ],
+   "correct": 0,
+   "concept": "Precipitants include fava beans, primaquine, sulphonamides, nitrofurantoin and infection. Heinz bodies and bite cells appear on the smear, and enzyme assay is unreliable immediately after a haemolytic episode.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "E",
+   "stem": "The rate-limiting and irreversible enzyme of glycolysis is:",
+   "options": [
+    "Phosphofructokinase-1",
+    "Hexokinase",
+    "Pyruvate kinase",
+    "Aldolase"
+   ],
+   "correct": 0,
+   "concept": "The three irreversible steps - hexokinase or glucokinase, PFK-1 and pyruvate kinase - are the regulated points and are bypassed by separate enzymes in gluconeogenesis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "H",
+   "stem": "Fructose intolerance results from deficiency of:",
+   "options": [
+    "Aldolase B, causing hypoglycaemia and liver damage after fructose ingestion",
+    "Fructokinase",
+    "Aldolase A",
+    "Sucrase"
+   ],
+   "correct": 0,
+   "concept": "Accumulated fructose-1-phosphate traps phosphate and inhibits gluconeogenesis and glycogenolysis. Essential fructosuria from fructokinase deficiency is by contrast entirely benign.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "H",
+   "stem": "Galactosaemia is caused by deficiency of:",
+   "options": [
+    "Galactose-1-phosphate uridyl transferase",
+    "Galactokinase only",
+    "Lactase",
+    "Aldolase B"
+   ],
+   "correct": 0,
+   "concept": "Accumulated galactose-1-phosphate is hepatotoxic causing jaundice, hepatomegaly and E. coli sepsis; galactitol accumulation causes cataract. Galactokinase deficiency causes cataract alone.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CHO_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+   "difficulty": "M",
+   "stem": "Lactose intolerance results from:",
+   "options": [
+    "Deficiency of intestinal lactase causing osmotic diarrhoea and flatulence after milk",
+    "Milk protein allergy",
+    "Pancreatic insufficiency",
+    "Bile salt deficiency"
+   ],
+   "correct": 0,
+   "concept": "Primary adult-type hypolactasia is very common in Asian populations. The hydrogen breath test is diagnostic, as unabsorbed lactose is fermented by colonic bacteria producing hydrogen.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "E",
+   "stem": "The final electron acceptor in the mitochondrial electron transport chain is:",
+   "options": [
+    "Molecular oxygen, reduced to water at complex IV",
+    "NAD+",
+    "FAD",
+    "Cytochrome c"
+   ],
+   "correct": 0,
+   "concept": "Cyanide and carbon monoxide block cytochrome c oxidase at complex IV, halting electron flow and causing cellular hypoxia despite normal arterial oxygen - histotoxic hypoxia.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Bioenergetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "M",
+   "stem": "The chemiosmotic theory states that ATP synthesis is driven by:",
+   "options": [
+    "A proton gradient across the inner mitochondrial membrane",
+    "Direct substrate phosphorylation",
+    "Calcium gradients",
+    "Sodium gradients"
+   ],
+   "correct": 0,
+   "concept": "Protons pumped at complexes I, III and IV return through ATP synthase. Uncouplers such as 2,4-dinitrophenol and thermogenin dissipate this gradient, releasing energy as heat rather than ATP.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Bioenergetics",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "M",
+   "stem": "Brown adipose tissue generates heat in the newborn through:",
+   "options": [
+    "Uncoupling protein 1 (thermogenin) dissipating the proton gradient",
+    "Shivering",
+    "Increased ATP synthesis",
+    "Glycogen breakdown"
+   ],
+   "correct": 0,
+   "concept": "Non-shivering thermogenesis is essential in neonates who cannot shiver effectively. Brown fat is located interscapularly, around the neck and along the great vessels.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Bioenergetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "E",
+   "stem": "Complete oxidation of one molecule of glucose yields approximately:",
+   "options": [
+    "30 to 32 ATP",
+    "2 ATP",
+    "12 ATP",
+    "100 ATP"
+   ],
+   "correct": 0,
+   "concept": "Anaerobic glycolysis alone yields only 2 ATP, which is why tissues dependent on it, such as red cells and exercising muscle in oxygen debt, generate lactate and fatigue rapidly.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Bioenergetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "M",
+   "stem": "Rotenone and amytal inhibit the electron transport chain at:",
+   "options": [
+    "Complex I",
+    "Complex II",
+    "Complex III",
+    "Complex IV"
+   ],
+   "correct": 0,
+   "concept": "Antimycin A blocks complex III, cyanide, carbon monoxide and azide block complex IV, and oligomycin inhibits ATP synthase itself. Malonate competitively inhibits complex II.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Bioenergetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "M",
+   "stem": "Reactive oxygen species are neutralised by all EXCEPT:",
+   "options": [
+    "Xanthine oxidase",
+    "Superoxide dismutase",
+    "Catalase",
+    "Glutathione peroxidase"
+   ],
+   "correct": 0,
+   "concept": "Xanthine oxidase in fact generates superoxide, particularly during ischaemia-reperfusion. SOD converts superoxide to hydrogen peroxide, which catalase and glutathione peroxidase then detoxify.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Free Radicals",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "E",
+   "stem": "Selenium is an essential component of:",
+   "options": [
+    "Glutathione peroxidase",
+    "Superoxide dismutase",
+    "Catalase",
+    "Cytochrome oxidase"
+   ],
+   "correct": 0,
+   "concept": "Copper and zinc are cofactors of cytosolic SOD and manganese of mitochondrial SOD, while catalase contains haem iron. Selenium deficiency causes Keshan cardiomyopathy.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Free Radicals",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "H",
+   "stem": "Ischaemia-reperfusion injury is mediated principally by:",
+   "options": [
+    "A burst of reactive oxygen species on restoration of oxygen supply",
+    "Continued hypoxia",
+    "Loss of enzymes",
+    "Acidosis alone"
+   ],
+   "correct": 0,
+   "concept": "During ischaemia xanthine dehydrogenase converts to xanthine oxidase and hypoxanthine accumulates; reintroducing oxygen produces a superoxide burst. This underlies myocardial stunning after reperfusion.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Free Radicals",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "H",
+   "stem": "Vitamin E functions principally as:",
+   "options": [
+    "A lipid-soluble chain-breaking antioxidant protecting membrane polyunsaturated fatty acids",
+    "A water-soluble antioxidant",
+    "A coenzyme",
+    "A hormone"
+   ],
+   "correct": 0,
+   "concept": "Vitamin C regenerates oxidised vitamin E, so the two act synergistically. Deficiency causes haemolysis and neurological damage, particularly in fat malabsorption and abetalipoproteinaemia.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Vitamins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_OXP_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oxidative phosphorylation, ETC & free radicals",
+   "difficulty": "M",
+   "stem": "Mitochondrial DNA is significant clinically because it:",
+   "options": [
+    "Is maternally inherited and encodes electron transport chain components",
+    "Is paternally inherited",
+    "Encodes all proteins",
+    "Has no clinical relevance"
+   ],
+   "correct": 0,
+   "concept": "Heteroplasmy explains the variable severity of mitochondrial diseases such as MELAS, MERRF and Leber optic neuropathy, which affect high-energy tissues - brain, muscle, heart and retina.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Bioenergetics",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

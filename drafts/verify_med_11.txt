@@ -1,0 +1,50 @@
+Q_MED_RTA_006 | del | duplicate of Q_MED_RTA_018, which gives the same positive urinary anion gap of distal renal tubular acidosis and additionally the urine pH. The fuller item is retained
+Q_MED_SPA_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 362 (The Spondyloarthritides) | the chapter was cited as "The Spondyloarthritides and Vasculitis Syndromes", a merged title that is not a chapter in the book
+Q_MED_SPA_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 362 (The Spondyloarthritides) | the chapter was cited as "The Spondyloarthritides and Vasculitis Syndromes", a merged title that is not a chapter in the book
+Q_MED_SPA_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Gout and Other Crystal-Associated Arthropathies | the chapter was cited as "The Spondyloarthritides and Vasculitis Syndromes", a merged title that is not a chapter in the book, and a crystal arthropathy item belongs in the gout chapter
+Q_MED_SPA_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. The Vasculitis Syndromes | the chapter was cited as "The Spondyloarthritides and Vasculitis Syndromes", a merged title that is not a chapter in the book, and a vasculitis item belongs in the vasculitis chapter
+Q_MED_SPA_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. The Vasculitis Syndromes | the chapter was cited as "The Spondyloarthritides and Vasculitis Syndromes", a merged title that is not a chapter in the book, and a vasculitis item belongs in the vasculitis chapter
+Q_MED_SPA_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. The Vasculitis Syndromes | the chapter was cited as "The Spondyloarthritides and Vasculitis Syndromes", a merged title that is not a chapter in the book, and a vasculitis item belongs in the vasculitis chapter
+Q_MED_SPA_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. The Vasculitis Syndromes | the chapter was cited as "The Spondyloarthritides and Vasculitis Syndromes", a merged title that is not a chapter in the book, and a vasculitis item belongs in the vasculitis chapter
+Q_MED_SPA_014 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Gout and Other Crystal-Associated Arthropathies | a crystal arthropathy item was cited to the spondyloarthritides chapter
+Q_MED_SPA_015 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Gout and Other Crystal-Associated Arthropathies | a crystal arthropathy item was cited to the spondyloarthritides chapter
+Q_MED_SPA_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Gout and Other Crystal-Associated Arthropathies | a crystal arthropathy item was cited to the spondyloarthritides chapter
+Q_MED_SPA_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. The Vasculitis Syndromes | a vasculitis item was cited to the spondyloarthritides chapter
+Q_MED_SPA_018 | ref=Harrison's Principles of Internal Medicine 21e, Ch. The Vasculitis Syndromes | a vasculitis item was cited to the spondyloarthritides chapter
+Q_MED_SPA_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. The Vasculitis Syndromes | a vasculitis item was cited to the spondyloarthritides chapter
+Q_MED_RTA_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 315 (Tubulointerstitial Diseases of the Kidney) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_RTA_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 315 (Tubulointerstitial Diseases of the Kidney) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_RTA_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 315 (Tubulointerstitial Diseases of the Kidney) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_RTA_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 315 (Tubulointerstitial Diseases of the Kidney) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_RTA_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dialysis in the Treatment of Renal Failure | a dialysis item was cited to the tubulointerstitial disease chapter
+Q_MED_RTA_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dialysis in the Treatment of Renal Failure | a dialysis item was cited to the tubulointerstitial disease chapter
+Q_MED_RTA_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dialysis in the Treatment of Renal Failure | a dialysis item was cited to the tubulointerstitial disease chapter
+Q_MED_RTA_013 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dialysis in the Treatment of Renal Failure | a dialysis item was cited to the tubulointerstitial disease chapter
+Q_MED_RTA_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dialysis in the Treatment of Renal Failure | a dialysis item was cited to the tubulointerstitial disease chapter
+Q_MED_RTA_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Transplantation in the Treatment of Renal Failure | a transplantation item was cited to the tubulointerstitial disease chapter
+Q_MED_RTA_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Chronic Kidney Disease | a chronic kidney disease bone disorder item was cited to the tubulointerstitial disease chapter
+Q_MED_SEP_015 | ok |
+Q_MED_SEP_016 | ok |
+Q_MED_SEP_017 | ok |
+Q_MED_SEP_018 | ok |
+Q_MED_SEP_019 | ok |
+Q_MED_SPA_004 | ok |
+Q_MED_SPA_005 | ok |
+Q_MED_SPA_010 | ok |
+Q_MED_SPA_011 | ok |
+Q_MED_SPA_012 | ok |
+Q_MED_SPA_013 | ok |
+Q_MED_TD_001 | ok |
+Q_MED_TD_002 | ok |
+Q_MED_TD_003 | ok |
+Q_MED_TD_004 | ok |
+Q_MED_TD_005 | ok |
+Q_MED_TD_006 | ok |
+Q_MED_TD_007 | ok |
+Q_MED_TD_008 | ok |
+Q_MED_TD_009 | ok |
+Q_MED_RTA_011 | ok |
+Q_MED_RTA_012 | ok |
+Q_MED_RTA_014 | ok |
+Q_MED_RTA_015 | ok |
+Q_MED_RTA_018 | ok |

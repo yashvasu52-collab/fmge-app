@@ -1,0 +1,42 @@
+Q_A_025 | ref=Lippincott Illustrated Reviews: Biochemistry 8e, Ch. Amino Acid Degradation and Synthesis | the reference named the book with no chapter
+Q_h3d_014 | ref=Lippincott Illustrated Reviews: Biochemistry 8e, Ch. Amino Acid Degradation and Synthesis | the reference named the book with no chapter
+Q_A_029 | ref=Lippincott Illustrated Reviews: Biochemistry 8e, Ch. DNA Structure, Replication and Repair | the reference named the book with no chapter
+Q_PYQ_FMGE_2025JANP2_039 | ref=FMGE January 2025 Part 2 (real exam recall); Lippincott Illustrated Reviews: Biochemistry 8e, Ch. Amino Acids | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_047 | ref=FMGE July 2025 Part 2 (real exam recall); Lippincott Illustrated Reviews: Biochemistry 8e, Ch. Amino Acid Degradation and Synthesis | exam-paper-only reference given a study source
+Q_BC_CAN_001 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_002 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_003 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_004 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_005 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_006 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_007 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_008 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_009 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_010 | ref=Harper's Illustrated Biochemistry 32e, Ch. Cancer: An Overview | the chapter was cited as "Cancer Biochemistry", which is not the chapter title the rest of the topic uses
+Q_BC_CAN_011 | ok |
+Q_BC_CAN_012 | ok |
+Q_BC_CAN_013 | ok |
+Q_BC_CAN_014 | ok |
+Q_BC_CAN_015 | ok |
+Q_BC_CAN_016 | ok |
+Q_BC_CAN_017 | ok |
+Q_BC_CAN_018 | ok |
+Q_BC_CHO_001 | ok |
+Q_BC_CHO_002 | ok |
+Q_BC_CHO_003 | ok |
+Q_BC_CHO_004 | ok |
+Q_BC_CHO_005 | ok |
+Q_BC_CHO_006 | ok |
+Q_BC_CHO_008 | ok |
+Q_BC_CHO_010 | ok |
+Q_BC_CHO_011 | ok |
+Q_BC_CHO_012 | ok |
+Q_BC_CHO_013 | ok |
+Q_BC_CHO_014 | ok |
+Q_BC_CHO_015 | ok |
+Q_BC_CHO_016 | ok |
+Q_BC_CHO_017 | ok |
+Q_BC_CHO_018 | ok |
+Q_BC_DNA_001 | ok |
+Q_BC_DNA_002 | ok |
+Q_BC_DNA_003 | ok |

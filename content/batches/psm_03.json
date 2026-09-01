@@ -1,0 +1,488 @@
+{
+ "questions": [
+  {
+   "id": "Q_PSM_OCC_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "E",
+   "stem": "Pneumoconiosis is best defined as:",
+   "options": [
+    "Accumulation of dust in the lungs with tissue reaction to its presence",
+    "Any lung infection",
+    "Asthma from fumes",
+    "Lung cancer"
+   ],
+   "correct": 0,
+   "concept": "Silicosis, coal worker's pneumoconiosis, asbestosis, byssinosis and bagassosis are the important forms. They are notifiable and compensable occupational diseases in India.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "M",
+   "stem": "Byssinosis, caused by cotton dust, is characterised by:",
+   "options": [
+    "Chest tightness and dyspnoea worst on the first day back at work (Monday fever)",
+    "Progressive fibrosis",
+    "Eggshell calcification",
+    "Mesothelioma"
+   ],
+   "correct": 0,
+   "concept": "The improvement over the working week with recurrence after a break is the diagnostic clue. Radiographs are typically normal, unlike the fibrotic pneumoconioses.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "M",
+   "stem": "The most important measure to prevent occupational disease is:",
+   "options": [
+    "Engineering control at source such as enclosure, ventilation and substitution",
+    "Personal protective equipment",
+    "Periodic examination",
+    "Compensation"
+   ],
+   "correct": 0,
+   "concept": "The hierarchy of control places elimination and substitution first, then engineering and administrative controls, with personal protective equipment last because it depends on individual compliance.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "E",
+   "stem": "Under the Factories Act, a notifiable occupational disease must be reported by:",
+   "options": [
+    "The factory medical officer or medical practitioner to the Chief Inspector of Factories",
+    "The worker",
+    "The union",
+    "The police"
+   ],
+   "correct": 0,
+   "concept": "The Act also regulates working hours, welfare facilities, hazardous processes and the appointment of safety officers, and mandates periodic medical examination for workers in hazardous processes.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "M",
+   "stem": "Chronic lead poisoning in an industrial worker is best monitored by:",
+   "options": [
+    "Blood lead level, with blood ALA and zinc protoporphyrin as supporting tests",
+    "Urine microscopy",
+    "Chest radiograph",
+    "Spirometry"
+   ],
+   "correct": 0,
+   "concept": "Features include anaemia with basophilic stippling, a gum lead line, wrist drop from radial nerve palsy, abdominal colic and, in children, encephalopathy with lasting cognitive impairment.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "M",
+   "stem": "Occupational noise-induced hearing loss characteristically shows:",
+   "options": [
+    "A 4000 Hz dip on audiometry, bilateral and sensorineural",
+    "Conductive loss",
+    "Unilateral loss",
+    "Low frequency loss"
+   ],
+   "correct": 0,
+   "concept": "It is entirely preventable by engineering control and hearing protection but irreversible once established. Permissible exposure is 90 dB for 8 hours, halving the duration for each 5 dB increase.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "E",
+   "stem": "Caisson disease in compressed air workers is prevented by:",
+   "options": [
+    "Slow staged decompression",
+    "Rapid ascent",
+    "Oxygen therapy afterwards",
+    "Physical fitness alone"
+   ],
+   "correct": 0,
+   "concept": "Nitrogen bubbles form on rapid decompression causing the bends, chokes and staggers, with chronic dysbaric osteonecrosis. Recompression in a hyperbaric chamber treats acute cases.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "H",
+   "stem": "The Employees State Insurance Act provides:",
+   "options": [
+    "Medical care and cash benefits to insured workers and their dependants",
+    "Only cash benefits",
+    "Only medical care",
+    "Pension only"
+   ],
+   "correct": 0,
+   "concept": "ESI covers sickness, maternity, disablement, dependants and funeral benefits, funded by employer and employee contributions - a contributory social insurance model for organised sector workers.",
+   "reference": "Park 27e, Social Security",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "H",
+   "stem": "Sick building syndrome is characterised by:",
+   "options": [
+    "Non-specific symptoms relieved on leaving the building, without a single identifiable cause",
+    "A specific pathogen",
+    "Permanent disability",
+    "Radiographic changes"
+   ],
+   "correct": 0,
+   "concept": "Headache, eye and throat irritation, fatigue and poor concentration relate to inadequate ventilation and indoor pollutants. Building-related illness, by contrast, has a specific identifiable cause such as legionellosis.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_OCC_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Occupational health & industrial diseases",
+   "difficulty": "M",
+   "stem": "Pre-placement examination in occupational health serves to:",
+   "options": [
+    "Match the worker to a job they can safely perform and establish a baseline record",
+    "Exclude the disabled",
+    "Reduce wages",
+    "Screen for infection only"
+   ],
+   "correct": 0,
+   "concept": "It is a placement rather than a rejection exercise, and the baseline is essential for later attributing any change to occupational exposure in medico-legal and compensation proceedings.",
+   "reference": "Park 27e, Occupational Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "E",
+   "stem": "The indicator organism of faecal contamination of water is:",
+   "options": [
+    "Escherichia coli",
+    "Staphylococcus",
+    "Clostridium tetani",
+    "Pseudomonas"
+   ],
+   "correct": 0,
+   "concept": "E. coli is chosen because it is always present in faeces, survives slightly longer than most pathogens and is easily detected. Any coliform in treated piped water indicates unsatisfactory quality.",
+   "reference": "Park 27e, Water",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "M",
+   "stem": "The most effective single method of purifying water at household level is:",
+   "options": [
+    "Boiling for 5 to 10 minutes",
+    "Filtration through cloth",
+    "Adding alum",
+    "Sedimentation"
+   ],
+   "correct": 0,
+   "concept": "Boiling kills all pathogens including cysts and viruses but does not remove chemical contaminants and offers no residual protection against recontamination, which chlorination provides.",
+   "reference": "Park 27e, Water",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "M",
+   "stem": "The recommended residual free chlorine in drinking water after contact time is:",
+   "options": [
+    "0.5 mg per litre after one hour contact",
+    "5 mg per litre",
+    "0.05 mg per litre",
+    "No residual needed"
+   ],
+   "correct": 0,
+   "concept": "The orthotolidine test measures residual chlorine. Break-point chlorination ensures the demand is satisfied first, and the residual guards against recontamination in the distribution system.",
+   "reference": "Park 27e, Water",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "E",
+   "stem": "The commonest indoor air pollutant causing respiratory disease among rural Indian women is:",
+   "options": [
+    "Smoke from biomass cooking fuel",
+    "Tobacco smoke",
+    "Asbestos",
+    "Radon"
+   ],
+   "correct": 0,
+   "concept": "Biomass smoke causes COPD, acute respiratory infection in children, low birth weight and cataract. The Pradhan Mantri Ujjwala Yojana promoting LPG addresses this directly.",
+   "reference": "Park 27e, Air",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "M",
+   "stem": "The air pollutant most closely associated with cardiorespiratory mortality is:",
+   "options": [
+    "PM2.5, fine particulate matter penetrating to the alveoli",
+    "Carbon dioxide",
+    "Nitrogen",
+    "Ozone at ground level only"
+   ],
+   "correct": 0,
+   "concept": "Particles under 2.5 micrometres reach the alveoli and enter the circulation, causing systemic inflammation. India's National Clean Air Programme targets reduction in PM2.5 and PM10 concentrations.",
+   "reference": "Park 27e, Air",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "M",
+   "stem": "Optimal housing standards recommend that a living room should have a floor area of at least:",
+   "options": [
+    "Nine to eleven square metres per person",
+    "Two square metres",
+    "Twenty square metres",
+    "No standard"
+   ],
+   "correct": 0,
+   "concept": "Overcrowding is defined by persons per room and floor space and facilitates transmission of tuberculosis, measles and respiratory infection - which is why housing is a determinant of health.",
+   "reference": "Park 27e, Housing",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "E",
+   "stem": "Noise above what intensity causes hearing damage on prolonged exposure?",
+   "options": [
+    "85 to 90 decibels",
+    "40 decibels",
+    "60 decibels",
+    "120 decibels only"
+   ],
+   "correct": 0,
+   "concept": "Permissible exposure is 90 dB for 8 hours in India, with duration halved for each 5 dB rise. Noise also causes annoyance, sleep disturbance, hypertension and impaired task performance.",
+   "reference": "Park 27e, Noise",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "H",
+   "stem": "The greenhouse effect and climate change affect health chiefly through:",
+   "options": [
+    "Heat stress, changing vector distribution, extreme weather and food and water insecurity",
+    "Direct radiation",
+    "Ozone depletion only",
+    "Noise"
+   ],
+   "correct": 0,
+   "concept": "Warming extends the range and season of Aedes and Anopheles mosquitoes, altering dengue and malaria distribution, while heat waves cause direct mortality in the elderly and outdoor workers.",
+   "reference": "Park 27e, Environment",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "H",
+   "stem": "Arsenic contamination of groundwater in West Bengal causes:",
+   "options": [
+    "Hyperkeratosis, raindrop pigmentation and skin, bladder and lung cancer",
+    "Goitre",
+    "Fluorosis",
+    "Anaemia only"
+   ],
+   "correct": 0,
+   "concept": "The permissible limit is 0.01 mg/L. Chronic arsenicosis also causes peripheral vascular disease with blackfoot disease and Mees lines on the nails; mitigation requires alternative water sources.",
+   "reference": "Park 27e, Water",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ENV_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Environmental health: air, noise, housing, climate",
+   "difficulty": "M",
+   "stem": "The sanitation barrier in preventing faeco-oral disease works by:",
+   "options": [
+    "Interrupting transmission from faeces to the new host through the five Fs",
+    "Treating the sick",
+    "Immunising the population",
+    "Improving nutrition"
+   ],
+   "correct": 0,
+   "concept": "Fingers, flies, fields, fluids and food are the routes. Safe excreta disposal and hand hygiene break the chain, which is why the Swachh Bharat Mission targets open defecation free status.",
+   "reference": "Park 27e, Sanitation",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

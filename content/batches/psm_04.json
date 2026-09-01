@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "id": "Q_PSM_VPD_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "E",
+   "stem": "India was certified polio-free in:",
+   "options": [
+    "2014, after three years with no wild poliovirus case",
+    "2000",
+    "2020",
+    "2005"
+   ],
+   "correct": 0,
+   "concept": "The last wild case was in West Bengal in January 2011. Surveillance continues through acute flaccid paralysis reporting in all children under 15 and environmental sewage sampling.",
+   "reference": "Park 27e, Poliomyelitis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "M",
+   "stem": "The secondary attack rate of measles is high because:",
+   "options": [
+    "It is one of the most infectious diseases, with a basic reproduction number of 12 to 18",
+    "It has a long incubation",
+    "It is bacterial",
+    "It spreads slowly"
+   ],
+   "correct": 0,
+   "concept": "This high transmissibility means about 95% immunisation coverage is needed for herd immunity, far above the threshold for most other vaccine-preventable diseases.",
+   "reference": "Park 27e, Measles",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "M",
+   "stem": "A case of measles is infectious from:",
+   "options": [
+    "Four days before to four days after the appearance of rash",
+    "Only during the rash",
+    "Only after the rash",
+    "Two weeks before"
+   ],
+   "correct": 0,
+   "concept": "Infectivity begins in the prodrome, so isolation after the rash appears is too late to prevent spread - a key reason measles propagates so efficiently in schools and hospitals.",
+   "reference": "Park 27e, Measles",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "E",
+   "stem": "Diphtheria is prevented by:",
+   "options": [
+    "Toxoid, which produces antitoxic rather than antibacterial immunity",
+    "A live vaccine",
+    "An antibiotic",
+    "Immunoglobulin"
+   ],
+   "correct": 0,
+   "concept": "Because immunity is antitoxic, vaccinated persons may still carry the organism, which is why treatment of cases requires antitoxin and antibiotics and contacts require prophylaxis and boosting.",
+   "reference": "Park 27e, Diphtheria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "M",
+   "stem": "Herd immunity is not applicable to which vaccine-preventable disease?",
+   "options": [
+    "Tetanus, because it is acquired from the environment rather than person to person",
+    "Measles",
+    "Diphtheria",
+    "Polio"
+   ],
+   "correct": 0,
+   "concept": "Clostridium tetani spores are ubiquitous in soil, so every individual must be individually immunised. This is why maternal immunisation is essential for preventing neonatal tetanus.",
+   "reference": "Park 27e, Tetanus",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "M",
+   "stem": "The pulse polio immunisation strategy works by:",
+   "options": [
+    "Simultaneously immunising all children under five in a very short period to interrupt transmission",
+    "Immunising only high-risk children",
+    "Continuous routine immunisation",
+    "Immunising adults"
+   ],
+   "correct": 0,
+   "concept": "Simultaneous administration floods the community with vaccine virus, outcompeting wild virus in the gut and interrupting circulation - a strategy dependent on the live oral vaccine.",
+   "reference": "Park 27e, Poliomyelitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "E",
+   "stem": "Chickenpox is infectious from:",
+   "options": [
+    "One to two days before the rash until all lesions crust",
+    "Only after crusting",
+    "Two weeks before",
+    "Only during fever"
+   ],
+   "correct": 0,
+   "concept": "The rash is centripetal, appearing in successive crops so that lesions of different stages coexist - pleomorphism, which distinguishes it from smallpox where lesions were centrifugal and monomorphic.",
+   "reference": "Park 27e, Chickenpox",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "H",
+   "stem": "Smallpox eradication succeeded because of all EXCEPT:",
+   "options": [
+    "A long asymptomatic carrier state",
+    "An effective heat-stable vaccine",
+    "No animal reservoir",
+    "A characteristic easily recognised rash"
+   ],
+   "correct": 0,
+   "concept": "There was no subclinical or carrier state, so every infectious person was identifiable - the crucial feature enabling surveillance and containment through ring vaccination.",
+   "reference": "Park 27e, Smallpox",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "H",
+   "stem": "The epidemiological triad concept of an epidemic curve with a single sharp peak suggests:",
+   "options": [
+    "A point source (common vehicle) epidemic",
+    "Propagated epidemic",
+    "Endemic disease",
+    "Sporadic cases"
+   ],
+   "correct": 0,
+   "concept": "A propagated epidemic shows successive waves separated by the incubation period as person-to-person transmission occurs, whereas a point source shows all cases within one incubation period.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VPD_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+   "difficulty": "M",
+   "stem": "Mumps vaccine is given in India as part of:",
+   "options": [
+    "The MMR vaccine in the private sector, as the national schedule uses MR",
+    "The national UIP schedule",
+    "No vaccine available",
+    "Only for outbreaks"
+   ],
+   "correct": 0,
+   "concept": "The Universal Immunisation Programme provides measles-rubella vaccine, while MMR including mumps is available in the private sector - a common point of confusion in examinations.",
+   "reference": "Park 27e, Immunisation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "E",
+   "stem": "The Sustainable Development Goal specifically addressing health is:",
+   "options": [
+    "Goal 3 - Ensure healthy lives and promote well-being for all at all ages",
+    "Goal 1",
+    "Goal 5",
+    "Goal 10"
+   ],
+   "correct": 0,
+   "concept": "The 17 SDGs adopted in 2015 for 2030 replaced the 8 Millennium Development Goals, and are broader and universal, applying to developed and developing countries alike.",
+   "reference": "Park 27e, International Health",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "M",
+   "stem": "The SDG target for maternal mortality ratio by 2030 is:",
+   "options": [
+    "Less than 70 per 100,000 live births globally",
+    "Less than 100",
+    "Less than 200",
+    "Less than 30"
+   ],
+   "correct": 0,
+   "concept": "The neonatal mortality target is 12 or fewer and under-five mortality 25 or fewer per 1000 live births. India achieved the SDG maternal target ahead of schedule in several states.",
+   "reference": "Park 27e, International Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "M",
+   "stem": "The World Health Organization is best described as:",
+   "options": [
+    "A specialised agency of the United Nations directing international health work",
+    "A charity",
+    "A research institute",
+    "A funding bank"
+   ],
+   "correct": 0,
+   "concept": "Established in 1948 with headquarters in Geneva and six regional offices, India belongs to the South-East Asia Region with its office in New Delhi. The World Health Assembly is its governing body.",
+   "reference": "Park 27e, International Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "E",
+   "stem": "The International Health Regulations require member states to notify WHO of:",
+   "options": [
+    "Any event that may constitute a public health emergency of international concern",
+    "Only plague, cholera and yellow fever",
+    "All infectious diseases",
+    "Only outbreaks over 100 cases"
+   ],
+   "correct": 0,
+   "concept": "The 2005 revision moved from a fixed disease list to an all-hazards approach with a decision instrument, requiring core surveillance and response capacity at points of entry.",
+   "reference": "Park 27e, International Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "M",
+   "stem": "In disaster management, triage aims to:",
+   "options": [
+    "Do the greatest good for the greatest number by prioritising the salvageable",
+    "Treat the most severely injured first regardless of prognosis",
+    "Treat in order of arrival",
+    "Treat children first"
+   ],
+   "correct": 0,
+   "concept": "This inverts everyday clinical ethics: those with catastrophic unsurvivable injuries are given expectant care so resources go to those who can be saved - the essence of mass casualty triage.",
+   "reference": "Park 27e, Disaster Management",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "M",
+   "stem": "In the START triage system, the red (immediate) category indicates:",
+   "options": [
+    "Life-threatening injury that is treatable with immediate intervention",
+    "Minor injury",
+    "Dead or unsalvageable",
+    "Delayed treatment acceptable"
+   ],
+   "correct": 0,
+   "concept": "Green denotes walking wounded, yellow delayed, red immediate and black dead or expectant. Rapid reassessment is essential as casualties can deteriorate between categories.",
+   "reference": "Park 27e, Disaster Management",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "E",
+   "stem": "The commonest cause of death in the immediate aftermath of an earthquake is:",
+   "options": [
+    "Crush injury and trauma",
+    "Epidemic disease",
+    "Starvation",
+    "Exposure"
+   ],
+   "correct": 0,
+   "concept": "Epidemics do not arise spontaneously from dead bodies - a persistent myth. Disease risk comes later from displacement, overcrowding and disruption of water and sanitation.",
+   "reference": "Park 27e, Disaster Management",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "H",
+   "stem": "The greatest public health priority in a refugee camp is:",
+   "options": [
+    "Safe water, sanitation, food, shelter and measles immunisation",
+    "Surgical services",
+    "Chronic disease care",
+    "Dental care"
+   ],
+   "correct": 0,
+   "concept": "Measles vaccination with vitamin A is a top priority because overcrowding and malnutrition make measles outbreaks devastating, historically a major cause of camp mortality.",
+   "reference": "Park 27e, Disaster Management",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "H",
+   "stem": "Primary health care as defined at Alma-Ata rests on principles including:",
+   "options": [
+    "Equitable distribution, community participation, intersectoral coordination and appropriate technology",
+    "Hospital-based specialist care",
+    "Private financing",
+    "Technology-intensive care"
+   ],
+   "correct": 0,
+   "concept": "The Astana Declaration of 2018 reaffirmed these principles, linking them to universal health coverage and the SDGs, and emphasising empowered people and communities.",
+   "reference": "Park 27e, Primary Health Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_INT_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "International health, WHO, SDGs & disaster management",
+   "difficulty": "M",
+   "stem": "Universal health coverage means that:",
+   "options": [
+    "All people receive needed quality health services without financial hardship",
+    "Free care for all diseases",
+    "Government provision only",
+    "Insurance for the poor only"
+   ],
+   "correct": 0,
+   "concept": "Its three dimensions are population covered, services included and proportion of costs met. Reducing catastrophic out-of-pocket expenditure, which is very high in India, is central to it.",
+   "reference": "Park 27e, Health Care Delivery",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

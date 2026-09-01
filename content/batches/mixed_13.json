@@ -1,0 +1,487 @@
+{
+ "questions": [
+  {
+   "id": "Q_SUR_CHT_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "E",
+   "stem": "A flail chest is defined as:",
+   "options": [
+    "Fracture of three or more consecutive ribs in two or more places producing paradoxical movement",
+    "A single rib fracture",
+    "Fracture of the sternum",
+    "Fracture of the clavicle"
+   ],
+   "correct": 0,
+   "concept": "The flail segment moves paradoxically inward on inspiration. The main problem is the underlying pulmonary contusion rather than the mechanics, so management centres on analgesia, physiotherapy and ventilatory support if hypoxia develops.",
+   "reference": "Bailey & Love 28e, Thoracic Trauma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "M",
+   "stem": "Immediate management of a massive haemothorax with 1500 mL initial drainage is:",
+   "options": [
+    "Intercostal drainage with resuscitation and consideration of urgent thoracotomy",
+    "Observation",
+    "Needle aspiration only",
+    "Pleurodesis"
+   ],
+   "correct": 0,
+   "concept": "Thoracotomy is indicated for an initial drainage above 1500 mL or continuing losses over 200 mL per hour for 2 to 4 hours, or persistent haemodynamic instability. Blood should be collected for autotransfusion where available.",
+   "reference": "Bailey & Love 28e, Thoracic Trauma",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "M",
+   "stem": "An open (sucking) chest wound is initially managed by:",
+   "options": [
+    "A three-sided occlusive dressing acting as a flutter valve, then an intercostal drain",
+    "A four-sided airtight dressing",
+    "Immediate suturing",
+    "Observation"
+   ],
+   "correct": 0,
+   "concept": "A dressing taped on three sides lets air escape on expiration but prevents entry on inspiration, avoiding conversion to a tension pneumothorax which a fully sealed dressing would cause. Definitive drainage and closure follow.",
+   "reference": "Bailey & Love 28e, Thoracic Trauma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "E",
+   "stem": "The commonest site of aortic injury in blunt deceleration trauma is:",
+   "options": [
+    "The aortic isthmus just distal to the left subclavian artery",
+    "The aortic root",
+    "The abdominal aorta",
+    "The arch at the innominate origin"
+   ],
+   "correct": 0,
+   "concept": "The isthmus is relatively fixed by the ligamentum arteriosum while the arch is mobile, so shearing forces concentrate here. A widened mediastinum on chest radiograph prompts CT angiography.",
+   "reference": "Bailey & Love 28e, Thoracic Trauma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "M",
+   "stem": "Cardiac tamponade following penetrating chest trauma is definitively managed by:",
+   "options": [
+    "Emergency thoracotomy or sternotomy with pericardial decompression and repair",
+    "Pericardiocentesis alone",
+    "Fluid restriction",
+    "Diuretics"
+   ],
+   "correct": 0,
+   "concept": "Pericardiocentesis is only a temporising measure in traumatic tamponade because the blood clots; definitive surgical decompression and repair of the cardiac wound is required. Beck triad and a positive FAST scan support the diagnosis.",
+   "reference": "Bailey & Love 28e, Thoracic Trauma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "M",
+   "stem": "The site for intercostal drain insertion in the safe triangle is:",
+   "options": [
+    "Fifth intercostal space just anterior to the midaxillary line, above the rib",
+    "Second space midclavicular below the rib",
+    "Eighth space posteriorly",
+    "Directly over the rib"
+   ],
+   "correct": 0,
+   "concept": "The safe triangle is bounded by the lateral border of pectoralis major, the anterior border of latissimus dorsi and a line above the fifth intercostal space. The drain passes over the upper border of the rib to avoid the neurovascular bundle in the subcostal groove.",
+   "reference": "Bailey & Love 28e, Thoracic Surgery",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "E",
+   "stem": "A tension pneumothorax is distinguished clinically from a simple pneumothorax by:",
+   "options": [
+    "Hypotension with tracheal deviation away and distended neck veins",
+    "Absence of breath sounds alone",
+    "Chest pain",
+    "Pleuritic rub"
+   ],
+   "correct": 0,
+   "concept": "Progressive air trapping shifts the mediastinum, kinking the great veins and reducing venous return, so cardiovascular collapse dominates. It is a clinical diagnosis treated by immediate needle decompression before any radiograph.",
+   "reference": "Bailey & Love 28e, Thoracic Trauma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "H",
+   "stem": "The commonest cause of a solitary pulmonary nodule in India is:",
+   "options": [
+    "Tuberculoma",
+    "Bronchogenic carcinoma",
+    "Hamartoma",
+    "Metastasis"
+   ],
+   "correct": 0,
+   "concept": "In a tuberculosis-endemic country a tuberculoma is the commonest cause, though malignancy must be excluded. Features suggesting benignity include central or laminated calcification, small size, smooth margins and stability over two years.",
+   "reference": "Bailey & Love 28e, Thoracic Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "H",
+   "stem": "Pancoast (superior sulcus) tumour classically produces:",
+   "options": [
+    "Horner syndrome with shoulder and ulnar arm pain from brachial plexus involvement",
+    "Hoarseness only",
+    "Superior vena caval obstruction alone",
+    "Dysphagia"
+   ],
+   "correct": 0,
+   "concept": "An apical tumour invades the sympathetic chain causing ptosis, miosis and anhidrosis, and the lower brachial plexus roots causing pain along the ulnar border and small muscle wasting; rib and vertebral erosion may occur.",
+   "reference": "Bailey & Love 28e, Thoracic Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_CHT_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Chest trauma & thoracic surgery",
+   "difficulty": "M",
+   "stem": "Surgical emphysema after chest trauma indicates:",
+   "options": [
+    "Air leaking into subcutaneous tissue, usually from a pneumothorax or airway injury",
+    "Infection with gas-forming organisms only",
+    "Fat embolism",
+    "Haemothorax"
+   ],
+   "correct": 0,
+   "concept": "Crepitus in the chest wall and neck follows air tracking from a pleural or airway breach; extensive rapidly progressive emphysema suggests major bronchial injury requiring bronchoscopy. An intercostal drain usually resolves it.",
+   "reference": "Bailey & Love 28e, Thoracic Trauma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "E",
+   "stem": "Virchow triad describing the pathogenesis of thrombosis comprises:",
+   "options": [
+    "Endothelial injury, abnormal blood flow and hypercoagulability",
+    "Infection, inflammation and ischaemia",
+    "Hypoxia, acidosis and hypercapnia",
+    "Anaemia, leucocytosis and thrombocytosis"
+   ],
+   "correct": 0,
+   "concept": "Endothelial injury is dominant in arterial and cardiac thrombosis, while stasis or turbulence and hypercoagulable states dominate in venous thrombosis. The triad guides both prophylaxis and treatment.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "M",
+   "stem": "Lines of Zahn in a thrombus indicate:",
+   "options": [
+    "Formation in flowing blood, distinguishing antemortem thrombus from postmortem clot",
+    "Postmortem clotting",
+    "Infection",
+    "Calcification"
+   ],
+   "correct": 0,
+   "concept": "Alternating pale platelet-fibrin and dark red cell layers form only where blood is flowing, so lines of Zahn confirm an antemortem thrombus. Postmortem clots are gelatinous with a chicken-fat upper layer and currant-jelly dependent portion.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "M",
+   "stem": "A red (haemorrhagic) infarct typically occurs in:",
+   "options": [
+    "Organs with dual blood supply or loose tissue such as lung and intestine",
+    "The heart",
+    "The kidney",
+    "The spleen"
+   ],
+   "correct": 0,
+   "concept": "Red infarcts occur with venous occlusion, in loose tissues that allow blood to collect, and in dual-circulation organs such as lung and gut. Solid organs with end-arterial supply - heart, kidney, spleen - give pale white infarcts.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "E",
+   "stem": "Fat embolism syndrome classically follows:",
+   "options": [
+    "Long bone fractures, presenting with dyspnoea, petechiae and confusion 24 to 72 hours later",
+    "Deep vein thrombosis",
+    "Caesarean section",
+    "Central line insertion"
+   ],
+   "correct": 0,
+   "concept": "Marrow fat enters torn venules after long bone or pelvic fracture, producing the triad of respiratory distress, neurological change and a petechial rash over the upper trunk and conjunctiva after a latent interval.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "M",
+   "stem": "Transudative oedema differs from exudate in having:",
+   "options": [
+    "Low protein content with specific gravity below 1.012",
+    "High protein and high specific gravity",
+    "High LDH",
+    "Many inflammatory cells"
+   ],
+   "correct": 0,
+   "concept": "Transudates result from altered Starling forces - raised hydrostatic or reduced oncotic pressure - and are protein-poor, whereas exudates follow increased vascular permeability in inflammation and are protein and cell rich.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "M",
+   "stem": "Nutmeg liver on gross examination indicates:",
+   "options": [
+    "Chronic passive venous congestion of the liver from right heart failure",
+    "Fatty liver",
+    "Cirrhosis",
+    "Hepatitis"
+   ],
+   "correct": 0,
+   "concept": "Centrilobular congestion and necrosis alternating with paler peripheral fatty zones produce the mottled nutmeg appearance. Long-standing congestion may progress to cardiac sclerosis.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "E",
+   "stem": "Which type of shock is characterised by warm peripheries with low systemic vascular resistance?",
+   "options": [
+    "Septic (distributive) shock",
+    "Hypovolaemic shock",
+    "Cardiogenic shock",
+    "Obstructive shock"
+   ],
+   "correct": 0,
+   "concept": "Distributive shock from sepsis or anaphylaxis causes vasodilatation with a high cardiac output and warm peripheries in the early phase, unlike hypovolaemic and cardiogenic shock which show cold, clammy, vasoconstricted skin.",
+   "reference": "Robbins & Cotran 10e, Shock",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "H",
+   "stem": "Disseminated intravascular coagulation in shock is best described as:",
+   "options": [
+    "Widespread microthrombi with consumption of platelets and clotting factors causing bleeding",
+    "Isolated thrombosis",
+    "Isolated bleeding tendency",
+    "A primary marrow disorder"
+   ],
+   "correct": 0,
+   "concept": "Systemic activation of coagulation forms microthrombi causing ischaemic organ damage and microangiopathic haemolysis, while simultaneous consumption of platelets and factors with secondary fibrinolysis produces bleeding - hence the paradox.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "H",
+   "stem": "Caisson disease (decompression sickness) results from:",
+   "options": [
+    "Nitrogen gas bubbles coming out of solution on rapid decompression",
+    "Fat globules in the circulation",
+    "Air entering a vein",
+    "Amniotic fluid embolism"
+   ],
+   "correct": 0,
+   "concept": "Rapid ascent lets dissolved nitrogen form bubbles in blood and tissues, causing joint pain (the bends), respiratory distress (the chokes) and, chronically, ischaemic necrosis of femoral and humeral heads. Recompression is the treatment.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_HDN_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haemodynamics: oedema, thrombosis, embolism, infarction, shock",
+   "difficulty": "M",
+   "stem": "The commonest source of a systemic arterial embolus is:",
+   "options": [
+    "Mural thrombus in the left heart",
+    "Deep veins of the leg",
+    "Pulmonary veins",
+    "Portal vein"
+   ],
+   "correct": 0,
+   "concept": "About 80% of systemic emboli arise from intracardiac mural thrombi complicating myocardial infarction, atrial fibrillation or valve disease, lodging most often in the lower limbs, brain, gut, kidney and spleen.",
+   "reference": "Robbins & Cotran 10e, Haemodynamic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

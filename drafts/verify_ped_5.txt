@@ -1,0 +1,44 @@
+Q_PED_GIT_001 | del | duplicate of Q_PED_GIT_011, which gives the same olive-shaped mass and additionally the metabolic disturbance. The fuller item is retained
+Q_PED_GIT_002 | del | duplicate of Q_PED_GIT_015, which gives the same double bubble and additionally the Down syndrome association. The fuller item is retained
+Q_PED_GIT_003 | del | duplicate of Q_PED_GIT_012, which gives the same intussusception picture and additionally the initial management. The fuller item is retained
+Q_PED_GIT_004 | del | duplicate of Q_PED_GIT_014, which gives the same delayed meconium and empty rectum and additionally the contrast with functional constipation. The fuller item is retained
+Q_PED_GIT_005 | del | duplicate of Q_PED_NJS_003 on biliary atresia as the urgent cause of neonatal cholestasis, with the laboratory criterion covered by Q_PED_GIT_018. Both of those are retained
+Q_PED_GIT_010 | del | duplicate of Q_PED_GIT_016, which gives the same Wilson disease and additionally the screening tests. The fuller item is retained
+Q_PED_EMG_006 | del | duplicate of Q_PED_EMG_018 on avoiding lavage and emesis after kerosene ingestion. The later item is retained
+Q_PED_EMG_010 | del | duplicate of Q_PED_EMG_015, which names the same antidote and additionally the monitoring. The fuller item is retained
+Q_PED_END_009 | del | duplicate of Q_h3c_022, which gives the same rickets biochemistry within a clinical case. The vignette is retained
+Q_PED_END_012 | del | duplicate of Q_PYQ_FMGE_2025JULP2_113 on constitutional delay of growth and puberty. The real exam recall is retained
+Q_h3c_021 | ref=OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | the reference named the book with no chapter
+Q_h3c_022 | ref=OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | the reference named the book with no chapter
+Q_PED_EMG_002 | ref=OP Ghai Essential Pediatrics 9e, Ch. Paediatric Emergencies; KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Antiepileptic Drugs | both books were cited with no chapter
+Q_PED_EMG_008 | topic=PEM, breastfeeding, micronutrients;;ref=WHO Guideline: Updates on the Management of Severe Acute Malnutrition in Infants and Children 2013; OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | a definition of severe acute malnutrition sat in the emergencies topic, and the reference read "WHO SAM Guidelines; Park 27e" with no titles, year or chapters
+Q_PED_EMG_009 | topic=PEM, breastfeeding, micronutrients;;ref=WHO Guideline: Updates on the Management of Severe Acute Malnutrition in Infants and Children 2013; OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | a malnutrition rehydration item sat in the emergencies topic, and the reference read "WHO SAM Guidelines" with no title or year
+Q_PED_GIT_006 | ok |
+Q_PED_GIT_008 | ok |
+Q_PED_GIT_009 | ok |
+Q_PED_GIT_011 | ok |
+Q_PED_GIT_012 | ok |
+Q_PED_GIT_013 | ok |
+Q_PED_GIT_014 | ok |
+Q_PED_GIT_015 | ok |
+Q_PED_GIT_016 | ok |
+Q_PED_GIT_018 | ok |
+Q_PED_GIT_019 | ok |
+Q_PED_EMG_004 | ok |
+Q_PED_EMG_007 | ok |
+Q_PED_EMG_012 | ok |
+Q_PED_EMG_014 | ok |
+Q_PED_EMG_015 | ok |
+Q_PED_EMG_016 | ok |
+Q_PED_EMG_017 | ok |
+Q_PED_EMG_018 | ok |
+Q_PED_EMG_019 | ok |
+Q_PED_END_001 | ok |
+Q_PED_END_003 | ok |
+Q_PED_END_004 | ok |
+Q_PED_END_005 | ok |
+Q_PED_END_006 | ok |
+Q_PED_END_008 | ok |
+Q_PED_END_010 | ok |
+Q_PED_END_011 | ok |
+Q_PED_END_014 | ok |

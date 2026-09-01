@@ -1,0 +1,44 @@
+Q_PYQ_FMGE_2025JANP1_080 | stem=Which statement about the time course of untreated paracetamol poisoning is correct?;;opt0=Transaminases rise between 24 and 72 hours, after an initial phase of nausea and vomiting with normal liver enzymes;;opt1=Fulminant hepatic failure is established within the first 12 hours;;opt2=Liver enzymes are maximally raised at 4 hours;;opt3=Jaundice appears before any rise in transaminases;;key=0;;concept=The delay reflects the time needed for NAPQI to deplete glutathione and injure hepatocytes, which is why a well-looking patient at presentation must still be assessed on the nomogram and treated.;;source=ai | two options were true as written: the keyed answer and the statement that the drug peaks within 4 hours, which is correct pharmacokinetics. Rewritten so exactly one option is true; provenance changed to ai
+Q_PYQ_FMGE_2025JULP2_063 | opt2=Paracetamol | the third option was "Naloxone", an opioid antagonist, which is not an anti-inflammatory drug and so could not be a candidate answer. Replaced with paracetamol, which is a plausible but incorrect choice because it lacks anti-inflammatory action
+Q_PYQ_FMGE_2026JAN_043 | stem=Which vasopressor is first-line for septic shock that persists after adequate fluid resuscitation?;;opt0=Noradrenaline;;opt1=Dopamine;;opt2=Adrenaline;;opt3=Phenylephrine;;key=0;;concept=Alpha-1 mediated vasoconstriction with modest beta-1 support restores perfusion pressure with less tachyarrhythmia than dopamine, and vasopressin is added as a second agent to spare the dose.;;source=ai | duplicate of Q_c1_031, which asks the same first-line drug for anaphylaxis. Rewritten to the vasopressor choice in septic shock; provenance changed to ai
+Q_PYQ_FMGE_2025JANP2_117 | stem=Mutations in the rpoB gene confer resistance to which antitubercular drug, and which rapid test detects them?;;opt0=Rifampicin, detected by cartridge-based nucleic acid amplification testing;;opt1=Isoniazid, detected by the katG probe;;opt2=Ethambutol, detected by line probe assay;;opt3=Pyrazinamide, detected by culture alone;;key=0;;concept=The gene encodes the beta subunit of RNA polymerase, the drug target, and because resistance to it usually implies multidrug resistance the rapid test is used as the entry point for the drug-resistant TB pathway.;;source=ai | duplicate of Q_PYQ_FMGE_2025JANP1_011, which asks the same katG-isoniazid association; this item was also a five-word fragment ("KAT G mutation associated with:") rather than a formed question. Rewritten to rpoB and rifampicin; provenance changed to ai
+Q_PYQ_FMGE_2025JULP2_065 | opt0=Omeprazole + Clarithromycin + Amoxicillin;;opt1=Omeprazole + Ciprofloxacin + Metronidazole;;opt2=Ranitidine + Amoxicillin + Metronidazole;;opt3=Omeprazole + Clarithromycin + Metronidazole;;key=3;;concept=First-line triple therapy is a proton pump inhibitor with clarithromycin plus either amoxicillin or, in penicillin allergy or high macrolide resistance, metronidazole. Note that a proton pump inhibitor rather than an H2 blocker is required for adequate acid suppression. | two options listed the identical three drugs in a different order (Metronidazole + Omeprazole + Amoxicillin and Omeprazole + Amoxicillin + Metronidazole), so the item had a repeated choice. Options rebuilt as four distinct regimens with the key preserved
+Q_PYQ_FMGE_2025JANP2_074 | stem=Which antihypertensive agents are considered first-line for hypertension in pregnancy?;;opt0=Labetalol, methyldopa or nifedipine;;opt1=Enalapril or losartan;;opt2=Hydrochlorothiazide or spironolactone;;opt3=Atenolol or sodium nitroprusside;;key=0;;concept=Renin-angiotensin blockers cause fetal renal dysgenesis and oligohydramnios and are contraindicated, atenolol is associated with fetal growth restriction, and nitroprusside risks fetal cyanide accumulation.;;source=ai | duplicate of Q_c1_034, which asks the same question about the antihypertensive contraindicated in pregnancy and names the fetal effects. Rewritten to the drugs that are safe; provenance changed to ai
+Q_PYQ_FMGE_2024JUN_033 | opt0=Olanzapine | the first option was haloperidol, a typical rather than atypical antipsychotic, so it did not belong among the choices for a question asking which ATYPICAL agent has the fewest metabolic effects, and a student who knew haloperidol is metabolically mild could be misled. Replaced with olanzapine, the atypical with the greatest metabolic burden
+Q_PYQ_FMGE_2025JANP1_081 | ok |
+Q_PYQ_FMGE_2025JULP1_014 | ok |
+Q_PYQ_FMGE_2025JULP1_073 | ok |
+Q_PYQ_FMGE_2025JULP2_073 | ok |
+Q_c1_027 | ok |
+Q_h3a_052 | ok |
+Q_PYQ_FMGE_2024JAN_027 | ok |
+Q_PYQ_FMGE_2025JANP1_079 | ok |
+Q_PYQ_FMGE_2025JULP2_060 | ok |
+Q_PYQ_FMGE_2025JULP2_072 | ok |
+Q_c1_031 | ok |
+Q_h3a_036 | ok |
+Q_PYQ_FMGE_2025JANP1_011 | ok |
+Q_c1_045 | ok |
+Q_h3a_042 | ok |
+Q_h3a_043 | ok |
+Q_PYQ_FMGE_2025JANP1_082 | ok |
+Q_PYQ_FMGE_2025JULP1_042 | ok |
+Q_PYQ_FMGE_2025JULP2_067 | ok |
+Q_c1_043 | ok |
+Q_h3a_039 | ok |
+Q_h3a_040 | ok |
+Q_PYQ_FMGE_2024JAN_026 | ok |
+Q_PYQ_FMGE_2025JANP1_009 | ok |
+Q_PYQ_FMGE_2026JAN_007 | ok |
+Q_c1_037 | ok |
+Q_h3a_044 | ok |
+Q_PYQ_FMGE_2024JUN_015 | ok |
+Q_PYQ_FMGE_2024JUN_030 | ok |
+Q_PYQ_FMGE_2025JULP2_057 | ok |
+Q_PYQ_FMGE_2025JULP2_071 | ok |
+Q_c1_034 | ok |
+Q_h3a_049 | ok |
+Q_h3a_050 | ok |
+Q_PYQ_FMGE_2024JUN_029 | ok |
+Q_PYQ_FMGE_2025JANP1_030 | ok |
+Q_PYQ_FMGE_2025JULP2_056 | ok |

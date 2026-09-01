@@ -1,0 +1,40 @@
+Q_FM_THR_014 | del | duplicate of Q_FM_THR_001 on the vital reaction distinguishing an antemortem from a postmortem burn. The first item is retained, and Q_h3d_021 already covers the same principle for a laceration
+Q_FM_THR_004 | del | duplicate of Q_h3d_022 on a dying declaration being admissible without a magistrate. The vignette form is retained
+Q_A_040 | del | duplicate of Q_FM_JUR_009, which tests the same age of valid consent and additionally that it must be informed and written. The fuller item is retained
+Q_FM_THR_007 | concept=Lichtenberg or fern-like figures are transient superficial ferning patterns produced by electron showers tracking along the skin. They fade within hours, so early photography is essential, and they are diagnostic of lightning strike. | the concept called them "Lisichenko" figures, which is not a real eponym; the sign is Lichtenberg figures
+Q_FM_THR_013 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Lightning | the item is on lightning but cited the thermal deaths chapter, where Q_FM_THR_007 correctly cites Ch. Lightning
+Q_h3d_021 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Mechanical Injuries | the chapter field repeated the book title
+Q_h3d_022 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Legal Procedure; Bharatiya Sakshya Adhiniyam 2023, Section 26 | the chapter field repeated the book title and the statute carried a parenthetical gloss instead of a section
+Q_A_033 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Postmortem Changes | the chapter field repeated the book title
+Q_A_034 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Firearm Injuries | the chapter field repeated the book title
+Q_A_035 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Asphyxial Deaths | the chapter field repeated the book title
+Q_A_036 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Asphyxial Deaths | the chapter field repeated the book title
+Q_A_037 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Agricultural Poisons | the chapter field repeated the book title
+Q_A_038 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Irritant Poisons | the chapter field repeated the book title
+Q_PYQ_FMGE_2024JAN_010 | ref=FMGE January 2024 (real exam recall); Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Firearm Injuries | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_016 | ref=FMGE January 2025 Part 1 (real exam recall); Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Mechanical Injuries | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_018 | ref=FMGE January 2025 Part 1 (real exam recall); Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Regional Injuries | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_032 | ref=FMGE July 2025 Part 1 (real exam recall); Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Regional Injuries | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_138 | ref=FMGE July 2025 Part 1 (real exam recall); Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Infanticide and Battered Baby Syndrome | exam-paper-only reference given a study source
+Q_FM_THR_002 | ok |
+Q_FM_THR_003 | ok |
+Q_FM_THR_005 | ok |
+Q_FM_THR_006 | ok |
+Q_FM_THR_008 | ok |
+Q_FM_THR_009 | ok |
+Q_FM_THR_010 | ok |
+Q_FM_THR_011 | ok |
+Q_FM_THR_012 | ok |
+Q_FM_THR_015 | ok |
+Q_FM_THR_016 | ok |
+Q_FM_THR_017 | ok |
+Q_FM_WND_001 | ok |
+Q_FM_WND_002 | ok |
+Q_FM_WND_003 | ok |
+Q_FM_WND_004 | ok |
+Q_FM_WND_005 | ok |
+Q_FM_WND_006 | ok |
+Q_FM_WND_007 | ok |
+Q_FM_WND_008 | ok |
+Q_FM_WND_009 | ok |
+Q_FM_WND_010 | ok |

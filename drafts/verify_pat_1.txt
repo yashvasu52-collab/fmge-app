@@ -1,0 +1,44 @@
+Q_PAT_BON_001 | del | duplicate of Q_PAT_BON_011, which identifies the same osteosarcoma and additionally its metaphyseal site, osteoid production and sunburst reaction. The fuller item is retained
+Q_PAT_BON_002 | del | duplicate of Q_PAT_BON_013, which gives the same translocation and onion-skin reaction and additionally CD99 positivity. The fuller item is retained
+Q_PAT_BRE_003 | del | duplicate of Q_PAT_BRE_016, which gives the same dermal lymphatic obstruction within the picture of inflammatory carcinoma. The fuller item is retained
+Q_PAT_BRE_004 | del | duplicate of Q_PAT_BRE_017, which describes the same intraepidermal spread and asks why an underlying carcinoma is nearly always present. The fuller item is retained
+Q_PAT_BRE_006 | del | duplicate of Q_PAT_BRE_014, which gives the same receptor profile and additionally the therapeutic consequence. The fuller item is retained
+Q_PAT_BRE_009 | del | duplicate of Q_PAT_BRE_015 on comedo necrosis and branching calcification in high-grade ductal carcinoma in situ. The item that also contrasts lobular carcinoma in situ is retained
+Q_PAT_AMM_001 | ok |
+Q_PAT_AMM_002 | ok |
+Q_PAT_AMM_003 | ok |
+Q_PAT_AMM_004 | ok |
+Q_PAT_BCD_001 | ok |
+Q_PAT_BCD_002 | ok |
+Q_PAT_BCD_003 | ok |
+Q_PAT_BCD_004 | ok |
+Q_PAT_BCD_005 | ok |
+Q_PAT_BCD_006 | ok |
+Q_PAT_BON_003 | ok |
+Q_PAT_BON_004 | ok |
+Q_PAT_BON_005 | ok |
+Q_PAT_BON_006 | ok |
+Q_PAT_BON_007 | ok |
+Q_PAT_BON_008 | ok |
+Q_PAT_BON_009 | ok |
+Q_PAT_BON_010 | ok |
+Q_PAT_BON_011 | ok |
+Q_PAT_BON_012 | ok |
+Q_PAT_BON_013 | ok |
+Q_PAT_BON_014 | ok |
+Q_PAT_BON_015 | ok |
+Q_PAT_BON_016 | ok |
+Q_PAT_BON_017 | ok |
+Q_PAT_BRE_002 | ok |
+Q_PAT_BRE_005 | ok |
+Q_PAT_BRE_007 | ok |
+Q_PAT_BRE_008 | ok |
+Q_PAT_BRE_010 | ok |
+Q_PAT_BRE_011 | ok |
+Q_PAT_BRE_013 | ok |
+Q_PAT_BRE_014 | ok |
+Q_PAT_BRE_015 | ok |
+Q_PAT_BRE_016 | ok |
+Q_PAT_BRE_017 | ok |
+Q_PAT_CAR_001 | ok |
+Q_PAT_CAR_003 | ok |

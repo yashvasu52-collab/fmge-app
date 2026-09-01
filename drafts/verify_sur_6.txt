@@ -1,0 +1,2 @@
+Q_SUR_WND_015 | del | duplicate of Q_SUR_WND_006 on giving prophylaxis within 60 minutes before incision. The first item is retained
+Q_SUR_WND_016 | ok |

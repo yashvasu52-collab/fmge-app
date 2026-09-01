@@ -1,0 +1,64 @@
+Q_ENT_AUD_010 | del | duplicate of Q_PYQ_FMGE_2025JULP2_085 on presbycusis, and additionally misfiled: age-related sensorineural hearing loss belongs with hearing loss, not with audiological tests. The clinical item is retained
+Q_GEN_PATH_SYS_RENAL_011 | del | duplicate of Q_PAT_REN_012 on clear cell renal cell carcinoma, and misfiled under glomerulonephritis when a renal tumour belongs in the renal tumour topic. The renal topic item is retained
+Q_PAT_REN_001 | del | third question keying clear cell renal cell carcinoma in this subject, alongside Q_PAT_REN_012 which additionally gives the histology and cell of origin. The histology item is retained
+Q_MIC_HAI_009 | del | duplicate of Q_h3a_028 on glutaraldehyde for high-level disinfection of heat-labile endoscopes. The fuller item is retained
+Q_GEN_OPHTH_CATARACT_020 | del | duplicate of Q_GEN_OPHTH_GLAUCOMA_016 on phacomorphic glaucoma. The glaucoma topic is the correct home and is retained
+Q_MED_CMP_005 | del | duplicate of Q_PYQ_FMGE_2025JULP2_126, which reaches tetralogy of Fallot from a full vignette with cyanotic spells, clubbing and a boot-shaped heart. The vignette item is retained
+Q_AN_EMB_009 | del | duplicate of Q_h3d_003, which reaches the vitellointestinal duct from a Meckel diverticulum vignette with a technetium pertechnetate scan. The vignette item is retained and refiled to the general embryology topic
+Q_h3d_003 | topic=General embryology & histology: fertilisation, placenta, epithelia | misfiled: a Meckel diverticulum arising from the vitellointestinal duct is gut embryology, not a pharyngeal arch or germ-layer derivative question
+Q_PYQ_FMGE_2025JANP2_071 | del | my earlier rewrite of this item to Breslow thickness duplicated Q_PAT_SKN_002, which already asks the single most important prognostic factor in melanoma. Deleted
+Q_PYQ_FMGE_2025JANP2_126 | del | my earlier rewrite of this item to the components of active management of the third stage duplicated Q_OBG_THI_001, which already asks exactly that. Deleted
+Q_PSM_CHI_001 | del | duplicate of Q_c1_100 on the infant mortality rate denominator. The demography topic item is retained
+Q_AN_TH_008 | del | duplicate of Q_GEN_ANAT_THORAX_024 on the thoracic duct draining at the junction of the left subclavian and left internal jugular veins. The fuller item is retained
+Q_BC_CHO_009 | del | duplicate of Q_PYQ_FMGE_2024JAN_005, which reaches galactose-1-phosphate uridyl transferase deficiency from a clinical vignette. The vignette item is retained
+Q_SUR_NEK_003 | del | duplicate of Q_C_010, which reaches papillary carcinoma from the FNAC findings; this item was also misfiled under salivary glands and neck swellings rather than thyroid. The FNAC item is retained
+Q_SUR_URO_003 | del | duplicate of Q_PYQ_FMGE_2024JUN_037 on seminoma as the commonest testicular tumour in a young adult. The exam-recall item is retained and refiled to the urology topic
+Q_PYQ_FMGE_2024JUN_037 | topic=Urology: renal, bladder & testicular tumours; hydrocele, phimosis | misfiled: a testicular tumour sat under "Urinary stones, BPH, hematuria" while the plan has a topic that names testicular tumours explicitly
+Q_OBG_AUB_010 | del | duplicate of Q_OBG_MDP_004 on the Rotterdam criteria for polycystic ovary syndrome. The menstrual disorders and PCOS topic is the correct home and is retained
+Q_OBG_DX_015 | del | duplicate of Q_OBG_INF_002 on middle cerebral artery peak systolic velocity detecting fetal anaemia. The Rh isoimmunisation topic is the correct home and is retained
+Q_GEN_PATH_SYS_RENAL_020 | del | duplicate of Q_c1_020, which reaches minimal change disease from a full vignette with electron microscopy findings. The vignette item is retained
+Q_PAT_GEN2_011 | del | duplicate of Q_PYQ_FMGE_2026JUN_001, which reaches seminoma from the clinical picture with normal markers and the characteristic histology. The exam-recall item is retained
+Q_MED_HTN_008 | del | third question keying plasma free metanephrines for phaeochromocytoma, alongside Q_PYQ_FMGE_2026JAN_009 which is retained
+Q_PYQ_FMGE_2026JAN_023 | del | duplicate of Q_MED_PIT_005 on primary hyperparathyroidism as the cause of hypercalcaemia; this item was also misfiled under thyroid disorders rather than parathyroid and calcium. The parathyroid topic item is retained
+Q_GEN_ORTHO_INFECTION_001 | del | duplicate of Q_S_003, which reaches Staphylococcus aureus as the cause of acute haematogenous osteomyelitis from a clinical vignette in the same topic. The vignette item is retained
+Q_PYQ_FMGE_2026JAN_036 | topic=Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy | misfiled: the nerve supplying vocal cord abduction sat under "Tonsillitis, carcinoma larynx" while the plan has a dedicated larynx and vocal cord palsy topic
+Q_GEN_BIOCHEM_CHO_019 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_INICET_2025MAY_003 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JULP2_085 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PAT_REN_012 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_h3a_028 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_GEN_OPHTH_GLAUCOMA_016 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_ENT_LAR_002 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JULP2_126 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PAT_SKN_002 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_h3a_007 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_ANE_004 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_NUT_007 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_NUT_004 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_NUT_012 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_THI_001 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_c1_100 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_GEN_ANAT_THORAX_024 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2024JAN_005 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_C_010 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_INICET_2025MAY_022 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_DX_011 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_MDP_004 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_PHY_017 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_PUE_011 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_INF_002 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PAT_REN_003 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_c1_020 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PAT_CAR_005 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_GEN_PHAR_GEN_PKPD_013 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_GEN_PHAR_CVS_HF_ARR_011 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PH_DIU_006 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MIC_RSP_011 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MIC_MOP_007 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_RTA_003 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_PIT_005 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_POI_018 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_RA_019 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MIC_HAI_008 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_S_003 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OR_ART_006 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed

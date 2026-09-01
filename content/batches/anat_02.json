@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_AN_HN_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "E",
+   "stem": "The structure passing through the parotid gland most superficially is:",
+   "options": [
+    "The facial nerve",
+    "The retromandibular vein",
+    "The external carotid artery",
+    "The auriculotemporal nerve"
+   ],
+   "correct": 0,
+   "concept": "From superficial to deep the order is facial nerve, retromandibular vein and external carotid artery. Superficial parotidectomy therefore requires meticulous identification and preservation of the facial nerve.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "M",
+   "stem": "The thyroid gland moves with swallowing because it is:",
+   "options": [
+    "Enclosed by pretracheal fascia attached to the larynx and trachea",
+    "Attached to the skin",
+    "Attached to the hyoid",
+    "Fixed to the sternum"
+   ],
+   "correct": 0,
+   "concept": "A thyroglossal cyst additionally rises on tongue protrusion because of its attachment to the hyoid and foramen caecum - the key clinical discriminator between the two midline swellings.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "M",
+   "stem": "During thyroidectomy the external laryngeal nerve is at risk because it accompanies:",
+   "options": [
+    "The superior thyroid artery",
+    "The inferior thyroid artery",
+    "The middle thyroid vein",
+    "The thyroid ima artery"
+   ],
+   "correct": 0,
+   "concept": "Ligating the superior thyroid artery close to the gland avoids this nerve, whose injury weakens cricothyroid causing loss of voice pitch - important for singers. The recurrent laryngeal nerve relates to the inferior thyroid artery.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "E",
+   "stem": "The posterior triangle of the neck is bounded anteriorly by:",
+   "options": [
+    "The posterior border of sternocleidomastoid",
+    "Trapezius",
+    "The clavicle",
+    "The mandible"
+   ],
+   "correct": 0,
+   "concept": "The accessory nerve crosses the triangle superficially and is vulnerable during lymph node biopsy, causing trapezius paralysis with shoulder droop and inability to shrug.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "M",
+   "stem": "The carotid sinus, important in blood pressure regulation, is located at:",
+   "options": [
+    "The bifurcation of the common carotid artery, innervated by the glossopharyngeal nerve",
+    "The aortic arch",
+    "The internal jugular vein",
+    "The carotid body only"
+   ],
+   "correct": 0,
+   "concept": "Baroreceptors here signal via the glossopharyngeal nerve; the carotid body is a chemoreceptor. Carotid sinus massage can terminate supraventricular tachycardia but risks stroke in atherosclerotic disease.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "M",
+   "stem": "Trismus following an inferior alveolar nerve block results from injection into:",
+   "options": [
+    "The medial pterygoid muscle",
+    "The parotid gland",
+    "The buccinator",
+    "The masseter only"
+   ],
+   "correct": 0,
+   "concept": "Injection too far medially or posteriorly may also enter the parotid causing transient facial nerve palsy - a recognised complication of dental anaesthesia that alarms patients but resolves in hours.",
+   "reference": "BD Chaurasia Human Anatomy 8e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "E",
+   "stem": "The temporomandibular joint is unusual in being:",
+   "options": [
+    "A synovial joint with an articular disc and fibrocartilage-covered surfaces",
+    "A fibrous joint",
+    "Covered by hyaline cartilage",
+    "Without a disc"
+   ],
+   "correct": 0,
+   "concept": "Anterior dislocation occurs with wide opening as the condyle passes anterior to the articular eminence, causing an open locked jaw reduced by downward and backward pressure on the molars.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "H",
+   "stem": "Ludwig angina involves which fascial spaces?",
+   "options": [
+    "Bilateral submandibular and sublingual spaces",
+    "The parotid space",
+    "The retropharyngeal space",
+    "The carotid sheath"
+   ],
+   "correct": 0,
+   "concept": "Cellulitis here elevates the tongue and threatens the airway, requiring early airway assessment and drainage. It usually arises from a lower molar dental infection.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "H",
+   "stem": "The danger area of the face refers to spread of infection via:",
+   "options": [
+    "The facial vein and ophthalmic veins to the cavernous sinus, as these veins are valveless",
+    "Lymphatics",
+    "Arteries",
+    "Nerves"
+   ],
+   "correct": 0,
+   "concept": "Infection from the upper lip and nose can cause cavernous sinus thrombosis with proptosis, chemosis, ophthalmoplegia and a rapidly deteriorating course, which is why squeezing pustules here is dangerous.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_HN_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Head & neck: triangles, thyroid, parotid, TMJ",
+   "difficulty": "M",
+   "stem": "Frey syndrome after parotid surgery results from:",
+   "options": [
+    "Misdirected regeneration of auriculotemporal parasympathetic fibres into sweat glands",
+    "Facial nerve injury",
+    "Salivary duct obstruction",
+    "Infection"
+   ],
+   "correct": 0,
+   "concept": "Gustatory sweating and flushing over the parotid region occur on eating, confirmed by the starch-iodine test and treated with botulinum toxin injection.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "E",
+   "stem": "The main muscle of the pelvic floor is:",
+   "options": [
+    "Levator ani",
+    "Piriformis",
+    "Obturator internus",
+    "Coccygeus alone"
+   ],
+   "correct": 0,
+   "concept": "Levator ani comprises pubococcygeus, puborectalis and iliococcygeus, supporting pelvic viscera and maintaining continence. Its damage during childbirth predisposes to prolapse and stress incontinence.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "M",
+   "stem": "The perineal body is clinically important because it:",
+   "options": [
+    "Is the central tendinous point where perineal muscles converge, and its damage predisposes to prolapse",
+    "Contains the urethra",
+    "Is a bony landmark",
+    "Has no clinical significance"
+   ],
+   "correct": 0,
+   "concept": "An episiotomy is angled to avoid it, and a third or fourth degree perineal tear involving the anal sphincter must be identified and repaired to prevent faecal incontinence.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "M",
+   "stem": "The pudendal nerve arises from:",
+   "options": [
+    "S2, S3 and S4 roots",
+    "L4 and L5",
+    "S1 only",
+    "T12 and L1"
+   ],
+   "correct": 0,
+   "concept": "S2, 3, 4 keep the pelvic floor off the floor. A pudendal block at the ischial spine anaesthetises the perineum for instrumental delivery and episiotomy repair.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "E",
+   "stem": "Extravasation of urine from a ruptured bulbar urethra spreads into:",
+   "options": [
+    "The superficial perineal pouch, scrotum and anterior abdominal wall, but not the thigh",
+    "The thigh",
+    "The peritoneal cavity",
+    "The retroperitoneum"
+   ],
+   "correct": 0,
+   "concept": "Colles fascia is attached to the perineal membrane and fascia lata, so urine cannot enter the thighs but tracks up beneath Scarpa fascia onto the abdominal wall - a classic clinical pattern.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "M",
+   "stem": "The ureter is most commonly injured during hysterectomy at:",
+   "options": [
+    "The point where it passes beneath the uterine artery near the cervix",
+    "The pelvic brim",
+    "The renal pelvis",
+    "The bladder base only"
+   ],
+   "correct": 0,
+   "concept": "Water under the bridge - the ureter passes beneath the uterine artery about 2 cm lateral to the cervix, where it is at greatest risk during clamping of the uterine vessels.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "M",
+   "stem": "The ischiorectal fossa is clinically important because:",
+   "options": [
+    "Infection spreads readily within its fat and may form a horseshoe abscess across the midline",
+    "It contains no fat",
+    "It is avascular",
+    "It is inaccessible"
+   ],
+   "correct": 0,
+   "concept": "The two fossae communicate posteriorly behind the anal canal, so a perianal abscess can extend to the opposite side. The pudendal canal on its lateral wall carries the pudendal nerve and vessels.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "E",
+   "stem": "The prostate is divided into zones, with benign prostatic hyperplasia arising in:",
+   "options": [
+    "The transition zone",
+    "The peripheral zone",
+    "The central zone",
+    "The anterior stroma"
+   ],
+   "correct": 0,
+   "concept": "Transition zone enlargement compresses the urethra causing early obstructive symptoms, whereas carcinoma arises in the peripheral zone and is palpable per rectum but causes symptoms late.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "H",
+   "stem": "The lymphatic drainage of the testis is to:",
+   "options": [
+    "Para-aortic nodes, because of its embryological origin in the abdomen",
+    "Inguinal nodes",
+    "Iliac nodes",
+    "Popliteal nodes"
+   ],
+   "correct": 0,
+   "concept": "Scrotal skin drains to superficial inguinal nodes, but the testis drains to para-aortic nodes at L2 - which is why a testicular tumour is approached inguinally and never through the scrotum.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "H",
+   "stem": "Above the pectinate line, the anal canal is characterised by:",
+   "options": [
+    "Visceral innervation, columnar epithelium and drainage to internal iliac nodes",
+    "Somatic innervation",
+    "Squamous epithelium",
+    "Drainage to inguinal nodes"
+   ],
+   "correct": 0,
+   "concept": "This explains why internal haemorrhoids above the line are painless while external ones below are exquisitely painful, and why carcinoma above the line spreads to internal iliac and below to inguinal nodes.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_PP_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Pelvis & perineum: pelvic floor, urogenital triangle",
+   "difficulty": "M",
+   "stem": "The pelvic splanchnic nerves (nervi erigentes) carry:",
+   "options": [
+    "Parasympathetic fibres from S2-S4 responsible for erection and bladder contraction",
+    "Sympathetic fibres",
+    "Only sensory fibres",
+    "Motor fibres to skeletal muscle"
+   ],
+   "correct": 0,
+   "concept": "Point and shoot - parasympathetic S2-4 mediate erection and sympathetic L1-2 mediate ejaculation. Damage during rectal surgery causes impotence and bladder dysfunction.",
+   "reference": "Snell Clinical Anatomy 10e, Pelvis and Perineum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "E",
+   "stem": "The cranial nerve most medially placed within the cavernous sinus, lying free in the blood, is:",
+   "options": [
+    "The abducens nerve",
+    "The oculomotor nerve",
+    "The trochlear nerve",
+    "The maxillary nerve"
+   ],
+   "correct": 0,
+   "concept": "Cranial nerves III, IV, V1 and V2 lie in the lateral wall, while VI runs freely beside the internal carotid artery, making it the first affected in cavernous sinus pathology.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "M",
+   "stem": "Cavernous sinus thrombosis characteristically presents with:",
+   "options": [
+    "Proptosis, chemosis, ophthalmoplegia and fever",
+    "Painless visual loss",
+    "Isolated ptosis",
+    "Hearing loss"
+   ],
+   "correct": 0,
+   "concept": "Spread from the danger area of the face, sinuses or orbit produces rapidly progressive orbital signs, often becoming bilateral through the intercavernous sinuses. It requires urgent antibiotics and anticoagulation.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "M",
+   "stem": "The middle meningeal artery is a branch of:",
+   "options": [
+    "The maxillary artery, entering through the foramen spinosum",
+    "The internal carotid",
+    "The vertebral artery",
+    "The facial artery"
+   ],
+   "correct": 0,
+   "concept": "It grooves the inner table of the skull at the pterion, the thinnest part of the vault, where fracture causes extradural haematoma with the classic lucid interval.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "E",
+   "stem": "Cerebrospinal fluid is absorbed into the venous system by:",
+   "options": [
+    "Arachnoid granulations projecting into the dural venous sinuses",
+    "The choroid plexus",
+    "The pia mater",
+    "Lymphatics"
+   ],
+   "correct": 0,
+   "concept": "CSF is produced by the choroid plexus at about 500 mL per day with a circulating volume of about 150 mL. Obstruction of absorption causes communicating hydrocephalus.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "M",
+   "stem": "Lumbar puncture is performed at the L3-L4 interspace because:",
+   "options": [
+    "The spinal cord ends at L1-L2 in adults, so only the cauda equina lies below",
+    "The cord ends at L5",
+    "There is no dura there",
+    "It is easier to palpate"
+   ],
+   "correct": 0,
+   "concept": "Tuffier line joining the iliac crests marks L4. In infants the cord ends lower at L3, so puncture is performed at L4-5 or L5-S1 to avoid cord injury.",
+   "reference": "Snell Clinical Anatomy 10e, Back",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "M",
+   "stem": "The foramen magnum transmits all EXCEPT:",
+   "options": [
+    "The glossopharyngeal nerve",
+    "The medulla oblongata",
+    "The vertebral arteries",
+    "The spinal accessory nerve"
+   ],
+   "correct": 0,
+   "concept": "The glossopharyngeal nerve exits through the jugular foramen with the vagus and accessory nerves. Tonsillar herniation through the foramen magnum compresses the medulla causing respiratory arrest.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "E",
+   "stem": "A fracture of the cribriform plate typically results in:",
+   "options": [
+    "CSF rhinorrhoea with anosmia and risk of meningitis",
+    "CSF otorrhoea",
+    "Facial palsy",
+    "Deafness"
+   ],
+   "correct": 0,
+   "concept": "Tearing of dura and olfactory nerve filaments allows CSF leak and an entry route for organisms, so nasogastric tubes must be avoided in suspected anterior base of skull fracture.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "H",
+   "stem": "The trigeminal nerve exits the skull through which foramina?",
+   "options": [
+    "Superior orbital fissure, foramen rotundum and foramen ovale for V1, V2 and V3 respectively",
+    "All through foramen ovale",
+    "Foramen spinosum",
+    "Jugular foramen"
+   ],
+   "correct": 0,
+   "concept": "Standing Room Only is the mnemonic. Only V3 carries motor fibres to the muscles of mastication, so testing jaw deviation assesses the mandibular division specifically.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "H",
+   "stem": "The dural venous sinus most commonly involved in extension of middle ear infection is:",
+   "options": [
+    "The sigmoid (lateral) sinus",
+    "The superior sagittal sinus",
+    "The cavernous sinus",
+    "The straight sinus"
+   ],
+   "correct": 0,
+   "concept": "The sigmoid sinus lies immediately medial to the mastoid antrum, so unsafe chronic suppurative otitis media can cause septic lateral sinus thrombosis with picket-fence fever and a positive Tobey-Ayer test.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_SK_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skull base, cavernous sinus & meninges",
+   "difficulty": "M",
+   "stem": "The extradural space in the cranial cavity is described as a potential space because:",
+   "options": [
+    "The dura is firmly adherent to the inner table, separating only when blood accumulates under arterial pressure",
+    "It always contains fluid",
+    "It contains CSF",
+    "It contains air"
+   ],
+   "correct": 0,
+   "concept": "This adherence at sutures limits extradural haematoma spread, producing the characteristic biconvex CT shape, in contrast to subdural blood which spreads freely across sutures.",
+   "reference": "Snell Clinical Anatomy 10e, Head and Neck",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

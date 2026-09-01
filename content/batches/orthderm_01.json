@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_OR_ART_001",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "E",
+   "stem": "The radiological hallmark of osteoarthritis is:",
+   "options": [
+    "Joint space narrowing with subchondral sclerosis, osteophytes and subchondral cysts",
+    "Periarticular osteopenia",
+    "Erosions",
+    "Ankylosis"
+   ],
+   "correct": 0,
+   "concept": "Osteoarthritis shows non-uniform joint space loss in the weight-bearing compartment with reactive bone changes. Rheumatoid arthritis instead shows uniform loss, periarticular osteopenia and marginal erosions.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Arthritis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_002",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "M",
+   "stem": "The commonest cause of non-traumatic avascular necrosis of the femoral head is:",
+   "options": [
+    "Corticosteroid therapy and alcohol excess",
+    "Diabetes",
+    "Hypertension",
+    "Smoking alone"
+   ],
+   "correct": 0,
+   "concept": "Steroids and alcohol account for most atraumatic cases; others include sickle cell disease, caisson disease, SLE and Gaucher disease. Early MRI detects marrow changes long before the radiographic crescent sign.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Avascular Necrosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_003",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "M",
+   "stem": "The crescent sign on hip radiograph indicates:",
+   "options": [
+    "Subchondral fracture in avascular necrosis before collapse",
+    "Early osteoarthritis",
+    "Septic arthritis",
+    "Fracture neck of femur"
+   ],
+   "correct": 0,
+   "concept": "A subchondral lucent crescent marks Ficat stage III, immediately preceding femoral head collapse. Before collapse, core decompression may preserve the joint; after collapse, arthroplasty is usually required.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Avascular Necrosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_004",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "E",
+   "stem": "Septic arthritis in a native joint is a surgical emergency because:",
+   "options": [
+    "Bacterial enzymes destroy articular cartilage within days",
+    "It always causes sepsis",
+    "It causes fracture",
+    "It is untreatable"
+   ],
+   "correct": 0,
+   "concept": "Urgent joint aspiration for Gram stain, culture and cell count, followed by washout and intravenous antibiotics, is required. Cartilage damage begins within 24 to 48 hours and is irreversible.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Infections of Bones and Joints",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_005",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "M",
+   "stem": "Synovial fluid white cell count in septic arthritis typically exceeds:",
+   "options": [
+    "50,000 per microlitre with over 90 percent neutrophils",
+    "2,000",
+    "500",
+    "200"
+   ],
+   "correct": 0,
+   "concept": "Inflammatory arthritis gives 2,000 to 50,000 cells, and non-inflammatory conditions such as osteoarthritis under 2,000. Crystals must also be sought, as gout can mimic and rarely coexist with infection.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Infections of Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_006",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "M",
+   "stem": "The commonest organism causing septic arthritis in adults is:",
+   "options": [
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Neisseria gonorrhoeae",
+    "Escherichia coli"
+   ],
+   "correct": 0,
+   "concept": "Staphylococcus aureus predominates at all ages beyond the neonatal period. In sexually active young adults gonococcal arthritis with a migratory polyarthralgia, tenosynovitis and pustular rash is an important differential.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Infections of Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_007",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "E",
+   "stem": "Frozen shoulder (adhesive capsulitis) is characterised by:",
+   "options": [
+    "Global restriction of both active and passive movement, particularly external rotation",
+    "Restriction of active movement only",
+    "Painless full range",
+    "Instability"
+   ],
+   "correct": 0,
+   "concept": "Loss of passive external rotation distinguishes it from rotator cuff pathology where passive range is preserved. It is associated with diabetes and passes through freezing, frozen and thawing phases over 18 to 24 months.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Shoulder Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_008",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "H",
+   "stem": "The most feared complication of total joint replacement is:",
+   "options": [
+    "Deep periprosthetic infection",
+    "Superficial wound infection",
+    "Scar formation",
+    "Anaemia"
+   ],
+   "correct": 0,
+   "concept": "Deep infection usually necessitates removal of the prosthesis with a staged revision, so prevention through laminar flow theatres, prophylactic antibiotics and meticulous technique is paramount. Aseptic loosening is the commonest long-term cause of failure.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Arthroplasty",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_009",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "H",
+   "stem": "Thromboprophylaxis after total hip replacement is essential because:",
+   "options": [
+    "The risk of deep vein thrombosis and fatal pulmonary embolism is high without it",
+    "It prevents infection",
+    "It reduces pain",
+    "It speeds union"
+   ],
+   "correct": 0,
+   "concept": "Major lower limb arthroplasty is among the highest-risk elective procedures for venous thromboembolism, so mechanical and pharmacological prophylaxis with early mobilisation is routine.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Arthroplasty",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_ART_010",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arthritis, avascular necrosis & joint replacement",
+   "difficulty": "M",
+   "stem": "Perthes disease is:",
+   "options": [
+    "Idiopathic avascular necrosis of the femoral capital epiphysis in a child of 4 to 8 years",
+    "Septic arthritis",
+    "A slipped epiphysis in adolescence",
+    "A tumour"
+   ],
+   "correct": 0,
+   "concept": "It presents with a painless limp and restricted abduction and internal rotation. Slipped capital femoral epiphysis instead affects obese adolescents, giving an externally rotated limb with a positive Trethowan sign.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Paediatric Orthopaedics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_001",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "E",
+   "stem": "Neuropraxia is best described as:",
+   "options": [
+    "A temporary conduction block with intact axons, recovering fully within weeks",
+    "Complete nerve transection",
+    "Axonal loss with intact sheath",
+    "Permanent injury"
+   ],
+   "correct": 0,
+   "concept": "Seddon classified injuries as neuropraxia (conduction block, full recovery), axonotmesis (axonal disruption with intact endoneurium, recovery by regeneration at about 1 mm per day) and neurotmesis (complete division needing repair).",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Peripheral Nerve Injuries",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_002",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "M",
+   "stem": "Tinel sign in a regenerating nerve indicates:",
+   "options": [
+    "The advancing front of regenerating axons, moving distally with recovery",
+    "Complete transection",
+    "Permanent damage",
+    "Infection"
+   ],
+   "correct": 0,
+   "concept": "Percussion over the nerve elicits paraesthesia at the level reached by regenerating fibres; a Tinel sign that advances distally on serial examination indicates ongoing recovery, whereas a static sign suggests a block.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Peripheral Nerve Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_003",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "M",
+   "stem": "Erb palsy from upper brachial plexus injury (C5-C6) produces:",
+   "options": [
+    "The waiter's tip position with arm adducted, internally rotated and forearm pronated",
+    "Claw hand",
+    "Wrist drop",
+    "Winged scapula"
+   ],
+   "correct": 0,
+   "concept": "Loss of deltoid, biceps, brachialis and supraspinatus gives this posture, seen after shoulder dystocia or a fall on the shoulder. Klumpke palsy of C8-T1 causes claw hand and may include Horner syndrome.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Brachial Plexus Injuries",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_004",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "E",
+   "stem": "Winging of the scapula results from paralysis of serratus anterior due to injury of:",
+   "options": [
+    "The long thoracic nerve",
+    "The axillary nerve",
+    "The suprascapular nerve",
+    "The thoracodorsal nerve"
+   ],
+   "correct": 0,
+   "concept": "The long thoracic nerve from C5, C6 and C7 is vulnerable during axillary surgery and from carrying heavy loads on the shoulder. Winging becomes obvious on pushing against a wall.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Peripheral Nerve Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_005",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "M",
+   "stem": "A plaster cast applied for an acute fracture should be:",
+   "options": [
+    "Split or a slab used initially to accommodate swelling",
+    "Complete and tight",
+    "Left for six weeks without review",
+    "Applied only after swelling settles"
+   ],
+   "correct": 0,
+   "concept": "A tight circumferential cast over a swelling limb causes compartment syndrome and pressure sores. Patients are warned about increasing pain, numbness and colour change, and the limb is elevated with active finger or toe movement.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fractures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_006",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "M",
+   "stem": "External fixation is particularly indicated in:",
+   "options": [
+    "Grossly contaminated open fractures and damage control in polytrauma",
+    "All closed fractures",
+    "Undisplaced fractures",
+    "Intracapsular fractures"
+   ],
+   "correct": 0,
+   "concept": "External fixation stabilises bone away from the zone of injury, avoiding implanting metal into contaminated tissue, and is quick in an unstable polytrauma patient, allowing definitive fixation once the patient stabilises.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fracture Management",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_007",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "E",
+   "stem": "The principle of intramedullary nailing is that it provides:",
+   "options": [
+    "Load-sharing fixation allowing early weight-bearing in diaphyseal fractures",
+    "Absolute rigid fixation",
+    "No stability",
+    "Fixation for intra-articular fractures"
+   ],
+   "correct": 0,
+   "concept": "A nail acts as an internal splint sharing load with bone, promoting secondary bone healing with callus and permitting early mobilisation. Plates provide load-bearing rigid fixation with primary bone healing.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Fracture Management",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_008",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "H",
+   "stem": "In leprosy, the most important measure to prevent deformity is:",
+   "options": [
+    "Early detection and treatment of neuritis, with care of the anaesthetic limb",
+    "Amputation",
+    "Prolonged bed rest",
+    "Splinting alone"
+   ],
+   "correct": 0,
+   "concept": "Deformity results from nerve damage causing anaesthesia, paralysis and autonomic loss, so prompt steroids for acute neuritis, protective footwear, daily self-examination and care of insensitive hands and feet prevent disability.",
+   "reference": "Park 27e, Leprosy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_009",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "H",
+   "stem": "A foot drop splint is prescribed principally to:",
+   "options": [
+    "Prevent equinus contracture while awaiting nerve recovery",
+    "Restore power",
+    "Cure the nerve lesion",
+    "Reduce pain only"
+   ],
+   "correct": 0,
+   "concept": "Passive stretching and an ankle-foot orthosis maintain the joint in a functional position so that when reinnervation occurs the limb is supple and useful; contracture would otherwise negate neurological recovery.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Rehabilitation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OR_NRV_010",
+   "part": "B",
+   "subject": "Orthopedics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nerve injuries, implants, splints & rehabilitation",
+   "difficulty": "M",
+   "stem": "The most important principle of rehabilitation after a musculoskeletal injury is:",
+   "options": [
+    "Early controlled mobilisation to prevent stiffness, muscle wasting and osteopenia",
+    "Prolonged complete immobilisation",
+    "Bed rest for six weeks",
+    "Avoiding physiotherapy"
+   ],
+   "correct": 0,
+   "concept": "Prolonged immobilisation causes joint stiffness, muscle atrophy, disuse osteopenia and thromboembolism, so modern fracture care aims for stable fixation permitting early movement - the fracture disease concept.",
+   "reference": "Maheshwari Essential Orthopaedics 6e, Rehabilitation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_001",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "E",
+   "stem": "A macule is defined as:",
+   "options": [
+    "A flat circumscribed area of colour change less than 1 cm, without elevation",
+    "A raised lesion",
+    "A fluid-filled lesion",
+    "A depression"
+   ],
+   "correct": 0,
+   "concept": "Precise terminology guides diagnosis: a patch is a macule over 1 cm, a papule is raised under 1 cm, a plaque over 1 cm, a nodule is deeper, a vesicle contains clear fluid under 1 cm and a bulla over 1 cm.",
+   "reference": "IADVL Textbook of Dermatology 5e, Basic Dermatology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_002",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "M",
+   "stem": "The layer of epidermis responsible for the barrier function of skin is:",
+   "options": [
+    "Stratum corneum",
+    "Stratum basale",
+    "Stratum spinosum",
+    "Stratum granulosum"
+   ],
+   "correct": 0,
+   "concept": "The corneocytes embedded in intercellular lipid form a brick-and-mortar barrier limiting water loss and entry of irritants. Its disruption underlies atopic dermatitis and explains the value of emollients.",
+   "reference": "IADVL Textbook of Dermatology 5e, Structure of Skin",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_003",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "M",
+   "stem": "The Koebner phenomenon refers to:",
+   "options": [
+    "Appearance of characteristic lesions at sites of trauma",
+    "Spread of infection",
+    "Healing of lesions",
+    "Pigment change"
+   ],
+   "correct": 0,
+   "concept": "Koebnerisation occurs in psoriasis, lichen planus, vitiligo and viral warts, so surgery and trauma to affected skin should be minimised during active disease.",
+   "reference": "IADVL Textbook of Dermatology 5e, Basic Dermatology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_004",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "E",
+   "stem": "The Auspitz sign, pinpoint bleeding on removing a scale, is characteristic of:",
+   "options": [
+    "Psoriasis",
+    "Lichen planus",
+    "Eczema",
+    "Pemphigus"
+   ],
+   "correct": 0,
+   "concept": "Removing the silvery scale exposes thinned suprapapillary epidermis over dilated dermal capillaries. Auspitz sign, the candle grease sign and Koebner phenomenon together strongly suggest psoriasis.",
+   "reference": "IADVL Textbook of Dermatology 5e, Papulosquamous Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_005",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "M",
+   "stem": "Nikolsky sign, in which the epidermis shears off with lateral pressure, is positive in:",
+   "options": [
+    "Pemphigus vulgaris and toxic epidermal necrolysis",
+    "Bullous pemphigoid",
+    "Psoriasis",
+    "Lichen planus"
+   ],
+   "correct": 0,
+   "concept": "Loss of epidermal cohesion from acantholysis or full-thickness necrosis produces a positive sign, indicating a fragile intraepidermal or subepidermal split. Pemphigoid has a firm subepidermal blister with a negative sign.",
+   "reference": "IADVL Textbook of Dermatology 5e, Vesiculobullous Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_006",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "M",
+   "stem": "Wood lamp examination is useful for diagnosing:",
+   "options": [
+    "Fungal infections, vitiligo, erythrasma and pigment disorders",
+    "Psoriasis",
+    "Eczema",
+    "Urticaria"
+   ],
+   "correct": 0,
+   "concept": "Ultraviolet A at 365 nm shows coral-red fluorescence in erythrasma, green in some tinea capitis, and accentuates depigmented vitiligo patches especially in fair skin.",
+   "reference": "IADVL Textbook of Dermatology 5e, Investigations in Dermatology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_007",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "E",
+   "stem": "A KOH mount of skin scrapings is used to demonstrate:",
+   "options": [
+    "Fungal hyphae and spores",
+    "Bacteria",
+    "Viral inclusions",
+    "Mites only"
+   ],
+   "correct": 0,
+   "concept": "Potassium hydroxide dissolves keratin leaving fungal elements visible, giving a rapid bedside diagnosis of dermatophytosis. Skin scrapings for scabies mites are examined in mineral oil rather than KOH.",
+   "reference": "IADVL Textbook of Dermatology 5e, Investigations in Dermatology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_008",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "H",
+   "stem": "Dermatitis is described as spongiotic when histology shows:",
+   "options": [
+    "Intercellular oedema of the epidermis, characteristic of eczema",
+    "Acanthosis with parakeratosis",
+    "Basal cell degeneration",
+    "Subepidermal blister"
+   ],
+   "correct": 0,
+   "concept": "Spongiosis separating keratinocytes is the histological hallmark of eczematous dermatitis at all stages. Psoriasis shows parakeratosis with Munro microabscesses, and lichen planus a lichenoid interface infiltrate.",
+   "reference": "IADVL Textbook of Dermatology 5e, Eczema",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_009",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "H",
+   "stem": "The potency of a topical corticosteroid should be chosen so that:",
+   "options": [
+    "Low potency is used on the face, flexures and in children, and higher potency on palms and soles",
+    "The strongest is always used",
+    "Only oral steroids are used",
+    "Potency does not matter"
+   ],
+   "correct": 0,
+   "concept": "Absorption varies over a hundredfold by site, so potent steroids on the face and flexures cause atrophy, telangiectasia and striae, while thick palmar and plantar skin needs potent preparations to be effective.",
+   "reference": "IADVL Textbook of Dermatology 5e, Topical Therapy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_STR_010",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Structure of skin & approach to dermatological diagnosis",
+   "difficulty": "M",
+   "stem": "The rule of wet-to-wet and dry-to-dry in dermatological therapy means:",
+   "options": [
+    "Use wet preparations for weeping lesions and greasy ointments for dry scaly lesions",
+    "Always use ointments",
+    "Always use lotions",
+    "Vehicle is irrelevant"
+   ],
+   "correct": 0,
+   "concept": "Acute weeping dermatitis is treated with wet compresses and lotions, subacute lesions with creams, and chronic dry lichenified lesions with ointments, which are more occlusive and enhance penetration.",
+   "reference": "IADVL Textbook of Dermatology 5e, Topical Therapy",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

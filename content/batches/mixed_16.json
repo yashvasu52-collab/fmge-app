@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "id": "Q_PAT_MDS_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "E",
+   "stem": "Myelodysplastic syndrome is characterised by:",
+   "options": [
+    "Cytopenias with a hypercellular dysplastic marrow and risk of transformation to acute leukaemia",
+    "Hypocellular marrow with no dysplasia",
+    "Normal blood counts",
+    "Isolated lymphocytosis"
+   ],
+   "correct": 0,
+   "concept": "MDS shows ineffective haemopoiesis - peripheral cytopenias despite a hypercellular marrow - with dysplastic changes such as ring sideroblasts, Pelger-Huet anomaly and micromegakaryocytes, and progresses to AML in about a third.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "M",
+   "stem": "Ring sideroblasts are demonstrated by which stain?",
+   "options": [
+    "Perls Prussian blue",
+    "Congo red",
+    "Ziehl-Neelsen",
+    "Periodic acid-Schiff"
+   ],
+   "correct": 0,
+   "concept": "Perls stain shows iron-laden mitochondria encircling the nucleus of erythroid precursors. Ring sideroblasts occur in MDS with ring sideroblasts, lead poisoning, alcohol excess, isoniazid therapy and pyridoxine deficiency.",
+   "reference": "Robbins & Cotran 10e, Red Blood Cell Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "M",
+   "stem": "Fanconi anaemia is characterised by:",
+   "options": [
+    "Inherited marrow failure with chromosomal fragility, short stature and radial ray anomalies",
+    "Acquired aplasia only",
+    "Isolated red cell aplasia",
+    "Normal chromosomes"
+   ],
+   "correct": 0,
+   "concept": "Defective DNA crosslink repair causes progressive pancytopenia from about 5 to 10 years, with cafe-au-lait spots, absent or hypoplastic thumbs, renal anomalies and a high risk of AML and squamous carcinoma. Increased chromosomal breakage with diepoxybutane confirms it.",
+   "reference": "Robbins & Cotran 10e, Red Blood Cell Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "E",
+   "stem": "Pure red cell aplasia with a normal white cell and platelet count following parvovirus B19 infection occurs typically in patients with:",
+   "options": [
+    "Chronic haemolytic anaemia such as hereditary spherocytosis or sickle cell disease",
+    "Normal red cell lifespan",
+    "Iron deficiency",
+    "Thrombocytopenia"
+   ],
+   "correct": 0,
+   "concept": "Parvovirus B19 infects erythroid progenitors via the P antigen, halting erythropoiesis for about a week. This is inconsequential with a normal 120-day red cell lifespan, but precipitates aplastic crisis when the lifespan is already short.",
+   "reference": "Robbins & Cotran 10e, Red Blood Cell Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "M",
+   "stem": "The commonest cause of aplastic anaemia is:",
+   "options": [
+    "Idiopathic, presumed immune-mediated",
+    "Drugs",
+    "Radiation",
+    "Viral hepatitis"
+   ],
+   "correct": 0,
+   "concept": "Most cases are idiopathic and respond to immunosuppression with antithymocyte globulin and ciclosporin, or to stem cell transplantation in the young. Identified causes include chloramphenicol, benzene, radiation, hepatitis and pregnancy.",
+   "reference": "Robbins & Cotran 10e, Red Blood Cell Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "M",
+   "stem": "Packed red cells are stored at 2 to 6 degrees Celsius for a maximum of:",
+   "options": [
+    "35 to 42 days depending on the anticoagulant preservative",
+    "24 hours",
+    "5 days",
+    "6 months"
+   ],
+   "correct": 0,
+   "concept": "CPDA-1 allows 35 days and additive solutions such as SAGM up to 42 days. Platelets are stored at 20 to 24 degrees with agitation for only 5 days, and fresh frozen plasma at minus 30 degrees for a year.",
+   "reference": "Park 27e, Blood Transfusion Services",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "E",
+   "stem": "Leucodepletion of blood products principally reduces:",
+   "options": [
+    "Febrile non-haemolytic reactions, HLA alloimmunisation and CMV transmission",
+    "Bacterial contamination",
+    "Iron overload",
+    "Volume overload"
+   ],
+   "correct": 0,
+   "concept": "Removing donor leucocytes prevents cytokine-mediated febrile reactions, reduces HLA sensitisation in patients needing repeated transfusion, and lowers transmission of leucocyte-associated viruses such as CMV.",
+   "reference": "Park 27e, Blood Transfusion Services",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "H",
+   "stem": "Irradiation of cellular blood products is performed to prevent:",
+   "options": [
+    "Transfusion-associated graft-versus-host disease",
+    "Haemolysis",
+    "Bacterial growth",
+    "Febrile reactions"
+   ],
+   "correct": 0,
+   "concept": "Gamma irradiation inactivates donor lymphocytes, preventing transfusion-associated GVHD in immunocompromised recipients, neonates and recipients of directed donations from relatives, in whom it is almost invariably fatal.",
+   "reference": "Park 27e, Blood Transfusion Services",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "H",
+   "stem": "The mandatory screening tests for donated blood in India include all EXCEPT:",
+   "options": [
+    "Cytomegalovirus",
+    "HIV 1 and 2",
+    "Hepatitis B and C",
+    "Malaria and syphilis"
+   ],
+   "correct": 0,
+   "concept": "Indian regulations mandate screening for HIV, hepatitis B and C, syphilis and malaria. CMV screening is not routine and is reserved for selected immunocompromised recipients, for whom leucodepleted products are usually adequate.",
+   "reference": "Park 27e, Blood Transfusion Services",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_MDS_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Myelodysplasia, marrow failure & transfusion medicine",
+   "difficulty": "M",
+   "stem": "The window period in blood donor screening refers to:",
+   "options": [
+    "The interval after infection when the donor is infectious but screening tests remain negative",
+    "The shelf life of blood",
+    "The time to cross-match",
+    "The interval between donations"
+   ],
+   "correct": 0,
+   "concept": "Nucleic acid testing shortens the window period substantially compared with antibody testing, reducing but not abolishing residual transfusion transmission risk - which is why unnecessary transfusion is itself a hazard.",
+   "reference": "Park 27e, Blood Transfusion Services",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "E",
+   "stem": "The vector of dengue is:",
+   "options": [
+    "Aedes aegypti, a daytime biter breeding in clean stagnant water",
+    "Anopheles culicifacies",
+    "Culex quinquefasciatus",
+    "Phlebotomus argentipes"
+   ],
+   "correct": 0,
+   "concept": "Aedes aegypti is a domestic daytime biter with a limited flight range, breeding in clean water in household containers, so source reduction and personal protection during the day are the mainstays of control.",
+   "reference": "Park 27e, Dengue",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "M",
+   "stem": "The warning signs in dengue that predict progression to severe disease include:",
+   "options": [
+    "Persistent vomiting, abdominal pain, mucosal bleeding and a rising haematocrit with falling platelets",
+    "Fever alone",
+    "Headache alone",
+    "Rash alone"
+   ],
+   "correct": 0,
+   "concept": "Warning signs mark the critical phase around defervescence on days 3 to 7 when plasma leakage occurs. Rising haematocrit with falling platelets indicates leakage requiring careful isotonic fluid therapy, not platelet transfusion.",
+   "reference": "Park 27e, Dengue",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "M",
+   "stem": "The vector of lymphatic filariasis in India is:",
+   "options": [
+    "Culex quinquefasciatus, breeding in dirty polluted water",
+    "Aedes aegypti",
+    "Anopheles stephensi",
+    "Phlebotomus"
+   ],
+   "correct": 0,
+   "concept": "Culex quinquefasciatus, a night biter breeding in organically polluted water, transmits Wuchereria bancrofti which causes over 95% of Indian filariasis. Mass drug administration with DEC and albendazole is the control strategy.",
+   "reference": "Park 27e, Filariasis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "E",
+   "stem": "Blood samples for microfilariae in bancroftian filariasis should be collected:",
+   "options": [
+    "At night, between 10 pm and 2 am, because of nocturnal periodicity",
+    "At noon",
+    "Early morning",
+    "Any time"
+   ],
+   "correct": 0,
+   "concept": "Wuchereria bancrofti microfilariae show nocturnal periodicity, appearing in peripheral blood at night coinciding with the vector's biting habit. A DEC provocation test allows daytime sampling if necessary.",
+   "reference": "Park 27e, Filariasis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "M",
+   "stem": "Kala-azar (visceral leishmaniasis) in India is transmitted by:",
+   "options": [
+    "Phlebotomus argentipes sandfly, with humans as the only reservoir",
+    "Culex mosquito",
+    "Tsetse fly",
+    "Rat flea"
+   ],
+   "correct": 0,
+   "concept": "Indian kala-azar is anthroponotic with humans as the sole reservoir, transmitted by the sandfly which breeds in cracks and crevices of mud walls. This makes elimination feasible through case detection, treatment and indoor residual spraying.",
+   "reference": "Park 27e, Kala-azar",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "M",
+   "stem": "The drug of choice for visceral leishmaniasis in the Indian elimination programme is:",
+   "options": [
+    "Single-dose liposomal amphotericin B",
+    "Sodium stibogluconate",
+    "Chloroquine",
+    "Praziquantel"
+   ],
+   "correct": 0,
+   "concept": "Single-dose liposomal amphotericin B is the first-line regimen under the national programme because of widespread antimony resistance in Bihar, with miltefosine and paromomycin as alternatives.",
+   "reference": "Park 27e, Kala-azar",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "E",
+   "stem": "Post kala-azar dermal leishmaniasis is important epidemiologically because:",
+   "options": [
+    "Such patients act as a reservoir maintaining transmission between epidemics",
+    "It is fatal",
+    "It is non-infectious",
+    "It occurs only in children"
+   ],
+   "correct": 0,
+   "concept": "PKDL appears months to years after apparently cured kala-azar as hypopigmented macules, nodules and plaques containing parasites, serving as a human reservoir - so its detection and treatment is central to elimination.",
+   "reference": "Park 27e, Kala-azar",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "H",
+   "stem": "Chikungunya is distinguished clinically from dengue by:",
+   "options": [
+    "Severe and often prolonged incapacitating polyarthralgia with a low risk of haemorrhage or shock",
+    "Severe thrombocytopenia",
+    "Plasma leakage",
+    "High mortality"
+   ],
+   "correct": 0,
+   "concept": "Both are Aedes-borne with similar acute fever and rash, but chikungunya causes disabling symmetrical small joint arthralgia persisting for months, while plasma leakage, shock and marked thrombocytopenia point to dengue.",
+   "reference": "Park 27e, Chikungunya",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "H",
+   "stem": "The primary vector of malaria in rural India is:",
+   "options": [
+    "Anopheles culicifacies",
+    "Anopheles stephensi",
+    "Aedes aegypti",
+    "Culex vishnui"
+   ],
+   "correct": 0,
+   "concept": "Anopheles culicifacies is the main rural vector responsible for most transmission, while Anopheles stephensi is the urban vector breeding in wells, overhead tanks and construction sites. Both are night biters, hence the emphasis on bed nets.",
+   "reference": "Park 27e, Malaria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_VBD_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vector-borne disease: dengue, chikungunya, filaria, kala-azar",
+   "difficulty": "M",
+   "stem": "Under the national programme, the treatment of confirmed Plasmodium falciparum malaria in India is:",
+   "options": [
+    "Artemisinin-based combination therapy with a single dose of primaquine as a gametocytocidal",
+    "Chloroquine alone",
+    "Primaquine for 14 days alone",
+    "Quinine alone"
+   ],
+   "correct": 0,
+   "concept": "ACT with single-dose primaquine on day 2 kills gametocytes and interrupts transmission. Vivax malaria instead needs chloroquine with 14 days of primaquine for radical cure after checking G6PD status.",
+   "reference": "Park 27e, Malaria",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  }
+ ]
+}

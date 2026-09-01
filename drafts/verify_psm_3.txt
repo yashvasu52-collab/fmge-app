@@ -1,0 +1,46 @@
+Q_PSM_HCD_001 | del | duplicate of Q_PSM_HCD_011, which gives the same population norm for a primary health centre and additionally the hilly and tribal figure. The fuller item is retained
+Q_PSM_HCD_004 | del | duplicate of Q_PSM_HCD_014, which describes the same health and wellness centre role and additionally the twelve-service package and the mid-level provider. The fuller item is retained
+Q_PSM_HCD_012 | del | duplicate of Q_PSM_HCD_003, which identifies the same ASHA and additionally her honorary status, population norm and incentive-based payment. The fuller item is retained
+Q_PSM_ECO_011 | del | duplicate of Q_PSM_ECO_003 on catastrophic health expenditure. The item that gives the ten percent threshold is retained
+Q_PSM_ECO_012 | del | duplicate of Q_PSM_CON_009 on the disability-adjusted life year. The first item is retained, and Q_PSM_ECO_008 still covers its use in economic evaluation
+Q_PSM_ECO_014 | del | duplicate of Q_PSM_ECO_002 on the two pillars of Ayushman Bharat. The first item is retained
+Q_PSM_PLN_012 | del | duplicate of Q_PSM_PLN_003 on the Kartar Singh Committee introducing the multipurpose health worker. The first item is retained
+Q_PSM_PLN_011 | del | duplicate of Q_PSM_PLN_005 on the National Health Policy 2017 target of 2.5 percent of gross domestic product. The first item is retained
+Q_PSM_PLN_015 | opt3=Chadah Committee, 1963 | the option list offered both "Srivastava Committee, 1975" and "Shrivastav Committee, 1981", which are two spellings and dates for the same committee, so one distractor was not a distinct choice
+Q_PSM_HCD_006 | ok |
+Q_PSM_HCD_007 | ok |
+Q_PSM_HCD_008 | ok |
+Q_PSM_HCD_010 | ok |
+Q_PSM_HCD_011 | ok |
+Q_PSM_HCD_014 | ok |
+Q_PSM_HCD_016 | ok |
+Q_PSM_HCD_017 | ok |
+Q_PSM_HCD_018 | ok |
+Q_PSM_ECO_001 | ok |
+Q_PSM_ECO_002 | ok |
+Q_PSM_ECO_003 | ok |
+Q_PSM_ECO_004 | ok |
+Q_PSM_ECO_005 | ok |
+Q_PSM_ECO_006 | ok |
+Q_PSM_ECO_007 | ok |
+Q_PSM_ECO_008 | ok |
+Q_PSM_ECO_009 | ok |
+Q_PSM_ECO_010 | ok |
+Q_PSM_ECO_013 | ok |
+Q_PSM_ECO_015 | ok |
+Q_PSM_ECO_016 | ok |
+Q_PSM_ECO_017 | ok |
+Q_PSM_PLN_002 | ok |
+Q_PSM_PLN_003 | ok |
+Q_PSM_PLN_004 | ok |
+Q_PSM_PLN_005 | ok |
+Q_PSM_PLN_006 | ok |
+Q_PSM_PLN_007 | ok |
+Q_PSM_PLN_008 | ok |
+Q_PSM_PLN_009 | ok |
+Q_PSM_PLN_010 | ok |
+Q_PSM_PLN_013 | ok |
+Q_PSM_PLN_014 | ok |
+Q_PSM_PLN_016 | ok |
+Q_PSM_PLN_017 | ok |
+Q_PSM_INT_001 | ok |

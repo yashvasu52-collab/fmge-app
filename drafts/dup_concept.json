@@ -1,0 +1,794 @@
+[
+ {
+  "c": 0.68,
+  "a": 1.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Screening: sensitivity/specificity/PPV",
+  "x": "Q_GEN_PSM_EPI_SCREEN_006",
+  "y": "Q_GEN_PSM_EPI_SCREEN_007"
+ },
+ {
+  "c": 0.67,
+  "a": 1.0,
+  "subject": "Medicine",
+  "topic": "Glomerular disease & nephrotic syndrome",
+  "x": "Q_MED_GN_001",
+  "y": "Q_MED_GN_011"
+ },
+ {
+  "c": 0.62,
+  "a": 1.0,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "x": "Q_PYQ_FMGE_2026JAN_046",
+  "y": "Q_A_027"
+ },
+ {
+  "c": 0.4,
+  "a": 1.0,
+  "subject": "Medicine",
+  "topic": "Arrhythmias & ECG interpretation",
+  "x": "Q_MED_ARR_005",
+  "y": "Q_MED_ARR_016"
+ },
+ {
+  "c": 0.38,
+  "a": 1.0,
+  "subject": "Pediatrics",
+  "topic": "PEM, breastfeeding, micronutrients",
+  "x": "Q_PYQ_FMGE_2025JANP2_004",
+  "y": "Q_PYQ_FMGE_2025JANP2_073"
+ },
+ {
+  "c": 0.33,
+  "a": 1.0,
+  "subject": "Physiology",
+  "topic": "O2/CO2 transport, hypoxia",
+  "x": "Q_PYQ_FMGE_2025JULP2_020",
+  "y": "Q_PYQ_NEETPG_2025_002"
+ },
+ {
+  "c": 0.32,
+  "a": 1.0,
+  "subject": "Pediatrics",
+  "topic": "Paediatric GIT, liver disease & malabsorption",
+  "x": "Q_PED_GIT_007",
+  "y": "Q_PED_GIT_017"
+ },
+ {
+  "c": 0.3,
+  "a": 1.0,
+  "subject": "Pathology",
+  "topic": "Glomerulonephritis, nephrotic vs nephritic",
+  "x": "Q_GEN_PATH_SYS_RENAL_003",
+  "y": "Q_GEN_PATH_SYS_RENAL_022"
+ },
+ {
+  "c": 0.3,
+  "a": 1.0,
+  "subject": "Pediatrics",
+  "topic": "PEM, breastfeeding, micronutrients",
+  "x": "Q_PYQ_FMGE_2024JUN_028",
+  "y": "Q_C_040"
+ },
+ {
+  "c": 0.29,
+  "a": 1.0,
+  "subject": "Pharmacology",
+  "topic": "Pharmacokinetics/dynamics, receptors",
+  "x": "Q_c1d_004",
+  "y": "Q_c1d_005"
+ },
+ {
+  "c": 0.29,
+  "a": 1.0,
+  "subject": "Anatomy",
+  "topic": "Brachial plexus & nerve injuries (radial/median/ulnar)",
+  "x": "Q_PYQ_FMGE_2026JUN_012",
+  "y": "Q_A_002"
+ },
+ {
+  "c": 0.29,
+  "a": 1.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Prolapse, urogynaecology & genital fistula",
+  "x": "Q_OBG_PRO_001",
+  "y": "Q_OBG_PRO_011"
+ },
+ {
+  "c": 0.29,
+  "a": 1.0,
+  "subject": "Pediatrics",
+  "topic": "Childhood tuberculosis & paediatric HIV",
+  "x": "Q_PED_PTB_006",
+  "y": "Q_PED_PTB_018"
+ },
+ {
+  "c": 0.26,
+  "a": 1.0,
+  "subject": "Medicine",
+  "topic": "Glomerular disease & nephrotic syndrome",
+  "x": "Q_MED_GN_005",
+  "y": "Q_MED_GN_014"
+ },
+ {
+  "c": 0.26,
+  "a": 1.0,
+  "subject": "Medicine",
+  "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+  "x": "Q_MED_COAG_002",
+  "y": "Q_MED_COAG_012"
+ },
+ {
+  "c": 0.62,
+  "a": 0.62,
+  "subject": "Physiology",
+  "topic": "Reproductive physiology, pregnancy & lactation",
+  "x": "Q_PY_REP_001",
+  "y": "Q_PY_REP_013"
+ },
+ {
+  "c": 0.8,
+  "a": 0.36,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Menopause, HRT & osteoporosis",
+  "x": "Q_OBG_MEN_005",
+  "y": "Q_OBG_MEN_018"
+ },
+ {
+  "c": 0.28,
+  "a": 0.83,
+  "subject": "Anatomy",
+  "topic": "Spinal cord tracts & lesions",
+  "x": "Q_GEN_ANAT_NEURO_TRACTS_003",
+  "y": "Q_GEN_ANAT_NEURO_TRACTS_012"
+ },
+ {
+  "c": 0.48,
+  "a": 0.62,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Menopause, HRT & osteoporosis",
+  "x": "Q_OBG_MEN_017",
+  "y": "Q_OBG_MEN_018"
+ },
+ {
+  "c": 0.41,
+  "a": 0.64,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Occupational health & industrial diseases",
+  "x": "Q_PSM_OCC_005",
+  "y": "Q_PSM_OCC_014"
+ },
+ {
+  "c": 0.33,
+  "a": 0.67,
+  "subject": "Pathology",
+  "topic": "Lymphomas (Hodgkin vs NHL), Reed-Sternberg",
+  "x": "Q_c1_015",
+  "y": "Q_GEN_PATH_HEM_LYMPHOMA_004"
+ },
+ {
+  "c": 0.33,
+  "a": 0.67,
+  "subject": "Microbiology",
+  "topic": "Sterilization, disinfection, stains, culture media",
+  "x": "Q_PYQ_FMGE_2026JUN_031",
+  "y": "Q_MIC_SDS_001"
+ },
+ {
+  "c": 0.25,
+  "a": 0.75,
+  "subject": "ENT",
+  "topic": "Complications of ear disease & CSF leak",
+  "x": "Q_ENT_CMP_007",
+  "y": "Q_ENT_CMP_017"
+ },
+ {
+  "c": 0.3,
+  "a": 0.67,
+  "subject": "Dermatology",
+  "topic": "Leprosy (types, lepra reactions)",
+  "x": "Q_GEN_DERM_LEPROSY_011",
+  "y": "Q_GEN_DERM_LEPROSY_012"
+ },
+ {
+  "c": 0.29,
+  "a": 0.67,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+  "x": "Q_OBG_ANA_002",
+  "y": "Q_OBG_ANA_013"
+ },
+ {
+  "c": 0.35,
+  "a": 0.6,
+  "subject": "Physiology",
+  "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+  "x": "Q_PY_MUS_001",
+  "y": "Q_PY_MUS_011"
+ },
+ {
+  "c": 0.32,
+  "a": 0.6,
+  "subject": "ENT",
+  "topic": "Tonsillitis, carcinoma larynx",
+  "x": "Q_PYQ_FMGE_2025JULP2_080",
+  "y": "Q_PYQ_INICET_2025MAY_009"
+ },
+ {
+  "c": 0.32,
+  "a": 0.57,
+  "subject": "Medicine",
+  "topic": "AKI/CKD & electrolyte/acid-base disorders",
+  "x": "Q_PYQ_FMGE_2026JAN_005",
+  "y": "Q_h3b_017"
+ },
+ {
+  "c": 0.26,
+  "a": 0.6,
+  "subject": "Medicine",
+  "topic": "Anaemias & haematinic deficiencies",
+  "x": "Q_MED_ANE_005",
+  "y": "Q_MED_ANE_014"
+ },
+ {
+  "c": 0.65,
+  "a": 0.2,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Physiological changes in pregnancy & fetal development",
+  "x": "Q_OBG_PHY_003",
+  "y": "Q_OBG_PHY_013"
+ },
+ {
+  "c": 0.33,
+  "a": 0.5,
+  "subject": "Medicine",
+  "topic": "Stroke, epilepsy, meningitis",
+  "x": "Q_c1_082",
+  "y": "Q_PYQ_FMGE_2025JULP1_046"
+ },
+ {
+  "c": 0.32,
+  "a": 0.5,
+  "subject": "Pediatrics",
+  "topic": "PEM, breastfeeding, micronutrients",
+  "x": "Q_PYQ_FMGE_2025JANP2_035",
+  "y": "Q_PYQ_FMGE_2025JANP2_073"
+ },
+ {
+  "c": 0.32,
+  "a": 0.5,
+  "subject": "Physiology",
+  "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+  "x": "Q_PY_MUS_003",
+  "y": "Q_PY_MUS_018"
+ },
+ {
+  "c": 0.3,
+  "a": 0.5,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+  "x": "Q_OBG_GTD_005",
+  "y": "Q_OBG_GTD_015"
+ },
+ {
+  "c": 0.35,
+  "a": 0.45,
+  "subject": "Pediatrics",
+  "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+  "x": "Q_PED_END_007",
+  "y": "Q_PED_END_016"
+ },
+ {
+  "c": 0.54,
+  "a": 0.25,
+  "subject": "Medicine",
+  "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+  "x": "Q_MED_COAG_009",
+  "y": "Q_MED_COAG_014"
+ },
+ {
+  "c": 0.27,
+  "a": 0.5,
+  "subject": "ENT",
+  "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+  "x": "Q_ENT_LAR_009",
+  "y": "Q_ENT_LAR_016"
+ },
+ {
+  "c": 0.48,
+  "a": 0.29,
+  "subject": "Physiology",
+  "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+  "x": "Q_PY_END_004",
+  "y": "Q_PY_END_015"
+ },
+ {
+  "c": 0.26,
+  "a": 0.5,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Menopause, HRT & osteoporosis",
+  "x": "Q_OBG_MEN_004",
+  "y": "Q_OBG_MEN_014"
+ },
+ {
+  "c": 0.25,
+  "a": 0.5,
+  "subject": "Anatomy",
+  "topic": "Spinal cord tracts & lesions",
+  "x": "Q_GEN_ANAT_NEURO_TRACTS_001",
+  "y": "Q_GEN_ANAT_NEURO_TRACTS_025"
+ },
+ {
+  "c": 0.25,
+  "a": 0.5,
+  "subject": "Surgery",
+  "topic": "Burns & basics of plastic surgery",
+  "x": "Q_SUR_BRN_002",
+  "y": "Q_SUR_BRN_011"
+ },
+ {
+  "c": 0.39,
+  "a": 0.33,
+  "subject": "Surgery",
+  "topic": "Thyroid swellings & surgery",
+  "x": "Q_PYQ_FMGE_2025JANP1_107",
+  "y": "Q_C_010"
+ },
+ {
+  "c": 0.39,
+  "a": 0.33,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+  "x": "Q_OBG_MED_006",
+  "y": "Q_OBG_MED_015"
+ },
+ {
+  "c": 0.72,
+  "a": 0,
+  "subject": "Microbiology",
+  "topic": "Hospital-acquired infection, biomedical waste & infection control",
+  "x": "Q_MIC_HAI_003",
+  "y": "Q_MIC_HAI_013"
+ },
+ {
+  "c": 0.38,
+  "a": 0.33,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Biostatistics: tests & distributions",
+  "x": "Q_GEN_PSM_BIOSTAT_017",
+  "y": "Q_PYQ_FMGE_2025JULP1_081"
+ },
+ {
+  "c": 0.38,
+  "a": 0.33,
+  "subject": "Forensic Medicine (FMT)",
+  "topic": "Asphyxial deaths (hanging, drowning)",
+  "x": "Q_GEN_FMT_ASPHYXIA_010",
+  "y": "Q_A_035"
+ },
+ {
+  "c": 0.38,
+  "a": 0.33,
+  "subject": "Anatomy",
+  "topic": "Brachial plexus & nerve injuries (radial/median/ulnar)",
+  "x": "Q_PYQ_FMGE_2026JUN_039",
+  "y": "Q_A_003"
+ },
+ {
+  "c": 0.38,
+  "a": 0.33,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Genital infections, PID & STIs in women",
+  "x": "Q_OBG_PID_006",
+  "y": "Q_OBG_PID_014"
+ },
+ {
+  "c": 0.34,
+  "a": 0.36,
+  "subject": "Pediatrics",
+  "topic": "Childhood tuberculosis & paediatric HIV",
+  "x": "Q_PED_PTB_001",
+  "y": "Q_PED_PTB_011"
+ },
+ {
+  "c": 0.48,
+  "a": 0.22,
+  "subject": "Pediatrics",
+  "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+  "x": "Q_PED_NEU_004",
+  "y": "Q_PED_NEU_015"
+ },
+ {
+  "c": 0.48,
+  "a": 0.17,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Menopause, HRT & osteoporosis",
+  "x": "Q_OBG_MEN_005",
+  "y": "Q_OBG_MEN_017"
+ },
+ {
+  "c": 0.52,
+  "a": 0.11,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Occupational health & industrial diseases",
+  "x": "Q_PSM_OCC_003",
+  "y": "Q_PSM_OCC_016"
+ },
+ {
+  "c": 0.39,
+  "a": 0.22,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Epidemiology & control: TB, malaria, HIV",
+  "x": "Q_GEN_PSM_COMMDIS_012",
+  "y": "Q_GEN_PSM_COMMDIS_019"
+ },
+ {
+  "c": 0.46,
+  "a": 0.1,
+  "subject": "Pediatrics",
+  "topic": "Paediatric emergencies, poisoning & IMNCI",
+  "x": "Q_PED_EMG_005",
+  "y": "Q_PED_EMG_013"
+ },
+ {
+  "c": 0.56,
+  "a": 0.0,
+  "subject": "Microbiology",
+  "topic": "Rabies, polio & enteroviruses",
+  "x": "Q_MIC_RAB_008",
+  "y": "Q_MIC_RAB_011"
+ },
+ {
+  "c": 0.56,
+  "a": 0.0,
+  "subject": "Physiology",
+  "topic": "Thyroid, adrenal, pancreas & calcium homeostasis",
+  "x": "Q_PY_END_007",
+  "y": "Q_PY_END_014"
+ },
+ {
+  "c": 0.39,
+  "a": 0.17,
+  "subject": "Physiology",
+  "topic": "Special senses, CSF, temperature regulation & sleep",
+  "x": "Q_PY_SEN_001",
+  "y": "Q_PY_SEN_011"
+ },
+ {
+  "c": 0.36,
+  "a": 0.18,
+  "subject": "Pediatrics",
+  "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+  "x": "Q_PED_END_013",
+  "y": "Q_PED_END_018"
+ },
+ {
+  "c": 0.53,
+  "a": 0,
+  "subject": "Pediatrics",
+  "topic": "PEM, breastfeeding, micronutrients",
+  "x": "Q_PYQ_FMGE_2026JUN_022",
+  "y": "Q_PYQ_FMGE_2026JUN_038"
+ },
+ {
+  "c": 0.52,
+  "a": 0.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Water/waste, biomedical waste, vital statistics",
+  "x": "Q_c1_101",
+  "y": "Q_PSM_WWB_006"
+ },
+ {
+  "c": 0.38,
+  "a": 0.13,
+  "subject": "Anatomy",
+  "topic": "Spinal cord tracts & lesions",
+  "x": "Q_GEN_ANAT_NEURO_TRACTS_006",
+  "y": "Q_GEN_ANAT_NEURO_TRACTS_025"
+ },
+ {
+  "c": 0.41,
+  "a": 0.1,
+  "subject": "Medicine",
+  "topic": "Nutritional & vitamin deficiency states in adults",
+  "x": "Q_MED_NUT_006",
+  "y": "Q_MED_NUT_014"
+ },
+ {
+  "c": 0.39,
+  "a": 0.11,
+  "subject": "Pathology",
+  "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+  "x": "Q_PAT_PLZ_004",
+  "y": "Q_PAT_PLZ_015"
+ },
+ {
+  "c": 0.36,
+  "a": 0.14,
+  "subject": "Pharmacology",
+  "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+  "x": "Q_PH_PRK_001",
+  "y": "Q_PH_PRK_011"
+ },
+ {
+  "c": 0.5,
+  "a": 0.0,
+  "subject": "Pharmacology",
+  "topic": "Anthelmintics, antileprotics & antiamoebics",
+  "x": "Q_PH_ANT_007",
+  "y": "Q_PH_ANT_013"
+ },
+ {
+  "c": 0.5,
+  "a": 0.0,
+  "subject": "Pharmacology",
+  "topic": "Clinical trials, pharmacovigilance, prescription writing & drug schedules",
+  "x": "Q_PH_CTR_001",
+  "y": "Q_PH_CTR_011"
+ },
+ {
+  "c": 0.48,
+  "a": 0.0,
+  "subject": "Pathology",
+  "topic": "Lymphomas (Hodgkin vs NHL), Reed-Sternberg",
+  "x": "Q_c1_015",
+  "y": "Q_c1d_011"
+ },
+ {
+  "c": 0.37,
+  "a": 0.11,
+  "subject": "Surgery",
+  "topic": "Trauma, shock, ATLS basics",
+  "x": "Q_PYQ_FMGE_2025JULP1_023",
+  "y": "Q_C_013"
+ },
+ {
+  "c": 0.48,
+  "a": 0.0,
+  "subject": "Medicine",
+  "topic": "Demyelinating disease, spinal cord syndromes & headache",
+  "x": "Q_MED_DEM_005",
+  "y": "Q_MED_DEM_015"
+ },
+ {
+  "c": 0.48,
+  "a": 0.0,
+  "subject": "Surgery",
+  "topic": "Colon, rectum & anal canal disorders",
+  "x": "Q_SUR_COL_006",
+  "y": "Q_SUR_COL_012"
+ },
+ {
+  "c": 0.46,
+  "a": 0.0,
+  "subject": "Medicine",
+  "topic": "Anaemias & haematinic deficiencies",
+  "x": "Q_MED_ANE_009",
+  "y": "Q_MED_ANE_018"
+ },
+ {
+  "c": 0.37,
+  "a": 0.08,
+  "subject": "ENT",
+  "topic": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+  "x": "Q_ENT_LAR_008",
+  "y": "Q_ENT_LAR_013"
+ },
+ {
+  "c": 0.45,
+  "a": 0.0,
+  "subject": "Microbiology",
+  "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+  "x": "Q_MIC_ARB_002",
+  "y": "Q_MIC_ARB_014"
+ },
+ {
+  "c": 0.44,
+  "a": 0.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Screening: sensitivity/specificity/PPV",
+  "x": "Q_GEN_PSM_EPI_SCREEN_001",
+  "y": "Q_PYQ_FMGE_2025JANP2_076"
+ },
+ {
+  "c": 0.44,
+  "a": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Infertility & assisted reproduction",
+  "x": "Q_OBG_INFT_009",
+  "y": "Q_OBG_INFT_013"
+ },
+ {
+  "c": 0.44,
+  "a": 0.0,
+  "subject": "Pediatrics",
+  "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+  "x": "Q_PED_NEP_011",
+  "y": "Q_PED_NEP_013"
+ },
+ {
+  "c": 0.44,
+  "a": 0.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+  "x": "Q_PSM_NCD_004",
+  "y": "Q_PSM_NCD_012"
+ },
+ {
+  "c": 0.43,
+  "a": 0.0,
+  "subject": "Medicine",
+  "topic": "Stroke, epilepsy, meningitis",
+  "x": "Q_c1_082",
+  "y": "Q_PYQ_FMGE_2025JANP2_106"
+ },
+ {
+  "c": 0.43,
+  "a": 0.0,
+  "subject": "Anatomy",
+  "topic": "Inguinal canal, GIT relations",
+  "x": "Q_GEN_ANAT_ABDOMEN_012",
+  "y": "Q_GEN_ANAT_ABDOMEN_013"
+ },
+ {
+  "c": 0.43,
+  "a": 0.0,
+  "subject": "Forensic Medicine (FMT)",
+  "topic": "Legal procedure, consent, key IPC sections",
+  "x": "Q_PYQ_FMGE_2025JANP1_017",
+  "y": "Q_h3d_022"
+ },
+ {
+  "c": 0.42,
+  "a": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+  "x": "Q_OBG_MUL_001",
+  "y": "Q_OBG_MUL_012"
+ },
+ {
+  "c": 0.4,
+  "a": 0.0,
+  "subject": "Physiology",
+  "topic": "Cardiac cycle, ECG basis, BP regulation",
+  "x": "Q_PYQ_FMGE_2026JAN_045",
+  "y": "Q_A_013"
+ },
+ {
+  "c": 0.4,
+  "a": 0.0,
+  "subject": "Medicine",
+  "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+  "x": "Q_MED_RA_008",
+  "y": "Q_MED_RA_018"
+ },
+ {
+  "c": 0.39,
+  "a": 0.0,
+  "subject": "Medicine",
+  "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+  "x": "Q_MED_OBM_011",
+  "y": "Q_MED_OBM_017"
+ },
+ {
+  "c": 0.39,
+  "a": 0.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Maternal health, RCH & safe motherhood programmes",
+  "x": "Q_PSM_MAT_002",
+  "y": "Q_PSM_MAT_012"
+ },
+ {
+  "c": 0.38,
+  "a": 0.0,
+  "subject": "Surgery",
+  "topic": "Trauma, shock, ATLS basics",
+  "x": "Q_PYQ_FMGE_2025JANP1_115",
+  "y": "Q_PYQ_FMGE_2025JULP1_023"
+ },
+ {
+  "c": 0.38,
+  "a": 0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Association & causation, bias, confounding, measures of risk",
+  "x": "Q_PSM_ACB_001",
+  "y": "Q_PSM_ACB_002"
+ },
+ {
+  "c": 0.37,
+  "a": 0.0,
+  "subject": "Pathology",
+  "topic": "Neoplasia: grading vs staging, tumor markers",
+  "x": "Q_PYQ_FMGE_2025JULP1_012",
+  "y": "Q_h3a_007"
+ },
+ {
+  "c": 0.36,
+  "a": 0.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Study designs; incidence vs prevalence",
+  "x": "Q_c1d_006",
+  "y": "Q_h3m_003"
+ },
+ {
+  "c": 0.36,
+  "a": 0.0,
+  "subject": "Anatomy",
+  "topic": "Inguinal canal, GIT relations",
+  "x": "Q_GEN_ANAT_ABDOMEN_002",
+  "y": "Q_A_007"
+ },
+ {
+  "c": 0.36,
+  "a": 0.0,
+  "subject": "Anatomy",
+  "topic": "Spinal cord tracts & lesions",
+  "x": "Q_GEN_ANAT_NEURO_TRACTS_002",
+  "y": "Q_GEN_ANAT_NEURO_TRACTS_007"
+ },
+ {
+  "c": 0.35,
+  "a": 0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Screening: sensitivity/specificity/PPV",
+  "x": "Q_GEN_PSM_EPI_SCREEN_012",
+  "y": "Q_PYQ_FMGE_2025JANP2_076"
+ },
+ {
+  "c": 0.35,
+  "a": 0.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Biostatistics: tests & distributions",
+  "x": "Q_PYQ_FMGE_2025JULP1_081",
+  "y": "Q_h3b_029"
+ },
+ {
+  "c": 0.35,
+  "a": 0.0,
+  "subject": "Orthopedics",
+  "topic": "Bone tumours; CTEV, DDH",
+  "x": "Q_GEN_ORTHO_TUMOR_CONG_005",
+  "y": "Q_S_005"
+ },
+ {
+  "c": 0.35,
+  "a": 0.0,
+  "subject": "Orthopedics",
+  "topic": "Bone tumours; CTEV, DDH",
+  "x": "Q_h3d_027",
+  "y": "Q_S_005"
+ },
+ {
+  "c": 0.34,
+  "a": 0.0,
+  "subject": "Microbiology",
+  "topic": "Sterilization, disinfection, stains, culture media",
+  "x": "Q_c1_049",
+  "y": "Q_PYQ_FMGE_2026JUN_031"
+ },
+ {
+  "c": 0.34,
+  "a": 0.0,
+  "subject": "Anatomy",
+  "topic": "Mediastinum, heart & great vessels",
+  "x": "Q_GEN_ANAT_THORAX_010",
+  "y": "Q_GEN_ANAT_THORAX_011"
+ },
+ {
+  "c": 0.34,
+  "a": 0.0,
+  "subject": "Radiology",
+  "topic": "Radiation safety & principles",
+  "x": "Q_GEN_RADIO_SAFETY_019",
+  "y": "Q_GEN_RADIO_SAFETY_020"
+ },
+ {
+  "c": 0.34,
+  "a": 0.0,
+  "subject": "Forensic Medicine (FMT)",
+  "topic": "Wounds, firearm & mechanical injuries",
+  "x": "Q_PYQ_FMGE_2025JULP2_009",
+  "y": "Q_PYQ_FMGE_2025JULP2_079"
+ }
+]

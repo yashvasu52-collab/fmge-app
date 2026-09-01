@@ -1,0 +1,50 @@
+
+=== ENT / Otitis media, CSOM, hearing loss
+Q_S_007 [E] In a patient with unilateral hearing loss, the Rinne test is negative (bone conduction > air conduction) on the affected side and the Weber test lateralises to the same (affected) side. This pattern indicates:
+    A. Sensorineural hearing loss
+   *B. Conductive hearing loss
+    C. Mixed hearing loss
+    D. Normal hearing
+   key=B ref=Dhingra, Diseases of Ear, Nose and Throat
+   concept: In conductive hearing loss the Rinne test is negative (BC>AC) on the affected ear and the Weber test lateralises to the poorer (affected) ear. In sensorineural loss the Rinne stays positive (AC>BC) and the Weber lateralises to the better (normal) ear.
+Q_S_008 [M] A 30-year-old woman reports gradually progressive bilateral hearing loss that paradoxically seems better in noisy surroundings (paracusis willisii). Otoscopy is normal; audiometry shows conductive hearing loss with a dip in bone conduction at 2000 Hz. The most likely diagnosis is:
+    A. Meniere's disease
+   *B. Otosclerosis
+    C. Presbycusis
+    D. Noise-induced hearing loss
+   key=B ref=Dhingra, Diseases of Ear, Nose and Throat
+   concept: Otosclerosis is fixation of the stapes footplate causing progressive conductive hearing loss in young adults; paracusis willisii and Carhart's notch (a dip in bone conduction at 2 kHz) are classic. Schwartze sign is a reddish tympanic membrane over an active focus. Treatment is stapedectomy or a hearing aid.
+
+=== ENT / Sinusitis, epistaxis, DNS
+Q_S_009 [E] A 12-year-old boy has recurrent anterior nosebleeds. Bleeding most commonly arises from a vascular plexus in the anteroinferior part of the nasal septum. This site is called:
+    A. Woodruff's plexus
+   *B. Little's area (Kiesselbach's plexus)
+    C. Sphenopalatine foramen
+    D. Fossa of Rosenmuller
+   key=B ref=Dhingra, Diseases of Ear, Nose and Throat
+   concept: Anterior epistaxis (the commonest type, especially in children) arises from Little's area on the anteroinferior nasal septum, where the anterior/posterior ethmoidal, sphenopalatine, greater palatine and superior labial arteries anastomose to form Kiesselbach's plexus. Woodruff's plexus is the source of posterior epistaxis in the elderly.
+Q_S_010 [M] A 35-year-old has facial pain over the cheek that worsens on bending forward, with purulent nasal discharge. The maxillary sinus is the most commonly involved sinus in sinusitis. This is largely because:
+   *A. Its ostium lies high on the medial wall, so gravity-dependent drainage is poor
+    B. It is the smallest of the paranasal sinuses
+    C. It drains directly into the superior meatus
+    D. It is lined by keratinised squamous epithelium
+   key=A ref=Dhingra, Diseases of Ear, Nose and Throat
+   concept: The maxillary sinus is the largest paranasal sinus, but its ostium opens high on the medial wall into the middle meatus (via the hiatus semilunaris), so gravity-dependent drainage is poor and it is the most frequently infected sinus. Pain characteristically worsens on stooping forward.
+
+=== ENT / Tonsillitis, carcinoma larynx
+Q_S_011 [E] A 22-year-old presents a few days after acute tonsillitis with severe unilateral sore throat, trismus, a muffled 'hot-potato' voice, drooling and the uvula pushed to the opposite side. The most likely diagnosis is:
+    A. Retropharyngeal abscess
+   *B. Peritonsillar abscess (quinsy)
+    C. Ludwig's angina
+    D. Acute epiglottitis
+   key=B ref=Dhingra, Diseases of Ear, Nose and Throat
+   concept: Quinsy is a collection of pus between the tonsillar capsule and the superior constrictor. It presents with severe unilateral sore throat, trismus, a muffled 'hot-potato' voice and the tonsil/uvula pushed medially and to the opposite side. Management is incision and drainage plus antibiotics, with interval tonsillectomy.
+Q_S_012 [H] A purely glottic (true vocal cord) carcinoma of the larynx typically presents early and carries the best prognosis among laryngeal cancers. Which anatomical feature best explains both the early presentation and the good prognosis?
+    A. The glottis has a rich lymphatic supply causing early symptomatic nodes
+   *B. The true vocal cords have sparse lymphatic drainage and hoarseness appears early
+    C. The supraglottis has no lymphatic drainage at all
+    D. The subglottis presents earliest, with stridor
+   key=B ref=Dhingra, Diseases of Ear, Nose and Throat
+   concept: The true vocal cords have very poor lymphatic drainage, so glottic cancers spread to nodes late (good prognosis) while causing hoarseness early (early presentation). Supraglottic tumours have rich lymphatics and therefore metastasise to nodes early with a worse prognosis.
+
+[6 shown of 6 unverified in scope]

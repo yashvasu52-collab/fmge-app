@@ -1,0 +1,1172 @@
+[
+ {
+  "an": 1.0,
+  "st": 0.6,
+  "subject": "Microbiology",
+  "a": "Q_MIC_IMM_007",
+  "b": "Q_MIC_ICH_002",
+  "ta": "Innate & adaptive immunity, antigen-antibody reactions, vaccines",
+  "tb": "Immunoglobulins, complement, hypersensitivity",
+  "ans": "The classical pathway"
+ },
+ {
+  "an": 1.0,
+  "st": 0.5,
+  "subject": "Anatomy",
+  "a": "Q_AN_TH_005",
+  "b": "Q_AN_PP_003",
+  "ta": "Thorax: lungs, pleura, diaphragm",
+  "tb": "Pelvis & perineum: pelvic floor, urogenital triangle",
+  "ans": "C3, C4 and C5 roots"
+ },
+ {
+  "an": 1.0,
+  "st": 0.5,
+  "subject": "Biochemistry",
+  "a": "Q_A_022",
+  "b": "Q_BC_CHO_007",
+  "ta": "Glycolysis, TCA, gluconeogenesis (key enzymes)",
+  "tb": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+  "ans": "Phosphofructokinase-1 (PFK-1)"
+ },
+ {
+  "an": 1.0,
+  "st": 0.44,
+  "subject": "Pathology",
+  "a": "Q_PYQ_FMGE_2026JUN_040",
+  "b": "Q_PAT_CAR_002",
+  "ta": "Neoplasia: grading vs staging, tumor markers",
+  "tb": "Carcinogenesis, molecular basis & metastasis",
+  "ans": "TP53"
+ },
+ {
+  "an": 0.75,
+  "st": 0.67,
+  "subject": "Physiology",
+  "a": "Q_PY_REN_002",
+  "b": "Q_PY_GCU_001",
+  "ta": "Renal tubular transport, acid-base regulation & micturition",
+  "tb": "GFR, clearance, urine concentration",
+  "ans": "Freely filtered, neither reabsorbed nor "
+ },
+ {
+  "an": 1.0,
+  "st": 0.4,
+  "subject": "Microbiology",
+  "a": "Q_h3a_022",
+  "b": "Q_MIC_SPC_002",
+  "ta": "Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas",
+  "tb": "Specimen collection, serology & molecular diagnostics",
+  "ans": "Blood culture"
+ },
+ {
+  "an": 1.0,
+  "st": 0.31,
+  "subject": "Medicine",
+  "a": "Q_c1d_003",
+  "b": "Q_MED_ARR_011",
+  "ta": "Heart failure & valvular disease",
+  "tb": "Arrhythmias & ECG interpretation",
+  "ans": "Atrial fibrillation"
+ },
+ {
+  "an": 1.0,
+  "st": 0.29,
+  "subject": "Microbiology",
+  "a": "Q_PYQ_FMGE_2025JULP2_101",
+  "b": "Q_MIC_CLO_013",
+  "ta": "Gram-positive: Staph, Strep, toxins",
+  "tb": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+  "ans": "Clostridium perfringens"
+ },
+ {
+  "an": 1.0,
+  "st": 0.29,
+  "subject": "Medicine",
+  "a": "Q_MED_IE_006",
+  "b": "Q_MED_PLE_002",
+  "ta": "Infective endocarditis, rheumatic fever & pericardial disease",
+  "tb": "Pleural effusion, pneumothorax & interstitial lung disease",
+  "ans": "Tuberculosis"
+ },
+ {
+  "an": 0.62,
+  "st": 0.67,
+  "subject": "PSM (Community Medicine)",
+  "a": "Q_PSM_HCD_009",
+  "b": "Q_PSM_PLN_001",
+  "ta": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+  "tb": "Health planning, committees & health policy",
+  "ans": "Integration of preventive and curative s"
+ },
+ {
+  "an": 1.0,
+  "st": 0.29,
+  "subject": "Biochemistry",
+  "a": "Q_GEN_BIOCHEM_LIPID_023",
+  "b": "Q_BC_IEM_003",
+  "ta": "Lipid metabolism & lipoproteins",
+  "tb": "Inborn errors of metabolism",
+  "ans": "Hexosaminidase A"
+ },
+ {
+  "an": 1.0,
+  "st": 0.27,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2026JAN_009",
+  "b": "Q_MED_HTN_014",
+  "ta": "Adrenal disorders: Cushing's, Conn's, Addison's",
+  "tb": "Hypertension: evaluation, secondary causes, management",
+  "ans": "Plasma free metanephrines"
+ },
+ {
+  "an": 1.0,
+  "st": 0.27,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2026JAN_032",
+  "b": "Q_MED_CMP_007",
+  "ta": "Heart failure & valvular disease",
+  "tb": "Cardiomyopathies & adult congenital heart disease",
+  "ans": "Patent ductus arteriosus"
+ },
+ {
+  "an": 1.0,
+  "st": 0.27,
+  "subject": "Pediatrics",
+  "a": "Q_C_034",
+  "b": "Q_PED_RDS_006",
+  "ta": "Neonatal jaundice, sepsis, resuscitation",
+  "tb": "Respiratory distress in the newborn & neonatal seizures",
+  "ans": "Oesophageal atresia with tracheo-oesopha"
+ },
+ {
+  "an": 1.0,
+  "st": 0.25,
+  "subject": "Pathology",
+  "a": "Q_PAT_LNG_008",
+  "b": "Q_PAT_GRN_009",
+  "ta": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+  "tb": "Granulomatous disease & TB pathology",
+  "ans": "Sarcoidosis"
+ },
+ {
+  "an": 1.0,
+  "st": 0.25,
+  "subject": "Medicine",
+  "a": "Q_MED_IE_006",
+  "b": "Q_MED_SEP_005",
+  "ta": "Infective endocarditis, rheumatic fever & pericardial disease",
+  "tb": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+  "ans": "Tuberculosis"
+ },
+ {
+  "an": 0.67,
+  "st": 0.58,
+  "subject": "Medicine",
+  "a": "Q_MED_RA_009",
+  "b": "Q_MED_COAG_018",
+  "ta": "Rheumatoid arthritis, SLE & connective tissue disease",
+  "tb": "Bleeding disorders, thrombophilia & anticoagulation",
+  "ans": "Antiphospholipid antibody syndrome"
+ },
+ {
+  "an": 0.67,
+  "st": 0.58,
+  "subject": "Pediatrics",
+  "a": "Q_h3c_026",
+  "b": "Q_PED_DIA_013",
+  "ta": "Immunization & common infections",
+  "tb": "Fluid & electrolyte therapy and diarrhoeal disease in children",
+  "ans": "Some dehydration; supervised oral rehydr"
+ },
+ {
+  "an": 1.0,
+  "st": 0.23,
+  "subject": "Pathology",
+  "a": "Q_PYQ_FMGE_2026JAN_034",
+  "b": "Q_PAT_LNG_003",
+  "ta": "Neoplasia: grading vs staging, tumor markers",
+  "tb": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+  "ans": "Squamous cell carcinoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.22,
+  "subject": "Medicine",
+  "a": "Q_h3b_028",
+  "b": "Q_MED_PLE_011",
+  "ta": "Pulmonary TB: diagnosis & regimens",
+  "tb": "Pleural effusion, pneumothorax & interstitial lung disease",
+  "ans": "Tuberculous pleural effusion"
+ },
+ {
+  "an": 1.0,
+  "st": 0.22,
+  "subject": "Medicine",
+  "a": "Q_MED_PLE_002",
+  "b": "Q_MED_SEP_005",
+  "ta": "Pleural effusion, pneumothorax & interstitial lung disease",
+  "tb": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+  "ans": "Tuberculosis"
+ },
+ {
+  "an": 1.0,
+  "st": 0.2,
+  "subject": "Biochemistry",
+  "a": "Q_GEN_BIOCHEM_AA_013",
+  "b": "Q_BC_TRN_012",
+  "ta": "Amino acid metabolism & urea cycle",
+  "tb": "Transcription, translation & post-translational modification",
+  "ans": "Methionine"
+ },
+ {
+  "an": 1.0,
+  "st": 0.19,
+  "subject": "ENT",
+  "a": "Q_S_007",
+  "b": "Q_ENT_AUD_002",
+  "ta": "Otitis media, CSOM, hearing loss",
+  "tb": "Anatomy & physiology of the ear; audiological tests",
+  "ans": "Conductive hearing loss"
+ },
+ {
+  "an": 1.0,
+  "st": 0.19,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_C_018",
+  "b": "Q_OBG_THI_006",
+  "ta": "Postpartum haemorrhage",
+  "tb": "Third-stage complications, retained placenta & uterine inversion",
+  "ans": "Uterine atony"
+ },
+ {
+  "an": 1.0,
+  "st": 0.19,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_PH_002",
+  "b": "Q_OBG_AUB_018",
+  "ta": "Postpartum haemorrhage",
+  "tb": "Puberty, amenorrhoea & abnormal uterine bleeding",
+  "ans": "Tranexamic acid"
+ },
+ {
+  "an": 1.0,
+  "st": 0.18,
+  "subject": "Pharmacology",
+  "a": "Q_GEN_PHAR_CHEMO_TB_023",
+  "b": "Q_PH_ANT_015",
+  "ta": "Anti-TB drugs & ADRs",
+  "tb": "Anthelmintics, antileprotics & antiamoebics",
+  "ans": "Clofazimine"
+ },
+ {
+  "an": 1.0,
+  "st": 0.18,
+  "subject": "PSM (Community Medicine)",
+  "a": "Q_GEN_PSM_COMMDIS_001",
+  "b": "Q_PSM_CON_005",
+  "ta": "Epidemiology & control: TB, malaria, HIV",
+  "tb": "Concepts of health & disease, natural history, levels of prevention",
+  "ans": "Agent, host and environment"
+ },
+ {
+  "an": 1.0,
+  "st": 0.17,
+  "subject": "Biochemistry",
+  "a": "Q_GEN_BIOCHEM_CHO_002",
+  "b": "Q_BC_INT_017",
+  "ta": "Glycolysis, TCA, gluconeogenesis (key enzymes)",
+  "tb": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+  "ans": "Fructose-2,6-bisphosphate"
+ },
+ {
+  "an": 1.0,
+  "st": 0.17,
+  "subject": "Orthopedics",
+  "a": "Q_GEN_ORTHO_INFECTION_001",
+  "b": "Q_OR_ART_006",
+  "ta": "Osteomyelitis & TB spine",
+  "tb": "Arthritis, avascular necrosis & joint replacement",
+  "ans": "Staphylococcus aureus"
+ },
+ {
+  "an": 1.0,
+  "st": 0.17,
+  "subject": "Pediatrics",
+  "a": "Q_PED_ARI_003",
+  "b": "Q_PED_NEU_004",
+  "ta": "Acute respiratory infection, pneumonia & bronchiolitis",
+  "tb": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+  "ans": "Streptococcus pneumoniae"
+ },
+ {
+  "an": 1.0,
+  "st": 0.15,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2025JULP2_090",
+  "b": "Q_MED_ZOO_005",
+  "ta": "Dengue, malaria, enteric fever",
+  "tb": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+  "ans": "Doxycycline"
+ },
+ {
+  "an": 1.0,
+  "st": 0.14,
+  "subject": "Pathology",
+  "a": "Q_PYQ_FMGE_2025JANP1_124",
+  "b": "Q_PAT_SKN_013",
+  "ta": "Neoplasia: grading vs staging, tumor markers",
+  "tb": "Skin pathology & melanoma",
+  "ans": "Basal cell carcinoma (BCC)"
+ },
+ {
+  "an": 1.0,
+  "st": 0.14,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2025JANP2_132",
+  "b": "Q_MED_CMP_018",
+  "ta": "Heart failure & valvular disease",
+  "tb": "Cardiomyopathies & adult congenital heart disease",
+  "ans": "Takotsubo Cardiomyopathy"
+ },
+ {
+  "an": 1.0,
+  "st": 0.14,
+  "subject": "Anatomy",
+  "a": "Q_PYQ_FMGE_2026JUN_011",
+  "b": "Q_AN_UL_006",
+  "ta": "Brachial plexus & nerve injuries (radial/median/ulnar)",
+  "tb": "Upper limb: axilla, cubital fossa, hand spaces",
+  "ans": "Median nerve"
+ },
+ {
+  "an": 1.0,
+  "st": 0.13,
+  "subject": "Medicine",
+  "a": "Q_MED_PE_008",
+  "b": "Q_MED_HTN_011",
+  "ta": "Pulmonary embolism, pulmonary hypertension & sleep apnoea",
+  "tb": "Hypertension: evaluation, secondary causes, management",
+  "ans": "20 mmHg"
+ },
+ {
+  "an": 0.75,
+  "st": 0.38,
+  "subject": "Physiology",
+  "a": "Q_A_012",
+  "b": "Q_PY_MUS_007",
+  "ta": "Action potential & neuromuscular junction",
+  "tb": "Muscle physiology: skeletal, smooth & cardiac contraction",
+  "ans": "Acetylcholine on nicotinic receptors"
+ },
+ {
+  "an": 1.0,
+  "st": 0.12,
+  "subject": "Pharmacology",
+  "a": "Q_PYQ_FMGE_2024JUN_030",
+  "b": "Q_PH_DIU_013",
+  "ta": "Antihypertensives",
+  "tb": "Diuretics & drugs acting on the kidney",
+  "ans": "Acetazolamide"
+ },
+ {
+  "an": 1.0,
+  "st": 0.12,
+  "subject": "ENT",
+  "a": "Q_S_008",
+  "b": "Q_ENT_AUD_008",
+  "ta": "Otitis media, CSOM, hearing loss",
+  "tb": "Anatomy & physiology of the ear; audiological tests",
+  "ans": "Otosclerosis"
+ },
+ {
+  "an": 1.0,
+  "st": 0.11,
+  "subject": "Pharmacology",
+  "a": "Q_c1_028",
+  "b": "Q_PYQ_FMGE_2025JANP1_009",
+  "ta": "ADRs, enzyme inducers/inhibitors",
+  "tb": "Antiepileptics",
+  "ans": "Phenytoin"
+ },
+ {
+  "an": 1.0,
+  "st": 0.11,
+  "subject": "Pharmacology",
+  "a": "Q_GEN_PHAR_CVS_HF_ARR_004",
+  "b": "Q_PYQ_FMGE_2025JANP1_046",
+  "ta": "Heart failure, antiarrhythmics, antianginals",
+  "tb": "Insulin/OHAs, thyroid, corticosteroids",
+  "ans": "SGLT2 inhibitors"
+ },
+ {
+  "an": 1.0,
+  "st": 0.11,
+  "subject": "Biochemistry",
+  "a": "Q_GEN_BIOCHEM_CHO_019",
+  "b": "Q_PYQ_INICET_2025MAY_003",
+  "ta": "Glycolysis, TCA, gluconeogenesis (key enzymes)",
+  "tb": "Inborn errors of metabolism",
+  "ans": "Glucose-6-phosphatase"
+ },
+ {
+  "an": 1.0,
+  "st": 0.11,
+  "subject": "ENT",
+  "a": "Q_PYQ_FMGE_2025JULP2_085",
+  "b": "Q_ENT_AUD_010",
+  "ta": "Otitis media, CSOM, hearing loss",
+  "tb": "Anatomy & physiology of the ear; audiological tests",
+  "ans": "Presbycusis"
+ },
+ {
+  "an": 1.0,
+  "st": 0.1,
+  "subject": "Pathology",
+  "a": "Q_GEN_PATH_SYS_RENAL_011",
+  "b": "Q_PAT_REN_012",
+  "ta": "Glomerulonephritis, nephrotic vs nephritic",
+  "tb": "Renal: tubulointerstitial, cystic disease, renal tumours",
+  "ans": "Clear cell renal cell carcinoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.1,
+  "subject": "Microbiology",
+  "a": "Q_h3a_028",
+  "b": "Q_MIC_HAI_009",
+  "ta": "Sterilization, disinfection, stains, culture media",
+  "tb": "Hospital-acquired infection, biomedical waste & infection control",
+  "ans": "2% glutaraldehyde (or ortho-phthalaldehy"
+ },
+ {
+  "an": 1.0,
+  "st": 0.1,
+  "subject": "Ophthalmology",
+  "a": "Q_GEN_OPHTH_CATARACT_020",
+  "b": "Q_GEN_OPHTH_GLAUCOMA_016",
+  "ta": "Cataract",
+  "tb": "Glaucoma",
+  "ans": "Phacomorphic glaucoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.1,
+  "subject": "ENT",
+  "a": "Q_PYQ_FMGE_2026JAN_036",
+  "b": "Q_ENT_LAR_002",
+  "ta": "Tonsillitis, carcinoma larynx",
+  "tb": "Larynx: hoarseness, stridor, vocal cord palsy, tracheostomy",
+  "ans": "Recurrent laryngeal nerve"
+ },
+ {
+  "an": 1.0,
+  "st": 0.09,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2025JULP2_126",
+  "b": "Q_MED_CMP_005",
+  "ta": "Heart failure & valvular disease",
+  "tb": "Cardiomyopathies & adult congenital heart disease",
+  "ans": "Tetralogy of Fallot"
+ },
+ {
+  "an": 1.0,
+  "st": 0.09,
+  "subject": "Anatomy",
+  "a": "Q_h3d_003",
+  "b": "Q_AN_EMB_009",
+  "ta": "Pharyngeal arches, germ-layer derivatives",
+  "tb": "General embryology & histology: fertilisation, placenta, epithelia",
+  "ans": "Vitellointestinal (omphalomesenteric) du"
+ },
+ {
+  "an": 0.83,
+  "st": 0.25,
+  "subject": "Pathology",
+  "a": "Q_PYQ_FMGE_2025JANP2_071",
+  "b": "Q_PAT_SKN_002",
+  "ta": "Neoplasia: grading vs staging, tumor markers",
+  "tb": "Skin pathology & melanoma",
+  "ans": "Breslow thickness, the depth of invasion"
+ },
+ {
+  "an": 1.0,
+  "st": 0.08,
+  "subject": "Pathology",
+  "a": "Q_h3a_007",
+  "b": "Q_PAT_LNG_003",
+  "ta": "Neoplasia: grading vs staging, tumor markers",
+  "tb": "Lung: COPD, pneumonia, carcinoma lung, occupational lung disease",
+  "ans": "Squamous cell carcinoma"
+ },
+ {
+  "an": 0.8,
+  "st": 0.28,
+  "subject": "Pharmacology",
+  "a": "Q_GEN_PHAR_CNS_ANES_014",
+  "b": "Q_GEN_PHAR_GEN_PKPD_014",
+  "ta": "General & local anaesthetics, opioids",
+  "tb": "Pharmacokinetics/dynamics, receptors",
+  "ans": "Atypical or deficient plasma pseudocholi"
+ },
+ {
+  "an": 1.0,
+  "st": 0.08,
+  "subject": "Medicine",
+  "a": "Q_MED_ANE_004",
+  "b": "Q_MED_NUT_007",
+  "ta": "Anaemias & haematinic deficiencies",
+  "tb": "Nutritional & vitamin deficiency states in adults",
+  "ans": "Vitamin B12"
+ },
+ {
+  "an": 1.0,
+  "st": 0.08,
+  "subject": "Anatomy",
+  "a": "Q_A_003",
+  "b": "Q_AN_UL_006",
+  "ta": "Brachial plexus & nerve injuries (radial/median/ulnar)",
+  "tb": "Upper limb: axilla, cubital fossa, hand spaces",
+  "ans": "Median nerve"
+ },
+ {
+  "an": 1.0,
+  "st": 0.07,
+  "subject": "Medicine",
+  "a": "Q_MED_ANE_004",
+  "b": "Q_MED_NUT_004",
+  "ta": "Anaemias & haematinic deficiencies",
+  "tb": "Nutritional & vitamin deficiency states in adults",
+  "ans": "Vitamin B12"
+ },
+ {
+  "an": 0.5,
+  "st": 0.57,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_PYQ_FMGE_2025JANP2_126",
+  "b": "Q_OBG_THI_001",
+  "ta": "Postpartum haemorrhage",
+  "tb": "Third-stage complications, retained placenta & uterine inversion",
+  "ans": "A uterotonic within one minute of birth,"
+ },
+ {
+  "an": 1.0,
+  "st": 0.06,
+  "subject": "Medicine",
+  "a": "Q_MED_ANE_004",
+  "b": "Q_MED_NUT_012",
+  "ta": "Anaemias & haematinic deficiencies",
+  "tb": "Nutritional & vitamin deficiency states in adults",
+  "ans": "Vitamin B12"
+ },
+ {
+  "an": 0.5,
+  "st": 0.56,
+  "subject": "PSM (Community Medicine)",
+  "a": "Q_c1_100",
+  "b": "Q_PSM_CHI_001",
+  "ta": "Demography, family planning, MCH indicators",
+  "tb": "Child health programmes, IMNCI & school health",
+  "ans": "1000 live births in the same year"
+ },
+ {
+  "an": 0.83,
+  "st": 0.23,
+  "subject": "Anatomy",
+  "a": "Q_GEN_ANAT_THORAX_024",
+  "b": "Q_AN_TH_008",
+  "ta": "Mediastinum, heart & great vessels",
+  "tb": "Thorax: lungs, pleura, diaphragm",
+  "ans": "Left subclavian and left internal jugula"
+ },
+ {
+  "an": 1.0,
+  "st": 0.06,
+  "subject": "Biochemistry",
+  "a": "Q_PYQ_FMGE_2024JAN_005",
+  "b": "Q_BC_CHO_009",
+  "ta": "Inborn errors of metabolism",
+  "tb": "Carbohydrate chemistry, glycogen metabolism & HMP shunt",
+  "ans": "Galactose-1-Phosphate Uridyl Transferase"
+ },
+ {
+  "an": 1.0,
+  "st": 0.06,
+  "subject": "Surgery",
+  "a": "Q_C_010",
+  "b": "Q_SUR_NEK_003",
+  "ta": "Thyroid swellings & surgery",
+  "tb": "Salivary glands, neck swellings & oral cavity carcinoma",
+  "ans": "Papillary carcinoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.05,
+  "subject": "Microbiology",
+  "a": "Q_c1_061",
+  "b": "Q_MIC_HAI_008",
+  "ta": "Hepatitis viruses (serology markers)",
+  "tb": "Hospital-acquired infection, biomedical waste & infection control",
+  "ans": "Hepatitis E"
+ },
+ {
+  "an": 1.0,
+  "st": 0.05,
+  "subject": "Medicine",
+  "a": "Q_c1d_001",
+  "b": "Q_MED_POI_018",
+  "ta": "AKI/CKD & electrolyte/acid-base disorders",
+  "tb": "Poisoning & envenomation: emergency management",
+  "ans": "Hyperkalaemia"
+ },
+ {
+  "an": 1.0,
+  "st": 0.05,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2025JULP1_007",
+  "b": "Q_MED_RA_019",
+  "ta": "Thyroid disorders",
+  "tb": "Rheumatoid arthritis, SLE & connective tissue disease",
+  "ans": "Anti-TPO antibody"
+ },
+ {
+  "an": 1.0,
+  "st": 0.05,
+  "subject": "Orthopedics",
+  "a": "Q_S_003",
+  "b": "Q_OR_ART_006",
+  "ta": "Osteomyelitis & TB spine",
+  "tb": "Arthritis, avascular necrosis & joint replacement",
+  "ans": "Staphylococcus aureus"
+ },
+ {
+  "an": 1.0,
+  "st": 0.05,
+  "subject": "Surgery",
+  "a": "Q_PYQ_FMGE_2024JUN_037",
+  "b": "Q_SUR_URO_003",
+  "ta": "Urinary stones, BPH, hematuria",
+  "tb": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+  "ans": "Seminoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.05,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_PYQ_INICET_2025MAY_022",
+  "b": "Q_OBG_DX_011",
+  "ta": "Abortion, ectopic pregnancy, recurrent pregnancy loss",
+  "tb": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+  "ans": "20-24 weeks"
+ },
+ {
+  "an": 0.67,
+  "st": 0.38,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_THI_006",
+  "b": "Q_OBG_PH_001",
+  "ta": "Third-stage complications, retained placenta & uterine inversion",
+  "tb": "Postpartum haemorrhage",
+  "ans": "Uterine atony"
+ },
+ {
+  "an": 0.8,
+  "st": 0.25,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_AUB_010",
+  "b": "Q_OBG_MDP_004",
+  "ta": "Puberty, amenorrhoea & abnormal uterine bleeding",
+  "tb": "Menstrual disorders, PCOS, fibroids",
+  "ans": "Oligo-ovulation, clinical or biochemical"
+ },
+ {
+  "an": 1.0,
+  "st": 0.04,
+  "subject": "Pathology",
+  "a": "Q_GEN_PATH_SYS_RENAL_011",
+  "b": "Q_PAT_REN_001",
+  "ta": "Glomerulonephritis, nephrotic vs nephritic",
+  "tb": "Renal: tubulointerstitial, cystic disease, renal tumours",
+  "ans": "Clear cell renal cell carcinoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.04,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_PHY_017",
+  "b": "Q_OBG_PUE_011",
+  "ta": "Physiological changes in pregnancy & fetal development",
+  "tb": "Puerperium, lactation & puerperal sepsis",
+  "ans": "From about 16 weeks"
+ },
+ {
+  "an": 0.86,
+  "st": 0.17,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_INF_002",
+  "b": "Q_OBG_DX_015",
+  "ta": "Infections in pregnancy & Rh isoimmunisation",
+  "tb": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+  "ans": "Middle cerebral artery peak systolic vel"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pathology",
+  "a": "Q_c1_020",
+  "b": "Q_PAT_REN_003",
+  "ta": "Glomerulonephritis, nephrotic vs nephritic",
+  "tb": "Renal: tubulointerstitial, cystic disease, renal tumours",
+  "ans": "Minimal change disease"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pathology",
+  "a": "Q_GEN_PATH_SYS_RENAL_020",
+  "b": "Q_PAT_REN_003",
+  "ta": "Glomerulonephritis, nephrotic vs nephritic",
+  "tb": "Renal: tubulointerstitial, cystic disease, renal tumours",
+  "ans": "Minimal change disease"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pathology",
+  "a": "Q_PYQ_FMGE_2025JANP1_124",
+  "b": "Q_PAT_SKN_001",
+  "ta": "Neoplasia: grading vs staging, tumor markers",
+  "tb": "Skin pathology & melanoma",
+  "ans": "Basal cell carcinoma (BCC)"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pathology",
+  "a": "Q_PYQ_FMGE_2026JUN_001",
+  "b": "Q_PAT_GEN2_011",
+  "ta": "Neoplasia: grading vs staging, tumor markers",
+  "tb": "Male & female genital tract pathology",
+  "ans": "Seminoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pathology",
+  "a": "Q_h3a_017",
+  "b": "Q_PAT_CAR_005",
+  "ta": "Cirrhosis, hepatitis, jaundice patterns",
+  "tb": "Carcinogenesis, molecular basis & metastasis",
+  "ans": "Hepatocellular carcinoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pharmacology",
+  "a": "Q_c1_034",
+  "b": "Q_GEN_PHAR_GEN_PKPD_013",
+  "ta": "Antihypertensives",
+  "tb": "Pharmacokinetics/dynamics, receptors",
+  "ans": "Enalapril"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pharmacology",
+  "a": "Q_GEN_PHAR_CVS_HF_ARR_011",
+  "b": "Q_PH_DIU_006",
+  "ta": "Heart failure, antiarrhythmics, antianginals",
+  "tb": "Diuretics & drugs acting on the kidney",
+  "ans": "Furosemide"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Microbiology",
+  "a": "Q_GEN_MICRO_VIR_HIV_004",
+  "b": "Q_MIC_RSP_011",
+  "ta": "HIV: virology, diagnosis, opportunistic infections",
+  "tb": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+  "ans": "Neuraminidase"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Microbiology",
+  "a": "Q_GEN_MICRO_VIR_HIV_018",
+  "b": "Q_MIC_MOP_007",
+  "ta": "HIV: virology, diagnosis, opportunistic infections",
+  "tb": "Malaria & other protozoa",
+  "ans": "Toxoplasma gondii"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Microbiology",
+  "a": "Q_PYQ_FMGE_2024JAN_016",
+  "b": "Q_PYQ_FMGE_2025JULP2_026",
+  "ta": "HIV: virology, diagnosis, opportunistic infections",
+  "tb": "Medically important fungi",
+  "ans": "Pneumocystis Jirovecii"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Medicine",
+  "a": "Q_c1d_001",
+  "b": "Q_MED_RTA_003",
+  "ta": "AKI/CKD & electrolyte/acid-base disorders",
+  "tb": "Tubulointerstitial disease, RTA & renal replacement therapy",
+  "ans": "Hyperkalaemia"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Medicine",
+  "a": "Q_c1d_003",
+  "b": "Q_MED_ARR_001",
+  "ta": "Heart failure & valvular disease",
+  "tb": "Arrhythmias & ECG interpretation",
+  "ans": "Atrial fibrillation"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2026JAN_009",
+  "b": "Q_MED_HTN_008",
+  "ta": "Adrenal disorders: Cushing's, Conn's, Addison's",
+  "tb": "Hypertension: evaluation, secondary causes, management",
+  "ans": "Plasma free metanephrines"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Medicine",
+  "a": "Q_PYQ_FMGE_2026JAN_023",
+  "b": "Q_MED_PIT_005",
+  "ta": "Thyroid disorders",
+  "tb": "Pituitary, parathyroid & calcium disorders",
+  "ans": "Primary hyperparathyroidism"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Medicine",
+  "a": "Q_MED_RTA_003",
+  "b": "Q_MED_POI_018",
+  "ta": "Tubulointerstitial disease, RTA & renal replacement therapy",
+  "tb": "Poisoning & envenomation: emergency management",
+  "ans": "Hyperkalaemia"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Medicine",
+  "a": "Q_MED_SEP_009",
+  "b": "Q_MED_PNA_015",
+  "ta": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+  "tb": "Pneumonia, bronchiectasis & lung abscess",
+  "ans": "Pseudomonas aeruginosa"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Anatomy",
+  "a": "Q_GEN_ANAT_EMBRYO_004",
+  "b": "Q_AN_SK_006",
+  "ta": "Pharyngeal arches, germ-layer derivatives",
+  "tb": "Skull base, cavernous sinus & meninges",
+  "ans": "Glossopharyngeal nerve (IX)"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Anatomy",
+  "a": "Q_PYQ_FMGE_2025JULP2_109",
+  "b": "Q_AN_HN_001",
+  "ta": "Cranial nerves & nuclei",
+  "tb": "Head & neck: triangles, thyroid, parotid, TMJ",
+  "ans": "Facial nerve (CN VII)"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Biochemistry",
+  "a": "Q_BC_NUC_004",
+  "b": "Q_BC_OXP_006",
+  "ta": "Nucleotide metabolism: purine/pyrimidine, gout",
+  "tb": "Oxidative phosphorylation, ETC & free radicals",
+  "ans": "Xanthine oxidase"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Ophthalmology",
+  "a": "Q_GEN_OPHTH_GLAUCOMA_013",
+  "b": "Q_GEN_OPHTH_RETINA_016",
+  "ta": "Glaucoma",
+  "tb": "Diabetic retinopathy, retinal detachment",
+  "ans": "Neovascular glaucoma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Psychiatry",
+  "a": "Q_S_021",
+  "b": "Q_PS_MSE_005",
+  "ta": "Schizophrenia & psychosis",
+  "tb": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+  "ans": "Schizophrenia"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Psychiatry",
+  "a": "Q_S_021",
+  "b": "Q_PS_DEL_002",
+  "ta": "Schizophrenia & psychosis",
+  "tb": "Delirium, dementia & organic mental disorders",
+  "ans": "Schizophrenia"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Psychiatry",
+  "a": "Q_PS_MSE_005",
+  "b": "Q_PS_DEL_002",
+  "ta": "Psychiatric history, mental status examination & classification (ICD/DSM)",
+  "tb": "Delirium, dementia & organic mental disorders",
+  "ans": "Schizophrenia"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Radiology",
+  "a": "Q_RD_SKL_004",
+  "b": "Q_RD_NUC_002",
+  "ta": "Skeletal radiology & classic bone signs",
+  "tb": "Nuclear medicine, radiotherapy basics & interventional radiology",
+  "ans": "Multiple myeloma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Surgery",
+  "a": "Q_GEN_SURG_HERNIA_008",
+  "b": "Q_PYQ_FMGE_2025JANP1_113",
+  "ta": "Hernias (inguinal, femoral)",
+  "tb": "Acute abdomen, appendicitis, obstruction",
+  "ans": "A Meckel's diverticulum"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Surgery",
+  "a": "Q_PYQ_FMGE_2025JULP1_008",
+  "b": "Q_PYQ_FMGE_2026JAN_041",
+  "ta": "Trauma, shock, ATLS basics",
+  "tb": "Thyroid swellings & surgery",
+  "ans": "Hypocalcemia"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "ENT",
+  "a": "Q_PYQ_FMGE_2025JANP2_055",
+  "b": "Q_ENT_NAS_014",
+  "ta": "Sinusitis, epistaxis, DNS",
+  "tb": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+  "ans": "Juvenile nasopharyngeal angiofibroma"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pediatrics",
+  "a": "Q_PYQ_FMGE_2024JAN_012",
+  "b": "Q_PYQ_FMGE_2025JANP1_133",
+  "ta": "PEM, breastfeeding, micronutrients",
+  "tb": "Growth & development milestones",
+  "ans": "6 months"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Pediatrics",
+  "a": "Q_PYQ_FMGE_2024JAN_012",
+  "b": "Q_C_036",
+  "ta": "PEM, breastfeeding, micronutrients",
+  "tb": "Growth & development milestones",
+  "ans": "6 months"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_PYQ_FMGE_2025JANP1_108",
+  "b": "Q_OBG_PRO_004",
+  "ta": "Antenatal care & normal labour",
+  "tb": "Prolapse, urogynaecology & genital fistula",
+  "ans": "VVF (vesicovaginal fistula)"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_PYQ_INICET_2025MAY_022",
+  "b": "Q_OBG_PHY_006",
+  "ta": "Abortion, ectopic pregnancy, recurrent pregnancy loss",
+  "tb": "Physiological changes in pregnancy & fetal development",
+  "ans": "20-24 weeks"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_PYQ_INICET_2025MAY_022",
+  "b": "Q_OBG_DX_010",
+  "ta": "Abortion, ectopic pregnancy, recurrent pregnancy loss",
+  "tb": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+  "ans": "20-24 weeks"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_PHY_006",
+  "b": "Q_OBG_DX_010",
+  "ta": "Physiological changes in pregnancy & fetal development",
+  "tb": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+  "ans": "34 to 36 weeks"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_PHY_006",
+  "b": "Q_OBG_DX_011",
+  "ta": "Physiological changes in pregnancy & fetal development",
+  "tb": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+  "ans": "34 to 36 weeks"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_DX_004",
+  "b": "Q_OBG_IND_001",
+  "ta": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+  "tb": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+  "ans": "Fetal weight"
+ },
+ {
+  "an": 1.0,
+  "st": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "a": "Q_OBG_MED_003",
+  "b": "Q_OBG_IND_012",
+  "ta": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+  "tb": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+  "ans": "140 mg/dL or more"
+ },
+ {
+  "an": 0.67,
+  "st": 0.31,
+  "subject": "PSM (Community Medicine)",
+  "a": "Q_PYQ_FMGE_2025JANP2_129",
+  "b": "Q_PSM_NUT_013",
+  "ta": "Nutritional requirements & deficiency diseases",
+  "tb": "Nutrition programmes, food fortification & food hygiene",
+  "ans": "Argemone mexicana oil"
+ },
+ {
+  "an": 0.6,
+  "st": 0.35,
+  "subject": "Microbiology",
+  "a": "Q_GEN_MICRO_BACT_TB_022",
+  "b": "Q_GEN_MICRO_VIR_HIV_021",
+  "ta": "Mycobacteria (TB, leprosy) & lab diagnosis",
+  "tb": "HIV: virology, diagnosis, opportunistic infections",
+  "ans": "Mycobacterium avium complex (MAC)"
+ },
+ {
+  "an": 0.8,
+  "st": 0.13,
+  "subject": "Biochemistry",
+  "a": "Q_GEN_BIOCHEM_AA_016",
+  "b": "Q_BC_IEM_001",
+  "ta": "Amino acid metabolism & urea cycle",
+  "tb": "Inborn errors of metabolism",
+  "ans": "Branched-chain \u03b1-ketoacid dehydrogenase"
+ },
+ {
+  "an": 0.83,
+  "st": 0.08,
+  "subject": "Biochemistry",
+  "a": "Q_GEN_BIOCHEM_LIPID_003",
+  "b": "Q_PYQ_FMGE_2025JULP2_046",
+  "ta": "Lipid metabolism & lipoproteins",
+  "tb": "Inborn errors of metabolism",
+  "ans": "Medium-chain acyl-CoA dehydrogenase (MCA"
+ },
+ {
+  "an": 0.5,
+  "st": 0.38,
+  "subject": "Microbiology",
+  "a": "Q_GEN_MICRO_VIR_HEP_016",
+  "b": "Q_MIC_HAI_008",
+  "ta": "Hepatitis viruses (serology markers)",
+  "tb": "Hospital-acquired infection, biomedical waste & infection control",
+  "ans": "Hepatitis B virus"
+ },
+ {
+  "an": 0.5,
+  "st": 0.38,
+  "subject": "Anatomy",
+  "a": "Q_GEN_ANAT_THORAX_016",
+  "b": "Q_AN_TH_002",
+  "ta": "Mediastinum, heart & great vessels",
+  "tb": "Thorax: lungs, pleura, diaphragm",
+  "ans": "Wider, shorter and more vertical (more i"
+ },
+ {
+  "an": 0.5,
+  "st": 0.38,
+  "subject": "Physiology",
+  "a": "Q_PY_RSP_009",
+  "b": "Q_PY_OCT_001",
+  "ta": "Respiratory regulation, high altitude & diving",
+  "tb": "O2/CO2 transport, hypoxia",
+  "ans": "Increased carbon dioxide, hydrogen ions,"
+ },
+ {
+  "an": 0.5,
+  "st": 0.33,
+  "subject": "Medicine",
+  "a": "Q_GEN_MED_RESP_TB_012",
+  "b": "Q_MED_NUT_015",
+  "ta": "Pulmonary TB: diagnosis & regimens",
+  "tb": "Nutritional & vitamin deficiency states in adults",
+  "ans": "Isoniazid; prevented by pyridoxine"
+ },
+ {
+  "an": 0.5,
+  "st": 0.31,
+  "subject": "Microbiology",
+  "a": "Q_c1_052",
+  "b": "Q_MIC_NEI_003",
+  "ta": "Immunoglobulins, complement, hypersensitivity",
+  "tb": "Neisseria, Haemophilus, Bordetella, Brucella",
+  "ans": "Terminal complement components C5-C9 (me"
+ },
+ {
+  "an": 0.5,
+  "st": 0.31,
+  "subject": "PSM (Community Medicine)",
+  "a": "Q_c1d_006",
+  "b": "Q_PSM_VPD_009",
+  "ta": "Study designs; incidence vs prevalence",
+  "tb": "Respiratory & vaccine-preventable disease epidemiology (measles, diphtheria, polio)",
+  "ans": "Point (common) source"
+ }
+]

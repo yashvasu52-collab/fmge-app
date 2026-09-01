@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "id": "Q_PSM_DIA_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "E",
+   "stem": "Cholera is characterised by:",
+   "options": [
+    "Painless profuse rice-watery stools with rapid dehydration and no fever",
+    "Bloody diarrhoea with fever",
+    "Gradual onset",
+    "Constipation"
+   ],
+   "correct": 0,
+   "concept": "Vibrio cholerae toxin irreversibly activates adenylate cyclase, causing massive secretory diarrhoea. Death is from hypovolaemic shock within hours, so rapid rehydration is life-saving.",
+   "reference": "Park 27e, Cholera",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "M",
+   "stem": "In a cholera outbreak, the single most important intervention is:",
+   "options": [
+    "Prompt rehydration of cases with ORS and intravenous fluids",
+    "Mass antibiotic prophylaxis",
+    "Mass vaccination",
+    "Quarantine"
+   ],
+   "correct": 0,
+   "concept": "Rehydration reduces case fatality from over 30% to under 1%. Antibiotics shorten shedding but are secondary, and quarantine is ineffective and not recommended.",
+   "reference": "Park 27e, Cholera",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "M",
+   "stem": "Typhoid fever is confirmed most reliably in the first week by:",
+   "options": [
+    "Blood culture",
+    "Widal test",
+    "Stool culture",
+    "Urine culture"
+   ],
+   "correct": 0,
+   "concept": "Blood culture is positive in about 80% in week one, bone marrow culture has the highest yield throughout, and stool and urine cultures become positive in weeks two and three.",
+   "reference": "Park 27e, Enteric Fever",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "E",
+   "stem": "The chronic carrier state in typhoid is most often located in the:",
+   "options": [
+    "Gallbladder, especially in women with gallstones",
+    "Kidney",
+    "Spleen",
+    "Bone marrow"
+   ],
+   "correct": 0,
+   "concept": "Chronic carriers excrete organisms for over a year and are a persisting source of infection, as illustrated by Typhoid Mary. Cholecystectomy may be needed when antibiotics fail.",
+   "reference": "Park 27e, Enteric Fever",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "M",
+   "stem": "Hepatitis A and E differ from B and C in that they are:",
+   "options": [
+    "Transmitted by the faeco-oral route and never become chronic",
+    "Blood-borne",
+    "Chronic",
+    "Vaccine-preventable only"
+   ],
+   "correct": 0,
+   "concept": "Hepatitis E is particularly severe in the third trimester of pregnancy with mortality up to 20%. Hepatitis B and C are blood-borne and cause chronic infection, cirrhosis and hepatocellular carcinoma.",
+   "reference": "Park 27e, Viral Hepatitis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "M",
+   "stem": "The most infectious body fluid for hepatitis B transmission is:",
+   "options": [
+    "Blood, with the risk after needlestick around 30 percent in the non-immune",
+    "Saliva",
+    "Urine",
+    "Sweat"
+   ],
+   "correct": 0,
+   "concept": "Hepatitis B is far more transmissible than HIV, which carries about 0.3% risk. Vaccination of health workers, mandatory blood screening and safe injection practice are the pillars of prevention.",
+   "reference": "Park 27e, Viral Hepatitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "E",
+   "stem": "Soil-transmitted helminth control in India is implemented through:",
+   "options": [
+    "National Deworming Day with biannual albendazole for children and adolescents",
+    "Individual treatment only",
+    "Mass antibiotics",
+    "Vaccination"
+   ],
+   "correct": 0,
+   "concept": "Mass drug administration is combined with sanitation and hygiene promotion, since reinfection is rapid where open defecation persists - which is why deworming alone is insufficient.",
+   "reference": "Park 27e, Helminthic Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "H",
+   "stem": "The infective form of hookworm entering through the skin is the:",
+   "options": [
+    "Filariform larva",
+    "Rhabditiform larva",
+    "Ovum",
+    "Adult worm"
+   ],
+   "correct": 0,
+   "concept": "Larvae penetrate the feet causing ground itch, migrate through lungs and mature in the duodenum where they suck blood, causing iron deficiency anaemia and hypoproteinaemia.",
+   "reference": "Park 27e, Helminthic Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "H",
+   "stem": "The key epidemiological feature making cholera amenable to control is:",
+   "options": [
+    "Transmission through contaminated water and food, interruptible by safe water and sanitation",
+    "Airborne spread",
+    "Vector transmission",
+    "Animal reservoir"
+   ],
+   "correct": 0,
+   "concept": "John Snow's removal of the Broad Street pump handle in 1854 demonstrated waterborne transmission before the organism was known, founding modern epidemiology.",
+   "reference": "Park 27e, Cholera",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_DIA_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diarrhoeal disease, enteric fever, hepatitis & helminths",
+   "difficulty": "M",
+   "stem": "Rotavirus vaccine was introduced into the Indian national schedule to reduce:",
+   "options": [
+    "Severe dehydrating diarrhoea and diarrhoeal deaths in infants",
+    "All diarrhoea",
+    "Bacterial dysentery",
+    "Helminth infection"
+   ],
+   "correct": 0,
+   "concept": "Given at 6, 10 and 14 weeks with the pentavalent vaccine, it targets the leading cause of severe infantile gastroenteritis, complementing ORS and zinc in diarrhoea control.",
+   "reference": "Park 27e, Immunisation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "E",
+   "stem": "The Bhore Committee of 1946 recommended:",
+   "options": [
+    "Integration of preventive and curative services with a three-tier structure and primary health centres",
+    "Privatisation",
+    "Only urban hospitals",
+    "Only medical education reform"
+   ],
+   "correct": 0,
+   "concept": "Formally the Health Survey and Development Committee, it laid the foundation of India's public health system, including the principle that no one should be denied care for inability to pay.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "M",
+   "stem": "The Mudaliar Committee of 1961 principally recommended:",
+   "options": [
+    "Strengthening existing PHCs rather than opening new ones, and improving district hospitals",
+    "Abolishing PHCs",
+    "Only family planning",
+    "Only nursing education"
+   ],
+   "correct": 0,
+   "concept": "Formally the Health Survey and Planning Committee, it found existing PHCs inadequately staffed and equipped, arguing for consolidation before expansion.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "M",
+   "stem": "The Kartar Singh Committee of 1973 is remembered for introducing:",
+   "options": [
+    "The concept of the multipurpose health worker",
+    "Medical college reform",
+    "Drug pricing",
+    "Insurance"
+   ],
+   "correct": 0,
+   "concept": "It recommended replacing single-purpose workers with multipurpose male and female workers, each serving 5000 population, supervised by health assistants - the structure still in use.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "E",
+   "stem": "The Srivastava Committee of 1975 recommended creation of:",
+   "options": [
+    "Bands of paraprofessional and semi-professional health workers from the community",
+    "More medical colleges",
+    "Private hospitals",
+    "Insurance schemes"
+   ],
+   "correct": 0,
+   "concept": "It led to the Community Health Volunteer scheme and ultimately influenced the ASHA concept, recognising that community-based workers are essential to extend coverage.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "M",
+   "stem": "The National Health Policy 2017 set a target for public health expenditure of:",
+   "options": [
+    "2.5 percent of GDP by 2025",
+    "5 percent of GDP",
+    "1 percent of GDP",
+    "10 percent of GDP"
+   ],
+   "correct": 0,
+   "concept": "It also aims to raise life expectancy to 70, reduce under-five mortality to 23 by 2025 and reduce out-of-pocket expenditure, with an emphasis on comprehensive primary health care.",
+   "reference": "Park 27e, Health Policy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "M",
+   "stem": "The National Rural Health Mission was launched in 2005 principally to:",
+   "options": [
+    "Improve rural health infrastructure and outcomes with community participation and flexible financing",
+    "Build medical colleges",
+    "Provide insurance",
+    "Regulate drugs"
+   ],
+   "correct": 0,
+   "concept": "Key innovations were the ASHA, untied funds, Rogi Kalyan Samitis and village committees. It merged with the urban mission in 2013 to form the National Health Mission.",
+   "reference": "Park 27e, National Health Mission",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "E",
+   "stem": "Health planning in India is now guided by:",
+   "options": [
+    "NITI Aayog, which replaced the Planning Commission in 2015",
+    "The Planning Commission",
+    "The Finance Ministry alone",
+    "State governments alone"
+   ],
+   "correct": 0,
+   "concept": "Health is a state subject under the Constitution, with the centre providing policy direction and funding, making centre-state coordination essential for programme implementation.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "H",
+   "stem": "The Chadah Committee dealt with:",
+   "options": [
+    "Malaria maintenance phase, recommending surveillance by basic health workers",
+    "Family planning",
+    "Medical education",
+    "Nursing"
+   ],
+   "correct": 0,
+   "concept": "It proposed that malaria vigilance be integrated with general health services rather than run vertically - an early recognition of the value of horizontal integration.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "H",
+   "stem": "The Mukherjee Committee recommended:",
+   "options": [
+    "Separation of malaria functions from family planning to allow each to be adequately staffed",
+    "Merging all programmes",
+    "Abolishing family planning",
+    "Privatisation"
+   ],
+   "correct": 0,
+   "concept": "This illustrates the recurring tension between vertical programmes achieving focus and horizontal integration achieving efficiency - a debate that continues in programme design.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_PLN_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health planning, committees & health policy",
+   "difficulty": "M",
+   "stem": "Health being a state subject in India means:",
+   "options": [
+    "States have primary responsibility for delivering health services, with the centre setting policy and providing funds",
+    "The centre delivers all services",
+    "States have no role",
+    "Only local bodies act"
+   ],
+   "correct": 0,
+   "concept": "This constitutional division explains wide inter-state variation in health outcomes and the use of centrally sponsored schemes with conditional funding to drive national priorities.",
+   "reference": "Park 27e, Health Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

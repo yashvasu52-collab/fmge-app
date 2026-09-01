@@ -1,0 +1,204 @@
+
+=== Psychiatry / Anxiety disorders & substance use
+Q_S_023 [M] A 45-year-old man admitted after a road accident becomes, on day 3 without alcohol, disoriented, tremulous and diaphoretic, with visual hallucinations of insects and tachycardia. Which is the most appropriate first-line drug management?
+    A. Haloperidol alone
+   *B. A benzodiazepine (e.g., chlordiazepoxide/diazepam) plus thiamine
+    C. Naltrexone
+    D. Disulfiram
+   key=B ref=Niraj Ahuja, A Short Textbook of Psychiatry
+   concept: This is delirium tremens (severe alcohol withdrawal, typically 48-72 h after cessation) with autonomic hyperactivity, tremor, disorientation and hallucinations. Benzodiazepines are first-line (cross-tolerance, seizure prevention), with parenteral thiamine to prevent Wernicke's encephalopathy. Disulfiram and naltrexone are for maintaining abstinence, not acute withdrawal.
+
+=== Psychiatry / Depression & bipolar disorder
+Q_S_019 [E] A 34-year-old woman has 6 weeks of persistent low mood, anhedonia, early-morning awakening, poor appetite with weight loss and feelings of worthlessness, without psychotic features. Which is the first-line pharmacological treatment for major depressive disorder?
+   *A. A selective serotonin reuptake inhibitor (e.g., sertraline/fluoxetine)
+    B. A tricyclic antidepressant as the first choice
+    C. Lithium monotherapy
+    D. A typical antipsychotic
+   key=A ref=Niraj Ahuja, A Short Textbook of Psychiatry
+   concept: Major depressive disorder requires at least 2 weeks of depressed mood or anhedonia plus associated symptoms. SSRIs are first-line because of good efficacy and a favourable side-effect and overdose-safety profile compared with tricyclic antidepressants.
+Q_S_020 [M] A patient on long-term lithium for bipolar disorder develops coarse tremor, ataxia, slurred speech, vomiting and confusion soon after starting a thiazide diuretic. Which statement about lithium is correct?
+    A. Lithium has a wide therapeutic index and needs no monitoring
+   *B. Lithium has a narrow therapeutic index; serum levels and renal/thyroid function must be monitored
+    C. Thiazide diuretics lower serum lithium levels
+    D. Lithium is the drug of choice for acute schizophrenia
+   key=B ref=Niraj Ahuja, A Short Textbook of Psychiatry
+   concept: Lithium has a narrow therapeutic index (therapeutic ~0.6-1.2 mEq/L; toxicity above ~1.5). Thiazides reduce renal lithium clearance and precipitate toxicity (coarse tremor, ataxia, dysarthria, seizures). Serum levels plus renal and thyroid function need regular monitoring.
+
+=== Psychiatry / Schizophrenia & psychosis
+Q_GEN_PSYCH_SCHIZO_001 [E] According to DSM-5, what is the minimum TOTAL duration of continuous signs of the disturbance required before a diagnosis of schizophrenia (rather than schizophreniform disorder) can be made?
+    A. One week
+    B. One month
+    C. Three months
+   *D. Six months
+   key=D ref=Kaplan & Sadock's Synopsis of Psychiatry — Schizophrenia, diagnostic criteria
+   concept: DSM-5 requires continuous signs of disturbance for at least 6 months, of which at least 1 month must consist of active-phase (Criterion A) symptoms; the remaining period may be prodromal or residual. If the full picture lasts 1-6 months it is schizophreniform disorder, and if it lasts under 1 month with full recovery it is brief psychotic disorder. The 1-month figure (B) is the active-phase/ICD-10 threshold, not the total. One week and three months have no basis as the total-duration criterion.
+Q_GEN_PSYCH_SCHIZO_002 [M] A 24-year-old man has had prominent auditory hallucinations and grossly disorganized speech for the past 6 weeks. To satisfy DSM-5 Criterion A for schizophrenia, the minimum symptom requirement is:
+    A. Any one symptom present for at least 1 week
+   *B. At least two symptoms for a significant portion of 1 month, with at least one being delusions, hallucinations, or disorganized speech
+    C. At least three symptoms, one of which must be a negative symptom
+    D. At least two symptoms present continuously for 6 months
+   key=B ref=Kaplan & Sadock's Synopsis of Psychiatry — Schizophrenia, DSM-5 Criterion A
+   concept: DSM-5 Criterion A requires two or more of five symptoms — delusions, hallucinations, disorganized speech, grossly disorganized/catatonic behaviour, and negative symptoms — each present for a significant portion of a 1-month period, and at least one must be one of the first three 'core' positive symptoms. Unlike DSM-IV, a single bizarre delusion or Schneiderian voice no longer suffices (A). Negative symptoms are not mandatory (C), and the 6-month figure (D) is total illness duration, not the active phase.
+Q_GEN_PSYCH_SCHIZO_003 [M] A patient with schizophrenia states, "These are not my own thoughts — an outside force is placing foreign thoughts directly into my mind." This experience is best described as:
+   *A. Thought insertion
+    B. Thought withdrawal
+    C. Thought blocking
+    D. Obsessional rumination
+   key=A ref=Niraj Ahuja — A Short Textbook of Psychiatry, Schneider's first-rank symptoms
+   concept: Thought insertion is a Schneiderian first-rank symptom in which the patient experiences certain thoughts as alien and actively put into the mind by an external agency — the hallmark being loss of the sense of ownership/boundary of one's own thought. Thought withdrawal (B) is the belief that thoughts are being removed, and thought blocking (C) is a sudden cessation of the flow of thought/speech. Obsessions (D) are recognised by the patient as their own senseless intrusive thoughts and are resisted, so insight is retained — the opposite of the delusional conviction seen here.
+Q_GEN_PSYCH_SCHIZO_004 [H] While waiting at a crossing, the instant the traffic light turned red a patient 'knew with total certainty' that he had been chosen by God to redeem mankind. This two-stage phenomenon — a real perception acquiring a fixed, self-referential meaning — is termed:
+    A. Delusional mood (Wahnstimmung)
+    B. Delusion of reference
+   *C. Delusional perception
+    D. Autochthonous (primary) delusion
+   key=C ref=Kaplan & Sadock's Synopsis of Psychiatry — first-rank symptoms; disorders of thought content
+   concept: Delusional perception is a Schneiderian first-rank symptom: a normal perception (the red light) is invested, in two linked stages, with a highly personal and unprovoked delusional significance. It differs from delusional mood (A), a vague pre-delusional atmosphere that 'something is going on', and from an autochthonous/primary delusion (D), which arises fully formed without any preceding perception. A delusion of reference (B) is the broader belief that ordinary events refer to oneself but lacks the specific single-perception-to-fixed-meaning leap that defines delusional perception.
+Q_GEN_PSYCH_SCHIZO_005 [M] A young man reports that immediately after he thinks something he hears his own thoughts spoken aloud in his head 'like an echo'. This first-rank symptom is:
+    A. Third-person auditory hallucination
+   *B. Thought echo (Gedankenlautwerden / écho de la pensée)
+    C. Functional hallucination
+    D. Extracampine hallucination
+   key=B ref=Niraj Ahuja — A Short Textbook of Psychiatry, first-rank symptoms and hallucinations
+   concept: Thought echo (audible thoughts) is a Schneiderian first-rank symptom in which the patient hears his or her own thoughts spoken aloud, either simultaneously with thinking them or immediately afterwards. It is distinct from third-person hallucinations, voices that discuss the patient as 'he/she' (A), from a functional hallucination, where a real external stimulus triggers a hallucination in the same modality (C), and from an extracampine hallucination, perceived outside the limits of the normal sensory field (D). It reflects the schizophrenic loss of boundary between inner thought and outer perception.
+Q_GEN_PSYCH_SCHIZO_006 [E] A patient is convinced that television news anchors are talking specifically about him and inserting coded personal messages into their broadcasts, though he does not feel harmed by them. This is an example of:
+   *A. Delusion of reference
+    B. Delusion of persecution
+    C. Thought broadcasting
+    D. Grandiose delusion
+   key=A ref=Kaplan & Sadock's Synopsis of Psychiatry — disorders of thought content
+   concept: A delusion of reference is the false belief that neutral, impersonal events or communications (news, gestures, songs) carry a special meaning directed at oneself. Because the patient does not believe he is being harmed or plotted against, it is not persecutory (B). Thought broadcasting (C) is the belief that one's own thoughts leak out so others can perceive them, not that external media refer to oneself, and grandiosity (D) involves inflated self-importance, power, or identity rather than self-reference to ordinary stimuli.
+Q_GEN_PSYCH_SCHIZO_007 [M] A severely depressed 70-year-old woman insists that her bowels have rotted and stopped working, that she has no blood left, and that she is in fact already dead. This delusion is best classified as:
+    A. Somatic (hypochondriacal) delusion
+    B. Delusion of guilt
+    C. Persecutory delusion
+   *D. Nihilistic delusion (Cotard syndrome)
+   key=D ref=Niraj Ahuja — A Short Textbook of Psychiatry, types of delusions; Cotard syndrome
+   concept: Nihilistic delusions involve the conviction that oneself, a part of one's body, or the world has ceased to exist or is dead/decayed; when severe and centred on being dead they constitute Cotard syndrome, classically seen in psychotic (delusional) depression and in the elderly. Although the content is bodily, the defining theme is negation/non-existence rather than a plain belief in disease (A). Delusions of guilt (B) centre on sin and worthlessness, and persecutory delusions (C) on being harmed or plotted against by others.
+Q_GEN_PSYCH_SCHIZO_008 [H] A woman is unshakeably convinced that tiny insects are crawling and burrowing under her skin; she repeatedly digs at the skin, rejects all reassurance, and has entirely normal dermatological findings. The core symptom is best described as:
+    A. Obsessional thought
+    B. Overvalued idea
+   *C. Somatic (tactile) delusion of infestation
+    D. Hypochondriacal preoccupation
+   key=C ref=Kaplan & Sadock's Synopsis of Psychiatry — delusional disorder, somatic type; disorders of thought content
+   concept: This is a somatic/tactile delusion of infestation (delusional parasitosis, Ekbom syndrome): a fixed, false belief held with delusional conviction and no insight, unmoved by reassurance or contrary evidence. It differs from an obsession (A), which the patient recognises as their own senseless intrusive thought and resists, and from an overvalued idea (B) or hypochondriacal preoccupation (D), where the belief is held less rigidly, insight is at least partial, and reassurance is actively sought rather than rejected. Fixity plus absent insight defines the delusion.
+Q_GEN_PSYCH_SCHIZO_009 [M] In a patient presenting with psychosis, the prominence of which type of hallucination should MOST strongly prompt a search for an underlying organic or neurological cause rather than schizophrenia?
+    A. Third-person auditory hallucinations
+   *B. Prominent visual and olfactory hallucinations
+    C. Running-commentary auditory hallucinations
+    D. Hearing one's own thoughts spoken aloud
+   key=B ref=Niraj Ahuja — A Short Textbook of Psychiatry, hallucinations and organic causes
+   concept: Auditory hallucinations — especially third-person voices, running commentary, and thought echo — are typical of primary schizophrenia. Prominent visual, olfactory, gustatory, or tactile hallucinations are comparatively unusual in schizophrenia and should raise suspicion of an organic cause: delirium, substance intoxication or withdrawal, temporal-lobe epilepsy (olfactory/gustatory auras), dementia, or a space-occupying lesion — mandating medical work-up. Options A, C, and D are all auditory first-rank-type phenomena that point toward a functional psychosis.
+Q_GEN_PSYCH_SCHIZO_010 [H] A patient's speech contains invented words such as 'the government will pluver the sky-cats', words with a private meaning not shared by others. These newly coined words are termed:
+   *A. Neologisms
+    B. Clang associations
+    C. Perseveration
+    D. Word salad
+   key=A ref=Kaplan & Sadock's Synopsis of Psychiatry — formal thought disorder, disorders of speech
+   concept: Neologisms are new words, or new idiosyncratic meanings for existing words, coined by the patient — a feature of the formal thought disorder of schizophrenia. Clang associations (B) are word choices driven by sound or rhyme rather than meaning; perseveration (C) is the inappropriate persistent repetition of a previous word or response; and word salad/schizophasia (D) is an incoherent, ungrammatical jumble of real words and phrases. Here specific novel words are being created, which precisely defines a neologism rather than the other disorders.
+Q_GEN_PSYCH_SCHIZO_011 [M] Asked his age, a patient gives a long, over-detailed account of his birth, schooling, and jobs, wandering through many irrelevant details but finally answering '52 years'. This pattern of speech is:
+    A. Tangentiality
+    B. Flight of ideas
+    C. Derailment (loosening of associations)
+   *D. Circumstantiality
+   key=D ref=Niraj Ahuja — A Short Textbook of Psychiatry, disorders of the stream and form of thought
+   concept: Circumstantiality is speech that is over-inclusive and full of unnecessary detail and digressions but eventually returns to and reaches the intended goal or answer. It contrasts with tangentiality (A), where the patient drifts off the point and never returns to it, and with derailment/loosening of associations (C), where ideas slip onto unrelated tracks without logical connection. Flight of ideas (B) is rapid, pressured shifting between topics with understandable links, typical of mania — not this laboured but ultimately goal-reaching reply.
+Q_GEN_PSYCH_SCHIZO_012 [E] During examination of a patient with catatonia the examiner moulds the patient's arm into an awkward raised position; the limb offers a slow, plastic (bendable-wax) resistance and is then held in that posture for several minutes. This sign is:
+   *A. Waxy flexibility (cerea flexibilitas)
+    B. Negativism
+    C. Ambitendency
+    D. Stupor
+   key=A ref=Kaplan & Sadock's Synopsis of Psychiatry — catatonia, motor signs
+   concept: Waxy flexibility (cerea flexibilitas) is a catatonic sign in which the patient's limbs can be moulded like wax by the examiner and then maintain the imposed, often uncomfortable, posture. Negativism (B) is motiveless resistance to, or doing the opposite of, instructions; ambitendency (C) is alternating between opposing movements when asked to act; and stupor (D) is a state of unresponsive immobility and mutism with preserved consciousness. The passive moulding-and-holding of posture specifically defines waxy flexibility.
+Q_GEN_PSYCH_SCHIZO_013 [E] A previously well 28-year-old develops delusions and hallucinations two days after a major life stressor; the symptoms fully resolve within 3 weeks and she returns completely to her premorbid level of functioning. The most appropriate diagnosis is:
+    A. Schizophreniform disorder
+   *B. Brief psychotic disorder
+    C. Schizophrenia
+    D. Delusional disorder
+   key=B ref=Niraj Ahuja — A Short Textbook of Psychiatry, acute and transient psychotic disorders
+   concept: Brief psychotic disorder is defined by one or more psychotic symptoms lasting at least 1 day but less than 1 month, with an eventual full return to the premorbid level of functioning; it is frequently precipitated by a marked stressor (and a postpartum-onset specifier exists). Schizophreniform disorder (A) lasts 1-6 months, schizophrenia (C) requires 6 months of continuous signs, and delusional disorder (D) requires non-bizarre delusions for at least 1 month without the acute, self-limiting, stress-linked course seen here.
+Q_GEN_PSYCH_SCHIZO_014 [E] A 22-year-old man has had the full symptom picture of schizophrenia for the past 3 months but not yet 6 months. Assuming symptoms are not due to substances or another medical condition, the correct diagnosis at this point is:
+    A. Brief psychotic disorder
+    B. Schizoaffective disorder
+   *C. Schizophreniform disorder
+    D. Schizophrenia
+   key=C ref=Kaplan & Sadock's Synopsis of Psychiatry — schizophreniform disorder
+   concept: Schizophreniform disorder is diagnosed when symptoms meeting schizophrenia's Criterion A have lasted at least 1 month but less than 6 months; it is labelled 'provisional' if made before recovery is observed. Under 1 month it would be brief psychotic disorder (A); once continuous signs reach 6 months it becomes schizophrenia (D). Schizoaffective disorder (B) requires a concurrent major mood episode for the majority of the illness plus at least 2 weeks of psychosis without mood symptoms, which is not described here.
+Q_GEN_PSYCH_SCHIZO_015 [H] A patient has had prominent mood (manic and depressive) episodes for most of a 2-year illness, but there was also a clear 3-week period during which delusions and hallucinations persisted while mood symptoms were entirely absent. The diagnosis that best fits is:
+    A. Bipolar disorder with mood-congruent psychotic features
+    B. Schizophrenia
+    C. Major depressive disorder with psychotic features
+   *D. Schizoaffective disorder
+   key=D ref=Kaplan & Sadock's Synopsis of Psychiatry — schizoaffective disorder
+   concept: Schizoaffective disorder requires an uninterrupted period with a major mood episode concurrent with Criterion-A schizophrenia symptoms, AND delusions or hallucinations for at least 2 weeks in the ABSENCE of a major mood episode at some point during the lifetime illness, with mood episodes present for the majority of the total illness duration. The key discriminator from a mood disorder with psychotic features (A, C) is that psychosis persists when mood is normal; unlike schizophrenia (B), prominent mood episodes dominate most of the course.
+Q_GEN_PSYCH_SCHIZO_016 [M] A 50-year-old man has held a fixed, non-bizarre belief for 8 months that his wife is unfaithful, despite no evidence. He has no hallucinations, no disorganized speech, and continues to work and function normally apart from this belief. The most likely diagnosis is:
+   *A. Delusional disorder
+    B. Paranoid schizophrenia
+    C. Obsessive-compulsive disorder
+    D. Brief psychotic disorder
+   key=A ref=Niraj Ahuja — A Short Textbook of Psychiatry, delusional (paranoid) disorders
+   concept: Delusional disorder is characterised by one or more non-bizarre delusions (here the jealous type) lasting at least 1 month, with functioning apart from the delusion's direct impact relatively preserved, and without the prominent hallucinations, disorganized speech, or negative symptoms of schizophrenia (B). The belief is held with delusional conviction and lacks insight, distinguishing it from an obsession in OCD (C), where insight and resistance are present; the chronic, well-preserved, over-1-month course excludes brief psychotic disorder (D).
+Q_GEN_PSYCH_SCHIZO_017 [M] Two days after starting haloperidol, a 19-year-old man develops a sustained painful upward deviation of both eyes and involuntary twisting of the neck. The most appropriate IMMEDIATE treatment is:
+    A. Increase the dose of haloperidol
+   *B. Intramuscular anticholinergic (e.g., promethazine, benztropine, or diphenhydramine)
+    C. Oral propranolol
+    D. Intravenous dantrolene
+   key=B ref=Kaplan & Sadock's Synopsis of Psychiatry — extrapyramidal side effects, acute dystonia
+   concept: This is acute dystonia — here oculogyric crisis with torticollis — an extrapyramidal side effect appearing within hours to a few days of starting or increasing a high-potency typical antipsychotic, and more common in young males. It responds rapidly to a parenteral anticholinergic (benztropine, procyclidine, promethazine) or to diphenhydramine. Increasing the antipsychotic (A) worsens it; propranolol (C) is used for akathisia; and dantrolene (D) is for neuroleptic malignant syndrome, not for simple acute dystonia.
+Q_GEN_PSYCH_SCHIZO_018 [H] Two weeks after starting an antipsychotic, a patient complains of an intolerable inner restlessness and cannot stop pacing or shifting his legs. Besides reducing the dose, the most appropriate pharmacological management is:
+    A. Add a high-dose anticholinergic as first-line therapy
+    B. Increase the antipsychotic dose
+   *C. Add a beta-blocker such as propranolol
+    D. Start levodopa
+   key=C ref=Kaplan & Sadock's Synopsis of Psychiatry — akathisia; Niraj Ahuja — antipsychotic side effects
+   concept: This is akathisia — a subjective sense of inner restlessness with an inability to stay still — a distressing EPS linked to increased agitation and suicide risk that is easily mistaken for worsening psychosis, so increasing the drug (B) is exactly wrong and makes it worse. First-line management is dose reduction plus a beta-blocker such as propranolol; benzodiazepines are a useful alternative. Anticholinergics (A) are far more effective for dystonia and drug-induced parkinsonism than for akathisia, and levodopa (D) is not used and could aggravate the psychosis.
+Q_GEN_PSYCH_SCHIZO_019 [H] After several years of typical antipsychotic treatment, a patient develops persistent involuntary lip-smacking, tongue protrusion, and chewing movements. Which statement about this condition is CORRECT?
+    A. It characteristically appears within the first few days of treatment
+    B. Anticholinergic drugs are the first-line treatment and reliably abolish it
+    C. Permanently increasing the antipsychotic dose is the definitive cure
+   *D. It is a late complication; management includes switching to clozapine or using a VMAT2 inhibitor, and anticholinergics tend to worsen it
+   key=D ref=Kaplan & Sadock's Synopsis of Psychiatry — tardive dyskinesia
+   concept: Tardive dyskinesia is a late-onset (months to years) hyperkinetic movement disorder — classically orofacial/buccolingual choreoathetoid movements — arising from chronic dopamine D2 blockade, and is more common with typical antipsychotics. Management is stopping/reducing the offending drug or switching to a lower-risk agent such as clozapine, plus VMAT2 inhibitors (valbenazine, deutetrabenazine, tetrabenazine). Anticholinergics characteristically WORSEN TD (opposite to acute dystonia). It is not an early effect (A), and raising the dose (C) only masks it transiently while worsening the long-term course.
+Q_GEN_PSYCH_SCHIZO_020 [M] A 26-year-old woman develops amenorrhoea and galactorrhoea after starting an antipsychotic. Which of the following agents is MOST likely to have caused this via tuberoinfundibular D2 blockade and elevated prolactin?
+   *A. Risperidone
+    B. Aripiprazole
+    C. Quetiapine
+    D. Clozapine
+   key=A ref=Kaplan & Sadock's Synopsis of Psychiatry — antipsychotics, hyperprolactinaemia
+   concept: Hyperprolactinaemia — causing galactorrhoea, amenorrhoea, gynaecomastia, and sexual dysfunction — results from blockade of dopamine D2 receptors in the tuberoinfundibular pathway, since dopamine normally tonically inhibits prolactin release. Among the atypicals, risperidone (and its metabolite paliperidone) is the most prolactin-raising, often exceeding even typical agents. Aripiprazole (B) is a D2 partial agonist and is prolactin-sparing or prolactin-lowering, while quetiapine (C) and clozapine (D) are among the least likely atypicals to raise prolactin.
+Q_GEN_PSYCH_SCHIZO_021 [M] Which pair of atypical antipsychotics carries the HIGHEST risk of weight gain, dyslipidaemia, and new-onset diabetes (metabolic syndrome), warranting regular metabolic monitoring?
+    A. Aripiprazole and ziprasidone
+    B. Haloperidol and fluphenazine
+   *C. Clozapine and olanzapine
+    D. Lurasidone and ziprasidone
+   key=C ref=Kaplan & Sadock's Synopsis of Psychiatry — second-generation antipsychotics, metabolic effects
+   concept: Clozapine and olanzapine carry the greatest metabolic burden — marked weight gain, dyslipidaemia, and insulin resistance/diabetes — so patients need baseline and periodic monitoring of weight/BMI, waist circumference, fasting glucose or HbA1c, and lipids. Aripiprazole, ziprasidone, and lurasidone (A, D) are comparatively metabolically neutral. Haloperidol and fluphenazine (B) are typical (first-generation) antipsychotics whose predominant problems are extrapyramidal side effects and hyperprolactinaemia rather than the metabolic syndrome.
+Q_GEN_PSYCH_SCHIZO_022 [H] A patient with treatment-resistant schizophrenia is being started on clozapine. Which monitoring requirement is MANDATORY specifically because of clozapine's most feared haematological adverse effect?
+    A. Weekly liver function tests
+   *B. Regular white cell count / absolute neutrophil count (ANC) monitoring, withholding the drug if neutropenia develops
+    C. Monthly thyroid function tests
+    D. Routine measurement of serum prolactin
+   key=B ref=Kaplan & Sadock's Synopsis of Psychiatry — clozapine, agranulocytosis monitoring
+   concept: Clozapine can cause agranulocytosis (a potentially fatal neutropenia), so regulated regular monitoring of the WBC / absolute neutrophil count is mandatory — typically weekly for the first months, then at extended intervals — and the drug must be withheld or stopped if the ANC falls below defined thresholds. Clozapine also carries risks of seizures (dose-related), myocarditis, and severe constipation, but the haematological monitoring is its defining safety requirement. LFTs, thyroid tests, and prolactin (A, C, D) are not the clozapine-specific mandated haematological check.
+Q_GEN_PSYCH_SCHIZO_023 [H] According to the dopamine hypothesis of schizophrenia, which statement about dopaminergic pathways and symptoms is CORRECT?
+    A. Excess dopamine in the nigrostriatal pathway produces the positive symptoms
+    B. Positive symptoms arise from dopamine deficiency in the mesolimbic pathway
+    C. Negative symptoms are caused by dopamine excess in the mesocortical pathway
+   *D. Positive symptoms result from dopamine excess in the mesolimbic pathway, while negative/cognitive symptoms relate to dopamine deficiency in the mesocortical pathway
+   key=D ref=Kaplan & Sadock's Synopsis of Psychiatry — dopamine hypothesis; Niraj Ahuja — aetiology of schizophrenia
+   concept: The dopamine hypothesis holds that hyperdopaminergia in the mesolimbic pathway drives positive symptoms (delusions, hallucinations) — explaining why D2 blockade reduces them — whereas hypodopaminergia in the mesocortical pathway underlies negative and cognitive symptoms. Blockade of the nigrostriatal pathway causes extrapyramidal side effects, and blockade of the tuberoinfundibular pathway raises prolactin. Options A-C misassign either the pathway or the direction of the dopamine change; note that broad D2 blockade can even worsen negative symptoms via the already-underactive mesocortical tract.
+Q_S_021 [E] A 24-year-old man believes his thoughts are being broadcast aloud so that others can hear them, and he hears voices discussing him in the third person. These are examples of Schneider's first-rank symptoms, most characteristically seen in:
+    A. Major depression
+   *B. Schizophrenia
+    C. Generalised anxiety disorder
+    D. Obsessive-compulsive disorder
+   key=B ref=Niraj Ahuja, A Short Textbook of Psychiatry
+   concept: Schneiderian first-rank symptoms - thought broadcasting/insertion/withdrawal, third-person auditory hallucinations, delusional perception and passivity phenomena - are highly suggestive of schizophrenia. They are characteristic though not, in isolation, absolutely diagnostic.
+Q_S_022 [H] A young man on haloperidol develops high fever, severe 'lead-pipe' muscle rigidity, autonomic instability, altered sensorium and a markedly raised creatine kinase. What is the most likely diagnosis and the key management step?
+    A. Serotonin syndrome; treat with an SSRI
+   *B. Neuroleptic malignant syndrome; stop the antipsychotic and give supportive care, with dantrolene or bromocriptine
+    C. Malignant hyperthermia; give more haloperidol
+    D. Acute dystonia; add a second antipsychotic
+   key=B ref=Niraj Ahuja, A Short Textbook of Psychiatry
+   concept: Neuroleptic malignant syndrome is a life-threatening idiosyncratic reaction to dopamine-blocking antipsychotics: hyperthermia, lead-pipe rigidity, autonomic instability, altered mental state and raised CK. Management is to stop the offending drug, give aggressive supportive/cooling care, and use dantrolene or bromocriptine.
+
+[28 shown of 28 unverified in scope]

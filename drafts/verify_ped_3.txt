@@ -1,0 +1,45 @@
+Q_h3c_019 | del | duplicate of Q_PED_GDM_002 on the growth chart pattern of falling weight with preserved length and head circumference. The first item is retained
+Q_PED_IEM_014 | del | duplicate of Q_PYQ_FMGE_2025JULP2_116 on recognising Down syndrome from its dysmorphic features. The real exam recall is retained
+Q_PED_BEH_002 | del | duplicate of Q_PYQ_FMGE_2026JUN_025, which presents the same core autism features as a case. The real exam recall is retained
+Q_PYQ_FMGE_2025JULP1_071 | del | duplicate of Q_PYQ_FMGE_2026JUN_033 on Coxsackie virus causing vesicles of the palms, soles and mouth. The item naming the serotype is retained
+Q_PED_IEM_011 | del | duplicate of Q_PED_IEM_005 on newborn screening for congenital hypothyroidism preventing irreversible intellectual disability. The first item is retained
+Q_C_041 | ref=Government of India National Immunization Schedule 2023, Universal Immunization Programme; Park's Textbook of Preventive and Social Medicine 27e, Ch. Immunization | the reference carried a web-verification note in place of a citable source
+Q_h3c_025 | ref=OP Ghai Essential Pediatrics 9e, Ch. Infections and Infestations | the reference named the book with no chapter
+Q_PYQ_FMGE_2024JAN_025 | ref=FMGE January 2024 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Growth and Development | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_109 | topic=Inborn errors, newborn screening & chromosomal syndromes;;ref=FMGE January 2025 Part 1 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Inborn Errors of Metabolism and Genetics | a chromosomal syndrome item sat in the growth and development topic, and the reference named only the exam paper
+Q_PYQ_FMGE_2025JANP2_037 | ref=FMGE January 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Disorders of Growth | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_063 | ref=FMGE July 2025 Part 1 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Behavioural and Developmental Disorders | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_116 | ref=FMGE July 2025 Part 1 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Adolescent Health | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_141 | ref=FMGE July 2025 Part 1 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Growth and Development | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_113 | ref=FMGE July 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Disorders of Growth | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_116 | topic=Inborn errors, newborn screening & chromosomal syndromes;;ref=FMGE July 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Inborn Errors of Metabolism and Genetics | a chromosomal syndrome item sat in the growth and development topic, and the reference named only the exam paper
+Q_PYQ_FMGE_2025JULP2_124 | ref=FMGE July 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Behavioural and Developmental Disorders | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_025 | ref=FMGE June 2026 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Behavioural and Developmental Disorders | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2024JUN_027 | ref=FMGE June 2024 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Diarrhoeal Diseases | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_129 | ref=FMGE July 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Respiratory System | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_009 | ref=FMGE June 2026 (real exam recall); Nelson Textbook of Pediatrics 21e, Ch. Enteroviruses | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_033 | ref=FMGE June 2026 (real exam recall); Nelson Textbook of Pediatrics 21e, Ch. Enteroviruses | exam-paper-only reference given a study source
+Q_PED_GDM_001 | ok |
+Q_PED_GDM_002 | ok |
+Q_PED_ICI_001 | ok |
+Q_PED_ICI_002 | ok |
+Q_PED_ICI_003 | ok |
+Q_PED_ICI_004 | ok |
+Q_PED_ICI_005 | ok |
+Q_PED_ICI_006 | ok |
+Q_PED_ICI_007 | ok |
+Q_PED_ICI_008 | ok |
+Q_PED_ICI_009 | ok |
+Q_PED_ICI_010 | ok |
+Q_PED_IEM_001 | ok |
+Q_PED_IEM_002 | ok |
+Q_PED_IEM_003 | ok |
+Q_PED_IEM_004 | ok |
+Q_PED_IEM_005 | ok |
+Q_PED_IEM_006 | ok |
+Q_PED_IEM_007 | ok |
+Q_PED_IEM_008 | ok |
+Q_PED_IEM_009 | ok |
+Q_PED_IEM_010 | ok |
+Q_PED_IEM_012 | ok |
+Q_PED_IEM_013 | ok |

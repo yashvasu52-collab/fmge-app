@@ -1,0 +1,1217 @@
+{
+ "questions": [
+  {
+   "id": "Q_MED_PIT_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "E",
+   "stem": "The commonest functioning pituitary adenoma is:",
+   "options": [
+    "Prolactinoma",
+    "Growth hormone secreting adenoma",
+    "ACTH secreting adenoma",
+    "TSH secreting adenoma"
+   ],
+   "correct": 0,
+   "concept": "Prolactinoma is the commonest hormone-secreting pituitary tumour, causing amenorrhoea, galactorrhoea and infertility in women and hypogonadism in men. Dopamine agonists such as cabergoline are first-line, not surgery.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "M",
+   "stem": "The confirmatory test for acromegaly is:",
+   "options": [
+    "Random growth hormone level",
+    "Failure of growth hormone suppression after an oral glucose load",
+    "Serum IGF-1 alone",
+    "Insulin tolerance test"
+   ],
+   "correct": 1,
+   "concept": "Glucose normally suppresses growth hormone; failure of suppression below 1 microgram per litre after 75 g oral glucose confirms acromegaly. IGF-1 is the best screening test and random GH is useless because secretion is pulsatile.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "M",
+   "stem": "A pituitary macroadenoma classically produces which visual field defect?",
+   "options": [
+    "Bitemporal hemianopia",
+    "Homonymous hemianopia",
+    "Central scotoma",
+    "Tunnel vision"
+   ],
+   "correct": 0,
+   "concept": "Upward extension compresses the decussating nasal retinal fibres in the optic chiasm, producing bitemporal hemianopia that begins in the upper quadrants. Formal perimetry is mandatory in any sellar mass.",
+   "reference": "AK Khurana Ophthalmology, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "E",
+   "stem": "Central diabetes insipidus is characterised by:",
+   "options": [
+    "Large volumes of dilute urine that concentrate after desmopressin",
+    "Concentrated urine with hyponatraemia",
+    "Oliguria with oedema",
+    "Glycosuria with ketonuria"
+   ],
+   "correct": 0,
+   "concept": "Deficiency of antidiuretic hormone gives polyuria with low urine osmolality and hypernatraemia; urine concentrates after desmopressin, unlike nephrogenic diabetes insipidus where the kidney cannot respond.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "M",
+   "stem": "The commonest cause of hypercalcaemia in an asymptomatic outpatient is:",
+   "options": [
+    "Primary hyperparathyroidism",
+    "Malignancy",
+    "Sarcoidosis",
+    "Vitamin D intoxication"
+   ],
+   "correct": 0,
+   "concept": "Primary hyperparathyroidism, usually a single parathyroid adenoma, is the commonest cause of hypercalcaemia in the community with raised calcium, low phosphate and an inappropriately normal or high parathyroid hormone. Malignancy dominates among inpatients.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "M",
+   "stem": "Which biochemical pattern indicates primary hyperparathyroidism?",
+   "options": [
+    "High calcium, low phosphate, high parathyroid hormone",
+    "Low calcium, high phosphate, high parathyroid hormone",
+    "High calcium, high phosphate, low parathyroid hormone",
+    "Low calcium, low phosphate, low parathyroid hormone"
+   ],
+   "correct": 0,
+   "concept": "Parathyroid hormone raises calcium and phosphaturia, so calcium is high and phosphate low with raised PTH. Low calcium with high phosphate and high PTH indicates secondary hyperparathyroidism of renal failure or pseudohypoparathyroidism.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "E",
+   "stem": "Trousseau and Chvostek signs indicate:",
+   "options": [
+    "Hypocalcaemia",
+    "Hypercalcaemia",
+    "Hypokalaemia",
+    "Hypomagnesaemia only"
+   ],
+   "correct": 0,
+   "concept": "Latent neuromuscular irritability from hypocalcaemia produces carpal spasm on inflating a cuff (Trousseau) and facial twitching on tapping the facial nerve (Chvostek), with a prolonged QT interval on ECG.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "H",
+   "stem": "Osteitis fibrosa cystica with brown tumours is a skeletal manifestation of:",
+   "options": [
+    "Severe primary hyperparathyroidism",
+    "Osteoporosis",
+    "Paget disease",
+    "Osteomalacia"
+   ],
+   "correct": 0,
+   "concept": "Prolonged parathyroid hormone excess causes subperiosteal resorption, salt-and-pepper skull and brown tumours - collections of osteoclasts and haemosiderin - constituting osteitis fibrosa cystica.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "H",
+   "stem": "The immediate management of severe symptomatic hypercalcaemia is:",
+   "options": [
+    "Intravenous normal saline followed by a bisphosphonate",
+    "Oral calcium restriction alone",
+    "Thiazide diuretic",
+    "Vitamin D supplementation"
+   ],
+   "correct": 0,
+   "concept": "Aggressive rehydration with normal saline restores glomerular filtration and calciuresis, followed by intravenous zoledronate; calcitonin gives a rapid but transient fall. Thiazides raise calcium and must be stopped.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_PIT_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pituitary, parathyroid & calcium disorders",
+   "difficulty": "M",
+   "stem": "Sheehan syndrome refers to:",
+   "options": [
+    "Postpartum pituitary necrosis from obstetric haemorrhage",
+    "Autoimmune adrenalitis",
+    "Pituitary apoplexy from a tumour",
+    "Empty sella syndrome"
+   ],
+   "correct": 0,
+   "concept": "Peripartum haemorrhage and hypotension infarct the enlarged pituitary, presenting with failure of lactation and amenorrhoea, then panhypopituitarism. Lifelong hormone replacement is required.",
+   "reference": "HARR 21e, Disorders of the Anterior Pituitary",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "E",
+   "stem": "As per WHO criteria, obesity in adults is defined as a body mass index of:",
+   "options": [
+    "30 kg/m2 or more",
+    "25 kg/m2 or more",
+    "23 kg/m2 or more",
+    "35 kg/m2 or more"
+   ],
+   "correct": 0,
+   "concept": "WHO defines overweight as BMI 25 or above and obesity as 30 or above, but for Asian Indians the revised consensus cut-offs are lower - overweight at 23 and obesity at 25 - because of higher visceral adiposity at any given BMI.",
+   "reference": "Park 27e, Nutrition and Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "M",
+   "stem": "Which is NOT a component of the metabolic syndrome?",
+   "options": [
+    "Central obesity",
+    "Raised triglycerides",
+    "Raised low-density lipoprotein cholesterol",
+    "Impaired fasting glucose"
+   ],
+   "correct": 2,
+   "concept": "The syndrome comprises central obesity, raised triglycerides, low HDL cholesterol, hypertension and impaired fasting glucose. LDL cholesterol is notably not a criterion, though it remains an independent cardiovascular risk factor.",
+   "reference": "HARR 21e, Obesity and Disorders of Lipoprotein Metabolism",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "M",
+   "stem": "The lipid abnormality most characteristic of insulin resistance is:",
+   "options": [
+    "High triglycerides with low HDL and small dense LDL particles",
+    "Isolated high LDL",
+    "Isolated low triglycerides",
+    "Raised chylomicrons only"
+   ],
+   "correct": 0,
+   "concept": "Insulin resistance drives hepatic VLDL overproduction, giving hypertriglyceridaemia, low HDL and small dense atherogenic LDL - the atherogenic dyslipidaemia of the metabolic syndrome.",
+   "reference": "HARR 21e, Obesity and Disorders of Lipoprotein Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "E",
+   "stem": "The most effective drug class for lowering low-density lipoprotein cholesterol is:",
+   "options": [
+    "Statins",
+    "Fibrates",
+    "Bile acid sequestrants",
+    "Niacin"
+   ],
+   "correct": 0,
+   "concept": "HMG-CoA reductase inhibitors upregulate hepatic LDL receptors and lower LDL by 30 to 55%, with proven mortality benefit. Fibrates act mainly on triglycerides through PPAR-alpha.",
+   "reference": "KDT 8e, Hypolipidaemic Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "M",
+   "stem": "The most serious adverse effect of combining a statin with a fibrate is:",
+   "options": [
+    "Rhabdomyolysis",
+    "Aplastic anaemia",
+    "Pulmonary fibrosis",
+    "Optic neuritis"
+   ],
+   "correct": 0,
+   "concept": "Both drugs cause myopathy, and combination markedly raises the risk of rhabdomyolysis with myoglobinuric renal failure; gemfibrozil is the most hazardous partner and fenofibrate the safest. Creatine kinase should be checked if muscle pain occurs.",
+   "reference": "KDT 8e, Hypolipidaemic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "M",
+   "stem": "Familial hypercholesterolaemia is caused by a defect in:",
+   "options": [
+    "The LDL receptor",
+    "Lipoprotein lipase",
+    "Apolipoprotein CII",
+    "HMG-CoA reductase"
+   ],
+   "correct": 0,
+   "concept": "Autosomal dominant LDL receptor mutations impair hepatic clearance of LDL, causing very high cholesterol, tendon xanthomas, xanthelasma, arcus juvenilis and premature coronary disease. Lipoprotein lipase or apo-CII defects instead cause chylomicronaemia.",
+   "reference": "HARR 21e, Obesity and Disorders of Lipoprotein Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "E",
+   "stem": "Eruptive xanthomas with milky serum and abdominal pain indicate marked elevation of:",
+   "options": [
+    "Triglycerides",
+    "LDL cholesterol",
+    "HDL cholesterol",
+    "Lipoprotein(a)"
+   ],
+   "correct": 0,
+   "concept": "Severe hypertriglyceridaemia above about 1000 mg/dL causes lactescent serum, eruptive xanthomas, lipaemia retinalis and acute pancreatitis, and needs fibrates with strict fat restriction rather than a statin.",
+   "reference": "HARR 21e, Obesity and Disorders of Lipoprotein Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "H",
+   "stem": "Orlistat produces weight loss by:",
+   "options": [
+    "Inhibiting pancreatic and gastric lipase, reducing fat absorption",
+    "Suppressing appetite centrally",
+    "Increasing thermogenesis",
+    "Blocking glucose absorption"
+   ],
+   "correct": 0,
+   "concept": "Orlistat blocks lipases so about 30% of ingested fat is not absorbed, causing steatorrhoea, flatus and loss of fat-soluble vitamins which need supplementation. It is the only widely used peripherally acting anti-obesity drug.",
+   "reference": "KDT 8e, Drugs for Obesity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "H",
+   "stem": "Bariatric surgery is generally indicated at a body mass index above:",
+   "options": [
+    "37.5 kg/m2 in Asian Indians, or 32.5 with comorbidity",
+    "20 kg/m2",
+    "25 kg/m2 with no comorbidity",
+    "45 kg/m2 only"
+   ],
+   "correct": 0,
+   "concept": "Indian consensus lowers thresholds to a BMI of 37.5, or 32.5 with obesity-related comorbidity such as type 2 diabetes, reflecting greater metabolic risk at lower BMI. Roux-en-Y gastric bypass and sleeve gastrectomy are the usual procedures.",
+   "reference": "HARR 21e, Obesity and Disorders of Lipoprotein Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_OBM_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obesity, dyslipidaemia & metabolic syndrome",
+   "difficulty": "M",
+   "stem": "Which hormone secreted by adipose tissue signals satiety to the hypothalamus?",
+   "options": [
+    "Leptin",
+    "Ghrelin",
+    "Motilin",
+    "Gastrin"
+   ],
+   "correct": 0,
+   "concept": "Leptin from adipocytes acts on hypothalamic arcuate neurons to suppress appetite; obese individuals typically have high leptin with resistance to it. Ghrelin from the stomach is the opposing orexigenic hormone.",
+   "reference": "HARR 21e, Obesity and Disorders of Lipoprotein Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "E",
+   "stem": "Rheumatoid arthritis characteristically involves:",
+   "options": [
+    "Symmetrical small joints of hands and feet with morning stiffness over an hour",
+    "Asymmetrical large joints",
+    "The distal interphalangeal joints",
+    "The lumbar spine only"
+   ],
+   "correct": 0,
+   "concept": "Rheumatoid arthritis is a symmetrical inflammatory polyarthritis of the metacarpophalangeal, proximal interphalangeal and metatarsophalangeal joints with prolonged morning stiffness, sparing the distal interphalangeal joints which osteoarthritis and psoriatic arthritis affect.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "M",
+   "stem": "The most specific serological marker for rheumatoid arthritis is:",
+   "options": [
+    "Anti-cyclic citrullinated peptide antibody",
+    "Rheumatoid factor",
+    "Antinuclear antibody",
+    "Raised C-reactive protein"
+   ],
+   "correct": 0,
+   "concept": "Anti-CCP antibody has similar sensitivity to rheumatoid factor but much higher specificity, appears years before symptoms and predicts erosive disease. Rheumatoid factor also occurs in Sjogren syndrome, hepatitis C and the elderly.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "M",
+   "stem": "The first-line disease-modifying drug in rheumatoid arthritis is:",
+   "options": [
+    "Methotrexate",
+    "Hydroxychloroquine",
+    "Infliximab",
+    "Prednisolone"
+   ],
+   "correct": 0,
+   "concept": "Methotrexate is the anchor drug, given weekly with folic acid to reduce mucositis and cytopenias, and monitored with liver enzymes and blood counts. Biologics are added when methotrexate fails.",
+   "reference": "KDT 8e, Drugs for Rheumatoid Arthritis",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "E",
+   "stem": "Which deformity is characteristic of advanced rheumatoid arthritis?",
+   "options": [
+    "Ulnar deviation with swan-neck and boutonniere deformities",
+    "Heberden nodes",
+    "Sausage-shaped digits",
+    "Gouty tophi"
+   ],
+   "correct": 0,
+   "concept": "Chronic synovitis destroys joint capsules and tendons, producing ulnar deviation at the metacarpophalangeal joints, swan-neck and boutonniere deformities and a Z-shaped thumb. Heberden nodes belong to osteoarthritis.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "M",
+   "stem": "Felty syndrome is the combination of rheumatoid arthritis with:",
+   "options": [
+    "Splenomegaly and neutropenia",
+    "Pneumoconiosis",
+    "Uveitis and urethritis",
+    "Renal failure"
+   ],
+   "correct": 0,
+   "concept": "Felty syndrome is seropositive rheumatoid arthritis with splenomegaly and neutropenia, carrying a high risk of recurrent bacterial infection and leg ulcers. Caplan syndrome is rheumatoid arthritis with pneumoconiosis.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "M",
+   "stem": "The most specific antibody for systemic lupus erythematosus is:",
+   "options": [
+    "Anti-double stranded DNA",
+    "Antinuclear antibody",
+    "Anti-histone",
+    "Anti-Ro"
+   ],
+   "correct": 0,
+   "concept": "Anti-dsDNA and anti-Sm are the most specific lupus antibodies, and anti-dsDNA titres track disease activity and lupus nephritis. ANA is the most sensitive screening test but is highly non-specific.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "E",
+   "stem": "Which drug most classically causes drug-induced lupus with anti-histone antibodies?",
+   "options": [
+    "Hydralazine",
+    "Amoxicillin",
+    "Metformin",
+    "Omeprazole"
+   ],
+   "correct": 0,
+   "concept": "Hydralazine, procainamide and isoniazid are the classical causes of drug-induced lupus, which features anti-histone antibodies, spares the kidney and brain, and resolves on stopping the drug.",
+   "reference": "KDT 8e, Antihypertensive Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "H",
+   "stem": "Anti-centromere antibody is associated with:",
+   "options": [
+    "Limited cutaneous systemic sclerosis (CREST syndrome)",
+    "Diffuse systemic sclerosis",
+    "Polymyositis",
+    "Sjogren syndrome"
+   ],
+   "correct": 0,
+   "concept": "Anti-centromere antibody marks limited scleroderma - calcinosis, Raynaud phenomenon, oesophageal dysmotility, sclerodactyly and telangiectasia - with pulmonary hypertension as the main risk. Anti-topoisomerase (Scl-70) marks diffuse disease with interstitial lung fibrosis and renal crisis.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "H",
+   "stem": "A woman with recurrent fetal loss, venous thrombosis and a prolonged APTT that fails to correct on mixing has:",
+   "options": [
+    "Antiphospholipid antibody syndrome",
+    "Haemophilia A",
+    "von Willebrand disease",
+    "Protein C deficiency"
+   ],
+   "correct": 0,
+   "concept": "Lupus anticoagulant prolongs the APTT in vitro without correcting on mixing, yet causes thrombosis in vivo along with recurrent miscarriage and thrombocytopenia. Diagnosis needs a persistently positive antibody 12 weeks apart, and treatment is long-term anticoagulation.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RA_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Rheumatoid arthritis, SLE & connective tissue disease",
+   "difficulty": "M",
+   "stem": "Sjogren syndrome is best confirmed by:",
+   "options": [
+    "Schirmer test with anti-Ro/anti-La antibodies and labial gland biopsy",
+    "Serum ACE level",
+    "Muscle biopsy",
+    "Bone marrow aspiration"
+   ],
+   "correct": 0,
+   "concept": "Keratoconjunctivitis sicca and xerostomia are documented by the Schirmer test and salivary flow, supported by anti-Ro and anti-La antibodies and focal lymphocytic sialadenitis on labial biopsy. There is a markedly raised risk of MALT lymphoma.",
+   "reference": "HARR 21e, Rheumatoid Arthritis and SLE",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "E",
+   "stem": "Ankylosing spondylitis is most strongly associated with:",
+   "options": [
+    "HLA-B27",
+    "HLA-DR4",
+    "HLA-B8",
+    "HLA-DR3"
+   ],
+   "correct": 0,
+   "concept": "Over 90% of patients with ankylosing spondylitis carry HLA-B27. It presents with inflammatory low back pain improving with exercise, reduced chest expansion and a bamboo spine, and sacroiliitis is the earliest radiographic change.",
+   "reference": "HARR 21e, The Spondyloarthritides and Vasculitis Syndromes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "M",
+   "stem": "Reactive arthritis classically follows infection with:",
+   "options": [
+    "Chlamydia trachomatis or enteric pathogens such as Shigella and Yersinia",
+    "Streptococcus pyogenes",
+    "Mycobacterium tuberculosis",
+    "Plasmodium vivax"
+   ],
+   "correct": 0,
+   "concept": "Reiter syndrome, the triad of arthritis, urethritis and conjunctivitis, follows genitourinary chlamydial or enteric bacterial infection in HLA-B27 positive individuals, typically as an asymmetrical lower limb oligoarthritis with enthesitis.",
+   "reference": "HARR 21e, The Spondyloarthritides and Vasculitis Syndromes",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "M",
+   "stem": "The most specific finding in synovial fluid in acute gout is:",
+   "options": [
+    "Needle-shaped negatively birefringent monosodium urate crystals",
+    "Rhomboid positively birefringent crystals",
+    "Gram-positive cocci",
+    "Cholesterol crystals"
+   ],
+   "correct": 0,
+   "concept": "Needle-shaped strongly negatively birefringent urate crystals under polarised light are diagnostic; calcium pyrophosphate crystals of pseudogout are rhomboid and weakly positively birefringent. Serum urate may be normal during an acute attack.",
+   "reference": "HARR 21e, The Spondyloarthritides and Vasculitis Syndromes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "E",
+   "stem": "The drug of choice for an acute attack of gout in a patient with normal renal function is:",
+   "options": [
+    "An NSAID such as indomethacin, or colchicine",
+    "Allopurinol",
+    "Probenecid",
+    "Febuxostat"
+   ],
+   "correct": 0,
+   "concept": "Acute attacks are treated with NSAIDs, colchicine or steroids. Urate-lowering drugs such as allopurinol must never be started during an attack as they can prolong it, and existing therapy is continued unchanged.",
+   "reference": "KDT 8e, Drugs for Gout",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "M",
+   "stem": "Allopurinol acts by:",
+   "options": [
+    "Inhibiting xanthine oxidase",
+    "Increasing renal urate excretion",
+    "Converting urate to allantoin",
+    "Blocking tubular urate reabsorption"
+   ],
+   "correct": 0,
+   "concept": "Allopurinol and its metabolite oxypurinol inhibit xanthine oxidase, reducing urate synthesis. Its dose must be cut to a quarter when given with azathioprine or 6-mercaptopurine, which xanthine oxidase normally inactivates.",
+   "reference": "KDT 8e, Drugs for Gout",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "M",
+   "stem": "Temporal arteritis is most feared for causing:",
+   "options": [
+    "Irreversible blindness from anterior ischaemic optic neuropathy",
+    "Renal failure",
+    "Stroke",
+    "Deafness"
+   ],
+   "correct": 0,
+   "concept": "Giant cell arteritis in a patient over 50 with headache, jaw claudication, scalp tenderness and a very high ESR threatens sudden permanent visual loss, so high-dose steroids are started immediately on suspicion, before biopsy.",
+   "reference": "HARR 21e, The Spondyloarthritides and Vasculitis Syndromes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "E",
+   "stem": "Which vasculitis is strongly associated with c-ANCA against proteinase-3?",
+   "options": [
+    "Granulomatosis with polyangiitis",
+    "Polyarteritis nodosa",
+    "Kawasaki disease",
+    "Henoch-Schonlein purpura"
+   ],
+   "correct": 0,
+   "concept": "Granulomatosis with polyangiitis (Wegener) affects upper airway, lung and kidney with saddle-nose deformity, pulmonary nodules and pauci-immune glomerulonephritis, and is associated with c-ANCA/anti-PR3. Microscopic polyangiitis carries p-ANCA/anti-MPO.",
+   "reference": "HARR 21e, The Spondyloarthritides and Vasculitis Syndromes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "H",
+   "stem": "Polyarteritis nodosa is associated with chronic infection by:",
+   "options": [
+    "Hepatitis B virus",
+    "Hepatitis A virus",
+    "HIV",
+    "Epstein-Barr virus"
+   ],
+   "correct": 0,
+   "concept": "About a third of classical polyarteritis nodosa is linked to hepatitis B surface antigenaemia. It is a medium-vessel necrotising vasculitis causing renal impairment, mononeuritis multiplex, orchitis and microaneurysms on angiography, characteristically sparing the lung.",
+   "reference": "HARR 21e, The Spondyloarthritides and Vasculitis Syndromes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "H",
+   "stem": "Henoch-Schonlein purpura is characterised by deposition of:",
+   "options": [
+    "IgA in small vessel walls",
+    "IgG in the basement membrane",
+    "IgM in the mesangium",
+    "Complement C1q only"
+   ],
+   "correct": 0,
+   "concept": "IgA immune complex deposition causes a palpable purpuric rash over the buttocks and legs, arthralgia, colicky abdominal pain with intussusception risk and an IgA nephropathy-like glomerulonephritis, usually after an upper respiratory infection in a child.",
+   "reference": "HARR 21e, The Spondyloarthritides and Vasculitis Syndromes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SPA_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Spondyloarthritis, gout & the vasculitides",
+   "difficulty": "M",
+   "stem": "The treatment of choice for Kawasaki disease to prevent coronary aneurysms is:",
+   "options": [
+    "Intravenous immunoglobulin with aspirin",
+    "Corticosteroids alone",
+    "Antibiotics",
+    "Colchicine"
+   ],
+   "correct": 0,
+   "concept": "Intravenous immunoglobulin within 10 days of fever onset with high-dose aspirin reduces coronary artery aneurysm risk from about 25% to under 5%. This is one of the few paediatric indications for aspirin.",
+   "reference": "Nelson 21e, Kawasaki Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "E",
+   "stem": "The two commonest causes of acute pancreatitis are:",
+   "options": [
+    "Gallstones and alcohol",
+    "Trauma and drugs",
+    "Hypercalcaemia and hyperlipidaemia",
+    "Mumps and scorpion sting"
+   ],
+   "correct": 0,
+   "concept": "Gallstones and alcohol together account for about 80% of acute pancreatitis. Other causes include hypertriglyceridaemia, hypercalcaemia, ERCP, drugs, trauma, mumps and scorpion sting.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "M",
+   "stem": "Which enzyme is more specific for acute pancreatitis?",
+   "options": [
+    "Serum lipase",
+    "Serum amylase",
+    "Alkaline phosphatase",
+    "Lactate dehydrogenase"
+   ],
+   "correct": 0,
+   "concept": "Lipase is more specific and stays elevated longer than amylase, which also rises in salivary disease, perforation, ectopic pregnancy and renal failure. Enzyme levels do not correlate with severity.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "M",
+   "stem": "Grey Turner and Cullen signs in acute pancreatitis indicate:",
+   "options": [
+    "Retroperitoneal haemorrhage in severe necrotising disease",
+    "Biliary obstruction",
+    "Splenic infarction",
+    "Portal hypertension"
+   ],
+   "correct": 0,
+   "concept": "Flank (Grey Turner) and periumbilical (Cullen) ecchymoses reflect tracking of retroperitoneal blood in haemorrhagic necrotising pancreatitis and imply a poor prognosis. Contrast CT after 72 hours best assesses necrosis.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "E",
+   "stem": "The cornerstone of management of severe acute pancreatitis in the first 24 hours is:",
+   "options": [
+    "Aggressive intravenous fluid resuscitation with analgesia and early enteral nutrition",
+    "Immediate laparotomy",
+    "Prophylactic antibiotics for all",
+    "Immediate ERCP for all"
+   ],
+   "correct": 0,
+   "concept": "Early goal-directed fluid resuscitation, adequate analgesia and early enteral feeding reduce mortality. Prophylactic antibiotics are not indicated, and ERCP is reserved for gallstone pancreatitis with cholangitis or persistent obstruction.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "M",
+   "stem": "The commonest cause of malabsorption in adults in India is:",
+   "options": [
+    "Tropical sprue and intestinal tuberculosis",
+    "Whipple disease",
+    "Abetalipoproteinaemia",
+    "Cystic fibrosis"
+   ],
+   "correct": 0,
+   "concept": "Tropical sprue, intestinal tuberculosis, giardiasis and coeliac disease dominate in India, whereas coeliac disease and Crohn disease predominate in the West. Small bowel biopsy with fat and D-xylose studies guides diagnosis.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "M",
+   "stem": "Coeliac disease is best screened for by:",
+   "options": [
+    "IgA anti-tissue transglutaminase antibody",
+    "Anti-mitochondrial antibody",
+    "Anti-smooth muscle antibody",
+    "Serum ACE"
+   ],
+   "correct": 0,
+   "concept": "IgA anti-tissue transglutaminase is the screening test of choice, confirmed by duodenal biopsy showing villous atrophy, crypt hyperplasia and intraepithelial lymphocytosis. It is HLA-DQ2/DQ8 associated and treated by lifelong gluten avoidance.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "E",
+   "stem": "Dermatitis herpetiformis is the skin manifestation of:",
+   "options": [
+    "Coeliac disease",
+    "Ulcerative colitis",
+    "Chronic pancreatitis",
+    "Whipple disease"
+   ],
+   "correct": 0,
+   "concept": "Intensely itchy grouped vesicles on extensor surfaces with granular IgA at the dermal papillary tips indicate dermatitis herpetiformis, which is gluten-sensitive and responds to a gluten-free diet and dapsone.",
+   "reference": "IADVL Dermatology, Vesiculobullous Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "H",
+   "stem": "The commonest cause of acute liver failure in India is:",
+   "options": [
+    "Viral hepatitis, particularly hepatitis E and A",
+    "Paracetamol overdose",
+    "Autoimmune hepatitis",
+    "Wilson disease"
+   ],
+   "correct": 0,
+   "concept": "Viral hepatitis - especially hepatitis E, which is particularly severe in pregnancy - is the leading cause in India, whereas paracetamol poisoning dominates in the West. Acute liver failure is defined by coagulopathy and encephalopathy within 26 weeks in a previously normal liver.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "H",
+   "stem": "The specific antidote for paracetamol-induced hepatic failure is:",
+   "options": [
+    "N-acetylcysteine",
+    "Naloxone",
+    "Flumazenil",
+    "Deferoxamine"
+   ],
+   "correct": 0,
+   "concept": "N-acetylcysteine replenishes hepatic glutathione, detoxifying the reactive metabolite NAPQI, and is most effective within 8 hours though still worthwhile later. The Rumack-Matthew nomogram guides treatment.",
+   "reference": "KDT 8e, Analgesic-Antipyretics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_PAN_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Pancreatitis, malabsorption & acute liver failure",
+   "difficulty": "M",
+   "stem": "Which factor is the earliest and most sensitive indicator of synthetic liver failure?",
+   "options": [
+    "Prothrombin time / INR",
+    "Serum albumin",
+    "Serum bilirubin",
+    "Alanine aminotransferase"
+   ],
+   "correct": 0,
+   "concept": "Factor VII has the shortest half-life of the clotting factors, so the prothrombin time rises early and reflects synthetic function; albumin has a 20-day half-life and changes late, while transaminases indicate injury rather than function.",
+   "reference": "HARR 21e, Acute Pancreatitis and Liver Failure",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

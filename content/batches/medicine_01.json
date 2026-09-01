@@ -1,0 +1,728 @@
+{
+ "questions": [
+  {
+   "id": "Q_MED_HTN_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "E",
+   "stem": "A 34-year-old man has persistent blood pressure of 168/104 mmHg. Which is the single most common cause of secondary hypertension?",
+   "options": [
+    "Renal parenchymal disease",
+    "Pheochromocytoma",
+    "Coarctation of the aorta",
+    "Primary hyperaldosteronism"
+   ],
+   "correct": 0,
+   "concept": "Renal parenchymal disease is by far the commonest secondary cause of hypertension at any age. Pheochromocytoma and coarctation are rare; primary hyperaldosteronism is the commonest surgically correctable endocrine cause but still far less frequent than renal disease.",
+   "reference": "HARR 21e, Hypertensive Vascular Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "M",
+   "stem": "A 32-year-old woman has hypertension with serum potassium 2.9 mEq/L, metabolic alkalosis, suppressed plasma renin and elevated aldosterone. The most likely diagnosis is:",
+   "options": [
+    "Renal artery stenosis",
+    "Primary hyperaldosteronism",
+    "Pheochromocytoma",
+    "Cushing syndrome"
+   ],
+   "correct": 1,
+   "concept": "Hypertension with hypokalaemic metabolic alkalosis, LOW renin and HIGH aldosterone (raised aldosterone-renin ratio) defines primary hyperaldosteronism. Renal artery stenosis raises both renin and aldosterone; pheochromocytoma causes paroxysmal symptoms with normal renin-aldosterone axis.",
+   "reference": "HARR 21e, Hypertensive Vascular Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "M",
+   "stem": "A 28-year-old woman at 30 weeks gestation has blood pressure 158/102 mmHg. Which antihypertensive is most appropriate?",
+   "options": [
+    "Enalapril",
+    "Losartan",
+    "Labetalol",
+    "Atenolol"
+   ],
+   "correct": 2,
+   "concept": "Labetalol, methyldopa and nifedipine are the accepted agents in pregnancy. ACE inhibitors and ARBs are absolutely contraindicated (fetal renal failure, oligohydramnios, skull hypoplasia); atenolol is associated with fetal growth restriction.",
+   "reference": "KDT 8e, Antihypertensive Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "E",
+   "stem": "Which class of antihypertensive is contraindicated in bilateral renal artery stenosis?",
+   "options": [
+    "Calcium channel blockers",
+    "Thiazide diuretics",
+    "Beta blockers",
+    "ACE inhibitors"
+   ],
+   "correct": 3,
+   "concept": "In bilateral renal artery stenosis glomerular filtration depends on angiotensin-II-mediated efferent arteriolar constriction. Blocking it with an ACE inhibitor or ARB precipitates acute kidney injury.",
+   "reference": "HARR 21e, Hypertensive Vascular Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "M",
+   "stem": "A 55-year-old man presents with blood pressure 230/130 mmHg, headache, confusion and papilloedema. The most appropriate immediate treatment is:",
+   "options": [
+    "Sublingual nifedipine",
+    "Intravenous labetalol",
+    "Oral atenolol",
+    "Intramuscular hydralazine"
+   ],
+   "correct": 1,
+   "concept": "Hypertensive encephalopathy is an emergency needing a titratable intravenous agent - labetalol or nicardipine - aiming to lower mean arterial pressure by about 25% in the first hour. Sublingual nifedipine causes uncontrolled precipitous falls and is not recommended.",
+   "reference": "HARR 21e, Hypertensive Vascular Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "M",
+   "stem": "A 56-year-old man with type 2 diabetes and chronic kidney disease with albuminuria. His target blood pressure is:",
+   "options": [
+    "Less than 150/90 mmHg",
+    "Less than 140/90 mmHg",
+    "Less than 130/80 mmHg",
+    "Less than 110/70 mmHg"
+   ],
+   "correct": 2,
+   "concept": "Diabetes or CKD with albuminuria warrants a tighter target of below 130/80 mmHg, with an ACE inhibitor or ARB preferred for its antiproteinuric effect. Below 110/70 mmHg confers no benefit and risks hypoperfusion.",
+   "reference": "HARR 21e, Hypertensive Vascular Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "E",
+   "stem": "Which finding defines grade IV (Keith-Wagener-Barker) hypertensive retinopathy?",
+   "options": [
+    "Papilloedema",
+    "Arteriovenous nipping",
+    "Flame-shaped haemorrhages",
+    "Generalised arteriolar narrowing"
+   ],
+   "correct": 0,
+   "concept": "Grade I is arteriolar narrowing, grade II AV nipping, grade III haemorrhages/exudates and grade IV adds papilloedema. Papilloedema signifies malignant hypertension and demands urgent blood pressure reduction.",
+   "reference": "AK Khurana, Ophthalmology - Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "H",
+   "stem": "Which is the most sensitive screening test for phaeochromocytoma?",
+   "options": [
+    "24-hour urinary vanillylmandelic acid",
+    "Serum chromogranin A",
+    "Clonidine suppression test",
+    "Plasma free metanephrines"
+   ],
+   "correct": 3,
+   "concept": "Plasma free metanephrines have the highest sensitivity (about 99%) because metanephrine production is continuous within the tumour, independent of catecholamine secretory bursts. Urinary VMA is the least sensitive of these.",
+   "reference": "HARR 21e, Hypertensive Vascular Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "H",
+   "stem": "A 19-year-old hypertensive man has radio-femoral delay and notching of the inferior borders of the posterior ribs on chest radiograph. The diagnosis is:",
+   "options": [
+    "Renal artery stenosis",
+    "Takayasu arteritis",
+    "Coarctation of the aorta",
+    "Fibromuscular dysplasia"
+   ],
+   "correct": 2,
+   "concept": "Rib notching from dilated intercostal collaterals plus radio-femoral delay and upper-limb hypertension with weak leg pulses is classical coarctation. Takayasu arteritis causes absent pulses with bruits but not rib notching.",
+   "reference": "HARR 21e, Hypertensive Vascular Disease",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_MED_HTN_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Hypertension: evaluation, secondary causes, management",
+   "difficulty": "M",
+   "stem": "A 72-year-old man has blood pressure 168/76 mmHg with no comorbidity. The most appropriate initial monotherapy is:",
+   "options": [
+    "Propranolol",
+    "Amlodipine",
+    "Prazosin",
+    "Spironolactone"
+   ],
+   "correct": 1,
+   "concept": "Isolated systolic hypertension in the elderly reflects arterial stiffness and responds best to a dihydropyridine calcium channel blocker or a thiazide. Beta blockers are no longer first line for uncomplicated hypertension; prazosin and spironolactone are add-on agents.",
+   "reference": "KDT 8e, Antihypertensive Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "E",
+   "stem": "Which is the commonest sustained cardiac arrhythmia encountered in clinical practice?",
+   "options": [
+    "Atrial fibrillation",
+    "Ventricular tachycardia",
+    "Atrioventricular nodal re-entrant tachycardia",
+    "Atrial flutter"
+   ],
+   "correct": 0,
+   "concept": "Atrial fibrillation is the commonest sustained arrhythmia, with prevalence rising steeply with age. It is recognised by an irregularly irregular rhythm with absent P waves and a varying R-R interval.",
+   "reference": "HARR 21e, The Bradyarrhythmias and Tachyarrhythmias",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "M",
+   "stem": "An ECG shows regular sawtooth atrial waves at about 300 per minute with a ventricular rate of 150 per minute. The diagnosis is:",
+   "options": [
+    "Atrial fibrillation",
+    "Atrial flutter with 2:1 block",
+    "Sinus tachycardia",
+    "Multifocal atrial tachycardia"
+   ],
+   "correct": 1,
+   "concept": "Sawtooth flutter waves at close to 300 per minute with 2:1 atrioventricular conduction give a regular ventricular rate near 150. Atrial fibrillation is irregular with no organised atrial activity.",
+   "reference": "HARR 21e, The Bradyarrhythmias and Tachyarrhythmias",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "M",
+   "stem": "A short PR interval with a slurred upstroke of the QRS complex (delta wave) indicates:",
+   "options": [
+    "Lown-Ganong-Levine syndrome",
+    "Brugada syndrome",
+    "Wolff-Parkinson-White syndrome",
+    "Long QT syndrome"
+   ],
+   "correct": 2,
+   "concept": "A delta wave with short PR reflects ventricular pre-excitation through an accessory bundle of Kent, defining Wolff-Parkinson-White syndrome. Lown-Ganong-Levine has a short PR but no delta wave.",
+   "reference": "HARR 21e, The Bradyarrhythmias and Tachyarrhythmias",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "E",
+   "stem": "A haemodynamically stable patient with a regular narrow-complex tachycardia at 180 per minute does not respond to vagal manoeuvres. The next drug of choice is:",
+   "options": [
+    "Amiodarone",
+    "Digoxin",
+    "Verapamil",
+    "Adenosine"
+   ],
+   "correct": 3,
+   "concept": "Intravenous adenosine transiently blocks the atrioventricular node and terminates most re-entrant supraventricular tachycardias; its ultra-short half-life makes it safe. Verapamil is an alternative but acts far longer.",
+   "reference": "KDT 8e, Antiarrhythmic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "M",
+   "stem": "The treatment of choice for torsades de pointes is:",
+   "options": [
+    "Amiodarone",
+    "Intravenous magnesium sulphate",
+    "Lignocaine",
+    "Procainamide"
+   ],
+   "correct": 1,
+   "concept": "Intravenous magnesium sulphate suppresses torsades de pointes even when serum magnesium is normal. Class III and class IA agents prolong the QT interval further and are contraindicated.",
+   "reference": "HARR 21e, The Bradyarrhythmias and Tachyarrhythmias",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "M",
+   "stem": "An ECG shows progressive lengthening of the PR interval followed by a dropped QRS complex. This is:",
+   "options": [
+    "First-degree atrioventricular block",
+    "Mobitz type II block",
+    "Mobitz type I (Wenckebach) block",
+    "Complete atrioventricular block"
+   ],
+   "correct": 2,
+   "concept": "Progressive PR prolongation culminating in a non-conducted P wave is Mobitz type I, usually a benign nodal block. Mobitz type II drops beats without prior PR lengthening and often progresses to complete block, needing pacing.",
+   "reference": "HARR 21e, The Bradyarrhythmias and Tachyarrhythmias",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "E",
+   "stem": "The first step in managing a patient found pulseless with ventricular fibrillation on the monitor is:",
+   "options": [
+    "Immediate unsynchronised defibrillation",
+    "Intravenous amiodarone",
+    "Synchronised cardioversion",
+    "Intravenous atropine"
+   ],
+   "correct": 0,
+   "concept": "Ventricular fibrillation is treated by immediate unsynchronised defibrillation, as survival falls about 7 to 10% for every minute of delay. Synchronisation is impossible without an organised QRS complex.",
+   "reference": "AHA ACLS; HARR 21e, Cardiac Arrest",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "H",
+   "stem": "Which ECG pattern characterises Brugada syndrome?",
+   "options": [
+    "Shortened QT interval",
+    "Epsilon wave in V1",
+    "Osborn (J) wave",
+    "Coved ST-segment elevation in V1 to V3 with right bundle branch pattern"
+   ],
+   "correct": 3,
+   "concept": "Brugada syndrome shows coved ST elevation in the right precordial leads with an incomplete right bundle branch block pattern, caused by SCN5A sodium channel mutations, and carries a risk of sudden death. The epsilon wave belongs to arrhythmogenic right ventricular cardiomyopathy and the Osborn wave to hypothermia.",
+   "reference": "HARR 21e, The Bradyarrhythmias and Tachyarrhythmias",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "H",
+   "stem": "A 70-year-old man with atrial fibrillation has hypertension and diabetes mellitus and no other risk factor. His CHA2DS2-VASc score is:",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "correct": 2,
+   "concept": "Age 65 to 74 years scores 1, hypertension 1 and diabetes 1, giving a total of 3. A score of 2 or more in a man is an indication for long-term oral anticoagulation.",
+   "reference": "HARR 21e, The Bradyarrhythmias and Tachyarrhythmias",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ARR_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Arrhythmias & ECG interpretation",
+   "difficulty": "M",
+   "stem": "Atropine is indicated in the management of:",
+   "options": [
+    "Ventricular fibrillation",
+    "Symptomatic sinus bradycardia",
+    "Atrial fibrillation with rapid ventricular rate",
+    "Torsades de pointes"
+   ],
+   "correct": 1,
+   "concept": "Atropine blocks vagal tone at the sinoatrial and atrioventricular nodes and is first line for symptomatic sinus bradycardia and nodal atrioventricular block. It has no role in ventricular fibrillation and would worsen a rapid ventricular rate.",
+   "reference": "KDT 8e, Anticholinergic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "E",
+   "stem": "The commonest organism causing subacute infective endocarditis on a previously damaged native valve is:",
+   "options": [
+    "Viridans group streptococci",
+    "Staphylococcus aureus",
+    "Enterococcus faecalis",
+    "HACEK organisms"
+   ],
+   "correct": 0,
+   "concept": "Viridans streptococci from the oral cavity classically colonise previously abnormal valves and cause a subacute illness. Staphylococcus aureus is the commonest cause of acute endocarditis and of prosthetic and intravenous drug related disease.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "M",
+   "stem": "A 26-year-old intravenous drug user has fever and septic pulmonary emboli. The valve and organism most likely involved are:",
+   "options": [
+    "Mitral valve, viridans streptococci",
+    "Tricuspid valve, Staphylococcus aureus",
+    "Aortic valve, Enterococcus",
+    "Pulmonary valve, Candida"
+   ],
+   "correct": 1,
+   "concept": "Right-sided endocarditis of the tricuspid valve by Staphylococcus aureus is characteristic of injecting drug use, and showers septic emboli to the lungs rather than the systemic circulation. Systemic embolic phenomena such as splinter haemorrhages are therefore often absent.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "M",
+   "stem": "Which is a MAJOR criterion in the modified Duke criteria for infective endocarditis?",
+   "options": [
+    "Fever above 38 degrees Celsius",
+    "Janeway lesions",
+    "Oscillating intracardiac vegetation on echocardiography",
+    "Raised erythrocyte sedimentation rate"
+   ],
+   "correct": 2,
+   "concept": "The two major Duke criteria are typical positive blood cultures and echocardiographic evidence of endocardial involvement such as a vegetation, abscess or new dehiscence. Fever and vascular phenomena including Janeway lesions are minor criteria.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "E",
+   "stem": "Which of the following is a MAJOR manifestation in the revised Jones criteria for acute rheumatic fever?",
+   "options": [
+    "Fever",
+    "Arthralgia",
+    "Raised erythrocyte sedimentation rate",
+    "Subcutaneous nodules"
+   ],
+   "correct": 3,
+   "concept": "The five major Jones criteria are carditis, migratory polyarthritis, chorea, erythema marginatum and subcutaneous nodules. Fever, arthralgia and raised acute-phase reactants are minor criteria.",
+   "reference": "HARR 21e, Acute Rheumatic Fever",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "M",
+   "stem": "A 12-year-old child has rheumatic carditis with residual mitral valve disease. Secondary prophylaxis with benzathine penicillin should continue for:",
+   "options": [
+    "Five years after the attack",
+    "At least until 40 years of age, often lifelong",
+    "Until 18 years of age",
+    "No prophylaxis is required"
+   ],
+   "correct": 1,
+   "concept": "Rheumatic fever with carditis and persisting valvular disease requires prophylaxis for at least 10 years or until 40 years of age, and often lifelong. Carditis without residual disease needs 10 years or until age 21, and arthritis alone 5 years or until age 21.",
+   "reference": "Park 27e, Rheumatic Fever",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "M",
+   "stem": "The commonest cause of constrictive pericarditis in India is:",
+   "options": [
+    "Viral pericarditis",
+    "Uraemia",
+    "Tuberculosis",
+    "Radiation"
+   ],
+   "correct": 2,
+   "concept": "Tuberculosis remains the leading cause of constrictive pericarditis in India, whereas idiopathic or viral disease and prior cardiac surgery predominate in the West. Pericardial calcification on radiograph is a useful clue.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "E",
+   "stem": "Beck's triad in cardiac tamponade consists of:",
+   "options": [
+    "Hypotension, raised jugular venous pressure and muffled heart sounds",
+    "Hypertension, bradycardia and irregular respiration",
+    "Fever, splenomegaly and clubbing",
+    "Hypotension, bradycardia and warm extremities"
+   ],
+   "correct": 0,
+   "concept": "Beck's triad is hypotension, distended neck veins and muffled heart sounds, reflecting impaired diastolic filling by pericardial fluid. Urgent echocardiography and pericardiocentesis are required.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "H",
+   "stem": "Pulsus paradoxus is most characteristically found in:",
+   "options": [
+    "Constrictive pericarditis",
+    "Aortic stenosis",
+    "Aortic regurgitation",
+    "Cardiac tamponade"
+   ],
+   "correct": 3,
+   "concept": "Pulsus paradoxus is an inspiratory fall in systolic pressure exceeding 10 mmHg and is typical of cardiac tamponade, also occurring in severe asthma. Aortic regurgitation produces a wide, collapsing pulse instead.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "H",
+   "stem": "Kussmaul's sign, a paradoxical rise in jugular venous pressure on inspiration, is typical of:",
+   "options": [
+    "Cardiac tamponade",
+    "Mitral stenosis",
+    "Constrictive pericarditis",
+    "Atrial septal defect"
+   ],
+   "correct": 2,
+   "concept": "A rigid pericardium prevents accommodation of the inspiratory increase in venous return, so jugular pressure rises rather than falls - Kussmaul's sign, characteristic of constrictive pericarditis. It is usually absent in pure tamponade.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_IE_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+   "difficulty": "M",
+   "stem": "Roth spots seen on fundus examination are characteristic of:",
+   "options": [
+    "Acute rheumatic fever",
+    "Infective endocarditis",
+    "Acute pericarditis",
+    "Viral myocarditis"
+   ],
+   "correct": 1,
+   "concept": "Roth spots are retinal haemorrhages with pale centres arising from immune complex mediated vasculitis, and form part of the minor Duke criteria for infective endocarditis along with Osler nodes and Janeway lesions.",
+   "reference": "HARR 21e, Infective Endocarditis",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

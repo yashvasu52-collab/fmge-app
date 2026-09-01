@@ -1,0 +1,972 @@
+{
+ "questions": [
+  {
+   "id": "Q_OBG_DX_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "E",
+   "stem": "The earliest and most accurate ultrasound parameter for dating a pregnancy is:",
+   "options": [
+    "Crown-rump length in the first trimester",
+    "Biparietal diameter at 30 weeks",
+    "Femur length at term",
+    "Abdominal circumference"
+   ],
+   "correct": 0,
+   "concept": "Crown-rump length between 7 and 13 weeks dates pregnancy to within 5 to 7 days because early embryonic growth is remarkably uniform. Accuracy falls progressively later as biological variation increases.",
+   "reference": "Williams Obstetrics 26e, Prenatal Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "M",
+   "stem": "A non-stress test is described as reactive when there are:",
+   "options": [
+    "Two or more accelerations of 15 beats for 15 seconds in 20 minutes",
+    "No accelerations",
+    "Late decelerations",
+    "A baseline of 100 beats per minute"
+   ],
+   "correct": 0,
+   "concept": "A reactive trace shows at least two accelerations of 15 beats per minute lasting 15 seconds within 20 minutes, with a baseline of 110 to 160 and good variability, indicating an intact fetal autonomic nervous system and absence of acidosis.",
+   "reference": "Williams Obstetrics 26e, Fetal Assessment",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "M",
+   "stem": "Which fetal heart rate pattern is most ominous?",
+   "options": [
+    "Recurrent late decelerations with absent variability",
+    "Early decelerations",
+    "Variable decelerations with quick recovery",
+    "Accelerations with movement"
+   ],
+   "correct": 0,
+   "concept": "Late decelerations beginning after the contraction peak reflect uteroplacental insufficiency, and when combined with absent variability indicate fetal acidaemia requiring prompt delivery. Early decelerations from head compression are benign.",
+   "reference": "Williams Obstetrics 26e, Intrapartum Assessment",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "E",
+   "stem": "The components of the biophysical profile include all EXCEPT:",
+   "options": [
+    "Fetal weight",
+    "Fetal breathing movements",
+    "Amniotic fluid volume",
+    "Fetal tone"
+   ],
+   "correct": 0,
+   "concept": "The biophysical profile scores fetal breathing, gross body movement, tone, amniotic fluid volume and the non-stress test, each out of 2 for a maximum of 10. Estimated fetal weight is not a component.",
+   "reference": "Williams Obstetrics 26e, Fetal Assessment",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "M",
+   "stem": "Absent or reversed end-diastolic flow in the umbilical artery on Doppler indicates:",
+   "options": [
+    "Severe placental insufficiency requiring urgent delivery consideration",
+    "Normal placental function",
+    "Fetal macrosomia",
+    "Polyhydramnios"
+   ],
+   "correct": 0,
+   "concept": "Rising placental vascular resistance first reduces, then abolishes and finally reverses end-diastolic flow, marking critical fetal compromise. Ductus venosus a-wave reversal is the last change before decompensation.",
+   "reference": "Williams Obstetrics 26e, Doppler Velocimetry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "M",
+   "stem": "Nuchal translucency for aneuploidy screening is measured between:",
+   "options": [
+    "11 and 13 plus 6 weeks",
+    "6 and 9 weeks",
+    "16 and 20 weeks",
+    "20 and 24 weeks"
+   ],
+   "correct": 0,
+   "concept": "Nuchal translucency is measured at a crown-rump length of 45 to 84 mm, combined with maternal age, free beta-hCG and PAPP-A in the first trimester combined test. Increased translucency suggests trisomy 21, 18, 13 or cardiac defects.",
+   "reference": "Williams Obstetrics 26e, Prenatal Diagnosis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "E",
+   "stem": "Maternal serum alpha-fetoprotein is characteristically raised in:",
+   "options": [
+    "Open neural tube defects",
+    "Trisomy 21",
+    "Gestational diabetes",
+    "Molar pregnancy"
+   ],
+   "correct": 0,
+   "concept": "Raised AFP occurs with open neural tube defects, abdominal wall defects, multiple pregnancy and wrong dates, whereas low AFP with low unconjugated oestriol and raised hCG suggests trisomy 21 on the triple test.",
+   "reference": "Williams Obstetrics 26e, Prenatal Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "H",
+   "stem": "Chorionic villus sampling is performed at which gestation, and carries what principal added risk over amniocentesis?",
+   "options": [
+    "10 to 13 weeks, with a higher fetal loss rate and limb reduction if done before 10 weeks",
+    "16 to 18 weeks with no added risk",
+    "20 weeks with risk of preterm labour",
+    "At term with risk of bleeding"
+   ],
+   "correct": 0,
+   "concept": "CVS is done at 10 to 13 weeks giving earlier results than amniocentesis at 15 to 18 weeks, but carries slightly higher pregnancy loss and, if performed before 10 weeks, limb reduction defects and oromandibular hypogenesis.",
+   "reference": "Williams Obstetrics 26e, Prenatal Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "H",
+   "stem": "Cell-free fetal DNA testing in maternal blood is best described as:",
+   "options": [
+    "A highly sensitive screening test that requires confirmation by invasive testing",
+    "A diagnostic test replacing amniocentesis",
+    "Useful only after 30 weeks",
+    "A test for neural tube defects"
+   ],
+   "correct": 0,
+   "concept": "Non-invasive prenatal testing analyses placental cell-free DNA from about 10 weeks with very high detection for trisomy 21, but a positive result is a screen positive and must be confirmed by karyotyping of amniotic fluid or villi.",
+   "reference": "Williams Obstetrics 26e, Prenatal Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_DX_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Diagnosis of pregnancy, antenatal imaging & fetal surveillance",
+   "difficulty": "M",
+   "stem": "Quickening, the first maternal perception of fetal movement, occurs in a primigravida at about:",
+   "options": [
+    "18 to 20 weeks",
+    "12 weeks",
+    "24 weeks",
+    "28 weeks"
+   ],
+   "correct": 0,
+   "concept": "A primigravida perceives movement at 18 to 20 weeks and a multigravida about two weeks earlier at 16 to 18 weeks, as she recognises the sensation sooner. It is a soft clinical marker of gestational age.",
+   "reference": "Williams Obstetrics 26e, Prenatal Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "E",
+   "stem": "Anaemia in pregnancy as per WHO is defined as haemoglobin below:",
+   "options": [
+    "11 g/dL",
+    "12 g/dL",
+    "10 g/dL",
+    "9 g/dL"
+   ],
+   "correct": 0,
+   "concept": "WHO defines anaemia in pregnancy as haemoglobin below 11 g/dL; the Indian national programme grades 10 to 10.9 as mild, 7 to 9.9 as moderate, below 7 as severe and below 4 g/dL as very severe or decompensated.",
+   "reference": "Park 27e, Anaemia in Pregnancy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "M",
+   "stem": "Parenteral iron in pregnancy is indicated when:",
+   "options": [
+    "Oral iron is not tolerated or absorbed, or anaemia is moderate with insufficient time before delivery",
+    "Haemoglobin is 11 g/dL",
+    "In the first trimester routinely",
+    "Only after delivery"
+   ],
+   "correct": 0,
+   "concept": "Intravenous iron sucrose or ferric carboxymaltose is used for intolerance or failure of oral iron, malabsorption, or moderate anaemia after the first trimester when there is too little time to correct by mouth. Blood transfusion is reserved for severe decompensated anaemia near term.",
+   "reference": "FOGSI Anaemia Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "M",
+   "stem": "Screening for gestational diabetes with the DIPSI single-step 75 g oral glucose test is positive when the 2-hour value is:",
+   "options": [
+    "140 mg/dL or more",
+    "200 mg/dL or more",
+    "120 mg/dL or more",
+    "100 mg/dL or more"
+   ],
+   "correct": 0,
+   "concept": "The Indian DIPSI approach gives 75 g glucose irrespective of fasting status and diagnoses gestational diabetes at a 2-hour value of 140 mg/dL or above, chosen for feasibility in community settings.",
+   "reference": "Government of India GDM Guidelines",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "E",
+   "stem": "The commonest fetal complication of poorly controlled gestational diabetes is:",
+   "options": [
+    "Macrosomia with shoulder dystocia risk",
+    "Intrauterine growth restriction",
+    "Oligohydramnios",
+    "Post-term pregnancy"
+   ],
+   "correct": 0,
+   "concept": "Fetal hyperinsulinaemia from maternal hyperglycaemia drives macrosomia with the risk of shoulder dystocia and birth trauma, along with neonatal hypoglycaemia, hypocalcaemia, polycythaemia and respiratory distress. Pre-gestational diabetes additionally causes congenital malformations.",
+   "reference": "Williams Obstetrics 26e, Diabetes in Pregnancy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "M",
+   "stem": "The oral hypoglycaemic agent most accepted in pregnancy when insulin is refused is:",
+   "options": [
+    "Metformin",
+    "Glibenclamide only in the first trimester",
+    "Pioglitazone",
+    "Sitagliptin"
+   ],
+   "correct": 0,
+   "concept": "Insulin remains the standard, but metformin is increasingly accepted, does not cause maternal hypoglycaemia and crosses the placenta without evidence of teratogenicity. Thiazolidinediones and gliptins are avoided.",
+   "reference": "KDT 8e, Insulin and Oral Hypoglycaemics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "M",
+   "stem": "The most dangerous cardiac lesion in pregnancy is:",
+   "options": [
+    "Pulmonary hypertension or Eisenmenger syndrome",
+    "Mild mitral stenosis",
+    "Small atrial septal defect",
+    "Corrected patent ductus arteriosus"
+   ],
+   "correct": 0,
+   "concept": "Pulmonary hypertension carries maternal mortality of 30 to 50% because the fixed pulmonary vascular resistance cannot accommodate the increased cardiac output, and pregnancy is contraindicated. Eisenmenger physiology worsens with the fall in systemic resistance.",
+   "reference": "Williams Obstetrics 26e, Cardiovascular Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "E",
+   "stem": "In a pregnant woman with rheumatic mitral stenosis, the period of greatest haemodynamic risk is:",
+   "options": [
+    "The second stage of labour and immediate postpartum period",
+    "The first trimester",
+    "16 weeks",
+    "6 weeks postpartum"
+   ],
+   "correct": 0,
+   "concept": "Cardiac output peaks in late second stage and immediately after delivery when uterine autotransfusion adds 500 mL to the circulation, precipitating pulmonary oedema. Second stage is therefore shortened with assisted delivery and epidural analgesia.",
+   "reference": "Williams Obstetrics 26e, Cardiovascular Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "H",
+   "stem": "Anticoagulation of choice in a pregnant woman with a mechanical heart valve is:",
+   "options": [
+    "Low molecular weight heparin, or warfarin only in the second trimester by specialist decision",
+    "Warfarin throughout",
+    "Aspirin alone",
+    "Direct oral anticoagulants"
+   ],
+   "correct": 0,
+   "concept": "Warfarin is teratogenic in the first trimester and causes fetal intracranial bleeding near term, so heparin is preferred; heparin does not cross the placenta. Direct oral anticoagulants are contraindicated in pregnancy.",
+   "reference": "KDT 8e, Anticoagulants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "H",
+   "stem": "Peripartum cardiomyopathy is defined as new-onset heart failure occurring:",
+   "options": [
+    "In the last month of pregnancy or within five months of delivery with no other cause",
+    "Only in the first trimester",
+    "At any time in a woman with prior heart disease",
+    "Only after twin delivery"
+   ],
+   "correct": 0,
+   "concept": "Peripartum cardiomyopathy presents with left ventricular systolic dysfunction in the last month of pregnancy or up to five months postpartum in the absence of another cause, and recurs in subsequent pregnancies, especially if ejection fraction does not normalise.",
+   "reference": "Williams Obstetrics 26e, Cardiovascular Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MED_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Medical disorders in pregnancy: anaemia, diabetes, heart disease",
+   "difficulty": "M",
+   "stem": "Antiepileptic drug most associated with neural tube defects when used in pregnancy is:",
+   "options": [
+    "Sodium valproate",
+    "Levetiracetam",
+    "Lamotrigine",
+    "Carbamazepine"
+   ],
+   "correct": 0,
+   "concept": "Valproate carries the highest risk of neural tube defects and neurodevelopmental impairment and is avoided in women of childbearing age. Levetiracetam and lamotrigine are preferred, with 5 mg folic acid periconceptionally.",
+   "reference": "KDT 8e, Antiepileptic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "E",
+   "stem": "Anti-D immunoglobulin is given to an Rh-negative mother:",
+   "options": [
+    "Within 72 hours of delivery of an Rh-positive baby and after any sensitising event",
+    "Only before conception",
+    "Only if the baby is Rh negative",
+    "Only in the first pregnancy"
+   ],
+   "correct": 0,
+   "concept": "Anti-D 300 micrograms is given within 72 hours of delivery of an Rh-positive infant, and after abortion, ectopic pregnancy, amniocentesis, external cephalic version or antepartum haemorrhage; routine antenatal prophylaxis is given at 28 weeks.",
+   "reference": "Williams Obstetrics 26e, Alloimmunisation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "M",
+   "stem": "The most sensitive non-invasive test to detect fetal anaemia in Rh isoimmunisation is:",
+   "options": [
+    "Middle cerebral artery peak systolic velocity on Doppler",
+    "Amniotic fluid index",
+    "Biparietal diameter",
+    "Maternal haemoglobin"
+   ],
+   "correct": 0,
+   "concept": "Anaemia lowers blood viscosity and raises cardiac output, increasing middle cerebral artery peak systolic velocity above 1.5 multiples of the median. It has replaced serial amniocentesis for bilirubin (Liley curve) in surveillance.",
+   "reference": "Williams Obstetrics 26e, Alloimmunisation",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "M",
+   "stem": "The Kleihauer-Betke test is used to:",
+   "options": [
+    "Quantify fetomaternal haemorrhage to calculate the anti-D dose",
+    "Diagnose Rh incompatibility",
+    "Measure fetal lung maturity",
+    "Detect maternal anaemia"
+   ],
+   "correct": 0,
+   "concept": "The acid-elution Kleihauer test counts fetal cells resistant to acid in the maternal circulation, quantifying fetomaternal haemorrhage so additional anti-D can be given when the bleed exceeds 15 mL of fetal red cells.",
+   "reference": "Williams Obstetrics 26e, Alloimmunisation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "E",
+   "stem": "The classical triad of congenital rubella syndrome is:",
+   "options": [
+    "Cataract, cardiac defect and deafness",
+    "Chorioretinitis, hydrocephalus and calcification",
+    "Hepatosplenomegaly, rash and jaundice",
+    "Limb defects, cleft palate and anaemia"
+   ],
+   "correct": 0,
+   "concept": "Congenital rubella causes cataract, patent ductus arteriosus or pulmonary artery stenosis and sensorineural deafness, with maximum risk in the first trimester. The intracranial calcification triad belongs to toxoplasmosis.",
+   "reference": "Park 27e, Rubella",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "M",
+   "stem": "The commonest congenital infection worldwide, and leading infectious cause of sensorineural deafness, is:",
+   "options": [
+    "Cytomegalovirus",
+    "Rubella",
+    "Toxoplasmosis",
+    "Syphilis"
+   ],
+   "correct": 0,
+   "concept": "Congenital CMV affects about 0.5 to 1% of births, causing periventricular calcification, microcephaly, chorioretinitis, hepatosplenomegaly and blueberry-muffin rash, and is the leading infectious cause of sensorineural hearing loss.",
+   "reference": "Nelson 21e, Cytomegalovirus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "M",
+   "stem": "To prevent mother-to-child transmission of HIV, the current recommendation is:",
+   "options": [
+    "Lifelong maternal antiretroviral therapy with infant prophylaxis and exclusive feeding of one type",
+    "Single-dose nevirapine to mother only",
+    "Caesarean section for all",
+    "Avoid all antiretrovirals in pregnancy"
+   ],
+   "correct": 0,
+   "concept": "Lifelong maternal ART reduces transmission to below 2%, with infant nevirapine prophylaxis and exclusive breastfeeding or exclusive replacement feeding, never mixed feeding. Vaginal delivery is acceptable when the viral load is suppressed.",
+   "reference": "NACO PPTCT Guidelines",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "E",
+   "stem": "Congenital syphilis is best prevented by:",
+   "options": [
+    "Screening with VDRL at the first antenatal visit and treating with benzathine penicillin",
+    "Screening at delivery only",
+    "Doxycycline in the third trimester",
+    "No screening required"
+   ],
+   "correct": 0,
+   "concept": "Universal VDRL or RPR screening at booking with benzathine penicillin treatment prevents almost all congenital syphilis; penicillin is the only adequate drug and penicillin-allergic women are desensitised rather than given alternatives.",
+   "reference": "Park 27e, Syphilis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "H",
+   "stem": "Primary varicella infection in pregnancy carries greatest risk of congenital varicella syndrome when acquired:",
+   "options": [
+    "Between 8 and 20 weeks of gestation",
+    "In the first 4 weeks",
+    "At 30 weeks",
+    "At term"
+   ],
+   "correct": 0,
+   "concept": "Congenital varicella syndrome - limb hypoplasia, cicatricial skin scarring, chorioretinitis and cortical atrophy - is greatest between 8 and 20 weeks. Maternal infection within 5 days before to 2 days after delivery risks severe neonatal varicella and needs VZIG.",
+   "reference": "Nelson 21e, Varicella",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "H",
+   "stem": "Hepatitis E in pregnancy is important because it:",
+   "options": [
+    "Causes fulminant hepatic failure with mortality up to 20 percent in the third trimester",
+    "Is asymptomatic in pregnancy",
+    "Causes chronic hepatitis",
+    "Is prevented by immunoglobulin"
+   ],
+   "correct": 0,
+   "concept": "Hepatitis E has a markedly increased case fatality in the third trimester with fulminant hepatic failure, obstetric haemorrhage and high fetal loss. Prevention is through safe drinking water as no vaccine is widely available in India.",
+   "reference": "Park 27e, Viral Hepatitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INF_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infections in pregnancy & Rh isoimmunisation",
+   "difficulty": "M",
+   "stem": "Asymptomatic bacteriuria in pregnancy must be treated because untreated it leads to:",
+   "options": [
+    "Pyelonephritis, preterm labour and low birth weight",
+    "No adverse outcome",
+    "Gestational diabetes",
+    "Polyhydramnios"
+   ],
+   "correct": 0,
+   "concept": "Up to 30% of untreated asymptomatic bacteriuria progresses to acute pyelonephritis in pregnancy with preterm labour and low birth weight, so all pregnant women are screened by urine culture and treated.",
+   "reference": "Williams Obstetrics 26e, Renal Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "E",
+   "stem": "The commonest type of breech presentation is:",
+   "options": [
+    "Frank (extended) breech",
+    "Complete (flexed) breech",
+    "Footling breech",
+    "Knee presentation"
+   ],
+   "correct": 0,
+   "concept": "Frank breech with hips flexed and knees extended accounts for about 60 to 70% and has the lowest risk of cord prolapse. Footling breech carries the highest risk and is a contraindication to vaginal delivery.",
+   "reference": "DC Dutta Obstetrics 9e, Breech",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "M",
+   "stem": "External cephalic version for breech presentation is usually attempted at:",
+   "options": [
+    "36 to 37 weeks in a nulliparous woman",
+    "28 weeks",
+    "32 weeks",
+    "At the onset of labour"
+   ],
+   "correct": 0,
+   "concept": "Version is offered at 36 to 37 weeks in nulliparas and from 37 weeks in multiparas, when spontaneous version is unlikely but delivery can follow if complications arise. Contraindications include placenta praevia, ruptured membranes and prior classical caesarean.",
+   "reference": "DC Dutta Obstetrics 9e, Breech",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "M",
+   "stem": "Bandl's ring in obstructed labour represents:",
+   "options": [
+    "A pathological retraction ring at the junction of upper and lower uterine segments",
+    "A cervical constriction",
+    "A fibroid",
+    "A full bladder"
+   ],
+   "correct": 0,
+   "concept": "Persistent obstruction causes progressive retraction of the upper segment, producing a visible transverse groove across the abdomen - Bandl's ring - with a distended lower segment and impending rupture. It is an obstetric emergency.",
+   "reference": "DC Dutta Obstetrics 9e, Obstructed Labour",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "E",
+   "stem": "The commonest cause of obstructed labour in India is:",
+   "options": [
+    "Cephalopelvic disproportion",
+    "Uterine fibroid",
+    "Ovarian cyst",
+    "Fetal anomaly"
+   ],
+   "correct": 0,
+   "concept": "Cephalopelvic disproportion, often from a contracted pelvis in a short or malnourished woman, is the leading cause, followed by malpresentation and malposition such as deep transverse arrest and brow presentation.",
+   "reference": "DC Dutta Obstetrics 9e, Obstructed Labour",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "M",
+   "stem": "Which presentation is absolutely incompatible with vaginal delivery at term in a living fetus?",
+   "options": [
+    "Brow presentation with a persistent mento-vertical diameter",
+    "Occipito-anterior",
+    "Frank breech in a multipara",
+    "Face presentation with mento-anterior"
+   ],
+   "correct": 0,
+   "concept": "Brow presentation presents the mento-vertical diameter of about 13.5 cm, the largest, and cannot deliver vaginally unless it converts to face or vertex. Mento-anterior face presentation can deliver vaginally.",
+   "reference": "DC Dutta Obstetrics 9e, Malpresentation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "M",
+   "stem": "Shoulder dystocia is initially managed by:",
+   "options": [
+    "McRoberts manoeuvre with suprapubic pressure",
+    "Immediate fundal pressure",
+    "Immediate caesarean section",
+    "Strong downward traction on the head"
+   ],
+   "correct": 0,
+   "concept": "McRoberts hyperflexion of the maternal hips with suprapubic pressure resolves most cases. Fundal pressure is contraindicated as it worsens impaction, and excessive traction causes brachial plexus injury.",
+   "reference": "Williams Obstetrics 26e, Shoulder Dystocia",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "E",
+   "stem": "The commonest cause of a prolonged second stage in a nullipara is:",
+   "options": [
+    "Persistent occipito-posterior position",
+    "Twin pregnancy",
+    "Polyhydramnios",
+    "Placenta praevia"
+   ],
+   "correct": 0,
+   "concept": "Persistent occipito-posterior position presents a larger diameter and causes deflexion, prolonged labour with early backache and a strong urge to push before full dilatation. Most rotate spontaneously to occipito-anterior.",
+   "reference": "DC Dutta Obstetrics 9e, Malposition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "H",
+   "stem": "A partogram crossing the action line indicates:",
+   "options": [
+    "Failure to progress requiring intervention",
+    "Normal labour",
+    "Fetal distress",
+    "Imminent delivery"
+   ],
+   "correct": 0,
+   "concept": "The WHO partogram plots cervical dilatation against time with alert and action lines; crossing the alert line prompts transfer to a facility, and crossing the action line requires assessment and intervention such as augmentation or caesarean.",
+   "reference": "WHO Partograph; Park 27e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "H",
+   "stem": "The most reliable clinical sign of obstructed labour with impending rupture is:",
+   "options": [
+    "Maternal tachycardia with a tender uterus, haematuria and cessation of contractions after a Bandl ring",
+    "A single late deceleration",
+    "Mild pyrexia",
+    "Slow descent alone"
+   ],
+   "correct": 0,
+   "concept": "Established obstruction produces maternal exhaustion and dehydration, a tender continuously contracting uterus with a Bandl ring, haematuria from bladder compression, and then sudden cessation of pain with shock when rupture occurs.",
+   "reference": "DC Dutta Obstetrics 9e, Rupture Uterus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ABL_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Abnormal labour: malpresentation, obstructed labour, CPD",
+   "difficulty": "M",
+   "stem": "Symphysiotomy or destructive operations are now largely replaced by:",
+   "options": [
+    "Caesarean section",
+    "Forceps delivery",
+    "Vacuum extraction",
+    "Version"
+   ],
+   "correct": 0,
+   "concept": "With safe anaesthesia and blood availability, caesarean section has replaced destructive procedures such as craniotomy and decapitation, which are now reserved for a dead fetus in obstructed labour where caesarean is unavailable.",
+   "reference": "DC Dutta Obstetrics 9e, Destructive Operations",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

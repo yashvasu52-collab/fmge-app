@@ -1,0 +1,44 @@
+Q_MED_NUT_001 | del | duplicate of Q_MED_NUT_011, which presents the same thiamine deficiency as a clinical case. The vignette is retained
+Q_MED_NUT_002 | del | duplicate of Q_MED_NUT_013, which gives the same triad in the maize-eating context. The applied item is retained
+Q_MED_NUT_018 | del | duplicate of Q_MED_NUT_009 on selenium deficiency causing Keshan cardiomyopathy. The first item is retained
+Q_MED_OBM_003 | del | duplicate of Q_MED_OBM_012, which presents the same atherogenic lipid pattern with actual values. The applied item is retained
+Q_MED_OBM_006 | del | duplicate of Q_MED_OBM_014, which identifies familial hypercholesterolaemia from its clinical features. The applied item is retained
+Q_MED_MDN_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction | a neuromuscular junction item was cited to the muscular dystrophies chapter
+Q_MED_MDN_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction | a neuromuscular junction item was cited to the muscular dystrophies chapter
+Q_MED_MDN_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction | a neuromuscular junction item was cited to the muscular dystrophies chapter
+Q_MED_MDN_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction | a neuromuscular junction item was cited to the muscular dystrophies chapter
+Q_MED_MDN_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Inflammatory Myopathies | an inflammatory myopathy item was cited to the muscular dystrophies chapter
+Q_MED_MDN_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Amyotrophic Lateral Sclerosis and Other Motor Neuron Diseases | a motor neuron disease item was cited to the muscular dystrophies chapter
+Q_MED_NUT_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 331 (Vitamin and Trace Mineral Deficiency) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_NUT_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 331 (Vitamin and Trace Mineral Deficiency) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_NUT_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 331 (Vitamin and Trace Mineral Deficiency) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_NUT_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 331 (Vitamin and Trace Mineral Deficiency) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_OBM_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 407 (Obesity) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_OBM_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 407 (Obesity) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_OBM_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 407 (Obesity) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_OBM_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_OBM_012 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_OBM_013 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_OBM_014 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_OBM_015 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_OBM_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_OBM_018 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_OBM_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of Lipoprotein Metabolism | the reference repeated the same chapter number for two different chapters; a lipoprotein item is cited to the lipoprotein chapter
+Q_MED_PAN_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute and Chronic Pancreatitis | the chapter bundled pancreatitis with liver failure; a pancreatitis item is cited to the pancreatitis chapter
+Q_MED_PAN_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute and Chronic Pancreatitis | the chapter bundled pancreatitis with liver failure; a pancreatitis item is cited to the pancreatitis chapter
+Q_MED_PAN_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute and Chronic Pancreatitis | the chapter bundled pancreatitis with liver failure; a pancreatitis item is cited to the pancreatitis chapter
+Q_MED_PAN_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute and Chronic Pancreatitis | the chapter bundled pancreatitis with liver failure; a pancreatitis item is cited to the pancreatitis chapter
+Q_MED_PAN_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Malabsorption Syndromes | a malabsorption item was cited to the pancreatitis and liver failure chapter
+Q_MED_PAN_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Malabsorption Syndromes | a malabsorption item was cited to the pancreatitis and liver failure chapter
+Q_MED_PAN_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute Liver Failure | the chapter bundled pancreatitis with liver failure; a liver failure item is cited to the liver failure chapter
+Q_MED_MDN_008 | ok |
+Q_MED_NUT_003 | ok |
+Q_MED_NUT_011 | ok |
+Q_MED_NUT_013 | ok |
+Q_MED_NUT_017 | ok |
+Q_MED_OBM_001 | ok |
+Q_MED_OBM_004 | ok |
+Q_MED_OBM_005 | ok |
+Q_MED_OBM_008 | ok |
+Q_MED_PAN_007 | ok |
+Q_MED_PAN_009 | ok |

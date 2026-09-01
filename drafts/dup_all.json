@@ -1,0 +1,803 @@
+[
+ {
+  "stem": 0.57,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Anaemias & haematinic deficiencies",
+  "a": "Q_MED_ANE_002",
+  "b": "Q_MED_ANE_011",
+  "ans_text": "Fall in serum ferritin"
+ },
+ {
+  "stem": 0.57,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+  "a": "Q_MED_ZOO_005",
+  "b": "Q_MED_ZOO_012",
+  "ans_text": "Doxycycline"
+ },
+ {
+  "stem": 0.57,
+  "ans": 1.0,
+  "subject": "Pediatrics",
+  "topic": "Respiratory distress in the newborn & neonatal seizures",
+  "a": "Q_PED_RDS_008",
+  "b": "Q_PED_RDS_018",
+  "ans_text": "Phenobarbitone"
+ },
+ {
+  "stem": 0.5,
+  "ans": 1.0,
+  "subject": "ENT",
+  "topic": "Oral cavity, salivary gland & pharyngeal disease",
+  "a": "Q_ENT_ORL_008",
+  "b": "Q_ENT_ORL_013",
+  "ans_text": "Erythroplakia"
+ },
+ {
+  "stem": 0.5,
+  "ans": 1.0,
+  "subject": "Microbiology",
+  "topic": "Clostridia & anaerobes (tetanus, gas gangrene, botulism)",
+  "a": "Q_MIC_CLO_006",
+  "b": "Q_MIC_CLO_014",
+  "ans_text": "Human tetanus immunoglobulin plus tetanus toxo"
+ },
+ {
+  "stem": 0.5,
+  "ans": 1.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Child health programmes, IMNCI & school health",
+  "a": "Q_PSM_CHI_008",
+  "b": "Q_PSM_CHI_014",
+  "ans_text": "Defects at birth, Deficiencies, Diseases and D"
+ },
+ {
+  "stem": 0.55,
+  "ans": 0.9,
+  "subject": "Pathology",
+  "topic": "Cell injury, adaptation, necrosis vs apoptosis",
+  "a": "Q_c1_002",
+  "b": "Q_PAT_CIA_004",
+  "ans_text": "Severe plasma-membrane damage with mitochondri"
+ },
+ {
+  "stem": 0.45,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Arrhythmias & ECG interpretation",
+  "a": "Q_MED_ARR_003",
+  "b": "Q_MED_ARR_017",
+  "ans_text": "Wolff-Parkinson-White syndrome"
+ },
+ {
+  "stem": 0.44,
+  "ans": 1.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Infertility & assisted reproduction",
+  "a": "Q_OBG_INFT_006",
+  "b": "Q_OBG_INFT_014",
+  "ans_text": "Letrozole"
+ },
+ {
+  "stem": 0.44,
+  "ans": 1.0,
+  "subject": "Physiology",
+  "topic": "Cardiac output, regional circulations & exercise",
+  "a": "Q_PY_CO_002",
+  "b": "Q_PY_CO_011",
+  "ans_text": "Oxygen consumption divided by the arteriovenou"
+ },
+ {
+  "stem": 0.43,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Arrhythmias & ECG interpretation",
+  "a": "Q_MED_ARR_004",
+  "b": "Q_MED_ARR_014",
+  "ans_text": "Adenosine"
+ },
+ {
+  "stem": 0.43,
+  "ans": 1.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Gestational trophoblastic disease & vulvo-vaginal lesions",
+  "a": "Q_OBG_GTD_001",
+  "b": "Q_OBG_GTD_012",
+  "ans_text": "46,XX entirely of paternal origin (diploid and"
+ },
+ {
+  "stem": 0.42,
+  "ans": 1.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Menopause, HRT & osteoporosis",
+  "a": "Q_OBG_MEN_007",
+  "b": "Q_OBG_MEN_017",
+  "ans_text": "A bisphosphonate with calcium and vitamin D"
+ },
+ {
+  "stem": 0.42,
+  "ans": 1.0,
+  "subject": "Microbiology",
+  "topic": "Specimen collection, serology & molecular diagnostics",
+  "a": "Q_MIC_SPC_002",
+  "b": "Q_MIC_SPC_013",
+  "ans_text": "Blood culture"
+ },
+ {
+  "stem": 0.4,
+  "ans": 1.0,
+  "subject": "ENT",
+  "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+  "a": "Q_ENT_NAS_002",
+  "b": "Q_ENT_NAS_012",
+  "ans_text": "Nasal polyposis, asthma and aspirin sensitivit"
+ },
+ {
+  "stem": 0.4,
+  "ans": 1.0,
+  "subject": "Microbiology",
+  "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+  "a": "Q_MIC_COR_002",
+  "b": "Q_MIC_COR_011",
+  "ans_text": "ADP-ribosylating elongation factor 2, halting "
+ },
+ {
+  "stem": 0.5,
+  "ans": 0.89,
+  "subject": "Surgery",
+  "topic": "Burns & basics of plastic surgery",
+  "a": "Q_SUR_BRN_004",
+  "b": "Q_SUR_BRN_013",
+  "ans_text": "Facial burns with singed nasal hair, soot in t"
+ },
+ {
+  "stem": 0.38,
+  "ans": 1.0,
+  "subject": "Pediatrics",
+  "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+  "a": "Q_PED_END_005",
+  "b": "Q_PED_END_013",
+  "ans_text": "Autoimmune (Hashimoto) thyroiditis"
+ },
+ {
+  "stem": 0.36,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Movement disorders, Parkinson's disease & dementia",
+  "a": "Q_MED_MOV_008",
+  "b": "Q_MED_MOV_018",
+  "ans_text": "Progressive supranuclear palsy"
+ },
+ {
+  "stem": 0.36,
+  "ans": 1.0,
+  "subject": "Surgery",
+  "topic": "Fluid, electrolyte & nutritional support in surgery",
+  "a": "Q_SUR_FLU_005",
+  "b": "Q_SUR_FLU_015",
+  "ans_text": "Catheter-related bloodstream infection"
+ },
+ {
+  "stem": 0.34,
+  "ans": 1.0,
+  "subject": "Pathology",
+  "topic": "CNS tumors & basics",
+  "a": "Q_GEN_PATH_SYS_CNS_004",
+  "b": "Q_h3a_015",
+  "ans_text": "Medulloblastoma"
+ },
+ {
+  "stem": 0.33,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Glomerular disease & nephrotic syndrome",
+  "a": "Q_MED_GN_002",
+  "b": "Q_MED_GN_012",
+  "ans_text": "Focal segmental glomerulosclerosis"
+ },
+ {
+  "stem": 0.33,
+  "ans": 1.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Genital infections, PID & STIs in women",
+  "a": "Q_OBG_PID_001",
+  "b": "Q_OBG_PID_011",
+  "ans_text": "Bacterial vaginosis"
+ },
+ {
+  "stem": 0.3,
+  "ans": 1.0,
+  "subject": "Pediatrics",
+  "topic": "Paediatric nephrology: nephrotic syndrome, UTI, AGN",
+  "a": "Q_PED_NEP_003",
+  "b": "Q_PED_NEP_013",
+  "ans_text": "Spontaneous bacterial peritonitis due to Strep"
+ },
+ {
+  "stem": 0.29,
+  "ans": 1.0,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_024",
+  "b": "Q_PYQ_FMGE_2026JAN_046",
+  "ans_text": "Vitamin A"
+ },
+ {
+  "stem": 0.54,
+  "ans": 0.75,
+  "subject": "Medicine",
+  "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+  "a": "Q_MED_HIV_003",
+  "b": "Q_MED_HIV_013",
+  "ans_text": "200 per microlitre"
+ },
+ {
+  "stem": 0.29,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Pituitary, parathyroid & calcium disorders",
+  "a": "Q_MED_PIT_006",
+  "b": "Q_MED_PIT_013",
+  "ans_text": "High calcium, low phosphate, high parathyroid "
+ },
+ {
+  "stem": 0.27,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Leukaemias, lymphomas & plasma cell disorders",
+  "a": "Q_MED_HEM_005",
+  "b": "Q_MED_HEM_013",
+  "ans_text": "Hodgkin lymphoma"
+ },
+ {
+  "stem": 0.27,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Leukaemias, lymphomas & plasma cell disorders",
+  "a": "Q_MED_HEM_006",
+  "b": "Q_MED_HEM_018",
+  "ans_text": "Burkitt lymphoma"
+ },
+ {
+  "stem": 0.25,
+  "ans": 1.0,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_035",
+  "b": "Q_PYQ_FMGE_2026JAN_046",
+  "ans_text": "Vitamin K"
+ },
+ {
+  "stem": 0.25,
+  "ans": 1.0,
+  "subject": "Medicine",
+  "topic": "Hypertension: evaluation, secondary causes, management",
+  "a": "Q_MED_HTN_003",
+  "b": "Q_MED_HTN_005",
+  "ans_text": "Labetalol"
+ },
+ {
+  "stem": 0.25,
+  "ans": 1.0,
+  "subject": "Pediatrics",
+  "topic": "Acute respiratory infection, pneumonia & bronchiolitis",
+  "a": "Q_PED_ARI_004",
+  "b": "Q_PED_ARI_013",
+  "ans_text": "Respiratory syncytial virus"
+ },
+ {
+  "stem": 0.25,
+  "ans": 1.0,
+  "subject": "Pathology",
+  "topic": "Breast pathology",
+  "a": "Q_PAT_BRE_008",
+  "b": "Q_PAT_BRE_012",
+  "ans_text": "Intraductal papilloma"
+ },
+ {
+  "stem": 0.24,
+  "ans": 1.0,
+  "subject": "Pharmacology",
+  "topic": "Heart failure, antiarrhythmics, antianginals",
+  "a": "Q_GEN_PHAR_CVS_HF_ARR_019",
+  "b": "Q_GEN_PHAR_CVS_HF_ARR_023",
+  "ans_text": "A is true, but R is false"
+ },
+ {
+  "stem": 0.24,
+  "ans": 1.0,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Nutritional requirements & deficiency diseases",
+  "a": "Q_c1_099",
+  "b": "Q_h3b_042",
+  "ans_text": "Kwashiorkor"
+ },
+ {
+  "stem": 0.22,
+  "ans": 1.0,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_024",
+  "b": "Q_PYQ_FMGE_2026JAN_035",
+  "ans_text": "Vitamin A"
+ },
+ {
+  "stem": 0.22,
+  "ans": 1.0,
+  "subject": "Surgery",
+  "topic": "Paediatric surgery: intussusception, pyloric stenosis, hypospadias",
+  "a": "Q_SUR_PDS_004",
+  "b": "Q_SUR_PDS_015",
+  "ans_text": "Peritonitis, perforation or haemodynamic insta"
+ },
+ {
+  "stem": 0.33,
+  "ans": 0.86,
+  "subject": "ENT",
+  "topic": "Anatomy & physiology of the ear; audiological tests",
+  "a": "Q_ENT_AUD_004",
+  "b": "Q_ENT_AUD_017",
+  "ans_text": "Otoacoustic emissions with automated brainstem"
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.62,
+  "subject": "Pathology",
+  "topic": "Cytopathology, IHC, autopsy & lab techniques",
+  "a": "Q_PAT_CYT_003",
+  "b": "Q_PAT_CYT_013",
+  "ans_text": "Ten percent neutral buffered formalin"
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.62,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+  "a": "Q_PSM_HCD_005",
+  "b": "Q_PSM_HCD_015",
+  "ans_text": "Define minimum assured standards of infrastruc"
+ },
+ {
+  "stem": 0.5,
+  "ans": 0.67,
+  "subject": "Microbiology",
+  "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+  "a": "Q_MIC_HEL_005",
+  "b": "Q_MIC_HEL_015",
+  "ans_text": "Ascaris lumbricoides and hookworm"
+ },
+ {
+  "stem": 0.55,
+  "ans": 0.6,
+  "subject": "Medicine",
+  "topic": "Nutritional & vitamin deficiency states in adults",
+  "a": "Q_MED_NUT_010",
+  "b": "Q_MED_NUT_016",
+  "ans_text": "Hypophosphataemia with hypokalaemia, hypomagne"
+ },
+ {
+  "stem": 0.31,
+  "ans": 0.83,
+  "subject": "Anatomy",
+  "topic": "Spinal cord tracts & lesions",
+  "a": "Q_GEN_ANAT_NEURO_TRACTS_003",
+  "b": "Q_GEN_ANAT_NEURO_TRACTS_012",
+  "ans_text": "Dorsal columns and lateral corticospinal tract"
+ },
+ {
+  "stem": 0.46,
+  "ans": 0.67,
+  "subject": "Dermatology",
+  "topic": "Leprosy (types, lepra reactions)",
+  "a": "Q_GEN_DERM_LEPROSY_011",
+  "b": "Q_GEN_DERM_LEPROSY_012",
+  "ans_text": "Rifampicin 600 mg once monthly (supervised) pl"
+ },
+ {
+  "stem": 0.46,
+  "ans": 0.67,
+  "subject": "Medicine",
+  "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+  "a": "Q_MED_COAG_005",
+  "b": "Q_MED_COAG_011",
+  "ans_text": "A factor deficiency"
+ },
+ {
+  "stem": 0.25,
+  "ans": 0.88,
+  "subject": "Physiology",
+  "topic": "Cardiac output, regional circulations & exercise",
+  "a": "Q_PY_CO_008",
+  "b": "Q_PY_CO_017",
+  "ans_text": "Stroke volume divided by end-diastolic volume,"
+ },
+ {
+  "stem": 0.5,
+  "ans": 0.62,
+  "subject": "Pediatrics",
+  "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+  "a": "Q_PED_NEU_001",
+  "b": "Q_PED_NEU_011",
+  "ans_text": "A generalised seizure under 15 minutes, not re"
+ },
+ {
+  "stem": 0.67,
+  "ans": 0.43,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Water/waste, biomedical waste, vital statistics",
+  "a": "Q_c1_101",
+  "b": "Q_PSM_WWB_006",
+  "ans_text": "Human anatomical waste, soiled waste and expir"
+ },
+ {
+  "stem": 0.29,
+  "ans": 0.8,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Menopause, HRT & osteoporosis",
+  "a": "Q_OBG_MEN_001",
+  "b": "Q_OBG_MEN_011",
+  "ans_text": "Twelve consecutive months of amenorrhoea"
+ },
+ {
+  "stem": 0.38,
+  "ans": 0.7,
+  "subject": "Pediatrics",
+  "topic": "Behavioural & developmental disorders; adolescent health",
+  "a": "Q_PED_BEH_002",
+  "b": "Q_PED_BEH_011",
+  "ans_text": "Persistent deficits in social communication wi"
+ },
+ {
+  "stem": 0.33,
+  "ans": 0.75,
+  "subject": "ENT",
+  "topic": "Vertigo, Meniere's disease & facial nerve palsy",
+  "a": "Q_ENT_VER_001",
+  "b": "Q_ENT_VER_012",
+  "ans_text": "Episodic vertigo, fluctuating sensorineural he"
+ },
+ {
+  "stem": 0.5,
+  "ans": 0.57,
+  "subject": "Pediatrics",
+  "topic": "Paediatric endocrinology: short stature, hypothyroidism, diabetes",
+  "a": "Q_PED_END_002",
+  "b": "Q_PED_END_019",
+  "ans_text": "Low growth velocity with delayed bone age and "
+ },
+ {
+  "stem": 0.23,
+  "ans": 0.83,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Association & causation, bias, confounding, measures of risk",
+  "a": "Q_PS_CAU_005",
+  "b": "Q_PSM_ACB_007",
+  "ans_text": "Temporality - the exposure must precede the ou"
+ },
+ {
+  "stem": 0.43,
+  "ans": 0.6,
+  "subject": "Pediatrics",
+  "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+  "a": "Q_PED_HEM_005",
+  "b": "Q_PED_HEM_014",
+  "ans_text": "Acute lymphoblastic leukaemia"
+ },
+ {
+  "stem": 0.36,
+  "ans": 0.67,
+  "subject": "Pediatrics",
+  "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+  "a": "Q_PED_NEU_005",
+  "b": "Q_PED_NEU_014",
+  "ans_text": "Lymphocytic pleocytosis with high protein and "
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.46,
+  "subject": "ENT",
+  "topic": "Nasal polyps, granulomatous disease & tumours of nose and PNS",
+  "a": "Q_ENT_NAS_001",
+  "b": "Q_ENT_NAS_011",
+  "ans_text": "Usually single, unilateral, arises from the ma"
+ },
+ {
+  "stem": 0.38,
+  "ans": 0.64,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Physiological changes in pregnancy & fetal development",
+  "a": "Q_OBG_PHY_004",
+  "b": "Q_OBG_PHY_014",
+  "ans_text": "Glomerular filtration rate rises about 50 perc"
+ },
+ {
+  "stem": 0.43,
+  "ans": 0.59,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Maternal health, RCH & safe motherhood programmes",
+  "a": "Q_PSM_MAT_004",
+  "b": "Q_PSM_MAT_013",
+  "ans_text": "Elemental iron 60 mg with folic acid 500 micro"
+ },
+ {
+  "stem": 0.33,
+  "ans": 0.67,
+  "subject": "Medicine",
+  "topic": "Glomerular disease & nephrotic syndrome",
+  "a": "Q_MED_GN_008",
+  "b": "Q_MED_GN_016",
+  "ans_text": "Phospholipase A2 receptor (PLA2R)"
+ },
+ {
+  "stem": 0.56,
+  "ans": 0.44,
+  "subject": "Pathology",
+  "topic": "Immunodeficiency, transplant rejection & HLA",
+  "a": "Q_PAT_IMM_002",
+  "b": "Q_PAT_IMM_014",
+  "ans_text": "Interstitial mononuclear infiltrate with tubul"
+ },
+ {
+  "stem": 0.36,
+  "ans": 0.62,
+  "subject": "Surgery",
+  "topic": "Head injury & neurosurgical emergencies",
+  "a": "Q_SUR_HED_007",
+  "b": "Q_SUR_HED_014",
+  "ans_text": "Mean arterial pressure minus intracranial pres"
+ },
+ {
+  "stem": 0.56,
+  "ans": 0.4,
+  "subject": "Microbiology",
+  "topic": "Hospital-acquired infection, biomedical waste & infection control",
+  "a": "Q_MIC_HAI_001",
+  "b": "Q_MIC_HAI_011",
+  "ans_text": "Hand hygiene"
+ },
+ {
+  "stem": 0.29,
+  "ans": 0.67,
+  "subject": "Pharmacology",
+  "topic": "Pharmacokinetics/dynamics, receptors",
+  "a": "Q_c1d_004",
+  "b": "Q_c1d_005",
+  "ans_text": "Competitive antagonist"
+ },
+ {
+  "stem": 0.23,
+  "ans": 0.73,
+  "subject": "Microbiology",
+  "topic": "Hepatitis viruses (serology markers)",
+  "a": "Q_GEN_MICRO_VIR_HEP_001",
+  "b": "Q_GEN_MICRO_VIR_HEP_017",
+  "ans_text": "A non-enveloped, single-stranded (positive-sen"
+ },
+ {
+  "stem": 0.36,
+  "ans": 0.6,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Third-stage complications, retained placenta & uterine inversion",
+  "a": "Q_OBG_THI_003",
+  "b": "Q_OBG_THI_011",
+  "ans_text": "30 minutes of active management of the third s"
+ },
+ {
+  "stem": 0.36,
+  "ans": 0.6,
+  "subject": "Physiology",
+  "topic": "Reproductive physiology, pregnancy & lactation",
+  "a": "Q_PY_REP_002",
+  "b": "Q_PY_REP_013",
+  "ans_text": "Human chorionic gonadotropin from the trophobl"
+ },
+ {
+  "stem": 0.28,
+  "ans": 0.67,
+  "subject": "Anatomy",
+  "topic": "Lower limb: femoral/sciatic nerve, foot drop",
+  "a": "Q_PYQ_FMGE_2026JUN_010",
+  "b": "Q_AN_LL_002",
+  "ans_text": "Common peroneal nerve"
+ },
+ {
+  "stem": 0.33,
+  "ans": 0.62,
+  "subject": "Pharmacology",
+  "topic": "Anticoagulants, antiplatelets, thrombolytics & hypolipidaemics",
+  "a": "Q_PH_ACG_002",
+  "b": "Q_PH_ACG_014",
+  "ans_text": "Existing clotting factors must be cleared, wit"
+ },
+ {
+  "stem": 0.27,
+  "ans": 0.67,
+  "subject": "Microbiology",
+  "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+  "a": "Q_MIC_HEL_004",
+  "b": "Q_MIC_HEL_013",
+  "ans_text": "Enterobius vermicularis (pinworm)"
+ },
+ {
+  "stem": 0.25,
+  "ans": 0.67,
+  "subject": "Medicine",
+  "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+  "a": "Q_MED_COAG_006",
+  "b": "Q_MED_COAG_016",
+  "ans_text": "Factor V Leiden mutation"
+ },
+ {
+  "stem": 0.25,
+  "ans": 0.67,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Prolapse, urogynaecology & genital fistula",
+  "a": "Q_OBG_PRO_009",
+  "b": "Q_OBG_PRO_019",
+  "ans_text": "Abdominal or laparoscopic sacrocolpopexy"
+ },
+ {
+  "stem": 0.25,
+  "ans": 0.67,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Health care delivery: PHC/CHC, HWC, ASHA & IPHS",
+  "a": "Q_PSM_HCD_002",
+  "b": "Q_PSM_HCD_013",
+  "ans_text": "Four - physician, surgeon, obstetrician-gynaec"
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.33,
+  "subject": "Pharmacology",
+  "topic": "Cholinergic & anticholinergic drugs",
+  "a": "Q_c1_030",
+  "b": "Q_PH_CAD_002",
+  "ans_text": "Physostigmine"
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.33,
+  "subject": "Pediatrics",
+  "topic": "Newborn assessment, prematurity & low birth weight",
+  "a": "Q_PED_NB_001",
+  "b": "Q_PED_NB_011",
+  "ans_text": "2500 g"
+ },
+ {
+  "stem": 0.25,
+  "ans": 0.62,
+  "subject": "Physiology",
+  "topic": "Special senses, CSF, temperature regulation & sleep",
+  "a": "Q_PY_SEN_007",
+  "b": "Q_PY_SEN_017",
+  "ans_text": "Loss of lens elasticity reducing accommodation"
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.29,
+  "subject": "Pediatrics",
+  "topic": "Paediatric haematology-oncology: anaemias, thalassaemia, leukaemia",
+  "a": "Q_PED_HEM_001",
+  "b": "Q_PED_HEM_011",
+  "ans_text": "Iron deficiency"
+ },
+ {
+  "stem": 0.26,
+  "ans": 0.56,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Screening: sensitivity/specificity/PPV",
+  "a": "Q_GEN_PSM_EPI_SCREEN_010",
+  "b": "Q_GEN_PSM_EPI_SCREEN_011",
+  "ans_text": "Increases net specificity and PPV but decrease"
+ },
+ {
+  "stem": 0.24,
+  "ans": 0.58,
+  "subject": "Pharmacology",
+  "topic": "Antibiotics: classes, MOA, resistance, DoC",
+  "a": "Q_h3a_039",
+  "b": "Q_PH_ACM_002",
+  "ans_text": "Concentration-dependent killing with a prolong"
+ },
+ {
+  "stem": 0.25,
+  "ans": 0.57,
+  "subject": "Microbiology",
+  "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+  "a": "Q_MIC_COR_007",
+  "b": "Q_MIC_COR_016",
+  "ans_text": "Aerobic and partially acid-fast"
+ },
+ {
+  "stem": 0.8,
+  "ans": 0.0,
+  "subject": "ENT",
+  "topic": "Oral cavity, salivary gland & pharyngeal disease",
+  "a": "Q_ENT_ORL_001",
+  "b": "Q_ENT_ORL_003",
+  "ans_text": "Pleomorphic adenoma of the parotid"
+ },
+ {
+  "stem": 0.23,
+  "ans": 0.57,
+  "subject": "Surgery",
+  "topic": "Breast lumps & carcinoma breast",
+  "a": "Q_h3c_030",
+  "b": "Q_SUR_BLC_002",
+  "ans_text": "Sentinel lymph node biopsy"
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.18,
+  "subject": "Anaesthesia",
+  "topic": "Local anaesthetics (max doses, toxicity)",
+  "a": "Q_GEN_ANAES_LA_009",
+  "b": "Q_AN_RA_007",
+  "ans_text": "Cause local vasoconstriction, prolonging the b"
+ },
+ {
+  "stem": 0.58,
+  "ans": 0.17,
+  "subject": "Physiology",
+  "topic": "Cell membrane transport & body fluid compartments",
+  "a": "Q_PY_CMT_001",
+  "b": "Q_PY_CMT_013",
+  "ans_text": "Sixty percent"
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.17,
+  "subject": "Pediatrics",
+  "topic": "Paediatric neurology: seizures, cerebral palsy, meningitis",
+  "a": "Q_PED_NEU_002",
+  "b": "Q_PED_NEU_013",
+  "ans_text": "Spastic"
+ },
+ {
+  "stem": 0.67,
+  "ans": 0,
+  "subject": "Pharmacology",
+  "topic": "Pharmacokinetics/dynamics, receptors",
+  "a": "Q_GEN_PHAR_GEN_PKPD_006",
+  "b": "Q_PYQ_FMGE_2025JULP2_059",
+  "ans_text": "3.5 hr"
+ },
+ {
+  "stem": 0.6,
+  "ans": 0.0,
+  "subject": "Physiology",
+  "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+  "a": "Q_PY_MUS_004",
+  "b": "Q_PY_MUS_006",
+  "ans_text": "Has a long plateau phase preventing tetanic co"
+ },
+ {
+  "stem": 0.58,
+  "ans": 0.0,
+  "subject": "Pediatrics",
+  "topic": "Paediatric emergencies, poisoning & IMNCI",
+  "a": "Q_PED_EMG_001",
+  "b": "Q_PED_EMG_011",
+  "ans_text": "30 to 2 for a lay rescuer and 15 to 2 for two "
+ },
+ {
+  "stem": 0.57,
+  "ans": 0.0,
+  "subject": "Medicine",
+  "topic": "Infective endocarditis, rheumatic fever & pericardial disease",
+  "a": "Q_MED_IE_003",
+  "b": "Q_MED_IE_012",
+  "ans_text": "Oscillating intracardiac vegetation on echocar"
+ },
+ {
+  "stem": 0.56,
+  "ans": 0.0,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+  "a": "Q_OBG_END_008",
+  "b": "Q_OBG_END_011",
+  "ans_text": "Magnetic resonance imaging or specialised tran"
+ }
+]

@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_PAT_PLZ_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "E",
+   "stem": "Bence Jones proteinuria in multiple myeloma consists of:",
+   "options": [
+    "Free monoclonal immunoglobulin light chains",
+    "Intact IgG molecules",
+    "Albumin",
+    "Heavy chains only"
+   ],
+   "correct": 0,
+   "concept": "Free kappa or lambda light chains are small enough to be filtered and appear in urine, precipitating at 40 to 60 degrees and redissolving on boiling. They are nephrotoxic, causing myeloma cast nephropathy.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "M",
+   "stem": "The radiological hallmark of multiple myeloma in the skull is:",
+   "options": [
+    "Multiple punched-out lytic lesions without sclerotic rims",
+    "Diffuse sclerosis",
+    "Sunburst reaction",
+    "Onion-skin periosteal reaction"
+   ],
+   "correct": 0,
+   "concept": "Myeloma cells secrete RANK ligand activating osteoclasts without a compensatory osteoblastic response, so lesions are purely lytic with normal alkaline phosphatase and a negative bone scan - hence skeletal survey rather than scintigraphy.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "M",
+   "stem": "Monoclonal gammopathy of undetermined significance is defined by:",
+   "options": [
+    "M-protein below 3 g/dL with under 10 percent marrow plasma cells and no end-organ damage",
+    "M-protein above 3 g/dL",
+    "Lytic lesions present",
+    "Renal failure"
+   ],
+   "correct": 0,
+   "concept": "MGUS is common in the elderly and progresses to myeloma at about 1% per year, so it requires surveillance rather than treatment. Absence of CRAB features distinguishes it from symptomatic myeloma.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "E",
+   "stem": "Waldenstrom macroglobulinaemia is characterised by:",
+   "options": [
+    "An IgM paraprotein causing hyperviscosity with lymphoplasmacytic marrow infiltration",
+    "IgG paraprotein with lytic lesions",
+    "IgA paraprotein",
+    "Absent paraprotein"
+   ],
+   "correct": 0,
+   "concept": "The large pentameric IgM raises serum viscosity, causing visual disturbance with sausage-string retinal veins, headache and bleeding. Lytic bone lesions and renal failure are characteristically absent, unlike myeloma; plasmapheresis relieves hyperviscosity.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "M",
+   "stem": "Polycythaemia vera is most often associated with mutation of:",
+   "options": [
+    "JAK2 V617F",
+    "BCR-ABL1",
+    "FLT3",
+    "TP53"
+   ],
+   "correct": 0,
+   "concept": "JAK2 V617F is present in over 95% of polycythaemia vera and about half of essential thrombocythaemia and primary myelofibrosis, causing constitutive cytokine-independent proliferation. Erythropoietin is characteristically low.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "M",
+   "stem": "Aquagenic pruritus after a hot bath in a plethoric patient suggests:",
+   "options": [
+    "Polycythaemia vera",
+    "Iron deficiency",
+    "Chronic lymphocytic leukaemia",
+    "Aplastic anaemia"
+   ],
+   "correct": 0,
+   "concept": "Itching after bathing, from histamine release by increased basophils and mast cells, is characteristic of polycythaemia vera, along with facial plethora, splenomegaly, thrombosis, gout and a low erythropoietin. Phlebotomy with aspirin and hydroxyurea is used.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "E",
+   "stem": "A leucoerythroblastic blood picture with tear-drop poikilocytes and massive splenomegaly suggests:",
+   "options": [
+    "Primary myelofibrosis",
+    "Iron deficiency",
+    "Chronic lymphocytic leukaemia",
+    "Multiple myeloma"
+   ],
+   "correct": 0,
+   "concept": "Marrow fibrosis forces extramedullary haemopoiesis in spleen and liver, releasing nucleated red cells and immature granulocytes with dacrocytes deformed by passage through fibrotic marrow. Marrow aspiration typically yields a dry tap.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "H",
+   "stem": "Chronic myeloid leukaemia is distinguished from a leukaemoid reaction by:",
+   "options": [
+    "A low leucocyte alkaline phosphatase score and presence of BCR-ABL1",
+    "A high LAP score",
+    "Absence of basophilia",
+    "Normal platelet count"
+   ],
+   "correct": 0,
+   "concept": "CML shows a low LAP score with basophilia and eosinophilia and the Philadelphia chromosome, while a reactive leukaemoid response to infection shows a high LAP score with toxic granulation and no BCR-ABL1.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "H",
+   "stem": "AL amyloidosis in a patient with plasma cell dyscrasia is derived from:",
+   "options": [
+    "Immunoglobulin light chains",
+    "Serum amyloid A protein",
+    "Transthyretin",
+    "Beta-2 microglobulin"
+   ],
+   "correct": 0,
+   "concept": "AL amyloid derives from monoclonal light chains, whereas AA amyloid derives from serum amyloid A in chronic inflammation, ATTR from transthyretin, and beta-2 microglobulin amyloid complicates long-term dialysis causing carpal tunnel syndrome.",
+   "reference": "Robbins & Cotran 10e, Amyloidosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_PLZ_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Plasma cell dyscrasias & myeloproliferative neoplasms",
+   "difficulty": "M",
+   "stem": "Essential thrombocythaemia carries the principal risk of:",
+   "options": [
+    "Both thrombosis and paradoxical bleeding",
+    "Only bleeding",
+    "Only infection",
+    "Only anaemia"
+   ],
+   "correct": 0,
+   "concept": "Platelet counts above 450,000 with abnormal function cause arterial and venous thrombosis and erythromelalgia, while extreme counts above 1 million cause acquired von Willebrand disease with bleeding. Aspirin with hydroxyurea in high-risk patients is used.",
+   "reference": "Robbins & Cotran 10e, Diseases of White Blood Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "E",
+   "stem": "The commonest site of origin of prostatic adenocarcinoma is:",
+   "options": [
+    "The peripheral zone",
+    "The transition zone",
+    "The central zone",
+    "The anterior fibromuscular stroma"
+   ],
+   "correct": 0,
+   "concept": "Carcinoma arises in the peripheral zone, which is why it is palpable as a hard nodule on digital rectal examination and causes urinary symptoms late. Benign prostatic hyperplasia arises in the transition zone, causing early obstruction.",
+   "reference": "Robbins & Cotran 10e, The Male Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "M",
+   "stem": "The Gleason grading system for prostate cancer is based on:",
+   "options": [
+    "Glandular architectural pattern of the two most prevalent grades",
+    "Nuclear pleomorphism",
+    "Mitotic count",
+    "Tumour size"
+   ],
+   "correct": 0,
+   "concept": "Gleason score sums the most common and the highest-grade architectural patterns, each scored 1 to 5, giving a total of 6 to 10 in modern practice. It is the strongest histological predictor of behaviour.",
+   "reference": "Robbins & Cotran 10e, The Male Genital Tract",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "M",
+   "stem": "Cryptorchidism increases the risk of:",
+   "options": [
+    "Germ cell tumours in both the undescended and the contralateral descended testis",
+    "Only the undescended testis",
+    "Prostate cancer",
+    "Bladder cancer"
+   ],
+   "correct": 0,
+   "concept": "Malignancy risk is raised in both testes, implying an underlying developmental abnormality rather than position alone, which is why orchidopexy does not abolish risk though it allows examination and preserves fertility.",
+   "reference": "Robbins & Cotran 10e, The Male Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "E",
+   "stem": "Seminoma is characterised histologically by:",
+   "options": [
+    "Sheets of uniform clear cells with a lymphocytic infiltrate and fibrous septa",
+    "Signet ring cells",
+    "Papillary architecture",
+    "Spindle cells"
+   ],
+   "correct": 0,
+   "concept": "Seminoma shows large uniform cells with clear glycogen-rich cytoplasm, distinct borders and a prominent lymphocytic and sometimes granulomatous stromal reaction. It is highly radiosensitive with excellent prognosis.",
+   "reference": "Robbins & Cotran 10e, The Male Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "M",
+   "stem": "Schiller-Duval bodies are pathognomonic of:",
+   "options": [
+    "Yolk sac (endodermal sinus) tumour",
+    "Seminoma",
+    "Choriocarcinoma",
+    "Teratoma"
+   ],
+   "correct": 0,
+   "concept": "Schiller-Duval bodies are glomeruloid structures with a central vessel. Yolk sac tumour is the commonest testicular tumour of infants and secretes alpha-fetoprotein, a useful diagnostic and monitoring marker.",
+   "reference": "Robbins & Cotran 10e, The Male Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "M",
+   "stem": "The precursor lesion of cervical squamous carcinoma is:",
+   "options": [
+    "Cervical intraepithelial neoplasia at the squamocolumnar junction, driven by high-risk HPV",
+    "Endometrial hyperplasia",
+    "Adenosis",
+    "Leukoplakia"
+   ],
+   "correct": 0,
+   "concept": "High-risk HPV 16 and 18 integrate and express E6 and E7 which inactivate p53 and Rb, producing dysplasia in the transformation zone that progresses through CIN 1 to 3 to invasive carcinoma over years - the rationale for screening.",
+   "reference": "Robbins & Cotran 10e, The Female Genital Tract",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "E",
+   "stem": "Endometrial hyperplasia with atypia is significant because it:",
+   "options": [
+    "Carries a substantial risk of progression to endometrial adenocarcinoma",
+    "Is entirely benign",
+    "Always regresses",
+    "Causes infertility only"
+   ],
+   "correct": 0,
+   "concept": "Atypical hyperplasia (endometrioid intraepithelial neoplasia) progresses to carcinoma in a large proportion and often coexists with it. Unopposed oestrogen from obesity, anovulation, tamoxifen or oestrogen-only therapy is the usual driver.",
+   "reference": "Robbins & Cotran 10e, The Female Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "H",
+   "stem": "Call-Exner bodies are characteristic of:",
+   "options": [
+    "Granulosa cell tumour of the ovary",
+    "Dysgerminoma",
+    "Serous cystadenocarcinoma",
+    "Brenner tumour"
+   ],
+   "correct": 0,
+   "concept": "Granulosa cell tumours contain small follicle-like spaces with eosinophilic material (Call-Exner bodies) and coffee-bean grooved nuclei. They secrete oestrogen, causing precocious puberty in girls and postmenopausal bleeding with endometrial hyperplasia in adults.",
+   "reference": "Robbins & Cotran 10e, The Female Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "H",
+   "stem": "The commonest ovarian malignancy overall is:",
+   "options": [
+    "Surface epithelial tumours, particularly serous carcinoma",
+    "Germ cell tumours",
+    "Sex cord stromal tumours",
+    "Metastatic tumours"
+   ],
+   "correct": 0,
+   "concept": "Epithelial tumours account for about 90% of ovarian malignancy, with high-grade serous carcinoma the commonest, often showing psammoma bodies, TP53 mutation and origin from the fallopian tube fimbria. CA-125 is used for monitoring.",
+   "reference": "Robbins & Cotran 10e, The Female Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GEN2_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Male & female genital tract pathology",
+   "difficulty": "M",
+   "stem": "A struma ovarii is a:",
+   "options": [
+    "Monodermal teratoma composed predominantly of thyroid tissue",
+    "Malignant germ cell tumour",
+    "Metastatic thyroid carcinoma",
+    "Sex cord tumour"
+   ],
+   "correct": 0,
+   "concept": "Struma ovarii is a specialised mature teratoma of functioning thyroid tissue that can rarely cause hyperthyroidism. Carcinoid is the other important monodermal teratoma of the ovary.",
+   "reference": "Robbins & Cotran 10e, The Female Genital Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "E",
+   "stem": "The WHO definition of health is:",
+   "options": [
+    "A state of complete physical, mental and social well-being and not merely the absence of disease or infirmity",
+    "Absence of disease",
+    "Physical fitness",
+    "Long life expectancy"
+   ],
+   "correct": 0,
+   "concept": "The 1948 WHO definition is criticised as idealistic and unmeasurable, but remains foundational; a spiritual dimension and the concept of quality of life have since been added in operational definitions.",
+   "reference": "Park 27e, Concept of Health and Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "M",
+   "stem": "Primordial prevention is best exemplified by:",
+   "options": [
+    "Preventing the emergence of risk factors in a population that has not yet acquired them",
+    "Early diagnosis by screening",
+    "Disability limitation",
+    "Rehabilitation"
+   ],
+   "correct": 0,
+   "concept": "Primordial prevention discourages adoption of harmful lifestyles - for instance national policy discouraging tobacco or promoting healthy diet in children - acting before risk factors appear, unlike primary prevention which acts on existing risk factors.",
+   "reference": "Park 27e, Concept of Prevention",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "M",
+   "stem": "Specific protection such as immunisation is a form of:",
+   "options": [
+    "Primary prevention",
+    "Secondary prevention",
+    "Tertiary prevention",
+    "Primordial prevention"
+   ],
+   "correct": 0,
+   "concept": "Primary prevention comprises health promotion and specific protection, applied in the pre-pathogenesis phase. Secondary prevention is early diagnosis and treatment during pathogenesis, and tertiary prevention is disability limitation and rehabilitation.",
+   "reference": "Park 27e, Concept of Prevention",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "E",
+   "stem": "The iceberg phenomenon of disease refers to:",
+   "options": [
+    "The larger submerged portion of undiagnosed, subclinical and carrier states beneath clinically apparent cases",
+    "Only severe cases",
+    "Only fatal cases",
+    "Seasonal variation"
+   ],
+   "correct": 0,
+   "concept": "Clinically apparent disease represents only the tip; latent, subclinical, carrier and undiagnosed cases lie below the waterline, which has major implications for surveillance and control - as seen in diabetes, hypertension and COVID-19.",
+   "reference": "Park 27e, Concept of Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "M",
+   "stem": "The epidemiological triad consists of:",
+   "options": [
+    "Agent, host and environment",
+    "Time, place and person",
+    "Incidence, prevalence and mortality",
+    "Sensitivity, specificity and predictive value"
+   ],
+   "correct": 0,
+   "concept": "Disease results from interaction between agent, host and environment; breaking any link controls disease. The multifactorial causation model and the web of causation extend this for non-communicable disease.",
+   "reference": "Park 27e, Concepts in Epidemiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "M",
+   "stem": "The natural history of disease describes:",
+   "options": [
+    "The course of disease from onset to resolution in the absence of intervention",
+    "The response to treatment",
+    "Only the incubation period",
+    "Only the fatal outcome"
+   ],
+   "correct": 0,
+   "concept": "Understanding pre-pathogenesis and pathogenesis phases identifies the points where each level of prevention can be applied, and provides the baseline against which the effect of treatment is judged.",
+   "reference": "Park 27e, Concept of Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "E",
+   "stem": "Health promotion differs from specific protection in that it:",
+   "options": [
+    "Is non-specific and aims to improve overall wellbeing through education, nutrition and lifestyle",
+    "Targets one disease",
+    "Requires vaccines",
+    "Is applied after disease onset"
+   ],
+   "correct": 0,
+   "concept": "Health promotion includes health education, environmental modification, nutritional intervention and lifestyle change and benefits many conditions at once, whereas specific protection such as immunisation or fluoridation targets a defined disease.",
+   "reference": "Park 27e, Concept of Prevention",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "H",
+   "stem": "The Sullivan index measures:",
+   "options": [
+    "Expectation of life free of disability",
+    "Infant mortality",
+    "Maternal mortality",
+    "Crude death rate"
+   ],
+   "correct": 0,
+   "concept": "Sullivan's index subtracts probable duration of disability from life expectancy, giving disability-free life expectancy. HALE, DALY and QALY are related composite measures combining mortality with morbidity.",
+   "reference": "Park 27e, Health Indicators",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "H",
+   "stem": "One DALY is best defined as:",
+   "options": [
+    "One lost year of healthy life, combining years of life lost and years lived with disability",
+    "One death",
+    "One year of illness",
+    "One hospital admission"
+   ],
+   "correct": 0,
+   "concept": "The disability-adjusted life year combines premature mortality (YLL) and morbidity (YLD) into a single measure of disease burden, allowing comparison across conditions and guiding priority setting.",
+   "reference": "Park 27e, Health Indicators",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_CON_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Concepts of health & disease, natural history, levels of prevention",
+   "difficulty": "M",
+   "stem": "Rehabilitation as a level of prevention includes all EXCEPT:",
+   "options": [
+    "Immunisation against the causative agent",
+    "Vocational rehabilitation",
+    "Physical rehabilitation",
+    "Social rehabilitation"
+   ],
+   "correct": 0,
+   "concept": "Rehabilitation is tertiary prevention comprising medical, vocational, social and psychological components to restore function. Immunisation is specific protection and therefore primary prevention.",
+   "reference": "Park 27e, Concept of Prevention",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

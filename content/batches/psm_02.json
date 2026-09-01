@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "id": "Q_PSM_NUT_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "E",
+   "stem": "The reference protein against which protein quality is measured is:",
+   "options": [
+    "Egg protein, with a biological value near 100",
+    "Milk",
+    "Soya",
+    "Wheat"
+   ],
+   "correct": 0,
+   "concept": "Biological value reflects the proportion of absorbed nitrogen retained. Cereal proteins are limiting in lysine and pulse proteins in methionine, so the traditional cereal-pulse combination is mutually supplementary.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "M",
+   "stem": "Mid-upper arm circumference below 11.5 cm in a child aged 6 to 59 months indicates:",
+   "options": [
+    "Severe acute malnutrition",
+    "Normal nutrition",
+    "Moderate malnutrition",
+    "Stunting"
+   ],
+   "correct": 0,
+   "concept": "MUAC is age-independent between 1 and 5 years and is the simplest community screening tool, used with bilateral pedal oedema and weight-for-height to identify severe acute malnutrition.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "M",
+   "stem": "Kwashiorkor is distinguished from marasmus by:",
+   "options": [
+    "Presence of oedema with relatively preserved subcutaneous fat",
+    "Absence of oedema",
+    "Severe wasting only",
+    "Normal hair"
+   ],
+   "correct": 0,
+   "concept": "Kwashiorkor shows oedema, flaky paint dermatosis, hair changes and fatty liver with a miserable apathetic child, whereas marasmus shows extreme wasting with an alert, ravenously hungry child.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "E",
+   "stem": "The staple food fortification programme in India includes fortifying salt with:",
+   "options": [
+    "Iodine, and increasingly with both iodine and iron",
+    "Vitamin A",
+    "Calcium",
+    "Zinc"
+   ],
+   "correct": 0,
+   "concept": "Universal salt iodisation is one of the most successful public health interventions in India. Oil is fortified with vitamins A and D, wheat flour and rice with iron, folic acid and B12, and milk with vitamins A and D.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "M",
+   "stem": "Lathyrism results from prolonged consumption of:",
+   "options": [
+    "Lathyrus sativus (khesari dal) containing BOAA neurotoxin",
+    "Mustard oil",
+    "Contaminated maize",
+    "Cassava"
+   ],
+   "correct": 0,
+   "concept": "It causes spastic paraparesis in young adults. Epidemic dropsy comes from argemone-contaminated mustard oil and aflatoxicosis from Aspergillus-contaminated groundnuts and maize.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "M",
+   "stem": "The mid-day meal scheme aims principally to:",
+   "options": [
+    "Improve nutritional status and school enrolment, attendance and retention",
+    "Provide employment",
+    "Reduce food wastage",
+    "Support farmers"
+   ],
+   "correct": 0,
+   "concept": "It supplies a defined minimum of calories and protein on school days, with the dual educational and nutritional objective, and is now the PM POSHAN scheme.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "E",
+   "stem": "Pasteurisation of milk by the holder method involves heating to:",
+   "options": [
+    "63 degrees Celsius for 30 minutes followed by rapid cooling",
+    "100 degrees for 10 minutes",
+    "72 degrees for 1 minute",
+    "121 degrees for 15 minutes"
+   ],
+   "correct": 0,
+   "concept": "The flash or HTST method uses 72 degrees for 15 seconds. The phosphatase test confirms adequate pasteurisation, as the enzyme is destroyed under the same conditions as pathogens.",
+   "reference": "Park 27e, Milk Hygiene",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "H",
+   "stem": "Food poisoning with an incubation period under six hours and prominent vomiting suggests:",
+   "options": [
+    "Preformed toxin of Staphylococcus aureus or Bacillus cereus",
+    "Salmonella",
+    "Clostridium perfringens",
+    "Campylobacter"
+   ],
+   "correct": 0,
+   "concept": "Short incubation indicates preformed toxin, whereas 12 to 48 hours indicates infection requiring bacterial multiplication, as with Salmonella. Botulism has a longer incubation with neurological features.",
+   "reference": "Park 27e, Food Poisoning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "H",
+   "stem": "The most reliable index of chronic undernutrition in a community is:",
+   "options": [
+    "Height-for-age (stunting)",
+    "Weight-for-height",
+    "MUAC",
+    "Weight-for-age"
+   ],
+   "correct": 0,
+   "concept": "Stunting reflects long-term cumulative deprivation, wasting reflects acute recent deficit, and underweight combines both. Stunting is largely irreversible after the first 1000 days.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_NUT_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nutrition programmes, food fortification & food hygiene",
+   "difficulty": "M",
+   "stem": "The first 1000 days of life, critical for nutrition intervention, spans:",
+   "options": [
+    "Conception to two years of age",
+    "Birth to three years",
+    "Conception to birth",
+    "Birth to one year"
+   ],
+   "correct": 0,
+   "concept": "This window covers rapid brain and physical growth when deficits cause irreversible cognitive and stature deficits, which is why maternal nutrition, exclusive breastfeeding and timely complementary feeding are prioritised.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "E",
+   "stem": "The leading cause of death in India today is:",
+   "options": [
+    "Cardiovascular disease",
+    "Communicable disease",
+    "Injuries",
+    "Maternal causes"
+   ],
+   "correct": 0,
+   "concept": "India has undergone epidemiological transition, with non-communicable diseases now accounting for about 60% of deaths, though a double burden persists as communicable disease remains significant.",
+   "reference": "Park 27e, Non-communicable Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "M",
+   "stem": "The most important modifiable risk factor for cardiovascular disease amenable to population intervention is:",
+   "options": [
+    "Tobacco use",
+    "Age",
+    "Sex",
+    "Family history"
+   ],
+   "correct": 0,
+   "concept": "Tobacco, unhealthy diet, physical inactivity and harmful alcohol use are the four shared behavioural risk factors underlying the major non-communicable diseases, making them the focus of population strategies.",
+   "reference": "Park 27e, Non-communicable Diseases",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "M",
+   "stem": "Rose's population strategy of prevention argues that:",
+   "options": [
+    "A small risk reduction across a whole population prevents more disease than targeting high-risk individuals",
+    "High-risk targeting is always better",
+    "Prevention is ineffective",
+    "Only treatment matters"
+   ],
+   "correct": 0,
+   "concept": "Most cases arise from the large number of people at modest risk rather than the few at high risk - the prevention paradox, which explains why population salt reduction outperforms treating hypertensives alone.",
+   "reference": "Park 27e, Prevention",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "E",
+   "stem": "The National Programme for Prevention and Control of Cancer, Diabetes, Cardiovascular Diseases and Stroke screens adults over 30 for:",
+   "options": [
+    "Hypertension, diabetes and common cancers",
+    "Only diabetes",
+    "Only cancer",
+    "Tuberculosis"
+   ],
+   "correct": 0,
+   "concept": "Population-based screening includes oral, breast and cervical cancer along with hypertension and diabetes, delivered through Health and Wellness Centres by community health officers and ASHAs.",
+   "reference": "Park 27e, National Programmes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "M",
+   "stem": "The commonest cancer among Indian women is:",
+   "options": [
+    "Breast cancer, having overtaken cervical cancer",
+    "Cervical cancer",
+    "Ovarian cancer",
+    "Lung cancer"
+   ],
+   "correct": 0,
+   "concept": "Among Indian men, oral cavity and lung cancers predominate, reflecting tobacco use in both smoked and smokeless forms. Cervical cancer remains second in women and is largely preventable.",
+   "reference": "Park 27e, Cancer",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "M",
+   "stem": "Visual inspection with acetic acid (VIA) is used for cervical cancer screening in India because it:",
+   "options": [
+    "Is low-cost, gives immediate results and can be done by trained health workers",
+    "Is more accurate than cytology",
+    "Requires a laboratory",
+    "Detects HPV"
+   ],
+   "correct": 0,
+   "concept": "Single-visit screen-and-treat with cryotherapy addresses the loss to follow-up that undermines cytology-based programmes in low-resource settings. HPV testing is increasingly preferred where affordable.",
+   "reference": "Park 27e, Cancer Cervix",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "E",
+   "stem": "The Cigarettes and Other Tobacco Products Act (COTPA) prohibits:",
+   "options": [
+    "Smoking in public places, sale to minors and advertising of tobacco products",
+    "Only advertising",
+    "Only sale",
+    "Manufacture"
+   ],
+   "correct": 0,
+   "concept": "It also mandates pictorial health warnings covering 85% of the package. Taxation remains the single most effective measure for reducing consumption, particularly among the young and the poor.",
+   "reference": "Park 27e, Tobacco",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "H",
+   "stem": "Smokeless tobacco use in India is important because it:",
+   "options": [
+    "Causes oral cancer and is highly prevalent, including among women",
+    "Is harmless",
+    "Is rare",
+    "Only affects the lungs"
+   ],
+   "correct": 0,
+   "concept": "Gutka, khaini and zarda cause oral submucous fibrosis and gingivobuccal carcinoma - the Indian oral cancer. Smokeless use is far more prevalent among Indian women than smoking.",
+   "reference": "Park 27e, Tobacco",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "H",
+   "stem": "The WHO STEPS approach to non-communicable disease surveillance involves:",
+   "options": [
+    "Sequential steps of questionnaire, physical measurement and biochemical assessment",
+    "Only laboratory tests",
+    "Only questionnaires",
+    "Hospital records"
+   ],
+   "correct": 0,
+   "concept": "The stepwise design lets countries implement surveillance at a level matched to their resources while retaining international comparability of the core data.",
+   "reference": "Park 27e, Non-communicable Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_NCD_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Non-communicable disease epidemiology: CVD, diabetes, cancer, tobacco",
+   "difficulty": "M",
+   "stem": "Diabetes prevalence in urban India compared with rural is:",
+   "options": [
+    "Higher, reflecting sedentary lifestyle and dietary change",
+    "Lower",
+    "Equal",
+    "Absent"
+   ],
+   "correct": 0,
+   "concept": "Indians develop diabetes at a younger age and lower BMI than Western populations, with greater visceral adiposity - the Asian Indian phenotype, which is why lower BMI cut-offs are used.",
+   "reference": "Park 27e, Diabetes",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

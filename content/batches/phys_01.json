@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_PY_CMT_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "E",
+   "stem": "Total body water in an average adult male constitutes approximately what percentage of body weight?",
+   "options": [
+    "Sixty percent",
+    "Forty percent",
+    "Eighty percent",
+    "Twenty percent"
+   ],
+   "correct": 0,
+   "concept": "Of 60%, two-thirds is intracellular and one-third extracellular, of which a quarter is plasma. Women have lower total body water because of higher fat content, and infants higher at about 75%.",
+   "reference": "Ganong Review of Medical Physiology 26e, Body Fluids",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "M",
+   "stem": "Plasma volume is measured using:",
+   "options": [
+    "Evans blue dye or radioiodinated albumin",
+    "Inulin",
+    "Deuterium oxide",
+    "Mannitol"
+   ],
+   "correct": 0,
+   "concept": "The indicator dilution principle requires a marker confined to the compartment measured: inulin or mannitol for extracellular fluid, deuterium or tritiated water for total body water, and albumin-bound markers for plasma.",
+   "reference": "Ganong Review of Medical Physiology 26e, Body Fluids",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "M",
+   "stem": "The sodium-potassium ATPase pump moves:",
+   "options": [
+    "Three sodium out for every two potassium in, making it electrogenic",
+    "Two sodium out, three potassium in",
+    "Equal ions both ways",
+    "Only sodium"
+   ],
+   "correct": 0,
+   "concept": "This unequal exchange contributes directly to the resting membrane potential and consumes a large share of basal metabolic energy. Digoxin inhibits it, raising intracellular sodium and calcium.",
+   "reference": "Ganong Review of Medical Physiology 26e, Cell Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "E",
+   "stem": "Facilitated diffusion differs from active transport in that it:",
+   "options": [
+    "Requires no energy and moves solute down its concentration gradient",
+    "Requires ATP",
+    "Moves against the gradient",
+    "Is not carrier-mediated"
+   ],
+   "correct": 0,
+   "concept": "Both are carrier-mediated and show saturation and competition, but facilitated diffusion cannot move solute against a gradient. Glucose entry via GLUT transporters is the classic example.",
+   "reference": "Ganong Review of Medical Physiology 26e, Cell Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "M",
+   "stem": "The principal determinant of plasma oncotic pressure is:",
+   "options": [
+    "Albumin",
+    "Globulin",
+    "Fibrinogen",
+    "Sodium"
+   ],
+   "correct": 0,
+   "concept": "Albumin contributes about 75 to 80% of oncotic pressure because of its abundance and small size. Hypoalbuminaemia in nephrotic syndrome, cirrhosis and malnutrition therefore causes generalised oedema.",
+   "reference": "Ganong Review of Medical Physiology 26e, Body Fluids",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "M",
+   "stem": "Starling forces determining fluid movement across a capillary include all EXCEPT:",
+   "options": [
+    "Plasma sodium concentration",
+    "Capillary hydrostatic pressure",
+    "Plasma oncotic pressure",
+    "Interstitial hydrostatic pressure"
+   ],
+   "correct": 0,
+   "concept": "Net filtration depends on the balance of hydrostatic and oncotic pressures across the capillary wall, modified by the reflection coefficient. Sodium determines osmolality but not transcapillary fluid balance directly.",
+   "reference": "Ganong Review of Medical Physiology 26e, Circulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "E",
+   "stem": "Plasma osmolality is calculated approximately as:",
+   "options": [
+    "Twice the sodium plus glucose/18 plus urea/2.8 in conventional units",
+    "Sodium alone",
+    "Sodium plus potassium",
+    "Glucose alone"
+   ],
+   "correct": 0,
+   "concept": "Normal osmolality is 285 to 295 mOsm/kg. A raised osmolar gap between measured and calculated values suggests unmeasured osmoles such as methanol, ethylene glycol or mannitol.",
+   "reference": "Ganong Review of Medical Physiology 26e, Body Fluids",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "H",
+   "stem": "The Donnan effect describes:",
+   "options": [
+    "Unequal distribution of diffusible ions due to non-diffusible charged proteins on one side",
+    "Equal ion distribution",
+    "Active transport of proteins",
+    "Water movement only"
+   ],
+   "correct": 0,
+   "concept": "Impermeant plasma proteins carry negative charge, attracting slightly more cations into plasma, which contributes to the effective oncotic pressure beyond that predicted by protein concentration alone.",
+   "reference": "Ganong Review of Medical Physiology 26e, Body Fluids",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "H",
+   "stem": "Aquaporin-2 channels in the collecting duct are regulated by:",
+   "options": [
+    "Antidiuretic hormone acting through V2 receptors and cyclic AMP",
+    "Aldosterone",
+    "Angiotensin II",
+    "Atrial natriuretic peptide"
+   ],
+   "correct": 0,
+   "concept": "ADH causes insertion of preformed aquaporin-2 into the apical membrane, permitting water reabsorption. Absence causes central diabetes insipidus, and receptor or channel defects cause nephrogenic diabetes insipidus.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_CMT_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cell membrane transport & body fluid compartments",
+   "difficulty": "M",
+   "stem": "Infusion of isotonic saline expands:",
+   "options": [
+    "The extracellular compartment only, with no change in cell volume",
+    "Only intracellular volume",
+    "Both equally",
+    "Plasma volume only"
+   ],
+   "correct": 0,
+   "concept": "Isotonic fluid creates no osmotic gradient, so it stays extracellular. Five percent dextrose is effectively free water after glucose metabolism and distributes through all compartments, making it a poor resuscitation fluid.",
+   "reference": "Ganong Review of Medical Physiology 26e, Body Fluids",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "E",
+   "stem": "In skeletal muscle excitation-contraction coupling, calcium binds to:",
+   "options": [
+    "Troponin C, moving tropomyosin to expose actin binding sites",
+    "Myosin directly",
+    "Actin directly",
+    "Calmodulin"
+   ],
+   "correct": 0,
+   "concept": "In smooth muscle, by contrast, calcium binds calmodulin activating myosin light chain kinase - the fundamental difference between the two mechanisms and the basis of different drug actions.",
+   "reference": "Ganong Review of Medical Physiology 26e, Muscle Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "M",
+   "stem": "During muscle contraction, which band remains constant in length?",
+   "options": [
+    "The A band",
+    "The I band",
+    "The H zone",
+    "The sarcomere"
+   ],
+   "correct": 0,
+   "concept": "The A band represents thick filament length which does not change; the I band and H zone shorten as thin filaments slide inward. This is the essence of the sliding filament theory.",
+   "reference": "Ganong Review of Medical Physiology 26e, Muscle Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "M",
+   "stem": "Rigor mortis occurs because:",
+   "options": [
+    "ATP depletion prevents detachment of myosin heads from actin",
+    "Calcium is absent",
+    "Muscles are damaged",
+    "Proteins denature"
+   ],
+   "correct": 0,
+   "concept": "ATP is required not for the power stroke but for cross-bridge release, so its depletion after death locks the muscles. Rigor appears in 1 to 2 hours, is complete by 12 hours and passes off with putrefaction.",
+   "reference": "Ganong Review of Medical Physiology 26e, Muscle Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "E",
+   "stem": "Cardiac muscle differs from skeletal muscle in that it:",
+   "options": [
+    "Has a long plateau phase preventing tetanic contraction",
+    "Can be tetanised",
+    "Has no T tubules",
+    "Lacks troponin"
+   ],
+   "correct": 0,
+   "concept": "The prolonged calcium-mediated plateau gives a refractory period lasting nearly the whole contraction, so cardiac muscle cannot summate or tetanise - an essential protection allowing the heart to fill.",
+   "reference": "Ganong Review of Medical Physiology 26e, Cardiac Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "M",
+   "stem": "The functional syncytium of cardiac muscle depends on:",
+   "options": [
+    "Gap junctions in the intercalated discs",
+    "Desmosomes only",
+    "Tight junctions",
+    "Chemical synapses"
+   ],
+   "correct": 0,
+   "concept": "Gap junctions permit rapid ion flow so the atria and ventricles each contract as a unit, while the fibrous skeleton insulates them electrically, with the AV node as the sole normal conduction pathway.",
+   "reference": "Ganong Review of Medical Physiology 26e, Cardiac Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "M",
+   "stem": "Smooth muscle differs from skeletal muscle in that it:",
+   "options": [
+    "Can maintain tension with low energy expenditure through the latch mechanism",
+    "Fatigues rapidly",
+    "Cannot sustain tone",
+    "Has sarcomeres"
+   ],
+   "correct": 0,
+   "concept": "The latch state allows sustained tone in vessels, gut and airways at minimal metabolic cost. Smooth muscle also lacks troponin and has no striations, using the calmodulin pathway instead.",
+   "reference": "Ganong Review of Medical Physiology 26e, Muscle Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "E",
+   "stem": "The neuromuscular junction transmitter and receptor are:",
+   "options": [
+    "Acetylcholine acting on nicotinic receptors",
+    "Acetylcholine on muscarinic receptors",
+    "Noradrenaline on alpha receptors",
+    "Glutamate on NMDA receptors"
+   ],
+   "correct": 0,
+   "concept": "Myasthenia gravis results from antibodies to these postsynaptic nicotinic receptors, giving fatigable weakness that improves with anticholinesterases - the basis of both the disease and its treatment.",
+   "reference": "Ganong Review of Medical Physiology 26e, Synaptic Transmission",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "H",
+   "stem": "The Frank-Starling law of the heart states that:",
+   "options": [
+    "Force of contraction increases with increased initial fibre length up to a point",
+    "Force is independent of length",
+    "Force decreases with stretch",
+    "Only rate matters"
+   ],
+   "correct": 0,
+   "concept": "Increased venous return stretches sarcomeres to optimal overlap and increases troponin C calcium sensitivity, so the heart pumps whatever it receives - the mechanism matching right and left ventricular outputs.",
+   "reference": "Ganong Review of Medical Physiology 26e, Cardiac Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "H",
+   "stem": "Isometric contraction is characterised by:",
+   "options": [
+    "Increased tension without change in muscle length",
+    "Shortening at constant tension",
+    "Lengthening",
+    "No tension"
+   ],
+   "correct": 0,
+   "concept": "Isotonic contraction shortens at constant load. Cardiac isovolumetric contraction is the isometric phase between mitral closure and aortic opening, when pressure rises without ejection.",
+   "reference": "Ganong Review of Medical Physiology 26e, Muscle Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_MUS_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle physiology: skeletal, smooth & cardiac contraction",
+   "difficulty": "M",
+   "stem": "Muscle fatigue during sustained exercise is primarily due to:",
+   "options": [
+    "Accumulation of metabolites and impaired excitation-contraction coupling rather than ATP depletion",
+    "Complete ATP depletion",
+    "Loss of calcium stores permanently",
+    "Nerve failure"
+   ],
+   "correct": 0,
+   "concept": "ATP rarely falls below about 60% of resting levels. Accumulation of inorganic phosphate and hydrogen ions and impaired sarcoplasmic calcium release are the dominant mechanisms in peripheral fatigue.",
+   "reference": "Ganong Review of Medical Physiology 26e, Muscle Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "E",
+   "stem": "The main site of haemopoiesis in an adult is:",
+   "options": [
+    "The red marrow of flat bones and proximal ends of long bones",
+    "The liver",
+    "The spleen",
+    "The thymus"
+   ],
+   "correct": 0,
+   "concept": "In fetal life the yolk sac, then liver and spleen are the sites; after birth the marrow takes over, retracting to the axial skeleton by adulthood. Extramedullary haemopoiesis resumes in marrow failure or myelofibrosis.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "M",
+   "stem": "Erythropoietin is produced mainly by:",
+   "options": [
+    "Peritubular interstitial cells of the kidney in response to hypoxia",
+    "The liver in adults",
+    "The marrow",
+    "The spleen"
+   ],
+   "correct": 0,
+   "concept": "This explains the normocytic anaemia of chronic kidney disease and the response to recombinant erythropoietin. Around 10% comes from the liver, which cannot compensate for renal loss.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "M",
+   "stem": "The intrinsic pathway of coagulation is assessed by:",
+   "options": [
+    "Activated partial thromboplastin time",
+    "Prothrombin time",
+    "Bleeding time",
+    "Thrombin time"
+   ],
+   "correct": 0,
+   "concept": "APTT assesses the intrinsic and common pathways and monitors heparin; PT with INR assesses the extrinsic pathway and monitors warfarin. Factor VII of the extrinsic pathway has the shortest half-life.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "E",
+   "stem": "Vitamin K dependent clotting factors are:",
+   "options": [
+    "II, VII, IX and X with proteins C and S",
+    "I, V, VIII",
+    "XI, XII",
+    "Only VIII"
+   ],
+   "correct": 0,
+   "concept": "Gamma-carboxylation confers calcium-binding capacity. Warfarin inhibits vitamin K epoxide reductase, and the early fall in protein C explains transient hypercoagulability at initiation.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "M",
+   "stem": "Primary haemostasis refers to:",
+   "options": [
+    "Formation of the platelet plug through adhesion, activation and aggregation",
+    "Fibrin clot formation",
+    "Fibrinolysis",
+    "Vasoconstriction only"
+   ],
+   "correct": 0,
+   "concept": "Von Willebrand factor bridges platelet GpIb to collagen, and fibrinogen bridges GpIIb/IIIa between platelets. Defects here prolong bleeding time and cause mucocutaneous bleeding, unlike coagulation defects which cause deep bleeding.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "M",
+   "stem": "An individual with blood group O has:",
+   "options": [
+    "Anti-A and anti-B antibodies in plasma with no A or B antigens on red cells",
+    "Both antigens",
+    "No antibodies",
+    "Only anti-A"
+   ],
+   "correct": 0,
+   "concept": "Group O red cells are the universal donor while AB plasma is the universal donor for plasma - the relationship is inverted between components, a frequent examination point.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "E",
+   "stem": "Haemolytic disease of the newborn from Rh incompatibility typically affects:",
+   "options": [
+    "The second and subsequent Rh-positive pregnancies of an Rh-negative mother",
+    "The first pregnancy",
+    "Rh-positive mothers",
+    "Only male infants"
+   ],
+   "correct": 0,
+   "concept": "Sensitisation usually occurs at delivery of the first Rh-positive infant, so the first pregnancy is spared. Anti-D immunoglobulin given antenatally and within 72 hours of delivery prevents sensitisation.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "H",
+   "stem": "Plasmin is generated from plasminogen by:",
+   "options": [
+    "Tissue plasminogen activator and urokinase",
+    "Thrombin alone",
+    "Factor XIII",
+    "Antithrombin"
+   ],
+   "correct": 0,
+   "concept": "Plasmin degrades fibrin producing D-dimers, which is why D-dimer is raised in venous thromboembolism and disseminated intravascular coagulation. Tranexamic acid blocks plasminogen binding to fibrin.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "H",
+   "stem": "The lifespan of a normal red blood cell is about:",
+   "options": [
+    "120 days",
+    "30 days",
+    "7 days",
+    "365 days"
+   ],
+   "correct": 0,
+   "concept": "Platelets survive 7 to 10 days and neutrophils only hours in the circulation. The 120-day red cell lifespan underlies the use of HbA1c as a 3-month glycaemic index, which is unreliable in haemolysis.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_BLD_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood: haemopoiesis, haemostasis, blood groups",
+   "difficulty": "M",
+   "stem": "Thrombin has which of the following actions?",
+   "options": [
+    "Converts fibrinogen to fibrin, activates factors V, VIII, XI and XIII and activates platelets",
+    "Only cleaves fibrinogen",
+    "Inhibits platelets",
+    "Degrades fibrin"
+   ],
+   "correct": 0,
+   "concept": "Thrombin is the central amplifying enzyme of coagulation, and also activates protein C via thrombomodulin, providing negative feedback that localises the clot to the site of injury.",
+   "reference": "Ganong Review of Medical Physiology 26e, Blood",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

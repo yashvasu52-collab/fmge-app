@@ -1,0 +1,19 @@
+Q_PED_RDS_001 | del | duplicate of Q_h3c_023, which identifies the same surfactant deficiency from the clinical and radiographic picture. The vignette is retained
+Q_PED_RDS_011 | del | duplicate of Q_h3c_023 on the preterm infant with a reticulogranular pattern from surfactant deficiency. The earlier vignette is retained
+Q_PED_RDS_002 | del | duplicate of Q_PED_RDS_013 on the score used to grade neonatal respiratory distress. The item that also names the Downes score is retained
+Q_PED_RDS_003 | del | duplicate of Q_PED_RDS_012, which presents the same delayed clearance of lung fluid after elective caesarean as a case. The vignette is retained
+Q_PED_RDS_010 | del | duplicate of Q_PED_RDS_019, which states the same 6-hour window and requires the reason for it. The fuller item is retained
+Q_PED_NEU_017 | ok |
+Q_PED_NEU_018 | ok |
+Q_PED_NEU_019 | ok |
+Q_PED_RDS_004 | ok |
+Q_PED_RDS_005 | ok |
+Q_PED_RDS_007 | ok |
+Q_PED_RDS_008 | ok |
+Q_PED_RDS_009 | ok |
+Q_PED_RDS_012 | ok |
+Q_PED_RDS_013 | ok |
+Q_PED_RDS_014 | ok |
+Q_PED_RDS_015 | ok |
+Q_PED_RDS_017 | ok |
+Q_PED_RDS_019 | ok |

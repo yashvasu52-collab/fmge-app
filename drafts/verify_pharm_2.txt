@@ -1,0 +1,50 @@
+Q_PH_ACG_004 | del | duplicate of Q_PH_ACG_015, which covers the same irreversible P2Y12 blockade and additionally the CYP2C19 pharmacogenetics. The fuller item is retained
+Q_PYQ_FMGE_2025JANP2_074 | del | my earlier rewrite of this item to first-line antihypertensives in pregnancy duplicated Q_PH_A_003 in the same topic. Deleted
+Q_PH_AA_002 | del | duplicate of Q_PS_CHI_005 on clozapine requiring neutrophil monitoring for agranulocytosis. The Psychiatry topic explicitly covers psychopharmacology and is retained
+Q_PYQ_FMGE_2026JUN_021 | del | my earlier rewrite of this item to aciclovir selectivity duplicated Q_PH_AAA2_003 in the same topic, which already tests viral thymidine kinase activation. Deleted
+Q_PH_AAA2_006 | del | duplicate of Q_PYQ_FMGE_2025JANP1_047 on bleomycin pulmonary toxicity being its dose-limiting effect. The exam-recall item, which adds the radiation interaction, is retained
+Q_PH_AAA2_007 | del | duplicate of Q_PH_IMS_005 on mesna preventing cyclophosphamide-induced haemorrhagic cystitis. The already-audited item is retained
+Q_PH_AST_011 | del | duplicate of Q_PH_AST_002 on inhaled corticosteroids being the cornerstone of long-term asthma control. The first item is retained
+Q_PH_AST_004 | del | duplicate of Q_PH_AST_015, which covers the same theophylline toxicity and additionally the narrow therapeutic index and CYP1A2 interactions. The fuller item is retained
+Q_PH_AST_007 | del | duplicate of Q_PH_AST_013 on second-generation antihistamines being preferred for their poor central penetration. The scenario-based item is retained
+Q_PH_AST_008 | del | duplicate of Q_PH_AST_014 on omalizumab being an anti-IgE monoclonal antibody for severe allergic asthma. The fuller item is retained
+Q_PH_CAD_002 | del | my earlier rewrite of this item to glycopyrrolate versus atropine duplicated Q_PH_CAD_001 in the same topic, which already covers the antimuscarinic co-administration. Deleted
+Q_PH_CAD_004 | del | duplicate of Q_PYQ_FMGE_2025JANP1_033 on atropine reversing muscarinic but not nicotinic features of organophosphate poisoning. The exam-recall item is retained
+Q_PH_ACG_015 | ok |
+Q_PH_ACG_016 | ok |
+Q_PH_A_001 | ok |
+Q_PH_A_002 | ok |
+Q_PH_A_003 | ok |
+Q_PH_A_004 | ok |
+Q_PH_A_005 | ok |
+Q_PH_A_006 | ok |
+Q_PH_A_007 | ok |
+Q_PH_AA_001 | ok |
+Q_PH_AA_003 | ok |
+Q_PH_AA_004 | ok |
+Q_PH_AA_005 | ok |
+Q_PH_AAA2_001 | ok |
+Q_PH_AAA2_002 | ok |
+Q_PH_AAA2_003 | ok |
+Q_PH_AAA2_004 | ok |
+Q_PH_AAA2_005 | ok |
+Q_PH_AST_001 | ok |
+Q_PH_AST_002 | ok |
+Q_PH_AST_003 | ok |
+Q_PH_AST_005 | ok |
+Q_PH_AST_006 | ok |
+Q_PH_AST_009 | ok |
+Q_PH_AST_010 | ok |
+Q_PH_AST_012 | ok |
+Q_PH_AST_013 | ok |
+Q_PH_AST_014 | ok |
+Q_PH_AST_015 | ok |
+Q_PH_AST_016 | ok |
+Q_PH_CAD_001 | ok |
+Q_PH_CAD_003 | ok |
+Q_PH_CAD_005 | ok |
+Q_PH_CAD_006 | ok |
+Q_PH_CAD_007 | ok |
+Q_PH_CTR_002 | ok |
+Q_PH_CTR_003 | ok |
+Q_PH_CTR_004 | ok |

@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_MIC_ARB_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "E",
+   "stem": "Dengue virus has how many distinct serotypes?",
+   "options": [
+    "Four",
+    "One",
+    "Two",
+    "Ten"
+   ],
+   "correct": 0,
+   "concept": "DENV-1 to DENV-4 give lifelong homotypic immunity but only transient cross-protection, so a person can have four infections. Secondary infection with a different serotype carries the highest risk of severe dengue.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Arboviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "M",
+   "stem": "Antibody-dependent enhancement explains why:",
+   "options": [
+    "Secondary infection with a different dengue serotype is more severe than primary infection",
+    "Primary infection is more severe",
+    "Vaccination is unnecessary",
+    "All serotypes are identical"
+   ],
+   "correct": 0,
+   "concept": "Non-neutralising cross-reactive antibodies bind the new serotype and facilitate Fc receptor-mediated uptake into monocytes, amplifying viral load and cytokine release with plasma leakage - the basis of dengue vaccine safety concerns.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Arboviruses",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "M",
+   "stem": "NS1 antigen testing for dengue is most useful:",
+   "options": [
+    "In the first five days of illness, before IgM appears",
+    "After two weeks",
+    "Only in convalescence",
+    "Only in severe disease"
+   ],
+   "correct": 0,
+   "concept": "NS1 is detectable from day 1 to about day 5 of fever, filling the diagnostic gap before IgM becomes positive around day 5, so NS1 and IgM together cover the whole illness.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Arboviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "E",
+   "stem": "Japanese encephalitis is maintained in nature by a cycle involving:",
+   "options": [
+    "Pigs as amplifying hosts and ardeid birds as reservoirs, with Culex vectors",
+    "Humans as reservoir",
+    "Dogs as reservoir",
+    "Rodents as reservoir"
+   ],
+   "correct": 0,
+   "concept": "Humans are dead-end hosts with low viraemia, so control targets vector reduction, pig management away from dwellings and vaccination in endemic districts. Culex tritaeniorhynchus breeds in rice fields.",
+   "reference": "Park 27e, Japanese Encephalitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "M",
+   "stem": "Zika virus infection is of greatest concern because of:",
+   "options": [
+    "Congenital microcephaly and Guillain-Barre syndrome",
+    "High adult mortality",
+    "Chronic hepatitis",
+    "Renal failure"
+   ],
+   "correct": 0,
+   "concept": "Zika is usually mild but is neurotropic and teratogenic, causing congenital Zika syndrome with microcephaly and brain calcification. Unusually for an arbovirus, it is also sexually and vertically transmitted.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Arboviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "M",
+   "stem": "The tourniquet (Hess) test in dengue assesses:",
+   "options": [
+    "Capillary fragility, becoming positive with 10 or more petechiae per square inch",
+    "Platelet count",
+    "Coagulation factors",
+    "Plasma leakage volume"
+   ],
+   "correct": 0,
+   "concept": "Inflating a cuff to midway between systolic and diastolic pressure for five minutes and counting petechiae in a 2.5 cm square gives a simple bedside indicator of capillary fragility, though it is neither sensitive nor specific.",
+   "reference": "Park 27e, Dengue",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "E",
+   "stem": "The mainstay of dengue management is:",
+   "options": [
+    "Careful isotonic crystalloid fluid therapy guided by haematocrit and vital signs",
+    "Platelet transfusion for all",
+    "Antiviral therapy",
+    "Corticosteroids"
+   ],
+   "correct": 0,
+   "concept": "There is no specific antiviral; judicious fluid replacement during the critical phase of plasma leakage prevents shock, while excess fluid causes overload. Platelets are transfused only for significant bleeding, not for a low count alone.",
+   "reference": "Park 27e, Dengue",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "H",
+   "stem": "Aedes aegypti control is difficult in urban India because the mosquito:",
+   "options": [
+    "Breeds in small clean water collections in and around houses and bites during the day",
+    "Breeds in dirty drains",
+    "Bites only at night",
+    "Has a long flight range"
+   ],
+   "correct": 0,
+   "concept": "Domestic breeding in coolers, tyres, tanks and flowerpots means control depends on community-based source reduction rather than spraying alone, and daytime biting makes bed nets largely ineffective.",
+   "reference": "Park 27e, Dengue",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "H",
+   "stem": "Japanese encephalitis vaccine in the Indian programme is given:",
+   "options": [
+    "As a live attenuated vaccine in endemic districts at 9 months with a booster at 16 to 24 months",
+    "At birth",
+    "Only to adults",
+    "Only during outbreaks"
+   ],
+   "correct": 0,
+   "concept": "The live attenuated SA 14-14-2 vaccine has been incorporated into routine immunisation in endemic districts, along with campaign-mode catch-up vaccination, and has substantially reduced incidence.",
+   "reference": "Park 27e, Japanese Encephalitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_ARB_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Arboviruses: dengue, chikungunya, JE, Zika",
+   "difficulty": "M",
+   "stem": "Chikungunya differs from dengue clinically by causing:",
+   "options": [
+    "Severe persistent symmetrical polyarthralgia lasting weeks to months",
+    "Marked plasma leakage",
+    "Severe thrombocytopenia",
+    "High mortality"
+   ],
+   "correct": 0,
+   "concept": "Both are transmitted by Aedes with overlapping acute features, but chikungunya causes disabling arthralgia that may persist for months, while dengue causes plasma leakage, shock and haemorrhage.",
+   "reference": "Park 27e, Chikungunya",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "E",
+   "stem": "Blood cultures for suspected bacteraemia should ideally be collected:",
+   "options": [
+    "Before starting antibiotics, from two or three separate sites",
+    "After the first antibiotic dose",
+    "From a single site only",
+    "From an indwelling line only"
+   ],
+   "correct": 0,
+   "concept": "Prior antibiotics markedly reduce yield, and multiple sets from separate venepunctures distinguish true bacteraemia from skin contaminants. Adequate blood volume is the single most important determinant of sensitivity.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Laboratory Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "M",
+   "stem": "In suspected enteric fever, the specimen with the highest yield in the first week of illness is:",
+   "options": [
+    "Blood culture",
+    "Stool culture",
+    "Urine culture",
+    "Widal test"
+   ],
+   "correct": 0,
+   "concept": "Blood culture is positive in about 80% in week one, stool and urine cultures become positive in the second and third weeks, and bone marrow culture has the highest yield overall and remains positive despite antibiotics.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Salmonella",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "M",
+   "stem": "The main limitation of the Widal test is that:",
+   "options": [
+    "Titres are affected by prior infection and vaccination, and a single titre is not diagnostic",
+    "It is too sensitive",
+    "It gives immediate results",
+    "It requires culture"
+   ],
+   "correct": 0,
+   "concept": "A four-fold rise in paired sera is needed for meaningful interpretation, and endemic background titres, previous typhoid, vaccination and anamnestic responses cause false positives; early antibiotics blunt the response.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Salmonella",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "E",
+   "stem": "Cerebrospinal fluid for suspected bacterial meningitis must be:",
+   "options": [
+    "Transported immediately at room temperature and never refrigerated",
+    "Refrigerated",
+    "Frozen",
+    "Stored for 24 hours"
+   ],
+   "correct": 0,
+   "concept": "Meningococcus and Haemophilus are highly susceptible to cold and drying, so refrigeration kills them. CSF is processed urgently with Gram stain, cell count, biochemistry and culture, plus latex agglutination or PCR.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Laboratory Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "M",
+   "stem": "Sputum is considered an acceptable specimen for culture when microscopy shows:",
+   "options": [
+    "More than 25 neutrophils and fewer than 10 squamous epithelial cells per low-power field",
+    "Many epithelial cells",
+    "No cells",
+    "Only bacteria"
+   ],
+   "correct": 0,
+   "concept": "Abundant squamous cells indicate salivary contamination, making culture uninterpretable. Screening by these Bartlett or Murray-Washington criteria avoids reporting misleading oropharyngeal flora.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Laboratory Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "M",
+   "stem": "Cartridge-based nucleic acid amplification testing (CBNAAT/GeneXpert) for tuberculosis provides:",
+   "options": [
+    "Detection of M. tuberculosis and rifampicin resistance within about two hours",
+    "Culture confirmation",
+    "Drug levels",
+    "Serological diagnosis"
+   ],
+   "correct": 0,
+   "concept": "Xpert MTB/RIF is far more sensitive than smear microscopy, detects rpoB mutations conferring rifampicin resistance simultaneously, and is now the recommended initial diagnostic test under the national programme.",
+   "reference": "NTEP Guidelines; Ananthanarayan & Paniker Microbiology 11e",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "E",
+   "stem": "A four-fold rise in antibody titre between acute and convalescent sera indicates:",
+   "options": [
+    "Recent or current infection",
+    "Past infection",
+    "Successful vaccination only",
+    "Laboratory error"
+   ],
+   "correct": 0,
+   "concept": "Paired sera taken 10 to 14 days apart showing a four-fold rise is the classical serological criterion for recent infection, overcoming the problem of interpreting a single titre against unknown background exposure.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Immunology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "H",
+   "stem": "Polymerase chain reaction is particularly valuable for organisms that:",
+   "options": [
+    "Are difficult or hazardous to culture, or when the patient has received antibiotics",
+    "Grow rapidly",
+    "Are non-pathogenic",
+    "Are visible on Gram stain"
+   ],
+   "correct": 0,
+   "concept": "PCR detects nucleic acid regardless of viability, making it useful for fastidious organisms such as Mycobacterium, Chlamydia, Bordetella and viruses, though it cannot distinguish live from dead organisms and risks contamination.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Molecular Diagnostics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "H",
+   "stem": "Urine for culture should be a:",
+   "options": [
+    "Clean-catch midstream sample processed within two hours or refrigerated",
+    "First-void sample",
+    "Twenty-four hour collection",
+    "Sample from the bag of a catheter"
+   ],
+   "correct": 0,
+   "concept": "Delay allows contaminant multiplication producing falsely high counts. Significant bacteriuria is conventionally 10 to the power 5 organisms per mL, though lower counts matter in symptomatic women and suprapubic aspirates.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Laboratory Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPC_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Specimen collection, serology & molecular diagnostics",
+   "difficulty": "M",
+   "stem": "Transport medium is used for specimens to:",
+   "options": [
+    "Preserve organism viability without allowing overgrowth during transit",
+    "Kill contaminants",
+    "Enrich the specimen",
+    "Provide identification"
+   ],
+   "correct": 0,
+   "concept": "Stuart, Amies and Cary-Blair media are semi-solid, nutrient-poor and buffered, keeping delicate organisms alive without letting hardy commensals multiply and swamp the pathogen.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Laboratory Diagnosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_001",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "E",
+   "stem": "A dendritic corneal ulcer staining with fluorescein indicates:",
+   "options": [
+    "Herpes simplex keratitis",
+    "Bacterial keratitis",
+    "Fungal keratitis",
+    "Acanthamoeba keratitis"
+   ],
+   "correct": 0,
+   "concept": "The branching dendrite with terminal bulbs is characteristic of herpes simplex epithelial keratitis, treated with topical acyclovir. Topical steroids alone are contraindicated as they cause a geographic ulcer.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_002",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "M",
+   "stem": "A corneal ulcer with feathery margins and satellite lesions in a farmer after injury with vegetative matter suggests:",
+   "options": [
+    "Fungal keratitis",
+    "Bacterial keratitis",
+    "Viral keratitis",
+    "Exposure keratitis"
+   ],
+   "correct": 0,
+   "concept": "Fusarium and Aspergillus keratitis follows vegetative trauma, showing dry raised ulcers with feathery edges, satellite lesions and an immune ring. Natamycin is first line; steroids are strictly contraindicated.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_003",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "M",
+   "stem": "Severe pain out of proportion to signs with a ring infiltrate in a contact lens wearer suggests:",
+   "options": [
+    "Acanthamoeba keratitis",
+    "Herpes zoster",
+    "Bacterial ulcer",
+    "Dry eye"
+   ],
+   "correct": 0,
+   "concept": "Acanthamoeba is associated with contact lens use and exposure to contaminated water, causing disproportionate pain, radial keratoneuritis and a ring infiltrate. Diagnosis is by confocal microscopy or culture on non-nutrient agar with E. coli.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_004",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "E",
+   "stem": "Hypopyon in a corneal ulcer represents:",
+   "options": [
+    "Sterile inflammatory exudate settling in the anterior chamber",
+    "Pus containing organisms",
+    "Blood",
+    "Lens material"
+   ],
+   "correct": 0,
+   "concept": "Hypopyon in bacterial keratitis is usually sterile, resulting from toxin-driven inflammation with an intact Descemet membrane, so intraocular tap is not routinely needed. It indicates severe disease requiring intensive therapy.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_005",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "M",
+   "stem": "Keratoconus is characterised by:",
+   "options": [
+    "Progressive corneal thinning and conical protrusion with irregular astigmatism",
+    "Corneal flattening",
+    "Corneal oedema",
+    "Corneal vascularisation"
+   ],
+   "correct": 0,
+   "concept": "Keratoconus presents in adolescence with progressive myopic astigmatism, Munson sign, Fleischer ring and Vogt striae. Rigid contact lenses, corneal collagen cross-linking to halt progression and keratoplasty are the treatment options.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_006",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "M",
+   "stem": "The commonest indication for penetrating keratoplasty in India is:",
+   "options": [
+    "Corneal scarring following infective keratitis",
+    "Keratoconus",
+    "Fuchs dystrophy",
+    "Bullous keratopathy"
+   ],
+   "correct": 0,
+   "concept": "Post-infectious corneal opacity, largely preventable, remains the leading indication in India, whereas Fuchs dystrophy and pseudophakic bullous keratopathy dominate in developed countries.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_007",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "E",
+   "stem": "Corneal grafts enjoy relatively high success because the cornea is:",
+   "options": [
+    "Avascular, conferring immune privilege",
+    "Highly vascular",
+    "Non-innervated",
+    "Regenerative"
+   ],
+   "correct": 0,
+   "concept": "Avascularity and absent lymphatics limit antigen presentation, giving immune privilege. Vascularisation from previous inflammation is the main risk factor for graft rejection, indicated by the Khodadoust line.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_008",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "H",
+   "stem": "A Kayser-Fleischer ring is deposition of copper in:",
+   "options": [
+    "Descemet membrane at the corneal periphery",
+    "The epithelium",
+    "The stroma centrally",
+    "The endothelium centrally"
+   ],
+   "correct": 0,
+   "concept": "Copper deposits in Descemet membrane produce a golden-brown peripheral ring best seen on gonioscopy, and is a diagnostic feature of Wilson disease, often accompanied by a sunflower cataract.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_009",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "H",
+   "stem": "Vitamin A deficiency causing corneal melting and perforation is termed:",
+   "options": [
+    "Keratomalacia",
+    "Xerophthalmia only",
+    "Bitot spot",
+    "Nyctalopia"
+   ],
+   "correct": 0,
+   "concept": "Keratomalacia is the end stage of xerophthalmia, a blinding emergency in malnourished children requiring immediate high-dose vitamin A. The sequence runs night blindness, conjunctival xerosis, Bitot spots, corneal xerosis, ulceration then keratomalacia.",
+   "reference": "Park 27e, Vitamin A Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_COR_010",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cornea: keratitis, ulcers, dystrophies & corneal transplant",
+   "difficulty": "M",
+   "stem": "Topical corticosteroids in a red eye are dangerous because they can:",
+   "options": [
+    "Worsen herpetic and fungal keratitis, raise intraocular pressure and cause cataract",
+    "Cure all keratitis",
+    "Reduce intraocular pressure",
+    "Prevent infection"
+   ],
+   "correct": 0,
+   "concept": "Steroid use without slit-lamp examination and fluorescein staining risks corneal melt, perforation and blindness, in addition to steroid-induced glaucoma and posterior subcapsular cataract with prolonged use.",
+   "reference": "AK Khurana Ophthalmology 8e, Cornea",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  }
+ ]
+}

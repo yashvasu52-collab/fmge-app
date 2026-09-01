@@ -1,0 +1,98 @@
+
+=== Obstetrics & Gynaecology / Abortion, ectopic pregnancy, recurrent pregnancy loss
+Q_PYQ_FMGE_2025JULP1_104 [M] A pregnant woman with a short cervix undergoes a cervical cerclage procedure. What is the most likely procedure performed?
+    A. Modified McDonald's
+   *B. McDonald's
+    C. Shirodkar
+    D. Modified Shirodkar
+   key=B ref=FMGE July 2025 Part 1 (real exam recall)
+   concept: The McDonald cerclage, a purse-string non-absorbable suture at the cervicovaginal junction, is by far the most commonly performed cerclage for cervical insufficiency. NOTE: the scraped key said D (Modified Shirodkar), but the question asks for the 'most likely/most commonly performed' technique, which is McDonald's; the Shirodkar variants (higher placement after bladder dissection) are reserved for when a higher, stronger cerclage is needed, so this recall/key appears unreliable.
+
+=== Obstetrics & Gynaecology / Antenatal care & normal labour
+Q_C_016 [E] During antenatal monitoring of a healthy term fetus, which of the following is the NORMAL baseline fetal heart rate range?
+   *A. 110-160 beats/min
+    B. 60-100 beats/min
+    C. 160-200 beats/min
+    D. 80-120 beats/min
+   key=A ref=DC Dutta's Obstetrics 9e (Fetal monitoring)
+   concept: The normal baseline fetal heart rate is 110-160 bpm. A sustained rate below 110 is bradycardia and above 160 is tachycardia; both warrant evaluation for fetal compromise.
+Q_C_017 [M] During a vaginal delivery, after the head delivers it retracts back against the perineum ('turtle sign') and the anterior shoulder fails to deliver with routine traction. What is the FIRST maneuver to perform?
+   *A. McRoberts maneuver (hyperflexion of the maternal hips)
+    B. Immediate caesarean section
+    C. Fundal pressure
+    D. Heavy downward traction on the head
+   key=A ref=DC Dutta's Obstetrics 9e (Shoulder dystocia)
+   concept: Shoulder dystocia is an obstetric emergency. The first-line step is the McRoberts maneuver (hyperflexion and abduction of the maternal hips) with suprapubic pressure. Fundal pressure is contraindicated because it worsens the impaction.
+
+=== Obstetrics & Gynaecology / Ca cervix / endometrium / ovary; screening
+Q_C_029 [H] A 58-year-old obese, diabetic, nulliparous woman presents with painless postmenopausal vaginal bleeding. Which diagnosis must be excluded first, and by which investigation?
+   *A. Endometrial carcinoma; endometrial biopsy (with transvaginal USG)
+    B. Ovarian cyst; CA-125
+    C. Atrophic vaginitis; no investigation needed
+    D. Cervical polyp; Pap smear only
+   key=A ref=DC Dutta's Gynaecology 7e (Endometrial carcinoma)
+   concept: Postmenopausal bleeding is endometrial carcinoma until proven otherwise. Risk factors include unopposed oestrogen, obesity, nulliparity, diabetes and late menopause. Evaluate with transvaginal ultrasound (endometrial thickness) and endometrial biopsy/sampling for a tissue diagnosis.
+Q_C_030 [H] A 50-year-old woman with weight loss and dyspepsia is found to have bilateral solid ovarian masses. Histology shows mucin-filled 'signet-ring' cells. The most likely primary site is:
+   *A. Stomach
+    B. Lung
+    C. Thyroid
+    D. Endometrium
+   key=A ref=DC Dutta's Gynaecology 7e / Robbins (Ovarian tumours)
+   concept: Bilateral ovarian metastases with signet-ring cells define a Krukenberg tumour, most often from a gastric (or colonic) primary. It is a reminder to search for a gastrointestinal primary when ovarian masses are bilateral and mucin-secreting.
+Q_h3c_014 [M] A 32-year-old asymptomatic, sexually active woman with no prior abnormal results attends for routine cervical cancer screening. According to current recommended screening for an average-risk woman aged 30 or older, which approach and interval is most appropriate?
+    A. Annual Pap (cytology) smear for life beginning at first intercourse
+   *B. Primary HPV-DNA testing every 5 years (or HPV/cytology co-testing every 5 years, or cytology alone every 3 years)
+    C. No screening is required unless she becomes symptomatic
+    D. Colposcopy every year regardless of prior results
+   key=B ref=WHO Guideline for screening and treatment of cervical pre-cancer 2021 (CONFIRM current national/ICMR-MoHFW interval)
+   concept: VERIFY: confirm the CURRENT nationally recommended cervical screening test and interval before shipping this item - guidance is guideline- and currency-dependent and differs between bodies (WHO 2021 favours primary HPV-DNA testing every 5-10 years from age 30; USPSTF/ACOG allow HPV, co-testing or 3-yearly cytology; and India's operational framework has historically used VIA-based screening). The stem's 5-yearly HPV-based answer reflects international guidance but must be checked against the latest MoHFW/ICMR program recommendation.
+
+=== Obstetrics & Gynaecology / Contraception
+Q_C_026 [M] A 37-year-old woman who smokes 20 cigarettes a day requests contraception. Which method is best AVOIDED because of an increased risk of arterial and venous thrombosis?
+   *A. Combined (oestrogen-containing) oral contraceptive pill
+    B. Progesterone-only pill
+    C. Copper IUCD
+    D. Barrier method (condom)
+   key=A ref=DC Dutta's Gynaecology 7e (Contraception) / WHO Medical Eligibility Criteria
+   concept: Combined (oestrogen-containing) OCPs are contraindicated in smokers aged 35 or over (also in prior VTE, migraine with aura, and uncontrolled hypertension) due to thrombotic risk. Progesterone-only methods, the copper IUCD and barrier methods are safer alternatives.
+
+=== Obstetrics & Gynaecology / Postpartum haemorrhage
+Q_C_019 [M] A woman with atonic PPH is also known to have severe pre-eclampsia (BP 170/110). Which uterotonic is CONTRAINDICATED in her?
+   *A. Methylergometrine (ergometrine)
+    B. Oxytocin
+    C. Carboprost
+    D. Misoprostol
+   key=A ref=DC Dutta's Obstetrics 9e / WHO PPH guideline - web-verified 2026-07-04
+   concept: Ergometrine/methylergometrine causes vasoconstriction and can dangerously raise blood pressure, so it is contraindicated in hypertension/pre-eclampsia. Oxytocin (10 IU IM/IV) is the first-line uterotonic for prevention and treatment of PPH. Carboprost (PGF2-alpha) is avoided in asthma.
+Q_C_020 [E] Primary postpartum haemorrhage is traditionally defined as blood loss exceeding which volume following a vaginal delivery?
+   *A. 500 mL
+    B. 100 mL
+    C. 1500 mL
+    D. 250 mL
+   key=A ref=DC Dutta's Obstetrics 9e (Postpartum haemorrhage)
+   concept: Primary PPH is blood loss of at least 500 mL after a vaginal delivery (or at least 1000 mL after caesarean) within 24 hours of birth; any loss causing haemodynamic instability also qualifies. Secondary PPH occurs from 24 hours up to 6 weeks postpartum.
+
+=== Obstetrics & Gynaecology / Preeclampsia/eclampsia, APH
+Q_C_022 [E] A 30-week pregnant woman with severe pre-eclampsia has a generalized tonic-clonic convulsion. Which drug is the treatment of choice to control and prevent further seizures?
+   *A. Magnesium sulfate
+    B. Diazepam
+    C. Phenytoin
+    D. Phenobarbitone
+   key=A ref=DC Dutta's Obstetrics 9e / Pritchard regimen - web-verified 2026-07-04
+   concept: Magnesium sulfate is the drug of choice for controlling and preventing eclamptic seizures (superior to diazepam and phenytoin per the Eclampsia/MAGPIE trials). Pritchard regimen: 4 g IV plus 5 g IM into each buttock as loading, then 5 g IM every 4 hours.
+Q_C_023 [M] A woman receiving intramuscular magnesium sulfate for eclampsia is being monitored. Which is the EARLIEST clinical sign of magnesium toxicity that should prompt you to withhold the next dose?
+   *A. Loss of the knee (patellar) reflex
+    B. Respiratory arrest
+    C. Cardiac arrest
+    D. Oliguria
+   key=A ref=DC Dutta's Obstetrics 9e (Eclampsia)
+   concept: Loss of the deep tendon (patellar) reflex is the earliest sign of magnesium toxicity and signals to withhold further doses; respiratory depression and cardiac arrest occur at higher levels. The antidote is IV calcium gluconate. Monitor reflexes, respiratory rate (>=12/min) and urine output (>=30 mL/h).
+Q_C_024 [M] A 34-week multigravida presents with sudden, painless, bright-red vaginal bleeding. The uterus is soft, non-tender and relaxed, and the fetal heart rate is normal. What is the most likely cause of this antepartum haemorrhage?
+   *A. Placenta previa
+    B. Abruptio placentae
+    C. Vasa previa
+    D. Uterine rupture
+   key=A ref=DC Dutta's Obstetrics 9e (Antepartum haemorrhage)
+   concept: Painless, causeless, recurrent bright-red bleeding with a soft, non-tender uterus is classic for placenta previa. Abruptio placentae is typically painful with a tense, tender ('woody') uterus. Do NOT perform a digital vaginal examination until previa is excluded by ultrasound.
+
+[12 shown of 12 unverified in scope]

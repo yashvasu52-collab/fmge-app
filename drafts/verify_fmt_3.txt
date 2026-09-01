@@ -1,0 +1,40 @@
+Q_FM_SEX_006 | del | duplicate of Q_FM_SEX_014 on the signs that a newborn had a separate existence, which the fuller item lists more precisely. The fuller item is retained
+Q_FM_JUR_009 | topic=Legal procedure, consent, key IPC sections | consent is named in the legal procedure topic, while the jurisprudence topic is scoped to negligence, consumer protection, PC-PNDT, MTP and transplantation
+Q_FM_JUR_010 | topic=Legal procedure, consent, key IPC sections | examination of an accused under CrPC Section 53 is legal procedure, not jurisprudence
+Q_FM_JUR_016 | topic=Legal procedure, consent, key IPC sections | the item turns on the form of consent for an intimate examination, so it belongs with consent
+Q_FM_JUR_005 | ref=MTP (Amendment) Act 2021, Section 3; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Medical Law and Ethics | the reference cited the statute alone with no section and no study source
+Q_FM_JUR_006 | ref=PC-PNDT Act 1994, Section 23; Park's Textbook of Preventive and Social Medicine 27e, Ch. Health Programmes in India | "Park 27e" was an abbreviation with no chapter
+Q_FM_JUR_007 | ref=Transplantation of Human Organs Act 1994, Section 3; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Medical Law and Ethics | the reference abbreviated the Act and cited Reddy 35e, conflicting with the 34e used throughout the bank
+Q_FM_SEX_002 | ref=POCSO Act 2012; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Sexual Offences | the reference cited Reddy 35e in short form, conflicting with the 34e edition used elsewhere
+Q_FM_SEX_003 | ref=MoHFW Guidelines and Protocols for Medico-legal Care for Survivors of Sexual Violence 2014; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Sexual Offences | the guideline was unnamed and Reddy was cited in short form at a conflicting edition
+Q_PYQ_FMGE_2025JULP2_061 | ref=FMGE July 2025 Part 2 (real exam recall); Bharatiya Sakshya Adhiniyam 2023, Section 111; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Legal Procedure | the reference named only the exam paper, giving the candidate nothing to read
+Q_PYQ_INICET_2025MAY_005 | ref=INI-CET May 2025 (real exam recall); MTP (Amendment) Act 2021, Section 3; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Medical Law and Ethics | exam-paper-only reference given a study source
+Q_PYQ_INICET_2025MAY_006 | ref=INI-CET May 2025 (real exam recall); MTP (Amendment) Act 2021, Section 3; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Medical Law and Ethics | exam-paper-only reference given a study source
+Q_FM_JUR_001 | ok |
+Q_FM_JUR_002 | ok |
+Q_FM_JUR_003 | ok |
+Q_FM_JUR_004 | ok |
+Q_FM_JUR_008 | ok |
+Q_FM_JUR_011 | ok |
+Q_FM_JUR_012 | ok |
+Q_FM_JUR_013 | ok |
+Q_FM_JUR_014 | ok |
+Q_FM_JUR_015 | ok |
+Q_FM_JUR_017 | ok |
+Q_FM_JUR_018 | ok |
+Q_FM_SEX_001 | ok |
+Q_FM_SEX_004 | ok |
+Q_FM_SEX_005 | ok |
+Q_FM_SEX_007 | ok |
+Q_FM_SEX_008 | ok |
+Q_FM_SEX_009 | ok |
+Q_FM_SEX_010 | ok |
+Q_FM_SEX_011 | ok |
+Q_FM_SEX_012 | ok |
+Q_FM_SEX_013 | ok |
+Q_FM_SEX_014 | ok |
+Q_FM_SEX_015 | ok |
+Q_FM_SEX_016 | ok |
+Q_FM_SEX_017 | ok |
+Q_FM_SEX_018 | ok |
+Q_FM_THR_001 | ok |

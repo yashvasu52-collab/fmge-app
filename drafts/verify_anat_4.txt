@@ -1,0 +1,17 @@
+Q_AN_UL_002 | del | duplicate of Q_PYQ_FMGE_2025JANP1_003 (as corrected), which tests the same radial nerve injury in a mid-shaft humeral fracture and sits correctly in the nerve injuries topic; this item was also misfiled under axilla and hand spaces. The nerve injuries item is retained
+Q_AN_UL_004 | del | duplicate of Q_PYQ_FMGE_2026JAN_010 on the axillary nerve being injured in a surgical neck fracture. The exam-recall item is retained, and Q_AN_UL_013 continues to cover the axillary nerve in the quadrangular space, which is a distinct mechanism
+Q_AN_TH_009 | ok |
+Q_AN_TH_010 | ok |
+Q_AN_TH_011 | ok |
+Q_AN_TH_012 | ok |
+Q_AN_TH_013 | ok |
+Q_AN_UL_001 | ok |
+Q_AN_UL_003 | ok |
+Q_AN_UL_005 | ok |
+Q_AN_UL_007 | ok |
+Q_AN_UL_008 | ok |
+Q_AN_UL_009 | ok |
+Q_AN_UL_010 | ok |
+Q_AN_UL_011 | ok |
+Q_AN_UL_012 | ok |
+Q_AN_UL_013 | ok |

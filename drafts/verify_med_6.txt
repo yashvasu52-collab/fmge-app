@@ -1,0 +1,45 @@
+Q_MED_ZOO_002 | del | duplicate of Q_MED_ZOO_013, which presents the same Weil disease as a clinical case. The vignette is retained
+Q_MED_ZOO_006 | del | duplicate of Q_MED_ZOO_016, which gives the same undulant fever and sacroiliitis and additionally the unpasteurised milk exposure. The fuller item is retained
+Q_MED_MOV_016 | del | duplicate of Q_MED_MOV_007 on the triad of normal pressure hydrocephalus. The first item is retained
+Q_MED_MOV_017 | del | duplicate of Q_MED_MOV_003 on Huntington disease with CAG expansion. The first item is retained
+Q_MED_HEM_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 106 (Malignancies of Lymphoid Cells) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HEM_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 106 (Malignancies of Lymphoid Cells) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HEM_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 106 (Malignancies of Lymphoid Cells) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HEM_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 106 (Malignancies of Lymphoid Cells) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HEM_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 106 (Malignancies of Lymphoid Cells) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HEM_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 106 (Malignancies of Lymphoid Cells) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HEM_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 106 (Malignancies of Lymphoid Cells) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_HEM_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myeloid Malignancies | a myeloid leukaemia item was cited to the lymphoid malignancies chapter
+Q_MED_HEM_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myeloid Malignancies | a myeloid leukaemia item was cited to the lymphoid malignancies chapter
+Q_MED_MOV_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 437 (Parkinson's Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_MOV_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 437 (Parkinson's Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_MOV_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 437 (Parkinson's Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_MOV_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 437 (Parkinson's Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_MOV_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 437 (Parkinson's Disease) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_MOV_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dementia | a dementia item was cited to the Parkinson disease chapter
+Q_MED_MOV_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dementia | a dementia item was cited to the Parkinson disease chapter
+Q_MED_MOV_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dementia | a dementia item was cited to the Parkinson disease chapter
+Q_MED_MOV_015 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dementia | a dementia item was cited to the Parkinson disease chapter
+Q_MED_ZOO_004 | ok |
+Q_MED_ZOO_007 | ok |
+Q_MED_ZOO_008 | ok |
+Q_MED_ZOO_009 | ok |
+Q_MED_ZOO_010 | ok |
+Q_MED_ZOO_013 | ok |
+Q_MED_ZOO_014 | ok |
+Q_MED_ZOO_015 | ok |
+Q_MED_ZOO_016 | ok |
+Q_MED_ZOO_017 | ok |
+Q_MED_ZOO_018 | ok |
+Q_MED_ZOO_019 | ok |
+Q_MED_HEM_004 | ok |
+Q_MED_HEM_012 | ok |
+Q_MED_HEM_014 | ok |
+Q_MED_HEM_016 | ok |
+Q_MED_HEM_017 | ok |
+Q_MED_HEM_019 | ok |
+Q_MED_MOV_002 | ok |
+Q_MED_MOV_010 | ok |
+Q_MED_MOV_019 | ok |
+Q_MED_MDN_001 | ok |
+Q_MED_MDN_002 | ok |

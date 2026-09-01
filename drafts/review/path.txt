@@ -1,0 +1,1137 @@
+
+=== Pathology / Acute & chronic inflammation, healing/repair
+Q_GEN_PATH_GEN_INFLAMM_001 [E] A pleural fluid aspirate has a specific gravity of 1.025, a high protein content (fluid/serum protein ratio greater than 0.5) and abundant inflammatory cells. This fluid is best classified as:
+    A. A serous transudate
+    B. Lymph draining from obstructed lymphatics
+   *C. An inflammatory exudate
+    D. Chyle
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: An exudate is a protein-rich, cell-rich extravascular fluid with specific gravity above 1.020 (and a high LDH); it results from increased vascular permeability during inflammation. A transudate is a protein-poor ultrafiltrate (specific gravity below 1.012) produced by hydrostatic/oncotic imbalance, as in heart failure or hypoalbuminaemia, with few cells. Lymph and chyle differ in origin; chyle is milky and triglyceride-rich from lymphatic disruption. The high protein and cellularity here define an exudate.
+Q_GEN_PATH_GEN_INFLAMM_002 [E] The initial, transient, low-affinity interaction (rolling) of neutrophils along activated venular endothelium in acute inflammation is mediated chiefly by which class of molecules?
+   *A. Selectins binding sialylated oligosaccharides such as sialyl-Lewis X
+    B. Integrins binding ICAM-1
+    C. PECAM-1 (CD31) homotypic interactions
+    D. Cadherins at endothelial adherens junctions
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Rolling is mediated by selectins: E-selectin on endothelium (induced by TNF and IL-1), P-selectin from Weibel-Palade bodies (redistributed by histamine and thrombin) and leukocyte L-selectin, which bind sialyl-Lewis X-containing glycoproteins. Firm adhesion is a later step mediated by leukocyte integrins (LFA-1, Mac-1) whose affinity is upregulated by chemokines, binding endothelial ICAM-1 and VCAM-1. Transmigration (diapedesis) uses PECAM-1 (CD31). Cadherins hold cells together at junctions and are not recruitment molecules.
+Q_GEN_PATH_GEN_INFLAMM_003 [E] The four classic cardinal signs of acute inflammation are rubor, tumor, calor and dolor. The fifth sign, added later by Virchow, is:
+   *A. Functio laesa (loss of function)
+    B. Pallor
+    C. Sclerosis
+    D. Necrosis
+   key=A ref=Harsh Mohan Textbook of Pathology, 8th ed. — Chapter 6: Inflammation and Healing
+   concept: Celsus described four cardinal signs: rubor (redness, from vasodilation and increased blood flow), tumor (swelling, from exudate and oedema), calor (heat, from increased blood flow) and dolor (pain). Virchow added functio laesa, loss of function of the inflamed part. Redness and heat are driven by vasodilator mediators such as histamine, prostaglandins and nitric oxide; pain is produced by bradykinin and prostaglandin E2 sensitizing nerve endings, plus mechanical pressure from the exudate.
+Q_GEN_PATH_GEN_INFLAMM_004 [E] Accumulation of thin, protein-poor, cell-poor fluid such as that within a burn blister or a mild viral pleural effusion is characteristic of which morphologic pattern of acute inflammation?
+    A. Fibrinous inflammation
+   *B. Serous inflammation
+    C. Suppurative inflammation
+    D. Pseudomembranous inflammation
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Serous inflammation is an outpouring of watery, low-protein fluid derived from plasma or from serosal mesothelial cell secretion, as seen in a skin blister or mild body-cavity effusion. Fibrinous inflammation occurs with greater vascular permeability, allowing large fibrinogen molecules to escape and polymerize into fibrin, typically on serosal surfaces such as the pericardium. Suppurative inflammation produces pus (neutrophils and liquefactive necrosis), and pseudomembranous inflammation forms a necroinflammatory membrane.
+Q_GEN_PATH_GEN_INFLAMM_005 [E] Phagocytosis of a bacterium is greatly enhanced when the microbe is coated by opsonins. Which of the following acts as a major opsonin?
+    A. C5a
+    B. Histamine
+    C. Leukotriene B4
+   *D. C3b
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: The principal opsonins are C3b (and its cleavage product iC3b) from complement, the Fc portion of IgG antibody, and plasma lectins such as mannose-binding lectin; they coat microbes and bind leukocyte receptors (complement receptors CR1/CR3 and Fc-gamma receptors) to promote engulfment. C5a is a potent chemoattractant and anaphylatoxin, not an opsonin. Histamine mediates early vasodilation and increased permeability. Leukotriene B4 is a strong neutrophil chemoattractant and activator but does not opsonize.
+Q_GEN_PATH_GEN_INFLAMM_006 [M] A neonate has delayed separation of the umbilical cord (beyond 30 days), recurrent bacterial skin and mucosal infections without formation of pus, and a markedly elevated peripheral neutrophil count. The most likely underlying defect is:
+   *A. Deficiency of the beta-2 integrin subunit (CD18) impairing firm leukocyte adhesion
+    B. Deficiency of NADPH oxidase impairing the respiratory burst
+    C. Defective microtubule-mediated phagolysosome fusion
+    D. Isolated myeloperoxidase deficiency
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Leukocyte adhesion deficiency type 1 arises from mutation of the beta-2 integrin subunit CD18 (shared by LFA-1 and Mac-1), so neutrophils cannot firmly adhere to ICAM-1 or transmigrate. The result is recurrent infections with no pus despite blood neutrophilia, and delayed umbilical cord separation. NADPH oxidase deficiency is chronic granulomatous disease (a killing defect). Defective phagolysosome fusion is Chediak-Higashi. Myeloperoxidase deficiency is usually mild. LAD type 2 instead affects the selectin ligand sialyl-Lewis X.
+Q_GEN_PATH_GEN_INFLAMM_007 [M] Among complement fragments generated during activation, which one is BOTH a potent anaphylatoxin AND the most powerful complement-derived neutrophil chemoattractant?
+    A. C3b
+    B. C1q
+   *C. C5a
+    D. C5b-9 (membrane attack complex)
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: C5a is the most potent complement-derived chemoattractant and a strong anaphylatoxin: it triggers mast-cell histamine release, increases vascular permeability, and activates neutrophil adhesion and the oxidative burst. C3a and C4a are anaphylatoxins but are weaker and are not chemotactic. C3b and iC3b are opsonins. C5b-9 assembles into the membrane attack complex, a lytic transmembrane pore. C1q initiates the classical pathway by binding antigen-antibody complexes.
+Q_GEN_PATH_GEN_INFLAMM_008 [M] Within minutes of a bee sting, the affected skin becomes red, swollen and warm. The mediator responsible for this immediate, transient increase in venular permeability, released chiefly from mast cells, is:
+    A. Bradykinin
+   *B. Histamine
+    C. Leukotriene C4
+    D. Interleukin-1
+   key=B ref=Harsh Mohan Textbook of Pathology, 8th ed. — Chapter 6: Inflammation and Healing
+   concept: Histamine is stored preformed in mast cell granules (and in basophils and platelets) and is released on degranulation triggered by IgE cross-linking, C3a/C5a or physical stimuli. It mediates the immediate transient phase of increased permeability by causing endothelial cell contraction in postcapillary venules, along with arteriolar vasodilation. Bradykinin produces pain and permeability but via the slower kinin cascade. The cysteinyl leukotrienes C4/D4/E4 cause a more sustained permeability increase. IL-1 is a cytokine mediating endothelial activation and the systemic acute-phase response, not immediate permeability.
+Q_GEN_PATH_GEN_INFLAMM_009 [M] A patient with aspirin-exacerbated respiratory disease develops bronchospasm after taking aspirin, because cyclooxygenase inhibition shunts arachidonic acid toward the lipoxygenase pathway. Which drug directly inhibits the 5-lipoxygenase ENZYME (rather than the leukotriene receptor)?
+    A. Celecoxib
+    B. Montelukast
+    C. Aspirin
+   *D. Zileuton
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Zileuton inhibits 5-lipoxygenase, blocking synthesis of all leukotrienes (LTB4 and the cysteinyl leukotrienes C4/D4/E4). Montelukast and zafirlukast antagonize the cysteinyl-leukotriene receptor CysLT1 rather than the enzyme. Aspirin and celecoxib inhibit cyclooxygenase: aspirin irreversibly acetylates COX-1 and COX-2, whereas celecoxib is COX-2 selective. In aspirin sensitivity, COX blockade diverts arachidonate into the lipoxygenase pathway, increasing bronchoconstrictor leukotrienes and precipitating bronchospasm.
+Q_GEN_PATH_GEN_INFLAMM_010 [M] A patient on broad-spectrum antibiotics develops profuse diarrhoea; colonoscopy shows adherent yellow-white plaques composed of fibrin, mucus, necrotic epithelium and neutrophils overlying an ulcerated mucosa. This pattern of inflammation is termed:
+    A. Serous inflammation
+    B. Granulomatous inflammation
+   *C. Pseudomembranous inflammation
+    D. Fibrinoid necrosis
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Pseudomembranous inflammation is a superficial necroinflammatory membrane of fibrin, sloughed necrotic epithelium, mucus and inflammatory cells overlying an ulcerated surface. The classic cause is Clostridioides difficile colitis (toxins A and B) after antibiotic use, and Corynebacterium diphtheriae in the pharynx. Serous inflammation is thin effusion; granulomatous inflammation is a chronic pattern with epithelioid macrophages; fibrinoid necrosis is a bright eosinophilic vessel-wall change in vasculitis and malignant hypertension, not a mucosal membrane.
+Q_GEN_PATH_GEN_INFLAMM_011 [M] A localized, walled-off collection of pus within a tissue, most commonly caused by Staphylococcus aureus, is best described as:
+   *A. An abscess
+    B. An ulcer
+    C. A serous effusion
+    D. A granuloma
+   key=A ref=Harsh Mohan Textbook of Pathology, 8th ed. — Chapter 6: Inflammation and Healing
+   concept: An abscess is a focal collection of purulent exudate (neutrophils, liquefied necrotic cells and oedema fluid) walled off within a tissue, typically produced by pyogenic organisms such as Staphylococcus aureus. The centre undergoes liquefactive necrosis and may be surrounded by preserved neutrophils, granulation tissue and fibrosis forming a pyogenic membrane. An ulcer is a local excavation of an epithelial surface from sloughing of inflamed necrotic tissue. A serous effusion is thin fluid, and a granuloma is an organized collection of epithelioid macrophages characteristic of chronic inflammation.
+Q_GEN_PATH_GEN_INFLAMM_012 [M] Which growth factor is the principal driver of angiogenesis (formation of new capillaries) during the development of granulation tissue in wound healing?
+    A. Transforming growth factor-beta (TGF-beta)
+   *B. Vascular endothelial growth factor (VEGF)
+    C. Platelet-derived growth factor (PDGF) acting alone
+    D. Epidermal growth factor (EGF)
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: VEGF (particularly VEGF-A) is the key promoter of angiogenesis: it stimulates endothelial proliferation and migration and increases vascular permeability, and is upregulated by hypoxia through HIF-1-alpha. TGF-beta is the dominant fibrogenic cytokine, stimulating fibroblast synthesis of collagen and fibronectin while suppressing matrix degradation, thereby driving scar formation, and it is also anti-inflammatory. PDGF recruits and activates fibroblasts and smooth muscle and contributes to angiogenesis but is not the principal endothelial mitogen. EGF stimulates epithelial and fibroblast proliferation.
+Q_GEN_PATH_GEN_INFLAMM_013 [M] By the end of the remodeling phase (about 3 months), approximately what proportion of the original unwounded tensile strength does a sutured skin wound typically recover?
+    A. About 10%
+    B. About 30%
+   *C. About 70 to 80%
+    D. Essentially 100%
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Wound tensile strength is only about 10% of normal at 1 week, when the wound is held largely by sutures; it then rises rapidly over the next 4 weeks and slows, reaching a plateau of roughly 70 to 80% of unwounded skin by about 3 months, and it essentially never regains full 100% strength. This recovery reflects not only collagen accumulation but remodeling: replacement of the initial type III collagen by stronger cross-linked type I collagen, mediated by matrix metalloproteinases and lysyl oxidase cross-linking.
+Q_GEN_PATH_GEN_INFLAMM_014 [M] A dark-skinned patient develops a raised, firm scar at the site of an ear piercing that extends well beyond the original wound margins and recurs after excision. This lesion is best described as:
+    A. Hypertrophic scar
+    B. Contracture
+    C. Wound dehiscence
+   *D. Keloid
+   key=D ref=Harsh Mohan Textbook of Pathology, 8th ed. — Chapter 6: Inflammation and Healing
+   concept: A keloid is exuberant scar tissue with excess collagen (predominantly type III, later type I) that grows beyond the boundaries of the original wound, does not regress, and tends to recur after excision; it is more frequent in darker-skinned individuals with a genetic predisposition. A hypertrophic scar is also raised but remains confined within the wound margins and may regress with time. Contracture is exaggerated wound shrinkage driven by myofibroblasts, limiting movement across joints or after burns. Wound dehiscence is mechanical rupture of a wound.
+Q_GEN_PATH_GEN_INFLAMM_015 [M] Alternatively activated (M2) macrophages, induced by interleukins 4 and 13, differ from classically activated (M1) macrophages chiefly in that M2 macrophages predominantly:
+    A. Produce nitric oxide and reactive oxygen species to kill microbes
+   *B. Promote tissue repair, angiogenesis and fibrosis with anti-inflammatory IL-10 and TGF-beta
+    C. Are activated by interferon-gamma and microbial lipopolysaccharide
+    D. Secrete IL-12 to drive Th1 differentiation
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: M1 (classically activated) macrophages are induced by interferon-gamma from Th1 and NK cells and by microbial products such as LPS acting through Toll-like receptors; they secrete IL-1, IL-12 and TNF, generate reactive oxygen species and nitric oxide, and are microbicidal and pro-inflammatory. M2 (alternatively activated) macrophages are induced by IL-4 and IL-13 from Th2 cells; they secrete IL-10 and TGF-beta, dampen inflammation, and promote tissue repair, angiogenesis and fibrosis. The M1-to-M2 shift helps terminate inflammation and begin healing.
+Q_GEN_PATH_GEN_INFLAMM_016 [M] Histologically, granulation tissue is characterized by which combination of components?
+    A. Epithelioid macrophages and multinucleate giant cells
+    B. Central caseous necrosis rimmed by lymphocytes
+   *C. Proliferating fibroblasts and new thin-walled capillaries (neovascularization)
+    D. Sheets of neutrophils within liquefied tissue
+   key=C ref=Harsh Mohan Textbook of Pathology, 8th ed. — Chapter 6: Inflammation and Healing
+   concept: Granulation tissue, the hallmark of tissue repair, consists of proliferating fibroblasts laying down loose connective tissue together with new leaky capillaries formed by angiogenesis, plus scattered macrophages and other inflammatory cells, giving a soft, pink, granular appearance. It must not be confused with a granuloma, which is an aggregate of epithelioid macrophages with or without giant cells seen in granulomatous inflammation, nor with caseating tuberculous granulomas or suppurative (pus-filled) inflammation. Over time granulation tissue matures into a fibrous collagenous scar.
+Q_GEN_PATH_GEN_INFLAMM_017 [M] A peripheral blood differential showing a marked absolute eosinophilia is MOST classically associated with which of the following?
+    A. Acute pyogenic bacterial infection
+   *B. Helminthic parasitic infestation and type-I hypersensitivity or allergy
+    C. Acute viral infection
+    D. Typhoid fever
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Eosinophilia is characteristic of helminthic parasitic infections and of IgE-mediated allergic and atopic disorders such as asthma, hay fever and drug reactions, driven largely by IL-5. Acute pyogenic bacterial infection typically causes neutrophilic leukocytosis with a left shift toward immature band forms. Most acute viral infections produce lymphocytosis. Typhoid fever (Salmonella), some other viral infections and overwhelming sepsis characteristically cause leukopenia or neutropenia. Recognizing these leukocyte response patterns aids differential diagnosis.
+Q_GEN_PATH_GEN_INFLAMM_018 [H] A child with partial oculocutaneous albinism, recurrent pyogenic infections, mild bleeding tendency and peripheral neuropathy has neutrophils containing giant cytoplasmic granules on a blood smear. The underlying defect is in:
+    A. NADPH oxidase
+    B. The beta-2 integrin subunit (CD18)
+    C. Complement component C3
+   *D. The lysosomal trafficking regulator (LYST), impairing phagolysosome fusion
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Chediak-Higashi syndrome is an autosomal-recessive defect in the LYST (lysosomal trafficking regulator) gene, causing defective fusion of lysosomes and granules with phagosomes. This produces giant abnormal granules in leukocytes and other cells, impaired bacterial killing with recurrent pyogenic infections, partial albinism from a melanosome defect, a bleeding tendency from a platelet dense-granule defect, and neurological abnormalities. NADPH oxidase deficiency is chronic granulomatous disease and CD18 deficiency is LAD-1; neither produces giant granules or albinism, and C3 deficiency causes pyogenic infection without these features.
+Q_GEN_PATH_GEN_INFLAMM_019 [H] A boy has recurrent infections with catalase-positive organisms (Staphylococcus aureus, Aspergillus, Serratia, Burkholderia) and forms granulomas; a dihydrorhodamine (DHR) flow-cytometry test is abnormal. The defective process is:
+   *A. Generation of the respiratory (oxidative) burst by NADPH oxidase
+    B. Leukocyte rolling mediated by selectins
+    C. Phagolysosome fusion
+    D. Antibody-dependent opsonization
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Chronic granulomatous disease results from mutations in the phagocyte NADPH oxidase complex (most often X-linked gp91phox, encoded by CYBB), so phagocytes cannot generate superoxide and hydrogen peroxide for oxygen-dependent killing. Patients suffer recurrent infections with catalase-positive organisms, which destroy their own hydrogen peroxide and thereby deny the phagocyte a borrowed microbial substrate, and they form granulomas. Diagnosis rests on an abnormal dihydrorhodamine-123 oxidation test or nitroblue tetrazolium test. Selectin, LYST and antibody defects are unrelated to the oxidative burst.
+Q_GEN_PATH_GEN_INFLAMM_020 [H] Regarding eicosanoids derived from arachidonic acid, which pairing of mediator with its predominant vascular and platelet action is CORRECT?
+    A. Thromboxane A2 causes vasodilation and inhibits platelet aggregation
+    B. Prostacyclin (PGI2) causes vasoconstriction and promotes platelet aggregation
+   *C. Thromboxane A2 causes vasoconstriction and promotes platelet aggregation
+    D. Leukotriene B4 is a potent vasodilator
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Thromboxane A2, produced by platelets via cyclooxygenase and thromboxane synthase, causes vasoconstriction and promotes platelet aggregation. Prostacyclin (PGI2), produced by endothelium, has the opposite effect, causing vasodilation and inhibiting platelet aggregation; the TXA2/PGI2 balance regulates haemostasis and vascular tone. Prostaglandins E2, D2 and I2 are vasodilators that also potentiate oedema, pain and fever. Leukotriene B4 is a potent chemoattractant and neutrophil activator rather than a vasodilator, while the cysteinyl leukotrienes C4/D4/E4 cause vasoconstriction, bronchospasm and increased permeability.
+Q_GEN_PATH_GEN_INFLAMM_021 [H] Following injury, which of the following cell types is PERMANENT (terminally differentiated and non-dividing) and therefore heals predominantly by scar rather than by regeneration?
+    A. Intestinal crypt epithelium
+    B. Hepatocytes
+    C. Proximal renal tubular epithelium
+   *D. Cardiac myocytes
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Cells are classified by proliferative capacity. Labile cells divide continuously and regenerate readily (surface epithelia of gut and skin, and bone marrow). Stable or quiescent cells rest in G0 but divide when stimulated (hepatocytes, renal tubular epithelium, endothelium and fibroblasts) and regenerate after injury. Permanent cells are terminally differentiated and non-dividing (neurons, cardiac myocytes and skeletal muscle); consequently a myocardial infarct heals by fibrous scar rather than muscle regeneration. Skeletal muscle shows only limited regeneration via satellite cells.
+Q_GEN_PATH_GEN_INFLAMM_022 [H] During scar maturation the initially deposited type III collagen is progressively replaced by type I collagen. The enzymes primarily responsible for degrading old collagen during this remodeling are:
+    A. Lysyl oxidase
+   *B. Zinc-dependent matrix metalloproteinases (MMPs)
+    C. Prolyl hydroxylase
+    D. Myeloperoxidase
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Extracellular matrix remodeling depends on matrix metalloproteinases (collagenases, gelatinases and stromelysins), zinc-dependent enzymes secreted by fibroblasts, macrophages and neutrophils, whose activity is restrained by tissue inhibitors of metalloproteinases (TIMPs). They degrade type III collagen so it can be replaced by cross-linked type I collagen, increasing tensile strength. Lysyl oxidase is a copper-dependent enzyme that cross-links collagen; prolyl and lysyl hydroxylases require vitamin C to hydroxylate procollagen; myeloperoxidase is a microbicidal enzyme of neutrophils, not a collagenase.
+Q_GEN_PATH_GEN_INFLAMM_023 [H] During the systemic acute-phase response driven mainly by interleukin-6, plasma levels of most acute-phase proteins rise. Which plasma protein instead DECREASES (a negative acute-phase reactant)?
+   *A. Albumin
+    B. C-reactive protein
+    C. Fibrinogen
+    D. Hepcidin
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Positive acute-phase reactants, whose hepatic synthesis rises under IL-6 (with IL-1 and TNF), include C-reactive protein, serum amyloid A, fibrinogen, hepcidin, haptoglobin, ferritin and complement components. Elevated fibrinogen makes red cells form rouleaux, raising the erythrocyte sedimentation rate; hepcidin sequesters iron and causes the anaemia of chronic disease. Albumin and transferrin are negative acute-phase reactants, whose hepatic synthesis falls during inflammation, contributing to the hypoalbuminaemia seen in chronic illness.
+Q_GEN_PATH_GEN_INFLAMM_024 [H] The pathway by which bacterial lipopolysaccharide produces fever culminates in which final mediator acting on the hypothalamic thermoregulatory centre?
+    A. Interleukin-1 acting directly on skeletal muscle
+   *B. Prostaglandin E2 synthesized via cyclooxygenase
+    C. Bradykinin
+    D. Histamine
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Chapter 3: Inflammation and Repair
+   concept: Exogenous pyrogens such as LPS stimulate leukocytes to release endogenous pyrogens (IL-1, IL-6 and TNF), which act on the hypothalamus, especially the preoptic area and organum vasculosum, to induce cyclooxygenase and raise prostaglandin E2. PGE2 resets the hypothalamic thermostat to a higher set-point, producing fever. Antipyretics such as aspirin and other NSAIDs reduce fever precisely by inhibiting cyclooxygenase and thus PGE2 synthesis. Bradykinin and histamine mediate vascular permeability and pain rather than the febrile set-point.
+Q_GEN_PATH_GEN_INFLAMM_025 [H] Which pairing of a multinucleate giant cell type with its characteristic setting is CORRECT?
+    A. Langhans giant cell has nuclei scattered randomly throughout the cytoplasm
+    B. Aschoff giant cell is characteristically seen in foreign-body reactions
+    C. Foreign-body giant cell has nuclei arranged in a peripheral horseshoe
+   *D. Touton giant cell has a ring of nuclei surrounding central foamy lipid-rich cytoplasm and is seen in xanthomas
+   key=D ref=Harsh Mohan Textbook of Pathology, 8th ed. — Chapter 6: Inflammation and Healing
+   concept: Touton giant cells have a wreath or ring of nuclei encircling central lipid-laden foamy cytoplasm, typical of xanthomas, fat necrosis and xanthogranulomas. Langhans giant cells have nuclei arranged peripherally in a horseshoe or ring pattern, classic of tuberculosis and other granulomas. Foreign-body giant cells have nuclei scattered haphazardly and engulf foreign material. Aschoff giant cells (derived from Anitschkow cells) are found in the Aschoff bodies of rheumatic carditis, not in foreign-body reactions, making option D the only correct pairing.
+Q_c1_004 [M] Lung biopsy in pulmonary tuberculosis shows granulomas with central caseation and Langhans giant cells. Which cytokine, secreted mainly by Th1 lymphocytes, is most important in activating macrophages to form epithelioid cells?
+    A. Interleukin-4
+    B. Interleukin-5
+   *C. Interferon-gamma
+    D. Interleukin-10
+   key=C ref=Robbins & Cotran 10e, Ch.3 (Inflammation)
+   concept: Granuloma formation is a type IV (delayed) hypersensitivity response. Th1 cells secrete IFN-gamma, the key macrophage-activating cytokine that drives transformation into epithelioid and Langhans giant cells. IL-4/IL-5 drive Th2/eosinophilic responses; IL-10 is anti-inflammatory.
+
+=== Pathology / Anemias (micro/macro/hemolytic)
+Q_c1_011 [M] A 60-year-old strict vegetarian has macrocytic anemia with hypersegmented neutrophils AND paresthesias with loss of vibration and proprioception. Which laboratory finding differentiates vitamin B12 deficiency from folate deficiency?
+    A. Elevated serum homocysteine
+   *B. Elevated serum methylmalonic acid
+    C. Presence of hypersegmented neutrophils
+    D. Macrocytosis (high MCV)
+   key=B ref=Robbins & Cotran 10e, Ch.14 (Megaloblastic Anemia)
+   concept: Both B12 and folate deficiency raise homocysteine and cause megaloblastic changes. Only B12 deficiency raises methylmalonic acid and only B12 deficiency causes neurological disease (subacute combined degeneration of the cord).
+Q_c1_012 [M] IMAGE-DESCRIBED: A 10-year-old with jaundice, splenomegaly and anemia has a peripheral smear showing small, round, densely staining red cells lacking central pallor, and increased osmotic fragility. The underlying defect involves which structure?
+   *A. Red-cell membrane cytoskeletal proteins (spectrin/ankyrin)
+    B. Beta-globin chain synthesis
+    C. Glucose-6-phosphate dehydrogenase
+    D. Pyruvate kinase enzyme
+   key=A ref=Robbins & Cotran 10e, Ch.14 (Hemolytic Anemias)
+   concept: Hereditary spherocytosis results from defects in membrane cytoskeletal proteins (spectrin, ankyrin, band 3), producing spherocytes with increased osmotic fragility that are trapped and destroyed in the spleen. Splenectomy is curative for symptoms.
+
+=== Pathology / Atherosclerosis, MI, vasculitis
+Q_GEN_PATH_SYS_CVS_001 [E] Which of the following is the earliest lesion of atherosclerosis, composed mainly of lipid-laden macrophages (foam cells) within the intima and known to appear even in childhood?
+   *A. Fatty streak
+    B. Fibrofatty (fibrous) plaque
+    C. Complicated plaque with surface ulceration
+    D. Atheromatous (atherosclerotic) aneurysm
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Atherosclerosis)
+   concept: The fatty streak is the earliest recognizable lesion, seen even in infants/children, and consists of intimal foam cells (lipid-laden macrophages and smooth muscle cells) with T cells; it is not necessarily obstructive and not all progress. The fibrous plaque is the advanced intimal lesion with a fibrous cap over a lipid core. Complicated plaques (calcification, ulceration, hemorrhage, thrombosis) and aneurysms are late complications, not the earliest lesion.
+Q_GEN_PATH_SYS_CVS_002 [M] The foam cells that characterize atherosclerotic plaques are derived predominantly from which of the following cell types after they accumulate intracellular lipid?
+    A. Neutrophils and mast cells
+    B. Endothelial cells and pericytes
+   *C. Macrophages and smooth muscle cells
+    D. Plasma cells and fibroblasts
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Pathogenesis of Atherosclerosis)
+   concept: Foam cells arise mainly from macrophages that engulf oxidized LDL via scavenger receptors (not down-regulated by intracellular cholesterol, so uptake is unchecked) and from intimal smooth muscle cells that migrate from the media and also ingest lipid. Neutrophils, mast cells, endothelial cells, pericytes, plasma cells and fibroblasts are not the source of the classic lipid-laden foam cell, making the other options incorrect.
+Q_GEN_PATH_SYS_CVS_003 [M] Assertion (A): Endothelial injury/dysfunction is regarded as the cornerstone initiating event in the response-to-injury hypothesis of atherosclerosis. Reason (R): A dysfunctional endothelium shows increased permeability to lipoproteins and enhanced leukocyte (monocyte) adhesion.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Response-to-Injury Hypothesis)
+   concept: The modern response-to-injury model holds that chronic endothelial injury/dysfunction is the initiating lesion. Dysfunctional endothelium becomes more permeable (allowing LDL entry and its oxidation) and up-regulates adhesion molecules (VCAM-1) that recruit monocytes, which become intimal macrophages/foam cells. Thus both statements are true and R correctly explains the mechanism by which endothelial dysfunction drives plaque formation, making option A correct.
+Q_GEN_PATH_SYS_CVS_004 [M] In systemic atherosclerosis, which vessel is characteristically the most severely and extensively involved?
+    A. Renal arteries
+    B. Pulmonary arteries
+    C. Radial (upper extremity) arteries
+   *D. Abdominal aorta, below the renal arteries
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Sites and Consequences of Atherosclerosis)
+   concept: The usual order of severity is: abdominal aorta (especially the infrarenal segment) > coronary arteries > popliteal arteries > internal carotid > circle of Willis. The infrarenal abdominal aorta is the classic site of predilection and of atherosclerotic aneurysm. Pulmonary arteries are generally spared unless there is pulmonary hypertension, and upper-limb (radial) vessels are typically spared; renal ostia may be involved but are not the most severely affected.
+Q_GEN_PATH_SYS_CVS_005 [H] Assertion (A): A vulnerable (unstable) atherosclerotic plaque is more prone to rupture than a stable plaque. Reason (R): Vulnerable plaques characteristically have a thin fibrous cap, a large lipid-rich necrotic core, and increased inflammatory (macrophage) content.
+    A. A is true but R is false
+   *B. Both A and R are true, and R is the correct explanation of A
+    C. A is false but R is true
+    D. Both A and R are true, but R is NOT the correct explanation of A
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Plaque Vulnerability and Rupture)
+   concept: Vulnerable plaques rupture more readily precisely because of their structure: a thin fibrous cap, a large soft lipid/necrotic core, and dense macrophage infiltration. Macrophages secrete matrix metalloproteinases that degrade collagen in the cap, while reduced smooth muscle collagen synthesis further weakens it. Stable plaques have thick fibrous caps and small lipid cores. Both statements are true and R is the correct mechanistic explanation of A.
+Q_GEN_PATH_SYS_CVS_006 [M] A 58-year-old man develops crushing chest pain at rest with ST-segment elevation, and angiography shows acute total occlusion of a coronary artery. The immediate pathologic event most responsible for acute transmural myocardial infarction in this setting is:
+    A. Gradual concentric luminal narrowing by a stable fibrous plaque
+    B. Monckeberg medial calcification of the coronary artery
+   *C. Disruption (rupture/erosion) of an atherosclerotic plaque with superimposed thrombosis
+    D. Vasculitic aneurysm of the coronary artery
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Ischemic Heart Disease / Acute Plaque Change)
+   concept: Most acute coronary syndromes/MIs result from acute plaque disruption (rupture or erosion) that exposes the thrombogenic lipid core and subendothelial collagen, triggering platelet aggregation and occlusive thrombosis. Stable fibrous plaques cause fixed narrowing and stable/exertional angina, not sudden total occlusion. Monckeberg calcifies the media without narrowing the lumen, and coronary vasculitic aneurysm is a rare cause, making C the best answer.
+Q_GEN_PATH_SYS_CVS_007 [E] Ring-like calcific deposits confined to the tunica media of medium-sized muscular arteries in a person over 50, producing no luminal narrowing and usually clinically insignificant, are characteristic of:
+    A. Hyaline arteriolosclerosis
+    B. Atherosclerosis
+    C. Hyperplastic arteriolosclerosis
+   *D. Monckeberg medial calcific sclerosis
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Arteriosclerosis)
+   concept: Monckeberg medial calcific sclerosis is calcification limited to the media of muscular arteries in patients typically older than 50; because it does not encroach on the lumen it rarely causes ischemia, though it may be palpable or visible radiographically. Hyaline and hyperplastic arteriolosclerosis affect small arterioles (hypertension/diabetes and malignant hypertension respectively), and atherosclerosis is an intimal disease of large/medium elastic and muscular arteries.
+Q_GEN_PATH_SYS_CVS_008 [H] A 42-year-old man presents with BP 220/130 mmHg, severe headache, and papilledema. Renal biopsy shows arterioles with concentric, laminated ('onion-skin') thickening of the wall, some with fibrinoid necrosis. This vascular change is:
+    A. Hyaline arteriolosclerosis
+   *B. Hyperplastic arteriolosclerosis
+    C. Monckeberg medial calcific sclerosis
+    D. Atheroembolic (cholesterol embolus) disease
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Hypertensive Vascular Disease)
+   concept: Hyperplastic arteriolosclerosis is the lesion of malignant/accelerated hypertension: concentric laminated 'onion-skin' thickening of arteriolar walls, often accompanied by fibrinoid necrosis (necrotizing arteriolitis). Hyaline arteriolosclerosis is the homogeneous, pink, hyaline wall thickening of benign hypertension and diabetes. Monckeberg is medial calcification of larger muscular arteries, and atheroembolism produces cholesterol clefts, not onion-skinning, so B is correct.
+Q_GEN_PATH_SYS_CVS_009 [M] A patient dies 3 hours after the onset of an acute myocardial infarction. Which finding is most likely on routine light microscopy of the infarcted myocardium?
+   *A. Essentially no change (at most early wavy fibers and hypereosinophilia)
+    B. Dense interstitial neutrophilic infiltrate
+    C. Well-formed granulation tissue
+    D. Dense collagenous scar
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Morphologic Evolution of Myocardial Infarction)
+   concept: In the first 4-6 hours there is essentially no change on routine light microscopy; the infarct is detectable only by special stains such as TTC (which shows loss of formazan). The earliest histologic clues are wavy fibers at the border and hypereosinophilia beginning around 4-12 hours. Coagulative necrosis with neutrophils appears at 1-3 days, granulation tissue at 7-10 days, and dense scar over weeks, so at 3 hours option A is correct.
+Q_GEN_PATH_SYS_CVS_010 [H] At autopsy of a patient who died 2 days after an acute myocardial infarction, the microscopic appearance of the infarct is most characteristically:
+    A. Contraction band necrosis as the only finding
+    B. Macrophage-rich phagocytosis of debris with early granulation tissue
+    C. Dense fibrous (collagenous) scar
+   *D. Coagulative necrosis with a heavy neutrophilic infiltrate
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Microscopic Evolution of MI)
+   concept: At 1-3 days the infarct shows established coagulative necrosis (loss of nuclei and cross-striations) with a prominent interstitial neutrophilic infiltrate that peaks in this window. Macrophage-driven removal of dead myocytes and early granulation tissue characterize days 3-10, and dense fibrous scar forms over weeks. Contraction band necrosis is a marker of reperfusion, not a stand-alone 2-day finding, so coagulative necrosis with neutrophils (D) is correct.
+Q_GEN_PATH_SYS_CVS_011 [H] During which post-infarction window is the ventricular wall most susceptible to free-wall rupture, corresponding to maximal macrophage-mediated removal of necrotic myocytes?
+    A. 0-6 hours
+    B. 12-24 hours
+   *C. 3-7 days
+    D. 6-8 weeks
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Complications of Myocardial Infarction)
+   concept: Free-wall rupture, septal rupture and papillary muscle rupture peak around 3-7 days, when macrophages have digested dead myocytes and the necrotic wall is maximally soft and weak but new collagen has not yet reinforced it. In the first hours the wall has not yet weakened, and by 6-8 weeks a dense collagenous scar has strengthened it, greatly reducing rupture risk, so 3-7 days (C) is the answer.
+Q_GEN_PATH_SYS_CVS_012 [M] Well-developed granulation tissue with prominent neovascularization, macrophages, and early collagen at the margins of a myocardial infarct is most characteristic of which interval after infarction?
+    A. 4-12 hours
+    B. 24-48 hours
+   *C. 7-10 days, extending into the second week
+    D. About 2 months
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Healing of Myocardial Infarction)
+   concept: Granulation tissue (new capillaries, macrophages, fibroblasts, and early collagen deposition) is best developed around 7-10 days and into the second week, marking the transition from debris removal to repair. At 4-12 and 24-48 hours the infarct still shows necrosis with a neutrophilic response, and by roughly 2 months a dense acellular collagenous scar has formed, so option C is correct.
+Q_GEN_PATH_SYS_CVS_013 [H] The gross appearance of a myocardial infarct as a yellow-tan, softened center surrounded by a hyperemic (red) border is most typical of an infarct that is approximately:
+    A. 0-12 hours old (no gross change)
+   *B. 3-7 days old
+    C. 2-8 weeks old
+    D. More than 2 months old
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Gross Features of Evolving MI)
+   concept: Gross evolution: 0-12 hours shows no visible change (TTC needed); 12-24 hours dark mottling; 1-3 days a pale/yellow center; 3-7 days a soft yellow-tan center with a hyperemic (red-brown) rim of granulation tissue at the margin; 10 days-2 weeks a red-gray depressed border; and weeks to 2 months a firm gray-white scar. The yellow soft center with hyperemic border therefore corresponds to about 3-7 days (B).
+Q_GEN_PATH_SYS_CVS_014 [M] Assertion (A): Contraction band necrosis is a hallmark of reperfusion injury after blood flow is restored to ischemic myocardium. Reason (R): Reperfusion causes massive calcium influx into irreversibly injured myocytes, producing hypercontracted sarcomeres seen as intensely eosinophilic transverse bands.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Reperfusion Injury / Contraction Band Necrosis)
+   concept: When ischemic (but not yet dead) myocardium is reperfused, restored oxygen and a surge of intracellular calcium cause exaggerated hypercontraction of myofibrils in irreversibly injured cells, producing contraction bands: intensely eosinophilic transverse bands. This is a classic sign of reperfusion injury, alongside oxygen free-radical damage and microvascular injury. Both statements are true and R correctly explains A, so option A is correct.
+Q_GEN_PATH_SYS_CVS_015 [M] Three days after an inferior-wall myocardial infarction, a patient suddenly develops flash pulmonary edema, hypotension, and a new loud holosystolic apical murmur. The most likely mechanical complication is:
+    A. Ventricular septal rupture producing a left-to-right shunt
+    B. Dressler (post-cardiac injury) syndrome
+    C. True ventricular aneurysm
+   *D. Rupture of a papillary muscle causing acute mitral regurgitation
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Mechanical Complications of MI)
+   concept: Rupture of a necrotic papillary muscle (classically the posteromedial papillary muscle, supplied solely by the posterior descending artery and therefore vulnerable in inferior/RCA infarcts) occurs around days 2-7 and causes acute severe mitral regurgitation with flash pulmonary edema, a new holosystolic murmur, and cardiogenic shock. Septal rupture gives a shunt with a harsh left-sternal-border murmur, Dressler occurs weeks later, and a true aneurysm is a late complication, so D is correct.
+Q_GEN_PATH_SYS_CVS_016 [M] Several weeks after a myocardial infarction, a patient develops fever, pleuritic chest pain, a pericardial friction rub, and a raised ESR. This is most consistent with:
+    A. Early peri-infarction fibrinous pericarditis (days 1-3)
+   *B. Dressler (post-cardiac injury) syndrome, an autoimmune pericarditis
+    C. Recurrent myocardial infarction
+    D. Acute pulmonary embolism
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Pericarditis / Dressler Syndrome)
+   concept: Dressler syndrome is a delayed, immune-mediated (antibodies to released myocardial antigens) pericarditis appearing weeks to a few months after MI, presenting with fever, pleuropericarditic chest pain, a friction rub, and elevated ESR. Early fibrinous ('epistenocardiac') pericarditis instead overlies a transmural infarct within the first 1-3 days. The latency of weeks and autoimmune features distinguish Dressler, making option B correct.
+Q_GEN_PATH_SYS_CVS_017 [H] A patient who had a myocardial infarction 4 days ago develops recurrent chest pain, raising concern for re-infarction. Which cardiac biomarker is MOST useful to confirm re-infarction at this time?
+    A. Cardiac troponin I/T
+    B. Lactate dehydrogenase (LDH)
+   *C. CK-MB
+    D. Aspartate aminotransferase (AST)
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — The Heart (Serum Cardiac Markers)
+   concept: Cardiac troponin remains elevated for about 7-10 days after the initial infarct, so at day 4 it may still be high and cannot reliably signal a new event. CK-MB rises within hours and returns to normal by 48-72 hours, so a fresh re-rise of CK-MB is the preferred marker to detect re-infarction in this window. LDH and AST are nonspecific and now obsolete for this purpose, so CK-MB (C) is correct.
+Q_GEN_PATH_SYS_CVS_018 [H] A tall young man with long limbs, arachnodactyly, and lens dislocation dies suddenly of a proximal aortic dissection. The underlying change in the aortic media most associated with this condition is:
+   *A. Cystic medial degeneration (elastin fragmentation with myxoid/proteoglycan pooling)
+    B. Obliterative endarteritis of the vasa vasorum
+    C. Transmural granulomatous inflammation
+    D. Medial calcification of the Monckeberg type
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Aortic Dissection / Cystic Medial Degeneration)
+   concept: Marfan syndrome (defective fibrillin-1) predisposes to cystic medial degeneration: fragmentation and loss of elastic fibers with pooling of amorphous proteoglycan ('cystic' spaces) in the media, weakening the wall and favoring dissection, typically in the ascending aorta/first few centimeters. Obliterative endarteritis of the vasa vasorum underlies syphilitic aneurysm, granulomatous inflammation is seen in GCA/Takayasu, and Monckeberg is unrelated, so A is correct.
+Q_GEN_PATH_SYS_CVS_019 [E] Tertiary syphilis classically produces an aneurysm of the ascending aorta and arch with a wrinkled 'tree-bark' intima. The primary vascular lesion responsible for this is:
+    A. Intimal lipid accumulation (atheroma)
+    B. Cystic degeneration of the media
+    C. Fibrinoid necrosis of arterioles
+   *D. Obliterative endarteritis of the vasa vasorum with medial ischemia
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Syphilitic/Luetic Aneurysm)
+   concept: Syphilitic (luetic) aortitis causes an obliterative endarteritis of the vasa vasorum with perivascular plasma-cell cuffing; the resulting ischemia leads to scarring and loss of medial elastic tissue, weakening the wall and dilating the ascending aorta and arch, producing the wrinkled 'tree-bark' intima and potentially aortic regurgitation or coronary ostial stenosis. It is not caused by atheroma, cystic medial degeneration, or arteriolar fibrinoid necrosis, so D is correct.
+Q_GEN_PATH_SYS_CVS_020 [E] A 28-year-old Asian woman has absent radial pulses, markedly unequal blood pressures between the arms, and visual disturbances; imaging shows narrowing of the aortic arch and its major branches. The most likely diagnosis is:
+    A. Polyarteritis nodosa
+   *B. Takayasu arteritis ('pulseless disease')
+    C. Buerger disease (thromboangiitis obliterans)
+    D. Kawasaki disease
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Takayasu Arteritis)
+   concept: Takayasu arteritis is a granulomatous large-vessel vasculitis affecting the aortic arch and its branches, classically in women younger than 50 (often Asian), producing weak/absent upper-limb pulses ('pulseless disease'), blood-pressure discrepancies, and ocular/neurologic symptoms from arch-vessel stenosis. PAN affects medium arteries, Buerger affects distal limb vessels in smokers, and Kawasaki affects young children with coronary involvement, so B is correct.
+Q_GEN_PATH_SYS_CVS_021 [M] A 72-year-old woman has new temporal headache, jaw claudication, transient monocular vision loss, and an ESR of 90 mm/hr; temporal artery biopsy shows granulomatous inflammation with multinucleate giant cells and fragmentation of the internal elastic lamina. Besides biopsy, the most important immediate step is:
+   *A. Start high-dose corticosteroids immediately to prevent blindness
+    B. Observe and repeat the ESR in 6 weeks
+    C. Give cyclophosphamide as first-line monotherapy
+    D. Begin warfarin anticoagulation
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Giant Cell/Temporal Arteritis)
+   concept: This is giant cell (temporal) arteritis, a granulomatous vasculitis of medium/large arteries in the elderly, presenting with headache, jaw claudication, high ESR, and risk of irreversible blindness from ophthalmic/posterior ciliary artery involvement. High-dose corticosteroids must be started immediately (even before biopsy) to prevent visual loss; biopsy remains positive for a short window and shows skip lesions. Waiting, cyclophosphamide monotherapy, or anticoagulation are not the correct first step, so A is correct.
+Q_GEN_PATH_SYS_CVS_022 [M] A 45-year-old hepatitis B surface antigen-positive man develops hypertension, abdominal pain, mononeuritis multiplex, and renal impairment; angiography shows microaneurysms of medium-sized arteries, and the lungs are spared. The most likely vasculitis is:
+    A. Granulomatosis with polyangiitis
+   *B. Polyarteritis nodosa
+    C. Eosinophilic granulomatosis with polyangiitis
+    D. Microscopic polyangiitis
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Polyarteritis Nodosa)
+   concept: Classic polyarteritis nodosa is a necrotizing vasculitis of medium-sized muscular arteries, associated with hepatitis B in about a third of cases, showing transmural fibrinoid necrosis with lesions of different ages and 'rosary-bead' microaneurysms; it characteristically spares the pulmonary arteries and is ANCA-negative, presenting with renovascular hypertension, GI/abdominal pain, and mononeuritis multiplex. GPA, EGPA, and MPA are small-vessel ANCA-associated vasculitides that commonly involve the lung, so B is correct.
+Q_GEN_PATH_SYS_CVS_023 [E] A 32-year-old heavy male smoker presents with painful ischemic ulcers of the toes and fingertips and episodes of migratory superficial thrombophlebitis; angiography shows segmental thrombosing inflammation of small and medium distal extremity arteries. The single most important management step is:
+    A. Lifelong systemic corticosteroids
+    B. High-dose statin therapy
+   *C. Complete and permanent smoking cessation
+    D. Splenectomy
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (Thromboangiitis Obliterans / Buerger Disease)
+   concept: This is Buerger disease (thromboangiitis obliterans), a segmental thrombosing and inflammatory vasculitis of distal extremity arteries, veins, and adjacent nerves seen almost exclusively in young tobacco users, and strongly tied to smoking (possibly hypersensitivity to tobacco components). Complete, permanent smoking cessation is the only intervention that halts progression and prevents amputation. Corticosteroids, statins, and splenectomy are not indicated, so C is correct.
+Q_GEN_PATH_SYS_CVS_024 [H] Which of the following pairings of a vasculitis with its most characteristic ANCA is correct?
+    A. Microscopic polyangiitis — c-ANCA (anti-PR3)
+    B. Polyarteritis nodosa — c-ANCA (anti-PR3)
+    C. Granulomatosis with polyangiitis — p-ANCA (anti-MPO)
+   *D. Granulomatosis with polyangiitis — c-ANCA (anti-PR3)
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Blood Vessels (ANCA-Associated Vasculitides)
+   concept: Granulomatosis with polyangiitis (Wegener) is most characteristically associated with c-ANCA directed against proteinase-3 (PR3). Microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis (Churg-Strauss) are more often p-ANCA/anti-myeloperoxidase (MPO). Classic polyarteritis nodosa is typically ANCA-negative. Options A and B swap the antibody, and option C mislabels GPA as p-ANCA, so the correct pairing is GPA with c-ANCA/anti-PR3 (D).
+Q_c1_019 [H] A patient dies suddenly 5 days after an acute MI with cardiac tamponade found at autopsy. This is due to which complication, occurring at the phase of maximal ventricular wall weakness?
+   *A. Ventricular free-wall rupture
+    B. True ventricular aneurysm
+    C. Dressler (post-MI) syndrome
+    D. Papillary muscle fibrosis
+   key=A ref=Robbins & Cotran 10e, Ch.12 (Ischemic Heart Disease)
+   concept: During days 3-7, macrophage-mediated removal of necrotic debris maximally weakens the infarcted wall — the peak window for rupture. Free-wall rupture causes hemopericardium and tamponade; septal rupture causes a VSD; papillary rupture causes acute mitral regurgitation.
+
+=== Pathology / CNS tumors & basics
+Q_GEN_PATH_SYS_CNS_001 [M] A 45-year-old man presents with new-onset seizures. MRI shows a well-defined, calcified mass in the left frontal cortex. Biopsy reveals sheets of uniform cells with round nuclei surrounded by clear perinuclear halos ('fried-egg' appearance) and a delicate branching ('chicken-wire') capillary network. Which molecular finding in this tumour predicts the best response to chemotherapy?
+   *A. Combined 1p/19q codeletion
+    B. EGFR gene amplification
+    C. Loss of MGMT promoter methylation
+    D. Chromosome 22q deletion
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Gliomas: Oligodendroglioma)
+   concept: Oligodendroglioma classically shows 'fried-egg' cells (perinuclear halo, a formalin-fixation artefact), delicate 'chicken-wire' vasculature, and dystrophic calcification, often frontal with seizures. Combined 1p/19q codeletion (with IDH mutation) defines the tumour and predicts favourable chemosensitivity (PCV/temozolomide) and prognosis. EGFR amplification typifies primary glioblastoma; 22q deletion is seen in meningioma/schwannoma; and it is retention/gain of MGMT methylation, not its loss, that favours temozolomide response.
+Q_GEN_PATH_SYS_CNS_002 [M] A 6-year-old child presents with headache, vomiting and ataxia due to obstructive hydrocephalus. A tumour is found filling the fourth ventricle. Histology shows tumour cells arranged around blood vessels with nucleus-free zones of fibrillary processes radiating toward the vessel wall. What is the characteristic histologic structure described?
+    A. Homer-Wright rosettes
+    B. Flexner-Wintersteiner rosettes
+   *C. Perivascular pseudorosettes
+    D. Verocay bodies
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Ependymoma)
+   concept: Ependymomas in children arise most often in the fourth ventricle, causing obstructive (non-communicating) hydrocephalus, and characteristically form perivascular pseudorosettes — tumour cells radiating GFAP-positive processes toward a central vessel, creating an anuclear perivascular zone; true ependymal rosettes/canals are less common. Homer-Wright rosettes (neuroblastic, around neuropil) occur in medulloblastoma/neuroblastoma; Flexner-Wintersteiner rosettes (true central lumen) in retinoblastoma; Verocay bodies in schwannoma.
+Q_GEN_PATH_SYS_CNS_003 [E] A 9-year-old girl has a several-month history of clumsiness and morning headaches. MRI shows a cystic cerebellar mass with an enhancing mural nodule. Histology shows a biphasic pattern of loose and compact areas with bipolar 'hair-like' cells and brightly eosinophilic, corkscrew-shaped condensations. These eosinophilic structures are known as:
+    A. Psammoma bodies
+   *B. Rosenthal fibres
+    C. Negri bodies
+    D. Lewy bodies
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Pilocytic astrocytoma)
+   concept: Pilocytic astrocytoma is the most common glioma of childhood, typically a cystic cerebellar mass with a mural nodule and an indolent WHO grade 1 course. Its hallmark is Rosenthal fibres — thick, eosinophilic, corkscrew-like condensations of GFAP — alongside eosinophilic granular bodies and a biphasic loose/compact architecture; BRAF fusion (KIAA1549-BRAF) is common. Psammoma bodies occur in meningioma, Negri bodies in rabies-infected neurons, and Lewy bodies in Parkinson disease.
+Q_GEN_PATH_SYS_CNS_004 [M] A 5-year-old boy develops truncal ataxia and signs of raised intracranial pressure. Imaging shows a midline cerebellar (vermian) mass. Histology reveals sheets of small round blue cells with scant cytoplasm and hyperchromatic nuclei, some arranged around a central tangle of neuropil. The most likely diagnosis is:
+    A. Ependymoma
+    B. Pilocytic astrocytoma
+    C. Hemangioblastoma
+   *D. Medulloblastoma
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Embryonal/Medulloblastoma)
+   concept: Medulloblastoma is a highly malignant WHO grade 4 embryonal tumour of the cerebellar vermis in young children, composed of small round blue cells (high nuclear-to-cytoplasmic ratio) forming Homer-Wright (neuroblastic) rosettes around central neuropil. It disseminates through CSF as 'drop metastases' down the neuraxis. Ependymoma forms perivascular pseudorosettes; pilocytic astrocytoma is cystic with Rosenthal fibres and benign; hemangioblastoma is a vascular tumour of adults with foamy stromal cells.
+Q_GEN_PATH_SYS_CNS_005 [H] A 38-year-old man with advanced untreated HIV (CD4 count 40/µL) presents with confusion and focal deficits. MRI shows a periventricular enhancing lesion. CSF and tumour tissue are positive for Epstein-Barr virus, and biopsy shows sheets of atypical lymphoid cells cuffing blood vessels. The most likely diagnosis and cell of origin are:
+    A. T-cell lymphoblastic lymphoma
+    B. Hodgkin lymphoma, nodular sclerosis type
+   *C. Primary CNS diffuse large B-cell lymphoma
+    D. Burkitt lymphoma, sporadic type
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Primary CNS lymphoma)
+   concept: Primary CNS lymphoma is the most common CNS neoplasm in immunocompromised (especially AIDS) patients and is almost always an EBV-driven diffuse large B-cell lymphoma. It is typically periventricular/deep and multifocal and shows angiocentric growth — malignant cells cuffing vessels. It is aggressive but steroid-responsive (a 'ghost tumour' that can transiently vanish on steroids). T-lymphoblastic and Hodgkin lymphomas rarely involve the CNS primarily, and sporadic Burkitt is not the classic EBV-associated CNS lymphoma.
+Q_GEN_PATH_SYS_CNS_006 [E] A 28-year-old woman presents with amenorrhoea, galactorrhoea and infertility. Serum prolactin is markedly elevated and MRI shows a pituitary microadenoma. This is the most common type of hyperfunctioning pituitary adenoma. From which cell type does it arise?
+   *A. Lactotrophs
+    B. Corticotrophs
+    C. Somatotrophs
+    D. Gonadotrophs
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Endocrine System (Pituitary adenomas)
+   concept: Prolactinoma (lactotroph adenoma) is the most common functioning pituitary adenoma. Prolactin excess causes amenorrhoea, galactorrhoea, loss of libido and infertility in women, allowing early detection as microadenomas; men present later with mass effects. Dopamine agonists (cabergoline/bromocriptine) shrink them. Corticotroph adenomas cause Cushing disease, somatotroph adenomas cause acromegaly/gigantism, and gonadotroph adenomas are usually clinically silent, presenting via mass effect.
+Q_GEN_PATH_SYS_CNS_007 [M] A 50-year-old man reports difficulty seeing objects to either side and repeated collisions with door frames. Perimetry confirms a bitemporal hemianopia, and MRI shows a sellar/suprasellar mass. Compression of which structure produces this visual field defect?
+    A. Optic tract
+   *B. Optic chiasm (decussating nasal retinal fibres)
+    C. Meyer loop in the temporal lobe
+    D. Occipital (calcarine) cortex
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Endocrine System (Pituitary mass effects)
+   concept: A pituitary macroadenoma expanding out of the sella compresses the overlying optic chiasm, where fibres from the nasal halves of both retinas (carrying the temporal visual fields) decussate; interrupting them produces bitemporal hemianopia. Optic tract lesions cause a contralateral homonymous hemianopia; Meyer loop (temporal) damage gives a 'pie-in-the-sky' superior quadrantanopia; and occipital cortex lesions cause homonymous hemianopia with macular sparing.
+Q_GEN_PATH_SYS_CNS_008 [H] A 55-year-old man with a known pituitary macroadenoma suddenly develops a severe ('thunderclap') headache, ophthalmoplegia, acute visual loss and hypotension, and is found to have acute cortisol deficiency. Which process best explains this emergency?
+    A. Ischaemic infarction of the postpartum pituitary (Sheehan syndrome)
+    B. Autoimmune lymphocytic hypophysitis
+    C. Craniopharyngioma cyst rupture spilling motor-oil fluid
+   *D. Acute haemorrhage/infarction into the pituitary adenoma (pituitary apoplexy)
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Endocrine System (Pituitary apoplexy/hypopituitarism)
+   concept: Pituitary apoplexy is sudden haemorrhage or infarction into a (usually pre-existing) pituitary adenoma, causing thunderclap headache, ophthalmoplegia (cavernous sinus cranial nerves), acute visual loss and life-threatening secondary adrenal insufficiency that requires urgent glucocorticoids. Sheehan syndrome is postpartum ischaemic pituitary necrosis with a gradual course; lymphocytic hypophysitis is autoimmune and subacute; and craniopharyngioma fluid is characteristic but does not cause this acute apoplectic syndrome.
+Q_GEN_PATH_SYS_CNS_009 [M] A 10-year-old boy has growth failure and a bitemporal field defect. CT shows a partly cystic, calcified suprasellar mass. At surgery the cyst contains dark, viscous 'machinery-oil' fluid, and histology shows stratified squamous epithelium with peripheral palisading and nodules of 'wet' keratin. This tumour arises from remnants of:
+    A. The notochord
+    B. Arachnoid cap cells
+   *C. Rathke pouch
+    D. Neural crest
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Craniopharyngioma)
+   concept: Adamantinomatous craniopharyngioma is a childhood suprasellar tumour derived from Rathke pouch (oral ectoderm) remnants (CTNNB1/Wnt pathway). It is classically cystic and calcified, contains cholesterol-rich brownish 'motor-oil' fluid, and shows adamantinomatous epithelium with peripheral palisading, stellate reticulum and nodules of 'wet' keratin. Notochord remnants give chordoma, arachnoid cap cells give meningioma, and neural crest gives schwannoma/melanoma — none produce this classic picture.
+Q_GEN_PATH_SYS_CNS_010 [M] A well-circumscribed, encapsulated tumour is resected from a peripheral nerve. Histology shows two patterns: compact cellular areas with spindle cells whose nuclei align in parallel rows around anuclear zones, and looser, myxoid, hypocellular areas. The tumour is strongly and diffusely S100-positive. What are the palisaded nuclear rows called?
+   *A. Verocay bodies
+    B. Call-Exner bodies
+    C. Councilman bodies
+    D. Russell bodies
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Peripheral Nerves (Schwannoma; Antoni A/B, Verocay bodies)
+   concept: Schwannoma is an encapsulated, uniformly S100-positive nerve sheath tumour with two zones: Antoni A (compact, cellular) containing Verocay bodies — two parallel rows of palisaded nuclei separated by anuclear cytoplasmic zones — and Antoni B (loose, myxoid, hypocellular). It grows eccentrically, displacing rather than engulfing the parent nerve. Call-Exner bodies occur in granulosa cell tumours, Councilman bodies are apoptotic hepatocytes, and Russell bodies are immunoglobulin-stuffed plasma cells.
+Q_GEN_PATH_SYS_CNS_011 [H] Two peripheral nerve sheath tumours are compared. Tumour X is encapsulated, grows eccentrically and can be shelled off the nerve. Tumour Y is unencapsulated, infiltrates and expands the nerve so that axons run through it, and in its plexiform form is essentially pathognomonic of a phakomatosis. Which statement is correct?
+    A. Tumour X is a neurofibroma associated with neurofibromatosis type 2
+   *B. Tumour Y is a neurofibroma, and its plexiform form is associated with neurofibromatosis type 1
+    C. Tumour Y is a schwannoma and is uniformly S100-positive throughout
+    D. Tumour X undergoes malignant transformation far more often than tumour Y
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Peripheral Nerves (Neurofibroma vs Schwannoma)
+   concept: Schwannoma (tumour X) is encapsulated, arises eccentrically and can be separated from the nerve, sparing axons. Neurofibroma (tumour Y) is unencapsulated and intermixes with the nerve so axons traverse it; the plexiform variant is essentially pathognomonic of NF1 and carries a real risk of transformation to malignant peripheral nerve sheath tumour (MPNST). Neurofibroma is a mixed cell population (only partly S100-positive), unlike the uniformly S100-positive schwannoma, and NF2 is linked to schwannomas/meningiomas, not neurofibromas.
+Q_GEN_PATH_SYS_CNS_012 [H] A 35-year-old man presents with cerebellar signs and is found to have a raised haematocrit. MRI shows a cystic cerebellar mass with an enhancing mural nodule; histology shows abundant thin-walled capillaries and interspersed vacuolated, lipid-laden stromal cells. He also has retinal angiomas and renal cysts. What best explains his elevated haematocrit?
+    A. Chronic hypoxaemia from cerebellar compression
+    B. Occult gastrointestinal bleeding causing a reactive change
+    C. Paraneoplastic ACTH secretion
+   *D. Ectopic erythropoietin production by the tumour stromal cells
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Hemangioblastoma; VHL)
+   concept: Cerebellar hemangioblastoma, part of von Hippel-Lindau disease (VHL tumour suppressor, chromosome 3p), is a highly vascular tumour of thin-walled vessels and lipid-rich stromal cells (the neoplastic element). The stromal cells can secrete erythropoietin, producing secondary polycythaemia (raised haematocrit). VHL also features retinal/CNS hemangioblastomas, clear cell renal cell carcinoma, pheochromocytoma and renal/pancreatic cysts. Compression hypoxia, GI bleeding and ectopic ACTH do not explain this classic EPO-driven erythrocytosis.
+Q_GEN_PATH_SYS_CNS_013 [E] A 62-year-old smoker presents with headache and seizures. MRI shows multiple well-circumscribed enhancing lesions at the grey-white matter junction surrounded by extensive oedema. Regarding intracranial tumours in adults, which statement is correct?
+   *A. Metastases are the most common intracranial tumours overall
+    B. Glioblastoma is the most common intracranial tumour overall
+    C. Meningioma is the most common intracranial tumour overall
+    D. Primary CNS lymphoma is the most common intracranial tumour overall
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Metastatic tumours)
+   concept: Metastatic tumours account for roughly half of all intracranial tumours and are the most common CNS neoplasm overall in adults. They are typically multiple, sharply demarcated and lodge at the grey-white junction, where the abrupt change in vessel calibre traps tumour emboli, and they provoke prominent surrounding vasogenic oedema. Glioblastoma and meningioma are the most common primary malignant and primary benign tumours respectively, but metastases outnumber all primary tumours combined.
+Q_GEN_PATH_SYS_CNS_014 [E] Which primary malignancy is the single most common source of brain metastases in adults?
+    A. Prostate carcinoma
+    B. Ovarian carcinoma
+   *C. Lung carcinoma
+    D. Oesophageal carcinoma
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Metastatic tumours)
+   concept: Lung carcinoma is the most common source of brain metastases overall, followed by breast carcinoma, melanoma, renal cell carcinoma and gastrointestinal (colorectal) cancers. Melanoma has the highest per-tumour propensity to spread to the brain and characteristically bleeds. Prostate, ovarian and oesophageal cancers rarely metastasise to the brain — prostate favours bone (osteoblastic deposits). Knowing the common primaries guides the workup of a patient with multiple grey-white junction lesions.
+Q_GEN_PATH_SYS_CNS_015 [H] Assertion (A): Psammoma bodies are the defining histologic hallmark of glioblastoma. Reason (R): Glioblastoma (IDH-wildtype, WHO grade 4) is characterised by pseudopalisading necrosis and microvascular (glomeruloid) endothelial proliferation. Select the single best option:
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Glioblastoma; Meningioma)
+   concept: The assertion is false: psammoma bodies (concentric laminated calcifications) are hallmarks of meningioma (also papillary thyroid carcinoma and serous ovarian tumours), not glioblastoma. The reason is true: the WHO grade 4 defining features of glioblastoma are pseudopalisading necrosis (tumour cells crowding around serpentine necrosis) plus microvascular/glomeruloid endothelial proliferation. Because A is false while R is true, option D is correct — glioblastoma's true hallmarks are necrosis and vascular proliferation, not calcified psammoma bodies.
+Q_GEN_PATH_SYS_CNS_016 [M] Which histologic hallmark is correctly paired with its tumour?
+    A. Verocay bodies — ependymoma
+    B. Rosenthal fibres — oligodendroglioma
+    C. Psammoma bodies — glioblastoma
+   *D. Homer-Wright rosettes — medulloblastoma
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Tumour histologic hallmarks)
+   concept: Homer-Wright (neuroblastic) rosettes — cells encircling a central fibrillary neuropil core without a true lumen — are characteristic of medulloblastoma and neuroblastoma, so option D is correctly paired. Verocay bodies belong to schwannoma (ependymoma instead shows perivascular pseudorosettes); Rosenthal fibres belong to pilocytic astrocytoma (oligodendroglioma shows fried-egg cells and calcification); and psammoma bodies (laminated calcifications) are seen in meningioma, not glioblastoma.
+Q_GEN_PATH_SYS_CNS_017 [H] In grading a diffuse astrocytic glioma, which combination of histologic features indicates the highest-grade (WHO grade 4) lesion?
+   *A. Microvascular (glomeruloid) proliferation and/or necrosis with high mitotic activity and marked pleomorphism
+    B. Mild hypercellularity with nuclear atypia only
+    C. Nuclear atypia plus a single mitotic figure but no necrosis
+    D. Uniform cells with perinuclear halos and stippled calcification
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Astrocytoma grading)
+   concept: Diffuse astrocytoma grading rests on progressively acquired features: grade 2 shows nuclear atypia only; grade 3 (anaplastic) adds brisk mitoses and greater cellularity/pleomorphism; grade 4 (glioblastoma) adds microvascular (glomeruloid) proliferation and/or necrosis. Thus the grade 4 combination is necrosis/vascular proliferation with high mitoses and marked pleomorphism (option A). Option D (perinuclear halos, calcification) instead describes oligodendroglioma, while the atypia-only and single-mitosis options describe lower grades.
+Q_GEN_PATH_SYS_CNS_018 [M] A 4-year-old child with a history of infantile spasms has hypopigmented 'ash-leaf' macules and facial angiofibromas. Brain imaging shows cortical tubers and subependymal nodules, one of which has enlarged near the foramen of Monro. Which lesion and gene are most relevant?
+    A. Optic nerve glioma; NF1 mutation
+    B. Hemangioblastoma; VHL mutation
+   *C. Subependymal giant cell astrocytoma; TSC1/TSC2 mutation
+    D. Bilateral vestibular schwannomas; NF2 mutation
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Familial tumour syndromes: Tuberous sclerosis)
+   concept: Tuberous sclerosis (TSC1/hamartin or TSC2/tuberin mutation, causing mTOR overactivation) presents with cortical tubers, subependymal nodules, ash-leaf macules, facial angiofibromas (adenoma sebaceum), shagreen patches, cardiac rhabdomyomas and renal angiomyolipomas. A subependymal nodule near the foramen of Monro can grow into a subependymal giant cell astrocytoma (SEGA), causing obstructive hydrocephalus. Optic glioma/NF1, hemangioblastoma/VHL and bilateral vestibular schwannomas/NF2 are the other phakomatoses.
+Q_GEN_PATH_SYS_CNS_019 [M] An infant has a unilateral facial port-wine (capillary malformation) stain in the ophthalmic (V1) trigeminal distribution, seizures and glaucoma. A skull radiograph shows 'tram-track' gyriform cortical calcification. What is the underlying intracranial lesion?
+    A. A ruptured berry aneurysm of the circle of Willis
+   *B. An ipsilateral leptomeningeal capillary-venous (angiomatous) malformation
+    C. An arteriovenous fistula of a dural venous sinus
+    D. A cavernous haemangioma of the brainstem
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Sturge-Weber syndrome)
+   concept: Sturge-Weber syndrome (encephalotrigeminal angiomatosis, somatic GNAQ mutation) features a facial port-wine stain (usually V1), an ipsilateral leptomeningeal capillary-venous angiomatosis, seizures, intellectual disability and glaucoma. Chronic cortical ischaemia beneath the angioma produces the classic 'tram-track' gyriform calcification on imaging. Berry aneurysms, dural arteriovenous fistulas and brainstem cavernomas are distinct vascular lesions not linked to the facial naevus and cortical calcification of this syndrome.
+Q_GEN_PATH_SYS_CNS_020 [H] Assertion (A): 'Red neurons' are the earliest reliable morphologic marker of irreversible acute hypoxic-ischaemic neuronal injury. Reason (R): They develop about 12 to 24 hours after the insult, showing cell-body shrinkage with intense cytoplasmic eosinophilia and nuclear pyknosis. Select the single best option:
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Cellular reactions: neuronal injury)
+   concept: Both statements are true and the reason explains the assertion. Red neurons (acute neuronal injury) are the earliest histologic evidence of irreversible hypoxic-ischaemic damage, and it is precisely their appearance at 12-24 hours — with cell-body shrinkage, cytoplasmic hypereosinophilia and nuclear pyknosis/karyorrhexis — that makes them that early marker, so option A is correct. Selectively vulnerable sites include hippocampal CA1 (Sommer sector), Purkinje cells and cortical layers 3, 5 and 6.
+Q_GEN_PATH_SYS_CNS_021 [M] A patient with a brain tumour develops swelling due to breakdown of the blood-brain barrier, allowing protein-rich plasma fluid to leak preferentially into the white matter extracellular space. This type of cerebral oedema is best classified as:
+    A. Cytotoxic oedema
+   *B. Vasogenic oedema
+    C. Interstitial (hydrocephalic) oedema
+    D. Osmotic oedema
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Cerebral oedema)
+   concept: Vasogenic oedema results from blood-brain barrier disruption (tumours, abscess, trauma, inflammation), letting protein-rich plasma extravasate into the extracellular space, chiefly of the white matter; corticosteroids help by restoring the barrier. Cytotoxic oedema is intracellular swelling from failure of the ATP-dependent Na/K pump (e.g., hypoxia-ischaemia). Interstitial oedema is transependymal CSF seepage in hydrocephalus, and osmotic oedema follows plasma hypo-osmolality — each mechanistically distinct from vasogenic oedema.
+Q_GEN_PATH_SYS_CNS_022 [H] A patient with a rapidly expanding temporal lobe haematoma develops a fixed, dilated pupil on the same side and contralateral hemiparesis. Progressive brainstem compression later produces midline pontine (Duret) haemorrhages. Which herniation syndrome is responsible?
+    A. Subfalcine (cingulate) herniation
+    B. Tonsillar herniation through the foramen magnum
+   *C. Uncal (transtentorial) herniation
+    D. Transcalvarial (external) herniation
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Herniation syndromes)
+   concept: Uncal (medial temporal, transtentorial) herniation pushes the uncus over the tentorial edge, compressing the ipsilateral CN III (fixed dilated pupil, 'down-and-out' eye), the cerebral peduncle (contralateral hemiparesis, or ipsilateral via a Kernohan notch) and eventually the brainstem, tearing perforating vessels to cause midline Duret haemorrhages. Subfalcine herniation compresses the anterior cerebral artery, tonsillar herniation compresses the medulla (respiratory/cardiac arrest), and transcalvarial herniation is through a skull defect.
+Q_GEN_PATH_SYS_CNS_023 [M] A 72-year-old man has a triad of gait apraxia, urinary incontinence and progressive cognitive decline. CT shows ventriculomegaly out of proportion to cortical atrophy, and lumbar puncture reveals a normal opening pressure. This condition is:
+    A. Non-communicating hydrocephalus from aqueductal stenosis
+   *B. Normal pressure hydrocephalus (a communicating hydrocephalus)
+    C. Hydrocephalus ex vacuo
+    D. Idiopathic intracranial hypertension
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Hydrocephalus)
+   concept: Normal pressure hydrocephalus is a communicating hydrocephalus (impaired CSF resorption at the arachnoid granulations) with the classic triad 'wet, wobbly and wacky' — urinary incontinence, a magnetic gait apraxia and dementia — plus ventriculomegaly with a normal LP pressure; some patients improve with CSF shunting. Non-communicating (obstructive) hydrocephalus follows aqueductal stenosis; hydrocephalus ex vacuo is passive ventricular enlargement from parenchymal loss; and idiopathic intracranial hypertension has raised pressure with papilloedema.
+Q_GEN_PATH_SYS_CNS_024 [E] Which statement correctly describes microglia, the resident immune cells of the central nervous system?
+    A. They are derived from neuroectoderm, like astrocytes and neurons
+    B. They form the myelin sheaths of central axons
+    C. They line the ventricular system and produce cerebrospinal fluid
+   *D. They are the phagocytic cells of the CNS and are of bone-marrow (monocyte/mesodermal) origin
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Cellular constituents: microglia)
+   concept: Microglia are the resident macrophages/phagocytes of the CNS and, unlike astrocytes, oligodendrocytes, ependyma and neurons (all neuroectodermal), are of mesodermal/bone-marrow (yolk-sac monocyte) origin, so option D is correct. In injury they proliferate, become elongated 'rod cells' and form microglial nodules with neuronophagia. Oligodendrocytes (not microglia) myelinate central axons, ependymal cells line the ventricles, and the choroid plexus epithelium produces CSF.
+Q_GEN_PATH_SYS_CNS_025 [M] Assertion (A): Herpes simplex virus type 1 encephalitis characteristically causes haemorrhagic necrosis of the medial temporal and orbitofrontal lobes. Reason (R): HSV-1 produces cytoplasmic Negri body inclusions in infected neurons. Select the single best option:
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — The Central Nervous System (Viral encephalitis: HSV-1)
+   concept: The assertion is true: HSV-1 is the most common cause of sporadic fatal encephalitis and produces haemorrhagic, necrotising inflammation of the medial temporal lobes and orbitofrontal cortex, causing seizures and behavioural/memory changes. The reason is false: HSV-1 forms Cowdry type A intranuclear inclusions, whereas Negri bodies are cytoplasmic inclusions specific to rabies (affecting brainstem, cerebellum and hippocampus). Because A is true but R is false, option C is correct.
+
+=== Pathology / Cell injury, adaptation, necrosis vs apoptosis
+Q_c1_002 [M] In experimental ischemia, which finding best marks the transition from REVERSIBLE to IRREVERSIBLE cell injury?
+    A. Cellular (hydropic) swelling
+   *B. Severe plasma-membrane damage with mitochondrial permeability transition and massive calcium influx
+    C. Detachment of ribosomes from rough ER
+    D. Fatty change
+   key=B ref=Robbins & Cotran 10e, Ch.2 (Cell Injury)
+   concept: Reversible injury shows swelling, blebs, and ribosomal detachment. Irreversibility is defined by severe membrane damage, profound mitochondrial dysfunction (permeability transition pore opening), and massive cytosolic calcium influx that activate degradative enzymes.
+
+=== Pathology / Cirrhosis, hepatitis, jaundice patterns
+Q_GEN_PATH_SYS_LIVER_001 [E] Which statement about unconjugated (indirect-reacting) bilirubin is correct?
+   *A. It is tightly bound to albumin in plasma, is water-insoluble, and does not appear in the urine
+    B. It is water-soluble and is readily filtered and excreted in the urine
+    C. It is conjugated with glucuronic acid within the spleen before reaching the liver
+    D. Its elevation characteristically produces dark, tea-coloured urine
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (bilirubin metabolism and jaundice)
+   concept: Unconjugated bilirubin is lipid-soluble and circulates tightly bound to albumin, so it cannot be filtered by the glomerulus and never appears in urine (acholuric jaundice). Conjugation with glucuronic acid occurs in hepatocytes via UGT1A1, not the spleen. Only water-soluble conjugated bilirubin can be excreted in urine and produce dark urine, so options B, C and D describe the conjugated fraction or are simply false.
+Q_GEN_PATH_SYS_LIVER_002 [M] A 22-year-old with hereditary spherocytosis develops scleral icterus and pigment gallstones. Which bilirubin fraction predominantly rises, and what is the expected urinary finding?
+    A. Conjugated bilirubin, with bilirubinuria (dark urine)
+   *B. Unconjugated bilirubin, with absent urinary bilirubin but increased urinary urobilinogen
+    C. Conjugated bilirubin, with absent urinary urobilinogen
+    D. An equal rise of both fractions, with pale clay-coloured stools
+   key=B ref=Harsh Mohan Textbook of Pathology, 8th ed — The Liver, Biliary Tract and Exocrine Pancreas (classification of jaundice)
+   concept: Chronic haemolysis overwhelms hepatic conjugating capacity, so unconjugated (albumin-bound, unfilterable) bilirubin predominates — there is NO bilirubinuria. Increased haem turnover raises gut and then urinary urobilinogen, and darkens the stool. Conjugated hyperbilirubinemia with bilirubinuria and pale stool typifies obstructive/hepatocellular jaundice, not prehepatic haemolysis. Calcium-bilirubinate pigment stones are a classic complication of chronic haemolysis.
+Q_GEN_PATH_SYS_LIVER_003 [M] In the van den Bergh reaction, a positive DIRECT reaction (colour develops immediately with the diazo reagent, before any alcohol/accelerator is added) indicates a predominant increase of which bilirubin fraction?
+    A. Unconjugated bilirubin — indicating haemolytic jaundice
+    B. Delta-bilirubin only — as seen in Gilbert syndrome
+   *C. Conjugated bilirubin — as seen in obstructive or hepatocellular jaundice
+    D. Biliverdin — as seen in physiological neonatal jaundice
+   key=C ref=Harsh Mohan Textbook of Pathology, 8th ed — The Liver, Biliary Tract and Exocrine Pancreas (van den Bergh reaction)
+   concept: The direct van den Bergh reaction measures water-soluble conjugated (direct-reacting) bilirubin, which couples immediately with the diazo reagent; it is raised in hepatocellular and obstructive jaundice. The indirect reaction (requiring alcohol/methanol to solubilise) measures unconjugated bilirubin, elevated in haemolysis and Gilbert syndrome. Biliverdin is the upstream green pigment reduced to bilirubin and is not what the reaction measures, making A, B and D incorrect.
+Q_GEN_PATH_SYS_LIVER_004 [M] A newborn develops severe non-haemolytic jaundice in the first days of life with serum bilirubin >25 mg/dL (almost entirely unconjugated). There is no response to phenobarbital and the infant develops opisthotonus. The underlying molecular defect is:
+    A. Impaired canalicular excretion of conjugated bilirubin (MRP2 defect)
+    B. Reduced hepatic uptake of bilirubin with only mildly reduced UGT1A1 activity
+    C. Deficiency of the biliary copper-transporting ATPase (ATP7B)
+   *D. Complete absence of hepatic UDP-glucuronosyltransferase (UGT1A1) activity
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (hereditary hyperbilirubinemias)
+   concept: Crigler-Najjar type I is complete absence of UGT1A1, so bilirubin cannot be conjugated — producing extreme unconjugated hyperbilirubinemia, kernicterus (opisthotonus), and death unless liver transplant/phototherapy is given. Because there is no residual enzyme, phenobarbital (an enzyme inducer) has NO effect. An MRP2 defect causes conjugated hyperbilirubinemia (Dubin-Johnson); mild UGT reduction/uptake defect causes Gilbert; ATP7B defect causes Wilson disease.
+Q_GEN_PATH_SYS_LIVER_005 [H] Assertion (A): Crigler-Najjar syndrome type II shows a marked fall in serum bilirubin after phenobarbital therapy, whereas type I does not. Reason (R): Type II has a partial, inducible deficiency of UGT1A1, whereas type I has complete absence of the enzyme.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (Crigler-Najjar syndromes)
+   concept: Crigler-Najjar type II (Arias syndrome) retains partial UGT1A1 activity, and the residual inducible enzyme responds to phenobarbital with a bilirubin fall (often >25%), whereas type I has complete enzyme absence so phenobarbital cannot induce anything and there is no response. The partial-versus-complete enzyme difference is precisely why type II is phenobarbital-responsive and type I is not, so R is the correct explanation of A.
+Q_GEN_PATH_SYS_LIVER_006 [H] A 24-year-old man has mild chronic jaundice with predominantly conjugated bilirubin, normal transaminases, and a normal life expectancy. Liver biopsy shows a grossly black liver with coarse dark pigment granules in hepatocytes. The responsible defect is in:
+    A. The sinusoidal OATP uptake transporter, with intact canalicular excretion
+    B. The UGT1A1 conjugating enzyme
+   *C. The canalicular MRP2 (cMOAT/ABCC2) transporter for conjugated bilirubin
+    D. The bile salt export pump (BSEP), causing progressive cholestasis
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (Dubin-Johnson and Rotor syndromes)
+   concept: Dubin-Johnson syndrome is an autosomal-recessive defect in canalicular MRP2 (ABCC2/cMOAT) that impairs excretion of conjugated bilirubin, giving benign conjugated hyperbilirubinemia. Accumulated dark, melanin-like pigment (epinephrine-metabolite polymers) turns the liver grossly black. A hepatic storage/uptake (OATP) defect with a normal-coloured liver is Rotor syndrome; UGT1A1 defects cause unconjugated hyperbilirubinemia (Gilbert/Crigler-Najjar); BSEP defect causes PFIC.
+Q_GEN_PATH_SYS_LIVER_007 [M] Rotor syndrome is best distinguished from Dubin-Johnson syndrome by which feature?
+    A. Rotor causes unconjugated hyperbilirubinemia whereas Dubin-Johnson causes conjugated
+    B. Rotor shows characteristic ground-glass hepatocytes on biopsy
+    C. Rotor invariably progresses to cirrhosis, unlike Dubin-Johnson
+   *D. In Rotor the liver is grossly normal (no dark pigment) and total urinary coproporphyrin is markedly elevated
+   key=D ref=Harsh Mohan Textbook of Pathology, 8th ed — The Liver, Biliary Tract and Exocrine Pancreas (hereditary conjugated hyperbilirubinemias)
+   concept: Both Rotor and Dubin-Johnson cause benign conjugated hyperbilirubinemia, so option A is wrong. Rotor is a defect in hepatic storage/handling (OATP1B1/1B3) so the liver is NOT pigmented (grossly normal), and total urinary coproporphyrin is markedly increased — unlike Dubin-Johnson, which has a black liver and near-normal total coproporphyrin (with a high proportion of isomer I). Ground-glass hepatocytes indicate hepatitis B; neither syndrome progresses to cirrhosis.
+Q_GEN_PATH_SYS_LIVER_008 [H] A liver panel shows ALT 60 U/L, AST 55 U/L, alkaline phosphatase 640 U/L (markedly raised) and GGT 480 U/L (markedly raised), with conjugated hyperbilirubinemia. This enzyme pattern is most consistent with:
+    A. A predominantly hepatocellular (hepatitic) pattern of injury
+    B. An isolated skeletal (bone) source of alkaline phosphatase
+    C. Pre-hepatic haemolysis
+   *D. A predominantly cholestatic/obstructive pattern of injury
+   key=D ref=Harrison's Principles of Internal Medicine, 21st ed — Evaluation of Liver Function (patterns of liver test abnormalities)
+   concept: A disproportionate rise in ALP and GGT with only mild transaminase elevation defines a cholestatic/obstructive pattern; the parallel GGT rise confirms a hepatobiliary (not bony) origin for the ALP. A hepatocellular pattern would show AST/ALT rising far out of proportion to ALP. Bone-source ALP would not raise GGT. Haemolysis produces unconjugated hyperbilirubinemia with essentially normal liver enzymes, so A, B and C are excluded.
+Q_GEN_PATH_SYS_LIVER_009 [E] Which statement about hepatitis A virus (HAV) infection is TRUE?
+   *A. It is transmitted by the faecal-oral route and does not cause a chronic carrier state
+    B. It is a DNA virus that integrates into the host genome
+    C. Chronic infection with progression to cirrhosis develops in about 80% of cases
+    D. It is transmitted mainly by blood transfusion and sexual contact
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (viral hepatitis)
+   concept: HAV is a small non-enveloped RNA picornavirus spread by the faecal-oral route (contaminated food/water); it causes an acute, self-limited hepatitis with NO chronic or carrier state and no progression to cirrhosis. HBV is the DNA virus capable of genomic integration. Chronicity and cirrhosis characterise HBV/HCV, and parenteral/sexual transmission is typical of HBV/HCV — so B, C and D are false.
+Q_GEN_PATH_SYS_LIVER_010 [H] A 28-year-old woman in her third trimester of pregnancy develops jaundice, encephalopathy and fulminant hepatic failure after drinking contaminated water during a monsoon outbreak. The most likely agent and reason for her high mortality is:
+    A. Hepatitis A virus, more severe here because it establishes chronic infection
+   *B. Hepatitis E virus, which carries a markedly increased risk of fulminant hepatic failure (~20% mortality) in pregnancy
+    C. Hepatitis C virus acquired from the contaminated water
+    D. Hepatitis B with hepatitis D superinfection
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (hepatitis E in pregnancy)
+   concept: Hepatitis E is an enterically transmitted (waterborne) RNA virus that causes epidemic hepatitis and is usually self-limited, but in pregnancy — especially the third trimester — it can cause fulminant hepatic failure with mortality approaching 20%. HAV and HEV do not cause chronicity (so A is wrong). HCV is bloodborne, not waterborne, and HBV/HDV is parenteral, making C and D inconsistent with a waterborne monsoon outbreak.
+Q_GEN_PATH_SYS_LIVER_011 [H] A patient recovering from acute hepatitis B has this serology: HBsAg negative, anti-HBs negative, IgM anti-HBc positive. This profile represents:
+    A. Successful hepatitis B vaccination
+    B. Chronic hepatitis B carrier state
+   *C. The window period of acute hepatitis B
+    D. Distant past infection with complete recovery
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (serologic diagnosis of hepatitis B)
+   concept: In the hepatitis B window period, HBsAg has already cleared but protective anti-HBs has not yet appeared, so the ONLY positive marker is IgM anti-HBc — making it the sole indicator of recent infection at this stage. Vaccination gives isolated anti-HBs with negative anti-HBc (A wrong). A chronic carrier has persistent HBsAg (B wrong). Resolved past infection shows anti-HBs plus IgG (not IgM) anti-HBc (D wrong).
+Q_GEN_PATH_SYS_LIVER_012 [E] The presence of HBeAg in a patient with hepatitis B infection primarily indicates:
+    A. Recovery and lifelong immunity
+    B. A successful response to vaccination
+    C. Coexisting hepatitis D infection
+   *D. Active viral replication and high infectivity
+   key=D ref=Harsh Mohan Textbook of Pathology, 8th ed — The Liver, Biliary Tract and Exocrine Pancreas (hepatitis B markers)
+   concept: HBeAg is a secreted protein derived from the precore/core region and is a marker of active HBV replication and high infectivity (high viral load). Seroconversion from HBeAg to anti-HBe signals reduced replication and lower infectivity. Immunity is indicated by anti-HBs, vaccination gives anti-HBs alone, and hepatitis D requires separate anti-HDV/HDV-RNA testing — so A, B and C are incorrect.
+Q_GEN_PATH_SYS_LIVER_013 [M] A healthcare worker's hepatitis B panel shows: HBsAg negative, anti-HBc (total) negative, anti-HBs positive. The correct interpretation is:
+   *A. Immunity due to prior hepatitis B vaccination
+    B. Immunity due to resolved natural infection
+    C. Acute hepatitis B in the window period
+    D. Chronic inactive carrier state
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (interpretation of hepatitis B serology)
+   concept: Isolated anti-HBs positivity with NEGATIVE anti-HBc indicates vaccine-induced immunity: the recombinant vaccine contains only HBsAg, so no anti-core antibody is ever generated. Resolved natural infection would show anti-HBs PLUS anti-HBc (IgG), so B is wrong. The window period is defined by IgM anti-HBc positivity, and a chronic carrier has persistent HBsAg — so C and D are excluded.
+Q_GEN_PATH_SYS_LIVER_014 [M] Compared with the other hepatitis viruses, hepatitis C virus (HCV) is MOST notable for:
+    A. Being a DNA virus preventable by an effective vaccine
+   *B. The highest rate of progression to chronic infection, with substantial risk of cirrhosis and hepatocellular carcinoma
+    C. Exclusive faecal-oral transmission with no chronicity
+    D. Causing infection only in the presence of hepatitis B
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (hepatitis C, chronicity and HCC)
+   concept: HCV is an RNA flavivirus, chiefly bloodborne, and has the highest chronicity rate of the hepatitis viruses (roughly 50-85% become chronic), driving progression to cirrhosis and hepatocellular carcinoma. There is no HCV vaccine because of its high genomic variability/quasispecies, so A is wrong. Faecal-oral, non-chronic spread describes HAV/HEV (C), and dependence on HBV is the feature of the defective HDV (D).
+Q_GEN_PATH_SYS_LIVER_015 [H] Assertion (A): Hepatitis D superinfection of a chronic hepatitis B carrier tends to be more severe — with higher risk of fulminant hepatitis or accelerated cirrhosis — than simultaneous HBV-HDV coinfection. Reason (R): Hepatitis D is a defective RNA virus that requires the HBsAg coat of hepatitis B to replicate.
+    A. Both A and R are true, and R is the correct explanation of A
+   *B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (hepatitis D coinfection versus superinfection)
+   concept: Both statements are individually true: HDV is a defective virus needing HBsAg to assemble and replicate (R true), and superinfection of an established HBV carrier is indeed more severe than co-infection (A true). However, R only explains why HDV depends on HBV at all — it does not explain WHY superinfection is worse than coinfection (which relates to a large pre-existing pool of HBsAg permitting rapid HDV replication). Hence R is not the correct explanation of A.
+Q_GEN_PATH_SYS_LIVER_016 [M] Councilman (acidophil) bodies seen on liver biopsy in acute viral hepatitis represent:
+    A. Intracellular accumulation of hepatitis B surface antigen (ground-glass change)
+    B. Aggregates of damaged keratin intermediate filaments (Mallory-Denk material)
+   *C. Apoptotic hepatocytes that have shrunk into rounded, intensely eosinophilic bodies
+    D. Iron-laden Kupffer cells
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (histology of viral hepatitis)
+   concept: Councilman/apoptotic (acidophil) bodies are individual hepatocytes dying by apoptosis — they shrink into rounded, deeply eosinophilic (acidophilic) globes and are a hallmark of viral hepatitis. Ground-glass hepatocytes reflect cytoplasmic HBsAg accumulation (chronic HBV); Mallory-Denk bodies are damaged keratin intermediate filaments seen in alcoholic/NASH hepatitis; iron-laden Kupffer cells indicate haemosiderosis. Thus A, B and D describe different entities.
+Q_GEN_PATH_SYS_LIVER_017 [E] In a patient with a long history of heavy alcohol use and deranged liver enzymes, which biochemical pattern is MOST characteristic of alcoholic liver disease?
+   *A. AST elevated to about twice ALT (AST:ALT ratio >2:1), usually with values below 500 U/L
+    B. ALT elevated far more than AST (ratio well below 1)
+    C. Both transaminases persistently above 2000 U/L
+    D. Normal transaminases with an isolated very high alkaline phosphatase
+   key=A ref=Harrison's Principles of Internal Medicine, 21st ed — Alcoholic Liver Disease (AST:ALT ratio)
+   concept: Alcoholic liver disease classically shows an AST:ALT ratio greater than 2:1, with transaminases usually only modestly raised (below ~500 U/L). This is partly because alcohol depletes pyridoxal-5-phosphate needed for ALT synthesis and causes release of mitochondrial AST. ALT-predominant elevation is typical of viral hepatitis and NAFLD; values above 2000 U/L suggest ischaemic, toxic (e.g., paracetamol) or acute viral injury; isolated high ALP suggests cholestasis.
+Q_GEN_PATH_SYS_LIVER_018 [M] A 48-year-old obese man with type 2 diabetes and dyslipidaemia (denies significant alcohol use) has hepatic steatosis on ultrasound and mildly raised ALT. Biopsy shows steatosis, hepatocyte ballooning, Mallory-Denk bodies and scattered neutrophils. The most likely diagnosis is:
+    A. Primary biliary cholangitis
+   *B. Non-alcoholic steatohepatitis (NASH)
+    C. Wilson disease
+    D. Autoimmune hepatitis
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (non-alcoholic fatty liver disease)
+   concept: NAFLD/NASH is strongly linked to the metabolic syndrome (obesity, type 2 diabetes, dyslipidaemia). Its histology — steatosis, ballooning degeneration, Mallory-Denk bodies and neutrophils — is essentially indistinguishable from alcoholic steatohepatitis, but occurs in the ABSENCE of significant alcohol intake, and can progress to cirrhosis. PBC (AMA-positive middle-aged women), Wilson (young, KF rings, low ceruloplasmin) and autoimmune hepatitis (ANA/anti-SMA) differ clinically and serologically.
+Q_GEN_PATH_SYS_LIVER_019 [H] Which pairing of cirrhosis morphology with its typical cause is CORRECT?
+    A. Macronodular cirrhosis — the classic pattern of early alcoholic cirrhosis
+    B. Micronodular cirrhosis — the usual end-stage of chronic viral hepatitis B
+   *C. Micronodular cirrhosis (uniform nodules <3 mm) — classically alcoholic liver disease
+    D. Macronodular cirrhosis — characteristic of haemochromatosis
+   key=C ref=Harsh Mohan Textbook of Pathology, 8th ed — The Liver, Biliary Tract and Exocrine Pancreas (morphological classification of cirrhosis)
+   concept: Micronodular cirrhosis (uniform nodules under ~3 mm) is classically caused by alcohol (also haemochromatosis and biliary disease), where ongoing injury and metabolic suppression limit regeneration. Macronodular cirrhosis (variably sized nodules over 3 mm) typifies chronic viral hepatitis B/C and Wilson disease. Alcoholic cirrhosis can evolve into a mixed/macronodular pattern late, but its classic early form is micronodular — so A, B and D are mismatched.
+Q_GEN_PATH_SYS_LIVER_020 [E] A 52-year-old man presents with skin hyperpigmentation ('bronze' colour), new-onset diabetes mellitus and hepatomegaly. Which laboratory profile and gene are MOST consistent with hereditary haemochromatosis?
+    A. Low ceruloplasmin with high urinary copper, and an ATP7B mutation
+    B. Low serum iron with high TIBC and no genetic association
+    C. Raised alpha-fetoprotein with entirely normal iron studies
+   *D. High serum ferritin and high transferrin saturation, with an HFE (C282Y) mutation
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (hereditary haemochromatosis)
+   concept: Hereditary haemochromatosis, most often from HFE C282Y homozygosity, causes systemic iron overload — raised serum ferritin and high transferrin saturation. Iron deposition damages the liver (cirrhosis, HCC risk), pancreas ('bronze diabetes' from combined skin pigmentation and diabetes), skin, joints and heart. Low ceruloplasmin with an ATP7B mutation defines Wilson disease (A); low iron with high TIBC is iron deficiency (B); AFP with normal iron studies does not fit (C).
+Q_GEN_PATH_SYS_LIVER_021 [H] A 19-year-old with hepatitis and a new resting tremor is being evaluated for Wilson disease. Which combination of laboratory findings best supports the diagnosis?
+   *A. Decreased serum ceruloplasmin and decreased TOTAL serum copper, but increased FREE (non-ceruloplasmin-bound) serum copper and increased 24-hour urinary copper
+    B. Increased serum ceruloplasmin with decreased urinary copper
+    C. Increased serum ceruloplasmin with increased total serum copper
+    D. Normal ceruloplasmin with a high transferrin saturation
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (Wilson disease, copper studies)
+   concept: In Wilson disease the defective ATP7B impairs both incorporation of copper into ceruloplasmin and biliary copper excretion. This lowers serum ceruloplasmin and lowers TOTAL serum copper (most circulating copper is ceruloplasmin-bound), yet the FREE non-bound copper rises and spills into urine, so 24-hour urinary copper is increased; tissue deposition causes Kayser-Fleischer rings and hepatic/neuropsychiatric disease. High transferrin saturation with normal ceruloplasmin points to haemochromatosis, not Wilson.
+Q_GEN_PATH_SYS_LIVER_022 [M] A young non-smoking adult with early panacinar (basal) emphysema is found to have chronic liver disease. Liver biopsy shows cytoplasmic globules in periportal hepatocytes that are PAS-positive and diastase-resistant. The diagnosis is:
+    A. Wilson disease
+   *B. Alpha-1-antitrypsin deficiency
+    C. Hereditary haemochromatosis
+    D. Primary sclerosing cholangitis
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (alpha-1-antitrypsin deficiency)
+   concept: Alpha-1-antitrypsin deficiency (classically the PiZZ genotype) causes accumulation of misfolded AAT within hepatocytes, forming cytoplasmic globules that are PAS-positive and diastase (PAS-D)-resistant, with associated liver disease/neonatal cholestasis. Reduced circulating AAT leaves neutrophil elastase unopposed, producing early panacinar emphysema, especially in non-smokers presenting young. Copper (Wilson) and iron (haemochromatosis) stains and large-duct cholangiographic disease (PSC) are distinct.
+Q_GEN_PATH_SYS_LIVER_023 [M] A 50-year-old woman presents with fatigue, pruritus and xanthelasma. Alkaline phosphatase is markedly elevated and anti-mitochondrial antibody (AMA) is positive. Biopsy shows granulomatous destruction of small intrahepatic bile ducts. The diagnosis is:
+    A. Autoimmune hepatitis type 1
+    B. Primary sclerosing cholangitis
+   *C. Primary biliary cholangitis
+    D. Alcoholic hepatitis
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (primary biliary cholangitis vs primary sclerosing cholangitis)
+   concept: Primary biliary cholangitis typically affects middle-aged women with fatigue, pruritus and a cholestatic profile (high ALP), and is characterised by AMA positivity (anti-M2, highly specific) with granulomatous destruction of small/medium intrahepatic bile ducts (the florid duct lesion). PSC instead affects large ducts (beaded strictures on cholangiography), is AMA-negative, and is linked to ulcerative colitis and p-ANCA. Autoimmune hepatitis shows ANA/anti-SMA and interface hepatitis, not duct destruction.
+Q_GEN_PATH_SYS_LIVER_024 [M] The MOST common malignant tumour involving the liver overall is:
+    A. Hepatocellular carcinoma
+    B. Cholangiocarcinoma
+    C. Hepatic haemangioma
+   *D. Metastatic carcinoma (e.g., from colon, breast or lung)
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed — Liver and Gallbladder (tumours of the liver; metastases)
+   concept: Metastatic tumours far outnumber primary liver malignancies; the liver is one of the commonest sites of metastasis, especially from colon, breast, lung and pancreas, classically producing multiple nodules with central umbilication. Hepatocellular carcinoma is the commonest PRIMARY liver malignancy (linked to cirrhosis, HBV/HCV; raised AFP), and cholangiocarcinoma arises from bile-duct epithelium. Haemangioma is the commonest BENIGN liver tumour, not a malignancy, so A, B and C are incorrect.
+Q_c1_023 [M] A patient has painless progressive jaundice, dark urine, pale (clay-colored) stools, pruritus and markedly elevated alkaline phosphatase. This pattern indicates which type of jaundice?
+    A. Pre-hepatic (hemolytic) jaundice
+   *B. Obstructive (post-hepatic) jaundice
+    C. Gilbert syndrome
+    D. Purely hepatocellular jaundice
+   key=B ref=Robbins & Cotran 10e, Ch.18 (Jaundice/Cholestasis)
+   concept: Obstructive jaundice gives conjugated hyperbilirubinemia: bilirubin appears in urine (dark urine), stools become pale (no urobilinogen), and there is pruritus with a markedly raised ALP/GGT. Hemolytic jaundice is unconjugated with NO bilirubinuria.
+
+=== Pathology / Glomerulonephritis, nephrotic vs nephritic
+Q_GEN_PATH_SYS_RENAL_001 [M] A 24-year-old man develops an episode of visible (gross) hematuria within 1-2 days of an upper respiratory tract infection, and similar episodes recur with subsequent infections. Renal biopsy immunofluorescence shows mesangial deposits of which immunoglobulin?
+   *A. IgA
+    B. IgG
+    C. IgM
+    D. IgE
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: IgA nephropathy (Berger disease) is the most common primary glomerulonephritis worldwide. Synpharyngitic gross hematuria (concurrent with, not 1-2 weeks after, a mucosal infection) with mesangial IgA and C3 deposits distinguishes it from poststreptococcal GN, where hematuria follows the infection by weeks.
+Q_GEN_PATH_SYS_RENAL_002 [M] A 50-year-old man has nephrotic-range proteinuria, and renal biopsy shows diffuse thickening of the glomerular capillary wall with subepithelial deposits producing a 'spike and dome' pattern on silver stain. Circulating autoantibodies against which podocyte antigen are most characteristic?
+   *A. Phospholipase A2 receptor (PLA2R)
+    B. Type IV collagen alpha-3 chain
+    C. Streptococcal M protein
+    D. Double-stranded DNA
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Primary membranous nephropathy is a leading cause of nephrotic syndrome in adults and older Caucasians; roughly 70% are driven by autoantibodies to the podocyte antigen PLA2R. Subepithelial immune-complex deposits with reactive GBM spikes give the silver-stain 'spike and dome' appearance.
+Q_GEN_PATH_SYS_RENAL_003 [M] A 40-year-old African-American man with HIV infection develops heavy proteinuria and full nephrotic syndrome. Renal biopsy shows sclerosis involving portions (segments) of some (focal) glomeruli, with the rest appearing normal on light microscopy. The most likely diagnosis is:
+   *A. Focal segmental glomerulosclerosis
+    B. Minimal change disease
+    C. Membranous nephropathy
+    D. Renal amyloidosis
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Focal segmental glomerulosclerosis (FSGS) is a leading cause of nephrotic syndrome in adults, especially in people of African descent and in HIV, heroin use, sickle cell and obesity. Light microscopy shows sclerosis of segments of some glomeruli; unlike minimal change disease it causes non-selective proteinuria and often responds poorly to steroids.
+Q_GEN_PATH_SYS_RENAL_004 [H] A 28-year-old woman with a malar rash, arthralgia and positive anti-dsDNA develops hematuria and proteinuria. Renal biopsy shows diffuse proliferative glomerulonephritis with thickened, homogeneous eosinophilic capillary loops ('wire-loop' lesions) and a 'full-house' immunofluorescence pattern. This corresponds to which class of lupus nephritis?
+   *A. Class IV (diffuse proliferative)
+    B. Class I (minimal mesangial)
+    C. Class V (membranous)
+    D. Class VI (advanced sclerosing)
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Class IV diffuse proliferative lupus nephritis is the most common and most severe form. Subendothelial immune-complex deposits produce 'wire-loop' capillary loops, and immunofluorescence shows 'full-house' staining (IgG, IgA, IgM, C3 and C1q). It carries the worst renal prognosis and drives aggressive immunosuppression.
+Q_GEN_PATH_SYS_RENAL_005 [H] A young adult presents with a mixed nephrotic-nephritic picture and persistently low serum C3. Renal biopsy shows a thickened glomerular basement membrane with a 'tram-track' (double-contour) appearance caused by mesangial cell interposition. The most likely diagnosis is:
+   *A. Membranoproliferative glomerulonephritis
+    B. Minimal change disease
+    C. Thin basement membrane disease
+    D. Acute tubular necrosis
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Membranoproliferative GN presents with a combined nephrotic/nephritic picture and low complement. Duplication/splitting of the GBM from mesangial cell interposition and new basement-membrane synthesis gives the classic 'tram-track' double-contour appearance on silver/PAS stain.
+Q_GEN_PATH_SYS_RENAL_006 [M] A 12-year-old boy has recurrent hematuria, progressive sensorineural hearing loss and anterior lenticonus. Electron microscopy of the glomerular basement membrane shows irregular thinning and thickening with 'basket-weave' splitting of the lamina densa. The defective protein is:
+   *A. Type IV collagen
+    B. Type I collagen
+    C. Fibrillin-1
+    D. Spectrin
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Alport syndrome is a hereditary nephritis, most often X-linked, caused by mutations in type IV collagen (alpha-3/4/5 chains). The clinical triad is hematuria progressing to renal failure, sensorineural deafness and ocular defects (anterior lenticonus), with a pathognomonic 'basket-weave' GBM on electron microscopy.
+Q_GEN_PATH_SYS_RENAL_007 [H] A 30-year-old woman has persistent asymptomatic microscopic hematuria with normal renal function, normal hearing and no significant proteinuria; several relatives have similar isolated hematuria. Electron microscopy shows diffuse uniform thinning of the glomerular basement membrane. The most likely diagnosis is:
+   *A. Thin basement membrane disease (benign familial hematuria)
+    B. Alport syndrome
+    C. IgA nephropathy
+    D. Poststreptococcal glomerulonephritis
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Thin basement membrane disease (benign familial hematuria) causes lifelong isolated microscopic hematuria with an excellent prognosis; EM shows diffusely thinned GBM (roughly 150-250 nm versus the normal ~350-400 nm). Unlike Alport syndrome it lacks deafness, ocular lesions and progression to renal failure.
+Q_GEN_PATH_SYS_RENAL_008 [H] A 60-year-old man presents with rapidly progressive renal failure and hemoptysis. Renal biopsy shows crescentic glomerulonephritis, but immunofluorescence reveals NO immune deposits (pauci-immune). Which serologic test is most likely to be positive?
+   *A. ANCA (anti-neutrophil cytoplasmic antibody)
+    B. Anti-GBM antibody
+    C. Anti-dsDNA antibody
+    D. Anti-streptolysin O titer
+   key=A ref=Harrison's Principles of Internal Medicine — Glomerular Diseases
+   concept: Pauci-immune crescentic (RPGN type III) glomerulonephritis lacks glomerular immune deposits and is associated with ANCA — c-ANCA/PR3 in granulomatosis with polyangiitis and p-ANCA/MPO in microscopic polyangiitis and EGPA. Anti-GBM disease (type I) instead shows linear IgG, and immune-complex RPGN (type II) shows granular deposits.
+Q_GEN_PATH_SYS_RENAL_009 [M] A patient develops acute kidney injury after prolonged hypotension from septic shock. Urinalysis shows muddy-brown granular casts and renal tubular epithelial cells. The most likely diagnosis is:
+   *A. Acute tubular necrosis
+    B. Prerenal azotemia
+    C. Acute interstitial nephritis
+    D. Minimal change disease
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Ischemic acute tubular necrosis is the commonest cause of intrinsic AKI. Sloughed necrotic tubular epithelium forms pathognomonic 'muddy-brown' granular casts; unlike prerenal azotemia the FENa is greater than 2% and urine osmolality is low because injured tubules cannot concentrate or reabsorb sodium.
+Q_GEN_PATH_SYS_RENAL_010 [M] A 58-year-old diabetic woman with a long history of analgesic (NSAID/phenacetin) abuse develops flank pain, gross hematuria and passes sloughed tissue fragments in her urine; imaging shows destruction of the renal papillae. This complication is:
+   *A. Renal papillary necrosis
+    B. Renal cell carcinoma
+    C. Acute tubular necrosis
+    D. Minimal change disease
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Renal papillary necrosis is classically caused by Diabetes mellitus, Analgesic abuse (NSAIDs/phenacetin), Sickle cell disease, and severe pyelonephritis/obstruction. Ischemic coagulative necrosis of the papillae produces flank pain, hematuria and sloughed papillary tissue passed in the urine.
+Q_GEN_PATH_SYS_RENAL_011 [M] A 62-year-old smoker presents with painless hematuria, dull flank pain and a palpable abdominal mass; CT shows a solid renal mass extending into the renal vein. Histology shows nests of cells with clear, lipid- and glycogen-laden cytoplasm. The most likely diagnosis is:
+   *A. Clear cell renal cell carcinoma
+    B. Wilms tumor
+    C. Urothelial (transitional cell) carcinoma
+    D. Angiomyolipoma
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Clear cell renal cell carcinoma, linked to VHL gene inactivation and smoking, is the commonest renal malignancy in adults. The classic triad is hematuria, flank pain and a palpable mass; it characteristically invades the renal vein and can cause paraneoplastic syndromes (polycythemia, hypercalcemia, Cushing).
+Q_GEN_PATH_SYS_RENAL_012 [H] A patient with nephrotic syndrome suddenly develops acute flank pain and worsening proteinuria; imaging confirms renal vein thrombosis. Urinary loss of which protein best explains this thrombotic tendency?
+   *A. Antithrombin III
+    B. Albumin alone
+    C. Complement C3
+    D. Immunoglobulin G
+   key=A ref=Harrison's Principles of Internal Medicine — Glomerular Diseases
+   concept: Nephrotic syndrome produces a hypercoagulable state largely from urinary loss of antithrombin III and other anticoagulant regulators, predisposing to renal vein thrombosis and venous thromboembolism. Membranous nephropathy has the strongest association with renal vein thrombosis among the nephrotic pathologies.
+Q_GEN_PATH_SYS_RENAL_013 [E] Which combination of findings best characterizes the NEPHRITIC syndrome, as opposed to the nephrotic syndrome?
+   *A. Hematuria with RBC casts, hypertension and sub-nephrotic proteinuria
+    B. Proteinuria over 3.5 g/day with hypoalbuminemia and generalized edema
+    C. Massive selective proteinuria without any hematuria
+    D. Isolated lipiduria with oval fat bodies and no hematuria
+   key=A ref=Robbins Basic Pathology — The Kidney and Its Collecting System
+   concept: Nephritic syndrome reflects glomerular inflammation: hematuria with dysmorphic RBCs and RBC casts, oliguria, hypertension and mild-to-moderate (sub-nephrotic) proteinuria. Nephrotic syndrome, by contrast, is defined by proteinuria over 3.5 g/day, hypoalbuminemia, edema and hyperlipidemia/lipiduria.
+Q_GEN_PATH_SYS_RENAL_014 [E] A child develops acute nephritic syndrome about two weeks after impetigo. Which finding best supports poststreptococcal glomerulonephritis and its typically favorable prognosis?
+   *A. Raised anti-DNase B / ASO titer with a low C3 that normalizes in about 8 weeks
+    B. Linear IgG deposition along the glomerular basement membrane
+    C. Persistently low C3 lasting beyond 3 months
+    D. Dominant mesangial IgA deposits
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Poststreptococcal GN follows pharyngitis or skin infection (impetigo) by 1-3 weeks. Evidence of recent streptococcal infection (raised ASO or anti-DNase B) with a transiently low C3 that recovers within about 8 weeks supports the diagnosis. Prognosis is excellent in children; EM shows subepithelial 'humps'.
+Q_GEN_PATH_SYS_RENAL_015 [H] A child has persistent hypocomplementemia and nephritic features; renal biopsy shows ribbon-like, intensely electron-dense deposits within the glomerular basement membrane itself. This finding is most associated with which autoantibody?
+   *A. C3 nephritic factor
+    B. Anti-GBM antibody
+    C. Anti-PLA2R antibody
+    D. Anti-streptolysin O
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Dense deposit disease (formerly MPGN type II, now a C3 glomerulopathy) shows dense intramembranous deposits transforming the lamina densa into a ribbon. It is driven by C3 nephritic factor, an autoantibody that stabilizes the alternative-pathway C3 convertase, causing unregulated complement consumption and persistently very low C3.
+Q_GEN_PATH_SYS_RENAL_016 [M] A 3-year-old child presents with a large, smooth, unilateral abdominal mass that does not cross the midline, along with hematuria and hypertension. Histology shows a triphasic pattern of blastemal, primitive epithelial (tubular) and stromal elements. The most likely diagnosis is:
+   *A. Wilms tumor (nephroblastoma)
+    B. Clear cell renal cell carcinoma
+    C. Neuroblastoma
+    D. Autosomal recessive polycystic kidney disease
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Wilms tumor (nephroblastoma) is the commonest primary renal malignancy of childhood, peaking at 2-5 years, and is associated with WT1 mutations (WAGR, Denys-Drash) and WT2/Beckwith-Wiedemann. It forms a triphasic blastemal-epithelial-stromal mass. Neuroblastoma, its main mimic, characteristically crosses the midline and encases vessels.
+Q_GEN_PATH_SYS_RENAL_017 [M] A patient with long-standing rheumatoid arthritis develops nephrotic-range proteinuria. Renal biopsy stained with Congo red shows mesangial and vascular deposits that display apple-green birefringence under polarized light. These deposits are:
+   *A. Amyloid
+    B. Fibrin
+    C. Hyaline arteriolar material
+    D. Granular immune complexes
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Renal amyloidosis (AA type in chronic inflammation such as rheumatoid arthritis; AL type in plasma-cell dyscrasias) deposits beta-pleated-sheet protein in the mesangium and vessel walls, causing nephrotic syndrome. Congo red staining is pathognomonic, showing apple-green birefringence under polarized light.
+Q_GEN_PATH_SYS_RENAL_018 [E] What is the earliest clinical indicator of diabetic nephropathy?
+   *A. Microalbuminuria (moderately increased albuminuria, 30-300 mg/day)
+    B. Nephrotic-range proteinuria
+    C. Elevated serum creatinine
+    D. Anuria
+   key=A ref=Harrison's Principles of Internal Medicine — Diabetic Nephropathy
+   concept: The earliest clinically detectable sign of diabetic nephropathy is microalbuminuria (urinary albumin 30-300 mg/day), reflecting early glomerular injury before overt proteinuria or a rise in creatinine. Structurally, GBM thickening and mesangial expansion precede the nodular Kimmelstiel-Wilson lesions; ACE inhibitors/ARBs are renoprotective at this stage.
+Q_GEN_PATH_SYS_RENAL_019 [M] A 6-year-old boy develops palpable purpura over the buttocks and lower legs, colicky abdominal pain, arthralgia and hematuria following a viral illness. Skin and renal mesangial biopsies show deposition of which immunoglobulin?
+   *A. IgA
+    B. IgG
+    C. IgM
+    D. IgE
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — The Kidney
+   concept: Henoch-Schonlein purpura (IgA vasculitis) is the most common systemic vasculitis of childhood. IgA immune-complex deposition in small vessels and the glomerular mesangium produces the tetrad of palpable purpura, arthralgia, abdominal (GI) pain and glomerulonephritis; the renal lesion is histologically identical to IgA nephropathy.
+Q_GEN_PATH_SYS_RENAL_020 [E] Which is the most common cause of the nephrotic syndrome in children?
+   *A. Minimal change disease
+    B. Membranous nephropathy
+    C. Focal segmental glomerulosclerosis
+    D. Diabetic nephropathy
+   key=A ref=Robbins Basic Pathology — The Kidney and Its Collecting System
+   concept: Minimal change disease accounts for the majority of nephrotic syndrome in children. It produces highly selective proteinuria, responds dramatically to corticosteroids, shows normal light microscopy, and reveals only diffuse podocyte foot-process effacement on electron microscopy. Membranous nephropathy predominates in adults.
+Q_GEN_PATH_SYS_RENAL_021 [M] A patient with nephrotic syndrome has 'oval fat bodies' in the urine that display a 'Maltese cross' appearance under polarized light. This finding reflects urinary loss of which substance?
+   *A. Lipids (cholesterol-laden lipoproteins)
+    B. Immunoglobulins
+    C. Red blood cells
+    D. Bence Jones (free light-chain) protein
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed., Ch. 20 (The Kidney)
+   concept: Heavy glomerular protein loss in nephrotic syndrome is accompanied by hyperlipidaemia and lipiduria. Filtered lipoproteins are taken up by tubular cells and shed as 'oval fat bodies' and fatty casts; under polarized light the cholesterol esters produce the characteristic 'Maltese cross' birefringence. This confirms the lipiduria of nephrotic syndrome rather than loss of red cells or immunoglobulins.
+Q_GEN_PATH_SYS_RENAL_022 [M] Which glomerular disease is now the most common cause of primary (idiopathic) nephrotic syndrome in adults, especially among African-Americans?
+   *A. Focal segmental glomerulosclerosis
+    B. Minimal change disease
+    C. Post-streptococcal glomerulonephritis
+    D. Thin basement membrane disease
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed., Ch. 20 (The Kidney)
+   concept: Focal segmental glomerulosclerosis (FSGS) has become the most common cause of primary nephrotic syndrome in adults, particularly among African-Americans, and its incidence is rising. Membranous nephropathy is the classic cause in older Caucasian adults, whereas minimal change disease predominates in children. FSGS shows sclerosis of segments of some glomeruli with foot-process effacement and is frequently steroid-resistant.
+Q_GEN_PATH_SYS_RENAL_023 [H] A 62-year-old man is newly diagnosed with membranous nephropathy on renal biopsy. In an adult of this age, which underlying condition most importantly needs to be actively excluded as a secondary cause?
+   *A. An occult solid-organ malignancy (e.g., lung or colon carcinoma)
+    B. Iron-deficiency anaemia
+    C. Primary osteoarthritis
+    D. Essential tremor
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed., Ch. 20 (The Kidney)
+   concept: Membranous nephropathy is primary (anti-PLA2R antibody mediated) in about three-quarters of cases, but in an older adult secondary causes must be sought — above all an occult solid-organ malignancy (lung, colon, breast, prostate), plus infections such as hepatitis B, autoimmune disease (SLE) and drugs (NSAIDs, penicillamine, gold). Age-appropriate cancer screening is therefore indicated in a newly diagnosed older patient.
+Q_GEN_PATH_SYS_RENAL_024 [M] In rapidly progressive (crescentic) glomerulonephritis, the crescents that fill Bowman's space are composed predominantly of which elements?
+   *A. Proliferating parietal epithelial cells and infiltrating macrophages, with fibrin
+    B. Neoplastic plasma cells
+    C. Neutrophils exclusively
+    D. Foamy lipid-laden mesangial cells
+   key=A ref=Harsh Mohan, Textbook of Pathology, 7th ed., Ch. 22 (The Kidney and Lower Urinary Tract)
+   concept: In rapidly progressive (crescentic) glomerulonephritis, breaks in the glomerular capillary wall let fibrin and plasma proteins into Bowman's space, triggering proliferation of parietal epithelial cells together with infiltrating monocytes/macrophages to form cellular crescents that compress the tuft. If untreated they organise into fibrous crescents with irreversible loss of function. Crescents are the histological hallmark whatever the immunologic type (I anti-GBM, II immune-complex, III pauci-immune).
+Q_GEN_PATH_SYS_RENAL_025 [H] A patient presents with a nephritic picture. Which of the following is characteristically associated with a NORMAL serum complement (C3) level, helping distinguish it from post-streptococcal glomerulonephritis?
+   *A. IgA nephropathy
+    B. Membranoproliferative glomerulonephritis
+    C. Diffuse proliferative lupus nephritis
+    D. Cryoglobulinaemic glomerulonephritis
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed., Ch. 20 (The Kidney)
+   concept: Serum complement helps classify glomerulonephritis. Normocomplementaemic (normal C3) nephritides include IgA nephropathy, Henoch-Schonlein purpura, anti-GBM (Goodpasture) disease, ANCA-associated pauci-immune GN and Alport syndrome. Hypocomplementaemic (low C3) causes include post-streptococcal GN, membranoproliferative GN/dense deposit disease, lupus nephritis, cryoglobulinaemia and endocarditis-associated GN. A normal C3 in a nephritic patient therefore points away from PSGN toward IgA nephropathy.
+Q_GEN_PATH_SYS_RENAL_026 [M] In diabetic nephropathy, what is the earliest detectable histological (structural) glomerular change, appearing before the pathognomonic Kimmelstiel-Wilson nodules?
+   *A. Diffuse thickening of the glomerular basement membrane with mesangial matrix expansion
+    B. Cellular crescent formation in Bowman's space
+    C. Subepithelial 'humps' along the capillary wall
+    D. Wire-loop lesions of the capillary loops
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed., Ch. 20 (The Kidney)
+   concept: The earliest structural glomerular lesion of diabetic nephropathy is diffuse thickening of the glomerular basement membrane, detectable within a couple of years of disease onset, accompanied by progressive mesangial matrix expansion. Only later do the pathognomonic nodular Kimmelstiel-Wilson lesions and hyaline arteriolosclerosis appear. Clinically the earliest marker is microalbuminuria, but histologically the earliest change is GBM thickening.
+Q_c1_021 [M] An 8-year-old develops smoky, cola-colored urine, periorbital puffiness and hypertension 2 weeks after a sore throat; serum C3 is low. Electron microscopy of the glomerulus would most likely show?
+   *A. Subepithelial 'humps'
+    B. Subendothelial 'wire-loop' deposits
+    C. Linear IgG along the basement membrane
+    D. Foot-process effacement with no deposits
+   key=A ref=Robbins & Cotran 10e, Ch.20 (Glomerular Diseases)
+   concept: Post-streptococcal (post-infectious) glomerulonephritis is a nephritic syndrome appearing 1-3 weeks after group A strep infection, with low C3, RBC casts, and subepithelial electron-dense 'humps' on EM. Wire-loops suggest lupus nephritis; linear IgG suggests anti-GBM disease.
+
+=== Pathology / Hypersensitivity, autoimmunity, amyloidosis
+Q_c1_009 [E] IMAGE-DESCRIBED: A renal biopsy stained with Congo red and viewed under polarized light shows apple-green birefringence in glomeruli and vessel walls. The deposited protein is arranged in which configuration?
+    A. Alpha-helix
+   *B. Beta-pleated sheet
+    C. Triple helix
+    D. Random coil
+   key=B ref=Robbins & Cotran 10e, Ch.6 (Amyloidosis)
+   concept: Amyloid is defined by a beta-pleated sheet conformation, which produces the characteristic apple-green birefringence with Congo red under polarized light regardless of the precursor protein (AL, AA, etc.).
+
+=== Pathology / Leukemias (acute/chronic) & basic classification
+Q_c1_014 [H] IMAGE-DESCRIBED: A 35-year-old with pancytopenia and mucosal bleeding has a marrow smear showing abnormal promyelocytes packed with pink, needle-like Auer rods, some in bundles ('faggot cells'). The genetic lesion and specific therapy are?
+    A. t(9;22); imatinib
+   *B. t(15;17); all-trans retinoic acid (ATRA)
+    C. t(8;14); rituximab
+    D. t(14;18); CHOP chemotherapy
+   key=B ref=Robbins & Cotran 10e, Ch.13 (Acute Myeloid Leukemia)
+   concept: Acute promyelocytic leukemia (AML-M3) carries t(15;17) forming the PML-RARA fusion. It causes DIC (bleeding), and the blocked promyelocytes are driven to differentiate by ATRA (all-trans retinoic acid), often with arsenic trioxide.
+
+=== Pathology / Lymphomas (Hodgkin vs NHL), Reed-Sternberg
+Q_GEN_PATH_HEM_LYMPHOMA_001 [M] A 24-year-old woman presents with an anterior mediastinal mass and lower cervical lymphadenopathy. Lymph node biopsy shows broad bands of birefringent collagen dividing the lymphoid tissue into cellular nodules, with scattered large cells that have retracted cytoplasm sitting within clear spaces (lacunar cells). Which subtype of classical Hodgkin lymphoma is most likely?
+    A. Mixed cellularity Hodgkin lymphoma
+    B. Lymphocyte-depleted Hodgkin lymphoma
+   *C. Nodular sclerosis Hodgkin lymphoma
+    D. Nodular lymphocyte-predominant Hodgkin lymphoma
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Hodgkin Lymphoma)
+   concept: Nodular sclerosis is the most common classical Hodgkin lymphoma subtype (~65-70%), typically in young women with mediastinal or lower cervical disease. Hallmarks are broad bands of birefringent collagen dividing tissue into nodules plus lacunar cells (RS variants with retracted cytoplasm in clear spaces). Mixed cellularity has many classic RS cells in a mixed inflammatory background and is EBV-linked; lymphocyte-depleted is rare and aggressive in the elderly/HIV; NLPHL shows popcorn (L&H) cells and is CD20+.
+Q_GEN_PATH_HEM_LYMPHOMA_002 [M] Which subtype of classical Hodgkin lymphoma is most strongly associated with Epstein-Barr virus, is more common in older adults, HIV-positive patients and developing countries, and shows numerous classic Reed-Sternberg cells in a mixed inflammatory background of eosinophils, plasma cells and histiocytes?
+    A. Nodular sclerosis
+    B. Nodular lymphocyte-predominant
+    C. Lymphocyte-rich
+   *D. Mixed cellularity
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Hodgkin Lymphoma)
+   concept: Mixed cellularity classical Hodgkin lymphoma is the subtype most strongly linked to EBV (RS cells are EBV LMP-1 positive), commoner in older adults, HIV patients and developing countries, with abundant classic RS cells in a heterogeneous inflammatory background (eosinophils, plasma cells, histiocytes). Nodular sclerosis is usually EBV-negative and affects young women; lymphocyte-rich carries the best prognosis; nodular lymphocyte-predominant is a non-classical, indolent entity with popcorn cells.
+Q_GEN_PATH_HEM_LYMPHOMA_003 [H] A 35-year-old man has an isolated enlarged cervical lymph node. Histology shows a nodular proliferation of small B lymphocytes containing scattered large cells with multilobated "popcorn" nuclei (L&H cells). Immunostaining shows the large cells are CD20+, CD45+, CD15− and CD30−. Which is the correct diagnosis?
+    A. Nodular sclerosis classical Hodgkin lymphoma
+   *B. Nodular lymphocyte-predominant Hodgkin lymphoma
+    C. Mixed cellularity classical Hodgkin lymphoma
+    D. T-cell/histiocyte-rich large B-cell lymphoma
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Hodgkin Lymphoma)
+   concept: Nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL) is a non-classical HL. Its neoplastic cells are L&H "popcorn" cells with multilobated nuclei that are CD20+, CD45+ and BCL6+ but CD15− and CD30− — the mirror image of classical RS cells (CD15+/CD30+/CD20−/CD45−). NLPHL is indolent, presents as localized cervical/axillary disease in men, and may transform to diffuse large B-cell lymphoma; T-cell/histiocyte-rich LBCL is an important differential.
+Q_GEN_PATH_HEM_LYMPHOMA_004 [M] The diagnostic Reed-Sternberg cells of classical Hodgkin lymphoma characteristically show which immunophenotype on immunohistochemistry?
+   *A. CD15+, CD30+, CD45−
+    B. CD15−, CD30−, CD45+
+    C. CD20+, CD45+, CD30−
+    D. CD3+, CD30+, CD15+
+   key=A ref=Harsh Mohan, Textbook of Pathology, 8th ed. — Diseases of Lymph Nodes and Spleen (Hodgkin's Lymphoma)
+   concept: Reed-Sternberg cells are germinal-center B-cell derived but lose most B-cell markers. They are CD15+ and CD30+ and negative for CD45 (LCA), and usually CD20-negative. This CD15+/CD30+/CD45− profile distinguishes them from reactive immunoblasts (CD45+) and from the popcorn cells of NLPHL (which are CD20+, CD45+, CD15−, CD30−). CD3 is a T-cell marker not expressed by RS cells, excluding option D.
+Q_GEN_PATH_HEM_LYMPHOMA_005 [E] In Ann Arbor staging of Hodgkin lymphoma, the suffix "B" denotes the presence of which constitutional symptoms?
+    A. Pruritus, fatigue and alcohol-induced nodal pain
+   *B. Fever, drenching night sweats and weight loss exceeding 10% of body weight over 6 months
+    C. Cough, chest pain and superior vena cava obstruction
+    D. Anemia, thrombocytopenia and splenomegaly
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Hodgkin Lymphoma, Clinical Staging)
+   concept: In Ann Arbor staging the suffix B denotes constitutional B-symptoms: unexplained fever above 38°C, drenching night sweats, and weight loss exceeding 10% of body weight over the preceding 6 months. Their presence (B versus A = absent) indicates greater tumor burden and a worse prognosis and guides therapy intensity. Pruritus and alcohol-induced nodal pain are recognized associations of Hodgkin lymphoma but are not formal B-symptoms; SVC obstruction and cytopenias are complications, not staging criteria.
+Q_GEN_PATH_HEM_LYMPHOMA_006 [E] Assertion (A): Classical Hodgkin lymphoma spreads in a predictable, contiguous manner to anatomically adjacent lymph node groups. Reason (R): Non-Hodgkin lymphomas more often show noncontiguous, widespread nodal and extranodal involvement at the time of diagnosis. Choose the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+   *B. Both A and R are true but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Hodgkin vs Non-Hodgkin Lymphoma)
+   concept: Classical Hodgkin lymphoma arises in one node/region and spreads in an orderly, contiguous fashion to adjacent nodal groups, which underlies its curability with involved-field radiotherapy; the assertion is true. Non-Hodgkin lymphomas indeed present more often with noncontiguous, disseminated nodal and extranodal disease, so the reason is also true. However, the behavior of NHL does not itself explain the mechanism of contiguous Hodgkin spread, so R is not the correct explanation of A, giving option B.
+Q_GEN_PATH_HEM_LYMPHOMA_007 [E] The age-incidence curve of Hodgkin lymphoma in economically developed countries is classically described as which of the following?
+    A. A unimodal peak in early childhood
+    B. Incidence rising steadily with advancing age only
+   *C. Bimodal, with peaks in young adults and again after age 55
+    D. A flat distribution across all age groups
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Hodgkin Lymphoma, Epidemiology)
+   concept: In developed countries Hodgkin lymphoma classically shows a bimodal age-incidence curve: one peak in young adults (roughly 15-35 years, often nodular sclerosis) and a second peak after age 55 (often mixed cellularity or lymphocyte-depleted, more EBV-associated). This bimodality is a classic epidemiologic teaching point that distinguishes it from most non-Hodgkin lymphomas, whose incidence generally rises with age.
+Q_GEN_PATH_HEM_LYMPHOMA_008 [M] Assertion (A): The overwhelming majority of non-Hodgkin lymphomas are of B-cell origin. Reason (R): Most non-Hodgkin lymphomas express pan-B-cell markers such as CD20 and CD19 together with surface immunoglobulin light-chain restriction. Choose the correct option.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Non-Hodgkin Lymphomas)
+   concept: About 85-90% of non-Hodgkin lymphomas are B-cell neoplasms, so the assertion is true. B-cell derivation is demonstrated precisely by expression of pan-B markers (CD20, CD19, CD79a) and monoclonal surface immunoglobulin with light-chain (kappa or lambda) restriction, so the reason is true and is exactly how B-cell lineage is proven. Because the immunophenotype is the evidence for B-cell origin, R correctly explains A, giving option A. T-cell and NK-cell lymphomas make up the minority.
+Q_GEN_PATH_HEM_LYMPHOMA_009 [M] A 58-year-old man has painless generalized lymphadenopathy that has waxed and waned over a year. Node biopsy shows a nodular (follicular) proliferation of small cleaved centrocytes admixed with larger centroblasts; the tumor cells are CD10+, BCL6+, CD20+ and, unlike a reactive germinal center, BCL2 positive. Which translocation underlies this lymphoma?
+    A. t(8;14)
+    B. t(11;14)
+    C. t(11;18)
+   *D. t(14;18)
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Follicular Lymphoma)
+   concept: Follicular lymphoma, one of the commonest indolent NHLs in adults, is a germinal-center B-cell tumor (CD10+, BCL6+, CD20+) driven by t(14;18)(q32;q21), which juxtaposes the BCL2 gene to the IgH locus and causes overexpression of anti-apoptotic BCL2. This BCL2 positivity distinguishes it from reactive follicular hyperplasia (BCL2-negative germinal centers). t(8;14) is Burkitt (c-MYC), t(11;14) is mantle cell (cyclin D1), and t(11;18) is MALT lymphoma.
+Q_GEN_PATH_HEM_LYMPHOMA_010 [H] A 65-year-old man presents with lymphadenopathy, splenomegaly and multiple gastrointestinal mucosal nodules (lymphomatous polyposis). Node biopsy shows a monotonous proliferation of small-to-medium lymphocytes with irregular nuclei; the tumor cells are CD5+, CD20+, cyclin D1 positive and CD23 negative. Which translocation is characteristic of this lymphoma?
+   *A. t(11;14)
+    B. t(14;18)
+    C. t(8;14)
+    D. t(11;18)
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Mantle Cell Lymphoma)
+   concept: Mantle cell lymphoma is an aggressive B-cell NHL of older men that often involves the gut as lymphomatous polyposis and the bone marrow. It carries t(11;14)(q13;q32), fusing CCND1 (cyclin D1) to the IgH locus and causing cyclin D1 overexpression, the diagnostic hallmark. The immunophenotype is CD5+, CD20+, cyclin D1+, CD23−; the CD23-negativity separates it from CLL/SLL, which is CD5+ but CD23+. t(14;18) is follicular, t(8;14) Burkitt, t(11;18) MALT.
+Q_GEN_PATH_HEM_LYMPHOMA_011 [M] A 55-year-old man with chronic dyspepsia has a gastric biopsy showing a dense lymphoid infiltrate forming lymphoepithelial lesions on a background of chronic active gastritis. Eradicating which organism can induce regression of this low-grade B-cell lymphoma in early-stage disease?
+   *A. Helicobacter pylori
+    B. Epstein-Barr virus
+    C. Human T-lymphotropic virus type 1
+    D. Hepatitis C virus
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Marginal Zone / MALT Lymphoma)
+   concept: This is extranodal marginal-zone (MALT) lymphoma of the stomach, driven by chronic antigenic stimulation from Helicobacter pylori gastritis; histology shows neoplastic marginal-zone B cells and lymphoepithelial lesions. Early-stage disease frequently regresses after antibiotic eradication of H. pylori. EBV drives Burkitt and some Hodgkin lymphomas, HTLV-1 causes adult T-cell leukemia/lymphoma, and hepatitis C virus is linked to splenic marginal-zone lymphoma rather than gastric MALT.
+Q_GEN_PATH_HEM_LYMPHOMA_012 [E] A 70-year-old man is found to have lymphocytosis (WBC 40,000/µL) composed of small mature-looking lymphocytes together with numerous fragile ruptured "smudge cells" on the peripheral smear. Flow cytometry shows CD5+, CD23+, CD20-dim B cells with light-chain restriction. What is the diagnosis?
+    A. Mantle cell lymphoma
+   *B. Chronic lymphocytic leukemia / small lymphocytic lymphoma
+    C. Follicular lymphoma
+    D. Hairy cell leukemia
+   key=B ref=Harsh Mohan, Textbook of Pathology, 8th ed. — Diseases of White Blood Cells (Chronic Lymphocytic Leukemia)
+   concept: Chronic lymphocytic leukemia / small lymphocytic lymphoma (CLL/SLL) is a neoplasm of mature small B lymphocytes; SLL is the tissue phase and CLL the leukemic phase of the same disease. The smear shows small mature lymphocytes with characteristic fragile smudge (basket) cells, and the immunophenotype is CD5+, CD23+, CD20-dim with light-chain restriction. Mantle cell is CD5+ but CD23−; follicular is CD10+/CD5−; hairy cell leukemia shows cytoplasmic hairy projections and is TRAP positive.
+Q_GEN_PATH_HEM_LYMPHOMA_013 [H] Marginal-zone B-cell lymphomas (including extranodal MALT, nodal and splenic types) most characteristically show which immunophenotype, useful in separating them from other small B-cell lymphomas?
+    A. CD5+, CD10+
+    B. CD5+, CD23+, CD20-dim
+   *C. CD5−, CD10−, CD20+
+    D. CD3+, CD5+
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Marginal Zone Lymphoma)
+   concept: Marginal-zone B-cell lymphomas are typically CD20+, CD5− and CD10−. The absence of CD5 separates them from CLL/SLL and mantle cell lymphoma (both CD5+), and the absence of CD10 separates them from follicular lymphoma and Burkitt lymphoma (both CD10+). They frequently arise in settings of chronic inflammation or autoimmunity (H. pylori gastritis, Sjögren syndrome, Hashimoto thyroiditis). CD3 positivity would indicate a T-cell process, excluding option D.
+Q_GEN_PATH_HEM_LYMPHOMA_014 [H] A 16-year-old boy presents with a rapidly enlarging anterior mediastinal mass causing facial swelling and dyspnea. Biopsy shows sheets of immature lymphoid cells with fine chromatin and a high mitotic rate; the cells are TdT+, CD3+ and CD7+. What is the most likely diagnosis?
+    A. Nodular sclerosis Hodgkin lymphoma
+   *B. Precursor T-lymphoblastic lymphoma/leukemia
+    C. Diffuse large B-cell lymphoma
+    D. Burkitt lymphoma
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Precursor T-Cell Lymphoblastic Lymphoma/Leukemia)
+   concept: Precursor T-lymphoblastic lymphoma/leukemia classically presents in adolescent or young adult males as a rapidly growing anterior mediastinal (thymic) mass causing airway or SVC compression, and it often evolves into acute lymphoblastic leukemia. The blasts are TdT+ (a marker of immaturity) and express T-cell markers such as CD3, CD7 and CD2. TdT positivity with the typical clinical setting distinguishes it from mature B-cell tumors (DLBCL, Burkitt) and from Hodgkin lymphoma, which lacks TdT.
+Q_GEN_PATH_HEM_LYMPHOMA_015 [M] A 60-year-old man has a several-year history of scaly erythematous patches and plaques. Skin biopsy shows atypical CD4+ T lymphocytes with cerebriform nuclei infiltrating the epidermis and forming small intraepidermal clusters (Pautrier microabscesses). When these malignant cells circulate in the blood with generalized erythroderma, the leukemic phase is called what?
+    A. Richter syndrome
+    B. Waldenström macroglobulinemia
+    C. Adult T-cell leukemia/lymphoma
+   *D. Sézary syndrome
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Mycosis Fungoides / Sézary Syndrome)
+   concept: Mycosis fungoides is the commonest cutaneous T-cell lymphoma, a neoplasm of mature CD4+ helper T cells that infiltrate the epidermis and form Pautrier microabscesses; the atypical cells have cerebriform (Sézary) nuclei. When there is diffuse erythroderma with circulating cerebriform cells in the peripheral blood, the leukemic variant is termed Sézary syndrome. Richter syndrome is transformation of CLL to DLBCL, and Waldenström is an IgM lymphoplasmacytic neoplasm, not a cutaneous T-cell process.
+Q_GEN_PATH_HEM_LYMPHOMA_016 [H] A patient from southwestern Japan presents with skin lesions, generalized lymphadenopathy, hepatosplenomegaly, lytic bone lesions with hypercalcemia, and circulating multilobated CD4+ T cells described as "flower cells". Infection with which virus is the underlying cause?
+    A. Epstein-Barr virus
+   *B. Human T-lymphotropic virus type 1 (HTLV-1)
+    C. Human immunodeficiency virus
+    D. Human herpesvirus 8
+   key=B ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Adult T-Cell Leukemia/Lymphoma)
+   concept: Adult T-cell leukemia/lymphoma is caused by the retrovirus HTLV-1, endemic in southwestern Japan, the Caribbean basin and parts of Africa. It is an aggressive mature CD4+ T-cell neoplasm presenting with skin lesions, lymphadenopathy, hepatosplenomegaly, lytic bone lesions with hypercalcemia (osteoclast-activating factors) and characteristic multilobated "flower cells" in blood. EBV drives Burkitt and Hodgkin lymphoma, HIV predisposes to several NHLs indirectly, and HHV-8 causes Kaposi sarcoma and primary effusion lymphoma.
+Q_GEN_PATH_HEM_LYMPHOMA_017 [H] Which chromosomal translocation is characteristically associated with extranodal marginal-zone (MALT) lymphoma and predicts a poor response to Helicobacter pylori eradication therapy?
+    A. t(8;14)
+    B. t(14;18)
+   *C. t(11;18)
+    D. t(11;14)
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Marginal Zone / MALT Lymphoma)
+   concept: t(11;18)(q21;q21), which creates the API2-MALT1 (BIRC3-MALT1) fusion gene, is the commonest translocation in extranodal marginal-zone (MALT) lymphoma and identifies tumors that will not regress with Helicobacter pylori eradication, so these patients need chemotherapy or radiotherapy. For contrast: t(8;14) is Burkitt (c-MYC), t(14;18) is follicular lymphoma (BCL2), and t(11;14) is mantle cell lymphoma (cyclin D1).
+Q_GEN_PATH_HEM_LYMPHOMA_018 [M] The "starry-sky" histological appearance characteristic of Burkitt lymphoma is produced by which of the following?
+   *A. Numerous pale tingible-body macrophages engulfing apoptotic debris scattered among sheets of tumor cells
+    B. Broad bands of birefringent collagen fibrosis
+    C. Lacunar cells lying within clear retraction spaces
+    D. Binucleate Reed-Sternberg cells in a mixed inflammatory background
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Burkitt Lymphoma)
+   concept: The starry-sky pattern of Burkitt lymphoma is created by numerous benign, pale tingible-body macrophages (the "stars") that have ingested apoptotic tumor-cell debris, set against a dark "sky" of sheets of monomorphic intermediate-sized B cells with an extremely high proliferation index (Ki-67 approaching 100%). Endemic African Burkitt lymphoma is EBV-associated and involves the jaw. Collagen bands, lacunar cells and Reed-Sternberg cells are features of Hodgkin lymphoma, not Burkitt.
+Q_GEN_PATH_HEM_LYMPHOMA_019 [M] A 68-year-old man presents with bone pain, punched-out lytic skull lesions, anemia, hypercalcemia and renal insufficiency. Serum protein electrophoresis shows a monoclonal IgG spike, and the marrow contains sheets of atypical plasma cells. Which plasma-cell neoplasm best explains this picture?
+   *A. Multiple myeloma
+    B. Waldenström macroglobulinemia
+    C. Chronic lymphocytic leukemia
+    D. Follicular lymphoma
+   key=A ref=Harsh Mohan, Textbook of Pathology, 8th ed. — Diseases of White Blood Cells (Plasma Cell Disorders / Multiple Myeloma)
+   concept: Multiple myeloma is a malignant plasma-cell neoplasm producing a monoclonal immunoglobulin (most often IgG). It causes the CRAB features: hyperCalcemia, Renal insufficiency, Anemia and lytic Bone lesions (punched-out skull defects), with marrow plasmacytosis, Bence-Jones (light-chain) proteinuria and rouleaux on the smear. Waldenström macroglobulinemia is an IgM-secreting lymphoplasmacytic neoplasm with hyperviscosity but characteristically no lytic bone lesions; CLL and follicular lymphoma are not plasma-cell tumors.
+Q_GEN_PATH_HEM_LYMPHOMA_020 [E] Assertion (A): Terminal deoxynucleotidyl transferase (TdT) is characteristically expressed by mature plasma cells. Reason (R): TdT is a specialized DNA polymerase expressed by immature precursor lymphoblasts (pre-B and pre-T cells). Choose the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is not the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Precursor B/T Lymphoblastic Neoplasms)
+   concept: TdT (terminal deoxynucleotidyl transferase) is a specialized template-independent DNA polymerase expressed almost exclusively by immature precursor lymphoblasts (pre-B and pre-T cells); it is the key marker used to identify lymphoblastic leukemia/lymphoma. Mature plasma cells and mature circulating lymphocytes are TdT-negative. Therefore the assertion (TdT marks plasma cells) is false while the reason (TdT marks precursor lymphoblasts) is true, giving option D.
+Q_GEN_PATH_HEM_LYMPHOMA_021 [H] Which finding most reliably distinguishes follicular lymphoma from reactive (benign) follicular hyperplasia on a lymph node biopsy?
+    A. Preservation of nodal architecture with well-defined mantle zones
+    B. Prominent tingible-body macrophages within the germinal centers
+   *C. BCL2 expression by follicle-center cells together with immunoglobulin light-chain restriction (monoclonality)
+    D. Marked variation in follicle size and shape
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Follicular Lymphoma vs Reactive Hyperplasia)
+   concept: Follicular lymphoma is distinguished from reactive follicular hyperplasia by BCL2 protein expression within follicle-center cells (consequence of t(14;18)) together with monoclonality shown by immunoglobulin light-chain restriction. Reactive germinal centers are BCL2-negative and polyclonal, retain polarity and well-defined mantle zones, contain abundant tingible-body macrophages, and show variation in follicle size and shape — all features of a benign, antigen-driven response. Thus options A, B and D favor a reactive process, not lymphoma.
+Q_GEN_PATH_HEM_LYMPHOMA_022 [M] The International Prognostic Index (IPI) used to predict outcome in aggressive non-Hodgkin lymphoma incorporates all of the following adverse factors EXCEPT:
+    A. Patient age over 60 years and poor performance status
+    B. Elevated serum lactate dehydrogenase (LDH)
+    C. Advanced Ann Arbor stage and more than one extranodal site
+   *D. ABO blood group
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Non-Hodgkin Lymphoma, Prognosis / IPI)
+   concept: The International Prognostic Index (IPI) for aggressive NHL uses five adverse factors, each scoring one point: Age over 60 years, elevated serum LDH, ECOG performance status of 2 or worse, Ann Arbor stage III/IV, and more than one extranodal site of disease. Higher total scores predict worse overall and progression-free survival and help guide therapy. ABO blood group has no prognostic value in lymphoma and is not part of the IPI, making it the exception.
+Q_GEN_PATH_HEM_LYMPHOMA_023 [H] Which subtype of classical Hodgkin lymphoma has the worst prognosis, occurs preferentially in older or HIV-positive patients, is often EBV-associated, shows abundant pleomorphic Reed-Sternberg cells with a striking paucity of background lymphocytes, and typically presents with advanced disseminated disease?
+    A. Lymphocyte-rich classical Hodgkin lymphoma
+    B. Nodular sclerosis
+   *C. Lymphocyte-depleted
+    D. Mixed cellularity
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease, 10th ed. — Diseases of White Blood Cells, Lymph Nodes, and Spleen (Hodgkin Lymphoma Subtypes)
+   concept: Lymphocyte-depleted classical Hodgkin lymphoma is the rarest and most aggressive classical subtype, seen preferentially in older and HIV-positive patients and frequently EBV-associated. Histology shows abundant Reed-Sternberg and pleomorphic cells with a marked paucity of background reactive lymphocytes, and patients usually present with advanced, disseminated disease and a poor prognosis. In contrast, lymphocyte-rich classical Hodgkin lymphoma carries the best prognosis of the classical subtypes.
+Q_c1_016 [E] Which feature favors HODGKIN lymphoma over non-Hodgkin lymphoma?
+    A. Extranodal presentation with non-contiguous, unpredictable spread
+   *B. Orderly contiguous nodal spread with Reed-Sternberg cells
+    C. Frequent leukemic phase in peripheral blood
+    D. Typical involvement of Waldeyer ring and mesenteric nodes
+   key=B ref=Robbins & Cotran 10e, Ch.13 (Lymphomas)
+   concept: Hodgkin lymphoma arises in a single axial nodal group and spreads contiguously to adjacent nodes, contains Reed-Sternberg cells, and rarely has a leukemic phase. NHL is often multifocal, non-contiguous, and more commonly extranodal.
+
+=== Pathology / Neoplasia: grading vs staging, tumor markers
+Q_c1_006 [E] In oncology, which statement best defines the STAGING of a malignant tumor?
+    A. Degree of differentiation of tumor cells
+   *B. Extent of tumor spread — size, nodal involvement, and metastasis
+    C. The mitotic rate per high-power field
+    D. The degree of nuclear pleomorphism
+   key=B ref=Robbins & Cotran 10e, Ch.7 (Neoplasia)
+   concept: Staging describes anatomic extent of spread (TNM: Tumor size, Node status, Metastasis) and is the single most important prognostic factor. Grading describes differentiation (how closely tumor resembles normal tissue), reflecting aggressiveness.
+Q_c1_007 [H] A 28-year-old man has a testicular mass; serum AFP is elevated. An elevated AFP essentially EXCLUDES which of the following as a PURE germ cell tumor?
+    A. Yolk sac tumor
+    B. Embryonal carcinoma
+   *C. Pure seminoma
+    D. Mixed germ cell tumor
+   key=C ref=Robbins & Cotran 10e, Ch.21 (Male Genital Tract)
+   concept: Pure seminoma does NOT produce AFP; a raised AFP indicates a non-seminomatous element (classically yolk-sac tumor). Beta-hCG may be mildly elevated in some seminomas (syncytiotrophoblasts), but AFP elevation reclassifies the tumor as non-seminomatous, which changes management.
+
+[159 shown of 159 unverified in scope]

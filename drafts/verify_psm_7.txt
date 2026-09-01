@@ -1,0 +1,13 @@
+Q_PSM_ZOO_006 | del | duplicate of Q_PSM_ZOO_012, which gives the same flood and rodent urine exposure and additionally the occupational context. The fuller item is retained
+Q_PSM_WWB_008 | ok |
+Q_PSM_ZOO_001 | ok |
+Q_PSM_ZOO_002 | ok |
+Q_PSM_ZOO_003 | ok |
+Q_PSM_ZOO_004 | ok |
+Q_PSM_ZOO_005 | ok |
+Q_PSM_ZOO_007 | ok |
+Q_PSM_ZOO_008 | ok |
+Q_PSM_ZOO_009 | ok |
+Q_PSM_ZOO_010 | ok |
+Q_PSM_ZOO_011 | ok |
+Q_PSM_ZOO_012 | ok |

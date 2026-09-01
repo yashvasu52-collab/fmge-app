@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "id": "Q_BC_GEN_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "E",
+   "stem": "The lac operon is an example of:",
+   "options": [
+    "An inducible operon, switched on by the presence of substrate",
+    "A repressible operon",
+    "Constitutive expression",
+    "Eukaryotic regulation"
+   ],
+   "correct": 0,
+   "concept": "Lactose induces by inactivating the repressor, whereas the trp operon is repressible, being switched off when tryptophan is abundant. Both illustrate feedback economy in prokaryotes.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "M",
+   "stem": "Real-time quantitative PCR differs from conventional PCR in that it:",
+   "options": [
+    "Measures product accumulation during amplification, allowing quantification",
+    "Cannot amplify DNA",
+    "Uses no primers",
+    "Requires gel electrophoresis"
+   ],
+   "correct": 0,
+   "concept": "Quantitative PCR is used for HIV and hepatitis viral load monitoring and for measuring minimal residual disease in leukaemia, where absolute quantity guides therapy.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "M",
+   "stem": "Restriction fragment length polymorphism analysis exploits:",
+   "options": [
+    "Sequence variations that create or abolish restriction enzyme sites",
+    "Protein differences",
+    "RNA splicing",
+    "Chromosome number"
+   ],
+   "correct": 0,
+   "concept": "RFLP was historically used for sickle cell diagnosis, as the sickle mutation abolishes an MstII site. It has largely been replaced by direct sequencing and allele-specific PCR.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "E",
+   "stem": "Recombinant human insulin is produced by:",
+   "options": [
+    "Inserting the human insulin gene into bacteria or yeast using a plasmid vector",
+    "Extraction from human pancreas",
+    "Chemical synthesis only",
+    "Animal purification"
+   ],
+   "correct": 0,
+   "concept": "Recombinant production eliminated the immunogenicity and supply limits of bovine and porcine insulin and enabled engineered analogues such as lispro and glargine with tailored kinetics.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "M",
+   "stem": "Epigenetic regulation of gene expression includes:",
+   "options": [
+    "DNA methylation and histone modification without change in nucleotide sequence",
+    "Point mutations",
+    "Deletions",
+    "Translocations"
+   ],
+   "correct": 0,
+   "concept": "Promoter hypermethylation silences tumour suppressor genes in cancer, and imprinting disorders such as Prader-Willi and Angelman illustrate epigenetic control. These changes are potentially reversible.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "M",
+   "stem": "CRISPR-Cas9 is used in genetic engineering to:",
+   "options": [
+    "Introduce targeted double-strand breaks allowing precise gene editing",
+    "Amplify DNA",
+    "Separate proteins",
+    "Sequence RNA"
+   ],
+   "correct": 0,
+   "concept": "A guide RNA directs Cas9 to a specific sequence. Off-target effects and germline editing ethics remain major concerns, though somatic therapy for sickle cell disease and thalassaemia has entered clinical use.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "E",
+   "stem": "Enzyme-linked immunosorbent assay detects:",
+   "options": [
+    "Antigen or antibody using an enzyme-conjugated detection system",
+    "DNA",
+    "RNA",
+    "Chromosomes"
+   ],
+   "correct": 0,
+   "concept": "ELISA is highly sensitive and suited to large-scale screening as in HIV and hepatitis testing, which is why it is used as the screening test with a more specific assay for confirmation.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "H",
+   "stem": "In situ hybridisation differs from blotting in that it:",
+   "options": [
+    "Localises nucleic acid sequences within intact cells or tissue sections",
+    "Requires extraction",
+    "Detects protein",
+    "Amplifies DNA"
+   ],
+   "correct": 0,
+   "concept": "FISH detects HER2 amplification in breast cancer and BCR-ABL1 in leukaemia while preserving tissue architecture, allowing correlation of genetic change with morphology.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "H",
+   "stem": "Gene therapy for adenosine deaminase deficiency was historically significant because it:",
+   "options": [
+    "Was the first approved human gene therapy trial",
+    "Used CRISPR",
+    "Cured cancer",
+    "Involved germline editing"
+   ],
+   "correct": 0,
+   "concept": "Somatic gene therapy alters only the treated individual, whereas germline modification would be heritable and is prohibited in most jurisdictions - a fundamental ethical distinction.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_GEN_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Gene regulation & molecular techniques (PCR, blotting)",
+   "difficulty": "M",
+   "stem": "Northern blotting is used to study:",
+   "options": [
+    "RNA, and therefore gene expression levels",
+    "DNA",
+    "Protein",
+    "Carbohydrate"
+   ],
+   "correct": 0,
+   "concept": "Because it measures transcript abundance it reveals which genes are being expressed in a tissue, complementing Southern blotting which shows only whether the gene is present.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Molecular Biology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "E",
+   "stem": "Relative risk is calculated in which study design?",
+   "options": [
+    "Cohort study, as incidence can be measured directly",
+    "Case-control study",
+    "Cross-sectional study",
+    "Ecological study"
+   ],
+   "correct": 0,
+   "concept": "Case-control studies yield the odds ratio, which approximates relative risk when the disease is rare. Only cohort and experimental designs measure incidence and therefore true risk.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "M",
+   "stem": "Attributable risk represents:",
+   "options": [
+    "The incidence in the exposed minus incidence in the unexposed, indicating public health impact",
+    "The ratio of incidences",
+    "The odds ratio",
+    "Prevalence"
+   ],
+   "correct": 0,
+   "concept": "Relative risk indicates strength of association and aetiological significance, while attributable risk indicates how much disease could be prevented by removing the exposure - the public health measure.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "M",
+   "stem": "Confounding is best controlled at the analysis stage by:",
+   "options": [
+    "Stratification and multivariable regression",
+    "Increasing sample size",
+    "Blinding",
+    "Using a bigger population"
+   ],
+   "correct": 0,
+   "concept": "At the design stage randomisation, restriction and matching are used. Increasing sample size reduces random error but does nothing about confounding, which is a systematic error.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "E",
+   "stem": "Recall bias is a particular problem in:",
+   "options": [
+    "Case-control studies, as cases remember exposures differently from controls",
+    "Cohort studies",
+    "Randomised trials",
+    "Cross-sectional surveys"
+   ],
+   "correct": 0,
+   "concept": "Cases search their memory harder for explanations of their illness. Cohort studies avoid it by recording exposure before disease occurs, but are vulnerable to loss to follow-up.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "M",
+   "stem": "The Bradford Hill criterion carrying the greatest weight for causation is:",
+   "options": [
+    "Temporality - the exposure must precede the outcome",
+    "Strength of association",
+    "Plausibility",
+    "Analogy"
+   ],
+   "correct": 0,
+   "concept": "Temporality is the only absolutely necessary criterion; all others strengthen the argument but none alone proves causation. Strength, consistency, dose-response and reversibility are the next most persuasive.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "M",
+   "stem": "Number needed to treat is calculated as:",
+   "options": [
+    "The reciprocal of the absolute risk reduction",
+    "The reciprocal of relative risk",
+    "Relative risk times 100",
+    "The odds ratio"
+   ],
+   "correct": 0,
+   "concept": "A smaller NNT indicates greater benefit. It is more clinically meaningful than relative risk reduction, which can appear impressive even when the absolute benefit is trivial.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "E",
+   "stem": "Lead time bias in screening refers to:",
+   "options": [
+    "Apparent increased survival merely because diagnosis was made earlier, without delaying death",
+    "Selection of healthier subjects",
+    "Recall problems",
+    "Observer error"
+   ],
+   "correct": 0,
+   "concept": "Length bias is the preferential detection of slow-growing indolent disease. Both inflate apparent screening benefit, which is why mortality rather than survival is the valid endpoint in screening trials.",
+   "reference": "Park 27e, Screening",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "H",
+   "stem": "The healthy worker effect is an example of:",
+   "options": [
+    "Selection bias, where employed populations are healthier than the general population",
+    "Information bias",
+    "Confounding",
+    "Random error"
+   ],
+   "correct": 0,
+   "concept": "It biases occupational cohort studies towards the null, potentially masking a genuine hazard. Comparison with other working populations rather than the general population reduces it.",
+   "reference": "Park 27e, Epidemiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "H",
+   "stem": "A p value of 0.03 means:",
+   "options": [
+    "There is a 3 percent probability of observing this result or more extreme if the null hypothesis were true",
+    "The hypothesis is 97 percent correct",
+    "The result is clinically important",
+    "The study is valid"
+   ],
+   "correct": 0,
+   "concept": "A p value says nothing about effect size or clinical importance, which is why confidence intervals are preferred as they convey both precision and magnitude of effect.",
+   "reference": "Park 27e, Biostatistics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CAU_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Association & causation, bias, confounding, measures of risk",
+   "difficulty": "M",
+   "stem": "A type II (beta) error occurs when:",
+   "options": [
+    "A true difference exists but the study fails to detect it, usually from inadequate sample size",
+    "A false difference is found",
+    "The hypothesis is wrong",
+    "Randomisation fails"
+   ],
+   "correct": 0,
+   "concept": "Power equals 1 minus beta, conventionally set at 80 or 90%. Type I (alpha) error is falsely rejecting a true null hypothesis, conventionally limited to 5%.",
+   "reference": "Park 27e, Biostatistics",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  }
+ ]
+}

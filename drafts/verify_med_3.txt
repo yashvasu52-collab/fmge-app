@@ -1,0 +1,44 @@
+Q_MED_COMA_013 | del | duplicate of Q_MED_COMA_006 on the same point. The first item is retained
+Q_MED_COMA_014 | del | duplicate of Q_MED_COMA_004 on the same point. The first item is retained
+Q_MED_COMA_015 | del | duplicate of Q_MED_COMA_002 on the same point. The first item is retained
+Q_MED_COMA_016 | del | duplicate of Q_MED_COMA_008 on the same point. The first item is retained
+Q_MED_COMA_017 | del | duplicate of Q_MED_COMA_009 on the same point. The first item is retained
+Q_MED_COMA_018 | del | duplicate of Q_MED_COMA_010 on the same point. The first item is retained
+Q_MED_DEM_013 | del | duplicate of Q_MED_DEM_008 on high-flow oxygen with sumatriptan for cluster headache. The first item is retained
+Q_MED_DEM_014 | del | duplicate of Q_MED_DEM_004 on Brown-Sequard syndrome. The first item is retained
+Q_MED_DEM_016 | del | duplicate of Q_MED_DEM_009 on aquaporin-4 antibodies distinguishing neuromyelitis optica. The first item is retained
+Q_MED_DEM_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 444 (Multiple Sclerosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_DEM_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 444 (Multiple Sclerosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_DEM_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 444 (Multiple Sclerosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_DEM_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 444 (Multiple Sclerosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_DEM_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Diseases of the Spinal Cord | a spinal cord item was cited to the multiple sclerosis chapter
+Q_MED_DEM_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Diseases of the Spinal Cord | a spinal cord item was cited to the multiple sclerosis chapter
+Q_MED_DEM_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Migraine and Other Primary Headache Disorders | a headache item was cited to the multiple sclerosis chapter
+Q_MED_DEM_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Migraine and Other Primary Headache Disorders | a headache item was cited to the multiple sclerosis chapter
+Q_MED_DEM_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Migraine and Other Primary Headache Disorders | a headache item was cited to the multiple sclerosis chapter
+Q_MED_DEM_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Cerebrovascular Diseases | a subarachnoid haemorrhage item was cited to the multiple sclerosis chapter
+Q_MED_DME_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dengue and Dengue Haemorrhagic Fever | a dengue item was cited to the malaria and salmonellosis chapters
+Q_MED_DME_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Dengue and Dengue Haemorrhagic Fever | a dengue item was cited to the malaria and salmonellosis chapters
+Q_MED_DME_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 204 (Malaria) | the reference bundled two unrelated chapters; only the malaria chapter applies
+Q_MED_DME_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 204 (Malaria) | the reference bundled two unrelated chapters; only the malaria chapter applies
+Q_MED_DME_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 204 (Malaria) | the reference bundled two unrelated chapters; only the malaria chapter applies
+Q_MED_DME_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 204 (Malaria) | the reference bundled two unrelated chapters; only the malaria chapter applies
+Q_MED_DME_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 199 (Salmonellosis) | the reference bundled two unrelated chapters; only the salmonellosis chapter applies
+Q_MED_DME_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 199 (Salmonellosis) | the reference bundled two unrelated chapters; only the salmonellosis chapter applies
+Q_MED_COMA_019 | ok |
+Q_MED_DEM_004 | ok |
+Q_MED_DEM_011 | ok |
+Q_MED_DMD_001 | ok |
+Q_MED_DMD_002 | ok |
+Q_MED_DMD_003 | ok |
+Q_MED_DMD_004 | ok |
+Q_MED_DMD_005 | ok |
+Q_MED_DMD_006 | ok |
+Q_MED_DMD_007 | ok |
+Q_MED_DMD_008 | ok |
+Q_MED_DMD_009 | ok |
+Q_MED_GER_001 | ok |
+Q_MED_GER_002 | ok |
+Q_MED_GER_003 | ok |
+Q_MED_GER_004 | ok |
+Q_MED_GER_005 | ok |

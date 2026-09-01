@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_SUR_FLU_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "E",
+   "stem": "Prolonged vomiting from pyloric obstruction produces:",
+   "options": [
+    "Hypochloraemic hypokalaemic metabolic alkalosis with paradoxical aciduria",
+    "Metabolic acidosis",
+    "Respiratory alkalosis",
+    "Hyperchloraemic acidosis"
+   ],
+   "correct": 0,
+   "concept": "Loss of gastric acid depletes hydrogen and chloride; the kidney retains sodium and bicarbonate and excretes hydrogen and potassium, producing paradoxical aciduria. Correction is with normal saline and potassium.",
+   "reference": "Bailey & Love 28e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "M",
+   "stem": "Large-volume resuscitation with 0.9% sodium chloride can produce:",
+   "options": [
+    "Hyperchloraemic metabolic acidosis",
+    "Metabolic alkalosis",
+    "Hypernatraemia only",
+    "Respiratory acidosis"
+   ],
+   "correct": 0,
+   "concept": "Normal saline has a chloride concentration of 154 mmol/L, well above plasma, so large volumes cause a dilutional hyperchloraemic normal anion gap acidosis. Balanced crystalloids such as Ringer lactate avoid this.",
+   "reference": "Bailey & Love 28e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "M",
+   "stem": "The daily maintenance requirement of sodium in an adult is approximately:",
+   "options": [
+    "1 to 2 mmol per kg per day",
+    "10 mmol per kg",
+    "0.1 mmol per kg",
+    "5 mmol per kg"
+   ],
+   "correct": 0,
+   "concept": "Adults need about 1 to 2 mmol/kg/day of sodium, 1 mmol/kg/day of potassium and 25 to 30 mL/kg/day of water, adjusted for losses from drains, fistulae, fever and third-space sequestration.",
+   "reference": "Bailey & Love 28e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "E",
+   "stem": "The preferred route of nutritional support in a surgical patient with a functioning gut is:",
+   "options": [
+    "Enteral feeding",
+    "Total parenteral nutrition",
+    "Peripheral parenteral nutrition",
+    "Intravenous dextrose alone"
+   ],
+   "correct": 0,
+   "concept": "If the gut works, use it: enteral feeding maintains mucosal integrity, reduces bacterial translocation and septic complications, and is cheaper and safer than parenteral nutrition.",
+   "reference": "Bailey & Love 28e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "M",
+   "stem": "The most serious complication of central venous total parenteral nutrition is:",
+   "options": [
+    "Catheter-related bloodstream infection",
+    "Hyperglycaemia",
+    "Constipation",
+    "Hypertension"
+   ],
+   "correct": 0,
+   "concept": "Line sepsis is the most serious complication, requiring strict aseptic technique and a dedicated lumen. Metabolic complications include hyperglycaemia, electrolyte disturbance, hepatic steatosis and refeeding syndrome.",
+   "reference": "Bailey & Love 28e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "M",
+   "stem": "Third-space loss in a surgical patient refers to:",
+   "options": [
+    "Sequestration of extracellular fluid into the bowel lumen, peritoneum or interstitium where it is non-functional",
+    "Blood loss into a drain",
+    "Urinary losses",
+    "Insensible skin loss"
+   ],
+   "correct": 0,
+   "concept": "Fluid shifted into the interstitium, gut lumen or peritoneal cavity after surgery, peritonitis or obstruction is lost from the circulation despite remaining in the body, so it must be replaced with isotonic crystalloid.",
+   "reference": "Bailey & Love 28e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "E",
+   "stem": "The best simple bedside indicator of adequate resuscitation in a surgical patient is:",
+   "options": [
+    "Urine output of at least 0.5 mL/kg/hour",
+    "Blood pressure alone",
+    "Respiratory rate",
+    "Skin turgor"
+   ],
+   "correct": 0,
+   "concept": "Urine output reflects renal perfusion and is a practical continuous marker, supported by heart rate, capillary refill, mental state and lactate clearance. Blood pressure is maintained until late by compensation.",
+   "reference": "Bailey & Love 28e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "H",
+   "stem": "Refeeding syndrome in a malnourished surgical patient is characterised by:",
+   "options": [
+    "Hypophosphataemia with hypokalaemia and hypomagnesaemia after reintroduction of feeding",
+    "Hyperphosphataemia",
+    "Hypernatraemia",
+    "Metabolic acidosis alone"
+   ],
+   "correct": 0,
+   "concept": "Carbohydrate-driven insulin release shifts phosphate, potassium and magnesium intracellularly, risking arrhythmia and cardiac failure. Feeding is started at reduced calories with thiamine and electrolyte monitoring.",
+   "reference": "Bailey & Love 28e, Nutrition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "H",
+   "stem": "Severe hyperkalaemia with ECG changes is treated first with:",
+   "options": [
+    "Intravenous calcium gluconate to stabilise the myocardium",
+    "Insulin with dextrose",
+    "Oral resonium",
+    "Haemodialysis"
+   ],
+   "correct": 0,
+   "concept": "Calcium does not lower potassium but immediately antagonises its membrane effect and prevents arrhythmia, buying time for insulin-dextrose, salbutamol and bicarbonate to shift potassium intracellularly, and for dialysis or resins to remove it.",
+   "reference": "KDT 8e; Bailey & Love 28e",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_SUR_FLU_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Fluid, electrolyte & nutritional support in surgery",
+   "difficulty": "M",
+   "stem": "Syndrome of inappropriate ADH secretion after surgery produces:",
+   "options": [
+    "Euvolaemic hyponatraemia with concentrated urine and high urinary sodium",
+    "Hypovolaemic hypernatraemia",
+    "Dilute urine",
+    "Low urinary sodium"
+   ],
+   "correct": 0,
+   "concept": "SIADH gives hyponatraemia with inappropriately concentrated urine, urinary sodium above 40 mmol/L and clinical euvolaemia, with low serum osmolality. Fluid restriction is first-line; correction must be gradual.",
+   "reference": "Bailey & Love 28e, Fluid and Electrolytes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "E",
+   "stem": "The commonest cause of a fatal acute haemolytic transfusion reaction is:",
+   "options": [
+    "ABO incompatibility from clerical error in patient identification",
+    "Rh incompatibility",
+    "Bacterial contamination",
+    "Febrile reaction"
+   ],
+   "correct": 0,
+   "concept": "Misidentification of patient or sample leading to ABO-incompatible transfusion causes complement-mediated intravascular haemolysis with fever, loin pain, hypotension, haemoglobinuria and disseminated intravascular coagulation. The transfusion must be stopped immediately.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "M",
+   "stem": "Massive blood transfusion is commonly complicated by:",
+   "options": [
+    "Hypothermia, hypocalcaemia from citrate, hyperkalaemia and dilutional coagulopathy",
+    "Hypercalcaemia",
+    "Metabolic alkalosis only",
+    "Polycythaemia"
+   ],
+   "correct": 0,
+   "concept": "Stored blood is cold, citrated and potassium-rich with no functional platelets or labile clotting factors, so massive transfusion requires warming, calcium supplementation and balanced replacement with plasma and platelets.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "M",
+   "stem": "The commonest transfusion reaction overall is:",
+   "options": [
+    "Febrile non-haemolytic reaction from leucocyte antibodies and cytokines",
+    "Acute haemolysis",
+    "Anaphylaxis",
+    "TRALI"
+   ],
+   "correct": 0,
+   "concept": "Febrile non-haemolytic reactions from donor leucocytes and accumulated cytokines are the commonest, prevented by leucodepletion. Haemolysis must always be excluded before attributing fever to this benign cause.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "E",
+   "stem": "Fresh frozen plasma is indicated for:",
+   "options": [
+    "Replacement of multiple coagulation factor deficiencies with active bleeding or before an urgent procedure",
+    "Volume expansion",
+    "Correction of anaemia",
+    "Nutritional support"
+   ],
+   "correct": 0,
+   "concept": "FFP contains all clotting factors and is used in coagulopathy of liver disease, disseminated intravascular coagulation, massive transfusion and urgent warfarin reversal when concentrates are unavailable. It should not be used as a volume expander.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "M",
+   "stem": "Cryoprecipitate is particularly rich in:",
+   "options": [
+    "Fibrinogen, factor VIII, von Willebrand factor and factor XIII",
+    "Albumin",
+    "Immunoglobulins",
+    "Platelets"
+   ],
+   "correct": 0,
+   "concept": "Cryoprecipitate is the preferred fibrinogen source in disseminated intravascular coagulation and massive haemorrhage when fibrinogen falls below about 1.5 g/L, and also supplies factor VIII, vWF and factor XIII.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "M",
+   "stem": "Transfusion-related acute lung injury (TRALI) presents as:",
+   "options": [
+    "Acute non-cardiogenic pulmonary oedema within six hours of transfusion",
+    "Cardiogenic pulmonary oedema",
+    "Delayed jaundice",
+    "Urticaria only"
+   ],
+   "correct": 0,
+   "concept": "Donor antibodies against recipient leucocytes cause acute hypoxaemia with bilateral infiltrates and normal filling pressures within 6 hours, distinguishing it from circulatory overload. Treatment is supportive and it is a leading cause of transfusion mortality.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "E",
+   "stem": "Anaphylactic transfusion reactions occur classically in recipients with:",
+   "options": [
+    "IgA deficiency and anti-IgA antibodies",
+    "Rh negativity",
+    "Sickle cell trait",
+    "Thalassaemia trait"
+   ],
+   "correct": 0,
+   "concept": "IgA-deficient recipients with anti-IgA antibodies react anaphylactically to IgA in donor plasma, and require washed red cells or IgA-deficient products for future transfusions.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "H",
+   "stem": "The universal donor for packed red cells and universal donor for plasma are respectively:",
+   "options": [
+    "O negative and AB",
+    "AB and O negative",
+    "O positive and A",
+    "A and B"
+   ],
+   "correct": 0,
+   "concept": "O negative red cells lack A, B and D antigens so can be given to anyone, while AB plasma contains neither anti-A nor anti-B antibodies making it the universal plasma donor - the relationship is inverted between components.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "H",
+   "stem": "Tranexamic acid reduces surgical bleeding by:",
+   "options": [
+    "Inhibiting plasminogen activation and thereby fibrinolysis",
+    "Activating platelets",
+    "Supplying fibrinogen",
+    "Antagonising heparin"
+   ],
+   "correct": 0,
+   "concept": "Tranexamic acid is a lysine analogue that blocks plasminogen binding to fibrin, stabilising clot. It reduces mortality in trauma haemorrhage when given within three hours (CRASH-2) and in postpartum haemorrhage.",
+   "reference": "KDT 8e, Drugs Affecting Coagulation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_TRF_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Blood transfusion & coagulation in surgery",
+   "difficulty": "M",
+   "stem": "Autologous blood transfusion has the principal advantage of:",
+   "options": [
+    "Avoiding alloimmunisation and transfusion-transmitted infection",
+    "Being available in emergencies",
+    "Correcting coagulopathy",
+    "Providing platelets"
+   ],
+   "correct": 0,
+   "concept": "Predeposit autologous donation, acute normovolaemic haemodilution and intraoperative cell salvage avoid immunological reactions and infection transmission, though cell salvage is avoided where the field is contaminated by infection or malignancy.",
+   "reference": "Bailey & Love 28e, Blood Transfusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "E",
+   "stem": "The commonest cause of portal hypertension in India is:",
+   "options": [
+    "Cirrhosis of the liver",
+    "Portal vein thrombosis",
+    "Budd-Chiari syndrome",
+    "Schistosomiasis"
+   ],
+   "correct": 0,
+   "concept": "Cirrhosis is the commonest cause overall, giving intrahepatic sinusoidal obstruction. Extrahepatic portal vein obstruction is an important cause of variceal bleeding in Indian children with preserved liver function.",
+   "reference": "Bailey & Love 28e, Liver",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "M",
+   "stem": "The first-line treatment for acute variceal bleeding is:",
+   "options": [
+    "Resuscitation with endoscopic variceal band ligation and a vasoactive drug such as terlipressin or octreotide",
+    "Immediate portosystemic shunt surgery",
+    "Balloon tamponade as definitive therapy",
+    "Beta blocker alone"
+   ],
+   "correct": 0,
+   "concept": "Resuscitation, vasoactive drugs, antibiotic prophylaxis and urgent endoscopic band ligation control most bleeds. Balloon tamponade is a temporary bridge, and TIPS is used for failure of endoscopic control.",
+   "reference": "Bailey & Love 28e, Liver",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "M",
+   "stem": "Primary prophylaxis against variceal bleeding in a cirrhotic with large varices uses:",
+   "options": [
+    "Non-selective beta blockers such as propranolol or carvedilol, or band ligation",
+    "Aspirin",
+    "Warfarin",
+    "Proton pump inhibitors"
+   ],
+   "correct": 0,
+   "concept": "Non-selective beta blockade reduces portal pressure by splanchnic vasoconstriction and reduced cardiac output; band ligation is an alternative for those intolerant. Selective beta-1 blockers do not work because the splanchnic beta-2 effect is required.",
+   "reference": "KDT 8e; Bailey & Love 28e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "E",
+   "stem": "The Child-Pugh score assesses all EXCEPT:",
+   "options": [
+    "Serum creatinine",
+    "Serum bilirubin",
+    "Serum albumin",
+    "Ascites and encephalopathy"
+   ],
+   "correct": 0,
+   "concept": "Child-Pugh uses bilirubin, albumin, prothrombin time or INR, ascites and encephalopathy. Creatinine features in the MELD score, which also uses bilirubin and INR and is used for transplant prioritisation.",
+   "reference": "Bailey & Love 28e, Liver",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "M",
+   "stem": "A liver abscess in India is most commonly:",
+   "options": [
+    "Amoebic, solitary and in the right lobe",
+    "Pyogenic and multiple",
+    "Hydatid",
+    "Tubercular"
+   ],
+   "correct": 0,
+   "concept": "Amoebic liver abscess from Entamoeba histolytica is usually solitary in the right lobe with anchovy-sauce pus that is sterile on culture. Metronidazole is curative, with aspiration for large or left-lobe abscesses or impending rupture.",
+   "reference": "Bailey & Love 28e, Liver",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "M",
+   "stem": "In hydatid cyst of the liver, the danger of percutaneous aspiration is:",
+   "options": [
+    "Anaphylaxis and dissemination of daughter cysts",
+    "Bleeding only",
+    "Bile leak only",
+    "Infection only"
+   ],
+   "correct": 0,
+   "concept": "Spillage of cyst contents can cause anaphylactic shock and peritoneal seeding. If PAIR is performed it is done under albendazole cover with a scolicidal agent; surgery involves careful removal without spillage.",
+   "reference": "Bailey & Love 28e, Liver",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "E",
+   "stem": "The most feared long-term complication after splenectomy is:",
+   "options": [
+    "Overwhelming post-splenectomy infection by encapsulated organisms",
+    "Portal hypertension",
+    "Renal failure",
+    "Pulmonary fibrosis"
+   ],
+   "correct": 0,
+   "concept": "Loss of splenic macrophages and opsonisation predisposes to fulminant sepsis from pneumococcus, meningococcus and Haemophilus influenzae. Vaccination at least two weeks before elective splenectomy and prophylactic penicillin are essential.",
+   "reference": "Bailey & Love 28e, Spleen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "H",
+   "stem": "Which vaccines must be given before elective splenectomy?",
+   "options": [
+    "Pneumococcal, meningococcal and Haemophilus influenzae type b",
+    "Hepatitis B and tetanus only",
+    "BCG and polio",
+    "Rabies and typhoid"
+   ],
+   "correct": 0,
+   "concept": "Vaccination against the three encapsulated organisms is given at least two weeks preoperatively for optimal response, or two weeks postoperatively after emergency splenectomy, with annual influenza vaccine and antibiotic prophylaxis.",
+   "reference": "Bailey & Love 28e, Spleen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "H",
+   "stem": "Alpha-fetoprotein is most useful as a tumour marker in:",
+   "options": [
+    "Hepatocellular carcinoma and non-seminomatous germ cell tumours",
+    "Colorectal carcinoma",
+    "Gastric carcinoma",
+    "Pancreatic carcinoma"
+   ],
+   "correct": 0,
+   "concept": "AFP is raised in hepatocellular carcinoma, used with ultrasound for surveillance in cirrhosis, and in yolk sac and embryonal elements of testicular tumours. Pure seminoma does not raise AFP.",
+   "reference": "Bailey & Love 28e, Liver",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_LIV_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Liver, spleen & portal hypertension surgery",
+   "difficulty": "M",
+   "stem": "Budd-Chiari syndrome is caused by:",
+   "options": [
+    "Hepatic venous outflow obstruction, presenting with hepatomegaly, ascites and abdominal pain",
+    "Portal vein thrombosis",
+    "Biliary obstruction",
+    "Splenic vein thrombosis"
+   ],
+   "correct": 0,
+   "concept": "Occlusion of the hepatic veins or suprahepatic inferior vena cava, often from a myeloproliferative disorder or thrombophilia, causes tender hepatomegaly with intractable ascites and caudate lobe hypertrophy from its separate venous drainage.",
+   "reference": "Bailey & Love 28e, Liver",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

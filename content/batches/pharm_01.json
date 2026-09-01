@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_PH_DIU_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "E",
+   "stem": "Furosemide acts on which part of the nephron?",
+   "options": [
+    "The thick ascending limb of the loop of Henle, inhibiting the Na-K-2Cl cotransporter",
+    "The proximal tubule",
+    "The distal convoluted tubule",
+    "The collecting duct"
+   ],
+   "correct": 0,
+   "concept": "Loop diuretics are the most efficacious, blocking reabsorption of up to 25% of filtered sodium and abolishing the medullary concentration gradient, hence their use in pulmonary oedema and volume overload.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "M",
+   "stem": "Thiazide diuretics characteristically cause:",
+   "options": [
+    "Hypokalaemia, hyponatraemia, hyperuricaemia, hyperglycaemia and hyperlipidaemia",
+    "Hyperkalaemia",
+    "Hypercalciuria",
+    "Hypouricaemia"
+   ],
+   "correct": 0,
+   "concept": "Thiazides reduce urinary calcium, making them useful in recurrent calcium stones and osteoporosis, but raise urate, glucose and lipids. Loop diuretics conversely increase calcium excretion.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "M",
+   "stem": "Spironolactone is a:",
+   "options": [
+    "Competitive aldosterone antagonist causing potassium retention and gynaecomastia",
+    "Loop diuretic",
+    "Carbonic anhydrase inhibitor",
+    "Osmotic diuretic"
+   ],
+   "correct": 0,
+   "concept": "Spironolactone is used in heart failure, ascites of cirrhosis, primary hyperaldosteronism and resistant hypertension. Gynaecomastia and menstrual irregularity result from antiandrogenic action; eplerenone is more selective.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "E",
+   "stem": "Mannitol is contraindicated in:",
+   "options": [
+    "Acute pulmonary oedema and established anuria",
+    "Raised intracranial pressure",
+    "Glaucoma",
+    "Cerebral oedema"
+   ],
+   "correct": 0,
+   "concept": "An osmotic diuretic expands intravascular volume before diuresis, precipitating pulmonary oedema in cardiac failure. It is filtered but not reabsorbed, and is ineffective if the kidneys are not producing urine.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "M",
+   "stem": "Acetazolamide produces diuresis by:",
+   "options": [
+    "Inhibiting carbonic anhydrase, causing bicarbonate loss and metabolic acidosis",
+    "Blocking the Na-K-2Cl transporter",
+    "Antagonising aldosterone",
+    "Osmotic action"
+   ],
+   "correct": 0,
+   "concept": "Its diuretic effect is weak and self-limiting as acidosis develops, so it is mainly used in glaucoma, acute mountain sickness and to alkalinise urine in salicylate poisoning.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "M",
+   "stem": "Ototoxicity is a particular risk with which diuretic, especially with aminoglycosides?",
+   "options": [
+    "Furosemide",
+    "Spironolactone",
+    "Thiazide",
+    "Acetazolamide"
+   ],
+   "correct": 0,
+   "concept": "Loop diuretics alter endolymph electrolyte composition causing dose-related, usually reversible deafness, markedly potentiated by concurrent aminoglycosides which are also ototoxic and nephrotoxic.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "E",
+   "stem": "In a patient on digoxin, the danger of thiazide or loop diuretics is:",
+   "options": [
+    "Hypokalaemia precipitating digoxin toxicity",
+    "Hyperkalaemia",
+    "Reduced digoxin absorption",
+    "Increased digoxin excretion"
+   ],
+   "correct": 0,
+   "concept": "Potassium competes with digoxin for binding to the Na-K-ATPase, so hypokalaemia enhances binding and toxicity. Potassium supplementation or a potassium-sparing diuretic is added.",
+   "reference": "KDT 8e, Cardiac Glycosides",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "H",
+   "stem": "Desmopressin is used in diabetes insipidus because it:",
+   "options": [
+    "Is a selective V2 receptor agonist with antidiuretic action and minimal vasopressor effect",
+    "Is a V1 agonist",
+    "Blocks ADH",
+    "Is a diuretic"
+   ],
+   "correct": 0,
+   "concept": "Selectivity for renal V2 receptors avoids the vasoconstriction of vasopressin. It is also used in mild haemophilia A and von Willebrand disease, where it releases factor VIII and vWF from endothelium.",
+   "reference": "KDT 8e, Pituitary Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "H",
+   "stem": "Tolvaptan is used in hyponatraemia because it:",
+   "options": [
+    "Blocks V2 receptors causing free water excretion without sodium loss",
+    "Adds sodium",
+    "Blocks aldosterone",
+    "Is an osmotic diuretic"
+   ],
+   "correct": 0,
+   "concept": "Vaptans produce aquaresis, raising serum sodium in SIADH and hypervolaemic hyponatraemia. Correction must be gradual to avoid osmotic demyelination, and liver toxicity limits long-term use.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_DIU_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Diuretics & drugs acting on the kidney",
+   "difficulty": "M",
+   "stem": "Amiloride and triamterene are potassium-sparing because they:",
+   "options": [
+    "Block epithelial sodium channels in the collecting duct, independent of aldosterone",
+    "Antagonise aldosterone receptors",
+    "Inhibit carbonic anhydrase",
+    "Act on the loop"
+   ],
+   "correct": 0,
+   "concept": "Unlike spironolactone they act directly on the ENaC channel, so they work even when aldosterone is absent. All potassium-sparing agents risk hyperkalaemia, especially with ACE inhibitors or renal impairment.",
+   "reference": "KDT 8e, Diuretics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "E",
+   "stem": "Proton pump inhibitors act by:",
+   "options": [
+    "Irreversibly inhibiting the H+/K+ ATPase of the gastric parietal cell",
+    "Blocking H2 receptors",
+    "Neutralising acid",
+    "Blocking muscarinic receptors"
+   ],
+   "correct": 0,
+   "concept": "PPIs are prodrugs activated in the acidic canaliculus, so they are most effective taken 30 to 60 minutes before a meal when proton pumps are actively secreting. Acid suppression lasts beyond the plasma half-life.",
+   "reference": "KDT 8e, Drugs for Peptic Ulcer",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "M",
+   "stem": "Long-term proton pump inhibitor therapy is associated with:",
+   "options": [
+    "Hypomagnesaemia, B12 deficiency, fracture risk and Clostridioides difficile infection",
+    "Hypercalcaemia",
+    "Hyperkalaemia",
+    "Hepatic failure"
+   ],
+   "correct": 0,
+   "concept": "Reduced acidity impairs absorption of magnesium, B12, calcium and iron and removes a barrier to enteric infection, so PPIs should be reviewed periodically and used at the lowest effective dose.",
+   "reference": "KDT 8e, Drugs for Peptic Ulcer",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "M",
+   "stem": "Ondansetron acts as an antiemetic by:",
+   "options": [
+    "Blocking 5-HT3 receptors in the chemoreceptor trigger zone and gut",
+    "Blocking D2 receptors",
+    "Blocking H1 receptors",
+    "Blocking muscarinic receptors"
+   ],
+   "correct": 0,
+   "concept": "It is highly effective for chemotherapy and postoperative vomiting with no extrapyramidal effects, but causes headache, constipation and QT prolongation. It is ineffective for motion sickness.",
+   "reference": "KDT 8e, Antiemetics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "E",
+   "stem": "Metoclopramide should be used cautiously in young patients because it causes:",
+   "options": [
+    "Acute dystonic reactions from central D2 blockade",
+    "Hypertension",
+    "Bleeding",
+    "Hepatotoxicity"
+   ],
+   "correct": 0,
+   "concept": "Oculogyric crisis and torticollis occur particularly in children and young women, treated with promethazine or an anticholinergic. Domperidone does not cross the blood-brain barrier well and causes fewer such effects, but prolongs QT.",
+   "reference": "KDT 8e, Antiemetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "M",
+   "stem": "The drug of choice for motion sickness is:",
+   "options": [
+    "Hyoscine (scopolamine) or an antihistamine such as promethazine",
+    "Ondansetron",
+    "Metoclopramide",
+    "Domperidone"
+   ],
+   "correct": 0,
+   "concept": "Motion sickness is mediated by vestibular cholinergic and histaminergic pathways, so anticholinergics and antihistamines work, whereas 5-HT3 blockers and prokinetics do not. Prophylactic dosing before travel is essential.",
+   "reference": "KDT 8e, Antiemetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "M",
+   "stem": "Aluminium and magnesium antacids are usually combined because:",
+   "options": [
+    "Aluminium causes constipation and magnesium causes diarrhoea, so effects offset",
+    "Both are constipating",
+    "They act at different sites",
+    "One is an antibiotic"
+   ],
+   "correct": 0,
+   "concept": "The combination gives predictable bowel habit. Aluminium accumulates in renal failure causing encephalopathy and osteomalacia, and antacids reduce absorption of tetracyclines, fluoroquinolones and iron.",
+   "reference": "KDT 8e, Drugs for Peptic Ulcer",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "E",
+   "stem": "Loperamide is preferred over diphenoxylate as an antidiarrhoeal because it:",
+   "options": [
+    "Does not cross the blood-brain barrier significantly, so has minimal central opioid effects",
+    "Is more potent centrally",
+    "Is an antibiotic",
+    "Is an antisecretory agent"
+   ],
+   "correct": 0,
+   "concept": "Loperamide acts on gut mu receptors slowing transit. Both are contraindicated in dysentery, suspected Clostridioides difficile colitis and in children, where they can cause toxic megacolon and respiratory depression.",
+   "reference": "KDT 8e, Drugs for Diarrhoea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "H",
+   "stem": "Lactulose is used in hepatic encephalopathy because it:",
+   "options": [
+    "Acidifies colonic contents trapping ammonia as ammonium and acts as an osmotic laxative",
+    "Neutralises ammonia in blood",
+    "Is an antibiotic",
+    "Blocks protein absorption"
+   ],
+   "correct": 0,
+   "concept": "Colonic bacteria ferment lactulose to lactic and acetic acid, converting NH3 to poorly absorbed NH4+ while purging it. Rifaximin, a poorly absorbed antibiotic, reduces ammonia-producing flora.",
+   "reference": "KDT 8e, Laxatives",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "H",
+   "stem": "Sucralfate is most effective when given:",
+   "options": [
+    "On an empty stomach, as it requires an acidic environment to polymerise",
+    "With antacids",
+    "With food",
+    "With a PPI simultaneously"
+   ],
+   "correct": 0,
+   "concept": "Sucralfate polymerises in acid to form a viscous protective barrier over the ulcer base, so concurrent antacids or PPIs reduce its efficacy and it should be given at least two hours apart from other drugs.",
+   "reference": "KDT 8e, Drugs for Peptic Ulcer",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_GIT_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT drugs: antiemetics, antacids/PPIs, laxatives, antidiarrhoeals",
+   "difficulty": "M",
+   "stem": "Bulk-forming laxatives such as ispaghula require:",
+   "options": [
+    "Adequate fluid intake, as inadequate fluid risks intestinal obstruction",
+    "No fluid",
+    "Concurrent antibiotics",
+    "Fasting"
+   ],
+   "correct": 0,
+   "concept": "They act by increasing stool bulk and are the safest for long-term use, but must be avoided in suspected obstruction or faecal impaction, and are taken with plenty of water.",
+   "reference": "KDT 8e, Laxatives",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_001",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "E",
+   "stem": "The drug of choice for an acute asthma attack is:",
+   "options": [
+    "Inhaled short-acting beta-2 agonist such as salbutamol",
+    "Inhaled corticosteroid",
+    "Oral theophylline",
+    "Sodium cromoglycate"
+   ],
+   "correct": 0,
+   "concept": "Salbutamol relaxes bronchial smooth muscle within minutes via beta-2 receptors. Inhaled steroids are controllers, not relievers, and cromoglycate is prophylactic only, useless in an acute attack.",
+   "reference": "KDT 8e, Drugs for Asthma",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_002",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "M",
+   "stem": "Inhaled corticosteroids are the cornerstone of asthma control because they:",
+   "options": [
+    "Suppress airway inflammation, reducing exacerbations and airway remodelling",
+    "Cause bronchodilatation",
+    "Act within minutes",
+    "Replace bronchodilators"
+   ],
+   "correct": 0,
+   "concept": "Local delivery gives high airway concentrations with limited systemic effects; mouth rinsing after use prevents oral candidiasis and dysphonia. High doses can still suppress growth and the adrenal axis.",
+   "reference": "KDT 8e, Drugs for Asthma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_003",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "M",
+   "stem": "Long-acting beta-2 agonists must never be used alone in asthma because:",
+   "options": [
+    "Monotherapy is associated with increased asthma-related death",
+    "They are ineffective",
+    "They cause bronchospasm",
+    "They are too expensive"
+   ],
+   "correct": 0,
+   "concept": "LABAs relieve symptoms while inflammation progresses unchecked, masking deterioration. They are always combined with an inhaled corticosteroid in a single inhaler to ensure this cannot happen.",
+   "reference": "KDT 8e, Drugs for Asthma",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_004",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "E",
+   "stem": "Theophylline has a narrow therapeutic index, with toxicity manifesting as:",
+   "options": [
+    "Nausea, tachyarrhythmia and seizures",
+    "Sedation",
+    "Bradycardia",
+    "Hypotension only"
+   ],
+   "correct": 0,
+   "concept": "Levels are raised by erythromycin, ciprofloxacin, cimetidine and heart failure, and lowered by smoking and rifampicin. Its narrow index and interactions have reduced its role to a third-line agent.",
+   "reference": "KDT 8e, Drugs for Asthma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_005",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "M",
+   "stem": "Ipratropium bromide is particularly useful in:",
+   "options": [
+    "Chronic obstructive pulmonary disease, where vagal tone is the main reversible component",
+    "Anaphylaxis",
+    "Acute asthma alone",
+    "Allergic rhinitis"
+   ],
+   "correct": 0,
+   "concept": "Antimuscarinics block the dominant reversible cholinergic bronchoconstriction of COPD. Long-acting agents such as tiotropium reduce exacerbations, and their systemic absorption is minimal.",
+   "reference": "KDT 8e, Drugs for Asthma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_006",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "M",
+   "stem": "Montelukast acts by:",
+   "options": [
+    "Blocking cysteinyl leukotriene receptors",
+    "Inhibiting 5-lipoxygenase",
+    "Blocking IgE",
+    "Blocking histamine"
+   ],
+   "correct": 0,
+   "concept": "Leukotriene receptor antagonists are especially useful in aspirin-sensitive asthma and exercise-induced bronchoconstriction, are given orally, and are a useful add-on in children. Neuropsychiatric effects are a recognised concern.",
+   "reference": "KDT 8e, Drugs for Asthma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_007",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "E",
+   "stem": "Second-generation antihistamines such as cetirizine and loratadine are preferred because they:",
+   "options": [
+    "Cause less sedation as they poorly cross the blood-brain barrier",
+    "Are more potent",
+    "Have anticholinergic effects",
+    "Act faster"
+   ],
+   "correct": 0,
+   "concept": "First-generation agents like chlorpheniramine and promethazine are sedating and anticholinergic, which is a disadvantage in daytime use but exploited for motion sickness, vertigo and as hypnotics.",
+   "reference": "KDT 8e, Antihistamines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_008",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "H",
+   "stem": "Omalizumab is used in severe allergic asthma because it:",
+   "options": [
+    "Is a monoclonal antibody that binds free IgE",
+    "Blocks IL-5",
+    "Blocks histamine",
+    "Is a steroid"
+   ],
+   "correct": 0,
+   "concept": "By binding free IgE it prevents mast cell sensitisation, reducing exacerbations in severe allergic asthma with raised IgE. Mepolizumab targets IL-5 in eosinophilic asthma, a different biological phenotype.",
+   "reference": "KDT 8e, Drugs for Asthma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_009",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "H",
+   "stem": "Codeine as an antitussive acts by:",
+   "options": [
+    "Suppressing the medullary cough centre",
+    "Reducing airway secretions",
+    "Bronchodilatation",
+    "Local anaesthesia"
+   ],
+   "correct": 0,
+   "concept": "Codeine and dextromethorphan are central antitussives; codeine causes constipation and dependence and is contraindicated in children under 12 and in nursing mothers who are ultra-rapid CYP2D6 metabolisers.",
+   "reference": "KDT 8e, Antitussives",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PH_AST_010",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Asthma & COPD drugs, antitussives & antihistamines",
+   "difficulty": "M",
+   "stem": "Beta blockers are contraindicated in asthma because:",
+   "options": [
+    "Blockade of bronchial beta-2 receptors causes bronchospasm",
+    "They cause cough",
+    "They increase secretions",
+    "They cause pulmonary oedema"
+   ],
+   "correct": 0,
+   "concept": "Even cardioselective beta-1 blockers lose selectivity at higher doses, and topical timolol eye drops have precipitated fatal asthma, so any beta blocker must be used with great caution.",
+   "reference": "KDT 8e, Adrenergic Antagonists",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  }
+ ]
+}

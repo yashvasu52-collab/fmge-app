@@ -1,0 +1,37 @@
+Q_PYQ_INICET_2025MAY_016 | del | my rewrite of this item to Ewing sarcoma duplicated Q_h3d_027 in the same topic, which describes the identical diaphyseal onion-peel lesion with small round blue cells and carries the fuller vignette (fever, raised ESR, biopsy). Deleted per the delete-not-rewrite policy
+Q_PYQ_FMGE_2025JANP2_118 | ref=Maheshwari Essential Orthopaedics 6e, Ch. Soft Tissue Swellings | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP2_130 | ref=Maheshwari Essential Orthopaedics 6e, Ch. Bone Tumours | reference cited only the exam paper; a study source added
+Q_OR_LL_002 | topic=Specific fractures (Colles, NOF, supracondylar) & healing | misfiled: the presentation of a fractured neck of femur sat under "Lower limb & pelvic injuries; hip dislocation" while the plan has a topic that names NOF explicitly. Refiled for consistency with the two other NOF questions
+Q_OR_LL_003 | topic=Specific fractures (Colles, NOF, supracondylar) & healing | misfiled: treatment of a displaced intracapsular neck of femur fracture belongs in the topic that names NOF rather than in the general lower limb injuries topic
+Q_OR_LL_010 | topic=Specific fractures (Colles, NOF, supracondylar) & healing | misfiled: investigation of a suspected occult neck of femur fracture belongs with the other NOF questions
+Q_OR_ART_001 | ok |
+Q_OR_ART_002 | ok |
+Q_OR_ART_003 | ok |
+Q_OR_ART_004 | ok |
+Q_OR_ART_005 | ok |
+Q_OR_ART_006 | ok |
+Q_OR_ART_007 | ok |
+Q_OR_ART_008 | ok |
+Q_OR_ART_009 | ok |
+Q_OR_ART_010 | ok |
+Q_h3d_027 | ok |
+Q_OR_FRC_001 | ok |
+Q_OR_FRC_002 | ok |
+Q_OR_FRC_003 | ok |
+Q_OR_FRC_004 | ok |
+Q_OR_FRC_005 | ok |
+Q_OR_FRC_006 | ok |
+Q_OR_FRC_007 | ok |
+Q_OR_FRC_008 | ok |
+Q_OR_FRC_009 | ok |
+Q_OR_FRC_010 | ok |
+Q_OR_LL_001 | ok |
+Q_OR_LL_004 | ok |
+Q_OR_LL_005 | ok |
+Q_OR_LL_006 | ok |
+Q_OR_LL_007 | ok |
+Q_OR_LL_008 | ok |
+Q_OR_LL_009 | ok |
+Q_OR_NRV_001 | ok |
+Q_OR_NRV_002 | ok |
+Q_OR_NRV_003 | ok |

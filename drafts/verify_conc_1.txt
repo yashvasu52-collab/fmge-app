@@ -1,0 +1,69 @@
+Q_MED_ARR_005 | del | duplicate of Q_MED_ARR_016, which reaches intravenous magnesium for torsades de pointes from the described polymorphic tachycardia with a long QT. The vignette is retained
+Q_MED_ARR_017 | del | my earlier rewrite of this item to torsades de pointes duplicated Q_MED_ARR_016 in the same topic. Deleted
+Q_MED_GN_012 | del | my earlier rewrite of this item to IgA nephropathy duplicated Q_MED_GN_014, which already tests synpharyngitic haematuria. Deleted; Q_MED_GN_005 continues to cover the epidemiology separately
+Q_OBG_MEN_017 | del | my earlier rewrite of this item to hormone therapy contraindications duplicated Q_OBG_MEN_005 and Q_OBG_MEN_018 in the same topic. Deleted
+Q_OBG_MEN_018 | del | third question in this topic on contraindications to menopausal hormone therapy; Q_OBG_MEN_005 is retained
+Q_PY_REP_013 | del | my earlier rewrite of this item to the LH surge duplicated Q_PY_REP_001, which already gives the 36-hour interval. Deleted
+Q_PYQ_FMGE_2026JAN_046 | del | duplicate of Q_A_027, which reaches vitamin C from a clinical vignette of bleeding gums, perifollicular haemorrhage and poor wound healing. The vignette is retained
+Q_PYQ_FMGE_2025JANP2_073 | del | one of three questions in this topic keying zinc deficiency, alongside Q_PYQ_FMGE_2025JANP2_004 which is retained
+Q_PYQ_FMGE_2025JANP2_035 | del | second of three questions keying zinc deficiency in this topic; Q_PYQ_FMGE_2025JANP2_004 is retained
+Q_PYQ_NEETPG_2025_002 | del | duplicate of Q_PYQ_FMGE_2025JULP2_020 on respiratory alkalosis at high altitude. The FMGE item is retained
+Q_PED_GIT_007 | del | duplicate of Q_PED_GIT_017, which reaches Meckel diverticulum from the same painless rectal bleeding plus a technetium pertechnetate scan. The fuller item is retained
+Q_PYQ_FMGE_2024JUN_028 | del | duplicate of Q_C_040, which reaches vitamin A deficiency from a full vignette of night blindness and conjunctival xerosis. The vignette is retained
+Q_A_002 | del | duplicate of Q_PYQ_FMGE_2025JANP1_003 (as corrected), which tests the same radial nerve injury in a mid-shaft humeral fracture. The corrected exam-recall item is retained
+Q_PYQ_FMGE_2026JUN_012 | del | third item on radial nerve injury causing wrist drop, alongside Q_PYQ_FMGE_2025JANP1_003 which is retained
+Q_OBG_PRO_001 | del | duplicate of Q_OBG_PRO_011 on the cardinal and uterosacral ligaments supporting the cervix and upper vagina. The fuller item is retained
+Q_PED_PTB_006 | del | duplicate of Q_PED_PTB_018 on nucleic acid testing for early infant HIV diagnosis. The item specifying a 6-week-old is retained
+Q_PSM_OCC_014 | del | duplicate of Q_PSM_OCC_005 on biological monitoring of occupational lead exposure by blood lead level. The first item is retained
+Q_c1_015 | del | duplicate of Q_GEN_PATH_HEM_LYMPHOMA_004 on the CD15 and CD30 immunophenotype of Reed-Sternberg cells, which additionally notes CD45 negativity. The fuller item is retained
+Q_MIC_SDS_001 | del | duplicate of Q_PYQ_FMGE_2026JUN_031 on Geobacillus stearothermophilus validating autoclave performance. The exam-recall item is retained
+Q_ENT_CMP_017 | del | my authored item duplicated Q_ENT_CMP_007 on beta-2 transferrin confirming cerebrospinal fluid rhinorrhoea. The existing item is retained
+Q_PY_MUS_011 | del | my authored item duplicated Q_PY_MUS_001 on calcium binding troponin C to expose actin binding sites. The existing item is retained
+Q_PY_MUS_018 | del | my authored item duplicated Q_PY_MUS_003 on ATP depletion causing rigor mortis. The existing item is retained
+Q_PYQ_INICET_2025MAY_009 | del | duplicate of Q_PYQ_FMGE_2025JULP2_080 on injury to the internal branch of the superior laryngeal nerve during removal of a pyriform fossa foreign body. The FMGE item is retained
+Q_MED_ANE_014 | del | my authored item duplicated Q_MED_ANE_005 on methylmalonic acid distinguishing B12 from folate deficiency. The existing item is retained
+Q_OBG_PHY_003 | del | duplicate of Q_OBG_PHY_013, which covers the same compensated respiratory alkalosis of pregnancy and additionally gives the underlying change in tidal volume. The fuller item is retained
+Q_PYQ_FMGE_2025JULP1_046 | del | duplicate of Q_c1_082, which reaches pyogenic meningitis from the same cerebrospinal fluid profile within a clinical vignette. The vignette is retained
+Q_OBG_GTD_005 | del | duplicate of Q_OBG_GTD_015, which covers the same single-agent methotrexate or actinomycin D for low-risk disease within a scored clinical scenario. The fuller item is retained
+Q_GEN_PSM_EPI_SCREEN_006 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_PSM_EPI_SCREEN_007 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_GN_001 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_GN_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_A_027 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_ARR_016 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JANP2_004 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JULP2_020 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_GIT_017 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_PATH_SYS_RENAL_003 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_PATH_SYS_RENAL_022 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_C_040 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JANP1_003 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_PRO_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PED_PTB_018 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_GN_005 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_GN_014 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_COAG_002 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_COAG_012 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PY_REP_001 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_MEN_005 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_ANAT_NEURO_TRACTS_003 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_ANAT_NEURO_TRACTS_012 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PSM_OCC_005 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_PATH_HEM_LYMPHOMA_004 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2026JUN_031 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_ENT_CMP_007 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_DERM_LEPROSY_011 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_GEN_DERM_LEPROSY_012 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_ANA_002 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_ANA_013 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PY_MUS_001 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JULP2_080 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2026JAN_005 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_h3b_017 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_MED_ANE_005 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_PHY_013 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_c1_082 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_PY_MUS_003 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_OBG_GTD_015 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_c1d_004 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed
+Q_c1d_005 | ok | reviewed against a concept-similarity duplicate candidate; answer, topic and reference confirmed

@@ -1,0 +1,44 @@
+Q_PED_ARI_012 | del | duplicate of Q_PED_ARI_002 on lower chest wall indrawing marking severe pneumonia. The first item is retained
+Q_PED_ARI_014 | del | duplicate of Q_PED_ARI_005 on supportive care being the mainstay in bronchiolitis. The first item is retained
+Q_PED_ARI_008 | del | duplicate of Q_PED_ARI_016, which identifies the same Staphylococcus aureus through the pneumatoceles and empyema of a clinical case. The vignette is retained
+Q_PED_ARI_009 | del | duplicate of Q_PED_ARI_018, which gives the same unilateral wheeze after a peanut and additionally the management. The fuller item is retained
+Q_PED_BEH_003 | del | duplicate of Q_PED_BEH_012, which applies the same duration, age and cross-setting criteria to a case. The vignette is retained
+Q_PED_BEH_013 | del | duplicate of Q_PED_BEH_004 on nocturnal enuresis being abnormal after five years. The first item is retained
+Q_PED_ARI_001 | ref=Government of India IMNCI Physicians Chart Booklet 2019; OP Ghai Essential Pediatrics 9e, Ch. Respiratory System | the reference read "IMNCI Guidelines" with no issuing body, year or supporting textbook
+Q_PED_ARI_002 | ref=Government of India IMNCI Physicians Chart Booklet 2019; OP Ghai Essential Pediatrics 9e, Ch. Respiratory System | the reference read "IMNCI Guidelines" with no issuing body, year or supporting textbook
+Q_PED_ARI_010 | ref=Government of India National Immunization Schedule 2023; Park's Textbook of Preventive and Social Medicine 27e, Ch. Immunization | the reference read "Government of India Immunisation Schedule" with no year or supporting textbook
+Q_PED_PTB_002 | ref=National Tuberculosis Elimination Programme Guidelines for Paediatric Tuberculosis 2022; OP Ghai Essential Pediatrics 9e, Ch. Tuberculosis | the reference abbreviated both sources and gave no year or chapter
+Q_PED_PTB_005 | ref=National Tuberculosis Elimination Programme Guidelines for Paediatric Tuberculosis 2022; OP Ghai Essential Pediatrics 9e, Ch. Tuberculosis | the reference read "NTEP Guidelines" with no year or supporting textbook
+Q_PED_PTB_009 | ref=National Tuberculosis Elimination Programme Guidelines for Paediatric Tuberculosis 2022; OP Ghai Essential Pediatrics 9e, Ch. Tuberculosis | the reference read "NTEP Paediatric TB Guidelines" with no year or supporting textbook
+Q_PED_ARI_004 | ok |
+Q_PED_ARI_005 | ok |
+Q_PED_ARI_006 | ok |
+Q_PED_ARI_007 | ok |
+Q_PED_ARI_011 | ok |
+Q_PED_ARI_015 | ok |
+Q_PED_ARI_016 | ok |
+Q_PED_ARI_017 | ok |
+Q_PED_ARI_018 | ok |
+Q_PED_ARI_019 | ok |
+Q_PED_ARI_020 | ok |
+Q_PED_BEH_001 | ok |
+Q_PED_BEH_002 | ok |
+Q_PED_BEH_004 | ok |
+Q_PED_BEH_005 | ok |
+Q_PED_BEH_006 | ok |
+Q_PED_BEH_007 | ok |
+Q_PED_BEH_008 | ok |
+Q_PED_BEH_009 | ok |
+Q_PED_BEH_010 | ok |
+Q_PED_BEH_012 | ok |
+Q_PED_BEH_014 | ok |
+Q_PED_BEH_015 | ok |
+Q_PED_BEH_016 | ok |
+Q_PED_BEH_017 | ok |
+Q_PED_BEH_018 | ok |
+Q_PED_BEH_019 | ok |
+Q_PED_BEH_020 | ok |
+Q_PED_PTB_003 | ok |
+Q_PED_PTB_004 | ok |
+Q_PED_PTB_007 | ok |
+Q_PED_PTB_008 | ok |

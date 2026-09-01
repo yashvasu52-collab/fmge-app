@@ -1,0 +1,44 @@
+Q_MIC_COR_012 | del | duplicate of Q_MIC_COR_001 on tellurite-containing media for Corynebacterium diphtheriae. The first item is retained
+Q_MIC_COR_005 | del | duplicate of Q_MIC_COR_014, which identifies the same at-risk pregnant woman and additionally the organism, its tumbling motility and the neonatal syndromes. The fuller item is retained
+Q_MIC_COR_010 | del | duplicate of Q_MIC_COR_017, which describes the same reheated rice emetic syndrome and additionally names cereulide. The fuller item is retained
+Q_MIC_HEL_012 | del | duplicate of Q_MIC_HEL_001 on ingestion of Taenia solium eggs causing cysticercosis. The first item is retained
+Q_MIC_CLO_015 | ok |
+Q_MIC_CLO_016 | ok |
+Q_MIC_CLO_018 | ok |
+Q_MIC_COR_001 | ok |
+Q_MIC_COR_002 | ok |
+Q_MIC_COR_003 | ok |
+Q_MIC_COR_004 | ok |
+Q_MIC_COR_006 | ok |
+Q_MIC_COR_008 | ok |
+Q_MIC_COR_009 | ok |
+Q_MIC_COR_013 | ok |
+Q_MIC_COR_014 | ok |
+Q_MIC_COR_015 | ok |
+Q_MIC_COR_017 | ok |
+Q_MIC_COR_018 | ok |
+Q_MIC_GNE_001 | ok |
+Q_MIC_GNE_002 | ok |
+Q_MIC_GNE_003 | ok |
+Q_MIC_GNE_004 | ok |
+Q_MIC_GNE_005 | ok |
+Q_MIC_GNE_006 | ok |
+Q_MIC_GPS_001 | ok |
+Q_MIC_GPS_002 | ok |
+Q_MIC_GPS_003 | ok |
+Q_MIC_GPS_004 | ok |
+Q_MIC_HEL_001 | ok |
+Q_MIC_HEL_002 | ok |
+Q_MIC_HEL_003 | ok |
+Q_MIC_HEL_005 | ok |
+Q_MIC_HEL_006 | ok |
+Q_MIC_HEL_008 | ok |
+Q_MIC_HEL_009 | ok |
+Q_MIC_HEL_010 | ok |
+Q_MIC_HEL_014 | ok |
+Q_MIC_HEL_016 | ok |
+Q_MIC_HEL_017 | ok |
+Q_MIC_HEL_018 | ok |
+Q_MIC_HRP_001 | ok |
+Q_MIC_HRP_002 | ok |
+Q_MIC_HRP_003 | ok |

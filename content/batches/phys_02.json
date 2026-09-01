@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_PY_LNG_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "E",
+   "stem": "Which lung volume cannot be measured by simple spirometry?",
+   "options": [
+    "Residual volume",
+    "Tidal volume",
+    "Inspiratory reserve volume",
+    "Vital capacity"
+   ],
+   "correct": 0,
+   "concept": "Residual volume, and therefore functional residual capacity and total lung capacity, require helium dilution, nitrogen washout or body plethysmography since this air cannot be exhaled.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "M",
+   "stem": "Functional residual capacity is the sum of:",
+   "options": [
+    "Expiratory reserve volume and residual volume",
+    "Tidal volume and residual volume",
+    "Vital capacity and residual volume",
+    "Inspiratory capacity and tidal volume"
+   ],
+   "correct": 0,
+   "concept": "FRC is the resting volume where inward elastic recoil of the lung balances outward recoil of the chest wall. It falls in pregnancy, obesity and supine posture, and rises in emphysema.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "M",
+   "stem": "Surfactant reduces surface tension and thereby:",
+   "options": [
+    "Increases compliance and prevents alveolar collapse, particularly of small alveoli",
+    "Decreases compliance",
+    "Increases surface tension",
+    "Has no effect on collapse"
+   ],
+   "correct": 0,
+   "concept": "By the Laplace relation, pressure is proportional to tension divided by radius, so without surfactant small alveoli would empty into larger ones. Surfactant lowers tension more in small alveoli, stabilising them.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "E",
+   "stem": "Physiological dead space differs from anatomical dead space by including:",
+   "options": [
+    "Alveoli that are ventilated but not perfused",
+    "The conducting airways only",
+    "Perfused but unventilated alveoli",
+    "The trachea"
+   ],
+   "correct": 0,
+   "concept": "In health the two are nearly equal. Physiological dead space rises markedly in pulmonary embolism, where perfusion is lost to ventilated alveoli - the physiological basis of the raised alveolar-arterial gradient.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "M",
+   "stem": "A ventilation-perfusion ratio of zero represents:",
+   "options": [
+    "A true shunt, where perfused alveoli receive no ventilation",
+    "Dead space",
+    "Normal lung",
+    "Emphysema"
+   ],
+   "correct": 0,
+   "concept": "Shunt causes hypoxaemia that does not correct with 100% oxygen, distinguishing it from V/Q mismatch. Consolidation, atelectasis and pulmonary oedema are common causes.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "M",
+   "stem": "In the upright lung, ventilation and perfusion are both greatest at:",
+   "options": [
+    "The base, with perfusion increasing more than ventilation so V/Q is lowest there",
+    "The apex",
+    "The mid-zone",
+    "Equal throughout"
+   ],
+   "correct": 0,
+   "concept": "Gravity produces higher V/Q at the apex, favouring tuberculosis reactivation, and lower V/Q at the base. The West zones describe the relationship of alveolar, arterial and venous pressures.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "E",
+   "stem": "The main muscle of quiet inspiration is:",
+   "options": [
+    "The diaphragm, accounting for about 75 percent of tidal volume",
+    "External intercostals",
+    "Scalenes",
+    "Abdominal muscles"
+   ],
+   "correct": 0,
+   "concept": "Quiet expiration is passive, driven by elastic recoil. Accessory muscles - sternocleidomastoid, scalenes and abdominals - are recruited in exercise and respiratory distress, and their use is a clinical sign of severity.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "H",
+   "stem": "Compliance of the lung is reduced in:",
+   "options": [
+    "Pulmonary fibrosis and pulmonary oedema",
+    "Emphysema",
+    "Normal ageing",
+    "Asthma"
+   ],
+   "correct": 0,
+   "concept": "Restrictive disease stiffens the lung requiring greater pressure for a given volume change. Emphysema destroys elastic tissue increasing compliance but reducing recoil, causing air trapping.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "H",
+   "stem": "The Hering-Breuer inflation reflex:",
+   "options": [
+    "Limits excessive lung inflation via vagal stretch receptors, important in newborns",
+    "Increases inspiration",
+    "Operates during quiet breathing in adults",
+    "Is mediated by the phrenic nerve"
+   ],
+   "correct": 0,
+   "concept": "It is largely inactive during quiet adult breathing, becoming important at tidal volumes above about 1 litre and in the newborn, protecting against overdistension.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_LNG_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Lung volumes, compliance, V/Q & mechanics of breathing",
+   "difficulty": "M",
+   "stem": "In obstructive lung disease, spirometry characteristically shows:",
+   "options": [
+    "Reduced FEV1/FVC ratio below 0.7",
+    "Increased FEV1/FVC ratio",
+    "Normal FEV1",
+    "Reduced total lung capacity"
+   ],
+   "correct": 0,
+   "concept": "Restrictive disease shows a preserved or raised ratio with reduced FVC and total lung capacity. Bronchodilator reversibility of more than 12% and 200 mL supports asthma over COPD.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "E",
+   "stem": "The most important stimulus to respiration under normal conditions is:",
+   "options": [
+    "Arterial carbon dioxide tension acting on central chemoreceptors",
+    "Oxygen tension",
+    "Blood pH alone",
+    "Lung stretch"
+   ],
+   "correct": 0,
+   "concept": "Central chemoreceptors in the medulla respond to hydrogen ions generated from carbon dioxide crossing the blood-brain barrier. Hypoxic drive via peripheral chemoreceptors becomes significant only below about 60 mmHg.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "M",
+   "stem": "Peripheral chemoreceptors in the carotid body respond primarily to:",
+   "options": [
+    "A fall in arterial oxygen tension",
+    "A rise in oxygen",
+    "Blood volume",
+    "Temperature"
+   ],
+   "correct": 0,
+   "concept": "They also respond to raised carbon dioxide and hydrogen ions, and become the dominant drive in chronic carbon dioxide retention - the basis of caution with high-flow oxygen in some COPD patients.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "M",
+   "stem": "At high altitude, the initial physiological response is:",
+   "options": [
+    "Hyperventilation causing respiratory alkalosis",
+    "Hypoventilation",
+    "Metabolic acidosis",
+    "Bradycardia"
+   ],
+   "correct": 0,
+   "concept": "Hypoxic ventilatory drive produces alkalosis which itself limits ventilation, until renal bicarbonate excretion over days restores pH and permits full acclimatisation - the rationale for graded ascent.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "E",
+   "stem": "Acetazolamide prevents acute mountain sickness by:",
+   "options": [
+    "Causing bicarbonate diuresis and metabolic acidosis which stimulates ventilation",
+    "Increasing oxygen carriage",
+    "Causing alkalosis",
+    "Blocking hypoxic drive"
+   ],
+   "correct": 0,
+   "concept": "It accelerates the renal compensation that would otherwise take days. Definitive treatment of severe altitude illness including cerebral or pulmonary oedema is immediate descent.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "M",
+   "stem": "Chronic acclimatisation to high altitude involves:",
+   "options": [
+    "Increased 2,3-DPG, polycythaemia and raised capillary density",
+    "Reduced haemoglobin",
+    "Reduced ventilation",
+    "Reduced 2,3-DPG"
+   ],
+   "correct": 0,
+   "concept": "Raised 2,3-DPG shifts the oxygen dissociation curve rightward aiding tissue unloading. Excessive polycythaemia causes chronic mountain sickness (Monge disease) with hyperviscosity.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "M",
+   "stem": "Decompression sickness in divers results from:",
+   "options": [
+    "Nitrogen bubbles forming as dissolved gas comes out of solution on rapid ascent",
+    "Oxygen toxicity",
+    "Carbon dioxide retention",
+    "Hypothermia"
+   ],
+   "correct": 0,
+   "concept": "Bubbles cause joint pain (bends), respiratory distress (chokes) and neurological deficits, with chronic dysbaric osteonecrosis of femoral and humeral heads. Recompression in a hyperbaric chamber is the treatment.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "E",
+   "stem": "Nitrogen narcosis in deep diving occurs because nitrogen at high partial pressure:",
+   "options": [
+    "Dissolves in neural lipid membranes producing an anaesthetic effect",
+    "Causes hypoxia",
+    "Causes hypercapnia",
+    "Forms bubbles"
+   ],
+   "correct": 0,
+   "concept": "Rapture of the deep begins around 30 metres, impairing judgement. Helium-oxygen mixtures avoid it because helium is far less lipid-soluble, and are used for deep commercial diving.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "H",
+   "stem": "Cheyne-Stokes respiration is characterised by:",
+   "options": [
+    "Cyclical crescendo-decrescendo breathing alternating with apnoea",
+    "Regular deep breathing",
+    "Irregular chaotic breathing",
+    "Sustained apnoea"
+   ],
+   "correct": 0,
+   "concept": "Prolonged circulation time and increased chemoreceptor gain cause instability, seen in heart failure, at altitude and in bilateral cerebral lesions. Biot breathing is irregular and indicates medullary damage.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "H",
+   "stem": "The oxygen dissociation curve is shifted to the right by:",
+   "options": [
+    "Increased carbon dioxide, hydrogen ions, temperature and 2,3-DPG",
+    "Alkalosis",
+    "Hypothermia",
+    "Fetal haemoglobin"
+   ],
+   "correct": 0,
+   "concept": "A rightward shift means reduced affinity, favouring tissue unloading where metabolism is high - the Bohr effect. Fetal haemoglobin and carbon monoxide shift it left, impairing release.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_RSP_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory regulation, high altitude & diving",
+   "difficulty": "M",
+   "stem": "The Haldane effect describes:",
+   "options": [
+    "Increased carbon dioxide carriage by deoxygenated haemoglobin",
+    "Oxygen carriage by haemoglobin",
+    "Bicarbonate formation only",
+    "Chloride shift"
+   ],
+   "correct": 0,
+   "concept": "Deoxygenated haemoglobin binds hydrogen ions and forms carbamino compounds more readily, so venous blood carries more carbon dioxide - the complement to the Bohr effect at the tissues.",
+   "reference": "Ganong Review of Medical Physiology 26e, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_001",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "E",
+   "stem": "The bulk of filtered sodium is reabsorbed in:",
+   "options": [
+    "The proximal convoluted tubule, about 65 percent",
+    "The loop of Henle",
+    "The distal tubule",
+    "The collecting duct"
+   ],
+   "correct": 0,
+   "concept": "Proximal reabsorption is isosmotic and coupled to glucose, amino acids and bicarbonate. The loop reabsorbs about 25%, distal tubule 5% and collecting duct 3% under aldosterone control.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_002",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "M",
+   "stem": "Inulin is the ideal marker for measuring glomerular filtration rate because it is:",
+   "options": [
+    "Freely filtered, neither reabsorbed nor secreted nor metabolised",
+    "Actively secreted",
+    "Reabsorbed completely",
+    "Protein bound"
+   ],
+   "correct": 0,
+   "concept": "Creatinine is used clinically but is slightly secreted, overestimating GFR, and its level depends on muscle mass, which is why eGFR equations adjust for age, sex and body size.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_003",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "M",
+   "stem": "Glucose appears in urine when the plasma level exceeds the renal threshold of approximately:",
+   "options": [
+    "180 mg/dL",
+    "100 mg/dL",
+    "300 mg/dL",
+    "400 mg/dL"
+   ],
+   "correct": 0,
+   "concept": "The transport maximum for glucose is about 375 mg/min, but splay means glucosuria begins around 180 mg/dL. SGLT2 inhibitors lower this threshold deliberately to promote glucose excretion.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_004",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "E",
+   "stem": "Aldosterone acts principally on the:",
+   "options": [
+    "Late distal tubule and collecting duct, increasing sodium reabsorption and potassium secretion",
+    "Proximal tubule",
+    "Loop of Henle",
+    "Glomerulus"
+   ],
+   "correct": 0,
+   "concept": "It also promotes hydrogen ion secretion, so hyperaldosteronism causes hypokalaemic metabolic alkalosis with hypertension, whereas hypoaldosteronism causes hyperkalaemic acidosis as in type 4 renal tubular acidosis.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_005",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "M",
+   "stem": "The countercurrent multiplier responsible for the medullary concentration gradient operates in:",
+   "options": [
+    "The loop of Henle, with the vasa recta acting as countercurrent exchanger",
+    "The proximal tubule",
+    "The collecting duct alone",
+    "The glomerulus"
+   ],
+   "correct": 0,
+   "concept": "Urea recycling contributes substantially to the gradient, which is why protein-malnourished patients concentrate urine poorly. Loop diuretics abolish the gradient, impairing both concentration and dilution.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_006",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "M",
+   "stem": "Metabolic acidosis with a normal anion gap is characteristically caused by:",
+   "options": [
+    "Diarrhoea and renal tubular acidosis",
+    "Diabetic ketoacidosis",
+    "Lactic acidosis",
+    "Methanol poisoning"
+   ],
+   "correct": 0,
+   "concept": "Bicarbonate loss is replaced by chloride, keeping the gap normal - hyperchloraemic acidosis. A raised gap indicates added acid, remembered as MUDPILES. Urinary anion gap distinguishes renal from gut losses.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_007",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "E",
+   "stem": "The main urinary buffer for excreting acid is:",
+   "options": [
+    "Ammonia, forming ammonium, with phosphate as titratable acid",
+    "Bicarbonate",
+    "Chloride",
+    "Sodium"
+   ],
+   "correct": 0,
+   "concept": "Renal ammoniagenesis from glutamine is adaptively upregulated in chronic acidosis, allowing far greater acid excretion than the fixed phosphate buffer. Its failure defines distal renal tubular acidosis.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_008",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "H",
+   "stem": "In respiratory acidosis, renal compensation involves:",
+   "options": [
+    "Increased bicarbonate reabsorption and acid excretion, taking days to be complete",
+    "Immediate bicarbonate rise",
+    "Reduced bicarbonate",
+    "Increased carbon dioxide excretion"
+   ],
+   "correct": 0,
+   "concept": "Acute compensation raises bicarbonate about 1 mmol/L per 10 mmHg rise in PCO2, and chronic compensation about 4 mmol/L, which is why chronic retainers tolerate high PCO2 with near-normal pH.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_009",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "H",
+   "stem": "The micturition reflex is coordinated by:",
+   "options": [
+    "The pontine micturition centre with parasympathetic S2-S4 outflow contracting the detrusor",
+    "The sacral cord alone",
+    "The sympathetic system",
+    "The cerebellum"
+   ],
+   "correct": 0,
+   "concept": "Spinal cord injury above the sacral segments causes a spastic automatic bladder after spinal shock, whereas a cauda equina lesion causes a flaccid atonic bladder with overflow incontinence.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PY_REN_010",
+   "part": "A",
+   "subject": "Physiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal tubular transport, acid-base regulation & micturition",
+   "difficulty": "M",
+   "stem": "The renin-angiotensin system is activated by:",
+   "options": [
+    "Reduced renal perfusion pressure, reduced distal sodium delivery and sympathetic stimulation",
+    "Hypertension",
+    "Hypervolaemia",
+    "Hyperkalaemia alone"
+   ],
+   "correct": 0,
+   "concept": "Angiotensin II constricts the efferent arteriole preserving GFR when perfusion falls, which is why ACE inhibitors precipitate acute kidney injury in bilateral renal artery stenosis or severe hypovolaemia.",
+   "reference": "Ganong Review of Medical Physiology 26e, Renal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+Q_h3d_018 | del | duplicate of Q_BC_GEN_012 on the Western blot confirming an HIV screening test. The item in the molecular techniques topic is retained
+Q_PYQ_FMGE_2025JULP2_118 | del | duplicate of Q_PYQ_FMGE_2025JULP1_038 on fibrillin-1 and Marfan syndrome. The clinical vignette is retained in preference to the bare gene to disease recall
+Q_PYQ_FMGE_2024JUN_005 | ref=FMGE June 2024 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. DNA Organization, Replication and Repair | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2024JUN_032 | ref=FMGE June 2024 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Membranes: Structure and Function | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_037 | ref=FMGE January 2025 Part 1 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_057 | ref=FMGE January 2025 Part 1 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_051 | ref=FMGE January 2025 Part 2 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_052 | ref=FMGE January 2025 Part 2 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_053 | ref=FMGE January 2025 Part 2 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_038 | ref=FMGE July 2025 Part 1 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. The Extracellular Matrix | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_115 | ref=FMGE July 2025 Part 2 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_119 | ref=FMGE July 2025 Part 2 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Free Radicals and Antioxidant Nutrients | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_132 | ref=FMGE July 2025 Part 2 (real exam recall); Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_028 | ref=FMGE January 2026 (real exam recall); Vasudevan Textbook of Biochemistry for Medical Students 9e, Ch. Cell Cycle and Cell Death | exam-paper-only reference given a study source
+Q_BC_GEN_001 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_002 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_003 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_004 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_005 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_006 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_007 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_008 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_009 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_010 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | the chapter was cited as "Molecular Biology", which is not a chapter title in the book
+Q_BC_GEN_011 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_GEN_012 | ref=Harper's Illustrated Biochemistry 32e, Ch. Molecular Genetics, Recombinant DNA and Genomic Technology | chapter title completed to match the book
+Q_BC_ENZ_001 | ok |
+Q_BC_ENZ_002 | ok |
+Q_BC_ENZ_003 | ok |
+Q_BC_ENZ_004 | ok |
+Q_BC_ENZ_005 | ok |
+Q_BC_ENZ_006 | ok |
+Q_BC_ENZ_007 | ok |
+Q_BC_ENZ_008 | ok |
+Q_BC_ENZ_009 | ok |
+Q_BC_ENZ_010 | ok |
+Q_BC_ENZ_011 | ok |
+Q_BC_ENZ_012 | ok |
+Q_BC_ENZ_013 | ok |
+Q_BC_ENZ_014 | ok |
+Q_BC_ENZ_015 | ok |
+Q_BC_ENZ_016 | ok |
+Q_BC_ENZ_017 | ok |
+Q_BC_ENZ_018 | ok |

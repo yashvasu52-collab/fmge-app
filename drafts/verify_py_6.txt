@@ -1,0 +1,45 @@
+Q_PY_RSP_011 | del | duplicate of Q_PY_RSP_001 on central chemoreceptors providing the main carbon dioxide drive. The first item is retained
+Q_PY_RSP_002 | del | duplicate of Q_PY_RSP_012, which gives the same carotid body oxygen response and additionally the 60 mmHg threshold. The fuller item is retained
+Q_PY_RSP_013 | del | duplicate of Q_PY_LNG_009 on the Hering-Breuer inflation reflex. The first item is retained
+Q_PY_RSP_016 | del | duplicate of Q_PY_RSP_006 on nitrogen bubbles causing decompression sickness. The first item is retained
+Q_PY_RSP_017 | del | duplicate of Q_PY_RSP_008 on Cheyne-Stokes respiration. The first item is retained
+Q_PY_SEN_014 | del | duplicate of Q_PY_SEN_005 on rapid eye movement sleep with muscle atonia and a desynchronised EEG. The first item is retained
+Q_PY_SEN_006 | del | duplicate of Q_PY_SEN_012, which gives the same three cone types and additionally their spectral peaks. The fuller item is retained
+Q_PY_END_001 | del | duplicate of Q_PY_END_012, which gives the same abundance of thyroxine and additionally the peripheral deiodination to the more active hormone. The fuller item is retained
+Q_PY_END_006 | del | duplicate of Q_PY_END_013, which covers the same renal calcium handling within the whole action of parathyroid hormone. The fuller item is retained
+Q_A_021 | ref=Guyton and Hall Textbook of Medical Physiology 14e, Ch. Motor Functions of the Spinal Cord and the Cord Reflexes | the chapter was recorded as "Physiology", a placeholder rather than a chapter
+Q_h3d_008 | ref=Guyton and Hall Textbook of Medical Physiology 14e, Ch. Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control | the reference named the book with no chapter
+Q_PYQ_FMGE_2025JANP2_032 | ref=FMGE January 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_059 | ref=FMGE July 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. The Eye: Neurophysiology of Vision | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_032 | ref=FMGE July 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Cerebral Cortex, Intellectual Functions of the Brain, Learning and Memory | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_025 | ref=FMGE January 2026 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_048 | ref=FMGE January 2026 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Contributions of the Cerebellum and Basal Ganglia to Overall Motor Control | exam-paper-only reference given a study source
+Q_PY_RSP_010 | ok |
+Q_PY_RSP_012 | ok |
+Q_PY_RSP_014 | ok |
+Q_PY_RSP_015 | ok |
+Q_PY_RSP_018 | ok |
+Q_PY_RSP_019 | ok |
+Q_PY_SEN_002 | ok |
+Q_PY_SEN_003 | ok |
+Q_PY_SEN_004 | ok |
+Q_PY_SEN_005 | ok |
+Q_PY_SEN_008 | ok |
+Q_PY_SEN_009 | ok |
+Q_PY_SEN_010 | ok |
+Q_PY_SEN_012 | ok |
+Q_PY_SEN_013 | ok |
+Q_PY_SEN_015 | ok |
+Q_PY_SEN_016 | ok |
+Q_PY_SEN_018 | ok |
+Q_PY_SEN_019 | ok |
+Q_PY_END_002 | ok |
+Q_PY_END_003 | ok |
+Q_PY_END_005 | ok |
+Q_PY_END_008 | ok |
+Q_PY_END_009 | ok |
+Q_PY_END_010 | ok |
+Q_PY_END_011 | ok |
+Q_PY_END_012 | ok |
+Q_PY_END_013 | ok |
+Q_PY_END_016 | ok |

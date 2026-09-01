@@ -1,0 +1,968 @@
+{
+ "questions": [
+  {
+   "id": "Q_OBG_MUL_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "E",
+   "stem": "Twin-to-twin transfusion syndrome occurs in which type of twinning?",
+   "options": [
+    "Monochorionic diamniotic",
+    "Dichorionic diamniotic",
+    "Dizygotic",
+    "Monoamniotic only"
+   ],
+   "correct": 0,
+   "concept": "Vascular anastomoses in a shared monochorionic placenta allow unbalanced transfusion, producing a plethoric polyhydramniotic recipient and an anaemic oliguric stuck donor. Laser ablation of the anastomoses is the treatment.",
+   "reference": "Williams Obstetrics 26e, Multifetal Pregnancy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "M",
+   "stem": "Chorionicity in twin pregnancy is most accurately determined by ultrasound:",
+   "options": [
+    "In the first trimester using the lambda or T sign",
+    "At 30 weeks",
+    "At term",
+    "By maternal serum hCG"
+   ],
+   "correct": 0,
+   "concept": "First-trimester scanning shows a thick dividing membrane with a lambda (twin peak) sign in dichorionic and a thin T-sign insertion in monochorionic pregnancies. Chorionicity, not zygosity, determines risk and surveillance.",
+   "reference": "Williams Obstetrics 26e, Multifetal Pregnancy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "M",
+   "stem": "The commonest cause of polyhydramnios is:",
+   "options": [
+    "Idiopathic",
+    "Anencephaly",
+    "Oesophageal atresia",
+    "Maternal diabetes"
+   ],
+   "correct": 0,
+   "concept": "About 60% of polyhydramnios is idiopathic. Identifiable causes include maternal diabetes, fetal anomalies impairing swallowing such as anencephaly and oesophageal atresia, twin-to-twin transfusion and fetal hydrops.",
+   "reference": "DC Dutta Obstetrics 9e, Polyhydramnios",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "E",
+   "stem": "Symmetrical intrauterine growth restriction most typically results from:",
+   "options": [
+    "An early insult such as infection or chromosomal anomaly",
+    "Third trimester placental insufficiency",
+    "Pre-eclampsia",
+    "Post-term pregnancy"
+   ],
+   "correct": 0,
+   "concept": "Symmetrical growth restriction reflects an insult during the phase of cellular hyperplasia - infection, aneuploidy, drugs - reducing head and abdomen proportionately. Asymmetrical restriction with head sparing indicates late placental insufficiency.",
+   "reference": "DC Dutta Obstetrics 9e, IUGR",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "M",
+   "stem": "The most sensitive single ultrasound parameter for detecting growth restriction is:",
+   "options": [
+    "Abdominal circumference",
+    "Biparietal diameter",
+    "Femur length",
+    "Head circumference"
+   ],
+   "correct": 0,
+   "concept": "Abdominal circumference reflects liver glycogen and subcutaneous fat and falls earliest in asymmetric restriction, so it is the most sensitive single biometric measure; serial measurement and Doppler guide timing of delivery.",
+   "reference": "DC Dutta Obstetrics 9e, IUGR",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "M",
+   "stem": "Oligohydramnios is defined as an amniotic fluid index below:",
+   "options": [
+    "5 cm",
+    "10 cm",
+    "15 cm",
+    "2 cm"
+   ],
+   "correct": 0,
+   "concept": "An amniotic fluid index below 5 cm or a single deepest pocket below 2 cm defines oligohydramnios, associated with renal agenesis, obstructive uropathy, ruptured membranes, growth restriction and post-term pregnancy.",
+   "reference": "DC Dutta Obstetrics 9e, Oligohydramnios",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "E",
+   "stem": "Potter syndrome results from:",
+   "options": [
+    "Severe oligohydramnios causing pulmonary hypoplasia and limb deformity",
+    "Polyhydramnios",
+    "Twin pregnancy",
+    "Maternal diabetes"
+   ],
+   "correct": 0,
+   "concept": "Prolonged severe oligohydramnios, classically from bilateral renal agenesis, produces pulmonary hypoplasia, a flattened facies, low-set ears and positional limb deformities. Pulmonary hypoplasia is the fatal element.",
+   "reference": "Nelson 21e, Renal Agenesis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "H",
+   "stem": "In monoamniotic monochorionic twins, the major cause of fetal death is:",
+   "options": [
+    "Cord entanglement",
+    "Placental abruption",
+    "Pre-eclampsia",
+    "Gestational diabetes"
+   ],
+   "correct": 0,
+   "concept": "Sharing a single amniotic cavity allows cord entanglement and knotting with perinatal mortality of 50 to 60%, so these pregnancies are monitored intensively and delivered by caesarean at about 32 to 34 weeks.",
+   "reference": "Williams Obstetrics 26e, Multifetal Pregnancy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "H",
+   "stem": "Vanishing twin syndrome refers to:",
+   "options": [
+    "Early loss and resorption of one twin diagnosed in the first trimester",
+    "Death of both twins",
+    "Delivery of one twin only",
+    "Twin reversed arterial perfusion"
+   ],
+   "correct": 0,
+   "concept": "Spontaneous loss of one gestational sac in the first trimester with resorption of the tissue occurs in up to 20 to 30% of twin pregnancies detected early, usually with a good outcome for the survivor.",
+   "reference": "Williams Obstetrics 26e, Multifetal Pregnancy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MUL_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Multiple pregnancy, polyhydramnios & IUGR",
+   "difficulty": "M",
+   "stem": "The commonest complication of multiple pregnancy is:",
+   "options": [
+    "Preterm labour",
+    "Post-term pregnancy",
+    "Macrosomia",
+    "Oligohydramnios"
+   ],
+   "correct": 0,
+   "concept": "Preterm labour is the commonest and most important complication of multiple pregnancy, with mean gestation at delivery of about 36 weeks for twins and 33 for triplets; anaemia, pre-eclampsia and postpartum haemorrhage are also increased.",
+   "reference": "Williams Obstetrics 26e, Multifetal Pregnancy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "E",
+   "stem": "Preterm labour is defined as labour occurring before:",
+   "options": [
+    "37 completed weeks of gestation",
+    "40 weeks",
+    "36 weeks",
+    "38 weeks"
+   ],
+   "correct": 0,
+   "concept": "Preterm birth is delivery before 37 completed weeks; it is subdivided into extremely preterm below 28 weeks, very preterm 28 to 32 and moderate to late preterm 32 to 37 weeks, and is the leading cause of neonatal mortality.",
+   "reference": "DC Dutta Obstetrics 9e, Preterm Labour",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "M",
+   "stem": "Antenatal corticosteroids in threatened preterm labour are given primarily to:",
+   "options": [
+    "Accelerate fetal lung maturity and reduce respiratory distress, intraventricular haemorrhage and necrotising enterocolitis",
+    "Arrest labour",
+    "Treat maternal infection",
+    "Increase fetal weight"
+   ],
+   "correct": 0,
+   "concept": "A single course of betamethasone or dexamethasone between 24 and 34 weeks reduces neonatal respiratory distress syndrome, intraventricular haemorrhage, necrotising enterocolitis and mortality, with maximal benefit 24 hours to 7 days after administration.",
+   "reference": "Williams Obstetrics 26e, Preterm Birth",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "M",
+   "stem": "Magnesium sulphate given in preterm labour before 32 weeks provides:",
+   "options": [
+    "Fetal neuroprotection reducing cerebral palsy",
+    "Definitive tocolysis",
+    "Fetal lung maturation",
+    "Prevention of infection"
+   ],
+   "correct": 0,
+   "concept": "Magnesium sulphate is given for fetal neuroprotection to reduce cerebral palsy in births before 32 weeks. Its tocolytic effect is weak, and nifedipine or atosiban are preferred if tocolysis is required.",
+   "reference": "Williams Obstetrics 26e, Preterm Birth",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "E",
+   "stem": "The most reliable confirmation of prelabour rupture of membranes is:",
+   "options": [
+    "Direct visualisation of amniotic fluid pooling in the posterior vaginal fornix on sterile speculum examination",
+    "Digital vaginal examination",
+    "Ultrasound alone",
+    "Maternal history alone"
+   ],
+   "correct": 0,
+   "concept": "Sterile speculum examination showing pooling is the standard; digital examination is avoided as it introduces infection. Nitrazine and fern tests and placental alpha-microglobulin-1 assays help in equivocal cases.",
+   "reference": "DC Dutta Obstetrics 9e, PROM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "M",
+   "stem": "In preterm prelabour rupture of membranes at 30 weeks with no infection, management is:",
+   "options": [
+    "Expectant management with antibiotics and corticosteroids",
+    "Immediate delivery",
+    "Tocolysis for four weeks",
+    "Amnioinfusion"
+   ],
+   "correct": 0,
+   "concept": "Before 34 weeks with no chorioamnionitis or fetal compromise, expectant management with latency antibiotics such as erythromycin and a corticosteroid course improves outcome. Delivery is indicated for infection, abruption or fetal distress.",
+   "reference": "Williams Obstetrics 26e, Preterm Birth",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "M",
+   "stem": "The most feared maternal complication of prolonged rupture of membranes is:",
+   "options": [
+    "Chorioamnionitis",
+    "Postpartum haemorrhage",
+    "Uterine rupture",
+    "Amniotic fluid embolism"
+   ],
+   "correct": 0,
+   "concept": "Ascending infection causes chorioamnionitis with maternal fever, tachycardia, uterine tenderness and foul discharge with fetal tachycardia, and mandates delivery with broad-spectrum antibiotics irrespective of gestation.",
+   "reference": "DC Dutta Obstetrics 9e, PROM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "E",
+   "stem": "Post-term pregnancy is defined as gestation beyond:",
+   "options": [
+    "42 completed weeks",
+    "40 weeks",
+    "41 weeks",
+    "43 weeks"
+   ],
+   "correct": 0,
+   "concept": "Post-term means beyond 42 completed weeks, and carries risks of macrosomia, meconium aspiration, oligohydramnios, placental insufficiency and sudden intrauterine death, so induction is usually offered by 41 weeks.",
+   "reference": "DC Dutta Obstetrics 9e, Post-maturity",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "H",
+   "stem": "Cervical cerclage is most appropriately offered to a woman with:",
+   "options": [
+    "A history of second-trimester painless cervical dilatation with recurrent mid-trimester loss",
+    "Twin pregnancy routinely",
+    "Placenta praevia",
+    "Active preterm labour with a dilated cervix and infection"
+   ],
+   "correct": 0,
+   "concept": "Cerclage benefits cervical insufficiency, classically painless progressive dilatation with recurrent mid-trimester loss, and is placed at 12 to 14 weeks. It is contraindicated with infection, bleeding, ruptured membranes or established labour.",
+   "reference": "Williams Obstetrics 26e, Cervical Insufficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "H",
+   "stem": "Fetal fibronectin testing in threatened preterm labour is most useful because:",
+   "options": [
+    "A negative result has a high negative predictive value, allowing safe avoidance of intervention",
+    "A positive result confirms delivery within 24 hours",
+    "It measures lung maturity",
+    "It replaces cervical length measurement"
+   ],
+   "correct": 0,
+   "concept": "Fetal fibronectin has high negative predictive value, so a negative test in a symptomatic woman reliably excludes imminent delivery and avoids unnecessary steroids, tocolysis and transfer; a positive test is much less specific.",
+   "reference": "Williams Obstetrics 26e, Preterm Birth",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PTL_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Preterm labour, PROM & post-term pregnancy",
+   "difficulty": "M",
+   "stem": "The commonest identifiable cause of spontaneous preterm labour is:",
+   "options": [
+    "Intrauterine or genital tract infection",
+    "Maternal hypertension",
+    "Fetal anomaly",
+    "Placenta praevia"
+   ],
+   "correct": 0,
+   "concept": "Subclinical intrauterine infection accounts for a large proportion of spontaneous preterm labour, especially at earlier gestations, followed by uterine overdistension, cervical insufficiency and abruption.",
+   "reference": "Williams Obstetrics 26e, Preterm Birth",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "E",
+   "stem": "Active management of the third stage of labour comprises:",
+   "options": [
+    "A uterotonic, controlled cord traction and uterine massage",
+    "Fundal pressure alone",
+    "Waiting 60 minutes",
+    "Immediate manual removal"
+   ],
+   "correct": 0,
+   "concept": "Active management with an oxytocic within one minute of delivery, controlled cord traction with counter-traction and uterine massage reduces postpartum haemorrhage by about 60% and is standard care.",
+   "reference": "WHO PPH Guidelines; Park 27e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "M",
+   "stem": "The uterotonic of first choice for prophylaxis of postpartum haemorrhage is:",
+   "options": [
+    "Oxytocin 10 units intramuscular",
+    "Methylergometrine in a hypertensive woman",
+    "Misoprostol always",
+    "Carboprost"
+   ],
+   "correct": 0,
+   "concept": "Oxytocin is first choice for both prevention and treatment because of its rapid onset and favourable safety profile. Ergometrine is contraindicated in hypertension and cardiac disease, and carboprost in asthma.",
+   "reference": "KDT 8e, Oxytocics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "M",
+   "stem": "Retained placenta is diagnosed when the placenta is undelivered after:",
+   "options": [
+    "30 minutes of active management of the third stage",
+    "5 minutes",
+    "2 hours",
+    "24 hours"
+   ],
+   "correct": 0,
+   "concept": "Failure of placental delivery within 30 minutes despite active management defines retained placenta, requiring manual removal under anaesthesia with antibiotic cover to prevent haemorrhage and sepsis.",
+   "reference": "DC Dutta Obstetrics 9e, Retained Placenta",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "E",
+   "stem": "Morbid adherence of the placenta to the myometrium without invading it is termed:",
+   "options": [
+    "Placenta accreta",
+    "Placenta increta",
+    "Placenta percreta",
+    "Placenta praevia"
+   ],
+   "correct": 0,
+   "concept": "Accreta adheres to superficial myometrium, increta invades the myometrium and percreta penetrates the serosa and may involve the bladder. Previous caesarean with placenta praevia is the major risk factor.",
+   "reference": "Williams Obstetrics 26e, Placenta Accreta Spectrum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "M",
+   "stem": "Acute uterine inversion most commonly results from:",
+   "options": [
+    "Mismanaged third stage with cord traction on an uncontracted uterus and fundal pressure",
+    "Prolonged second stage",
+    "Twin pregnancy",
+    "Pre-eclampsia"
+   ],
+   "correct": 0,
+   "concept": "Traction on the cord with a relaxed uterus, often with fundal pressure, inverts the fundus, causing profound shock out of proportion to blood loss from vagal stimulation. Immediate replacement by the Johnson manoeuvre before the cervix contracts is essential.",
+   "reference": "DC Dutta Obstetrics 9e, Inversion of Uterus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "M",
+   "stem": "The commonest cause of primary postpartum haemorrhage is:",
+   "options": [
+    "Uterine atony",
+    "Genital tract trauma",
+    "Retained tissue",
+    "Coagulopathy"
+   ],
+   "correct": 0,
+   "concept": "Atony accounts for about 70 to 80% of primary postpartum haemorrhage. The four Ts - tone, trauma, tissue and thrombin - provide a systematic framework, and management follows an escalating medical then surgical sequence.",
+   "reference": "DC Dutta Obstetrics 9e, PPH",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "E",
+   "stem": "The first step in managing a woman with brisk bleeding immediately after delivery is:",
+   "options": [
+    "Uterine massage with an oxytocic while calling for help and securing intravenous access",
+    "Immediate hysterectomy",
+    "Immediate laparotomy",
+    "Await spontaneous cessation"
+   ],
+   "correct": 0,
+   "concept": "Simultaneous resuscitation and cause-directed treatment are needed: massage, oxytocics, bladder emptying, examination for tears and retained tissue, then bimanual compression, balloon tamponade and surgical measures if bleeding persists.",
+   "reference": "WHO PPH Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "H",
+   "stem": "The B-Lynch suture is used to:",
+   "options": [
+    "Apply compression to the uterus in atonic postpartum haemorrhage as a uterus-conserving procedure",
+    "Repair a cervical tear",
+    "Close the uterine incision",
+    "Perform cerclage"
+   ],
+   "correct": 0,
+   "concept": "The B-Lynch brace suture compresses the anterior and posterior uterine walls together and can arrest atonic haemorrhage while conserving fertility, alongside balloon tamponade and stepwise devascularisation before resorting to hysterectomy.",
+   "reference": "Williams Obstetrics 26e, Obstetrical Haemorrhage",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "H",
+   "stem": "Tranexamic acid in postpartum haemorrhage is most effective when given:",
+   "options": [
+    "Within three hours of birth",
+    "After 6 hours",
+    "Only before delivery",
+    "Only with hysterectomy"
+   ],
+   "correct": 0,
+   "concept": "The WOMAN trial showed tranexamic acid reduces death due to bleeding when given within three hours of birth, with no benefit and possible harm thereafter. It is now recommended as an adjunct to standard care.",
+   "reference": "WOMAN Trial; WHO PPH Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_THI_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Third-stage complications, retained placenta & uterine inversion",
+   "difficulty": "M",
+   "stem": "Secondary postpartum haemorrhage occurring between 24 hours and 12 weeks is most often due to:",
+   "options": [
+    "Retained placental fragments with endometritis",
+    "Uterine atony",
+    "Cervical tear",
+    "Amniotic fluid embolism"
+   ],
+   "correct": 0,
+   "concept": "Retained products with secondary infection is the usual cause of secondary postpartum haemorrhage, treated with antibiotics and gentle evacuation; subinvolution of the placental bed is another cause.",
+   "reference": "DC Dutta Obstetrics 9e, PPH",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "E",
+   "stem": "The puerperium is conventionally defined as the period of:",
+   "options": [
+    "Six weeks after delivery",
+    "One week",
+    "Two weeks",
+    "Twelve weeks"
+   ],
+   "correct": 0,
+   "concept": "The puerperium spans about six weeks during which the reproductive organs return to the non-pregnant state; the uterus involutes from about 1000 g to 60 g and becomes non-palpable abdominally by two weeks.",
+   "reference": "DC Dutta Obstetrics 9e, Puerperium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "M",
+   "stem": "Lochia rubra normally changes to lochia serosa by about:",
+   "options": [
+    "Day 4 to 5 postpartum",
+    "Day 1",
+    "Day 14",
+    "Day 21"
+   ],
+   "correct": 0,
+   "concept": "Lochia rubra lasts about 4 days, becoming serosa until day 9 and then alba until about three weeks. Persistent red lochia suggests retained products or subinvolution, and offensive lochia suggests infection.",
+   "reference": "DC Dutta Obstetrics 9e, Puerperium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "M",
+   "stem": "The hormone principally responsible for milk ejection is:",
+   "options": [
+    "Oxytocin",
+    "Prolactin",
+    "Oestrogen",
+    "Progesterone"
+   ],
+   "correct": 0,
+   "concept": "Prolactin drives milk secretion while oxytocin, released by suckling, contracts myoepithelial cells to eject milk - the let-down reflex, which is inhibited by maternal anxiety and pain.",
+   "reference": "Ganong Review of Medical Physiology, Reproduction",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "E",
+   "stem": "Colostrum differs from mature milk in having:",
+   "options": [
+    "More protein, immunoglobulin A and vitamin A but less fat and lactose",
+    "More fat and lactose",
+    "Less protein",
+    "No immunoglobulins"
+   ],
+   "correct": 0,
+   "concept": "Colostrum, secreted for the first 3 to 4 days, is rich in protein, secretory IgA, vitamin A and minerals with less fat and lactose, and its laxative effect helps clear meconium.",
+   "reference": "Park 27e, Breastfeeding",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "M",
+   "stem": "Exclusive breastfeeding as defined by WHO means giving:",
+   "options": [
+    "Only breast milk with no other food or drink, not even water, for six months",
+    "Breast milk with water",
+    "Breast milk plus formula",
+    "Breast milk for three months"
+   ],
+   "correct": 0,
+   "concept": "Exclusive breastfeeding permits only breast milk, allowing medicines and vitamins but no water or other foods, for the first six months, followed by complementary feeding with continued breastfeeding up to two years.",
+   "reference": "Park 27e, Breastfeeding",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "M",
+   "stem": "Lactational amenorrhoea provides effective contraception only if:",
+   "options": [
+    "The infant is under six months, exclusively breastfed and the mother is amenorrhoeic",
+    "The infant is under two years",
+    "Any breastfeeding occurs",
+    "The mother has resumed menses"
+   ],
+   "correct": 0,
+   "concept": "All three conditions must hold for the lactational amenorrhoea method to give about 98% protection; failure of any one requires an alternative method, and progestogen-only pills are safe during lactation.",
+   "reference": "Park 27e, Family Planning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "E",
+   "stem": "Puerperal pyrexia is defined as a temperature of 38 degrees Celsius or more on any two of the first:",
+   "options": [
+    "Ten days postpartum, excluding the first 24 hours",
+    "Three days",
+    "Twenty days",
+    "Two days"
+   ],
+   "correct": 0,
+   "concept": "Puerperal pyrexia is fever of 38 degrees or more occurring on any two of the first ten days postpartum excluding the first 24 hours. Genital tract sepsis, urinary infection, breast infection, wound infection and venous thrombosis must be sought.",
+   "reference": "DC Dutta Obstetrics 9e, Puerperal Sepsis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "H",
+   "stem": "The commonest organism in puerperal sepsis is:",
+   "options": [
+    "Anaerobic streptococci, often as part of a polymicrobial infection",
+    "Staphylococcus aureus alone",
+    "Escherichia coli alone",
+    "Candida"
+   ],
+   "correct": 0,
+   "concept": "Puerperal genital tract sepsis is usually polymicrobial with anaerobic streptococci predominating, alongside Bacteroides, E. coli and group A streptococcus which can cause fulminant disease. Broad-spectrum antibiotics covering anaerobes are required.",
+   "reference": "DC Dutta Obstetrics 9e, Puerperal Sepsis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "H",
+   "stem": "Lactational mastitis is managed by:",
+   "options": [
+    "Continuing breastfeeding with effective milk drainage plus antistaphylococcal antibiotics",
+    "Immediately stopping breastfeeding",
+    "Aspiration in all cases",
+    "Bromocriptine"
+   ],
+   "correct": 0,
+   "concept": "Continued feeding or expression from the affected breast is essential to prevent abscess, along with cloxacillin or a cephalosporin and analgesia. Feeding is stopped only if there is frank pus, and an abscess needs drainage.",
+   "reference": "DC Dutta Obstetrics 9e, Breast Complications",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PUE_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puerperium, lactation & puerperal sepsis",
+   "difficulty": "M",
+   "stem": "Postpartum blues is distinguished from postpartum depression by:",
+   "options": [
+    "Mild, self-limiting mood symptoms resolving within two weeks without impairing function",
+    "Presence of hallucinations",
+    "Duration of more than six months",
+    "Need for electroconvulsive therapy"
+   ],
+   "correct": 0,
+   "concept": "Postpartum blues affects up to 50 to 80% of mothers, peaks around day 3 to 5 and resolves within two weeks needing only support. Depression lasting beyond two weeks with functional impairment needs treatment, and puerperal psychosis is a psychiatric emergency.",
+   "reference": "HARR 21e; Nelson 21e",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

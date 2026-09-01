@@ -1,0 +1,971 @@
+{
+ "questions": [
+  {
+   "id": "Q_OBG_IND_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "E",
+   "stem": "The Bishop score assesses the favourability of the cervix using all EXCEPT:",
+   "options": [
+    "Fetal weight",
+    "Cervical dilatation",
+    "Cervical consistency",
+    "Station of the head"
+   ],
+   "correct": 0,
+   "concept": "The Bishop score grades dilatation, effacement, consistency, position of the cervix and station of the head. A score of 6 or more is favourable; below that, cervical ripening with prostaglandin is used before oxytocin.",
+   "reference": "DC Dutta Obstetrics 9e, Induction of Labour",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "M",
+   "stem": "The agent of choice for cervical ripening in an unfavourable cervix at term is:",
+   "options": [
+    "Prostaglandin E2 gel or misoprostol",
+    "Oxytocin infusion",
+    "Ergometrine",
+    "Magnesium sulphate"
+   ],
+   "correct": 0,
+   "concept": "Prostaglandins soften and efface the cervix, unlike oxytocin which stimulates contractions without ripening. Misoprostol is cheap and effective but must be used cautiously after previous caesarean because of rupture risk.",
+   "reference": "KDT 8e, Oxytocics and Prostaglandins",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "M",
+   "stem": "Induction of labour is absolutely contraindicated in:",
+   "options": [
+    "Placenta praevia and classical caesarean scar",
+    "Post-term pregnancy",
+    "Mild pre-eclampsia",
+    "Gestational diabetes"
+   ],
+   "correct": 0,
+   "concept": "Absolute contraindications include placenta praevia, vasa praevia, transverse lie, active genital herpes, cord prolapse, previous classical caesarean or myomectomy entering the cavity, and invasive cervical carcinoma.",
+   "reference": "DC Dutta Obstetrics 9e, Induction of Labour",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "E",
+   "stem": "The prerequisite that must be satisfied before applying outlet forceps is:",
+   "options": [
+    "Fully dilated cervix with an engaged head and known position",
+    "Cervix 6 cm dilated",
+    "Unengaged head",
+    "Breech presentation"
+   ],
+   "correct": 0,
+   "concept": "Forceps require full dilatation, ruptured membranes, an engaged head with known position, adequate pelvis, empty bladder, anaesthesia and consent. Applying forceps before full dilatation causes cervical tears and fetal injury.",
+   "reference": "DC Dutta Obstetrics 9e, Forceps Delivery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "M",
+   "stem": "Compared with forceps, vacuum extraction is associated with more:",
+   "options": [
+    "Cephalhaematoma and neonatal jaundice",
+    "Facial nerve palsy",
+    "Maternal third-degree tears",
+    "Skull fracture"
+   ],
+   "correct": 0,
+   "concept": "Vacuum causes more cephalhaematoma, subgaleal haemorrhage and jaundice, while forceps cause more maternal genital tract trauma and facial nerve palsy. Vacuum is contraindicated in face presentation and before 34 weeks.",
+   "reference": "DC Dutta Obstetrics 9e, Ventouse",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "M",
+   "stem": "The commonest indication for primary caesarean section is:",
+   "options": [
+    "Failure to progress or cephalopelvic disproportion",
+    "Placenta praevia",
+    "Cord prolapse",
+    "Twin pregnancy"
+   ],
+   "correct": 0,
+   "concept": "Failure to progress with cephalopelvic disproportion is the commonest primary indication, while previous caesarean is the commonest overall indication once repeat operations are counted. Fetal distress and malpresentation follow.",
+   "reference": "DC Dutta Obstetrics 9e, Caesarean Section",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "E",
+   "stem": "The lower segment transverse (Kerr) incision is preferred over the classical incision because it:",
+   "options": [
+    "Has a much lower risk of scar rupture in a subsequent pregnancy",
+    "Is quicker",
+    "Gives better access to a transverse lie",
+    "Causes less bleeding in praevia"
+   ],
+   "correct": 0,
+   "concept": "The lower segment is thin, less vascular and heals with a strong scar, so rupture risk in a later pregnancy is about 0.5% versus 4 to 9% for a classical upper segment incision, which is why vaginal birth after caesarean is possible only with the former.",
+   "reference": "DC Dutta Obstetrics 9e, Caesarean Section",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "H",
+   "stem": "Uterine hyperstimulation during oxytocin induction is managed by:",
+   "options": [
+    "Stopping oxytocin, left lateral position, oxygen and a tocolytic such as terbutaline if needed",
+    "Increasing oxytocin",
+    "Immediate forceps",
+    "Fundal pressure"
+   ],
+   "correct": 0,
+   "concept": "Hyperstimulation with fetal heart rate abnormality is managed by stopping the infusion, repositioning, oxygen and intravenous fluids, with acute tocolysis if the pattern persists, proceeding to delivery if it does not recover.",
+   "reference": "Williams Obstetrics 26e, Induction",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "H",
+   "stem": "A woman with one previous lower segment caesarean requesting vaginal birth requires:",
+   "options": [
+    "A facility with continuous monitoring and immediate access to caesarean and blood",
+    "Routine induction with misoprostol",
+    "Elective forceps",
+    "Prolonged second stage to avoid surgery"
+   ],
+   "correct": 0,
+   "concept": "Trial of labour after caesarean succeeds in about 70% but carries around 0.5% scar rupture risk, so it needs continuous fetal monitoring in a facility able to perform immediate caesarean. Misoprostol induction is avoided.",
+   "reference": "Williams Obstetrics 26e, Prior Caesarean Delivery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_IND_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Induction, augmentation & operative obstetrics (forceps, vacuum, LSCS)",
+   "difficulty": "M",
+   "stem": "Amniotomy accelerates labour but carries the risk of:",
+   "options": [
+    "Cord prolapse and ascending infection",
+    "Uterine inversion",
+    "Placenta accreta",
+    "Postpartum psychosis"
+   ],
+   "correct": 0,
+   "concept": "Artificial rupture of membranes shortens labour and allows assessment of liquor colour, but risks cord prolapse, especially with a high or unengaged head or malpresentation, and ascending infection with prolonged labour.",
+   "reference": "DC Dutta Obstetrics 9e, Induction of Labour",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "E",
+   "stem": "The first sign of puberty in girls is:",
+   "options": [
+    "Breast budding (thelarche)",
+    "Menarche",
+    "Pubarche",
+    "Growth spurt completion"
+   ],
+   "correct": 0,
+   "concept": "Thelarche is the first visible change, followed by pubarche, the growth spurt and finally menarche about 2 to 2.5 years later. Any deviation from this sequence needs endocrine evaluation.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Puberty",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "M",
+   "stem": "Primary amenorrhoea is defined as absence of menstruation by age:",
+   "options": [
+    "15 years with secondary sexual characteristics, or 13 years without them",
+    "10 years",
+    "18 years",
+    "20 years"
+   ],
+   "correct": 0,
+   "concept": "Evaluation begins at 15 years if secondary sexual characteristics are present, or at 13 if they are absent, or 3 years after thelarche. Earlier evaluation is warranted with clinical clues such as short stature or virilisation.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Amenorrhoea",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "M",
+   "stem": "The commonest cause of primary amenorrhoea is:",
+   "options": [
+    "Gonadal dysgenesis, most often Turner syndrome",
+    "Mullerian agenesis",
+    "Imperforate hymen",
+    "Prolactinoma"
+   ],
+   "correct": 0,
+   "concept": "Gonadal dysgenesis, typically 45,XO Turner syndrome with streak ovaries, high FSH and short stature, is the commonest cause. Mullerian agenesis (Mayer-Rokitansky) is second and presents with normal secondary characteristics and absent uterus.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Amenorrhoea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "E",
+   "stem": "The commonest cause of secondary amenorrhoea in a sexually active woman is:",
+   "options": [
+    "Pregnancy",
+    "Polycystic ovary syndrome",
+    "Premature ovarian insufficiency",
+    "Asherman syndrome"
+   ],
+   "correct": 0,
+   "concept": "Pregnancy must always be excluded first with a urine or serum hCG before any other investigation. Thereafter polycystic ovary syndrome, hyperprolactinaemia, thyroid disease and hypothalamic causes are considered.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Amenorrhoea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "M",
+   "stem": "Asherman syndrome causes amenorrhoea due to:",
+   "options": [
+    "Intrauterine adhesions following vigorous curettage or infection",
+    "Ovarian failure",
+    "Pituitary infarction",
+    "Androgen insensitivity"
+   ],
+   "correct": 0,
+   "concept": "Intrauterine synechiae obliterate the cavity, giving amenorrhoea or hypomenorrhoea with cyclical pain and infertility despite normal ovulation and a positive progesterone challenge failing to induce bleeding. Hysteroscopic adhesiolysis is the treatment.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Amenorrhoea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "M",
+   "stem": "The PALM-COEIN classification of abnormal uterine bleeding classifies leiomyoma under:",
+   "options": [
+    "Structural causes",
+    "Non-structural causes",
+    "Iatrogenic causes",
+    "Coagulopathy"
+   ],
+   "correct": 0,
+   "concept": "PALM covers structural causes - polyp, adenomyosis, leiomyoma, malignancy and hyperplasia - and COEIN the non-structural - coagulopathy, ovulatory dysfunction, endometrial, iatrogenic and not otherwise classified.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Abnormal Uterine Bleeding",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "E",
+   "stem": "The investigation of choice to exclude endometrial carcinoma in a woman over 40 with abnormal uterine bleeding is:",
+   "options": [
+    "Endometrial biopsy or dilatation and curettage",
+    "Pap smear",
+    "Serum CA-125",
+    "Plain radiograph of pelvis"
+   ],
+   "correct": 0,
+   "concept": "Endometrial sampling is mandatory in abnormal bleeding above 40, or younger with risk factors such as obesity, anovulation or tamoxifen. Transvaginal ultrasound assessing endometrial thickness complements but does not replace it.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Abnormal Uterine Bleeding",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "H",
+   "stem": "The most effective medical treatment for heavy menstrual bleeding in a woman wanting to retain her uterus is:",
+   "options": [
+    "Levonorgestrel-releasing intrauterine system",
+    "Cyclical progestogen for 10 days",
+    "Ethamsylate",
+    "Combined oral contraceptive for 3 months only"
+   ],
+   "correct": 0,
+   "concept": "The levonorgestrel intrauterine system reduces menstrual blood loss by 80 to 95% and is the most effective medical option, often avoiding hysterectomy. Tranexamic acid and NSAIDs are effective non-hormonal alternatives.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Abnormal Uterine Bleeding",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "H",
+   "stem": "Precocious puberty in girls is defined as onset of secondary sexual characteristics before:",
+   "options": [
+    "8 years of age",
+    "10 years",
+    "6 years",
+    "12 years"
+   ],
+   "correct": 0,
+   "concept": "Development before 8 years in girls or 9 in boys defines precocious puberty. Central causes are gonadotropin-dependent, most often idiopathic in girls, and are treated with GnRH agonists to preserve final adult height.",
+   "reference": "Nelson 21e, Precocious Puberty",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_AUB_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Puberty, amenorrhoea & abnormal uterine bleeding",
+   "difficulty": "M",
+   "stem": "In polycystic ovary syndrome, the Rotterdam criteria require any two of:",
+   "options": [
+    "Oligo-ovulation, clinical or biochemical hyperandrogenism, and polycystic ovarian morphology",
+    "Obesity, insulin resistance and acne",
+    "Amenorrhoea, obesity and infertility",
+    "Raised LH, raised FSH and hirsutism"
+   ],
+   "correct": 0,
+   "concept": "Two of the three Rotterdam criteria establish the diagnosis after excluding thyroid disease, hyperprolactinaemia and congenital adrenal hyperplasia. Weight reduction is first-line, with letrozole preferred for ovulation induction.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, PCOS",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "E",
+   "stem": "Infertility is defined as failure to conceive after:",
+   "options": [
+    "One year of regular unprotected intercourse",
+    "Three months",
+    "Six months",
+    "Two years"
+   ],
+   "correct": 0,
+   "concept": "Twelve months of regular unprotected intercourse defines infertility, though evaluation begins earlier if the woman is over 35 or there is a known cause such as amenorrhoea, previous pelvic infection or undescended testes.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Infertility",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "M",
+   "stem": "The single commonest identifiable cause of female infertility in India is:",
+   "options": [
+    "Tubal factor, largely from genital tuberculosis and pelvic inflammatory disease",
+    "Uterine anomaly",
+    "Cervical factor",
+    "Endometriosis"
+   ],
+   "correct": 0,
+   "concept": "Tubal disease from genital tuberculosis and pelvic inflammatory disease is the leading female cause in India, followed by ovulatory dysfunction. Male factor contributes to about 30 to 40% of couples.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Infertility",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "M",
+   "stem": "The first-line investigation of the male partner in an infertile couple is:",
+   "options": [
+    "Semen analysis",
+    "Testicular biopsy",
+    "Serum testosterone",
+    "Scrotal Doppler"
+   ],
+   "correct": 0,
+   "concept": "Semen analysis is the essential first test and should be repeated after 2 to 3 months if abnormal. WHO reference values include volume 1.5 mL or more, concentration 15 million per mL, total motility 40% and normal forms 4%.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Infertility",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "E",
+   "stem": "Tubal patency is most commonly assessed by:",
+   "options": [
+    "Hysterosalpingography or saline infusion sonohysterography",
+    "Ultrasound alone",
+    "Serum progesterone",
+    "Endometrial biopsy"
+   ],
+   "correct": 0,
+   "concept": "Hysterosalpingography demonstrates tubal patency and uterine cavity contour and has a mild therapeutic flushing effect; laparoscopy with chromopertubation remains the gold standard and allows treatment of adhesions and endometriosis.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Infertility",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "M",
+   "stem": "Ovulation is best confirmed by:",
+   "options": [
+    "A mid-luteal serum progesterone above 3 to 5 ng/mL on day 21",
+    "Basal body temperature alone",
+    "Cervical mucus changes",
+    "LH on day 3"
+   ],
+   "correct": 0,
+   "concept": "Mid-luteal progesterone is the simplest reliable confirmation of ovulation. Follicular tracking by serial ultrasound documenting collapse of the follicle is more precise, and basal body temperature is unreliable.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Infertility",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "M",
+   "stem": "The current first-line drug for ovulation induction in polycystic ovary syndrome is:",
+   "options": [
+    "Letrozole",
+    "Clomiphene citrate",
+    "Human menopausal gonadotropin",
+    "Bromocriptine"
+   ],
+   "correct": 0,
+   "concept": "Letrozole, an aromatase inhibitor, gives higher live birth rates than clomiphene in polycystic ovary syndrome with fewer multiple pregnancies and no antioestrogenic effect on the endometrium.",
+   "reference": "KDT 8e, Drugs for Infertility",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "E",
+   "stem": "Intracytoplasmic sperm injection is specifically indicated for:",
+   "options": [
+    "Severe oligospermia or azoospermia requiring surgical sperm retrieval",
+    "Tubal block with normal semen",
+    "Anovulation",
+    "Cervical factor"
+   ],
+   "correct": 0,
+   "concept": "ICSI injects a single spermatozoon directly into the oocyte and is the treatment for severe male factor infertility, including sperm retrieved by TESA or PESA in obstructive azoospermia. Conventional IVF suffices for tubal factor with normal semen.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, ART",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "H",
+   "stem": "Ovarian hyperstimulation syndrome is characterised by:",
+   "options": [
+    "Ovarian enlargement with third space fluid shift, haemoconcentration and thrombosis risk",
+    "Ovarian atrophy",
+    "Hypercalcaemia",
+    "Isolated fever"
+   ],
+   "correct": 0,
+   "concept": "Excessive VEGF-mediated capillary permeability after gonadotropin stimulation causes ascites, pleural effusion, haemoconcentration, oliguria and thromboembolism. Risk factors include polycystic ovaries, young age and high oestradiol, and it is prevented by cycle segmentation with a GnRH agonist trigger.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, ART",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "H",
+   "stem": "Anti-Mullerian hormone is used in fertility assessment because it:",
+   "options": [
+    "Reflects the ovarian reserve and is relatively cycle-independent",
+    "Confirms ovulation",
+    "Diagnoses tubal block",
+    "Predicts implantation"
+   ],
+   "correct": 0,
+   "concept": "AMH produced by granulosa cells of small follicles correlates with the antral follicle count and predicts ovarian response to stimulation, with the advantage of little variation across the cycle, unlike day-3 FSH.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Infertility",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_INFT_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Infertility & assisted reproduction",
+   "difficulty": "M",
+   "stem": "Under the Indian ART and Surrogacy legislation, commercial surrogacy is:",
+   "options": [
+    "Prohibited, with only altruistic surrogacy permitted for eligible couples",
+    "Freely permitted",
+    "Permitted for foreign nationals",
+    "Unregulated"
+   ],
+   "correct": 0,
+   "concept": "The Surrogacy (Regulation) Act 2021 and the ART (Regulation) Act 2021 prohibit commercial surrogacy, allowing only altruistic surrogacy by a close relative for eligible Indian couples, and mandate registration of ART clinics and banks.",
+   "reference": "Surrogacy (Regulation) Act 2021",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "E",
+   "stem": "The classical triad of symptoms in endometriosis is:",
+   "options": [
+    "Dysmenorrhoea, dyspareunia and infertility",
+    "Fever, discharge and bleeding",
+    "Amenorrhoea, obesity and hirsutism",
+    "Prolapse, incontinence and constipation"
+   ],
+   "correct": 0,
+   "concept": "Endometriosis typically causes secondary dysmenorrhoea beginning before menses, deep dyspareunia, chronic pelvic pain and infertility. Symptom severity correlates poorly with the extent of disease.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Endometriosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "M",
+   "stem": "The commonest site of endometriosis is:",
+   "options": [
+    "The ovary",
+    "The rectovaginal septum",
+    "The umbilicus",
+    "The lung"
+   ],
+   "correct": 0,
+   "concept": "The ovary is the commonest site, forming chocolate cysts (endometriomas). The uterosacral ligaments and pouch of Douglas follow, consistent with retrograde menstruation as the leading aetiological theory.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Endometriosis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "M",
+   "stem": "The gold standard for diagnosing endometriosis is:",
+   "options": [
+    "Laparoscopy with histological confirmation",
+    "Transvaginal ultrasound",
+    "Serum CA-125",
+    "MRI"
+   ],
+   "correct": 0,
+   "concept": "Direct laparoscopic visualisation of powder-burn lesions, adhesions and endometriomas with biopsy remains the gold standard. CA-125 may be mildly raised but is non-specific, and imaging detects only endometriomas and deep disease.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Endometriosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "E",
+   "stem": "Adenomyosis characteristically presents with:",
+   "options": [
+    "Menorrhagia with dysmenorrhoea in a diffusely bulky tender uterus in a parous woman over 35",
+    "Amenorrhoea in a nullipara",
+    "Postmenopausal bleeding",
+    "Acute pelvic pain in adolescence"
+   ],
+   "correct": 0,
+   "concept": "Adenomyosis is endometrial tissue within the myometrium, giving a symmetrically enlarged tender uterus with heavy painful periods, typically in multiparous women over 35. MRI or transvaginal ultrasound shows myometrial junctional zone thickening.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Adenomyosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "M",
+   "stem": "The definitive treatment of adenomyosis in a woman who has completed her family is:",
+   "options": [
+    "Hysterectomy",
+    "Myomectomy",
+    "Endometrial ablation",
+    "Uterine artery embolisation"
+   ],
+   "correct": 0,
+   "concept": "Because the lesion is diffusely within the myometrium, hysterectomy is definitive. The levonorgestrel intrauterine system, GnRH analogues and uterine artery embolisation are uterus-conserving options for younger women.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Adenomyosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "M",
+   "stem": "Medical management of endometriosis works principally by:",
+   "options": [
+    "Inducing a hypo-oestrogenic or progestogen-dominant state to cause atrophy of ectopic endometrium",
+    "Increasing oestrogen",
+    "Stimulating ovulation",
+    "Antibiotic eradication"
+   ],
+   "correct": 0,
+   "concept": "Continuous progestogens, combined oral contraceptives, GnRH analogues with add-back therapy and dienogest all suppress ovarian oestrogen or oppose it, causing decidualisation and atrophy of implants. They relieve pain but do not improve fertility.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "E",
+   "stem": "Endometriosis affecting the ovary forms a cyst known as:",
+   "options": [
+    "A chocolate cyst",
+    "A dermoid cyst",
+    "A follicular cyst",
+    "A theca lutein cyst"
+   ],
+   "correct": 0,
+   "concept": "An endometrioma contains altered thick brown blood resembling melted chocolate, is densely adherent, and its rupture causes intense peritonism. It must be distinguished from a haemorrhagic corpus luteum cyst.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Endometriosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "H",
+   "stem": "Deep infiltrating endometriosis of the rectovaginal septum is best assessed by:",
+   "options": [
+    "Magnetic resonance imaging or specialised transvaginal ultrasound",
+    "Plain radiography",
+    "Hysterosalpingography",
+    "Serum CA-125 alone"
+   ],
+   "correct": 0,
+   "concept": "MRI maps depth of infiltration, bowel and ureteric involvement, which is essential for planning multidisciplinary surgery. Laparoscopy alone can underestimate retroperitoneal disease.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Endometriosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "H",
+   "stem": "In a woman with endometriosis-related infertility and minimal disease, the intervention that improves conception is:",
+   "options": [
+    "Laparoscopic ablation or excision of visible lesions",
+    "Six months of GnMH analogue therapy",
+    "Combined oral contraceptive pills",
+    "Danazol for one year"
+   ],
+   "correct": 0,
+   "concept": "Surgical ablation of minimal to mild disease modestly improves spontaneous conception rates, whereas medical suppression does not improve fertility because it is contraceptive during use. Endometrioma excision before IVF is individualised.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Endometriosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_END_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Endometriosis, adenomyosis & chronic pelvic pain",
+   "difficulty": "M",
+   "stem": "The commonest gynaecological cause of chronic pelvic pain is:",
+   "options": [
+    "Endometriosis",
+    "Ovarian carcinoma",
+    "Uterine fibroid",
+    "Bartholin cyst"
+   ],
+   "correct": 0,
+   "concept": "Endometriosis, chronic pelvic inflammatory disease with adhesions and pelvic congestion syndrome are the leading gynaecological causes, but non-gynaecological causes such as irritable bowel syndrome and interstitial cystitis must also be considered.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Chronic Pelvic Pain",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

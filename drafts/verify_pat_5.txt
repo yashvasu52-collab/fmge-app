@@ -1,0 +1,44 @@
+Q_PAT_IMM_013 | del | duplicate of Q_PAT_IMM_001 on hyperacute rejection from preformed antibody. The first item is retained
+Q_PAT_LNG_001 | del | duplicate of Q_PAT_LNG_015, which gives the same smoking-related centriacinar emphysema and additionally the panacinar pattern of alpha-1 antitrypsin deficiency. The fuller item is retained
+Q_PAT_LNG_002 | del | duplicate of Q_PAT_LNG_013, which gives the same clinical definition of chronic bronchitis and additionally the anatomical definition of emphysema. The fuller item is retained
+Q_PAT_LNG_014 | del | duplicate of Q_PAT_LNG_004, whose key already gives the SIADH and Cushing syndrome of small cell carcinoma. The first item is retained
+Q_PAT_LNG_012 | del | duplicate of Q_PAT_LNG_006 on silicosis with eggshell calcification and increased tuberculosis risk. The first item is retained
+Q_PAT_GEN2_001 | del | duplicate of Q_PAT_GEN2_013, which gives the same peripheral zone origin and additionally the transitional zone origin of hyperplasia. The fuller item is retained
+Q_PAT_GEN2_002 | del | duplicate of Q_PAT_GEN2_014 on the Gleason system grading glandular architecture. The item that also contrasts nuclear grading systems is retained
+Q_PAT_IMM_015 | ok |
+Q_PAT_IMM_016 | ok |
+Q_PAT_LAC_001 | ok |
+Q_PAT_LAC_002 | ok |
+Q_PAT_LAC_003 | ok |
+Q_PAT_LAC_004 | ok |
+Q_PAT_LAC_005 | ok |
+Q_PAT_LAC_006 | ok |
+Q_PAT_LAC_007 | ok |
+Q_PAT_LAC_008 | ok |
+Q_PAT_LNG_004 | ok |
+Q_PAT_LNG_005 | ok |
+Q_PAT_LNG_006 | ok |
+Q_PAT_LNG_007 | ok |
+Q_PAT_LNG_009 | ok |
+Q_PAT_LNG_010 | ok |
+Q_PAT_LNG_011 | ok |
+Q_PAT_LNG_013 | ok |
+Q_PAT_LNG_015 | ok |
+Q_PAT_LNG_016 | ok |
+Q_PAT_GEN2_003 | ok |
+Q_PAT_GEN2_004 | ok |
+Q_PAT_GEN2_005 | ok |
+Q_PAT_GEN2_006 | ok |
+Q_PAT_GEN2_007 | ok |
+Q_PAT_GEN2_008 | ok |
+Q_PAT_GEN2_009 | ok |
+Q_PAT_GEN2_010 | ok |
+Q_PAT_GEN2_012 | ok |
+Q_PAT_GEN2_013 | ok |
+Q_PAT_GEN2_014 | ok |
+Q_PAT_GEN2_015 | ok |
+Q_PAT_GEN2_016 | ok |
+Q_PAT_MDS_001 | ok |
+Q_PAT_MDS_002 | ok |
+Q_PAT_MDS_003 | ok |
+Q_PAT_MDS_004 | ok |

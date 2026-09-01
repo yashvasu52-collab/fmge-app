@@ -1,0 +1,529 @@
+{
+ "questions": [
+  {
+   "id": "Q_SUR_USB_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urinary stones, BPH, hematuria",
+   "difficulty": "E",
+   "stem": "Which imaging is the investigation of choice for acute renal colic?",
+   "options": [
+    "Non-contrast computed tomography of the kidneys, ureters and bladder",
+    "Intravenous urography",
+    "Plain radiograph",
+    "Magnetic resonance urography"
+   ],
+   "correct": 0,
+   "concept": "It detects stones of almost any composition including radiolucent uric acid stones, defines size and site, and identifies alternative diagnoses, though ultrasound is preferred in pregnancy and in children.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Urinary Tract"
+  },
+  {
+   "id": "Q_SUR_USB_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urinary stones, BPH, hematuria",
+   "difficulty": "E",
+   "stem": "Which stone type is radiolucent on plain radiography and may dissolve with urinary alkalinisation?",
+   "options": [
+    "Uric acid stone",
+    "Calcium oxalate stone",
+    "Struvite stone",
+    "Cystine stone"
+   ],
+   "correct": 0,
+   "concept": "Alkalinising the urine to a pH above 6.5 with potassium citrate, with allopurinol where indicated, can dissolve these stones, which is the only stone type reliably amenable to medical dissolution.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Urinary Tract"
+  },
+  {
+   "id": "Q_SUR_USB_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urinary stones, BPH, hematuria",
+   "difficulty": "E",
+   "stem": "Which organism is associated with struvite staghorn calculi, and by what mechanism?",
+   "options": [
+    "Urease-producing organisms such as Proteus, which raise urinary pH and precipitate magnesium ammonium phosphate",
+    "Escherichia coli, by lowering pH",
+    "Pseudomonas, by producing oxalate",
+    "Staphylococcus, by producing cystine"
+   ],
+   "correct": 0,
+   "concept": "Because the stone harbours bacteria, complete surgical clearance rather than antibiotics alone is required, and residual fragments cause recurrent infection.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Urinary Tract"
+  },
+  {
+   "id": "Q_SUR_USB_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urinary stones, BPH, hematuria",
+   "difficulty": "M",
+   "stem": "Which stone size and location is most likely to pass spontaneously with medical expulsive therapy?",
+   "options": [
+    "A stone under 5 mm in the distal ureter",
+    "A 10 mm stone in the proximal ureter",
+    "A staghorn calculus",
+    "A 15 mm renal pelvic stone"
+   ],
+   "correct": 0,
+   "concept": "Analgesia with hydration and, in selected cases, an alpha blocker supports passage, while larger or proximal stones and any obstruction with infection require intervention.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Urinary Tract"
+  },
+  {
+   "id": "Q_SUR_USB_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urinary stones, BPH, hematuria",
+   "difficulty": "M",
+   "stem": "Which presentation of urolithiasis requires emergency decompression rather than elective treatment?",
+   "options": [
+    "An obstructed infected system with fever and systemic sepsis",
+    "Renal colic with vomiting",
+    "A 4 mm stone with microscopic haematuria",
+    "Bilateral non-obstructing renal stones"
+   ],
+   "correct": 0,
+   "concept": "Percutaneous nephrostomy or a ureteric stent relieves the obstruction, and definitive stone treatment is deferred until the infection is controlled because instrumenting an infected system can precipitate septic shock.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Urinary Tract"
+  },
+  {
+   "id": "Q_SUR_USB_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urinary stones, BPH, hematuria",
+   "difficulty": "M",
+   "stem": "Which class of drug shrinks the prostate over months by inhibiting conversion of testosterone to dihydrotestosterone?",
+   "options": [
+    "A 5-alpha reductase inhibitor such as finasteride",
+    "An alpha blocker such as tamsulosin",
+    "An anticholinergic",
+    "A phosphodiesterase-5 inhibitor"
+   ],
+   "correct": 0,
+   "concept": "Alpha blockers relieve symptoms within days by relaxing smooth muscle, whereas 5-alpha reductase inhibitors take 6 months, reduce prostate volume and lower the risk of retention and surgery, and they halve the prostate-specific antigen.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Urinary Tract"
+  },
+  {
+   "id": "Q_SUR_USB_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urinary stones, BPH, hematuria",
+   "difficulty": "H",
+   "stem": "Why does painless visible haematuria in an adult require full urinary tract investigation even if it settles?",
+   "options": [
+    "It is the cardinal presentation of urothelial malignancy, and intermittency does not reduce the risk",
+    "It is always due to infection",
+    "It resolves without significance",
+    "Only persistent bleeding matters"
+   ],
+   "correct": 0,
+   "concept": "Evaluation combines upper tract imaging with cystoscopy, because ultrasound alone misses small bladder tumours and cytology has limited sensitivity for low-grade disease.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Urinary Tract"
+  },
+  {
+   "id": "Q_SUR_URO_011",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "E",
+   "stem": "Which finding on transillumination and palpation distinguishes a hydrocele from a testicular tumour?",
+   "options": [
+    "A hydrocele transilluminates and the testis cannot be felt separately, whereas a tumour is opaque and hard",
+    "Both transilluminate",
+    "A tumour transilluminates brightly",
+    "Neither can be examined clinically"
+   ],
+   "correct": 0,
+   "concept": "Ultrasound is used when the testis cannot be palpated, because a tumour with a secondary hydrocele must not be mistaken for a simple one.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Kidneys and Genitourinary Tract"
+  },
+  {
+   "id": "Q_SUR_URO_012",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "E",
+   "stem": "Which tumour marker pattern indicates a non-seminomatous element in a testicular germ cell tumour?",
+   "options": [
+    "A raised alpha-fetoprotein",
+    "A raised lactate dehydrogenase only",
+    "A raised placental alkaline phosphatase only",
+    "A normal beta-hCG"
+   ],
+   "correct": 0,
+   "concept": "Pure seminoma never raises alpha-fetoprotein, so its elevation mandates treatment as a non-seminomatous tumour regardless of the histology reported.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Kidneys and Genitourinary Tract"
+  },
+  {
+   "id": "Q_SUR_URO_013",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "E",
+   "stem": "Which surgical approach is used for a suspected testicular tumour, and why?",
+   "options": [
+    "Inguinal orchidectomy with high cord ligation, avoiding a scrotal incision which would alter lymphatic drainage",
+    "Scrotal orchidectomy",
+    "Trans-scrotal biopsy first",
+    "Laparoscopic orchidectomy"
+   ],
+   "correct": 0,
+   "concept": "Testicular lymphatics drain to the para-aortic nodes along the cord, so violating the scrotum introduces inguinal nodal spread and complicates staging and radiotherapy planning.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Kidneys and Genitourinary Tract"
+  },
+  {
+   "id": "Q_SUR_URO_014",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "M",
+   "stem": "Which type of bladder cancer is associated with chronic schistosomiasis, and how does it differ in behaviour?",
+   "options": [
+    "Squamous cell carcinoma, which tends to be muscle-invasive at presentation and less responsive to intravesical therapy",
+    "Urothelial carcinoma, which is superficial",
+    "Adenocarcinoma from urachal remnants",
+    "Small cell carcinoma"
+   ],
+   "correct": 0,
+   "concept": "In non-endemic areas urothelial carcinoma predominates and smoking is the main risk factor, and most cases present as non-muscle-invasive disease managed by resection with intravesical therapy.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Kidneys and Genitourinary Tract"
+  },
+  {
+   "id": "Q_SUR_URO_015",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "M",
+   "stem": "Which intravesical agent reduces recurrence and progression in high-risk non-muscle-invasive bladder cancer?",
+   "options": [
+    "Bacille Calmette-Guerin immunotherapy",
+    "Mitomycin as the preferred agent for high risk",
+    "Gemcitabine",
+    "Cisplatin"
+   ],
+   "correct": 0,
+   "concept": "Mitomycin is used for intermediate-risk disease and as a single postoperative instillation, whereas BCG with maintenance is standard for high-grade and carcinoma in situ.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Kidneys and Genitourinary Tract"
+  },
+  {
+   "id": "Q_SUR_URO_016",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "H",
+   "stem": "Why is circumcision indicated for pathological phimosis but not for physiological non-retractility in a young boy?",
+   "options": [
+    "Balanitis xerotica obliterans produces a scarred non-retractile prepuce that will not resolve, whereas physiological adhesions separate spontaneously with growth",
+    "All non-retractile foreskins require surgery",
+    "Physiological phimosis causes obstruction",
+    "Circumcision is never indicated"
+   ],
+   "correct": 0,
+   "concept": "Forcible retraction of a physiologically adherent foreskin causes scarring and can create the very problem the operation would then be needed to correct.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. The Kidneys and Genitourinary Tract"
+  },
+  {
+   "id": "Q_SUR_VAS_011",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "E",
+   "stem": "Which bedside measurement quantifies the severity of peripheral arterial disease, and what value indicates critical ischaemia?",
+   "options": [
+    "The ankle brachial pressure index, with a value below 0.4 indicating critical ischaemia",
+    "Capillary refill time, with 3 seconds indicating critical ischaemia",
+    "Toe temperature",
+    "Pulse volume alone"
+   ],
+   "correct": 0,
+   "concept": "The index is falsely high in diabetes and renal failure because of medial calcification, in which case toe pressures or transcutaneous oxygen measurement are used instead.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Arterial and Venous Disorders"
+  },
+  {
+   "id": "Q_SUR_VAS_012",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "E",
+   "stem": "Which intervention gives the greatest improvement in walking distance in stable intermittent claudication?",
+   "options": [
+    "A supervised exercise programme with smoking cessation and best medical therapy",
+    "Immediate angioplasty",
+    "Bypass surgery",
+    "Vasodilator drugs"
+   ],
+   "correct": 0,
+   "concept": "Because claudication rarely progresses to limb loss, the priorities are cardiovascular risk reduction with a statin and antiplatelet and functional improvement, with intervention reserved for lifestyle-limiting or critical disease.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Arterial and Venous Disorders"
+  },
+  {
+   "id": "Q_SUR_VAS_013",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "E",
+   "stem": "Which classification describes the six-hour window and the features distinguishing viable from irreversibly ischaemic limb?",
+   "options": [
+    "The Rutherford classification of acute limb ischaemia, based on sensory loss, motor deficit and Doppler signals",
+    "The Fontaine classification",
+    "The CEAP classification",
+    "The Wagner classification"
+   ],
+   "correct": 0,
+   "concept": "A limb with profound paralysis and absent Doppler signals is irreversible and requires amputation, whereas a threatened limb requires immediate revascularisation.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Arterial and Venous Disorders"
+  },
+  {
+   "id": "Q_SUR_VAS_014",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "M",
+   "stem": "Which finding indicates that a varicose vein problem arises from saphenofemoral incompetence?",
+   "options": [
+    "Reflux at the saphenofemoral junction on duplex ultrasound with a positive tourniquet test at the groin",
+    "Reflux at the popliteal fossa",
+    "Perforator incompetence in the calf",
+    "Deep venous obstruction"
+   ],
+   "correct": 0,
+   "concept": "Duplex has replaced clinical tests as the mapping tool, and treatment is directed at the highest point of reflux, most often by endovenous thermal or chemical ablation.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Arterial and Venous Disorders"
+  },
+  {
+   "id": "Q_SUR_VAS_015",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "M",
+   "stem": "Which feature distinguishes a venous from an arterial leg ulcer?",
+   "options": [
+    "A shallow ulcer in the gaiter area with surrounding pigmentation and oedema, with palpable pulses",
+    "A deep punched-out ulcer over the malleolus with absent pulses",
+    "A painless plantar ulcer with intact pulses",
+    "An ulcer with rolled everted edges"
+   ],
+   "correct": 0,
+   "concept": "Compression is the treatment for venous ulceration but is dangerous in arterial disease, which is why the ankle brachial index must be measured before bandaging.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Arterial and Venous Disorders"
+  },
+  {
+   "id": "Q_SUR_VAS_016",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "H",
+   "stem": "Why is an abdominal aortic aneurysm repaired at a diameter of about 5.5 cm rather than earlier?",
+   "options": [
+    "Below that size the annual rupture risk is lower than the operative mortality, so surveillance is safer",
+    "Smaller aneurysms never rupture",
+    "Repair is technically impossible when smaller",
+    "The diameter cannot be measured accurately"
+   ],
+   "correct": 0,
+   "concept": "Rapid expansion of more than 1 cm per year, symptoms, or a lower threshold in women shift the balance toward earlier repair, and the decision is individualised.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Arterial and Venous Disorders"
+  },
+  {
+   "id": "Q_SUR_WND_011",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "E",
+   "stem": "Which phase of wound healing accounts for the gain in tensile strength over weeks to months?",
+   "options": [
+    "The maturation and remodelling phase, with replacement of type III by cross-linked type I collagen",
+    "The inflammatory phase",
+    "The proliferative phase",
+    "The haemostatic phase"
+   ],
+   "correct": 0,
+   "concept": "Tensile strength is only about 10 percent at one week and plateaus at 70 to 80 percent of normal, so a wound never regains its original strength.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Wound Healing and Surgical Infection"
+  },
+  {
+   "id": "Q_SUR_WND_012",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "E",
+   "stem": "Which classification of surgical wound carries the highest expected infection rate?",
+   "options": [
+    "Dirty or infected, as in surgery on established infection or perforated viscus",
+    "Clean",
+    "Clean-contaminated",
+    "Contaminated"
+   ],
+   "correct": 0,
+   "concept": "Expected rates rise from under 2 percent for clean wounds to over 25 percent for dirty wounds, which is why the classification guides prophylaxis and consent.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Wound Healing and Surgical Infection"
+  },
+  {
+   "id": "Q_SUR_WND_013",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "E",
+   "stem": "Which suture material is absorbable, monofilament and suitable for a subcuticular closure?",
+   "options": [
+    "Poliglecaprone or polydioxanone",
+    "Silk",
+    "Polypropylene",
+    "Braided polyester"
+   ],
+   "correct": 0,
+   "concept": "Monofilament materials harbour fewer bacteria than braided ones, and matching the absorption time to the tissue healing rate governs the choice, with polydioxanone lasting far longer than poliglecaprone.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Wound Healing and Surgical Infection"
+  },
+  {
+   "id": "Q_SUR_WND_014",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "M",
+   "stem": "Which factor most strongly increases the risk of surgical site infection and is modifiable before elective surgery?",
+   "options": [
+    "Smoking, along with poor glycaemic control, obesity and malnutrition",
+    "Blood group",
+    "Male sex",
+    "Time of day of surgery"
+   ],
+   "correct": 0,
+   "concept": "Perioperative normothermia, normoglycaemia, appropriate hair removal with clippers and correctly timed antibiotic prophylaxis form the evidence-based bundle for prevention.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Wound Healing and Surgical Infection"
+  },
+  {
+   "id": "Q_SUR_WND_015",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "M",
+   "stem": "Which timing of antibiotic prophylaxis achieves the lowest surgical site infection rate?",
+   "options": [
+    "Within 60 minutes before skin incision, with redosing for long operations or major blood loss",
+    "At induction of anaesthesia only for clean cases",
+    "Immediately after wound closure",
+    "For 5 days postoperatively"
+   ],
+   "correct": 0,
+   "concept": "Prolonging prophylaxis beyond 24 hours adds resistance and Clostridioides difficile risk without reducing infection, which is a central stewardship message in surgery.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Wound Healing and Surgical Infection"
+  },
+  {
+   "id": "Q_SUR_WND_016",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Wound healing, surgical site infection & sutures",
+   "difficulty": "H",
+   "stem": "Why does a wound heal by secondary intention with more contraction and a worse scar than one closed primarily?",
+   "options": [
+    "The larger tissue defect is filled by granulation tissue with abundant myofibroblasts, which contract the wound margins",
+    "Collagen is not produced",
+    "Epithelialisation does not occur",
+    "Inflammation is absent"
+   ],
+   "correct": 0,
+   "concept": "This is why contractures form across joints and why grafting or flap cover is used to prevent functional loss in large defects.",
+   "reference": "Bailey & Love's Short Practice of Surgery 27e, Ch. Wound Healing and Surgical Infection"
+  }
+ ]
+}

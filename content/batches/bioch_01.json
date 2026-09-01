@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_BC_ENZ_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "E",
+   "stem": "The Michaelis constant Km represents:",
+   "options": [
+    "The substrate concentration at half maximal velocity, inversely related to enzyme affinity",
+    "Maximum velocity",
+    "Enzyme concentration",
+    "Product concentration"
+   ],
+   "correct": 0,
+   "concept": "A low Km indicates high affinity. Hexokinase has a low Km working at all glucose levels, while glucokinase in the liver has a high Km, acting only when glucose is abundant after a meal.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Enzymes",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "M",
+   "stem": "A competitive inhibitor characteristically:",
+   "options": [
+    "Increases Km without changing Vmax, and can be overcome by excess substrate",
+    "Decreases Vmax",
+    "Changes neither",
+    "Is irreversible"
+   ],
+   "correct": 0,
+   "concept": "Non-competitive inhibitors reduce Vmax with unchanged Km. Ethanol competitively inhibiting alcohol dehydrogenase is the therapeutic basis of treating methanol and ethylene glycol poisoning.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Enzymes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "M",
+   "stem": "Allosteric enzymes characteristically show:",
+   "options": [
+    "Sigmoid kinetics with regulation at a site distinct from the active site",
+    "Hyperbolic kinetics",
+    "No regulation",
+    "Irreversible inhibition"
+   ],
+   "correct": 0,
+   "concept": "Phosphofructokinase-1 is the key allosteric regulator and rate-limiting enzyme of glycolysis, inhibited by ATP and citrate and activated by AMP and fructose-2,6-bisphosphate.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Enzymes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "E",
+   "stem": "The cardiac biomarker of choice for diagnosing myocardial infarction is:",
+   "options": [
+    "Troponin I or T, which rise within 3 to 4 hours and remain elevated for days",
+    "CK-MB",
+    "LDH",
+    "AST"
+   ],
+   "correct": 0,
+   "concept": "Troponins are the most sensitive and specific. CK-MB, normalising in 2 to 3 days, remains useful for detecting reinfarction, whereas troponin stays elevated for up to 10 days.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Clinical Enzymology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "M",
+   "stem": "A markedly raised serum amylase with normal lipase suggests:",
+   "options": [
+    "A non-pancreatic cause such as salivary disease, perforation or macroamylasaemia",
+    "Acute pancreatitis",
+    "Chronic pancreatitis",
+    "Normal finding"
+   ],
+   "correct": 0,
+   "concept": "Lipase is more specific and remains elevated longer than amylase. Neither enzyme level correlates with severity of pancreatitis, which is assessed clinically and radiologically.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Clinical Enzymology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "M",
+   "stem": "A raised alkaline phosphatase with a raised gamma-glutamyl transferase indicates:",
+   "options": [
+    "A hepatobiliary rather than bony source",
+    "A bone source",
+    "Muscle disease",
+    "Renal disease"
+   ],
+   "correct": 0,
+   "concept": "GGT confirms hepatic origin, while a raised ALP with normal GGT suggests bone disease, growing children or pregnancy. This simple pairing localises the source without isoenzyme studies.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Clinical Enzymology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "E",
+   "stem": "An AST to ALT ratio greater than 2 is characteristic of:",
+   "options": [
+    "Alcoholic liver disease",
+    "Viral hepatitis",
+    "Paracetamol toxicity",
+    "Biliary obstruction"
+   ],
+   "correct": 0,
+   "concept": "ALT is more liver-specific and predominates in viral hepatitis. The alcoholic pattern reflects pyridoxine deficiency impairing ALT synthesis and mitochondrial injury releasing AST.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Clinical Enzymology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "H",
+   "stem": "Isoenzymes are best defined as:",
+   "options": [
+    "Different molecular forms of an enzyme catalysing the same reaction, often tissue-specific",
+    "Identical enzymes",
+    "Inactive precursors",
+    "Coenzymes"
+   ],
+   "correct": 0,
+   "concept": "Lactate dehydrogenase has five isoenzymes: LDH1 predominates in heart and red cells, LDH5 in liver and skeletal muscle, and an LDH1 greater than LDH2 flipped pattern once indicated infarction.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Enzymes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "H",
+   "stem": "Zymogens (proenzymes) exist because:",
+   "options": [
+    "Premature activation would digest the tissue of origin, as in acute pancreatitis",
+    "They are more stable",
+    "They are cheaper to make",
+    "They act faster"
+   ],
+   "correct": 0,
+   "concept": "Trypsinogen activation within the pancreas triggers the enzymatic cascade of acute pancreatitis. Protective mechanisms include the pancreatic secretory trypsin inhibitor, whose failure is implicated in hereditary pancreatitis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Enzymes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_ENZ_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Enzymes: kinetics, regulation & clinical enzymology",
+   "difficulty": "M",
+   "stem": "Enzymes lower the activation energy of a reaction but do not:",
+   "options": [
+    "Alter the equilibrium constant or the free energy change of the reaction",
+    "Increase reaction rate",
+    "Bind substrate",
+    "Show specificity"
+   ],
+   "correct": 0,
+   "concept": "Enzymes accelerate attainment of equilibrium in both directions equally. The thermodynamic favourability is fixed by the reactants, which is why an enzyme cannot make an endergonic reaction spontaneous.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Enzymes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "E",
+   "stem": "The end product of purine catabolism in humans is:",
+   "options": [
+    "Uric acid",
+    "Urea",
+    "Allantoin",
+    "Ammonia"
+   ],
+   "correct": 0,
+   "concept": "Humans lack uricase, so urate is the end product and its low solubility predisposes to gout and urate stones. Most other mammals convert it further to soluble allantoin.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "M",
+   "stem": "The rate-limiting enzyme of de novo purine synthesis is:",
+   "options": [
+    "PRPP amidotransferase (glutamine-PRPP amidotransferase)",
+    "Xanthine oxidase",
+    "HGPRT",
+    "Adenosine deaminase"
+   ],
+   "correct": 0,
+   "concept": "It is feedback-inhibited by AMP, GMP and IMP. The salvage pathway using HGPRT is far more energy-efficient, and its complete absence causes Lesch-Nyhan syndrome.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "M",
+   "stem": "Lesch-Nyhan syndrome results from deficiency of:",
+   "options": [
+    "Hypoxanthine-guanine phosphoribosyl transferase, inherited as X-linked recessive",
+    "Adenosine deaminase",
+    "Xanthine oxidase",
+    "PRPP synthetase"
+   ],
+   "correct": 0,
+   "concept": "Loss of purine salvage causes hyperuricaemia with gout, intellectual disability, choreoathetosis, spasticity and compulsive self-mutilation. Allopurinol controls the urate but not the neurological features.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "E",
+   "stem": "Allopurinol lowers uric acid by inhibiting:",
+   "options": [
+    "Xanthine oxidase",
+    "HGPRT",
+    "PRPP amidotransferase",
+    "Uricase"
+   ],
+   "correct": 0,
+   "concept": "Blocking conversion of hypoxanthine and xanthine to urate reduces production. The accumulated precursors are more soluble and readily excreted, which is why xanthine stones are rare.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "M",
+   "stem": "Adenosine deaminase deficiency causes:",
+   "options": [
+    "Severe combined immunodeficiency from accumulation of toxic deoxyadenosine in lymphocytes",
+    "Gout",
+    "Anaemia",
+    "Hepatitis"
+   ],
+   "correct": 0,
+   "concept": "dATP accumulation inhibits ribonucleotide reductase, halting DNA synthesis in rapidly dividing lymphocytes. It was the first disease treated by gene therapy.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "M",
+   "stem": "Orotic aciduria is a defect of:",
+   "options": [
+    "Pyrimidine synthesis, causing megaloblastic anaemia unresponsive to B12 or folate",
+    "Purine synthesis",
+    "Urea cycle only",
+    "Glycogen metabolism"
+   ],
+   "correct": 0,
+   "concept": "Deficiency of UMP synthase causes orotic acid excretion with megaloblastic anaemia and failure to thrive, treated with uridine which bypasses the block. Ornithine transcarbamylase deficiency also raises orotate but with hyperammonaemia.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "E",
+   "stem": "Methotrexate inhibits nucleotide synthesis by blocking:",
+   "options": [
+    "Dihydrofolate reductase, depleting tetrahydrofolate needed for thymidylate synthesis",
+    "Xanthine oxidase",
+    "Ribonucleotide reductase",
+    "DNA polymerase"
+   ],
+   "correct": 0,
+   "concept": "5-fluorouracil instead inhibits thymidylate synthase directly. Both cause a thymineless death in rapidly dividing cells, explaining their myelosuppression and mucositis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "H",
+   "stem": "Secondary hyperuricaemia in a patient starting chemotherapy for leukaemia results from:",
+   "options": [
+    "Tumour lysis syndrome releasing nucleic acids for purine catabolism",
+    "Reduced excretion only",
+    "Dietary purines",
+    "Reduced synthesis"
+   ],
+   "correct": 0,
+   "concept": "Massive cell lysis causes hyperuricaemia, hyperkalaemia, hyperphosphataemia and hypocalcaemia with acute kidney injury. Hydration with allopurinol or rasburicase is given prophylactically.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "H",
+   "stem": "Ribonucleotide reductase is important because it:",
+   "options": [
+    "Converts ribonucleotides to deoxyribonucleotides, the committed step for DNA synthesis",
+    "Synthesises RNA",
+    "Degrades DNA",
+    "Makes purine rings"
+   ],
+   "correct": 0,
+   "concept": "Hydroxyurea inhibits it, which is why hydroxyurea is used in myeloproliferative disease and sickle cell disease, where it also raises fetal haemoglobin.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_NUC_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nucleotide metabolism: purine/pyrimidine, gout",
+   "difficulty": "M",
+   "stem": "Uric acid stones are radiolucent and are managed by:",
+   "options": [
+    "Urinary alkalinisation with high fluid intake and allopurinol",
+    "Acidification",
+    "Calcium restriction",
+    "Surgery only"
+   ],
+   "correct": 0,
+   "concept": "Urate is far more soluble at alkaline pH, so potassium citrate can dissolve existing stones - one of the few stone types amenable to medical dissolution. They are invisible on plain radiograph but seen on CT.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Nucleotide Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "E",
+   "stem": "The rate-limiting enzyme of haem synthesis is:",
+   "options": [
+    "ALA synthase, inhibited by haem through feedback",
+    "ALA dehydratase",
+    "Ferrochelatase",
+    "Porphobilinogen deaminase"
+   ],
+   "correct": 0,
+   "concept": "Drugs that induce cytochrome P450 consume haem, de-repressing ALA synthase and precipitating acute porphyric attacks - the mechanism behind barbiturate, phenytoin and sulphonamide triggers.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "M",
+   "stem": "Lead poisoning inhibits which enzymes of haem synthesis?",
+   "options": [
+    "ALA dehydratase and ferrochelatase",
+    "ALA synthase",
+    "Only ferrochelatase",
+    "Porphobilinogen deaminase"
+   ],
+   "correct": 0,
+   "concept": "The block causes microcytic anaemia with basophilic stippling and raised free erythrocyte protoporphyrin and urinary ALA, alongside abdominal colic, a gum lead line and peripheral neuropathy.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "M",
+   "stem": "Acute intermittent porphyria presents with:",
+   "options": [
+    "Abdominal pain, neuropsychiatric features and dark urine, without photosensitivity",
+    "Photosensitivity",
+    "Blistering skin",
+    "Anaemia"
+   ],
+   "correct": 0,
+   "concept": "Porphobilinogen deaminase deficiency causes attacks precipitated by drugs, fasting, alcohol and infection. Because the defect is proximal to photosensitising porphyrinogens, skin is spared, unlike cutaneous porphyrias.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "E",
+   "stem": "Acute porphyric attacks are treated with:",
+   "options": [
+    "Intravenous glucose and haem arginate, which suppress ALA synthase",
+    "Barbiturates",
+    "Fasting",
+    "Phenytoin"
+   ],
+   "correct": 0,
+   "concept": "High carbohydrate intake and haem provide negative feedback. Barbiturates, sulphonamides, phenytoin, oestrogens and alcohol are all contraindicated as enzyme inducers.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "M",
+   "stem": "Unconjugated bilirubin differs from conjugated in that it is:",
+   "options": [
+    "Water insoluble, albumin bound and does not appear in urine",
+    "Water soluble",
+    "Excreted in urine",
+    "Non-toxic to the brain"
+   ],
+   "correct": 0,
+   "concept": "Being lipid soluble, unconjugated bilirubin crosses the blood-brain barrier causing kernicterus in neonates. Conjugated bilirubin is water soluble and appears in urine, giving dark urine in obstructive jaundice.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "M",
+   "stem": "Bilirubin is conjugated in the liver by:",
+   "options": [
+    "UDP-glucuronyl transferase",
+    "Glucose-6-phosphatase",
+    "Haem oxygenase",
+    "Biliverdin reductase"
+   ],
+   "correct": 0,
+   "concept": "Deficiency causes Gilbert syndrome with mild fluctuating unconjugated hyperbilirubinaemia worsened by fasting and stress, and Crigler-Najjar syndrome in its severe form. Phenobarbitone induces the enzyme.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "E",
+   "stem": "In haemolytic jaundice, the urine characteristically shows:",
+   "options": [
+    "Increased urobilinogen with absent bilirubin",
+    "Bilirubin present",
+    "Both absent",
+    "Neither changed"
+   ],
+   "correct": 0,
+   "concept": "Unconjugated bilirubin cannot be filtered, so urine bilirubin is absent - the acholuric jaundice of haemolysis - while increased gut conversion raises urobilinogen. Obstructive jaundice shows the reverse pattern.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "H",
+   "stem": "Dubin-Johnson syndrome is characterised by:",
+   "options": [
+    "Conjugated hyperbilirubinaemia with a black pigmented liver from impaired canalicular excretion",
+    "Unconjugated hyperbilirubinaemia",
+    "Haemolysis",
+    "Cirrhosis"
+   ],
+   "correct": 0,
+   "concept": "A defect in the MRP2 canalicular transporter causes benign conjugated hyperbilirubinaemia. Rotor syndrome is similar but without hepatic pigmentation, and both have an excellent prognosis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "H",
+   "stem": "Phototherapy for neonatal jaundice works by:",
+   "options": [
+    "Converting bilirubin to water-soluble lumirubin and photoisomers excretable without conjugation",
+    "Destroying bilirubin",
+    "Inducing conjugation",
+    "Increasing albumin binding"
+   ],
+   "correct": 0,
+   "concept": "Blue light at 450 nm is most effective. Exchange transfusion is reserved for very high levels or signs of encephalopathy, and immunoglobulin is used in isoimmune haemolytic disease.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_HAE_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Haem synthesis, porphyrias & bilirubin metabolism",
+   "difficulty": "M",
+   "stem": "Physiological jaundice of the newborn is explained by:",
+   "options": [
+    "Immature glucuronyl transferase with increased red cell breakdown and enterohepatic recycling",
+    "Biliary obstruction",
+    "Haemolysis alone",
+    "Hepatitis"
+   ],
+   "correct": 0,
+   "concept": "It appears after 24 hours, peaks at day 3 to 5 and resolves within 2 weeks. Jaundice within 24 hours, conjugated hyperbilirubinaemia, or persistence beyond 2 weeks is always pathological.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Porphyrins",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+Q_A_001 | del | duplicate of Q_PYQ_FMGE_2025JULP2_003, which describes the same waiter's tip posture and asks for the C5-C6 root values. The exam-recall item is retained
+Q_PYQ_FMGE_2024JUN_003 | del | duplicate of Q_PYQ_FMGE_2024JAN_018, which asks the same abducens-lateral rectus relationship. The January item is retained
+Q_PYQ_FMGE_2025JANP1_003 | stem=A patient has numbness over the dorsal aspect of the first web space and the base of the thumb after a mid-shaft humeral fracture, with weakness of wrist and finger extension. Which nerve is involved?;;ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Upper Limb | the stem was internally contradictory: "tingling of the lateral three digits" is median nerve territory and points to carpal tunnel syndrome, while the keyed answer and the sensory loss described over the dorsal thumb base are radial. Rewritten as a clean radial nerve lesion; exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JULP2_005 | topic=Upper limb: axilla, cubital fossa, hand spaces;;ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Upper Limb (palmar spaces) | misfiled: infection of the midpalmar space is hand-space anatomy and sat under "Brachial plexus & nerve injuries". Refiled, and the exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JULP2_003 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Upper Limb (brachial plexus injuries) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JAN_010 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Upper Limb | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JUN_012 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Upper Limb | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JUN_039 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Upper Limb | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2024JAN_017 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (facial nerve) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2024JAN_018 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (extraocular muscles) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_005 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Head and Neck (trigeminal nerve) | reference cited only the exam paper; a study source added
+Q_AN_AB_001 | ok |
+Q_AN_AB_002 | ok |
+Q_AN_AB_003 | ok |
+Q_AN_AB_004 | ok |
+Q_AN_AB_005 | ok |
+Q_AN_AB_006 | ok |
+Q_AN_AB_007 | ok |
+Q_AN_AB_008 | ok |
+Q_AN_AB_009 | ok |
+Q_AN_AB_010 | ok |
+Q_AN_AB_011 | ok |
+Q_AN_AB_012 | ok |
+Q_AN_AB_013 | ok |
+Q_AN_BP_001 | ok |
+Q_AN_BP_002 | ok |
+Q_AN_CER_001 | ok |
+Q_AN_CER_002 | ok |
+Q_AN_CER_003 | ok |
+Q_AN_CER_004 | ok |
+Q_AN_CER_005 | ok |
+Q_AN_CER_006 | ok |
+Q_AN_CER_007 | ok |
+Q_AN_CER_008 | ok |
+Q_AN_CER_009 | ok |
+Q_AN_CER_010 | ok |
+Q_AN_CER_011 | ok |
+Q_AN_CER_012 | ok |
+Q_AN_CER_013 | ok |
+Q_A_008 | ok |

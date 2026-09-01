@@ -1,0 +1,44 @@
+Q_MED_PIT_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis | a calcium and magnesium item was cited to the anterior pituitary chapter
+Q_MED_PLE_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 292 (Disorders of the Pleura) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PLE_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 292 (Disorders of the Pleura) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PLE_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 292 (Disorders of the Pleura) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PLE_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 292 (Disorders of the Pleura) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PLE_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 292 (Disorders of the Pleura) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PLE_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Interstitial Lung Disease | an interstitial lung disease item was cited to the pleural disorders chapter
+Q_MED_PLE_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Interstitial Lung Disease | an interstitial lung disease item was cited to the pleural disorders chapter
+Q_MED_PLE_015 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Interstitial Lung Disease | an interstitial lung disease item was cited to the pleural disorders chapter
+Q_MED_PLE_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Interstitial Lung Disease | an interstitial lung disease item was cited to the pleural disorders chapter
+Q_MED_PLE_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Interstitial Lung Disease | an interstitial lung disease item was cited to the pleural disorders chapter
+Q_MED_PLE_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Interstitial Lung Disease | an interstitial lung disease item was cited to the pleural disorders chapter
+Q_MED_PNA_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 121 (Pneumonia) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PNA_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Bronchiectasis | a bronchiectasis item was cited to the pneumonia chapter
+Q_MED_PNA_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Bronchiectasis | a bronchiectasis item was cited to the pneumonia chapter
+Q_MED_PNA_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Bronchiectasis | a bronchiectasis item was cited to the pneumonia chapter
+Q_MED_PNA_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Bronchiectasis | a bronchiectasis item was cited to the pneumonia chapter
+Q_MED_PNA_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Bronchiectasis | a bronchiectasis item was cited to the pneumonia chapter
+Q_MED_PLE_007 | ok |
+Q_MED_PLE_008 | ok |
+Q_MED_PLE_012 | ok |
+Q_MED_PLE_013 | ok |
+Q_MED_PLE_014 | ok |
+Q_MED_PLE_018 | ok |
+Q_MED_PNA_011 | ok |
+Q_MED_PNA_012 | ok |
+Q_MED_PNA_013 | ok |
+Q_MED_PNA_014 | ok |
+Q_MED_PNA_018 | ok |
+Q_MED_POI_001 | ok |
+Q_MED_POI_002 | ok |
+Q_MED_POI_003 | ok |
+Q_MED_POI_004 | ok |
+Q_MED_POI_005 | ok |
+Q_MED_POI_006 | ok |
+Q_MED_POI_007 | ok |
+Q_MED_POI_008 | ok |

@@ -1,0 +1,44 @@
+Q_PAT_ENP_011 | del | duplicate of Q_PAT_ENP_001 on the nuclear features and psammoma bodies of papillary thyroid carcinoma. The first item is retained
+Q_PAT_ENP_016 | del | duplicate of Q_PAT_ENP_004 on calcitonin-derived amyloid in medullary thyroid carcinoma. The first item is retained
+Q_PAT_GIT_006 | del | duplicate of Q_PAT_GIT_011, which gives the same APC initiation within the whole chromosomal instability sequence. The fuller item is retained
+Q_PAT_GIT_013 | del | duplicate of Q_PAT_GIT_007 on villous atrophy with crypt hyperplasia and intraepithelial lymphocytosis in coeliac disease. The first item is retained
+Q_PAT_GIT_009 | del | duplicate of Q_PAT_CAR_013 on mismatch repair loss producing microsatellite instability, whose concept already names Lynch syndrome. The fuller item is retained
+Q_PAT_GEN_011 | del | duplicate of Q_PAT_GEN_005, whose key already gives heteroplasmy as the source of variable expression. The first item is retained
+Q_PAT_GEN_013 | del | duplicate of Q_PAT_GEN_006 on trinucleotide repeat expansion causing anticipation. The first item is retained
+Q_PAT_GEN_008 | del | duplicate of Q_PAT_GEN_012, which defines imprinting through the Prader-Willi and Angelman example. The fuller item is retained
+Q_PAT_GEN_009 | del | duplicate of Q_PAT_GEN_015, which gives the same X inactivation and additionally why a heterozygous female may be symptomatic. The fuller item is retained
+Q_PAT_ENP_009 | ref=Robbins & Cotran Pathologic Basis of Disease 10e, Ch. The Endocrine System; Park's Textbook of Preventive and Social Medicine 27e, Ch. Nutrition and Health | both books were cited in short form with no chapter
+Q_PAT_ENP_010 | ok |
+Q_PAT_ENP_012 | ok |
+Q_PAT_ENP_013 | ok |
+Q_PAT_ENP_014 | ok |
+Q_PAT_ENP_015 | ok |
+Q_PAT_GIT_001 | ok |
+Q_PAT_GIT_002 | ok |
+Q_PAT_GIT_003 | ok |
+Q_PAT_GIT_004 | ok |
+Q_PAT_GIT_005 | ok |
+Q_PAT_GIT_007 | ok |
+Q_PAT_GIT_008 | ok |
+Q_PAT_GIT_010 | ok |
+Q_PAT_GIT_011 | ok |
+Q_PAT_GIT_012 | ok |
+Q_PAT_GIT_014 | ok |
+Q_PAT_GIT_015 | ok |
+Q_PAT_GIT_016 | ok |
+Q_PAT_GEN_001 | ok |
+Q_PAT_GEN_002 | ok |
+Q_PAT_GEN_003 | ok |
+Q_PAT_GEN_004 | ok |
+Q_PAT_GEN_005 | ok |
+Q_PAT_GEN_006 | ok |
+Q_PAT_GEN_007 | ok |
+Q_PAT_GEN_010 | ok |
+Q_PAT_GEN_012 | ok |
+Q_PAT_GEN_014 | ok |
+Q_PAT_GEN_015 | ok |
+Q_PAT_GEN_016 | ok |
+Q_PAT_GRN_001 | ok |
+Q_PAT_GRN_002 | ok |
+Q_PAT_GRN_003 | ok |
+Q_PAT_GRN_004 | ok |

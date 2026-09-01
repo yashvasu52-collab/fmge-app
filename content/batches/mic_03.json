@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_MIC_COR_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "E",
+   "stem": "The medium of choice for isolating Corynebacterium diphtheriae is:",
+   "options": [
+    "Loeffler serum slope and potassium tellurite agar",
+    "MacConkey agar",
+    "Thayer-Martin agar",
+    "Lowenstein-Jensen medium"
+   ],
+   "correct": 0,
+   "concept": "Loeffler serum slope gives rapid growth showing metachromatic volutin granules, while tellurite agar is selective, producing characteristic grey-black colonies. Albert stain demonstrates the granules.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Corynebacterium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "M",
+   "stem": "Diphtheria toxin acts by:",
+   "options": [
+    "ADP-ribosylating elongation factor 2, halting protein synthesis",
+    "Blocking acetylcholine release",
+    "Increasing cyclic AMP",
+    "Lysing cell membranes"
+   ],
+   "correct": 0,
+   "concept": "The toxin is produced only by strains lysogenised by a tox-gene bearing beta phage. It causes local pseudomembrane formation and systemic myocarditis and neuritis, treated with antitoxin plus antibiotics.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Corynebacterium",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "M",
+   "stem": "The Schick test was historically used to determine:",
+   "options": [
+    "Susceptibility to diphtheria by assessing antitoxin immunity",
+    "Presence of active infection",
+    "Tuberculin sensitivity",
+    "Carrier status"
+   ],
+   "correct": 0,
+   "concept": "Intradermal toxin producing erythema indicated absent antitoxin and therefore susceptibility. It is now obsolete, replaced by serological antitoxin assays and universal DPT immunisation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Corynebacterium",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "E",
+   "stem": "Anthrax is caused by an organism described as:",
+   "options": [
+    "A large aerobic Gram-positive spore-forming bacillus in bamboo-stick chains with a polypeptide capsule",
+    "A Gram-negative coccus",
+    "An anaerobic bacillus",
+    "An acid-fast bacillus"
+   ],
+   "correct": 0,
+   "concept": "Bacillus anthracis has a unique poly-D-glutamic acid capsule, forms centrally placed spores that survive decades in soil, and gives a medusa-head colony. Cutaneous anthrax produces a painless black eschar.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacillus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "M",
+   "stem": "Listeria monocytogenes is particularly dangerous in:",
+   "options": [
+    "Pregnant women, neonates, the elderly and the immunosuppressed",
+    "Healthy young adults",
+    "Children only",
+    "Diabetics only"
+   ],
+   "correct": 0,
+   "concept": "Listeria causes granulomatosis infantiseptica, neonatal meningitis, and meningitis in the immunosuppressed. It grows at refrigeration temperature, shows tumbling motility at 25 degrees, and is intrinsically resistant to cephalosporins - hence ampicillin is added empirically.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Listeria",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "M",
+   "stem": "Actinomyces israelii infection is characterised by:",
+   "options": [
+    "Chronic suppuration with sinus tracts discharging sulphur granules",
+    "Acute abscess without sinuses",
+    "Vesicular rash",
+    "Watery diarrhoea"
+   ],
+   "correct": 0,
+   "concept": "Actinomycosis is caused by an anaerobic Gram-positive branching filamentous bacterium of normal oral flora, producing cervicofacial, thoracic or abdominal disease with sulphur granules. Prolonged high-dose penicillin is the treatment.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Actinomycetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "E",
+   "stem": "Nocardia differs from Actinomyces in being:",
+   "options": [
+    "Aerobic and partially acid-fast",
+    "Anaerobic",
+    "Non-filamentous",
+    "Gram-negative"
+   ],
+   "correct": 0,
+   "concept": "Nocardia is an aerobic, weakly acid-fast filamentous bacterium causing pulmonary and brain abscesses in the immunosuppressed and mycetoma after soil inoculation. Cotrimoxazole is the drug of choice.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Actinomycetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "H",
+   "stem": "The treatment of diphtheria must include antitoxin because:",
+   "options": [
+    "Antibiotics kill the organism but cannot neutralise toxin already bound to tissue",
+    "Antibiotics are ineffective",
+    "Antitoxin kills the bacteria",
+    "Antitoxin prevents carrier state"
+   ],
+   "correct": 0,
+   "concept": "Antitoxin neutralises only circulating unbound toxin, so it must be given on clinical suspicion without waiting for culture. Penicillin or erythromycin stops further toxin production and eliminates the carrier state.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Corynebacterium",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "H",
+   "stem": "Woolsorter's disease refers to:",
+   "options": [
+    "Pulmonary anthrax from inhalation of spores, with haemorrhagic mediastinitis",
+    "Cutaneous anthrax",
+    "Gastrointestinal anthrax",
+    "Cutaneous nocardiosis"
+   ],
+   "correct": 0,
+   "concept": "Inhalational anthrax causes a widened mediastinum from haemorrhagic mediastinitis with rapid progression to shock and death, and is the form of greatest bioterrorism concern. Ciprofloxacin or doxycycline with antitoxin is used.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacillus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_COR_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Corynebacterium, Bacillus, Listeria, Nocardia, Actinomyces",
+   "difficulty": "M",
+   "stem": "Bacillus cereus food poisoning classically follows ingestion of:",
+   "options": [
+    "Reheated fried rice, causing a short-incubation emetic syndrome",
+    "Undercooked poultry",
+    "Canned vegetables",
+    "Unpasteurised milk"
+   ],
+   "correct": 0,
+   "concept": "The heat-stable preformed emetic toxin in rice held at room temperature causes vomiting within 1 to 6 hours, while a heat-labile enterotoxin causes a diarrhoeal syndrome at 8 to 16 hours resembling Clostridium perfringens.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Bacillus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "E",
+   "stem": "Antigenic shift in influenza virus refers to:",
+   "options": [
+    "Major reassortment of gene segments producing a new subtype capable of causing pandemics",
+    "Minor point mutations",
+    "Loss of the envelope",
+    "Change in host range only"
+   ],
+   "correct": 0,
+   "concept": "Shift occurs only in influenza A through reassortment of the segmented RNA genome between human and animal strains, producing pandemics. Antigenic drift is gradual point mutation causing seasonal epidemics and requiring annual vaccine reformulation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Orthomyxoviruses",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "M",
+   "stem": "The influenza surface antigens used in subtype nomenclature are:",
+   "options": [
+    "Haemagglutinin and neuraminidase",
+    "Matrix and nucleoprotein",
+    "Spike and envelope",
+    "Capsid and polymerase"
+   ],
+   "correct": 0,
+   "concept": "Haemagglutinin mediates attachment to sialic acid receptors and is the main neutralising target, while neuraminidase releases progeny virions and is inhibited by oseltamivir and zanamivir.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Orthomyxoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "M",
+   "stem": "Koplik spots, pathognomonic of measles, appear:",
+   "options": [
+    "On the buccal mucosa one to two days before the rash",
+    "After the rash fades",
+    "On the palms",
+    "Only in adults"
+   ],
+   "correct": 0,
+   "concept": "Koplik spots are grain-of-salt white lesions on an erythematous buccal mucosa appearing in the prodrome, making them useful for early diagnosis and isolation. The rash then spreads cephalocaudally and fades with staining and desquamation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Paramyxoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "E",
+   "stem": "Subacute sclerosing panencephalitis is a late complication of:",
+   "options": [
+    "Measles",
+    "Mumps",
+    "Rubella",
+    "Influenza"
+   ],
+   "correct": 0,
+   "concept": "SSPE develops 7 to 10 years after measles, especially when infection occurred under 2 years, with progressive myoclonus, dementia and a characteristic EEG. Measles vaccination has virtually eliminated it.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Paramyxoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "M",
+   "stem": "The commonest complication of mumps in a postpubertal male is:",
+   "options": [
+    "Orchitis, usually unilateral and rarely causing sterility",
+    "Bilateral sterility in most",
+    "Meningitis always",
+    "Pancreatitis always"
+   ],
+   "correct": 0,
+   "concept": "Mumps orchitis affects 20 to 30% of postpubertal males, usually unilaterally, and sterility is uncommon. Aseptic meningitis, pancreatitis and sensorineural deafness are other complications.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Paramyxoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "M",
+   "stem": "Rubella is of greatest clinical importance because of:",
+   "options": [
+    "Congenital rubella syndrome following maternal infection in the first trimester",
+    "Severe illness in adults",
+    "High mortality in children",
+    "Chronic infection"
+   ],
+   "correct": 0,
+   "concept": "Rubella is a mild illness with posterior auricular and suboccipital lymphadenopathy, but first-trimester infection causes cataract, deafness and cardiac defects, with risk falling sharply after 16 weeks.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Togaviruses",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "E",
+   "stem": "Measles vaccine is a:",
+   "options": [
+    "Live attenuated vaccine given at 9 months in India with a second dose at 16 to 24 months",
+    "Killed vaccine",
+    "Toxoid",
+    "Subunit vaccine"
+   ],
+   "correct": 0,
+   "concept": "Live attenuated measles-rubella vaccine is given at 9 to 12 months and 16 to 24 months under the Indian schedule. It is given subcutaneously and is contraindicated in pregnancy and severe immunodeficiency.",
+   "reference": "Park 27e, Measles",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "H",
+   "stem": "The principal mode of transmission of SARS-CoV-2 is:",
+   "options": [
+    "Respiratory droplets and aerosols from an infected person",
+    "Faeco-oral",
+    "Vector-borne",
+    "Blood-borne"
+   ],
+   "correct": 0,
+   "concept": "Transmission is predominantly by respiratory particles at close range, with aerosol spread in poorly ventilated indoor spaces, which is why masking, ventilation and distancing are effective. Fomite transmission is possible but minor.",
+   "reference": "Park 27e, COVID-19",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "H",
+   "stem": "Respiratory syncytial virus is named for its ability to:",
+   "options": [
+    "Cause fusion of infected cells into multinucleate syncytia",
+    "Replicate synchronously",
+    "Persist latently",
+    "Reassort its genome"
+   ],
+   "correct": 0,
+   "concept": "The F (fusion) protein causes cell fusion producing syncytia, and is the target of palivizumab prophylaxis in high-risk infants. RSV is the leading cause of bronchiolitis and infant hospitalisation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Paramyxoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RSP_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Respiratory viruses: influenza, SARS-CoV-2, measles, mumps, rubella",
+   "difficulty": "M",
+   "stem": "Oseltamivir is most effective when given:",
+   "options": [
+    "Within 48 hours of symptom onset",
+    "After one week",
+    "Only prophylactically",
+    "At any time"
+   ],
+   "correct": 0,
+   "concept": "Neuraminidase inhibitors shorten illness by about a day and reduce complications when started within 48 hours, with greatest benefit in severe disease and high-risk groups where treatment is given regardless of duration.",
+   "reference": "KDT 8e, Antiviral Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "E",
+   "stem": "Neurocysticercosis results from ingestion of:",
+   "options": [
+    "Eggs of Taenia solium, making humans an accidental intermediate host",
+    "Cysticerci in undercooked pork",
+    "Taenia saginata eggs",
+    "Echinococcus larvae"
+   ],
+   "correct": 0,
+   "concept": "Eating undercooked pork containing cysticerci gives intestinal taeniasis, whereas ingesting eggs by the faeco-oral route causes cysticercosis with cysts in brain, muscle and eye - the reason personal hygiene matters more than pork avoidance.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Cestodes",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "M",
+   "stem": "Hydatid disease is caused by and diagnosed by:",
+   "options": [
+    "Echinococcus granulosus, with the dog as definitive host, diagnosed by imaging and serology",
+    "Taenia solium",
+    "Ascaris lumbricoides",
+    "Trichinella spiralis"
+   ],
+   "correct": 0,
+   "concept": "Humans are accidental intermediate hosts of the dog tapeworm, developing liver and lung cysts with daughter cysts and hydatid sand. Casoni test is obsolete; aspiration risks anaphylaxis and dissemination.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Cestodes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "M",
+   "stem": "Iron deficiency anaemia from intestinal blood loss is characteristic of infection with:",
+   "options": [
+    "Hookworm (Ancylostoma duodenale and Necator americanus)",
+    "Ascaris lumbricoides",
+    "Enterobius vermicularis",
+    "Taenia saginata"
+   ],
+   "correct": 0,
+   "concept": "Hookworm larvae penetrate skin causing ground itch, migrate through lungs and attach to duodenal mucosa sucking blood, causing hypochromic microcytic anaemia and hypoproteinaemia. Albendazole with iron is the treatment.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Nematodes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "E",
+   "stem": "Perianal itching worse at night in a child, diagnosed by the cellophane tape test, indicates:",
+   "options": [
+    "Enterobius vermicularis (pinworm)",
+    "Ascaris",
+    "Hookworm",
+    "Trichuris"
+   ],
+   "correct": 0,
+   "concept": "The female worm migrates to the perianal skin at night to lay eggs, causing pruritus ani. The NIH cellophane swab taken in the morning before washing is diagnostic; the whole family is treated to prevent reinfection.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Nematodes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "M",
+   "stem": "Loeffler syndrome, transient pulmonary infiltrates with eosinophilia, is caused by larval migration of:",
+   "options": [
+    "Ascaris lumbricoides and hookworm",
+    "Enterobius",
+    "Taenia",
+    "Echinococcus"
+   ],
+   "correct": 0,
+   "concept": "Larvae passing through the pulmonary capillaries into alveoli provoke an eosinophilic inflammatory response with migratory infiltrates, cough and wheeze, resolving as migration completes.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Nematodes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "M",
+   "stem": "The drug of choice for most intestinal nematode infections is:",
+   "options": [
+    "Albendazole",
+    "Praziquantel",
+    "Metronidazole",
+    "Ivermectin"
+   ],
+   "correct": 0,
+   "concept": "Albendazole and mebendazole inhibit tubulin polymerisation and cover ascaris, hookworm, whipworm and pinworm - the basis of mass deworming. Praziquantel is used for cestodes and trematodes, ivermectin for strongyloides and onchocerciasis.",
+   "reference": "KDT 8e, Anthelmintics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "E",
+   "stem": "Autoinfection allowing lifelong persistence and hyperinfection in the immunosuppressed is characteristic of:",
+   "options": [
+    "Strongyloides stercoralis",
+    "Ascaris",
+    "Hookworm",
+    "Trichuris"
+   ],
+   "correct": 0,
+   "concept": "Strongyloides larvae can mature within the host and reinvade, so infection persists for decades. Corticosteroids or HTLV-1 infection precipitate hyperinfection with disseminated larvae and Gram-negative sepsis, often fatal.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Nematodes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "H",
+   "stem": "Cysticercosis of the eye is important because:",
+   "options": [
+    "Antihelminthic treatment can provoke severe inflammation and blindness, so ocular disease must be excluded first",
+    "It is untreatable",
+    "It never occurs",
+    "It resolves spontaneously"
+   ],
+   "correct": 0,
+   "concept": "Killing an intraocular cyst releases antigens causing intense uveitis, so fundoscopy is mandatory before starting albendazole for neurocysticercosis, and corticosteroids are given alongside to limit inflammation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Cestodes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "H",
+   "stem": "Katayama fever, an acute hypersensitivity illness with fever, urticaria and eosinophilia, occurs in:",
+   "options": [
+    "Acute schistosomiasis",
+    "Amoebiasis",
+    "Giardiasis",
+    "Taeniasis"
+   ],
+   "correct": 0,
+   "concept": "Katayama syndrome is an immune complex reaction to migrating schistosomules weeks after exposure to fresh water. Chronic schistosomiasis causes hepatic fibrosis or, with S. haematobium, bladder squamous carcinoma.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Trematodes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HEL_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Helminths: intestinal & tissue nematodes, cestodes, trematodes",
+   "difficulty": "M",
+   "stem": "Praziquantel acts by:",
+   "options": [
+    "Increasing membrane permeability to calcium causing tetanic contraction of the parasite",
+    "Inhibiting tubulin",
+    "Blocking folate synthesis",
+    "Inhibiting protein synthesis"
+   ],
+   "correct": 0,
+   "concept": "Calcium influx causes spastic paralysis and tegumental damage exposing parasite antigens to host immunity. It is the drug of choice for schistosomiasis, taeniasis, and neurocysticercosis alongside albendazole.",
+   "reference": "KDT 8e, Anthelmintics",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+Q_PED_IEM_016 | del | duplicate of Q_PED_IEM_006 on galactosaemia presenting with cataracts and reducing substances in the urine. The first item is retained
+Q_C_031 | del | duplicate of Q_PED_NJS_001 on jaundice within 24 hours being pathological and usually haemolytic, and its reference named the book with no chapter. The first item is retained
+Q_PED_NB_013 | del | duplicate of Q_PED_NB_005 on the New Ballard score assessing gestational age. The first item is retained
+Q_PED_NB_006 | del | duplicate of Q_PED_NB_012 on kangaroo mother care, and its reference cited a WHO guideline as a chapter of Park's. The item that also gives the mortality benefit is retained
+Q_h3c_023 | ref=OP Ghai Essential Pediatrics 9e, Ch. Neonatology | the reference named the book with no chapter
+Q_h3c_024 | ref=OP Ghai Essential Pediatrics 9e, Ch. Neonatology | the reference named the book with no chapter
+Q_PED_NB_010 | ref=WHO Guideline on Delayed Umbilical Cord Clamping 2014; Nelson Textbook of Pediatrics 21e, Ch. Delivery Room Care | the reference read "WHO Guidelines" with no title or year and gave no chapter for the textbook
+Q_C_038 | ref=OP Ghai Essential Pediatrics 9e, Ch. Infant and Young Child Feeding | the reference named the book with no chapter
+Q_PYQ_FMGE_2025JANP1_024 | ref=FMGE January 2025 Part 1 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Inborn Errors of Metabolism and Genetics | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_015 | ref=FMGE January 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Neonatology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_033 | ref=FMGE January 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Neonatology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_129 | ref=FMGE July 2025 Part 1 (real exam recall); Nelson Textbook of Pediatrics 21e, Ch. Abdominal Wall Defects | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_114 | ref=FMGE July 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Neonatology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_127 | ref=FMGE July 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Care of the Newborn | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_130 | ref=FMGE July 2025 Part 2 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Neonatology | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_040 | ref=FMGE January 2025 Part 1 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_034 | ref=FMGE June 2026 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_035 | ref=FMGE June 2026 (real exam recall); Park's Textbook of Preventive and Social Medicine 27e, Ch. Nutrition and Health | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_036 | ref=FMGE June 2026 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_037 | ref=FMGE June 2026 (real exam recall); OP Ghai Essential Pediatrics 9e, Ch. Nutrition and Malnutrition | exam-paper-only reference given a study source
+Q_PED_IEM_015 | ok |
+Q_PED_IEM_017 | ok |
+Q_PED_IEM_018 | ok |
+Q_PED_IEM_019 | ok |
+Q_PED_IEM_020 | ok |
+Q_PED_NJS_001 | ok |
+Q_PED_NJS_002 | ok |
+Q_PED_NJS_003 | ok |
+Q_PED_NJS_004 | ok |
+Q_PED_NJS_005 | ok |
+Q_PED_NB_002 | ok |
+Q_PED_NB_003 | ok |
+Q_PED_NB_004 | ok |
+Q_PED_NB_005 | ok |
+Q_PED_NB_007 | ok |
+Q_PED_NB_008 | ok |
+Q_PED_NB_009 | ok |
+Q_PED_NB_012 | ok |
+Q_PED_NB_014 | ok |
+Q_PED_NB_015 | ok |
+Q_PED_NB_016 | ok |
+Q_PED_NB_017 | ok |
+Q_PED_NB_018 | ok |
+Q_PED_NB_019 | ok |

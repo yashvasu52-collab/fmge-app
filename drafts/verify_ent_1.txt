@@ -1,0 +1,46 @@
+Q_ENT_AUD_014 | del | duplicate of Q_ENT_AUD_001 on the Rinne test comparing air with bone conduction. The item testing interpretation is retained
+Q_ENT_AUD_016 | del | duplicate of Q_ENT_AUD_003 on the flat type B tympanogram of middle ear effusion. The first item is retained
+Q_ENT_AUD_005 | del | duplicate of Q_ENT_AUD_012, which places the organ of Corti on the basilar membrane and additionally gives its transducing role. The fuller item is retained
+Q_ENT_CMP_016 | del | duplicate of Q_ENT_CMP_002 on the Gradenigo triad of petrositis. The first item is retained
+Q_ENT_CMP_013 | del | duplicate of Q_ENT_CMP_003 on a positive fistula test indicating labyrinthine erosion by cholesteatoma. The first item is retained
+Q_ENT_CMP_014 | del | duplicate of Q_ENT_CMP_004 on picket-fence fever in lateral sinus thrombosis. The first item is retained
+Q_ENT_CMP_015 | del | duplicate of Q_ENT_CMP_005 on otitic hydrocephalus giving raised intracranial pressure with normal cerebrospinal fluid. The first item is retained
+Q_ENT_CMP_009 | del | duplicate of Q_ENT_CMP_011 on a postauricular swelling pushing the pinna forward. The retained item carries the Bezold, Luc and Citelli abscess distractors, which are tested nowhere else
+Q_ENT_CMP_012 | del | duplicate of Q_ENT_EAR_007 on the atticoantral type being the unsafe variety. The middle ear disease topic is the better home and is retained
+Q_ENT_EAR_001 | del | duplicate of Q_ENT_EAR_011, which covers the same elderly diabetic with Pseudomonas and additionally the granulation tissue and raised sedimentation rate. The fuller item is retained
+Q_ENT_AUD_009 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Hearing Loss; Park's Textbook of Preventive and Social Medicine 27e, Ch. Occupational Health | an audiometric finding was sourced only to a community medicine textbook
+Q_ENT_AUD_001 | ok |
+Q_ENT_AUD_003 | ok |
+Q_ENT_AUD_004 | ok |
+Q_ENT_AUD_006 | ok |
+Q_ENT_AUD_007 | ok |
+Q_ENT_AUD_011 | ok |
+Q_ENT_AUD_012 | ok |
+Q_ENT_AUD_013 | ok |
+Q_ENT_AUD_015 | ok |
+Q_ENT_AUD_018 | ok |
+Q_ENT_AUD_019 | ok |
+Q_ENT_AUD_020 | ok |
+Q_ENT_CMP_001 | ok |
+Q_ENT_CMP_002 | ok |
+Q_ENT_CMP_003 | ok |
+Q_ENT_CMP_004 | ok |
+Q_ENT_CMP_005 | ok |
+Q_ENT_CMP_006 | ok |
+Q_ENT_CMP_008 | ok |
+Q_ENT_CMP_010 | ok |
+Q_ENT_CMP_011 | ok |
+Q_ENT_CMP_018 | ok |
+Q_ENT_CMP_019 | ok |
+Q_ENT_CMP_020 | ok |
+Q_ENT_EAR_002 | ok |
+Q_ENT_EAR_003 | ok |
+Q_ENT_EAR_004 | ok |
+Q_ENT_EAR_005 | ok |
+Q_ENT_EAR_006 | ok |
+Q_ENT_EAR_007 | ok |
+Q_ENT_EAR_008 | ok |
+Q_ENT_EAR_009 | ok |
+Q_ENT_EAR_010 | ok |
+Q_ENT_EAR_011 | ok |
+Q_ENT_EAR_012 | ok |

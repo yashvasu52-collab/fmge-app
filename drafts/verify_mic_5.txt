@@ -1,0 +1,44 @@
+Q_MIC_RAB_018 | del | duplicate of Q_MIC_RAB_003 on the intradermal regimen giving equivalent immunogenicity at lower cost. The first item is retained
+Q_MIC_RAB_014 | del | duplicate of Q_MIC_RAB_006, which contrasts the same gut mucosal immunity of the oral vaccine with the injectable one. The first item is retained
+Q_MIC_RAB_015 | del | duplicate of Q_MIC_RAB_007 on coxsackievirus A16 and enterovirus 71 causing hand, foot and mouth disease. The first item is retained
+Q_MIC_RSP_014 | del | duplicate of Q_MIC_RSP_004 on subacute sclerosing panencephalitis following measles. The first item is retained
+Q_MIC_RIC_002 | del | duplicate of Q_MIC_RIC_016, which gives the same louse-borne Rickettsia prowazekii and additionally Brill-Zinsser recrudescence. The fuller item is retained
+Q_MIC_RIC_006 | del | duplicate of Q_MIC_RIC_011, which gives the same absent cell wall and additionally the membrane sterols. The fuller item is retained
+Q_MIC_RIC_015 | del | duplicate of Q_MIC_RIC_007, whose key already gives cold agglutinin haemolysis and additionally erythema multiforme. The fuller item is retained
+Q_MIC_SPC_003 | del | duplicate of Q_MIC_GNE_006 on the Widal test being unreliable where seroprevalence and vaccination are common. The first item is retained
+Q_MIC_SPC_006 | ref=National Tuberculosis Elimination Programme Technical and Operational Guidelines 2021; Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Mycobacterium tuberculosis | the reference abbreviated both sources and gave no chapter
+Q_MIC_RAB_016 | ok |
+Q_MIC_RAB_017 | ok |
+Q_MIC_RSP_001 | ok |
+Q_MIC_RSP_002 | ok |
+Q_MIC_RSP_003 | ok |
+Q_MIC_RSP_004 | ok |
+Q_MIC_RSP_005 | ok |
+Q_MIC_RSP_006 | ok |
+Q_MIC_RSP_007 | ok |
+Q_MIC_RSP_008 | ok |
+Q_MIC_RSP_009 | ok |
+Q_MIC_RSP_010 | ok |
+Q_MIC_RSP_013 | ok |
+Q_MIC_RSP_015 | ok |
+Q_MIC_RSP_016 | ok |
+Q_MIC_RSP_017 | ok |
+Q_MIC_RSP_018 | ok |
+Q_MIC_RIC_001 | ok |
+Q_MIC_RIC_003 | ok |
+Q_MIC_RIC_004 | ok |
+Q_MIC_RIC_005 | ok |
+Q_MIC_RIC_007 | ok |
+Q_MIC_RIC_008 | ok |
+Q_MIC_RIC_009 | ok |
+Q_MIC_RIC_010 | ok |
+Q_MIC_RIC_011 | ok |
+Q_MIC_RIC_012 | ok |
+Q_MIC_RIC_013 | ok |
+Q_MIC_RIC_014 | ok |
+Q_MIC_RIC_016 | ok |
+Q_MIC_RIC_017 | ok |
+Q_MIC_RIC_018 | ok |
+Q_MIC_SPC_001 | ok |
+Q_MIC_SPC_004 | ok |
+Q_MIC_SPC_005 | ok |

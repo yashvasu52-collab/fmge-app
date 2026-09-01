@@ -1,0 +1,50 @@
+Q_PH_NSA_001 | del | duplicate of Q_PH_NSA_016, which tests the same fact that platelets cannot resynthesise cyclooxygenase and additionally the endothelial contrast. The fuller item is retained
+Q_PH_NSA_012 | del | duplicate of Q_PH_NSA_004 on paracetamol having negligible anti-inflammatory and antiplatelet action. The item that states the contrast with the other NSAIDs is retained
+Q_PH_NSA_014 | del | duplicate of Q_PH_NSA_007 on colchicine binding tubulin and blocking neutrophil migration. The first item is retained
+Q_PH_NSA_015 | del | duplicate of Q_PH_NSA_009 on febuxostat being a non-purine xanthine oxidase inhibitor. The first item is retained
+Q_PH_SEX_013 | del | duplicate of Q_PH_SEX_004 on mifepristone antagonising progesterone receptors in medical abortion. The first item is retained
+Q_PH_PRK_014 | del | duplicate of Q_PH_PRK_006 on baclofen acting as a spinal GABA-B agonist. The first item is retained
+Q_PH_PRK_007 | del | duplicate of Q_PH_PRK_015, which gives the same ryanodine receptor mechanism and additionally the malignant hyperthermia indication. The fuller item is retained
+Q_PH_PRK_003 | del | duplicate of Q_PH_PRK_016, which covers the same motor fluctuations and gives the loss of dopaminergic buffering that explains them. The fuller item is retained
+Q_PH_IMS_014 | ref=KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Immunosuppressants | the chapter was cited as "Immunosuppressants and Chelating Agents", a merged title that does not match the book
+Q_PH_IMS_016 | ref=KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Immunosuppressants | same merged chapter title corrected
+Q_PH_IMS_009 | ok |
+Q_PH_IMS_010 | ok |
+Q_PH_NSA_002 | ok |
+Q_PH_NSA_003 | ok |
+Q_PH_NSA_004 | ok |
+Q_PH_NSA_005 | ok |
+Q_PH_NSA_006 | ok |
+Q_PH_NSA_007 | ok |
+Q_PH_NSA_008 | ok |
+Q_PH_NSA_009 | ok |
+Q_PH_NSA_010 | ok |
+Q_PH_NSA_011 | ok |
+Q_PH_NSA_013 | ok |
+Q_PH_NSA_016 | ok |
+Q_PH_SEX_001 | ok |
+Q_PH_SEX_002 | ok |
+Q_PH_SEX_003 | ok |
+Q_PH_SEX_004 | ok |
+Q_PH_SEX_005 | ok |
+Q_PH_SEX_006 | ok |
+Q_PH_SEX_007 | ok |
+Q_PH_SEX_008 | ok |
+Q_PH_SEX_009 | ok |
+Q_PH_SEX_010 | ok |
+Q_PH_SEX_011 | ok |
+Q_PH_SEX_012 | ok |
+Q_PH_SEX_014 | ok |
+Q_PH_SEX_015 | ok |
+Q_PH_SEX_016 | ok |
+Q_PH_PRK_002 | ok |
+Q_PH_PRK_004 | ok |
+Q_PH_PRK_005 | ok |
+Q_PH_PRK_006 | ok |
+Q_PH_PRK_008 | ok |
+Q_PH_PRK_009 | ok |
+Q_PH_PRK_010 | ok |
+Q_PH_PRK_012 | ok |
+Q_PH_PRK_013 | ok |
+Q_PH_PRK_015 | ok |
+Q_PH_PRK_016 | ok |

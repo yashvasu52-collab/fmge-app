@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_PED_BEH_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "E",
+   "stem": "A child who does not smile socially by 3 months and does not sit without support by 9 months has:",
+   "options": [
+    "Global developmental delay requiring evaluation",
+    "Normal development",
+    "Isolated motor delay only",
+    "Autism"
+   ],
+   "correct": 0,
+   "concept": "Failure to attain milestones in two or more domains defines global developmental delay. Red flags include no social smile by 3 months, no head control by 5 months, not sitting by 9 months and not walking by 18 months.",
+   "reference": "Ghai Essential Pediatrics 9e, Development",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "M",
+   "stem": "The core features of autism spectrum disorder are:",
+   "options": [
+    "Persistent deficits in social communication with restricted repetitive behaviours",
+    "Inattention and hyperactivity",
+    "Motor tics",
+    "Selective mutism only"
+   ],
+   "correct": 0,
+   "concept": "Autism is defined by social communication deficits plus restricted, repetitive patterns of behaviour, interests or activities, with onset in early childhood. Early behavioural intervention improves outcome; there is no association with vaccination.",
+   "reference": "Nelson 21e, Autism Spectrum Disorder",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "M",
+   "stem": "Attention deficit hyperactivity disorder requires symptoms to be present:",
+   "options": [
+    "In more than one setting for at least six months with onset before 12 years",
+    "Only at school",
+    "For two weeks",
+    "After 18 years"
+   ],
+   "correct": 0,
+   "concept": "Diagnosis needs inattention and/or hyperactivity-impulsivity across at least two settings for six months with onset before age 12 and functional impairment. Behavioural therapy is first line in preschoolers; methylphenidate or atomoxetine are used in older children.",
+   "reference": "Nelson 21e, ADHD",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "E",
+   "stem": "Nocturnal enuresis is considered abnormal and warrants evaluation after the age of:",
+   "options": [
+    "Five years",
+    "Two years",
+    "Three years",
+    "Ten years"
+   ],
+   "correct": 0,
+   "concept": "Involuntary night-time wetting is normal up to 5 years. Beyond that, secondary causes such as urinary infection, diabetes, constipation and spinal dysraphism are excluded; management uses alarms, motivational therapy and desmopressin.",
+   "reference": "Nelson 21e, Enuresis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "M",
+   "stem": "Breath-holding spells in a toddler are best managed by:",
+   "options": [
+    "Reassurance with avoidance of reinforcement, after excluding iron deficiency anaemia",
+    "Long-term anticonvulsants",
+    "Cardiac pacemaker",
+    "Sedatives"
+   ],
+   "correct": 0,
+   "concept": "Breath-holding spells are benign, provoked by frustration or pain, and resolve by 5 years. Iron deficiency should be corrected as it increases frequency; anticonvulsants have no role since these are not seizures.",
+   "reference": "Ghai Essential Pediatrics 9e, Breath Holding Spells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "M",
+   "stem": "The commonest nutritional problem of Indian adolescents, especially girls, is:",
+   "options": [
+    "Iron deficiency anaemia",
+    "Obesity",
+    "Vitamin A deficiency",
+    "Iodine deficiency"
+   ],
+   "correct": 0,
+   "concept": "Adolescent girls have high requirements from growth and menstrual loss, so anaemia prevalence exceeds 50%. The Weekly Iron and Folic Acid Supplementation programme and Anaemia Mukt Bharat target this group.",
+   "reference": "Park 27e, Adolescent Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "E",
+   "stem": "Adolescence as defined by WHO covers the age group:",
+   "options": [
+    "10 to 19 years",
+    "13 to 19 years",
+    "12 to 18 years",
+    "15 to 24 years"
+   ],
+   "correct": 0,
+   "concept": "WHO defines adolescence as 10 to 19 years, youth as 15 to 24 and young people as 10 to 24 years. The Rashtriya Kishor Swasthya Karyakram addresses nutrition, mental health, injuries, substance misuse and sexual health.",
+   "reference": "Park 27e, Adolescent Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "H",
+   "stem": "Tourette syndrome is characterised by:",
+   "options": [
+    "Multiple motor tics with at least one vocal tic persisting over a year",
+    "Absence seizures",
+    "Chorea after streptococcal infection",
+    "Stereotypies only in autism"
+   ],
+   "correct": 0,
+   "concept": "Tourette syndrome requires multiple motor and at least one vocal tic for more than a year with onset before 18 years, often with obsessive-compulsive symptoms and ADHD. Behavioural therapy is first line, with risperidone or clonidine if severe.",
+   "reference": "Nelson 21e, Tic Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "H",
+   "stem": "Sydenham chorea following streptococcal infection is a major criterion of:",
+   "options": [
+    "Acute rheumatic fever",
+    "Wilson disease",
+    "Huntington disease",
+    "Cerebral palsy"
+   ],
+   "correct": 0,
+   "concept": "Sydenham chorea is a major Jones criterion, appearing months after streptococcal infection with choreiform movements, emotional lability and hypotonia, and is self-limiting but requires secondary penicillin prophylaxis.",
+   "reference": "Nelson 21e, Rheumatic Fever",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_BEH_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Behavioural & developmental disorders; adolescent health",
+   "difficulty": "M",
+   "stem": "Specific learning disability such as dyslexia is characterised by:",
+   "options": [
+    "Difficulty in reading despite normal intelligence and adequate schooling",
+    "Global intellectual disability",
+    "Hearing impairment",
+    "Poor school attendance alone"
+   ],
+   "correct": 0,
+   "concept": "Specific learning disability is unexpected underachievement in reading, writing or arithmetic despite normal intelligence, adequate instruction and intact senses, requiring formal psychoeducational assessment and remedial education with examination accommodations.",
+   "reference": "Ghai Essential Pediatrics 9e, Learning Disability",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "E",
+   "stem": "In paediatric basic life support by a single rescuer, the compression to ventilation ratio is:",
+   "options": [
+    "30 to 2 for a lay rescuer and 15 to 2 for two healthcare providers",
+    "5 to 1",
+    "3 to 1 in all children",
+    "50 to 2"
+   ],
+   "correct": 0,
+   "concept": "A lone rescuer uses 30 to 2, while two healthcare providers use 15 to 2 in infants and children, reflecting the predominantly respiratory aetiology of paediatric arrest. Newborn resuscitation uses 3 to 1.",
+   "reference": "AHA PALS Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "M",
+   "stem": "The first-line drug for a child in status epilepticus with intravenous access is:",
+   "options": [
+    "Intravenous lorazepam or midazolam",
+    "Oral phenytoin",
+    "Intravenous mannitol",
+    "Intramuscular phenobarbitone"
+   ],
+   "correct": 0,
+   "concept": "A benzodiazepine - lorazepam intravenously or midazolam intranasally or buccally without access - is first line, repeated once, followed by a second-line agent such as fosphenytoin, levetiracetam or valproate if seizures persist.",
+   "reference": "KDT 8e; Nelson 21e",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "M",
+   "stem": "The most reliable single sign of shock in a child is:",
+   "options": [
+    "Prolonged capillary refill with tachycardia, as hypotension is a late sign",
+    "Hypotension",
+    "Bradycardia",
+    "Fever"
+   ],
+   "correct": 0,
+   "concept": "Children maintain blood pressure by intense vasoconstriction until late, so tachycardia, prolonged capillary refill, cool peripheries and altered mentation appear first. Hypotension signals decompensation and imminent arrest.",
+   "reference": "AHA PALS Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "E",
+   "stem": "The initial fluid bolus for a child in hypovolaemic shock is:",
+   "options": [
+    "20 mL/kg of isotonic crystalloid",
+    "5 mL/kg of dextrose",
+    "50 mL/kg of colloid",
+    "10 mL/kg of half-normal saline"
+   ],
+   "correct": 0,
+   "concept": "Rapid boluses of 20 mL/kg normal saline or Ringer lactate are given and repeated with reassessment, though smaller 10 mL/kg boluses are used in severe malnutrition and cardiogenic shock to avoid overload.",
+   "reference": "Ghai Essential Pediatrics 9e, Shock",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "M",
+   "stem": "Under IMNCI, a child with any general danger sign must be:",
+   "options": [
+    "Referred urgently after a first dose of appropriate treatment",
+    "Treated at home with oral drugs",
+    "Observed for 24 hours",
+    "Given ORS only"
+   ],
+   "correct": 0,
+   "concept": "General danger signs - inability to drink or breastfeed, persistent vomiting, convulsions, lethargy or unconsciousness - mandate urgent referral with pre-referral treatment such as an antibiotic, antimalarial, or glucose and warmth.",
+   "reference": "IMNCI Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "M",
+   "stem": "Kerosene ingestion in a child is managed by:",
+   "options": [
+    "Supportive care without gastric lavage or induced emesis",
+    "Immediate gastric lavage",
+    "Induced vomiting",
+    "Activated charcoal"
+   ],
+   "correct": 0,
+   "concept": "Hydrocarbons cause chemical pneumonitis if aspirated, so lavage and emesis are contraindicated. Care is supportive with oxygen and observation for respiratory distress; charcoal does not bind hydrocarbons and increases aspiration risk.",
+   "reference": "KDT 8e, Poisoning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "E",
+   "stem": "The commonest cause of accidental death in Indian children aged 1 to 4 years is:",
+   "options": [
+    "Drowning and road traffic injuries",
+    "Poisoning",
+    "Burns",
+    "Falls"
+   ],
+   "correct": 0,
+   "concept": "Unintentional injury - drowning, road traffic injury, burns, falls and poisoning - is a leading cause of childhood death beyond infancy, and is addressed by supervision, home safety, helmets and child restraints.",
+   "reference": "Park 27e, Accidents",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "H",
+   "stem": "Severe acute malnutrition in a child 6 to 59 months is defined by any of:",
+   "options": [
+    "Weight-for-height below minus 3 SD, MUAC below 11.5 cm, or bilateral pedal oedema",
+    "Weight-for-age below minus 2 SD only",
+    "MUAC below 13.5 cm",
+    "Height-for-age below minus 3 SD"
+   ],
+   "correct": 0,
+   "concept": "Any one of these criteria defines severe acute malnutrition. Management follows the WHO ten steps, treating hypoglycaemia, hypothermia, dehydration, electrolytes and infection before cautious feeding to avoid refeeding syndrome.",
+   "reference": "WHO SAM Guidelines; Park 27e",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "H",
+   "stem": "In severe acute malnutrition, the rehydration fluid of choice for a dehydrated child is:",
+   "options": [
+    "ReSoMal, which has lower sodium and higher potassium than standard ORS",
+    "Standard WHO ORS",
+    "Normal saline boluses",
+    "Plain water"
+   ],
+   "correct": 0,
+   "concept": "Malnourished children have excess total body sodium and depleted potassium, so ReSoMal with reduced sodium, added potassium and magnesium is used orally, given slowly because of the risk of fluid overload and heart failure.",
+   "reference": "WHO SAM Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_EMG_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Paediatric emergencies, poisoning & IMNCI",
+   "difficulty": "M",
+   "stem": "The antidote for a child who has ingested an overdose of iron tablets is:",
+   "options": [
+    "Desferrioxamine",
+    "N-acetylcysteine",
+    "Naloxone",
+    "Atropine"
+   ],
+   "correct": 0,
+   "concept": "Iron tablets are a common and lethal accidental paediatric poisoning, causing haemorrhagic gastroenteritis, shock, hepatic necrosis and late gastric scarring. Desferrioxamine chelates free iron; charcoal is ineffective.",
+   "reference": "KDT 8e, Chelating Agents",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_001",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "E",
+   "stem": "Malignant otitis externa most commonly occurs in and is caused by:",
+   "options": [
+    "Elderly diabetics, by Pseudomonas aeruginosa",
+    "Children, by Streptococcus",
+    "Young adults, by Candida",
+    "Neonates, by Staphylococcus"
+   ],
+   "correct": 0,
+   "concept": "Malignant (necrotising) otitis externa is an osteomyelitis of the temporal bone in elderly diabetics or immunocompromised patients, caused by Pseudomonas aeruginosa, with granulation at the bony-cartilaginous junction and risk of facial palsy. Prolonged antipseudomonal therapy is required.",
+   "reference": "Dhingra ENT 7e, Otitis Externa",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_002",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "M",
+   "stem": "Otosclerosis characteristically causes:",
+   "options": [
+    "Progressive bilateral conductive deafness with a normal tympanic membrane and paracusis willisii",
+    "Sensorineural loss with vertigo",
+    "Unilateral discharge",
+    "Acute otalgia"
+   ],
+   "correct": 0,
+   "concept": "Fixation of the stapes footplate by otosclerotic bone gives painless progressive conductive loss, often worsening in pregnancy, with a normal drum, absent stapedial reflex, Carhart's notch and paradoxically better hearing in noise (paracusis willisii).",
+   "reference": "Dhingra ENT 7e, Otosclerosis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_003",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "M",
+   "stem": "Schwartze sign in otosclerosis refers to:",
+   "options": [
+    "A reddish hue over the promontory seen through the tympanic membrane in active otospongiosis",
+    "A retracted drum",
+    "A white patch on the drum",
+    "Bulging of the drum"
+   ],
+   "correct": 0,
+   "concept": "The flamingo-pink Schwartze sign reflects increased vascularity of active otospongiotic bone over the promontory, indicating an active phase where fluoride therapy may be considered.",
+   "reference": "Dhingra ENT 7e, Otosclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_004",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "E",
+   "stem": "The definitive treatment of otosclerosis with significant conductive loss is:",
+   "options": [
+    "Stapedotomy or stapedectomy with prosthesis",
+    "Myringotomy",
+    "Mastoidectomy",
+    "Tympanoplasty"
+   ],
+   "correct": 0,
+   "concept": "Stapedotomy with a piston prosthesis restores ossicular continuity with excellent results; a hearing aid is an alternative for those unfit or unwilling. Surgery is avoided in an only-hearing ear.",
+   "reference": "Dhingra ENT 7e, Otosclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_005",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "M",
+   "stem": "A retracted tympanic membrane with conductive deafness and a type C tympanogram in a child suggests:",
+   "options": [
+    "Otitis media with effusion from eustachian tube dysfunction",
+    "Acute suppurative otitis media",
+    "Otosclerosis",
+    "Cholesteatoma"
+   ],
+   "correct": 0,
+   "concept": "Eustachian dysfunction, commonly from adenoid hypertrophy or allergy, causes negative middle ear pressure, retraction and serous effusion with painless hearing loss. Persistent cases need grommet insertion with adenoidectomy.",
+   "reference": "Dhingra ENT 7e, Otitis Media with Effusion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_006",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "M",
+   "stem": "The commonest organism in acute suppurative otitis media is:",
+   "options": [
+    "Streptococcus pneumoniae",
+    "Pseudomonas aeruginosa",
+    "Candida albicans",
+    "Mycobacterium tuberculosis"
+   ],
+   "correct": 0,
+   "concept": "Pneumococcus, followed by Haemophilus influenzae and Moraxella catarrhalis, causes acute suppurative otitis media, usually spreading via the eustachian tube after an upper respiratory infection. Amoxicillin is first line.",
+   "reference": "Dhingra ENT 7e, Acute Suppurative Otitis Media",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_007",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "E",
+   "stem": "An attic (atticoantral) type of chronic suppurative otitis media is considered unsafe because it is associated with:",
+   "options": [
+    "Cholesteatoma with bone erosion and intracranial complications",
+    "Only mild hearing loss",
+    "Spontaneous resolution",
+    "Serous discharge"
+   ],
+   "correct": 0,
+   "concept": "Atticoantral disease with a posterosuperior marginal perforation and cholesteatoma erodes bone by pressure and enzymatic action, causing facial palsy, labyrinthine fistula and intracranial sepsis. It requires mastoid surgery, not just medical treatment.",
+   "reference": "Dhingra ENT 7e, CSOM",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_008",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "H",
+   "stem": "The tubotympanic (safe) type of chronic suppurative otitis media is characterised by:",
+   "options": [
+    "A central perforation with mucoid non-offensive discharge",
+    "A marginal perforation with foul discharge",
+    "Granulation and polyp",
+    "Facial palsy"
+   ],
+   "correct": 0,
+   "concept": "Safe disease shows a central perforation of the pars tensa with intermittent mucoid non-foul discharge and no bone erosion, managed by aural toilet, topical antibiotics and later tympanoplasty.",
+   "reference": "Dhingra ENT 7e, CSOM",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_009",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "H",
+   "stem": "Cholesteatoma is best described as:",
+   "options": [
+    "Keratinising stratified squamous epithelium in the middle ear that erodes bone",
+    "A benign tumour of cholesterol",
+    "A malignant neoplasm",
+    "A collection of serous fluid"
+   ],
+   "correct": 0,
+   "concept": "Despite its name, cholesteatoma contains no cholesterol and is not a tumour: it is trapped keratinising squamous epithelium producing progressive bone destruction, so the only definitive treatment is surgical removal.",
+   "reference": "Dhingra ENT 7e, Cholesteatoma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_ENT_EAR_010",
+   "part": "B",
+   "subject": "ENT",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "External & middle ear disease: otitis externa, otosclerosis",
+   "difficulty": "M",
+   "stem": "Traumatic perforation of the tympanic membrane is usually managed by:",
+   "options": [
+    "Keeping the ear dry and observing, as most heal spontaneously",
+    "Immediate tympanoplasty",
+    "Syringing the ear",
+    "Topical ototoxic drops"
+   ],
+   "correct": 0,
+   "concept": "Most traumatic perforations heal within weeks with dry ear precautions and avoidance of syringing and ototoxic drops. Surgery is considered only if the perforation persists beyond three months or hearing loss suggests ossicular injury.",
+   "reference": "Dhingra ENT 7e, Trauma to the Ear",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

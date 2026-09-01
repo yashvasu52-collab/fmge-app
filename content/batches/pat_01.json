@@ -1,0 +1,972 @@
+{
+ "questions": [
+  {
+   "id": "Q_PAT_CAR_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "E",
+   "stem": "The two-hit hypothesis of Knudson applies to:",
+   "options": [
+    "Tumour suppressor genes such as RB1, where both alleles must be inactivated",
+    "Oncogenes, where one hit suffices",
+    "DNA repair genes only",
+    "Mitochondrial genes"
+   ],
+   "correct": 0,
+   "concept": "Tumour suppressor genes are recessive at the cellular level, so both alleles must be lost. In hereditary retinoblastoma one mutation is inherited, so a single somatic hit causes bilateral multifocal tumours at a younger age.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "M",
+   "stem": "The most commonly mutated gene in human cancers is:",
+   "options": [
+    "TP53",
+    "RB1",
+    "APC",
+    "BRCA1"
+   ],
+   "correct": 0,
+   "concept": "TP53, the guardian of the genome, is mutated in over half of human cancers. It arrests the cell cycle at G1/S for repair or triggers apoptosis; germline loss causes Li-Fraumeni syndrome.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "M",
+   "stem": "The Philadelphia chromosome is an example of oncogene activation by:",
+   "options": [
+    "Chromosomal translocation creating a fusion gene with constitutive tyrosine kinase activity",
+    "Point mutation",
+    "Gene amplification",
+    "Insertional mutagenesis"
+   ],
+   "correct": 0,
+   "concept": "t(9;22) fuses BCR to ABL1, producing a constitutively active tyrosine kinase driving chronic myeloid leukaemia - the target of imatinib and the model for targeted cancer therapy.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "E",
+   "stem": "Which virus is associated with hepatocellular carcinoma?",
+   "options": [
+    "Hepatitis B and C viruses",
+    "Rotavirus",
+    "Poliovirus",
+    "Rhinovirus"
+   ],
+   "correct": 0,
+   "concept": "Chronic hepatitis B and C cause cirrhosis with regenerative hyperplasia and genomic instability; HBV additionally integrates into the host genome. Aflatoxin B1 acts synergistically, causing a characteristic TP53 codon 249 mutation.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "M",
+   "stem": "Aflatoxin B1, a chemical carcinogen produced by Aspergillus flavus, causes:",
+   "options": [
+    "Hepatocellular carcinoma",
+    "Bladder carcinoma",
+    "Lung carcinoma",
+    "Gastric carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Aflatoxin contaminates improperly stored groundnuts and grains and is a potent hepatocarcinogen, acting synergistically with hepatitis B. Aromatic amines and aniline dyes instead cause bladder cancer.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "M",
+   "stem": "The Warburg effect in tumour cells refers to:",
+   "options": [
+    "Aerobic glycolysis with high glucose uptake even in the presence of oxygen",
+    "Loss of glycolysis",
+    "Increased oxidative phosphorylation",
+    "Reduced glucose uptake"
+   ],
+   "correct": 0,
+   "concept": "Tumours preferentially use glycolysis despite available oxygen, generating biosynthetic intermediates for rapid growth. This underlies FDG-PET imaging, which detects tumours by their avid glucose uptake.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "E",
+   "stem": "The single most reliable feature distinguishing a malignant from a benign tumour is:",
+   "options": [
+    "Metastasis",
+    "Rapid growth",
+    "Large size",
+    "Necrosis"
+   ],
+   "correct": 0,
+   "concept": "Metastasis unequivocally establishes malignancy; no benign tumour metastasises. Other features - invasion, anaplasia, high mitotic rate, pleomorphism - are suggestive but not absolute.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "H",
+   "stem": "The commonest route of spread for carcinomas and sarcomas respectively is:",
+   "options": [
+    "Lymphatic for carcinoma and haematogenous for sarcoma",
+    "Haematogenous for carcinoma and lymphatic for sarcoma",
+    "Both lymphatic",
+    "Both transcoelomic"
+   ],
+   "correct": 0,
+   "concept": "Carcinomas typically spread first to regional lymph nodes while sarcomas invade veins and spread to lungs, though there are exceptions - follicular thyroid, renal cell and hepatocellular carcinomas spread haematogenously.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "H",
+   "stem": "Epithelial-mesenchymal transition in metastasis involves:",
+   "options": [
+    "Loss of E-cadherin with acquisition of a migratory mesenchymal phenotype",
+    "Increased E-cadherin",
+    "Loss of vimentin",
+    "Increased cell adhesion"
+   ],
+   "correct": 0,
+   "concept": "Downregulation of E-cadherin loosens intercellular adhesion, letting carcinoma cells detach, degrade basement membrane with matrix metalloproteinases, intravasate and disseminate. E-cadherin loss is characteristic of diffuse gastric and lobular breast carcinoma.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_CAR_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Carcinogenesis, molecular basis & metastasis",
+   "difficulty": "M",
+   "stem": "Grading of a tumour is based on, and staging on:",
+   "options": [
+    "Degree of differentiation; anatomical extent of spread",
+    "Extent of spread; differentiation",
+    "Both on differentiation",
+    "Both on size"
+   ],
+   "correct": 0,
+   "concept": "Grade reflects histological differentiation and mitotic activity, while stage reflects tumour size, nodal involvement and metastasis by the TNM system. Stage is generally the stronger predictor of prognosis.",
+   "reference": "Robbins & Cotran 10e, Neoplasia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "E",
+   "stem": "The commonest benign breast tumour in a young woman is:",
+   "options": [
+    "Fibroadenoma",
+    "Phyllodes tumour",
+    "Duct papilloma",
+    "Lipoma"
+   ],
+   "correct": 0,
+   "concept": "Fibroadenoma presents in the second and third decades as a firm, smooth, highly mobile painless lump - the breast mouse - with proliferation of both stroma and ducts. It has negligible malignant potential.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "M",
+   "stem": "The commonest histological type of invasive breast carcinoma is:",
+   "options": [
+    "Invasive ductal carcinoma of no special type",
+    "Invasive lobular carcinoma",
+    "Medullary carcinoma",
+    "Mucinous carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Invasive ductal carcinoma, now called invasive carcinoma of no special type, accounts for about 70 to 80%, forming a hard scirrhous mass with desmoplasia. Lobular carcinoma is often bilateral and multicentric with single-file infiltration from E-cadherin loss.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "M",
+   "stem": "Peau d'orange appearance of the breast is caused by:",
+   "options": [
+    "Dermal lymphatic obstruction by tumour with tethering at hair follicles",
+    "Skin infection",
+    "Fat necrosis",
+    "Duct ectasia"
+   ],
+   "correct": 0,
+   "concept": "Blocked dermal lymphatics cause dermal oedema, while the skin remains tethered at the follicles producing pitting like orange peel. Extensive peau d'orange without a discrete lump suggests inflammatory carcinoma (T4d).",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "E",
+   "stem": "Paget disease of the nipple is:",
+   "options": [
+    "Eczematous change of the nipple caused by intraepidermal spread of underlying ductal carcinoma",
+    "A benign eczema",
+    "A fungal infection",
+    "Duct ectasia"
+   ],
+   "correct": 0,
+   "concept": "Malignant Paget cells with clear halos infiltrate the nipple epidermis from an underlying in situ or invasive ductal carcinoma. Unlike eczema it starts at the nipple and spreads to the areola, and never resolves with topical steroid.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "M",
+   "stem": "The most important prognostic factor in breast carcinoma is:",
+   "options": [
+    "Axillary lymph node status",
+    "Tumour grade",
+    "Patient age",
+    "Hormone receptor status"
+   ],
+   "correct": 0,
+   "concept": "Axillary nodal involvement remains the single strongest prognostic factor, followed by tumour size and grade. Receptor and HER2 status are chiefly predictive of response to endocrine and targeted therapy.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "M",
+   "stem": "Triple-negative breast cancer refers to a tumour negative for:",
+   "options": [
+    "Oestrogen receptor, progesterone receptor and HER2",
+    "ER, PR and Ki-67",
+    "HER2, p53 and BRCA",
+    "ER, CEA and CA 15-3"
+   ],
+   "correct": 0,
+   "concept": "Triple-negative tumours cannot be treated with endocrine or anti-HER2 therapy, so chemotherapy is the mainstay. They are commoner in younger women and BRCA1 carriers and have a worse short-term prognosis.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "E",
+   "stem": "Fat necrosis of the breast is important because it:",
+   "options": [
+    "Mimics carcinoma clinically and radiologically, often following trauma",
+    "Is premalignant",
+    "Always resolves within a day",
+    "Causes nipple discharge"
+   ],
+   "correct": 0,
+   "concept": "Fat necrosis produces a hard irregular mass with skin tethering and calcification that closely mimics malignancy, usually after trauma or surgery. Histology shows lipid-laden macrophages, and biopsy is needed to exclude cancer.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "H",
+   "stem": "Blood-stained nipple discharge from a single duct is most commonly caused by:",
+   "options": [
+    "Intraductal papilloma",
+    "Fibroadenoma",
+    "Duct ectasia",
+    "Fibrocystic change"
+   ],
+   "correct": 0,
+   "concept": "An intraductal papilloma in a large lactiferous duct is the commonest cause of single-duct bloody discharge, though carcinoma must be excluded by ductography or microdochectomy with histology.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "H",
+   "stem": "Comedo-type ductal carcinoma in situ is characterised by:",
+   "options": [
+    "High-grade cells with central necrosis and pleomorphic microcalcification on mammography",
+    "Low-grade cells without necrosis",
+    "Invasion of stroma",
+    "Lymph node metastasis"
+   ],
+   "correct": 0,
+   "concept": "Comedo DCIS shows high nuclear grade with central necrosis that calcifies, producing branching pleomorphic microcalcifications on mammography. It carries the highest risk of progression to invasive carcinoma among DCIS subtypes.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BRE_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Breast pathology",
+   "difficulty": "M",
+   "stem": "Gynaecomastia in a male is most often due to:",
+   "options": [
+    "A relative increase in oestrogen to androgen ratio",
+    "Bacterial infection",
+    "Trauma",
+    "Excess protein intake"
+   ],
+   "correct": 0,
+   "concept": "Physiological gynaecomastia occurs in the newborn, puberty and old age; pathological causes include cirrhosis, Klinefelter syndrome, testicular tumours and drugs such as spironolactone, digoxin, cimetidine and ketoconazole.",
+   "reference": "Robbins & Cotran 10e, The Breast",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "E",
+   "stem": "Orphan Annie eye nuclei and psammoma bodies are characteristic of:",
+   "options": [
+    "Papillary carcinoma of the thyroid",
+    "Follicular carcinoma",
+    "Medullary carcinoma",
+    "Anaplastic carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Papillary carcinoma shows optically clear ground-glass nuclei with grooves and intranuclear inclusions, plus laminated psammoma bodies. Diagnosis rests on these nuclear features, not on papillae, and cytology is diagnostic.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "M",
+   "stem": "Fine needle aspiration cytology cannot distinguish follicular adenoma from follicular carcinoma because:",
+   "options": [
+    "Malignancy is defined by capsular or vascular invasion, which requires histology of the whole capsule",
+    "Cells look malignant in both",
+    "Cytology is always inadequate",
+    "There are no follicular cells"
+   ],
+   "correct": 0,
+   "concept": "Both lesions have identical cytological appearances, so the distinction requires demonstration of capsular or vascular invasion in an excised specimen - hence a report of follicular neoplasm mandates diagnostic lobectomy.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "M",
+   "stem": "Hashimoto thyroiditis is characterised histologically by:",
+   "options": [
+    "Lymphoid follicles with germinal centres and Hurthle (Askanazy) cell change",
+    "Caseating granulomas",
+    "Giant cells with granulomas",
+    "Fibrous replacement only"
+   ],
+   "correct": 0,
+   "concept": "Autoimmune destruction with anti-TPO and anti-thyroglobulin antibodies produces dense lymphoplasmacytic infiltration with germinal centres and oxyphilic Hurthle cells. It carries an increased risk of thyroid MALT lymphoma.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "E",
+   "stem": "Amyloid stroma in a thyroid tumour indicates:",
+   "options": [
+    "Medullary carcinoma, the amyloid being derived from calcitonin",
+    "Papillary carcinoma",
+    "Follicular adenoma",
+    "Anaplastic carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Medullary carcinoma arises from parafollicular C cells and deposits amyloid derived from procalcitonin, staining with Congo red and showing apple-green birefringence. Serum calcitonin and CEA are markers.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "M",
+   "stem": "MEN type 1 (Wermer syndrome) comprises tumours of:",
+   "options": [
+    "Parathyroid, pancreas and pituitary",
+    "Parathyroid, thyroid and adrenal medulla",
+    "Adrenal cortex, pituitary and thyroid",
+    "Pancreas, adrenal and thymus"
+   ],
+   "correct": 0,
+   "concept": "MEN1 is the three Ps - parathyroid hyperplasia, pancreatic islet tumours such as gastrinoma and insulinoma, and pituitary adenomas - caused by menin gene mutation. MEN2 involves medullary thyroid carcinoma and phaeochromocytoma from RET mutation.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "M",
+   "stem": "The commonest cause of Cushing syndrome overall is:",
+   "options": [
+    "Exogenous corticosteroid administration",
+    "Pituitary adenoma",
+    "Adrenal adenoma",
+    "Ectopic ACTH"
+   ],
+   "correct": 0,
+   "concept": "Iatrogenic steroid therapy is by far the commonest cause. Among endogenous causes, a pituitary corticotroph adenoma (Cushing disease) predominates, followed by adrenal tumours and ectopic ACTH from small cell lung carcinoma.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "E",
+   "stem": "Waterhouse-Friderichsen syndrome refers to:",
+   "options": [
+    "Bilateral adrenal haemorrhage with acute adrenal insufficiency, classically in meningococcaemia",
+    "Chronic adrenal atrophy",
+    "Adrenal adenoma",
+    "Adrenal carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Fulminant meningococcal septicaemia causes disseminated intravascular coagulation with massive bilateral adrenal haemorrhage, producing hypotension, purpura and rapid death unless steroids and antibiotics are given immediately.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "H",
+   "stem": "Phaeochromocytoma follows the rule of 10s, meaning approximately 10 percent are:",
+   "options": [
+    "Bilateral, extra-adrenal, malignant and familial",
+    "Benign",
+    "Symptomatic",
+    "Adrenal"
+   ],
+   "correct": 0,
+   "concept": "About 10% each are extra-adrenal (paraganglioma, often at the organ of Zuckerkandl), bilateral, malignant, and occur in children; familial cases in MEN2, von Hippel-Lindau and neurofibromatosis are now known to be nearer 25%.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "H",
+   "stem": "The commonest cause of primary hypothyroidism worldwide and in India respectively is:",
+   "options": [
+    "Iodine deficiency worldwide and Hashimoto thyroiditis in iodine-sufficient areas",
+    "Hashimoto worldwide",
+    "Thyroidectomy",
+    "Drug-induced"
+   ],
+   "correct": 0,
+   "concept": "Iodine deficiency remains the leading global cause, though universal salt iodisation has greatly reduced it in India, where autoimmune thyroiditis is now increasingly important in iodine-replete regions.",
+   "reference": "Park 27e; Robbins & Cotran 10e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_ENP_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Endocrine pathology: thyroid, adrenal, pituitary, MEN",
+   "difficulty": "M",
+   "stem": "Nelson syndrome develops after:",
+   "options": [
+    "Bilateral adrenalectomy for Cushing disease, with an enlarging ACTH-secreting pituitary adenoma and hyperpigmentation",
+    "Pituitary surgery",
+    "Thyroidectomy",
+    "Parathyroidectomy"
+   ],
+   "correct": 0,
+   "concept": "Loss of cortisol feedback after bilateral adrenalectomy allows the corticotroph adenoma to enlarge aggressively, producing mass effects with visual field defects and marked hyperpigmentation from high ACTH and MSH activity.",
+   "reference": "Robbins & Cotran 10e, Endocrine System",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "E",
+   "stem": "A granuloma is defined as:",
+   "options": [
+    "A focal collection of activated epithelioid macrophages, often with multinucleate giant cells",
+    "A collection of neutrophils",
+    "A collection of red cells",
+    "A fibrous scar"
+   ],
+   "correct": 0,
+   "concept": "Granulomas form when macrophages cannot eliminate an agent, transforming into epithelioid cells with abundant pink cytoplasm surrounded by lymphocytes. Th1 cytokines, especially interferon gamma and TNF, drive and maintain them.",
+   "reference": "Robbins & Cotran 10e, Inflammation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "M",
+   "stem": "Caseating granulomas are most characteristic of:",
+   "options": [
+    "Tuberculosis",
+    "Sarcoidosis",
+    "Crohn disease",
+    "Foreign body reaction"
+   ],
+   "correct": 0,
+   "concept": "Central caseous necrosis with a cheesy appearance is typical of tuberculosis, resulting from combined hypersensitivity and mycobacterial lipids. Sarcoidosis, Crohn disease and berylliosis produce non-caseating granulomas.",
+   "reference": "Robbins & Cotran 10e, Inflammation",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "M",
+   "stem": "The Ghon complex in primary pulmonary tuberculosis consists of:",
+   "options": [
+    "A subpleural parenchymal focus with draining hilar lymph node involvement",
+    "An apical cavity",
+    "Miliary nodules",
+    "Pleural effusion alone"
+   ],
+   "correct": 0,
+   "concept": "The Ghon focus lies in the lower part of the upper lobe or upper part of the lower lobe; with its draining hilar node it forms the Ghon (primary) complex, which usually heals by fibrosis and calcification (Ranke complex).",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "E",
+   "stem": "Secondary (reactivation) pulmonary tuberculosis characteristically involves:",
+   "options": [
+    "The apical and posterior segments of the upper lobes",
+    "The lower lobes",
+    "The lingula",
+    "The middle lobe"
+   ],
+   "correct": 0,
+   "concept": "Reactivation favours the apices where oxygen tension is highest and lymphatic drainage poorest, producing cavitation from liquefied caseous material draining into a bronchus - the source of infectivity.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "M",
+   "stem": "Langhans giant cells are distinguished by:",
+   "options": [
+    "Peripheral horseshoe arrangement of nuclei",
+    "Central clustered nuclei",
+    "A single large nucleus",
+    "Absent nuclei"
+   ],
+   "correct": 0,
+   "concept": "Langhans giant cells, formed by fusion of epithelioid macrophages, have nuclei arranged peripherally in a horseshoe or ring. Foreign body giant cells have haphazardly scattered nuclei, and Touton giant cells a central ring.",
+   "reference": "Robbins & Cotran 10e, Inflammation",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "M",
+   "stem": "Miliary tuberculosis results from:",
+   "options": [
+    "Haematogenous dissemination producing innumerable small uniform granulomas in multiple organs",
+    "Bronchial spread",
+    "Direct extension",
+    "Lymphatic spread only"
+   ],
+   "correct": 0,
+   "concept": "Erosion of a caseous focus into a blood vessel disseminates bacilli widely, producing millet seed sized lesions in lung, liver, spleen, bone marrow and meninges. It is common in the immunosuppressed and in young children.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "E",
+   "stem": "Lepromatous leprosy differs from tuberculoid leprosy in having:",
+   "options": [
+    "Numerous bacilli with poor cell-mediated immunity and a negative lepromin test",
+    "Few bacilli",
+    "Strong cell-mediated immunity",
+    "A positive lepromin test"
+   ],
+   "correct": 0,
+   "concept": "Lepromatous leprosy reflects a Th2 response with defective cell-mediated immunity, so bacilli are abundant in foamy Virchow cells, lesions are symmetrical and numerous, and the lepromin test is negative. Tuberculoid disease is the opposite pole.",
+   "reference": "Robbins & Cotran 10e, Infectious Diseases",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "H",
+   "stem": "Which stain is used to demonstrate Mycobacterium tuberculosis in tissue sections?",
+   "options": [
+    "Ziehl-Neelsen acid-fast stain",
+    "Periodic acid-Schiff",
+    "Congo red",
+    "Prussian blue"
+   ],
+   "correct": 0,
+   "concept": "The high mycolic acid content of the mycobacterial wall resists acid-alcohol decolourisation after carbol fuchsin staining. Auramine-rhodamine fluorescence is more sensitive for screening large numbers of specimens.",
+   "reference": "Robbins & Cotran 10e, Infectious Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "H",
+   "stem": "Non-caseating granulomas with asteroid and Schaumann bodies suggest:",
+   "options": [
+    "Sarcoidosis",
+    "Tuberculosis",
+    "Leprosy",
+    "Syphilis"
+   ],
+   "correct": 0,
+   "concept": "Sarcoid granulomas are naked - sparsely surrounded by lymphocytes - and contain stellate asteroid bodies and laminated calcified Schaumann bodies, though neither is specific. Diagnosis requires exclusion of infection.",
+   "reference": "Robbins & Cotran 10e, The Lung",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GRN_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Granulomatous disease & TB pathology",
+   "difficulty": "M",
+   "stem": "The gumma of tertiary syphilis is:",
+   "options": [
+    "A granulomatous lesion with central coagulative necrosis and surrounding plasma cell infiltrate",
+    "A neutrophilic abscess",
+    "A caseating granuloma",
+    "A malignant tumour"
+   ],
+   "correct": 0,
+   "concept": "Gummas show central coagulative necrosis with a rim of epithelioid and giant cells and a dense plasma cell infiltrate; obliterative endarteritis with perivascular plasma cells is the histological hallmark of syphilis at all stages.",
+   "reference": "Robbins & Cotran 10e, Infectious Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+Q_SUR_TRF_012 | del | duplicate of Q_SUR_TRF_002 on the hypothermia, citrate hypocalcaemia, hyperkalaemia and dilutional coagulopathy of massive transfusion. The first item is retained
+Q_SUR_BRN_014 | del | duplicate of Q_SUR_BRN_005 on escharotomy for a circumferential full thickness burn. The first item is retained
+Q_SUR_BRN_006 | stem=Which topical antimicrobial is used for most burn wounds, despite penetrating eschar poorly? | the stem read "with good eschar penetration limitations", which contradicts itself
+Q_SUR_TRF_011 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. Blood Transfusion | chapter title unified with the rest of the topic
+Q_SUR_TRF_013 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. Blood Transfusion | chapter title unified with the rest of the topic
+Q_SUR_TRF_014 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. Blood Transfusion | chapter title unified with the rest of the topic
+Q_SUR_TRF_015 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. Blood Transfusion | chapter title unified with the rest of the topic
+Q_SUR_TRF_016 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. Blood Transfusion | chapter title unified with the rest of the topic
+Q_SUR_AAA_001 | ok |
+Q_SUR_AAA_002 | ok |
+Q_SUR_AAA_003 | ok |
+Q_SUR_AAA_004 | ok |
+Q_SUR_TRF_001 | ok |
+Q_SUR_TRF_002 | ok |
+Q_SUR_TRF_003 | ok |
+Q_SUR_TRF_004 | ok |
+Q_SUR_TRF_005 | ok |
+Q_SUR_TRF_006 | ok |
+Q_SUR_TRF_007 | ok |
+Q_SUR_TRF_008 | ok |
+Q_SUR_TRF_009 | ok |
+Q_SUR_TRF_010 | ok |
+Q_SUR_BLC_001 | ok |
+Q_SUR_BLC_003 | ok |
+Q_SUR_BLC_004 | ok |
+Q_SUR_BLC_005 | ok |
+Q_SUR_BLC_006 | ok |
+Q_SUR_BLC_007 | ok |
+Q_SUR_BLC_008 | ok |
+Q_SUR_BRN_001 | ok |
+Q_SUR_BRN_003 | ok |
+Q_SUR_BRN_004 | ok |
+Q_SUR_BRN_005 | ok |
+Q_SUR_BRN_007 | ok |
+Q_SUR_BRN_008 | ok |
+Q_SUR_BRN_009 | ok |
+Q_SUR_BRN_010 | ok |
+Q_SUR_BRN_012 | ok |
+Q_SUR_BRN_015 | ok |
+Q_SUR_BRN_016 | ok |
+Q_SUR_CHT_001 | ok |
+Q_SUR_CHT_002 | ok |
+Q_SUR_CHT_003 | ok |
+Q_SUR_CHT_004 | ok |

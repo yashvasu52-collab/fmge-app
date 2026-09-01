@@ -1,0 +1,50 @@
+Q_ENT_NCK_007 | del | duplicate of Q_ENT_NCK_012, which describes the same trismus and medial displacement of the tonsil and additionally the carotid sheath risk. The fuller item is retained
+Q_ENT_NCK_015 | del | duplicate of Q_ENT_NCK_008 on Lemierre syndrome. The first item is retained
+Q_ENT_NCK_011 | del | duplicate of Q_ENT_NCK_001 on Ludwig angina of the submandibular and sublingual spaces. The first item is retained
+Q_ENT_NCK_013 | del | duplicate of Q_ENT_NCK_004 on an inhaled foreign body lodging in the right main bronchus, and it also carried a deep neck infection chapter for a foreign body item. The first item is retained
+Q_ENT_NCK_014 | del | duplicate of Q_ENT_NCK_002, which already gives the widened prevertebral soft tissue shadow of retropharyngeal abscess. The first item is retained
+Q_ENT_NCK_016 | del | duplicate of Q_ENT_NCK_005 on the cricopharyngeus being the commonest site of oesophageal foreign body impaction. The first item is retained
+Q_ENT_NCK_017 | del | duplicate of Q_ENT_NCK_006 on an oesophageal button battery requiring emergency removal. The first item is retained
+Q_ENT_ORL_002 | del | duplicate of Q_ENT_ORL_015, which gives facial palsy along with the other signs of malignancy in a parotid mass. The fuller item is retained
+Q_ENT_ORL_004 | del | duplicate of Q_ENT_ORL_011, which identifies the submandibular gland and additionally explains why. The fuller item is retained
+Q_ENT_ORL_007 | del | duplicate of Q_ENT_ORL_014 on areca nut and oral submucous fibrosis. The clinical item is retained
+Q_ENT_ORL_019 | del | duplicate of Q_ENT_EAR_017 on unilateral otitis media with effusion in an adult indicating nasopharyngeal carcinoma. The first item is retained
+Q_ENT_OMC_006 | del | duplicate of Q_ENT_EAR_009 on cholesteatoma being keratinising squamous epithelium that erodes bone without being neoplastic. The first item is retained
+Q_ENT_EAR_006 | del | duplicate of Q_ENT_OMC_001, which names the same commonest organism and additionally Haemophilus and Moraxella, and sits in the otitis media topic. The fuller item is retained
+Q_ENT_EAR_007 | del | duplicate of Q_h3d_028, which presents the same unsafe atticoantral disease as a vignette with the retraction pocket and pearly debris. The vignette is retained
+Q_ENT_AUD_004 | del | duplicate of Q_PYQ_FMGE_2024JAN_009 on otoacoustic emissions for newborn screening. The real exam recall is retained in preference to the authored item
+Q_ENT_CMP_011 | del | duplicate of Q_PYQ_FMGE_2026JUN_020, which presents the same mastoiditis with forward displacement of the pinna and carries the same Bezold and Citelli distractors. The real exam recall is retained
+Q_ENT_NCK_019 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Foreign Bodies | a foreign body item cited the deep neck infections chapter
+Q_ENT_NCK_012 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Deep Neck Space Infections | chapter title unified with the rest of the topic
+Q_ENT_NCK_018 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Deep Neck Space Infections | chapter title unified with the rest of the topic
+Q_ENT_ORL_006 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Diseases of Oral Cavity; Park's Textbook of Preventive and Social Medicine 27e, Ch. Non-communicable Diseases | Park's has no chapter called Oral Cancer, and an ENT topic needs an ENT source
+Q_h3d_028 | ref=Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Cholesteatoma and Chronic Suppurative Otitis Media | the reference named the book with no chapter
+Q_PYQ_FMGE_2025JULP2_088 | topic=Vertigo, Meniere's disease & facial nerve palsy;;ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Meniere's Disease | a Meniere item was filed under otitis media although the subject has a vertigo and Meniere topic, and the reference named only the exam paper
+Q_PYQ_FMGE_2025JANP1_061 | stem=A patient presents to the OPD with hearing loss. On examination: Rinne test - positive in both ears; Weber's test - lateralisation towards the left; bone conduction reduced in the right ear and normal in the left. Interpret the findings.;;ref=FMGE January 2025 Part 1 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Assessment of Hearing | the recall as transcribed said Rinne was negative in the right ear, which means conduction deafness there and contradicts both the Weber lateralisation away from the right and the reduced right bone conduction. The tuning fork findings are corrected so that the keyed right sensorineural loss is the only reading
+Q_PYQ_FMGE_2024JAN_008 | ref=FMGE January 2024 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Anatomy and Physiology of Ear | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2024JAN_009 | ref=FMGE January 2024 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Deafness in Children | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_054 | ref=FMGE January 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Complications of Suppurative Otitis Media | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_087 | ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Impedance Audiometry | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_107 | ref=FMGE July 2025 Part 2 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Otitis Media with Effusion | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JUN_020 | ref=FMGE June 2026 (real exam recall); Dhingra Diseases of Ear, Nose and Throat 8e, Ch. Complications of Suppurative Otitis Media | exam-paper-only reference given a study source
+Q_ENT_NCK_008 | ok |
+Q_ENT_NCK_009 | ok |
+Q_ENT_NCK_010 | ok |
+Q_ENT_ORL_005 | ok |
+Q_ENT_ORL_008 | ok |
+Q_ENT_ORL_009 | ok |
+Q_ENT_ORL_010 | ok |
+Q_ENT_ORL_011 | ok |
+Q_ENT_ORL_012 | ok |
+Q_ENT_ORL_014 | ok |
+Q_ENT_ORL_015 | ok |
+Q_ENT_ORL_016 | ok |
+Q_ENT_ORL_017 | ok |
+Q_ENT_ORL_018 | ok |
+Q_ENT_ORL_020 | ok |
+Q_ENT_OMC_001 | ok |
+Q_ENT_OMC_002 | ok |
+Q_ENT_OMC_003 | ok |
+Q_ENT_OMC_004 | ok |
+Q_ENT_OMC_005 | ok |
+Q_ENT_OMC_007 | ok |

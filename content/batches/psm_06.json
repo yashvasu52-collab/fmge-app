@@ -1,0 +1,489 @@
+{
+ "questions": [
+  {
+   "id": "Q_PSM_ECO_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "E",
+   "stem": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana provides health cover of:",
+   "options": [
+    "Five lakh rupees per family per year for secondary and tertiary hospitalisation",
+    "One lakh rupees",
+    "Ten lakh rupees",
+    "Fifty thousand rupees"
+   ],
+   "correct": 0,
+   "concept": "It targets the poorest 40% of the population identified by deprivation criteria, is cashless and paperless at empanelled hospitals, and is portable across states.",
+   "reference": "Park 27e, Health Insurance",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "M",
+   "stem": "The two components of Ayushman Bharat are:",
+   "options": [
+    "Health and Wellness Centres for comprehensive primary care and PM-JAY for hospitalisation",
+    "Only insurance",
+    "Only primary care",
+    "Medical education and insurance"
+   ],
+   "correct": 0,
+   "concept": "The two pillars address different levels: HWCs deliver 12 packages of comprehensive primary care including NCD screening, while PM-JAY protects against catastrophic hospitalisation expenditure.",
+   "reference": "Park 27e, National Health Programmes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "M",
+   "stem": "Catastrophic health expenditure is conventionally defined as out-of-pocket spending exceeding:",
+   "options": [
+    "Ten percent of total household consumption expenditure",
+    "One percent",
+    "Fifty percent",
+    "Ninety percent"
+   ],
+   "correct": 0,
+   "concept": "India has among the highest out-of-pocket shares globally, pushing millions below the poverty line annually - the impoverishment effect that health financing reform seeks to prevent.",
+   "reference": "Park 27e, Health Economics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "E",
+   "stem": "Cost-effectiveness analysis compares interventions using:",
+   "options": [
+    "Cost per unit of health outcome, such as cost per life year gained",
+    "Cost only",
+    "Outcome only",
+    "Revenue generated"
+   ],
+   "correct": 0,
+   "concept": "Cost-utility analysis uses QALYs or DALYs allowing comparison across diseases, while cost-benefit analysis values outcomes in money terms, which is ethically contentious for health.",
+   "reference": "Park 27e, Health Economics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "M",
+   "stem": "The Employees State Insurance Scheme is financed by:",
+   "options": [
+    "Contributions from employers and employees, making it a social insurance model",
+    "General taxation",
+    "Voluntary premiums",
+    "Donor funding"
+   ],
+   "correct": 0,
+   "concept": "Social insurance is compulsory and contributory with risk pooling, distinguishing it from tax-funded national health services and from voluntary private insurance based on individual risk rating.",
+   "reference": "Park 27e, Social Security",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "M",
+   "stem": "Moral hazard in health insurance refers to:",
+   "options": [
+    "Increased use of services because the insured does not bear the full cost",
+    "Fraud by providers",
+    "Denial of claims",
+    "Adverse selection"
+   ],
+   "correct": 0,
+   "concept": "Co-payments and gatekeeping mitigate it. Adverse selection is the opposite problem, where those expecting to need care are most likely to insure, which universal enrolment prevents.",
+   "reference": "Park 27e, Health Economics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "E",
+   "stem": "The largest share of health expenditure in India has historically been:",
+   "options": [
+    "Out-of-pocket private expenditure by households",
+    "Central government",
+    "State government",
+    "Insurance"
+   ],
+   "correct": 0,
+   "concept": "Although the out-of-pocket share has fallen with expanded insurance and free service delivery, it remains high, which is why financial protection is a central objective of health policy.",
+   "reference": "Park 27e, Health Economics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "H",
+   "stem": "A DALY averted is used in health economics to measure:",
+   "options": [
+    "The health gain from an intervention, combining premature mortality and disability",
+    "Cost only",
+    "Number of patients treated",
+    "Hospital beds"
+   ],
+   "correct": 0,
+   "concept": "Interventions are ranked by cost per DALY averted, allowing comparison between, say, immunisation and dialysis. Immunisation and tobacco control are consistently among the most cost-effective.",
+   "reference": "Park 27e, Health Economics",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "H",
+   "stem": "Strategic purchasing in health financing means:",
+   "options": [
+    "Actively selecting what services to buy, from whom and how to pay, rather than passive budgeting",
+    "Buying the cheapest drugs",
+    "Purchasing equipment",
+    "Building hospitals"
+   ],
+   "correct": 0,
+   "concept": "Provider payment mechanisms - capitation, case-based bundled payment and performance-linked payment - shape provider behaviour, which is why payment design matters as much as the level of funding.",
+   "reference": "Park 27e, Health Economics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ECO_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Health economics, insurance, Ayushman Bharat & financing",
+   "difficulty": "M",
+   "stem": "Rashtriya Swasthya Bima Yojana, the predecessor of PM-JAY, differed principally in:",
+   "options": [
+    "Providing a much lower annual cover of thirty thousand rupees per family",
+    "Providing higher cover",
+    "Covering only outpatients",
+    "Being voluntary"
+   ],
+   "correct": 0,
+   "concept": "The low cover proved inadequate for serious illness, and evaluations showed limited reduction in out-of-pocket spending - the evidence that drove the far larger PM-JAY entitlement.",
+   "reference": "Park 27e, Health Insurance",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_001",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "E",
+   "stem": "India accounts for a large share of global rabies deaths, with the principal reservoir being:",
+   "options": [
+    "The stray dog",
+    "Cattle",
+    "Rodents",
+    "Bats"
+   ],
+   "correct": 0,
+   "concept": "Dog bites cause the overwhelming majority of human rabies in India. Mass dog vaccination achieving 70% coverage, alongside population management, is the only route to elimination.",
+   "reference": "Park 27e, Rabies",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_002",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "M",
+   "stem": "A category II rabies exposure, defined as minor scratches without bleeding, requires:",
+   "options": [
+    "Wound washing and vaccine, but not immunoglobulin",
+    "Vaccine and immunoglobulin",
+    "Observation only",
+    "Immunoglobulin only"
+   ],
+   "correct": 0,
+   "concept": "Category I is touching or feeding with intact skin needing no prophylaxis; category III with transdermal bites, bleeding scratches or mucosal contamination requires immunoglobulin as well as vaccine.",
+   "reference": "Park 27e, Rabies",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_003",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "M",
+   "stem": "Wound washing after an animal bite should be done with:",
+   "options": [
+    "Soap and running water for at least 15 minutes",
+    "Antiseptic alone briefly",
+    "Alcohol only",
+    "Not at all"
+   ],
+   "correct": 0,
+   "concept": "Mechanical removal and the lipid-solvent action of soap on the enveloped virus can reduce risk substantially, making this simple step the single most important first-aid measure.",
+   "reference": "Park 27e, Rabies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_004",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "E",
+   "stem": "Plague is transmitted from rat to man by:",
+   "options": [
+    "The rat flea Xenopsylla cheopis",
+    "Direct contact",
+    "Mosquito bite",
+    "Contaminated water"
+   ],
+   "correct": 0,
+   "concept": "Blocked flea proventriculus causes regurgitation of bacilli during feeding. Rat fall preceding human cases is the classic warning sign, as fleas leave dying rats to seek human hosts.",
+   "reference": "Park 27e, Plague",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_005",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "M",
+   "stem": "Pneumonic plague differs from bubonic in that it:",
+   "options": [
+    "Spreads person to person by droplets and is almost invariably fatal without prompt treatment",
+    "Is milder",
+    "Is not contagious",
+    "Has no treatment"
+   ],
+   "correct": 0,
+   "concept": "It is the only form transmissible between humans, requiring respiratory isolation and prophylaxis of contacts. Plague is a notifiable disease under the International Health Regulations.",
+   "reference": "Park 27e, Plague",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_006",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "M",
+   "stem": "Leptospirosis outbreaks in India characteristically follow:",
+   "options": [
+    "Flooding and monsoon rains, with exposure to water contaminated by rodent urine",
+    "Drought",
+    "Cold weather",
+    "Dust storms"
+   ],
+   "correct": 0,
+   "concept": "Paddy field workers, sewage workers and those wading through floodwater are at risk. Doxycycline prophylaxis is used for high-risk exposure during outbreaks.",
+   "reference": "Park 27e, Leptospirosis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_007",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "E",
+   "stem": "Brucellosis is prevented in the community principally by:",
+   "options": [
+    "Pasteurisation of milk and vaccination of animals",
+    "Human vaccination",
+    "Vector control",
+    "Chemoprophylaxis"
+   ],
+   "correct": 0,
+   "concept": "It is an occupational disease of veterinarians, abattoir workers, farmers and laboratory staff, and is one of the commonest laboratory-acquired infections because of its high infectivity by aerosol.",
+   "reference": "Park 27e, Brucellosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_008",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "H",
+   "stem": "Anthrax in humans occurs most commonly in which form?",
+   "options": [
+    "Cutaneous, presenting as a painless black eschar",
+    "Pulmonary",
+    "Gastrointestinal",
+    "Meningeal"
+   ],
+   "correct": 0,
+   "concept": "Cutaneous anthrax accounts for over 95% of cases and has low mortality with treatment, while inhalational anthrax carries very high mortality and is the form of bioterrorism concern.",
+   "reference": "Park 27e, Anthrax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_009",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "H",
+   "stem": "Kyasanur Forest disease, a tick-borne viral haemorrhagic fever, is endemic in:",
+   "options": [
+    "Karnataka and neighbouring Western Ghats districts",
+    "Punjab",
+    "Assam",
+    "Rajasthan"
+   ],
+   "correct": 0,
+   "concept": "Monkeys act as amplifying hosts and Haemaphysalis ticks as vectors, so monkey deaths precede human cases. A vaccine is available for people in affected areas.",
+   "reference": "Park 27e, Kyasanur Forest Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PSM_ZOO_010",
+   "part": "B",
+   "subject": "PSM (Community Medicine)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Zoonoses: rabies, plague, leptospirosis, brucellosis",
+   "difficulty": "M",
+   "stem": "The One Health approach to zoonoses recognises that:",
+   "options": [
+    "Human, animal and environmental health are interdependent and require integrated action",
+    "Only human health matters",
+    "Animals are irrelevant",
+    "Environment is separate"
+   ],
+   "correct": 0,
+   "concept": "Since about 60% of emerging infections are zoonotic, joint surveillance across veterinary, human and wildlife sectors is essential - a lesson reinforced by avian influenza, Nipah and COVID-19.",
+   "reference": "Park 27e, Zoonoses",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

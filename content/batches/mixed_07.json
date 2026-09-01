@@ -1,0 +1,970 @@
+{
+ "questions": [
+  {
+   "id": "Q_MED_POI_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "E",
+   "stem": "The antidote for organophosphate poisoning is:",
+   "options": [
+    "Atropine with pralidoxime",
+    "Naloxone",
+    "Flumazenil",
+    "Methylene blue"
+   ],
+   "correct": 0,
+   "concept": "Organophosphates irreversibly inhibit acetylcholinesterase, causing the muscarinic DUMBBELS features with miosis, bronchorrhoea and fasciculations. Atropine reverses muscarinic effects and pralidoxime reactivates the enzyme if given before ageing.",
+   "reference": "KDT 8e, Cholinergic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "M",
+   "stem": "The end point of atropinisation in organophosphate poisoning is:",
+   "options": [
+    "Drying of secretions with clear chest and heart rate above 80",
+    "Fully dilated pupils",
+    "Loss of consciousness",
+    "Complete absence of fasciculations"
+   ],
+   "correct": 0,
+   "concept": "Atropine is titrated to drying of bronchial secretions, a clear chest and adequate heart rate - not to pupil size, which is an unreliable end point. Under-atropinisation from fear of toxicity is a common fatal error.",
+   "reference": "KDT 8e, Cholinergic Drugs",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "M",
+   "stem": "A patient with a haemotoxic snake bite has 20-minute whole blood clotting time that is prolonged. The essential treatment is:",
+   "options": [
+    "Polyvalent anti-snake venom",
+    "Tourniquet application",
+    "Incision and suction of the bite",
+    "Prophylactic antibiotics alone"
+   ],
+   "correct": 0,
+   "concept": "A prolonged 20-minute whole blood clotting test indicates systemic envenomation by a viper and mandates polyvalent antivenom. Tourniquets and incision are harmful and are no longer recommended.",
+   "reference": "Park 27e, Snake Bite",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "E",
+   "stem": "The characteristic feature of neurotoxic (cobra or krait) envenomation is:",
+   "options": [
+    "Descending paralysis with ptosis and respiratory failure",
+    "Bleeding from gums",
+    "Local necrosis only",
+    "Acute kidney injury"
+   ],
+   "correct": 0,
+   "concept": "Elapid venom blocks the neuromuscular junction, producing ptosis, ophthalmoplegia, bulbar palsy and then respiratory paralysis with minimal local reaction, especially in krait bite which is often painless and nocturnal. Ventilation plus antivenom is life-saving.",
+   "reference": "Park 27e, Snake Bite",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "M",
+   "stem": "Methanol poisoning is treated with:",
+   "options": [
+    "Fomepizole or ethanol with sodium bicarbonate and haemodialysis",
+    "Naloxone",
+    "N-acetylcysteine",
+    "Atropine"
+   ],
+   "correct": 0,
+   "concept": "Methanol is metabolised by alcohol dehydrogenase to formic acid, causing high anion gap acidosis and blindness. Fomepizole or ethanol competitively blocks the enzyme, and haemodialysis removes methanol and formate.",
+   "reference": "KDT 8e, Ethyl and Methyl Alcohol",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "M",
+   "stem": "Cherry-red skin with a normal arterial oxygen saturation on pulse oximetry despite severe hypoxia suggests:",
+   "options": [
+    "Carbon monoxide poisoning",
+    "Cyanide poisoning",
+    "Methaemoglobinaemia",
+    "Organophosphate poisoning"
+   ],
+   "correct": 0,
+   "concept": "Carboxyhaemoglobin is misread as oxyhaemoglobin by pulse oximetry, so saturation appears normal; co-oximetry is needed. Treatment is high-flow or hyperbaric oxygen. Methaemoglobinaemia instead causes chocolate-brown blood and cyanosis unresponsive to oxygen.",
+   "reference": "HARR 21e, Poisoning and Drug Overdose",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "E",
+   "stem": "Gastric lavage is absolutely contraindicated in poisoning with:",
+   "options": [
+    "Corrosive acids and alkalis or hydrocarbons",
+    "Barbiturates",
+    "Salicylates",
+    "Iron tablets"
+   ],
+   "correct": 0,
+   "concept": "Lavage risks perforation with corrosives and aspiration pneumonitis with hydrocarbons such as kerosene. It is also of no benefit beyond one hour of ingestion and is now rarely performed.",
+   "reference": "KDT 8e, General Principles of Poisoning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "H",
+   "stem": "Which poison is NOT adsorbed by activated charcoal?",
+   "options": [
+    "Iron, lithium and alcohols",
+    "Paracetamol",
+    "Carbamazepine",
+    "Theophylline"
+   ],
+   "correct": 0,
+   "concept": "Charcoal does not bind metals such as iron and lithium, alcohols, strong acids and alkalis or cyanide, because these are small, highly ionised or poorly adsorbable molecules. Multi-dose charcoal is useful for carbamazepine, theophylline, dapsone and phenobarbitone.",
+   "reference": "KDT 8e, General Principles of Poisoning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "H",
+   "stem": "Urinary alkalinisation with sodium bicarbonate is used in poisoning with:",
+   "options": [
+    "Salicylates and phenobarbitone",
+    "Amitriptyline",
+    "Digoxin",
+    "Paraquat"
+   ],
+   "correct": 0,
+   "concept": "Alkalinising urine ionises weak acids such as salicylate and phenobarbitone, trapping them in the tubular lumen and enhancing excretion. Acidification is no longer used because of rhabdomyolysis risk.",
+   "reference": "KDT 8e, General Principles of Poisoning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_POI_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Poisoning & envenomation: emergency management",
+   "difficulty": "M",
+   "stem": "The specific antidote for iron poisoning is:",
+   "options": [
+    "Desferrioxamine",
+    "Dimercaprol",
+    "Penicillamine",
+    "Calcium disodium edetate"
+   ],
+   "correct": 0,
+   "concept": "Desferrioxamine chelates free iron and is excreted as ferrioxamine, turning urine vin-rose. Dimercaprol and edetate are used for arsenic and lead respectively.",
+   "reference": "KDT 8e, Chelating Agents",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "E",
+   "stem": "The commonest cause of a fall in an elderly person is:",
+   "options": [
+    "Multifactorial - gait instability, polypharmacy, visual impairment and environmental hazards",
+    "A single cardiac arrhythmia",
+    "Epilepsy",
+    "Anaemia"
+   ],
+   "correct": 0,
+   "concept": "Falls in old age are almost always multifactorial, so assessment covers gait and balance, vision, cognition, postural blood pressure, footwear, home hazards and a full drug review. Falls are a leading cause of hip fracture and loss of independence.",
+   "reference": "HARR 21e, Geriatric Medicine and Palliative Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "M",
+   "stem": "Which drug class is most strongly implicated in falls and delirium in the elderly and appears on the Beers criteria?",
+   "options": [
+    "Long-acting benzodiazepines and anticholinergics",
+    "Statins",
+    "Proton pump inhibitors",
+    "Inhaled bronchodilators"
+   ],
+   "correct": 0,
+   "concept": "The Beers criteria flag long-acting benzodiazepines, anticholinergics, first-generation antihistamines and typical antipsychotics as potentially inappropriate in older adults because of sedation, falls, delirium and urinary retention.",
+   "reference": "HARR 21e, Geriatric Medicine and Palliative Care",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "M",
+   "stem": "Delirium is distinguished from dementia principally by:",
+   "options": [
+    "Acute onset with fluctuating course and impaired attention",
+    "Progressive memory loss over years",
+    "Preserved attention",
+    "Absence of any identifiable cause"
+   ],
+   "correct": 0,
+   "concept": "Delirium is an acute, fluctuating disturbance of attention and awareness with an underlying medical precipitant such as infection, drugs, retention or electrolyte disturbance, and is reversible; dementia is chronic and progressive with attention preserved until late.",
+   "reference": "HARR 21e, Geriatric Medicine and Palliative Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "E",
+   "stem": "Frailty in the elderly is best characterised by:",
+   "options": [
+    "Reduced physiological reserve with weakness, slow gait, weight loss and exhaustion",
+    "A single chronic disease",
+    "Age above 60 alone",
+    "Presence of dementia"
+   ],
+   "correct": 0,
+   "concept": "Frailty is a state of reduced reserve across systems, operationalised by Fried criteria - unintentional weight loss, weakness, exhaustion, slow walking speed and low activity - predicting poor outcomes independent of specific disease.",
+   "reference": "HARR 21e, Geriatric Medicine and Palliative Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "M",
+   "stem": "The single most effective intervention to prevent pressure ulcers in a bedridden elderly patient is:",
+   "options": [
+    "Frequent repositioning with pressure-redistributing support and skin care",
+    "Prophylactic antibiotics",
+    "High-dose vitamin C",
+    "Application of talcum powder"
+   ],
+   "correct": 0,
+   "concept": "Two-hourly repositioning with pressure-relieving mattresses, nutritional support and skin moisture control prevents ulceration over the sacrum, heels and ischial tuberosities. Antibiotics have no preventive role.",
+   "reference": "HARR 21e, Geriatric Medicine and Palliative Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "M",
+   "stem": "The principle of the analgesic ladder in cancer pain is:",
+   "options": [
+    "Step from non-opioid to weak opioid to strong opioid, given by mouth and by the clock",
+    "Reserve opioids until the terminal week",
+    "Use intramuscular injections as first choice",
+    "Give analgesics only on demand"
+   ],
+   "correct": 0,
+   "concept": "The WHO ladder advises analgesia by mouth, by the clock and by the ladder, with adjuvants at every step. Regular dosing with breakthrough rescue doses controls pain far better than as-required administration.",
+   "reference": "WHO Cancer Pain Relief; Park 27e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "E",
+   "stem": "There is no ceiling dose for which analgesic in cancer pain?",
+   "options": [
+    "Morphine",
+    "Paracetamol",
+    "Ibuprofen",
+    "Tramadol"
+   ],
+   "correct": 0,
+   "concept": "Strong opioids such as morphine have no maximum dose - the correct dose is that which relieves pain without unacceptable toxicity - whereas paracetamol and NSAIDs have clear ceiling doses. Constipation must be prevented prophylactically with a laxative.",
+   "reference": "KDT 8e, Opioid Analgesics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "H",
+   "stem": "The commonest cause of death in patients with dementia in the terminal phase is:",
+   "options": [
+    "Aspiration pneumonia",
+    "Myocardial infarction",
+    "Renal failure",
+    "Stroke"
+   ],
+   "correct": 0,
+   "concept": "Progressive dysphagia leads to aspiration pneumonia, the usual terminal event in advanced dementia. Tube feeding does not prevent aspiration or improve survival, which is central to advance care planning discussions.",
+   "reference": "HARR 21e, Geriatric Medicine and Palliative Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "H",
+   "stem": "An advance directive or living will primarily serves to:",
+   "options": [
+    "Record a competent patient's wishes about future treatment should they lose capacity",
+    "Transfer property",
+    "Authorise organ donation only",
+    "Allow euthanasia"
+   ],
+   "correct": 0,
+   "concept": "An advance directive records treatment preferences made while competent, to guide care after loss of capacity. In India the Supreme Court recognised advance directives and passive withdrawal of futile life support in the Common Cause judgment of 2018; active euthanasia remains illegal.",
+   "reference": "Common Cause v Union of India (2018)",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GER_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Geriatrics, palliative care & end-of-life issues",
+   "difficulty": "M",
+   "stem": "Polypharmacy in the elderly is best addressed by:",
+   "options": [
+    "Structured medication review with deprescribing of drugs lacking clear indication",
+    "Adding a drug for each symptom",
+    "Halving all doses",
+    "Stopping all drugs abruptly"
+   ],
+   "correct": 0,
+   "concept": "Systematic review against indication, benefit, interaction and life expectancy, followed by planned tapering of unnecessary drugs, reduces adverse events. Prescribing cascades - a drug given to treat another drug's side effect - should be identified.",
+   "reference": "HARR 21e, Geriatric Medicine and Palliative Care",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "E",
+   "stem": "Wernicke encephalopathy results from deficiency of:",
+   "options": [
+    "Thiamine (vitamin B1)",
+    "Niacin",
+    "Pyridoxine",
+    "Cobalamin"
+   ],
+   "correct": 0,
+   "concept": "Thiamine deficiency, classically in alcoholics, causes the triad of confusion, ophthalmoplegia and ataxia. It is a medical emergency, and thiamine must be given before glucose because a glucose load can precipitate or worsen it.",
+   "reference": "HARR 21e, Vitamin and Trace Mineral Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "M",
+   "stem": "Pellagra is characterised by the triad of:",
+   "options": [
+    "Dermatitis, diarrhoea and dementia",
+    "Anaemia, glossitis and neuropathy",
+    "Night blindness, xerosis and keratomalacia",
+    "Bleeding gums and poor wound healing"
+   ],
+   "correct": 0,
+   "concept": "Niacin deficiency causes the three Ds - photosensitive pigmented dermatitis with Casal necklace, diarrhoea and dementia. It occurs in maize-based diets, carcinoid syndrome and isoniazid therapy, since tryptophan is the niacin precursor.",
+   "reference": "Park 27e, Nutrition",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "M",
+   "stem": "Isoniazid-induced peripheral neuropathy is prevented by supplementing:",
+   "options": [
+    "Pyridoxine",
+    "Thiamine",
+    "Riboflavin",
+    "Folic acid"
+   ],
+   "correct": 0,
+   "concept": "Isoniazid forms hydrazones with pyridoxal phosphate and increases its urinary loss, so 10 mg of pyridoxine daily is given prophylactically. Pyridoxine is also the antidote for isoniazid overdose seizures.",
+   "reference": "KDT 8e, Antitubercular Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "E",
+   "stem": "Bitot spots and conjunctival xerosis indicate deficiency of:",
+   "options": [
+    "Vitamin A",
+    "Vitamin C",
+    "Vitamin D",
+    "Vitamin K"
+   ],
+   "correct": 0,
+   "concept": "Vitamin A deficiency progresses from night blindness through conjunctival xerosis and Bitot spots to corneal xerosis, ulceration and keratomalacia, the leading preventable cause of childhood blindness.",
+   "reference": "Park 27e, Vitamin A Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "M",
+   "stem": "Scurvy is characterised by:",
+   "options": [
+    "Perifollicular haemorrhage, swollen bleeding gums and impaired wound healing",
+    "Hyperpigmented dermatitis",
+    "Ataxia and ophthalmoplegia",
+    "Megaloblastic anaemia"
+   ],
+   "correct": 0,
+   "concept": "Vitamin C is required for prolyl and lysyl hydroxylation in collagen synthesis, so deficiency causes fragile capillaries with perifollicular haemorrhages, corkscrew hairs, gingival bleeding, subperiosteal haemorrhage and poor wound healing.",
+   "reference": "HARR 21e, Vitamin and Trace Mineral Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "M",
+   "stem": "Osteomalacia in an adult is most consistently associated with:",
+   "options": [
+    "Low serum vitamin D with low or normal calcium, low phosphate and raised alkaline phosphatase",
+    "High calcium and high phosphate",
+    "Normal alkaline phosphatase",
+    "Raised serum vitamin D"
+   ],
+   "correct": 0,
+   "concept": "Defective mineralisation of mature bone gives bone pain, proximal myopathy with waddling gait and pseudofractures (Looser zones), with low 25-hydroxyvitamin D, secondary hyperparathyroidism and raised alkaline phosphatase.",
+   "reference": "HARR 21e, Vitamin and Trace Mineral Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "E",
+   "stem": "Which vitamin deficiency causes prolongation of the prothrombin time?",
+   "options": [
+    "Vitamin K",
+    "Vitamin E",
+    "Vitamin B12",
+    "Vitamin B6"
+   ],
+   "correct": 0,
+   "concept": "Vitamin K is the cofactor for gamma-carboxylation of factors II, VII, IX and X and proteins C and S, so deficiency prolongs the prothrombin time first because factor VII has the shortest half-life.",
+   "reference": "KDT 8e, Vitamin K",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "H",
+   "stem": "Which mineral deficiency causes acrodermatitis enteropathica with poor wound healing, hypogeusia and diarrhoea?",
+   "options": [
+    "Zinc",
+    "Copper",
+    "Selenium",
+    "Iodine"
+   ],
+   "correct": 0,
+   "concept": "Zinc deficiency, inherited or from malabsorption, parenteral nutrition or alcoholism, causes periorificial and acral dermatitis, alopecia, impaired taste, poor wound healing and immune dysfunction, and responds rapidly to zinc.",
+   "reference": "HARR 21e, Vitamin and Trace Mineral Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "H",
+   "stem": "Keshan disease, a dilated cardiomyopathy, results from deficiency of:",
+   "options": [
+    "Selenium",
+    "Chromium",
+    "Manganese",
+    "Molybdenum"
+   ],
+   "correct": 0,
+   "concept": "Selenium deficiency in low-selenium soil regions causes Keshan cardiomyopathy and Kashin-Beck osteoarthropathy; selenium is a cofactor for glutathione peroxidase and for deiodinases in thyroid hormone metabolism.",
+   "reference": "HARR 21e, Vitamin and Trace Mineral Deficiency",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_NUT_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Nutritional & vitamin deficiency states in adults",
+   "difficulty": "M",
+   "stem": "Refeeding syndrome after nutritional rehabilitation of a severely malnourished adult is characterised by:",
+   "options": [
+    "Hypophosphataemia with hypokalaemia, hypomagnesaemia and thiamine deficiency",
+    "Hyperphosphataemia and hypernatraemia",
+    "Isolated hypercalcaemia",
+    "Metabolic alkalosis alone"
+   ],
+   "correct": 0,
+   "concept": "Reintroduction of carbohydrate drives insulin-mediated intracellular shift of phosphate, potassium and magnesium, precipitating arrhythmias, cardiac failure and rhabdomyolysis. Feeding is started slowly with electrolyte monitoring and thiamine before calories.",
+   "reference": "HARR 21e, Vitamin and Trace Mineral Deficiency",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "E",
+   "stem": "In normal pregnancy, plasma volume increases by approximately:",
+   "options": [
+    "40 to 50 percent",
+    "5 to 10 percent",
+    "80 to 100 percent",
+    "No change"
+   ],
+   "correct": 0,
+   "concept": "Plasma volume rises by about 40 to 50% while red cell mass rises only 20 to 30%, producing the physiological dilutional anaemia of pregnancy with a nadir haematocrit around 32 weeks.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "M",
+   "stem": "Cardiac output in pregnancy peaks at:",
+   "options": [
+    "Around 30 to 32 weeks and again immediately postpartum",
+    "6 weeks",
+    "Term only",
+    "12 weeks"
+   ],
+   "correct": 0,
+   "concept": "Cardiac output rises about 40%, plateauing near 30 to 32 weeks, with a further sharp rise immediately after delivery due to autotransfusion from the contracting uterus - the period of greatest risk in cardiac disease.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "M",
+   "stem": "The acid-base picture of normal pregnancy is:",
+   "options": [
+    "Compensated respiratory alkalosis",
+    "Metabolic acidosis",
+    "Respiratory acidosis",
+    "Metabolic alkalosis"
+   ],
+   "correct": 0,
+   "concept": "Progesterone-driven hyperventilation lowers arterial PCO2 to about 30 mmHg, giving a mild respiratory alkalosis with renal bicarbonate excretion in compensation, which facilitates fetal carbon dioxide transfer.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "E",
+   "stem": "Which renal change is normal in pregnancy?",
+   "options": [
+    "Glomerular filtration rate rises about 50 percent with a fall in serum creatinine",
+    "GFR falls with rising creatinine",
+    "No change in GFR",
+    "Creatinine clearance falls by half"
+   ],
+   "correct": 0,
+   "concept": "Renal plasma flow and GFR rise by up to 50%, so serum urea and creatinine fall; a creatinine of 1.0 mg/dL that would be normal outside pregnancy may indicate significant renal impairment in pregnancy.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "M",
+   "stem": "Fetal heart activity is first detectable by transvaginal ultrasound at about:",
+   "options": [
+    "6 weeks of gestation",
+    "10 weeks",
+    "14 weeks",
+    "4 weeks"
+   ],
+   "correct": 0,
+   "concept": "Cardiac activity is visible transvaginally at about 6 weeks when the crown-rump length reaches 5 mm; absence beyond 7 weeks with a gestational sac over 25 mm suggests early pregnancy failure.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "M",
+   "stem": "Surfactant production reaches functional maturity at approximately:",
+   "options": [
+    "34 to 36 weeks",
+    "24 weeks",
+    "28 weeks",
+    "40 weeks"
+   ],
+   "correct": 0,
+   "concept": "Type II pneumocytes secrete surfactant from about 24 weeks but adequate amounts appear by 34 to 36 weeks, which is why antenatal corticosteroids are given for anticipated delivery before 34 weeks. A lecithin-sphingomyelin ratio above 2 indicates maturity.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "E",
+   "stem": "Which structure carries oxygenated blood to the fetus?",
+   "options": [
+    "The single umbilical vein",
+    "The two umbilical arteries",
+    "The ductus arteriosus",
+    "The ductus venosus"
+   ],
+   "correct": 0,
+   "concept": "The umbilical vein carries oxygenated blood from the placenta to the fetus, while the paired umbilical arteries return deoxygenated blood. A single umbilical artery is associated with congenital anomalies.",
+   "reference": "Williams Obstetrics 26e, Placental Development",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "H",
+   "stem": "Fetal haemoglobin has higher oxygen affinity than adult haemoglobin because it:",
+   "options": [
+    "Binds 2,3-diphosphoglycerate poorly",
+    "Has a higher iron content",
+    "Contains four beta chains",
+    "Is present at lower concentration"
+   ],
+   "correct": 0,
+   "concept": "HbF, composed of two alpha and two gamma chains, interacts weakly with 2,3-DPG, shifting the oxygen dissociation curve to the left and favouring placental oxygen uptake from maternal blood.",
+   "reference": "Ganong Review of Medical Physiology, Respiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "H",
+   "stem": "Human chorionic gonadotropin peaks at approximately:",
+   "options": [
+    "8 to 10 weeks of gestation",
+    "4 weeks",
+    "20 weeks",
+    "Term"
+   ],
+   "correct": 0,
+   "concept": "hCG doubles roughly every 48 hours in early pregnancy, peaks at 8 to 10 weeks and then declines to a plateau. Its function is to maintain the corpus luteum until the placenta takes over progesterone production at about 7 to 9 weeks.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PHY_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Physiological changes in pregnancy & fetal development",
+   "difficulty": "M",
+   "stem": "Physiological changes in pregnancy include all of the following EXCEPT:",
+   "options": [
+    "A fall in fibrinogen and clotting factors",
+    "A rise in fibrinogen",
+    "Increased tidal volume",
+    "Decreased functional residual capacity"
+   ],
+   "correct": 0,
+   "concept": "Pregnancy is a hypercoagulable state with raised fibrinogen and factors VII, VIII, IX and X and reduced protein S and fibrinolysis, explaining the increased thromboembolic risk. Tidal volume rises and functional residual capacity falls from diaphragmatic elevation.",
+   "reference": "Williams Obstetrics 26e, Maternal Physiology",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

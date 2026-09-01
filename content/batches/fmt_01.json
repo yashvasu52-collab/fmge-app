@@ -1,0 +1,730 @@
+{
+ "questions": [
+  {
+   "id": "Q_FM_JUR_001",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "E",
+   "stem": "The four essential elements to establish medical negligence are:",
+   "options": [
+    "Duty of care, breach of duty, causation and damage",
+    "Intent, motive, act and harm",
+    "Consent, fee, treatment and outcome",
+    "Only a bad outcome"
+   ],
+   "correct": 0,
+   "concept": "All four elements must be proved; a poor outcome alone is not negligence. The standard applied is that of a reasonably competent practitioner of the same standing - the Bolam test.",
+   "reference": "Reddy Forensic Medicine 35e, Medical Jurisprudence",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_002",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "M",
+   "stem": "Res ipsa loquitur, meaning the thing speaks for itself, applies when:",
+   "options": [
+    "The injury could not have occurred without negligence, such as a swab left in the abdomen",
+    "There is any complication",
+    "The patient is dissatisfied",
+    "Consent was verbal"
+   ],
+   "correct": 0,
+   "concept": "The burden of proof shifts to the doctor in such cases - a retained instrument, wrong-site surgery or a burn from a diathermy pad, where negligence is self-evident and expert evidence is unnecessary.",
+   "reference": "Reddy Forensic Medicine 35e, Medical Jurisprudence",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_003",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "M",
+   "stem": "Under the Consumer Protection Act, medical services are covered except when:",
+   "options": [
+    "The service is rendered entirely free of charge to all patients",
+    "The patient is poor",
+    "Treatment is in a government hospital",
+    "Surgery is involved"
+   ],
+   "correct": 0,
+   "concept": "Following Indian Medical Association v V P Shantha, paid medical services fall within the Act. Services free to everyone are excluded, but if some patients pay, even those treated free are covered.",
+   "reference": "Reddy Forensic Medicine 35e, Medical Jurisprudence",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_004",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "E",
+   "stem": "Vicarious liability means:",
+   "options": [
+    "An employer is responsible for the negligent acts of employees in the course of employment",
+    "Only the doctor is liable",
+    "No one is liable",
+    "The patient is liable"
+   ],
+   "correct": 0,
+   "concept": "Under respondeat superior, a hospital is liable for negligence by its staff. Contributory negligence, where the patient's own conduct contributes to harm, may reduce the damages awarded.",
+   "reference": "Reddy Forensic Medicine 35e, Medical Jurisprudence",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_005",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "M",
+   "stem": "Under the amended MTP Act, termination of pregnancy up to 20 weeks requires the opinion of:",
+   "options": [
+    "One registered medical practitioner",
+    "Two practitioners",
+    "A court order",
+    "A magistrate"
+   ],
+   "correct": 0,
+   "concept": "One practitioner suffices up to 20 weeks and two from 20 to 24 weeks for specified categories including survivors of rape and minors. Beyond 24 weeks, a state medical board decides in cases of substantial fetal abnormality.",
+   "reference": "MTP (Amendment) Act 2021",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_006",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "M",
+   "stem": "Under the PC-PNDT Act, the offence committed by disclosing the sex of the fetus is punishable for:",
+   "options": [
+    "Both the person conducting the test and the person seeking it",
+    "Only the doctor",
+    "Only the relatives",
+    "No one"
+   ],
+   "correct": 0,
+   "concept": "The Act penalises the practitioner, the clinic and those seeking sex determination, with imprisonment and fine and suspension of registration. Clinics must register, maintain Form F records and display prohibition notices.",
+   "reference": "PC-PNDT Act 1994; Park 27e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_007",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "E",
+   "stem": "Under the Transplantation of Human Organs Act, brain-stem death must be certified by a board of:",
+   "options": [
+    "Four doctors including the registered medical practitioner in charge and a neurologist or neurosurgeon",
+    "One doctor",
+    "Two doctors",
+    "The transplant surgeon"
+   ],
+   "correct": 0,
+   "concept": "The board must not include the transplant team, avoiding conflict of interest. Two sets of tests are performed six hours apart, and the Act permits organ retrieval after brain-stem death certification with authorisation.",
+   "reference": "THOA 1994; Reddy Forensic Medicine 35e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_008",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "H",
+   "stem": "Professional secrecy may be breached without patient consent when:",
+   "options": [
+    "There is a statutory duty or an overriding public interest, such as notifiable disease or court order",
+    "The relatives ask",
+    "An employer asks",
+    "An insurer asks"
+   ],
+   "correct": 0,
+   "concept": "Privileged communication permits disclosure to the appropriate authority when public interest outweighs confidentiality - notifiable diseases, court directions, or a driver or pilot with a dangerous condition after counselling refusal.",
+   "reference": "Reddy Forensic Medicine 35e, Medical Jurisprudence",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_009",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "H",
+   "stem": "Consent for a surgical procedure in India must be:",
+   "options": [
+    "Informed and written, obtained from a person 18 years or older",
+    "Verbal only",
+    "Implied always",
+    "From any relative"
+   ],
+   "correct": 0,
+   "concept": "For examination, implied or oral consent may suffice; for any procedure involving risk, informed written consent is required covering nature, risks, benefits and alternatives. Loco parentis applies for minors in emergencies.",
+   "reference": "Reddy Forensic Medicine 35e, Consent",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_JUR_010",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Medical jurisprudence: negligence, consumer protection, PC-PNDT, MTP & transplantation acts",
+   "difficulty": "M",
+   "stem": "A doctor may examine an accused person at the request of the police under:",
+   "options": [
+    "Section 53 of the Criminal Procedure Code, using reasonable force if directed",
+    "No legal provision",
+    "Only with consent",
+    "Only with a court order"
+   ],
+   "correct": 0,
+   "concept": "CrPC Section 53 permits examination of an arrested person at police request, and Section 53A specifically for rape accused. Consent is not required, distinguishing it from consensual clinical examination.",
+   "reference": "Reddy Forensic Medicine 35e, Legal Procedure",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_001",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "E",
+   "stem": "Under Indian law, the essential element constituting rape is:",
+   "options": [
+    "Penetration without consent, however slight",
+    "Ejaculation",
+    "Injury to the genitals",
+    "Presence of spermatozoa"
+   ],
+   "correct": 0,
+   "concept": "The law requires penetration without valid consent; rupture of the hymen, injuries or semen are corroborative but not essential. Absence of injury never excludes rape and this must be clearly stated in the report.",
+   "reference": "Reddy Forensic Medicine 35e, Sexual Offences",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_002",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "M",
+   "stem": "The age of consent for sexual intercourse in India is:",
+   "options": [
+    "Eighteen years, below which consent is legally irrelevant",
+    "Sixteen years",
+    "Fifteen years",
+    "Twenty-one years"
+   ],
+   "correct": 0,
+   "concept": "Sexual activity with anyone under 18 constitutes an offence under the POCSO Act regardless of apparent consent, and reporting of such cases by a doctor is mandatory under Section 19 of that Act.",
+   "reference": "POCSO Act 2012; Reddy Forensic Medicine 35e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_003",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "M",
+   "stem": "The two-finger test in examining a rape survivor is:",
+   "options": [
+    "Prohibited, being unscientific and a violation of dignity",
+    "Mandatory",
+    "Recommended",
+    "Required for court"
+   ],
+   "correct": 0,
+   "concept": "The Supreme Court and Ministry of Health guidelines have banned the per-vaginum two-finger test and any comment on habituation to sexual intercourse, as it is scientifically meaningless and re-traumatising.",
+   "reference": "MoHFW Guidelines; Reddy Forensic Medicine 35e",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_004",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "E",
+   "stem": "Infanticide is defined as:",
+   "options": [
+    "The unlawful killing of a child under one year of age",
+    "Killing of a fetus in utero",
+    "Killing of any child",
+    "Stillbirth"
+   ],
+   "correct": 0,
+   "concept": "Feticide is destruction of the fetus in utero, infanticide is killing of an infant under one year, and the key medico-legal question is whether the child was born alive and had a separate existence.",
+   "reference": "Reddy Forensic Medicine 35e, Infanticide",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_005",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "M",
+   "stem": "The hydrostatic (flotation) test at autopsy is used to determine:",
+   "options": [
+    "Whether the infant breathed after birth, by testing whether the lungs float",
+    "The cause of death",
+    "The age of the infant",
+    "The time of death"
+   ],
+   "correct": 0,
+   "concept": "Aerated lungs float, indicating live birth. False results occur with putrefaction, artificial respiration or freezing, so it must be interpreted alongside lung histology and other signs of separate existence.",
+   "reference": "Reddy Forensic Medicine 35e, Infanticide",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_006",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "M",
+   "stem": "Signs indicating that a newborn had a separate existence include:",
+   "options": [
+    "Aerated lungs, air in the stomach and changes in the umbilical cord",
+    "Presence of vernix",
+    "Presence of meconium",
+    "Body weight"
+   ],
+   "correct": 0,
+   "concept": "Establishing live birth requires evidence of respiration and of independent survival - lung expansion with the diaphragm at the fifth or sixth rib, air in the gastrointestinal tract, and cord and ductus changes.",
+   "reference": "Reddy Forensic Medicine 35e, Infanticide",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_007",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "E",
+   "stem": "Sodomy under Indian law after the 2018 Supreme Court judgment:",
+   "options": [
+    "Is no longer an offence between consenting adults in private",
+    "Remains an offence in all circumstances",
+    "Was never an offence",
+    "Is an offence only for men"
+   ],
+   "correct": 0,
+   "concept": "Navtej Singh Johar v Union of India read down Section 377 to decriminalise consensual acts between adults; non-consensual acts, acts with minors and bestiality remain offences.",
+   "reference": "Reddy Forensic Medicine 35e, Sexual Offences",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_008",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "H",
+   "stem": "In examining a suspected rape survivor, the most important medico-legal principle is:",
+   "options": [
+    "Obtaining informed consent, maintaining chain of custody of samples and documenting objectively",
+    "Concluding whether rape occurred",
+    "Commenting on the survivor's character",
+    "Refusing without police requisition"
+   ],
+   "correct": 0,
+   "concept": "The doctor documents findings and collects evidence; whether rape occurred is a judicial determination. Treatment, emergency contraception, STI and HIV prophylaxis and psychological support must not be delayed for legal formalities.",
+   "reference": "Reddy Forensic Medicine 35e, Sexual Offences",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_009",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "H",
+   "stem": "Criminal abortion is distinguished from a lawful MTP by:",
+   "options": [
+    "Being performed outside the conditions and by persons not authorised under the MTP Act",
+    "The gestational age alone",
+    "The method used",
+    "The outcome"
+   ],
+   "correct": 0,
+   "concept": "Lawful termination requires an approved indication, an authorised registered medical practitioner and an approved place. Outside these, it constitutes an offence under the Indian Penal Code even if performed by a doctor.",
+   "reference": "Reddy Forensic Medicine 35e, Abortion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_SEX_010",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sexual offences, infanticide & abortion law",
+   "difficulty": "M",
+   "stem": "The commonest cause of death in criminal abortion is:",
+   "options": [
+    "Haemorrhage and sepsis",
+    "Air embolism",
+    "Anaesthetic complication",
+    "Poisoning"
+   ],
+   "correct": 0,
+   "concept": "Unsafe abortion by untrained persons causes fatal haemorrhage, sepsis, uterine perforation and, less commonly, air embolism or vagal inhibition. It remains a leading contributor to maternal mortality in India.",
+   "reference": "Reddy Forensic Medicine 35e, Abortion",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_001",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "E",
+   "stem": "The medico-legal significance of vital reaction in a burn is that it:",
+   "options": [
+    "Indicates the burn was sustained during life rather than after death",
+    "Determines the cause of the fire",
+    "Establishes identity",
+    "Determines the time of death"
+   ],
+   "correct": 0,
+   "concept": "Antemortem burns show a red line of hyperaemia, vesicles with high protein and chloride content and inflammatory infiltration, whereas postmortem burns lack these vital reactions - crucial in distinguishing burning to conceal homicide.",
+   "reference": "Reddy Forensic Medicine 35e, Thermal Deaths",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_002",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "M",
+   "stem": "In a death from a house fire, the finding that proves the victim was alive during the fire is:",
+   "options": [
+    "Soot in the trachea and bronchi with raised carboxyhaemoglobin",
+    "Charring of skin",
+    "Fractured bones",
+    "Contracted muscles"
+   ],
+   "correct": 0,
+   "concept": "Inhaled soot below the vocal cords and blood carboxyhaemoglobin above about 10% prove respiration during the fire. Their absence suggests death occurred before the fire started.",
+   "reference": "Reddy Forensic Medicine 35e, Thermal Deaths",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_003",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "M",
+   "stem": "Pugilistic (boxer) attitude in a burnt body is caused by:",
+   "options": [
+    "Heat coagulation of muscle proteins causing flexor contraction, occurring in both antemortem and postmortem burning",
+    "Struggling during life",
+    "Rigor mortis",
+    "Defence injuries"
+   ],
+   "correct": 0,
+   "concept": "Because heat stiffening occurs regardless of whether the person was alive, this posture has no value in determining whether burning was antemortem, a common examination point.",
+   "reference": "Reddy Forensic Medicine 35e, Thermal Deaths",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_004",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "E",
+   "stem": "Under Indian law, a dying declaration recorded from a burns victim:",
+   "options": [
+    "Is admissible even without a magistrate, provided the person is conscious and oriented",
+    "Requires a magistrate always",
+    "Is inadmissible",
+    "Requires two witnesses only"
+   ],
+   "correct": 0,
+   "concept": "A dying declaration is admissible under Section 32 of the Indian Evidence Act; certification of fitness of mind by the doctor is important, and recording by a magistrate carries greater evidentiary weight but is not essential.",
+   "reference": "Reddy Forensic Medicine 35e, Thermal Deaths",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_005",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "M",
+   "stem": "Joule burns (electric marks) at the site of electrical contact are characteristically:",
+   "options": [
+    "Firm, pale, depressed lesions with raised margins and no vital reaction of inflammation",
+    "Blistered and red",
+    "Deeply charred",
+    "Absent always"
+   ],
+   "correct": 0,
+   "concept": "The endogenous heat generated at the contact point produces a nodular pale crater with peripheral areola. Metallisation of the skin from the conductor may be demonstrated chemically and helps identify the object.",
+   "reference": "Reddy Forensic Medicine 35e, Electrical Injuries",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_006",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "M",
+   "stem": "The commonest cause of immediate death in low-voltage electrocution is:",
+   "options": [
+    "Ventricular fibrillation",
+    "Respiratory paralysis",
+    "Burns",
+    "Head injury"
+   ],
+   "correct": 0,
+   "concept": "Domestic alternating current at 50 Hz readily induces ventricular fibrillation. High-voltage current more often causes respiratory centre paralysis and extensive deep burns with the victim thrown clear.",
+   "reference": "Reddy Forensic Medicine 35e, Electrical Injuries",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_007",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "E",
+   "stem": "Filigree (arborescent) burns are pathognomonic of:",
+   "options": [
+    "Lightning strike",
+    "Electrocution from mains",
+    "Flame burns",
+    "Scalds"
+   ],
+   "correct": 0,
+   "concept": "Lisichenko or fern-like marks are transient superficial ferning patterns from electron showers along the skin. They fade within hours, so early photography is essential, and are diagnostic of lightning.",
+   "reference": "Reddy Forensic Medicine 35e, Lightning",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_008",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "H",
+   "stem": "A scald differs from a flame burn in that a scald:",
+   "options": [
+    "Spares the hair and shows no charring or singeing, with splash marks and dripping pattern",
+    "Chars the skin",
+    "Singes hair",
+    "Causes deeper injury always"
+   ],
+   "correct": 0,
+   "concept": "Moist heat below 100 degrees cannot singe hair or char skin, so preserved hair with a trickling pattern indicates a scald, important in distinguishing accidental from inflicted injury in children.",
+   "reference": "Reddy Forensic Medicine 35e, Thermal Deaths",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_009",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "H",
+   "stem": "In suspected dowry death, the medico-legal importance of examining the pattern of burns lies in:",
+   "options": [
+    "Distinguishing accidental kitchen burns from homicidal kerosene burns by distribution and smell",
+    "Determining age",
+    "Determining identity only",
+    "Determining time of death"
+   ],
+   "correct": 0,
+   "concept": "Kerosene-soaked homicidal burns typically involve the trunk and back with an inverted distribution, whereas accidental cooking burns spare the back. Section 304B applies to unnatural death of a woman within seven years of marriage.",
+   "reference": "Reddy Forensic Medicine 35e, Thermal Deaths",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_FM_THR_010",
+   "part": "A",
+   "subject": "Forensic Medicine (FMT)",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thermal, electrical & lightning injuries; burns",
+   "difficulty": "M",
+   "stem": "Heat stroke is characterised by:",
+   "options": [
+    "Core temperature above 40 degrees with altered mental state and absent sweating",
+    "Profuse sweating with normal temperature",
+    "Hypothermia",
+    "Muscle cramps only"
+   ],
+   "correct": 0,
+   "concept": "Failure of thermoregulation with hot dry skin, confusion and multi-organ dysfunction distinguishes heat stroke from heat exhaustion, which has intact sweating. Immediate aggressive cooling is life-saving.",
+   "reference": "Reddy Forensic Medicine 35e, Thermal Deaths",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

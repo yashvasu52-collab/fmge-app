@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_DE_INF_001",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "E",
+   "stem": "Honey-coloured crusted lesions around the nose and mouth of a child indicate:",
+   "options": [
+    "Impetigo contagiosa",
+    "Herpes simplex",
+    "Tinea faciei",
+    "Eczema"
+   ],
+   "correct": 0,
+   "concept": "Non-bullous impetigo is caused by Staphylococcus aureus and Streptococcus pyogenes, is highly contagious and responds to topical mupirocin, with oral antibiotics for extensive disease. Streptococcal impetigo may be followed by acute glomerulonephritis.",
+   "reference": "IADVL Textbook of Dermatology 5e, Bacterial Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_002",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "M",
+   "stem": "Erysipelas differs from cellulitis in that it:",
+   "options": [
+    "Involves the upper dermis and lymphatics with a sharply demarcated raised border",
+    "Is deeper",
+    "Has an indistinct margin",
+    "Is non-infective"
+   ],
+   "correct": 0,
+   "concept": "Erysipelas is a superficial streptococcal infection with a clearly defined advancing edge, commonly on the face or leg, while cellulitis involves deeper subcutaneous tissue with a diffuse poorly defined margin.",
+   "reference": "IADVL Textbook of Dermatology 5e, Bacterial Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_003",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "M",
+   "stem": "An annular scaly plaque with central clearing and an active raised scaly border indicates:",
+   "options": [
+    "Tinea corporis",
+    "Psoriasis",
+    "Discoid eczema",
+    "Lichen planus"
+   ],
+   "correct": 0,
+   "concept": "Dermatophyte infection spreads centrifugally with an active edge where scrapings for KOH should be taken. Prior topical steroid use produces tinea incognito with an atypical, less scaly appearance.",
+   "reference": "IADVL Textbook of Dermatology 5e, Fungal Infections",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_004",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "E",
+   "stem": "Pityriasis versicolor is caused by:",
+   "options": [
+    "Malassezia furfur, showing a spaghetti and meatballs pattern on KOH",
+    "Trichophyton",
+    "Candida",
+    "Microsporum"
+   ],
+   "correct": 0,
+   "concept": "Hypopigmented or hyperpigmented scaly macules on the trunk show fine scale on stretching, and KOH reveals short hyphae with spores. Topical ketoconazole or selenium sulfide is used; pigment takes months to normalise.",
+   "reference": "IADVL Textbook of Dermatology 5e, Fungal Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_005",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "M",
+   "stem": "Nocturnal itching with burrows in finger webs affecting several family members indicates:",
+   "options": [
+    "Scabies",
+    "Pediculosis",
+    "Eczema",
+    "Urticaria"
+   ],
+   "correct": 0,
+   "concept": "Sarcoptes scabiei burrows in the stratum corneum, causing intense night-time itch from a delayed hypersensitivity response. Permethrin 5% applied to the whole body below the neck, with simultaneous treatment of all contacts, is standard.",
+   "reference": "IADVL Textbook of Dermatology 5e, Infestations",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_006",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "M",
+   "stem": "Crusted (Norwegian) scabies is characterised by:",
+   "options": [
+    "Massive mite infestation with thick crusts in immunosuppressed patients, and high infectivity",
+    "Few mites",
+    "Absence of scale",
+    "Occurrence only in children"
+   ],
+   "correct": 0,
+   "concept": "Impaired immunity permits enormous mite numbers with hyperkeratotic crusts, often with little itch, making these patients highly contagious and a source of institutional outbreaks. Oral ivermectin with topical therapy is needed.",
+   "reference": "IADVL Textbook of Dermatology 5e, Infestations",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_007",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "E",
+   "stem": "Molluscum contagiosum is characterised by:",
+   "options": [
+    "Umbilicated pearly papules caused by a poxvirus",
+    "Vesicles",
+    "Scaly plaques",
+    "Ulcers"
+   ],
+   "correct": 0,
+   "concept": "Dome-shaped umbilicated papules contain a central core of molluscum bodies. Extensive lesions in an adult, particularly on the face, should prompt HIV testing; most resolve spontaneously in immunocompetent children.",
+   "reference": "IADVL Textbook of Dermatology 5e, Viral Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_008",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "H",
+   "stem": "Herpes zoster involving the tip of the nose (Hutchinson sign) warns of:",
+   "options": [
+    "Ocular involvement via the nasociliary nerve",
+    "Facial palsy",
+    "Meningitis",
+    "Deafness"
+   ],
+   "correct": 0,
+   "concept": "The nasociliary branch supplies both the nasal tip and the globe, so vesicles there predict keratitis and uveitis, requiring urgent ophthalmological assessment and systemic acyclovir.",
+   "reference": "IADVL Textbook of Dermatology 5e, Viral Infections",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_009",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "H",
+   "stem": "Tinea capitis requires systemic rather than topical therapy because:",
+   "options": [
+    "The fungus invades the hair shaft, which topical agents cannot penetrate",
+    "Topicals are toxic",
+    "It is not fungal",
+    "It resolves spontaneously"
+   ],
+   "correct": 0,
+   "concept": "Griseofulvin or terbinafine is required for 6 to 8 weeks. Untreated inflammatory kerion causes scarring alopecia, and household contacts should be screened as asymptomatic carriage is common.",
+   "reference": "IADVL Textbook of Dermatology 5e, Fungal Infections",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_INF_010",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bacterial, fungal & viral skin infections; scabies, pediculosis",
+   "difficulty": "M",
+   "stem": "Pediculosis capitis is best treated with:",
+   "options": [
+    "Topical permethrin with wet combing and treatment of close contacts",
+    "Shaving the head only",
+    "Oral antibiotics",
+    "Topical steroids"
+   ],
+   "correct": 0,
+   "concept": "Permethrin 1% or malathion kills lice, with a repeat application after 7 to 10 days to kill nymphs hatching from surviving eggs. Combing removes nits, and fomites such as combs and pillows are treated.",
+   "reference": "IADVL Textbook of Dermatology 5e, Infestations",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_001",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "E",
+   "stem": "Atopic dermatitis in an infant characteristically affects:",
+   "options": [
+    "The face and extensor surfaces, moving to flexures in older children",
+    "Flexures from birth",
+    "Palms only",
+    "Scalp only"
+   ],
+   "correct": 0,
+   "concept": "Infantile eczema involves cheeks and extensors, whereas from about 2 years it becomes flexural at antecubital and popliteal fossae. It is part of the atopic triad with asthma and allergic rhinitis.",
+   "reference": "IADVL Textbook of Dermatology 5e, Eczema",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_002",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "M",
+   "stem": "The cornerstone of long-term management of atopic dermatitis is:",
+   "options": [
+    "Regular liberal emollients with avoidance of irritants",
+    "Continuous potent topical steroids",
+    "Systemic steroids",
+    "Antibiotics"
+   ],
+   "correct": 0,
+   "concept": "Barrier repair with emollients reduces flares and steroid requirement. Topical corticosteroids are used in short bursts for flares, with calcineurin inhibitors as steroid-sparing agents on the face and flexures.",
+   "reference": "IADVL Textbook of Dermatology 5e, Eczema",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_003",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "M",
+   "stem": "Allergic contact dermatitis is mediated by:",
+   "options": [
+    "Type IV delayed cell-mediated hypersensitivity, confirmed by patch testing",
+    "Type I IgE hypersensitivity",
+    "Type II cytotoxic reaction",
+    "Type III immune complexes"
+   ],
+   "correct": 0,
+   "concept": "Sensitisation requires prior exposure, and reaction appears 24 to 72 hours later, so patch tests are read at 48 and 96 hours. Irritant contact dermatitis instead needs no sensitisation and occurs on first exposure.",
+   "reference": "IADVL Textbook of Dermatology 5e, Eczema",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_004",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "E",
+   "stem": "The commonest cause of allergic contact dermatitis worldwide is:",
+   "options": [
+    "Nickel",
+    "Wool",
+    "Cotton",
+    "Water"
+   ],
+   "correct": 0,
+   "concept": "Nickel in costume jewellery, watch straps, belt buckles and mobile phones causes dermatitis at points of contact, particularly the earlobes and umbilicus. Chromate in cement and parathenium in India are other important allergens.",
+   "reference": "IADVL Textbook of Dermatology 5e, Eczema",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_005",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "M",
+   "stem": "Eczema herpeticum is:",
+   "options": [
+    "Disseminated herpes simplex infection of eczematous skin, a dermatological emergency",
+    "A bacterial infection",
+    "A fungal infection",
+    "A drug reaction"
+   ],
+   "correct": 0,
+   "concept": "Monomorphic punched-out erosions with fever in a child with atopic eczema require urgent systemic acyclovir, as it can be fatal. Barrier disruption in eczema permits widespread viral spread.",
+   "reference": "IADVL Textbook of Dermatology 5e, Eczema",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_006",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "M",
+   "stem": "Acute urticaria is characterised by:",
+   "options": [
+    "Transient itchy weals lasting less than 24 hours at any one site, with no residual mark",
+    "Weals lasting a week",
+    "Painful lesions",
+    "Scarring"
+   ],
+   "correct": 0,
+   "concept": "Individual weals resolving within 24 hours without bruising is the defining feature. Lesions persisting longer with purpura or pigmentation suggest urticarial vasculitis and warrant biopsy.",
+   "reference": "IADVL Textbook of Dermatology 5e, Urticaria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_007",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "E",
+   "stem": "The first-line treatment of chronic urticaria is:",
+   "options": [
+    "Second-generation non-sedating H1 antihistamines, up-titrated as needed",
+    "Systemic corticosteroids",
+    "Adrenaline",
+    "Antibiotics"
+   ],
+   "correct": 0,
+   "concept": "Non-sedating antihistamines can be increased up to fourfold; omalizumab and ciclosporin are used in refractory cases. Long-term systemic steroids are avoided because of cumulative toxicity.",
+   "reference": "KDT 8e, Antihistamines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_008",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "H",
+   "stem": "Angio-oedema without weals, unresponsive to antihistamines and adrenaline, suggests:",
+   "options": [
+    "Hereditary angio-oedema from C1 esterase inhibitor deficiency",
+    "Allergic angio-oedema",
+    "Urticaria",
+    "Contact dermatitis"
+   ],
+   "correct": 0,
+   "concept": "Bradykinin-mediated swelling does not respond to antihistamines, steroids or adrenaline, and is treated with C1 inhibitor concentrate or icatibant. ACE inhibitors cause a similar bradykinin-mediated angio-oedema.",
+   "reference": "IADVL Textbook of Dermatology 5e, Urticaria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_009",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "H",
+   "stem": "Dermographism is best described as:",
+   "options": [
+    "A weal and flare produced by stroking the skin, a form of physical urticaria",
+    "Pigmentation after scratching",
+    "Scarring",
+    "Blistering"
+   ],
+   "correct": 0,
+   "concept": "Simple dermographism occurs in about 5% of normal people; symptomatic dermographism causes itch and responds to antihistamines. It is the commonest physical urticaria, alongside cholinergic, cold and pressure types.",
+   "reference": "IADVL Textbook of Dermatology 5e, Urticaria",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ECZ_010",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Eczema, atopic & contact dermatitis, urticaria",
+   "difficulty": "M",
+   "stem": "Lichen simplex chronicus results from:",
+   "options": [
+    "Chronic rubbing and scratching producing lichenified thickened plaques",
+    "A primary infection",
+    "An autoimmune process",
+    "A drug reaction"
+   ],
+   "correct": 0,
+   "concept": "The itch-scratch cycle thickens skin with accentuated skin markings, typically on the nape, shins and ankles. Breaking the cycle with potent topical steroids under occlusion and addressing the underlying itch is essential.",
+   "reference": "IADVL Textbook of Dermatology 5e, Eczema",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_001",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "E",
+   "stem": "The primary lesion of acne vulgaris is:",
+   "options": [
+    "The comedone",
+    "The pustule",
+    "The nodule",
+    "The scar"
+   ],
+   "correct": 0,
+   "concept": "Follicular hyperkeratinisation forming the microcomedone is the initiating lesion, followed by sebum overproduction under androgen drive, Cutibacterium acnes proliferation and inflammation.",
+   "reference": "IADVL Textbook of Dermatology 5e, Acne",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_002",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "M",
+   "stem": "Topical retinoids are central to acne treatment because they:",
+   "options": [
+    "Normalise follicular keratinisation and are comedolytic",
+    "Kill bacteria",
+    "Reduce sebum only",
+    "Are anti-inflammatory only"
+   ],
+   "correct": 0,
+   "concept": "Retinoids target the microcomedone, the precursor of all acne lesions, so they treat and prevent. They cause irritation and photosensitivity, are applied at night, and are contraindicated in pregnancy.",
+   "reference": "KDT 8e, Drugs for Acne",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_003",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "M",
+   "stem": "Oral isotretinoin is indicated for:",
+   "options": [
+    "Severe nodulocystic or scarring acne unresponsive to conventional therapy",
+    "All mild acne",
+    "First-line treatment in everyone",
+    "Comedonal acne only"
+   ],
+   "correct": 0,
+   "concept": "Isotretinoin addresses all four pathogenic factors and can give lasting remission, but is highly teratogenic, requiring strict contraception and pregnancy testing, with monitoring of lipids and transaminases.",
+   "reference": "KDT 8e, Drugs for Acne",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_004",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "E",
+   "stem": "Rosacea is distinguished from acne by:",
+   "options": [
+    "Absence of comedones, with centrofacial erythema, telangiectasia and flushing",
+    "Presence of comedones",
+    "Occurrence in adolescents",
+    "Scarring"
+   ],
+   "correct": 0,
+   "concept": "Rosacea affects middle-aged adults with flushing triggered by heat, alcohol and spicy food, progressing to papulopustular and phymatous stages. Ocular rosacea with blepharitis is common and often overlooked.",
+   "reference": "IADVL Textbook of Dermatology 5e, Rosacea",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_005",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "M",
+   "stem": "Alopecia areata is characterised by:",
+   "options": [
+    "Well-circumscribed patches of non-scarring hair loss with exclamation mark hairs",
+    "Scarring alopecia",
+    "Diffuse thinning",
+    "Broken hairs from traction"
+   ],
+   "correct": 0,
+   "concept": "An autoimmune attack on the hair bulb produces smooth bald patches with tapered exclamation mark hairs at the margin and nail pitting. It is associated with vitiligo, thyroid disease and atopy, and hair follicles are preserved so regrowth is possible.",
+   "reference": "IADVL Textbook of Dermatology 5e, Hair Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_006",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "M",
+   "stem": "Telogen effluvium typically occurs:",
+   "options": [
+    "Two to three months after a stressor such as illness, surgery, childbirth or severe weight loss",
+    "Immediately after stress",
+    "Only in men",
+    "Without any trigger"
+   ],
+   "correct": 0,
+   "concept": "A stressor shifts anagen follicles synchronously into telogen, so shedding is delayed by the telogen duration. It is self-limiting with full recovery once the trigger is removed, and reassurance is the main treatment.",
+   "reference": "IADVL Textbook of Dermatology 5e, Hair Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_007",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "E",
+   "stem": "Androgenetic alopecia in men is treated with:",
+   "options": [
+    "Topical minoxidil and oral finasteride",
+    "Topical steroids",
+    "Antifungals",
+    "Antibiotics"
+   ],
+   "correct": 0,
+   "concept": "Minoxidil prolongs anagen and finasteride inhibits 5-alpha-reductase reducing dihydrotestosterone. Finasteride is contraindicated in women of childbearing age because of feminisation of a male fetus.",
+   "reference": "KDT 8e, Drugs for Alopecia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_008",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "H",
+   "stem": "Nail pitting is most characteristically associated with:",
+   "options": [
+    "Psoriasis and alopecia areata",
+    "Onychomycosis",
+    "Lichen planus",
+    "Iron deficiency"
+   ],
+   "correct": 0,
+   "concept": "Psoriatic nails show irregular deep pitting, oil-drop discolouration, onycholysis and subungual hyperkeratosis, while alopecia areata gives fine regular geometric pitting. Lichen planus causes pterygium and nail destruction.",
+   "reference": "IADVL Textbook of Dermatology 5e, Nail Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_009",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "H",
+   "stem": "Koilonychia (spoon-shaped nails) is classically associated with:",
+   "options": [
+    "Iron deficiency anaemia",
+    "Vitamin B12 deficiency",
+    "Psoriasis",
+    "Fungal infection"
+   ],
+   "correct": 0,
+   "concept": "Thin brittle nails become flattened then concave in chronic iron deficiency, alongside angular stomatitis, glossitis and, in Plummer-Vinson syndrome, a postcricoid web with dysphagia.",
+   "reference": "IADVL Textbook of Dermatology 5e, Nail Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_DE_ACN_010",
+   "part": "B",
+   "subject": "Dermatology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Acne, rosacea, hair & nail disorders",
+   "difficulty": "M",
+   "stem": "Scarring (cicatricial) alopecia differs from non-scarring in that:",
+   "options": [
+    "Follicular openings are permanently destroyed, so regrowth is impossible",
+    "Hair regrows fully",
+    "It is always reversible",
+    "It is never inflammatory"
+   ],
+   "correct": 0,
+   "concept": "Loss of follicular ostia on examination indicates permanent destruction, seen in discoid lupus, lichen planopilaris and kerion. Early diagnosis and biopsy are essential to arrest activity before further follicles are lost.",
+   "reference": "IADVL Textbook of Dermatology 5e, Hair Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1215 @@
+{
+ "questions": [
+  {
+   "id": "Q_MED_HEM_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "E",
+   "stem": "The commonest leukaemia in children is:",
+   "options": [
+    "Acute lymphoblastic leukaemia",
+    "Acute myeloid leukaemia",
+    "Chronic myeloid leukaemia",
+    "Chronic lymphocytic leukaemia"
+   ],
+   "correct": 0,
+   "concept": "Acute lymphoblastic leukaemia accounts for about 80% of childhood leukaemia, peaking at 2 to 5 years, and B-cell precursor ALL with hyperdiploidy carries the best prognosis.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "M",
+   "stem": "The Philadelphia chromosome in chronic myeloid leukaemia represents:",
+   "options": [
+    "t(8;14) involving MYC",
+    "t(15;17) involving PML-RARA",
+    "t(14;18) involving BCL2",
+    "t(9;22) producing BCR-ABL1"
+   ],
+   "correct": 3,
+   "concept": "The Philadelphia chromosome is a reciprocal translocation between chromosomes 9 and 22 creating the BCR-ABL1 fusion tyrosine kinase, the target of imatinib. It is present in over 95% of CML.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "M",
+   "stem": "Auer rods in the bone marrow are characteristic of:",
+   "options": [
+    "Chronic lymphocytic leukaemia",
+    "Acute myeloid leukaemia",
+    "Multiple myeloma",
+    "Hairy cell leukaemia"
+   ],
+   "correct": 1,
+   "concept": "Auer rods are crystallised azurophilic granules seen in myeloblasts, most abundant in acute promyelocytic leukaemia. They confirm a myeloid rather than lymphoid lineage.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "E",
+   "stem": "Acute promyelocytic leukaemia is treated with which differentiating agent?",
+   "options": [
+    "All-trans retinoic acid",
+    "Imatinib",
+    "Rituximab",
+    "Hydroxyurea"
+   ],
+   "correct": 0,
+   "concept": "All-trans retinoic acid overcomes the PML-RARA mediated block in myeloid differentiation and, with arsenic trioxide, has made APL the most curable AML. It also reverses the associated disseminated intravascular coagulation.",
+   "reference": "KDT 8e, Anticancer Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "M",
+   "stem": "Reed-Sternberg cells are the hallmark of:",
+   "options": [
+    "Non-Hodgkin lymphoma",
+    "Burkitt lymphoma",
+    "Hodgkin lymphoma",
+    "Multiple myeloma"
+   ],
+   "correct": 2,
+   "concept": "Reed-Sternberg cells are large binucleate owl-eye cells expressing CD15 and CD30, diagnostic of Hodgkin lymphoma. Nodular sclerosis is the commonest subtype and lymphocyte predominant has the best prognosis.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "E",
+   "stem": "The starry-sky appearance on histology with t(8;14) and a very high proliferation rate indicates:",
+   "options": [
+    "Burkitt lymphoma",
+    "Follicular lymphoma",
+    "Mantle cell lymphoma",
+    "Marginal zone lymphoma"
+   ],
+   "correct": 0,
+   "concept": "Burkitt lymphoma shows sheets of monomorphic cells with interspersed pale macrophages producing the starry-sky pattern, driven by MYC translocation to the immunoglobulin heavy chain locus, and is associated with EBV in the endemic African jaw form.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "M",
+   "stem": "The diagnostic triad of multiple myeloma includes monoclonal gammopathy, lytic bone lesions and:",
+   "options": [
+    "Raised alkaline phosphatase",
+    "Clonal plasma cells in the marrow of 10% or more",
+    "Splenomegaly",
+    "Basophilia"
+   ],
+   "correct": 1,
+   "concept": "Diagnosis requires 10% or more clonal marrow plasma cells or a plasmacytoma plus a myeloma-defining event: hypercalcaemia, renal impairment, anaemia or lytic bone lesions (the CRAB criteria). Alkaline phosphatase is typically normal as there is no osteoblastic activity.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "H",
+   "stem": "Smudge cells and absolute lymphocytosis with CD5-positive, CD23-positive B cells in an elderly man indicate:",
+   "options": [
+    "Hairy cell leukaemia",
+    "Acute lymphoblastic leukaemia",
+    "Chronic myeloid leukaemia",
+    "Chronic lymphocytic leukaemia"
+   ],
+   "correct": 3,
+   "concept": "Chronic lymphocytic leukaemia is the commonest leukaemia of the elderly, showing mature small lymphocytes with smudge cells and co-expression of CD5 with CD19, CD20 and CD23. It may be complicated by autoimmune haemolysis.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "H",
+   "stem": "Which finding on serum protein electrophoresis suggests multiple myeloma rather than a reactive process?",
+   "options": [
+    "Diffuse polyclonal increase in gamma globulins",
+    "A dense narrow M-band with suppression of other immunoglobulins",
+    "Reduced albumin only",
+    "Raised alpha-1 antitrypsin"
+   ],
+   "correct": 1,
+   "concept": "A monoclonal M-band with immunoparesis of the uninvolved immunoglobulin classes indicates a clonal plasma cell disorder, unlike the broad polyclonal rise of chronic infection or inflammation.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HEM_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leukaemias, lymphomas & plasma cell disorders",
+   "difficulty": "M",
+   "stem": "Rouleaux formation on a peripheral smear with a very high erythrocyte sedimentation rate is typical of:",
+   "options": [
+    "Iron deficiency",
+    "Multiple myeloma",
+    "Sickle cell disease",
+    "Polycythaemia vera"
+   ],
+   "correct": 1,
+   "concept": "High circulating paraprotein neutralises the negative surface charge of red cells, causing rouleaux and a markedly raised ESR - a classical clue to myeloma alongside bone pain and renal failure.",
+   "reference": "HARR 21e, Malignancies of Lymphoid Cells",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "E",
+   "stem": "Haemophilia A results from deficiency of:",
+   "options": [
+    "Factor VIII",
+    "Factor IX",
+    "Factor XI",
+    "von Willebrand factor"
+   ],
+   "correct": 0,
+   "concept": "Haemophilia A is an X-linked recessive deficiency of factor VIII causing deep muscle and joint bleeding with a prolonged APTT and normal prothrombin time and platelet count. Haemophilia B is factor IX deficiency.",
+   "reference": "HARR 21e, Coagulation Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "M",
+   "stem": "The commonest inherited bleeding disorder is:",
+   "options": [
+    "Haemophilia A",
+    "Haemophilia B",
+    "von Willebrand disease",
+    "Factor XIII deficiency"
+   ],
+   "correct": 2,
+   "concept": "von Willebrand disease is the commonest inherited bleeding disorder, usually autosomal dominant, causing mucocutaneous bleeding with a prolonged bleeding time and often a mildly prolonged APTT because vWF carries factor VIII.",
+   "reference": "HARR 21e, Coagulation Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "M",
+   "stem": "In disseminated intravascular coagulation, which combination is expected?",
+   "options": [
+    "Prolonged PT and APTT, low platelets, low fibrinogen, raised D-dimer",
+    "Normal PT, low platelets, raised fibrinogen",
+    "Prolonged PT only with normal platelets",
+    "Isolated prolonged APTT with normal D-dimer"
+   ],
+   "correct": 0,
+   "concept": "DIC consumes platelets and clotting factors while activating fibrinolysis, so PT and APTT are prolonged, platelets and fibrinogen fall and D-dimer rises. Treatment is of the underlying cause with replacement of components as needed.",
+   "reference": "HARR 21e, Coagulation Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "E",
+   "stem": "Immune thrombocytopenic purpura characteristically shows:",
+   "options": [
+    "Isolated thrombocytopenia with increased megakaryocytes in marrow",
+    "Pancytopenia with a hypocellular marrow",
+    "Thrombocytopenia with schistocytes",
+    "Thrombocytosis with basophilia"
+   ],
+   "correct": 0,
+   "concept": "ITP is antibody-mediated peripheral platelet destruction, so the count is low but marrow megakaryocytes are normal or increased, and the rest of the counts are normal. Schistocytes would suggest a microangiopathy instead.",
+   "reference": "HARR 21e, Coagulation Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "M",
+   "stem": "A prolonged prothrombin time that corrects on mixing with normal plasma indicates:",
+   "options": [
+    "A factor inhibitor",
+    "A factor deficiency",
+    "Platelet dysfunction",
+    "Hyperfibrinolysis"
+   ],
+   "correct": 1,
+   "concept": "Correction on a mixing study indicates deficiency of a clotting factor, since normal plasma supplies the missing factor. Failure to correct suggests an inhibitor such as a lupus anticoagulant or an acquired factor VIII antibody.",
+   "reference": "HARR 21e, Coagulation Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "M",
+   "stem": "The most common inherited thrombophilia in the Indian population is:",
+   "options": [
+    "Antithrombin III deficiency",
+    "Protein C deficiency",
+    "Factor V Leiden mutation",
+    "Prothrombin G20210A"
+   ],
+   "correct": 2,
+   "concept": "Factor V Leiden, which renders factor Va resistant to inactivation by activated protein C, is the commonest inherited thrombophilia, though it is less prevalent in South Asians than in Europeans. Antithrombin deficiency is rarer but more thrombogenic.",
+   "reference": "HARR 21e, Coagulation Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "E",
+   "stem": "Heparin therapy is monitored by:",
+   "options": [
+    "Activated partial thromboplastin time",
+    "Prothrombin time and INR",
+    "Bleeding time",
+    "Platelet count only"
+   ],
+   "correct": 0,
+   "concept": "Unfractionated heparin potentiates antithrombin III and is monitored by the APTT, targeting 1.5 to 2.5 times control. Low molecular weight heparin needs no routine monitoring, and warfarin is monitored by INR.",
+   "reference": "KDT 8e, Anticoagulants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "H",
+   "stem": "The antidote for warfarin over-anticoagulation with major bleeding is:",
+   "options": [
+    "Protamine sulphate",
+    "Fresh frozen plasma alone",
+    "Tranexamic acid",
+    "Intravenous vitamin K with four-factor prothrombin complex concentrate"
+   ],
+   "correct": 3,
+   "concept": "Major warfarin-related bleeding is reversed with intravenous vitamin K plus prothrombin complex concentrate for immediate factor replacement. Protamine reverses heparin, not warfarin.",
+   "reference": "KDT 8e, Anticoagulants",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "H",
+   "stem": "Heparin-induced thrombocytopenia is characterised by:",
+   "options": [
+    "Bleeding due to platelet destruction within 24 hours",
+    "Thrombocytopenia with paradoxical thrombosis 5 to 10 days after starting heparin",
+    "Isolated eosinophilia",
+    "Reversible marrow aplasia"
+   ],
+   "correct": 1,
+   "concept": "Antibodies to the heparin-platelet factor 4 complex activate platelets, causing a falling count with arterial and venous thrombosis rather than bleeding, typically 5 to 10 days after exposure. Heparin must be stopped and a non-heparin anticoagulant such as argatroban started.",
+   "reference": "HARR 21e, Coagulation Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COAG_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Bleeding disorders, thrombophilia & anticoagulation",
+   "difficulty": "M",
+   "stem": "Aspirin produces its antiplatelet effect by:",
+   "options": [
+    "Blocking glycoprotein IIb/IIIa receptors",
+    "Antagonising the P2Y12 ADP receptor",
+    "Irreversibly acetylating cyclo-oxygenase-1",
+    "Inhibiting phosphodiesterase"
+   ],
+   "correct": 2,
+   "concept": "Aspirin irreversibly acetylates platelet COX-1, abolishing thromboxane A2 synthesis for the platelet lifespan of 7 to 10 days, which is why it is withheld before surgery. Clopidogrel blocks P2Y12 and abciximab blocks GpIIb/IIIa.",
+   "reference": "KDT 8e, Antiplatelet Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "E",
+   "stem": "The cardinal features of Parkinson's disease are:",
+   "options": [
+    "Resting tremor, rigidity, bradykinesia and postural instability",
+    "Intention tremor, ataxia and nystagmus",
+    "Chorea, dementia and personality change",
+    "Spasticity, hyperreflexia and clonus"
+   ],
+   "correct": 0,
+   "concept": "Parkinson's disease results from loss of dopaminergic neurons in the substantia nigra pars compacta, producing an asymmetrical pill-rolling rest tremor at 4 to 6 Hz, cogwheel rigidity, bradykinesia and later postural instability.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "M",
+   "stem": "The most effective drug for symptomatic relief in Parkinson's disease is:",
+   "options": [
+    "Trihexyphenidyl",
+    "Amantadine",
+    "Levodopa with carbidopa",
+    "Selegiline"
+   ],
+   "correct": 2,
+   "concept": "Levodopa combined with a peripheral decarboxylase inhibitor remains the most effective treatment; carbidopa prevents peripheral conversion, reducing nausea and allowing more levodopa to reach the brain. Long-term use brings dyskinesias and on-off fluctuations.",
+   "reference": "KDT 8e, Drugs for Parkinsonism",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "M",
+   "stem": "Huntington disease is characterised by:",
+   "options": [
+    "Autosomal recessive inheritance with copper deposition",
+    "Autosomal dominant CAG trinucleotide repeat expansion with caudate atrophy",
+    "X-linked inheritance with cerebellar atrophy",
+    "Mitochondrial inheritance with optic atrophy"
+   ],
+   "correct": 1,
+   "concept": "Huntington disease is autosomal dominant, caused by CAG repeat expansion in the HTT gene on chromosome 4, with anticipation, and shows chorea, dementia and psychiatric disturbance with atrophy of the caudate producing box-car ventricles.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "E",
+   "stem": "A young patient with tremor, dysarthria, Kayser-Fleischer rings and deranged liver function most likely has:",
+   "options": [
+    "Wilson disease",
+    "Haemochromatosis",
+    "Huntington disease",
+    "Progressive supranuclear palsy"
+   ],
+   "correct": 0,
+   "concept": "Wilson disease is autosomal recessive ATP7B deficiency causing copper accumulation, with Kayser-Fleischer rings, low serum ceruloplasmin, raised urinary copper and lentiform nucleus degeneration. Penicillamine or trientine with zinc is used.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "M",
+   "stem": "Which is the commonest cause of dementia?",
+   "options": [
+    "Vascular dementia",
+    "Alzheimer disease",
+    "Lewy body dementia",
+    "Frontotemporal dementia"
+   ],
+   "correct": 1,
+   "concept": "Alzheimer disease accounts for 60 to 70% of dementia, with amyloid plaques and neurofibrillary tangles of hyperphosphorylated tau, hippocampal atrophy and an insidious amnestic onset. Vascular dementia is second and typically stepwise.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "M",
+   "stem": "Early prominent visual hallucinations, fluctuating cognition and marked neuroleptic sensitivity suggest:",
+   "options": [
+    "Alzheimer disease",
+    "Vascular dementia",
+    "Dementia with Lewy bodies",
+    "Normal pressure hydrocephalus"
+   ],
+   "correct": 2,
+   "concept": "Dementia with Lewy bodies features fluctuating cognition, vivid visual hallucinations, parkinsonism and REM sleep behaviour disorder, with severe sensitivity to antipsychotics that can precipitate rigidity. Alpha-synuclein inclusions are the pathological hallmark.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "E",
+   "stem": "The classical triad of normal pressure hydrocephalus is:",
+   "options": [
+    "Gait apraxia, urinary incontinence and dementia",
+    "Headache, vomiting and papilloedema",
+    "Chorea, rigidity and seizures",
+    "Tremor, ataxia and nystagmus"
+   ],
+   "correct": 0,
+   "concept": "Normal pressure hydrocephalus presents with a magnetic gait, urinary incontinence and cognitive slowing with ventriculomegaly out of proportion to sulcal atrophy. It is potentially reversible by ventriculoperitoneal shunting, and gait improves first.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "H",
+   "stem": "Vertical gaze palsy with early falls, axial rigidity and poor levodopa response indicates:",
+   "options": [
+    "Multiple system atrophy",
+    "Corticobasal degeneration",
+    "Idiopathic Parkinson disease",
+    "Progressive supranuclear palsy"
+   ],
+   "correct": 3,
+   "concept": "Progressive supranuclear palsy (Steele-Richardson-Olszewski syndrome) causes supranuclear vertical gaze palsy, early postural instability with backward falls, axial rigidity and a poor levodopa response, with tau pathology and midbrain atrophy.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "H",
+   "stem": "Hemiballismus results from a lesion of the:",
+   "options": [
+    "Caudate nucleus",
+    "Substantia nigra",
+    "Subthalamic nucleus",
+    "Dentate nucleus"
+   ],
+   "correct": 2,
+   "concept": "Violent flinging movements of one half of the body follow a lesion, usually a lacunar infarct, of the contralateral subthalamic nucleus, which normally provides excitatory drive to the globus pallidus internus.",
+   "reference": "HARR 21e, Parkinson Disease and Other Movement Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_MOV_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Movement disorders, Parkinson's disease & dementia",
+   "difficulty": "M",
+   "stem": "Which drug commonly causes drug-induced parkinsonism?",
+   "options": [
+    "Haloperidol",
+    "Amitriptyline",
+    "Sodium valproate",
+    "Propranolol"
+   ],
+   "correct": 0,
+   "concept": "Typical antipsychotics such as haloperidol block striatal D2 receptors and produce a symmetrical parkinsonism, as do metoclopramide and prochlorperazine. It is reversible on withdrawal and treated with anticholinergics rather than levodopa.",
+   "reference": "KDT 8e, Antipsychotic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "E",
+   "stem": "Multiple sclerosis is best diagnosed by demonstrating lesions disseminated in:",
+   "options": [
+    "Space and time",
+    "One region only",
+    "Peripheral nerves",
+    "Muscle only"
+   ],
+   "correct": 0,
+   "concept": "Diagnosis rests on dissemination in space and time, shown clinically or by MRI lesions in characteristic periventricular, juxtacortical, infratentorial and spinal locations, with oligoclonal bands in cerebrospinal fluid supporting it.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "M",
+   "stem": "Internuclear ophthalmoplegia in a young woman suggests a lesion of the:",
+   "options": [
+    "Optic chiasm",
+    "Medial longitudinal fasciculus",
+    "Oculomotor nerve",
+    "Lateral geniculate body"
+   ],
+   "correct": 1,
+   "concept": "Failure of adduction of one eye with nystagmus of the abducting eye indicates a medial longitudinal fasciculus lesion, and when bilateral in a young adult is highly suggestive of multiple sclerosis.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "M",
+   "stem": "The treatment of choice for an acute relapse of multiple sclerosis is:",
+   "options": [
+    "Oral azathioprine",
+    "Plasma exchange",
+    "High-dose intravenous methylprednisolone",
+    "Interferon beta"
+   ],
+   "correct": 2,
+   "concept": "High-dose intravenous methylprednisolone shortens the duration of an acute relapse though it does not alter long-term disability. Interferon beta and other agents are disease-modifying rather than relapse treatments.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "E",
+   "stem": "Brown-Sequard syndrome from hemisection of the spinal cord produces:",
+   "options": [
+    "Ipsilateral loss of proprioception and motor power with contralateral loss of pain and temperature",
+    "Bilateral loss of all modalities",
+    "Loss of pain and temperature with preserved motor power",
+    "Pure motor paralysis"
+   ],
+   "correct": 0,
+   "concept": "Hemisection interrupts the ipsilateral corticospinal tract and dorsal columns, which have already decussated or do so higher, and the spinothalamic tract that has crossed from the opposite side - giving the classical dissociated picture one or two segments below.",
+   "reference": "Snell Clinical Neuroanatomy, Spinal Cord",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "M",
+   "stem": "A syringomyelia typically causes:",
+   "options": [
+    "Cape-like loss of pain and temperature with preserved touch",
+    "Symmetrical distal sensory loss",
+    "Pure spastic paraparesis",
+    "Isolated dorsal column loss"
+   ],
+   "correct": 0,
+   "concept": "A central cavity first interrupts the decussating spinothalamic fibres in the anterior white commissure, producing a suspended cape-like loss of pain and temperature with sparing of the dorsal columns - dissociated sensory loss.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "M",
+   "stem": "Anterior spinal artery occlusion spares:",
+   "options": [
+    "Pain and temperature sensation",
+    "Motor function",
+    "Proprioception and vibration sense",
+    "Bladder function"
+   ],
+   "correct": 2,
+   "concept": "The anterior spinal artery supplies the anterior two-thirds of the cord, so infarction causes paraplegia with loss of pain and temperature and sphincter disturbance while the posteriorly supplied dorsal columns, and therefore proprioception and vibration, are spared.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "E",
+   "stem": "A strictly unilateral, severe, throbbing headache with photophobia, nausea and preceding visual aura is:",
+   "options": [
+    "Migraine with aura",
+    "Cluster headache",
+    "Tension-type headache",
+    "Trigeminal neuralgia"
+   ],
+   "correct": 0,
+   "concept": "Migraine with aura gives a unilateral pulsatile headache lasting 4 to 72 hours with photophobia, phonophobia and nausea, preceded by a spreading visual aura. Triptans treat the attack and propranolol or topiramate prevent it.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "H",
+   "stem": "Severe strictly unilateral periorbital pain lasting 30 to 90 minutes with lacrimation, conjunctival injection and ptosis, recurring nightly in clusters, is treated acutely with:",
+   "options": [
+    "Oral amitriptyline",
+    "Carbamazepine",
+    "Indomethacin",
+    "High-flow oxygen with subcutaneous sumatriptan"
+   ],
+   "correct": 3,
+   "concept": "Cluster headache responds acutely to 100% oxygen and subcutaneous sumatriptan, with verapamil for prophylaxis. Indomethacin is the specific treatment for paroxysmal hemicrania and carbamazepine for trigeminal neuralgia.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "H",
+   "stem": "Neuromyelitis optica is distinguished from multiple sclerosis by antibodies against:",
+   "options": [
+    "Myelin oligodendrocyte glycoprotein",
+    "Aquaporin-4",
+    "Voltage-gated calcium channels",
+    "Glutamic acid decarboxylase"
+   ],
+   "correct": 1,
+   "concept": "Anti-aquaporin-4 IgG targets astrocytic water channels, producing longitudinally extensive transverse myelitis with severe optic neuritis. Distinguishing it matters because interferon beta worsens neuromyelitis optica.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_DEM_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Demyelinating disease, spinal cord syndromes & headache",
+   "difficulty": "M",
+   "stem": "Subacute combined degeneration of the cord affects predominantly the:",
+   "options": [
+    "Anterior horn cells",
+    "Spinothalamic tracts",
+    "Dorsal columns and corticospinal tracts",
+    "Cerebellar peduncles"
+   ],
+   "correct": 2,
+   "concept": "Vitamin B12 deficiency demyelinates the posterior columns and lateral corticospinal tracts, giving loss of vibration and joint position sense with a positive Romberg sign, spastic weakness and extensor plantars despite absent ankle reflexes.",
+   "reference": "HARR 21e, Multiple Sclerosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "E",
+   "stem": "The lowest possible score on the Glasgow Coma Scale is:",
+   "options": [
+    "3",
+    "0",
+    "1",
+    "5"
+   ],
+   "correct": 0,
+   "concept": "The scale scores eye opening 1 to 4, verbal response 1 to 5 and motor response 1 to 6, so the minimum total is 3 and the maximum 15. A score of 8 or below defines coma and usually mandates airway protection.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "M",
+   "stem": "Cushing's reflex in raised intracranial pressure consists of:",
+   "options": [
+    "Hypotension, tachycardia and hyperventilation",
+    "Hypertension, bradycardia and irregular respiration",
+    "Hypertension, tachycardia and apnoea",
+    "Hypotension, bradycardia and hyperthermia"
+   ],
+   "correct": 1,
+   "concept": "The Cushing response is systemic hypertension with bradycardia and irregular breathing, a late and ominous sign of critically raised intracranial pressure that heralds herniation.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "M",
+   "stem": "Uncal (transtentorial) herniation classically first compresses which cranial nerve?",
+   "options": [
+    "Optic",
+    "Trochlear",
+    "Oculomotor",
+    "Abducens"
+   ],
+   "correct": 2,
+   "concept": "The uncus compresses the third nerve against the petroclinoid ligament, so the earliest sign is an ipsilateral dilated poorly reactive pupil, followed by ptosis and a down-and-out eye, then contralateral hemiparesis.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "E",
+   "stem": "Which measure most rapidly lowers acutely raised intracranial pressure?",
+   "options": [
+    "Intravenous mannitol with head elevation and controlled hyperventilation",
+    "Intravenous dexamethasone",
+    "Oral acetazolamide",
+    "Fluid loading"
+   ],
+   "correct": 0,
+   "concept": "Osmotic diuresis with mannitol or hypertonic saline, 30-degree head elevation and short-term controlled hyperventilation act within minutes. Dexamethasone helps only vasogenic oedema around tumours and has no role in trauma.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "M",
+   "stem": "Decorticate posturing (flexion of the upper limbs with extension of the lower limbs) localises the lesion:",
+   "options": [
+    "Above the midbrain, in the cerebral hemispheres or internal capsule",
+    "In the medulla",
+    "In the spinal cord",
+    "In the peripheral nerves"
+   ],
+   "correct": 0,
+   "concept": "Decorticate rigidity indicates a lesion above the midbrain with release of the rubrospinal tract, and carries a better prognosis than decerebrate extensor posturing, which implies brainstem involvement at or below the midbrain.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "M",
+   "stem": "Pinpoint pupils with respiratory depression and coma suggest:",
+   "options": [
+    "Opioid poisoning",
+    "Atropine poisoning",
+    "Alcohol intoxication",
+    "Organophosphate poisoning"
+   ],
+   "correct": 0,
+   "concept": "The triad of coma, pinpoint pupils and respiratory depression is classical of opioid overdose, reversed by naloxone. Organophosphates also cause miosis but with fasciculations and profuse secretions.",
+   "reference": "KDT 8e, Opioid Analgesics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "E",
+   "stem": "Doll's eye movement (oculocephalic reflex) is absent when there is:",
+   "options": [
+    "Brainstem dysfunction",
+    "Cortical blindness",
+    "A hemispheric lesion only",
+    "Psychogenic unresponsiveness"
+   ],
+   "correct": 0,
+   "concept": "The oculocephalic reflex requires intact vestibular nuclei, medial longitudinal fasciculus and third and sixth nerve nuclei, so its loss in a comatose patient indicates brainstem failure. It is testable only after excluding cervical spine injury.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "H",
+   "stem": "Which is required before a diagnosis of brain death can be made?",
+   "options": [
+    "A confirmatory electroencephalogram in all cases",
+    "Absence of sedatives, normothermia, normal electrolytes and a known irreversible cause",
+    "Presence of spinal reflexes",
+    "A minimum age of 18 years"
+   ],
+   "correct": 1,
+   "concept": "Prerequisites are a known irreversible catastrophic brain injury with exclusion of confounders - drugs, hypothermia, severe metabolic or endocrine disturbance and hypotension - before testing brainstem reflexes and apnoea. Spinal reflexes may persist and do not exclude brain death.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "H",
+   "stem": "The apnoea test in brain death certification is considered positive when:",
+   "options": [
+    "No respiratory effort occurs despite arterial PCO2 rising above 60 mmHg",
+    "Oxygen saturation falls below 90%",
+    "The patient coughs on suction",
+    "Blood pressure falls"
+   ],
+   "correct": 0,
+   "concept": "Absence of any respiratory effort despite an arterial PCO2 above 60 mmHg, or a rise of 20 mmHg above baseline, confirms loss of the medullary respiratory centre. The test is abandoned if the patient becomes unstable.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_COMA_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Coma, raised intracranial pressure & brain death",
+   "difficulty": "M",
+   "stem": "A patient is awake with preserved eye opening and vertical gaze but is unable to move or speak. This is:",
+   "options": [
+    "Locked-in syndrome",
+    "Persistent vegetative state",
+    "Akinetic mutism",
+    "Brain death"
+   ],
+   "correct": 0,
+   "concept": "Locked-in syndrome follows a ventral pontine lesion, usually basilar artery occlusion, sparing the reticular formation and the vertical gaze centres, so consciousness is intact and communication is possible through vertical eye movements and blinking.",
+   "reference": "HARR 21e, Coma",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

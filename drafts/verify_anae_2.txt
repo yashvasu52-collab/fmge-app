@@ -1,0 +1,31 @@
+Q_AN_MR_013 | stem=Which two design features prevent a wrong gas cylinder or pipeline being connected to an anaesthesia machine?;;opt0=The pin index safety system for cylinders and non-interchangeable colour-coded connections for pipelines;;opt1=The oxygen failure alarm and the reservoir bag;;opt2=The scavenging system and the vaporiser interlock;;opt3=Capnography and pulse oximetry;;key=0;;concept=These are physical safeguards that act before any monitor would detect a problem, which is why they sit alongside the oxygen-nitrous oxide proportioning system rather than replacing it.;;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. The Anesthesia Machine | duplicate of Q_AN_MR_007, which asks the same question about waveform capnography confirming tracheal tube placement. Rewritten to the machine's physical gas-supply safeguards
+Q_PYQ_FMGE_2024JAN_001 | stem=What does the Mallampati classification assess, and what is it used to predict?;;opt0=Visibility of the oropharyngeal structures on mouth opening, used to predict a difficult laryngoscopy and intubation;;opt1=Overall fitness for surgery;;opt2=Severity of obstructive sleep apnoea;;opt3=Depth of anaesthesia;;key=0;;concept=It is graded I to IV by how much of the soft palate, uvula and tonsillar pillars is seen, and because no single bedside test is reliable it is combined with thyromental distance, neck extension and mouth opening.;;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Airway Management;;source=ai | the keyed option was the bare phrase "Endotracheal intubation", which does not state what the classification assesses or predicts, and the remaining options were near-identical paraphrases of "fitness for surgery". Rewritten as a formed question; exam-paper-only reference replaced with a study source
+Q_PYQ_FMGE_2025JANP1_134 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Anesthesia for Patients with Respiratory Disease | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP2_002 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Preoperative Assessment and Medication Management | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP2_013 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Airway Management | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_019 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Anesthesia for Patients with Endocrine Disease | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_120 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Ambulatory and Non-Operating Room Anesthesia | reference cited only the exam paper; a study source added. The topic screen flagged the filing, but day-care suitability is properly part of preoperative assessment, so the topic is unchanged
+Q_PYQ_FMGE_2025JULP1_124 | topic=Muscle relaxants, monitoring, anaesthesia machine & breathing circuits;;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Neuromuscular Monitoring | misfiled: peripheral nerve stimulator monitoring of neuromuscular blockade sat under "Preop assessment (ASA), airway management". Refiled to the monitoring topic, and the exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JULP1_126 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Airway Management (the difficult airway algorithm) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_131 | stem=Which Cormack-Lehane grade on direct laryngoscopy indicates that only the epiglottis is visible, and what does it imply?;;opt0=Grade 3, which predicts a difficult intubation and calls for an alternative technique such as a videolaryngoscope or bougie;;opt1=Grade 1, a full view of the glottis;;opt2=Grade 2, a partial view of the glottis;;opt3=Grade 4, in which neither glottis nor epiglottis is seen;;key=0;;concept=Grades 3 and 4 define a difficult laryngoscopy, and unlike the Mallampati score this grading can only be assigned once the laryngoscope is in place, which is why the two are used together.;;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Airway Management;;source=ai | duplicate of Q_PYQ_FMGE_2025JULP1_126 in the same paper, which asks the same cannot-intubate-cannot-ventilate management. Rewritten to Cormack-Lehane grading
+Q_h3d_044 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Airway Management (rapid sequence induction) | reference named the book with no chapter; a chapter added
+Q_AN_RA_006 | topic=Local anaesthetics (max doses, toxicity) | misfiled: the early features of local anaesthetic systemic toxicity belong with local anaesthetic dosing and toxicity, not with neuraxial technique. Its own reference already pointed to the local anaesthetics chapter
+Q_AN_RA_007 | topic=Local anaesthetics (max doses, toxicity) | misfiled: why adrenaline is added to a local anaesthetic solution is a local anaesthetic pharmacology point, not a regional technique point. Its own reference already pointed to the local anaesthetics chapter
+Q_AN_RA_011 | topic=Local anaesthetics (max doses, toxicity);;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Local Anesthetics (systemic toxicity and lipid rescue) | misfiled by me when I authored it: treatment of local anaesthetic systemic toxicity belongs in the local anaesthetics topic, and the reference pointed at the neuraxial blocks chapter
+Q_AN_RA_013 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Chronic Pain Management; WHO Cancer Pain Relief | the reference pointed to the spinal, epidural and caudal blocks chapter, which does not cover the WHO analgesic ladder for cancer pain
+Q_AN_MR_012 | ok |
+Q_AN_MR_014 | ok |
+Q_AN_MR_015 | ok |
+Q_AN_PRE_001 | ok |
+Q_AN_PRE_002 | ok |
+Q_AN_RA_001 | ok |
+Q_AN_RA_002 | ok |
+Q_AN_RA_003 | ok |
+Q_AN_RA_004 | ok |
+Q_AN_RA_005 | ok |
+Q_AN_RA_008 | ok |
+Q_AN_RA_009 | ok |
+Q_AN_RA_010 | ok |
+Q_AN_RA_012 | ok |
+Q_AN_RA_014 | ok |
+Q_AN_RA_015 | ok |

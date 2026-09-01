@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_PAT_GIT_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "E",
+   "stem": "The commonest site of a peptic ulcer is:",
+   "options": [
+    "The first part of the duodenum",
+    "The gastric fundus",
+    "The oesophagus",
+    "The jejunum"
+   ],
+   "correct": 0,
+   "concept": "Duodenal ulcers, almost always on the anterior or posterior wall of the first part, are commoner than gastric ulcers and are strongly associated with Helicobacter pylori and acid hypersecretion. Posterior ulcers may erode the gastroduodenal artery.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "M",
+   "stem": "Helicobacter pylori survives gastric acid principally by:",
+   "options": [
+    "Producing urease that generates ammonia to neutralise local acid",
+    "Forming spores",
+    "Living intracellularly",
+    "Producing a thick capsule"
+   ],
+   "correct": 0,
+   "concept": "Urease splits urea into ammonia and carbon dioxide, buffering the periplasmic space. This is exploited by the rapid urease test and the urea breath test used for diagnosis and confirmation of eradication.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "M",
+   "stem": "Zollinger-Ellison syndrome is caused by:",
+   "options": [
+    "A gastrin-secreting tumour, usually of the pancreas or duodenum, causing multiple refractory ulcers",
+    "Excess histamine",
+    "Loss of parietal cells",
+    "Bile reflux"
+   ],
+   "correct": 0,
+   "concept": "Gastrinoma causes massive acid hypersecretion with multiple ulcers in unusual sites such as the distal duodenum and jejunum, with diarrhoea and steatorrhoea. It may be part of MEN1; high-dose proton pump inhibitors are used.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "E",
+   "stem": "Which feature is characteristic of ulcerative colitis rather than Crohn disease?",
+   "options": [
+    "Continuous mucosal inflammation extending proximally from the rectum",
+    "Skip lesions",
+    "Transmural involvement",
+    "Non-caseating granulomas"
+   ],
+   "correct": 0,
+   "concept": "Ulcerative colitis is continuous and limited to mucosa and submucosa, beginning in the rectum, with crypt abscesses and pseudopolyps. Crohn disease is transmural and discontinuous with granulomas and fistulae.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "M",
+   "stem": "The risk of colorectal carcinoma in ulcerative colitis is greatest with:",
+   "options": [
+    "Long duration and extensive pancolitis",
+    "Short duration",
+    "Proctitis alone",
+    "Mild disease"
+   ],
+   "correct": 0,
+   "concept": "Cancer risk rises after 8 to 10 years and with extent of involvement, so surveillance colonoscopy with biopsies is started then. Primary sclerosing cholangitis further increases risk. Cancers arise from flat dysplasia rather than polyps.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "M",
+   "stem": "The adenoma-carcinoma sequence in colorectal cancer begins with mutation of:",
+   "options": [
+    "The APC gene",
+    "TP53",
+    "KRAS",
+    "DCC"
+   ],
+   "correct": 0,
+   "concept": "The classic sequence is APC loss initiating adenoma formation, then KRAS activation driving growth, then loss of DCC/SMAD and finally TP53 permitting invasion. About 15% of cancers instead arise via microsatellite instability.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "E",
+   "stem": "Villous atrophy with crypt hyperplasia and intraepithelial lymphocytosis in the duodenum indicates:",
+   "options": [
+    "Coeliac disease",
+    "Crohn disease",
+    "Ulcerative colitis",
+    "Peptic ulcer"
+   ],
+   "correct": 0,
+   "concept": "Gluten-sensitive enteropathy shows these changes maximally in the proximal small bowel, graded by the Marsh classification, and reverses on a gluten-free diet. It is associated with HLA-DQ2/DQ8 and dermatitis herpetiformis.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "H",
+   "stem": "PAS-positive macrophages in the lamina propria of the small intestine indicate:",
+   "options": [
+    "Whipple disease caused by Tropheryma whipplei",
+    "Coeliac disease",
+    "Tuberculosis",
+    "Giardiasis"
+   ],
+   "correct": 0,
+   "concept": "Whipple disease shows distended foamy macrophages stuffed with PAS-positive diastase-resistant bacilli, causing malabsorption, arthralgia, lymphadenopathy and neurological signs, treated with prolonged antibiotics.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "H",
+   "stem": "Hereditary non-polyposis colorectal cancer (Lynch syndrome) results from defects in:",
+   "options": [
+    "DNA mismatch repair genes causing microsatellite instability",
+    "APC",
+    "TP53 only",
+    "RB1"
+   ],
+   "correct": 0,
+   "concept": "Germline mutations in MLH1, MSH2, MSH6 or PMS2 impair mismatch repair, producing microsatellite instability with right-sided, poorly differentiated mucinous tumours arising rapidly without a polyposis phase, plus endometrial and other cancers.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_GIT_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "GIT: PUD, IBD, colorectal carcinoma, malabsorption",
+   "difficulty": "M",
+   "stem": "Signet ring cells in a gastric biopsy indicate:",
+   "options": [
+    "Diffuse type gastric adenocarcinoma, which may produce linitis plastica",
+    "Intestinal type adenocarcinoma",
+    "Gastric lymphoma",
+    "A benign ulcer"
+   ],
+   "correct": 0,
+   "concept": "Diffuse type carcinoma with E-cadherin loss infiltrates the wall as discohesive mucin-filled signet ring cells, producing a rigid thickened leather-bottle stomach. It affects younger patients and has a worse prognosis.",
+   "reference": "Robbins & Cotran 10e, The Gastrointestinal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "E",
+   "stem": "The commonest primary malignant renal tumour in adults is:",
+   "options": [
+    "Clear cell renal cell carcinoma",
+    "Transitional cell carcinoma",
+    "Wilms tumour",
+    "Oncocytoma"
+   ],
+   "correct": 0,
+   "concept": "Clear cell renal cell carcinoma arises from proximal tubular epithelium, associated with VHL gene loss on chromosome 3p, and shows characteristic clear lipid and glycogen-rich cytoplasm with a golden-yellow cut surface.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "M",
+   "stem": "Adult polycystic kidney disease is inherited as:",
+   "options": [
+    "Autosomal dominant, with PKD1 mutation on chromosome 16 in most cases",
+    "Autosomal recessive",
+    "X-linked",
+    "Mitochondrial"
+   ],
+   "correct": 0,
+   "concept": "ADPKD presents in adulthood with bilaterally enlarged cystic kidneys, hypertension, haematuria and progressive renal failure, plus hepatic cysts, mitral valve prolapse and berry aneurysms causing subarachnoid haemorrhage.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "M",
+   "stem": "Renal papillary necrosis is classically associated with all EXCEPT:",
+   "options": [
+    "Minimal change disease",
+    "Diabetes mellitus",
+    "Analgesic abuse",
+    "Sickle cell disease"
+   ],
+   "correct": 0,
+   "concept": "The mnemonic POSTCARDS covers pyelonephritis, obstruction, sickle cell, tuberculosis, cirrhosis, analgesia, renal vein thrombosis, diabetes and systemic vasculitis. Minimal change disease is a glomerular, not papillary, disorder.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "E",
+   "stem": "Acute tubular necrosis most commonly results from:",
+   "options": [
+    "Ischaemia or nephrotoxins, presenting with muddy brown granular casts",
+    "Immune complex deposition",
+    "Post-streptococcal infection",
+    "Amyloid deposition"
+   ],
+   "correct": 0,
+   "concept": "Ischaemic or toxic injury to tubular epithelium produces oliguric acute kidney injury with muddy brown granular casts, high urinary sodium and low urine osmolality, distinguishing it from prerenal azotaemia. It is potentially reversible.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "M",
+   "stem": "Wilms tumour (nephroblastoma) is characterised histologically by:",
+   "options": [
+    "A triphasic pattern of blastemal, epithelial and stromal elements",
+    "Clear cells only",
+    "Papillary architecture",
+    "Signet ring cells"
+   ],
+   "correct": 0,
+   "concept": "Wilms tumour is a childhood embryonal tumour with blastemal, epithelial and stromal components, associated with WT1 mutations and syndromes such as WAGR, Denys-Drash and Beckwith-Wiedemann. Anaplasia confers a poor prognosis.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "M",
+   "stem": "Amyloidosis of the kidney is best demonstrated by:",
+   "options": [
+    "Congo red staining with apple-green birefringence under polarised light",
+    "Prussian blue",
+    "PAS stain",
+    "Silver stain"
+   ],
+   "correct": 0,
+   "concept": "Amyloid, whatever its precursor protein, has a beta-pleated sheet structure that binds Congo red and shows apple-green birefringence. Renal involvement causes nephrotic syndrome with large kidneys.",
+   "reference": "Robbins & Cotran 10e, Amyloidosis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "E",
+   "stem": "Ascending infection causing patchy interstitial inflammation with neutrophil casts indicates:",
+   "options": [
+    "Acute pyelonephritis",
+    "Acute glomerulonephritis",
+    "Minimal change disease",
+    "Renal infarct"
+   ],
+   "correct": 0,
+   "concept": "Acute pyelonephritis from ascending E. coli infection produces patchy suppurative inflammation with white cell casts in the urine confirming renal rather than lower tract origin, with fever and loin tenderness.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "H",
+   "stem": "Chronic pyelonephritis with reflux nephropathy characteristically shows:",
+   "options": [
+    "Coarse asymmetrical cortical scars overlying deformed calyces with thyroidisation of tubules",
+    "Symmetrical small kidneys",
+    "Enlarged smooth kidneys",
+    "Normal architecture"
+   ],
+   "correct": 0,
+   "concept": "Vesicoureteric reflux in childhood causes coarse scars at the poles overlying blunted calyces, with tubules containing eosinophilic casts resembling thyroid follicles. It is an important cause of hypertension and chronic kidney disease.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "H",
+   "stem": "Renal cell carcinoma characteristically spreads by:",
+   "options": [
+    "Direct invasion of the renal vein with propagation into the inferior vena cava",
+    "Lymphatics only",
+    "Transcoelomic spread",
+    "Perineural spread"
+   ],
+   "correct": 0,
+   "concept": "Renal cell carcinoma has a striking tendency to grow as a tumour thrombus along the renal vein into the inferior vena cava and even the right atrium, requiring careful preoperative imaging. Cannonball lung metastases are typical.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_REN_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Renal: tubulointerstitial, cystic disease, renal tumours",
+   "difficulty": "M",
+   "stem": "Nephrocalcinosis is most commonly associated with:",
+   "options": [
+    "Hypercalcaemia from hyperparathyroidism or vitamin D excess",
+    "Hypocalcaemia",
+    "Hypokalaemia",
+    "Hyponatraemia"
+   ],
+   "correct": 0,
+   "concept": "Sustained hypercalcaemia and hypercalciuria deposit calcium in the tubular basement membranes and interstitium, impairing concentrating ability and causing chronic tubulointerstitial disease; distal renal tubular acidosis is another cause.",
+   "reference": "Robbins & Cotran 10e, The Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_001",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "E",
+   "stem": "The commonest primary malignant bone tumour in adolescents is:",
+   "options": [
+    "Osteosarcoma",
+    "Ewing sarcoma",
+    "Chondrosarcoma",
+    "Multiple myeloma"
+   ],
+   "correct": 0,
+   "concept": "Osteosarcoma peaks in the second decade at the metaphysis of long bones around the knee, producing osteoid by malignant cells, with a sunburst periosteal reaction and Codman triangle on radiography.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_002",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "M",
+   "stem": "Ewing sarcoma is characterised by:",
+   "options": [
+    "t(11;22) translocation with small round blue cells and an onion-skin periosteal reaction",
+    "Osteoid production",
+    "Cartilage formation",
+    "Giant cells"
+   ],
+   "correct": 0,
+   "concept": "Ewing sarcoma shows the EWSR1-FLI1 fusion from t(11;22), sheets of small round blue cells positive for CD99, diaphyseal location and lamellated onion-skin periosteal reaction, often with fever mimicking osteomyelitis.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_003",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "M",
+   "stem": "Giant cell tumour of bone characteristically occurs at:",
+   "options": [
+    "The epiphysis of long bones, typically around the knee, with a soap-bubble appearance",
+    "The diaphysis",
+    "The metaphysis only",
+    "The vertebral body"
+   ],
+   "correct": 0,
+   "concept": "Giant cell tumour (osteoclastoma) is an epiphyseal lytic lesion extending to subchondral bone with an eccentric soap-bubble appearance. It is locally aggressive with a high recurrence rate and can rarely metastasise to lung despite benign histology.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_004",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "E",
+   "stem": "The commonest malignant tumour involving bone overall is:",
+   "options": [
+    "Metastatic carcinoma",
+    "Osteosarcoma",
+    "Chondrosarcoma",
+    "Ewing sarcoma"
+   ],
+   "correct": 0,
+   "concept": "Metastases far outnumber primary bone malignancies, arising commonly from breast, prostate, lung, kidney and thyroid. Prostate metastases are characteristically osteoblastic while most others are osteolytic.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_005",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "M",
+   "stem": "Osteoid osteoma classically presents with:",
+   "options": [
+    "Night pain dramatically relieved by aspirin or NSAIDs, with a small radiolucent nidus",
+    "Painless swelling",
+    "Pathological fracture",
+    "Fever with discharge"
+   ],
+   "correct": 0,
+   "concept": "The nidus produces prostaglandins causing intense nocturnal pain relieved by NSAIDs. It is under 2 cm with surrounding reactive sclerosis; osteoblastoma is the larger, less painful counterpart.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_006",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "M",
+   "stem": "Osteogenesis imperfecta results from a defect in:",
+   "options": [
+    "Type I collagen synthesis",
+    "Type II collagen",
+    "Type IV collagen",
+    "Elastin"
+   ],
+   "correct": 0,
+   "concept": "Defective type I collagen causes brittle bones with recurrent fractures, blue sclerae from thin sclera revealing the choroid, dentinogenesis imperfecta and conductive deafness from otosclerosis-like changes.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_007",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "E",
+   "stem": "Paget disease of bone is characterised histologically by:",
+   "options": [
+    "A mosaic pattern of lamellar bone from disordered resorption and formation",
+    "Normal bone",
+    "Absent osteoclasts",
+    "Pure osteolysis"
+   ],
+   "correct": 0,
+   "concept": "Excessive disordered osteoclastic resorption followed by chaotic new bone formation produces a mosaic jigsaw pattern with markedly raised alkaline phosphatase and normal calcium. High-output cardiac failure and osteosarcoma are complications.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_008",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "H",
+   "stem": "Osteopetrosis (marble bone disease) is caused by:",
+   "options": [
+    "Defective osteoclast function leading to dense but brittle bone with marrow obliteration",
+    "Excess osteoclast activity",
+    "Defective osteoblasts",
+    "Vitamin D deficiency"
+   ],
+   "correct": 0,
+   "concept": "Failure of osteoclastic resorption, often from carbonic anhydrase II deficiency, produces dense sclerotic bone that fractures easily, with anaemia and infection from marrow encroachment and cranial nerve palsies from foraminal narrowing.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_009",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "H",
+   "stem": "A brown tumour of bone is associated with:",
+   "options": [
+    "Hyperparathyroidism, containing osteoclasts, haemorrhage and haemosiderin",
+    "Osteosarcoma",
+    "Paget disease",
+    "Osteomyelitis"
+   ],
+   "correct": 0,
+   "concept": "Excess parathyroid hormone causes osteoclastic resorption with microfractures and haemorrhage, forming a mass of reactive fibrous tissue and haemosiderin - brown from the pigment. It is part of osteitis fibrosa cystica and resolves after parathyroidectomy.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PAT_BON_010",
+   "part": "A",
+   "subject": "Pathology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Bone & soft tissue tumours",
+   "difficulty": "M",
+   "stem": "The commonest benign bone tumour is:",
+   "options": [
+    "Osteochondroma (exostosis)",
+    "Enchondroma",
+    "Osteoid osteoma",
+    "Giant cell tumour"
+   ],
+   "correct": 0,
+   "concept": "Osteochondroma is a cartilage-capped bony outgrowth of the metaphysis pointing away from the joint, with cortex and marrow continuous with the parent bone. Malignant transformation to chondrosarcoma is rare but higher in hereditary multiple exostoses.",
+   "reference": "Robbins & Cotran 10e, Bones and Joints",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

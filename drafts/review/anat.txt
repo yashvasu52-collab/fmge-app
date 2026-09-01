@@ -1,0 +1,765 @@
+
+=== Anatomy / Brachial plexus & nerve injuries (radial/median/ulnar)
+Q_A_002 [E] A man with a mid-shaft fracture of the humerus cannot extend his wrist and fingers (wrist drop) and has sensory loss over the dorsum of the first web space. Which nerve is injured?
+    A. Median nerve
+    B. Ulnar nerve
+   *C. Radial nerve
+    D. Axillary nerve
+   key=C ref=BD Chaurasia, Upper Limb
+   concept: The radial nerve lies in the spiral (radial) groove of the humerus and is injured in mid-shaft fractures, producing wrist drop (loss of extensors) and sensory loss over the first dorsal web space.
+Q_A_003 [E] After a deep laceration at the wrist, a patient develops wasting of the thenar eminence, inability to oppose the thumb, and loss of sensation over the palmar aspect of the lateral three-and-a-half digits. Which nerve is affected?
+    A. Ulnar nerve
+   *B. Median nerve
+    C. Radial nerve
+    D. Musculocutaneous nerve
+   key=B ref=Vishram Singh, Upper Limb
+   concept: The median nerve supplies the thenar (LOAF) muscles and sensation to the palmar lateral three-and-a-half digits; injury causes thenar wasting, loss of opposition ('ape hand'), and this sensory pattern.
+
+=== Anatomy / Cranial nerves & nuclei
+Q_A_009 [M] All of the following structures pass through the cavernous sinus EXCEPT:
+    A. Oculomotor nerve (CN III)
+    B. Abducens nerve (CN VI)
+   *C. Mandibular nerve (V3)
+    D. Internal carotid artery
+   key=C ref=BD Chaurasia, Head and Neck
+   concept: The cavernous sinus transmits CN III, IV, V1 (ophthalmic), V2 (maxillary), VI and the internal carotid artery. The mandibular nerve (V3) leaves the skull via the foramen ovale and does not traverse the sinus.
+Q_PYQ_INICET_2025MAY_002 [M] What is the primary action of the muscle originating from this structure?
+   *A. Protracts and depresses the mandible
+    B. Elevates and protrudes the mandible
+    C. Elevates and retracts the mandible
+    D. Elevates the mandible
+   key=A ref=INI-CET May 2025 (real exam recall)
+   concept: The only option describing depression (opening) of the mandible fits the lateral pterygoid, which protracts and depresses the mandible; elevation/retraction actions belong to masseter, temporalis and medial pterygoid. NOTE: this is an image-based item and the originating structure could not be seen, so the answer is inferred from the option pattern and left unverified.
+
+=== Anatomy / Inguinal canal, GIT relations
+Q_GEN_ANAT_ABDOMEN_001 [E] The superficial (external) inguinal ring is a triangular deficiency in the aponeurosis of which muscle of the anterior abdominal wall?
+   *A. External oblique
+    B. Internal oblique
+    C. Transversus abdominis
+    D. Rectus abdominis
+   key=A ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Anterior Abdominal Wall & Inguinal Canal)
+   concept: The superficial inguinal ring is a triangular gap in the external oblique aponeurosis, lying just above and lateral to the pubic tubercle; its margins (medial and lateral crura) are bridged by intercrural fibres. The deep inguinal ring, in contrast, lies in the fascia transversalis. Internal oblique and transversus form the roof and the conjoint tendon, not the ring itself.
+Q_GEN_ANAT_ABDOMEN_002 [E] The deep (internal) inguinal ring, marking the entrance to the inguinal canal, is an opening in which layer of the abdominal wall?
+    A. External oblique aponeurosis
+    B. Aponeurosis of internal oblique
+   *C. Fascia transversalis
+    D. Transversus abdominis muscle
+   key=C ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Inguinal Canal)
+   concept: The deep inguinal ring is an evagination of the fascia transversalis, situated about 1.25 cm above the midpoint of the inguinal ligament and lateral to the inferior epigastric vessels; it is the site through which an indirect inguinal hernia enters the canal. The superficial ring lies more medially in the external oblique aponeurosis, so the two rings do not overlie one another.
+Q_GEN_ANAT_ABDOMEN_003 [M] The anterior wall of the inguinal canal is formed throughout by the external oblique aponeurosis. In its lateral third, in front of the deep ring, it is additionally reinforced by which structure?
+    A. Conjoint tendon
+    B. Fascia transversalis
+    C. Lacunar ligament
+   *D. Fleshy fibres of the internal oblique
+   key=D ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Inguinal Canal)
+   concept: The anterior wall is the external oblique aponeurosis along the whole canal, reinforced laterally (in front of the deep ring) by the fleshy origin of the internal oblique. This puts a muscular reinforcement in front of the deep ring, while the conjoint tendon reinforces the posterior wall medially behind the superficial ring — so the two weak points (the rings) are each backed by a reinforcement on the opposite wall.
+Q_GEN_ANAT_ABDOMEN_004 [M] Assertion (A): The posterior wall of the inguinal canal is strongest in its medial part, opposite the superficial inguinal ring. Reason (R): The conjoint tendon reinforces the fascia transversalis in the medial part of the posterior wall. Select the correct option.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Inguinal Canal)
+   concept: The posterior wall of the inguinal canal is the fascia transversalis throughout, reinforced medially by the conjoint tendon (falx inguinalis), formed from the internal oblique and transversus aponeuroses attaching to the pubic crest and pectineal line. This reinforcement lies exactly behind the superficial ring, protecting an otherwise weak point — so both statements are true and R correctly explains A. A direct hernia bulges through this wall medial to the inferior epigastric vessels.
+Q_GEN_ANAT_ABDOMEN_005 [M] The conjoint tendon (falx inguinalis), which reinforces the medial part of the posterior wall of the inguinal canal, is formed by the fusion of the aponeurotic fibres of which two muscles?
+    A. External oblique and internal oblique
+    B. Transversus abdominis and external oblique
+   *C. Internal oblique and transversus abdominis
+    D. Internal oblique and rectus abdominis
+   key=C ref=Gray's Anatomy for Students, Chapter 4 — Abdomen (Anterior Abdominal Wall)
+   concept: The conjoint tendon is formed by the lower aponeurotic fibres of the internal oblique and transversus abdominis, which arch over the spermatic cord and descend to attach to the pubic crest and the medial part of the pectineal line. It strengthens the posterior wall behind the superficial ring. The external oblique instead forms the anterior wall and the inguinal, lacunar and pectineal ligaments.
+Q_GEN_ANAT_ABDOMEN_006 [M] Which of the following structures runs within the inguinal canal but is NOT a content of the spermatic cord (lying outside its coverings)?
+    A. Ductus (vas) deferens
+    B. Testicular artery
+    C. Pampiniform plexus of veins
+   *D. Ilioinguinal nerve
+   key=D ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Spermatic Cord)
+   concept: The ilioinguinal nerve enters the canal by piercing the internal oblique and runs on the outer surface of the cord, leaving through the superficial ring; it is therefore in the canal but not a true content of the cord. True cord contents include the ductus deferens, testicular artery, artery to the vas, cremasteric artery, pampiniform plexus, genital branch of the genitofemoral nerve, sympathetic fibres, lymphatics and the obliterated processus vaginalis.
+Q_GEN_ANAT_ABDOMEN_007 [H] A physician palpates the femoral artery pulsation at the mid-inguinal point. This point is defined as lying midway between the anterior superior iliac spine and which bony landmark?
+    A. Pubic tubercle
+   *B. Pubic symphysis
+    C. Tubercle of the iliac crest
+    D. Ischial spine
+   key=B ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Surface Anatomy)
+   concept: The mid-inguinal point is midway between the ASIS and the pubic symphysis and marks where the femoral artery enters the thigh. It must be distinguished from the midpoint of the inguinal ligament (midway between ASIS and pubic tubercle), which overlies the deep inguinal ring. Because the pubic tubercle lies lateral to the symphysis, these two surface points are close but not identical — a classic exam distinction.
+Q_GEN_ANAT_ABDOMEN_008 [M] During repair of a strangulated femoral hernia, the surgeon must carefully divide the sharp, crescentic medial boundary of the femoral ring. This structure is the:
+   *A. Lacunar ligament (of Gimbernat)
+    B. Inguinal ligament
+    C. Pectineal ligament (of Astley Cooper)
+    D. Femoral vein
+   key=A ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Femoral Canal & Hernia)
+   concept: The femoral ring is bounded anteriorly by the inguinal ligament, posteriorly by the pectineal ligament, laterally by the femoral vein (via a thin septum), and medially by the sharp crescentic lacunar ligament of Gimbernat. Strangulation occurs at this unyielding medial edge, which is the structure incised to relieve it — with care taken for an abnormal (aberrant) obturator artery that may cross the lacunar ligament.
+Q_GEN_ANAT_ABDOMEN_009 [H] To distinguish a femoral from an inguinal hernia at the bedside, the clinician relates the neck of the sac to the pubic tubercle. The neck of a FEMORAL hernia characteristically lies:
+    A. Above and medial to the pubic tubercle
+    B. Above and lateral to the pubic tubercle
+   *C. Below and lateral to the pubic tubercle
+    D. Directly over the pubic tubercle
+   key=C ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Hernias)
+   concept: The neck of a femoral hernia emerges through the femoral ring, which lies below and lateral to the pubic tubercle, whereas an inguinal hernia exits through the superficial inguinal ring above and medial to the tubercle. This classic test uses the pubic tubercle as the reference point. Femoral hernias are commoner in women and have a high strangulation risk owing to the narrow, rigid femoral ring.
+Q_GEN_ANAT_ABDOMEN_010 [M] Below the arcuate line of Douglas, the aponeurotic posterior wall of the rectus sheath is absent. Here the posterior surface of the rectus abdominis is directly related to which structure?
+    A. Peritoneum only
+   *B. Transversalis fascia (and, deep to it, peritoneum)
+    C. Aponeurosis of transversus abdominis
+    D. Posterior lamina of the internal oblique aponeurosis
+   key=B ref=Gray's Anatomy for Students, Chapter 4 — Abdomen (Rectus Sheath)
+   concept: Below the arcuate line all three flat-muscle aponeuroses pass in front of the rectus, leaving no posterior aponeurotic sheath; the muscle then rests directly on the transversalis fascia and, deep to it, the extraperitoneal fat and peritoneum. Above the line the internal oblique aponeurosis splits, one lamina passing behind the rectus with the transversus aponeurosis. The inferior epigastric vessels enter the sheath at this line.
+Q_GEN_ANAT_ABDOMEN_011 [H] The arcuate line (linea semicircularis of Douglas), which marks the lower limit of the aponeurotic posterior rectus sheath, is typically located at approximately which level?
+    A. At the level of the umbilicus
+    B. At the level of the xiphisternum
+    C. At the level of the anterior superior iliac spine
+   *D. Midway between the umbilicus and the pubic symphysis
+   key=D ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Rectus Sheath)
+   concept: The arcuate line lies roughly midway between the umbilicus and the pubic symphysis (a few centimetres below the umbilicus). Below it the rectus sheath has no posterior aponeurotic wall, and it is where the inferior epigastric vessels pass anterior to enter the sheath. The lateral edge of the rectus (linea semilunaris) is the recognised, though uncommon, site of a Spigelian hernia.
+Q_GEN_ANAT_ABDOMEN_012 [E] The anterior boundary of the epiploic foramen (of Winslow), which connects the greater and lesser sacs, is formed by the:
+   *A. Free right border of the lesser omentum (hepatoduodenal ligament)
+    B. Inferior vena cava
+    C. Caudate lobe of the liver
+    D. First part of the duodenum
+   key=A ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Peritoneum)
+   concept: The epiploic (omental) foramen is bounded anteriorly by the free right border of the lesser omentum (hepatoduodenal ligament), which carries the portal triad — bile duct (right), hepatic artery proper (left) and portal vein (behind). Posteriorly lies the inferior vena cava, superiorly the caudate lobe of the liver, and inferiorly the first part of the duodenum. It is the sole communication between the lesser sac and the greater sac.
+Q_GEN_ANAT_ABDOMEN_013 [M] Which structure forms the POSTERIOR boundary of the epiploic foramen of Winslow?
+    A. Portal vein
+    B. Bile duct
+    C. Quadrate lobe of the liver
+   *D. Inferior vena cava
+   key=D ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Peritoneal Cavity)
+   concept: The posterior boundary of the epiploic foramen is the inferior vena cava, covered by peritoneum. Anteriorly lies the hepatoduodenal ligament with the portal triad, superiorly the caudate lobe of the liver, and inferiorly the first part of the duodenum with the horizontal course of the hepatic artery. Compressing the anterior boundary between finger and thumb (Pringle's manoeuvre) controls bleeding from the hepatic artery or portal vein.
+Q_GEN_ANAT_ABDOMEN_014 [E] Which one of the following abdominal organs is PRIMARILY retroperitoneal?
+    A. Stomach
+    B. Spleen
+   *C. Kidney
+    D. Transverse colon
+   key=C ref=Moore's Clinically Oriented Anatomy, Chapter 2 — Abdomen (Peritoneum)
+   concept: The kidneys are primary retroperitoneal organs, lying behind the parietal peritoneum from the outset of development. The stomach, spleen and transverse colon are intraperitoneal, suspended by their mesenteries/ligaments. The mnemonic SAD PUCKER lists Suprarenals, Aorta/IVC, Duodenum (2nd–4th parts), Pancreas (except tail), Ureters, Colon (ascending/descending), Kidneys, Oesophagus (abdominal) and Rectum as retroperitoneal.
+Q_GEN_ANAT_ABDOMEN_015 [H] The foregut is supplied by the coeliac trunk and the midgut by the superior mesenteric artery. The embryological foregut–midgut junction, marking this change in dominant arterial supply, lies at which point?
+    A. The pylorus of the stomach
+    B. The duodenojejunal flexure
+    C. The junction of the first and second parts of the duodenum
+   *D. The major duodenal papilla in the second part of the duodenum
+   key=D ref=Gray's Anatomy for Students, Chapter 4 — Abdomen (Development & Blood Supply of the Gut)
+   concept: The foregut ends and the midgut begins at the level of the major duodenal papilla (opening of the bile duct) in the second part of the duodenum. Thus the coeliac trunk (via the gastroduodenal and superior pancreaticoduodenal arteries) supplies proximal to this point, and the SMA (via the inferior pancreaticoduodenal artery) supplies distal to it. This dual, anastomosing supply makes the duodenum relatively resistant to ischaemia.
+Q_GEN_ANAT_ABDOMEN_016 [H] An elderly hypotensive patient develops ischaemic colitis. The most vulnerable 'watershed' zone lies at the splenic flexure, at the border between the territories of which two arteries?
+    A. Coeliac trunk and superior mesenteric artery
+   *B. Superior mesenteric artery and inferior mesenteric artery
+    C. Inferior mesenteric artery and internal iliac artery
+    D. Superior mesenteric artery and coeliac trunk
+   key=B ref=Moore's Clinically Oriented Anatomy, Chapter 2 — Abdomen (Large Intestine Blood Supply)
+   concept: The splenic (left colic) flexure is the junction of midgut supply (SMA, via the middle colic artery) and hindgut supply (IMA, via the left colic artery). This anastomotic watershed — Griffith's point — has the least collateral flow and is the classic site of ischaemic colitis in low-flow states. A second watershed (Sudeck's point) lies at the rectosigmoid junction between the IMA/superior rectal and the internal iliac supply.
+Q_GEN_ANAT_ABDOMEN_017 [M] A patient with cirrhosis develops dilated tortuous veins radiating from the umbilicus (caput medusae). This portosystemic anastomosis is between the para-umbilical veins and which systemic veins?
+    A. Left gastric and oesophageal veins
+    B. Superior and middle rectal veins
+   *C. Superior and inferior epigastric (abdominal wall) veins
+    D. Renal and colic (retroperitoneal) veins
+   key=C ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Portal Venous System)
+   concept: Caput medusae arises from anastomosis between the para-umbilical veins (which run to the left branch of the portal vein along the ligamentum teres) and the systemic superficial epigastric, superior epigastric and inferior epigastric veins of the anterior abdominal wall around the umbilicus. Other portosystemic sites are the oesophageal (left gastric–azygos), rectal (superior–middle/inferior rectal) and bare-area/retroperitoneal (of Retzius) anastomoses.
+Q_GEN_ANAT_ABDOMEN_018 [H] The uncinate process of the pancreas has a key relationship to the superior mesenteric vessels. The uncinate process lies:
+    A. Anterior to the superior mesenteric vein and artery
+   *B. Posterior to the superior mesenteric vessels
+    C. To the left of the abdominal aorta
+    D. Within the free border of the lesser omentum
+   key=B ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Pancreas)
+   concept: The uncinate process is a hook-like leftward extension of the head of the pancreas that lies posterior to the superior mesenteric vessels — the SMV and SMA cross anterior to it — while it lies anterior to the abdominal aorta and IVC. Compression of the third (horizontal) part of the duodenum between the SMA anteriorly and the aorta posteriorly produces superior mesenteric artery (SMA) syndrome.
+Q_GEN_ANAT_ABDOMEN_019 [M] The lienorenal (splenorenal) ligament, extending from the hilum of the spleen to the posterior abdominal wall, contains which of the following structures?
+   *A. Splenic vessels and the tail of the pancreas
+    B. Short gastric and left gastroepiploic vessels
+    C. The left gastric artery
+    D. The middle colic vessels
+   key=A ref=Gray's Anatomy for Students, Chapter 4 — Abdomen (Spleen)
+   concept: The lienorenal (splenorenal) ligament runs from the spleen to the region of the left kidney/posterior wall and carries the splenic artery and vein together with the tail of the pancreas. The gastrosplenic ligament, in contrast, connects the spleen to the greater curvature of the stomach and contains the short gastric and left gastroepiploic vessels. Both ligaments bound the lesser sac at the splenic hilum.
+Q_GEN_ANAT_ABDOMEN_020 [M] All of the following structures pass through the porta hepatis EXCEPT:
+    A. Portal vein
+    B. Hepatic artery proper
+   *C. Hepatic veins
+    D. Common hepatic (bile) duct
+   key=C ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Liver)
+   concept: The porta hepatis transmits the portal vein, the hepatic artery proper and the hepatic (bile) duct, along with hepatic nerves and lymphatics. The hepatic veins do NOT pass through the porta hepatis; they leave the posterior (bare) surface of the liver and drain directly into the inferior vena cava in the groove for the IVC. This distinction matters in interpreting hepatic imaging and in Pringle's manoeuvre, which does not occlude the hepatic veins.
+Q_GEN_ANAT_ABDOMEN_021 [E] In the majority of individuals, the vermiform appendix most commonly occupies which position relative to the caecum?
+   *A. Retrocaecal / retrocolic
+    B. Pelvic
+    C. Subcaecal
+    D. Pre-ileal
+   key=A ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Caecum & Vermiform Appendix)
+   concept: The retrocaecal/retrocolic position is the commonest position of the appendix (about 65–75% of cases), followed by the pelvic position (about 20–30%). A retrocaecal appendix may give atypical signs with a positive psoas sign, whereas a pelvic appendix may cause diarrhoea and irritate the bladder or rectum. The base of the appendix is constant, lying where the three taeniae coli converge on the caecum.
+Q_GEN_ANAT_ABDOMEN_022 [M] McBurney's point, the surface marking of the base of the appendix, lies at the junction of the lateral one-third and medial two-thirds of a line joining the right anterior superior iliac spine to which landmark?
+    A. The pubic symphysis
+   *B. The umbilicus
+    C. The pubic tubercle
+    D. The tip of the 9th costal cartilage
+   key=B ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Surface Anatomy)
+   concept: McBurney's point lies at the junction of the lateral one-third and medial two-thirds of the spino-umbilical line, drawn from the right ASIS to the umbilicus. Maximal tenderness here is a sign of acute appendicitis. It approximates the position of the base of the appendix, which arises from the posteromedial wall of the caecum at the convergence of the three taeniae coli.
+Q_GEN_ANAT_ABDOMEN_023 [M] The portal vein is typically formed, behind the neck of the pancreas, by the union of the superior mesenteric vein with which other vein?
+    A. Inferior mesenteric vein
+   *B. Splenic vein
+    C. Left gastric vein
+    D. Left renal vein
+   key=B ref=BD Chaurasia's Human Anatomy Vol 2 — Abdomen & Pelvis (Portal Vein)
+   concept: The portal vein is formed behind the neck of the pancreas (about the level of L1–L2) by the union of the superior mesenteric vein and the splenic vein. The inferior mesenteric vein usually drains into the splenic vein (or into the junction) before this confluence. The portal vein then ascends in the free border of the lesser omentum, behind the bile duct and hepatic artery, to reach the porta hepatis.
+Q_GEN_ANAT_ABDOMEN_024 [H] A ureteric calculus is most likely to impact at the site where the ureter is anatomically narrowest. This narrowest of the three normal ureteric constrictions is the:
+    A. Pelvi-ureteric junction
+    B. Where the ureter crosses the pelvic brim over the common iliac bifurcation
+   *C. Vesico-ureteric junction (entry into the bladder wall)
+    D. Where the ureter is crossed by the uterine artery or ductus deferens
+   key=C ref=Moore's Clinically Oriented Anatomy, Chapter 3 — Pelvis and Perineum (Ureter)
+   concept: The ureter has three normal constrictions: the pelvi-ureteric junction, the crossing of the pelvic brim at the bifurcation of the common iliac artery, and the vesico-ureteric junction as it passes obliquely through the bladder wall. The vesico-ureteric junction is the narrowest and the commonest site of calculus impaction. These constrictions correspond to the narrowings seen on an intravenous urogram.
+Q_GEN_ANAT_ABDOMEN_025 [H] Assertion (A): A malignant tumour of the testis metastasises first to the superficial inguinal lymph nodes. Reason (R): The testis develops on the posterior abdominal wall and its lymphatics drain along the testicular vessels to the para-aortic (lumbar) nodes at the level of L2. Select the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Snell's Clinical Anatomy by Regions, Chapter 5 — The Abdomen (Testis & Lymphatic Drainage)
+   concept: The assertion is false and the reason is true, so the answer is D. The testis is a posterior abdominal wall organ that descends into the scrotum dragging its lymphatics along the testicular vessels; these drain to the para-aortic (lumbar) nodes near the origin of the testicular artery at L2. Hence testicular cancer spreads first to para-aortic — not inguinal — nodes. Only the scrotal skin drains to the superficial inguinal nodes.
+
+=== Anatomy / Lower limb: femoral/sciatic nerve, foot drop
+Q_A_005 [E] Which motor function is chiefly lost following a complete femoral nerve injury?
+    A. Dorsiflexion of the foot
+   *B. Extension of the knee
+    C. Plantar flexion of the foot
+    D. Adduction of the thigh
+   key=B ref=Vishram Singh, Lower Limb
+   concept: The femoral nerve supplies quadriceps femoris, the main knee extensor; its injury impairs knee extension and abolishes the knee jerk. Thigh adduction is supplied by the obturator nerve.
+
+=== Anatomy / Mediastinum, heart & great vessels
+Q_GEN_ANAT_THORAX_001 [E] Which of the following structures lies within the middle mediastinum?
+    A. Thymus
+    B. Descending thoracic aorta
+    C. Oesophagus
+   *D. Heart enclosed within the pericardium
+   key=D ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (Mediastinum)
+   concept: The middle mediastinum contains the heart within its pericardium, the roots of the great vessels (ascending aorta, pulmonary trunk, lower SVC and terminal arch of the azygos), the main bronchi and the phrenic nerves with pericardiacophrenic vessels. The thymus lies in the anterior (and superior) mediastinum, while the oesophagus and descending thoracic aorta are contents of the posterior mediastinum, so none of those three belongs to the middle division.
+Q_GEN_ANAT_THORAX_002 [M] The narrowest of the normal oesophageal constrictions, situated about 15 cm from the incisor teeth and the commonest cervical site of foreign-body arrest, is produced by the:
+   *A. Cricopharyngeus (upper oesophageal sphincter)
+    B. Crossing of the arch of the aorta
+    C. Crossing of the left main bronchus
+    D. Oesophageal (diaphragmatic) hiatus
+   key=A ref=Snell's Clinical Anatomy by Regions, Chapter 3 — The Thorax (Oesophagus)
+   concept: The oesophagus shows four constrictions measured from the incisors: cricopharyngeal at 15 cm (the narrowest, formed by cricopharyngeus / upper oesophageal sphincter), aortic arch at 22.5 cm, left main bronchus at 27.5 cm, and the diaphragmatic hiatus / cardia at ~40 cm. Because the cricopharyngeal segment is the tightest, ingested foreign bodies most often impact here in the neck; the lower three are relative narrowings due to adjacent structures rather than the tightest point.
+Q_GEN_ANAT_THORAX_003 [M] A 58-year-old man has central chest pain; ECG shows ST-segment elevation in leads II, III and aVF. Occlusion of which coronary artery best explains this inferior-wall infarct?
+    A. Left anterior descending artery
+    B. Left circumflex artery
+   *C. Right coronary artery
+    D. Left main coronary artery
+   key=C ref=Moore's Clinically Oriented Anatomy — Thorax (Coronary Arteries)
+   concept: In the common right-dominant heart, the right coronary artery gives the posterior interventricular (posterior descending) branch and supplies the diaphragmatic/inferior surface of the left ventricle, which is reflected in the inferior leads II, III and aVF. The RCA also usually supplies the SA and AV nodes, so inferior infarcts are often accompanied by bradyarrhythmias. The LAD supplies the anterior wall (V1–V4), the circumflex the lateral wall (I, aVL, V5–V6), and left main occlusion is typically catastrophic and widespread.
+Q_GEN_ANAT_THORAX_004 [M] In the majority of individuals, the artery supplying the sinuatrial (SA) node arises from the:
+    A. Left anterior descending artery
+    B. Left circumflex artery
+    C. Posterior interventricular artery
+   *D. Right coronary artery
+   key=D ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (Blood Supply of the Heart)
+   concept: The sinuatrial nodal artery arises from the right coronary artery in about 60% of hearts (near its origin, running to the node at the junction of SVC and right atrium) and from the left circumflex artery in the remaining ~40%. Because the pacemaker's blood supply most often comes from the RCA, proximal RCA disease can disturb impulse generation. The posterior interventricular artery supplies the posterior septum, not the SA node, and the LAD supplies the anterior septum and anterior LV.
+Q_GEN_ANAT_THORAX_005 [H] In a right-dominant coronary circulation, the atrioventricular (AV) nodal branch that arises at the crux of the heart is a branch of the:
+    A. Left circumflex artery
+   *B. Right coronary artery
+    C. Left anterior descending artery
+    D. Anterior interventricular artery
+   key=B ref=Gray's Anatomy for Students — Thorax (Cardiac Vessels and Dominance)
+   concept: Coronary dominance is defined by which artery crosses the crux (the point where the posterior atrioventricular and interventricular grooves meet) to give the posterior descending artery and the AV nodal branch. In the right-dominant pattern (about 85–90% of people) the right coronary artery reaches the crux and supplies the AV node; hence inferior/RCA infarcts can cause AV block. In the ~10% left-dominant hearts the circumflex takes over this role.
+Q_GEN_ANAT_THORAX_006 [M] The anterior interventricular (left anterior descending) artery principally supplies the:
+    A. Posterior third of the interventricular septum
+   *B. Anterior two-thirds of the interventricular septum and the cardiac apex
+    C. SA node and most of the right atrium
+    D. Entire left atrium and the coronary sinus wall
+   key=B ref=Snell's Clinical Anatomy by Regions, Chapter 3 — The Thorax (Coronary Arteries)
+   concept: The left anterior descending artery runs in the anterior interventricular groove and supplies the anterior two-thirds of the interventricular septum, the anterior wall of the left ventricle, the adjacent right ventricular wall and the cardiac apex; it also gives septal perforators to the proximal bundle branches. The posterior third of the septum is supplied by the posterior interventricular artery (usually from the RCA), so LAD occlusion classically produces large anteroseptal infarcts.
+Q_GEN_ANAT_THORAX_007 [E] The apex of the heart, where the apex beat is normally palpated, is formed by which chamber?
+    A. Right ventricle
+    B. Left atrium
+   *C. Left ventricle
+    D. Right atrium
+   key=C ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (External Features of the Heart)
+   concept: The apex of the heart is formed entirely by the left ventricle and points downward, forward and to the left, lying deep to the left fifth intercostal space just medial to the midclavicular line, where the apex beat is felt. The right ventricle forms most of the anterior/sternocostal surface and inferior border, the right atrium forms the right border, and the left atrium forms the base (posterior surface), not the apex.
+Q_GEN_ANAT_THORAX_008 [E] On a frontal (PA) chest radiograph, the right border of the cardiac shadow is formed by the:
+   *A. Right atrium
+    B. Right ventricle
+    C. Left ventricle
+    D. Ascending aorta
+   key=A ref=Snell's Clinical Anatomy by Regions, Chapter 3 — The Thorax (Borders and Surfaces of the Heart)
+   concept: The right border of the heart is formed by the right atrium, which receives the SVC above and the IVC below. The inferior border is formed mainly by the right ventricle (with a small part of the left ventricle at the apex), and the left border by the left ventricle and the left auricle. The right atrium forming the right border is a standard landmark used when assessing cardiac silhouette and chamber enlargement on radiographs.
+Q_GEN_ANAT_THORAX_009 [H] The coronary sinus, which drains most of the venous blood of the heart, opens into the:
+   *A. Right atrium
+    B. Right ventricle
+    C. Left atrium
+    D. Superior vena cava
+   key=A ref=Gray's Anatomy for Students — Thorax (Cardiac Veins and Coronary Sinus)
+   concept: The coronary sinus lies in the posterior part of the atrioventricular (coronary) groove and opens into the right atrium between the opening of the inferior vena cava and the right atrioventricular (tricuspid) orifice; its mouth is guarded by the valve of the coronary sinus (Thebesian valve). It receives the great, middle and small cardiac veins and the oblique vein of the left atrium, and returns the bulk of cardiac venous blood to the right atrium.
+Q_GEN_ANAT_THORAX_010 [M] The sounds of the mitral valve are best auscultated at which surface site, even though the valve itself lies deep to the left fourth costal cartilage?
+    A. Right second intercostal space at the sternal edge
+    B. Left second intercostal space at the sternal edge
+   *C. Left fifth intercostal space in the midclavicular line (apex)
+    D. Lower left sternal border in the fourth–fifth intercostal space
+   key=C ref=Moore's Clinically Oriented Anatomy — Thorax (Surface Anatomy and Auscultation of Heart Valves)
+   concept: Auscultation areas do not overlie the valves but lie downstream in the direction of blood flow, so the valve sounds are carried to where the blood is projected. The mitral valve is heard best at the apex (left fifth intercostal space, midclavicular line), the tricuspid at the lower left sternal edge, the aortic in the right second intercostal space, and the pulmonary in the left second intercostal space. Thus the mitral area is at the apex despite the valve lying behind the left fourth costal cartilage.
+Q_GEN_ANAT_THORAX_011 [H] Which cardiac valve lies most superiorly and is auscultated in the left second intercostal space?
+    A. Aortic valve
+    B. Mitral valve
+    C. Tricuspid valve
+   *D. Pulmonary valve
+   key=D ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (Surface Marking of Heart Valves)
+   concept: The pulmonary valve is the most superior and most anterior of the four valves, lying behind the medial end of the left third costal cartilage and the adjoining sternum; its sounds are heard in the left second intercostal space. In descending order of position the valves lie: pulmonary (highest), aortic (just below and to the right), then the mitral and tricuspid atrioventricular valves. The surface projections cluster along a line, so the listening areas are deliberately offset downstream.
+Q_GEN_ANAT_THORAX_012 [E] The three branches of the arch of the aorta, in order from right (proximal) to left (distal), are:
+    A. Left common carotid, brachiocephalic trunk, left subclavian
+   *B. Brachiocephalic trunk, left common carotid, left subclavian
+    C. Brachiocephalic trunk, left subclavian, left common carotid
+    D. Left subclavian, left common carotid, brachiocephalic trunk
+   key=B ref=Snell's Clinical Anatomy by Regions, Chapter 3 — The Thorax (Arch of the Aorta)
+   concept: The arch of the aorta gives three branches from its convex upper surface, in order from proximal to distal: the brachiocephalic trunk (which divides into the right common carotid and right subclavian arteries), the left common carotid artery, and the left subclavian artery. There is no right-sided single trunk equivalent to a left brachiocephalic artery because the right common carotid and right subclavian arise together from the brachiocephalic trunk.
+Q_GEN_ANAT_THORAX_013 [H] Assertion (A): An aneurysm of the arch of the aorta can produce hoarseness of the voice. Reason (R): The left recurrent laryngeal nerve hooks below the arch around the ligamentum arteriosum before ascending to the larynx. Choose the most appropriate option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Moore's Clinically Oriented Anatomy — Thorax (Vagus and Recurrent Laryngeal Nerves)
+   concept: The left recurrent laryngeal nerve arises from the left vagus in the thorax, loops beneath the arch of the aorta immediately behind the ligamentum arteriosum, then ascends in the tracheo-oesophageal groove to supply the intrinsic laryngeal muscles. An aortic arch aneurysm can stretch or compress this nerve, causing left vocal-cord palsy and hoarseness (Ortner cardiovocal syndrome), so R correctly explains A. The right recurrent laryngeal nerve instead hooks under the right subclavian artery.
+Q_GEN_ANAT_THORAX_014 [M] The ligamentum arteriosum, the fibrous remnant of the ductus arteriosus, connects the:
+    A. Superior vena cava to the right atrium
+    B. Ascending aorta to the pulmonary trunk at the level of the valves
+    C. Left atrium to the descending thoracic aorta
+   *D. Root of the left pulmonary artery (pulmonary trunk) to the arch of the aorta
+   key=D ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (Arch of Aorta and Ligamentum Arteriosum)
+   concept: The ligamentum arteriosum is the post-natal remnant of the ductus arteriosus; it connects the beginning of the left pulmonary artery (or the bifurcation of the pulmonary trunk) to the inferior concave surface of the aortic arch, just distal to the origin of the left subclavian artery. The left recurrent laryngeal nerve hooks around it. Failure of the ductus to close produces a patent ductus arteriosus with a left-to-right shunt and a continuous machinery murmur.
+Q_GEN_ANAT_THORAX_015 [H] After ascending on the right side of the vertebral column, the azygos vein arches forward over the root of the right lung to drain into the:
+    A. Right atrium
+    B. Left brachiocephalic vein
+   *C. Superior vena cava
+    D. Inferior vena cava
+   key=C ref=Gray's Anatomy for Students — Thorax (Azygos System of Veins)
+   concept: The azygos vein ascends in the posterior mediastinum on the right of the vertebral bodies, and at about the T4 level it arches forward over the root of the right lung (the arch of the azygos) to open into the posterior aspect of the superior vena cava, just before the SVC pierces the pericardium. It receives the right posterior intercostal veins, the hemiazygos and accessory hemiazygos veins, and bronchial and oesophageal veins, and forms an important caval–caval collateral channel in IVC obstruction.
+Q_GEN_ANAT_THORAX_016 [M] An aspirated peanut in a supine adult is more likely to lodge in the right main bronchus because, compared with the left, the right main bronchus is:
+    A. Longer, narrower and more horizontal
+   *B. Wider, shorter and more vertical (more in line with the trachea)
+    C. The first branch of the trachea, arising above the carina
+    D. Directly continuous with the lingular bronchus
+   key=B ref=Snell's Clinical Anatomy by Regions, Chapter 3 — The Thorax (Trachea and Bronchi)
+   concept: The right main (principal) bronchus is wider, shorter and more vertical than the left, running more directly in continuity with the trachea below the carina; consequently inhaled foreign bodies and aspirated material pass more readily into it and into the right lung. The left main bronchus is narrower, longer and more horizontal as it passes below the arch of the aorta. The carina is the internal ridge at the tracheal bifurcation, and both main bronchi arise there, not above it.
+Q_GEN_ANAT_THORAX_017 [H] The oesophageal hiatus of the diaphragm, at the level of the T10 vertebra, transmits the oesophagus together with which nerves?
+    A. Greater splanchnic nerves
+    B. Right and left phrenic nerves
+    C. Sympathetic trunks
+   *D. Anterior and posterior vagal trunks
+   key=D ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (Diaphragm and its Openings)
+   concept: The oesophageal hiatus lies at the T10 level within the muscular sling of the right crus of the diaphragm and transmits the oesophagus, the anterior and posterior vagal trunks (derived mainly from the left and right vagi respectively after the oesophageal plexus) and the oesophageal branches of the left gastric vessels. In contrast, the caval opening (T8) transmits the IVC and right phrenic branches, and the aortic hiatus (T12) transmits the aorta, thoracic duct and azygos vein.
+Q_GEN_ANAT_THORAX_018 [M] The inferior vena cava pierces the central tendon of the diaphragm at the level of which vertebra?
+   *A. T8
+    B. T10
+    C. T12
+    D. T6
+   key=A ref=Snell's Clinical Anatomy by Regions, Chapter 3 — The Thorax (Diaphragm)
+   concept: The caval opening for the inferior vena cava lies in the central tendon of the diaphragm at the T8 level and also transmits terminal branches of the right phrenic nerve; being in the tendon, its margins are attached to the vein, so descent of the diaphragm on inspiration widens it and aids venous return. The three main diaphragmatic apertures are remembered as T8 (caval), T10 (oesophageal) and T12 (aortic) — the mnemonic I ate (8) ten (10) eggs at twelve (12).
+Q_GEN_ANAT_THORAX_019 [E] The phrenic nerve, the sole motor supply to the diaphragm, arises from which spinal cord segments?
+    A. C1, C2 and C3
+   *B. C3, C4 and C5
+    C. C5, C6 and C7
+    D. T1, T2 and T3
+   key=B ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (Phrenic Nerve)
+   concept: The phrenic nerve arises from the ventral rami of C3, C4 and C5 (chiefly C4), summarised as C3, 4, 5 keep the diaphragm alive. It provides the entire motor supply to the diaphragm and carries sensory fibres from the fibrous pericardium, mediastinal parietal pleura and the central part of the diaphragmatic pleura and peritoneum. High cervical cord lesions above C3 therefore abolish diaphragmatic breathing, whereas lesions below C5 spare it.
+Q_GEN_ANAT_THORAX_020 [M] Irritation of the central diaphragmatic peritoneum (for example by a subphrenic abscess) is classically referred to the tip of the shoulder because the phrenic nerve shares its segmental origin with the supraclavicular nerves, namely:
+    A. C2 and C3
+   *B. C3 and C4
+    C. C5 and C6
+    D. T1 and T2
+   key=B ref=Moore's Clinically Oriented Anatomy — Thorax (Phrenic Nerve and Referred Pain)
+   concept: The central part of the diaphragm receives sensory innervation from the phrenic nerve (C3–C5, predominantly C3–C4). The supraclavicular nerves supplying the skin over the shoulder tip also arise from C3–C4, so central diaphragmatic irritation is referred to the shoulder tip (as in Kehr sign with splenic rupture or subphrenic collections). The peripheral rim of the diaphragm is instead supplied by the lower intercostal nerves, so peripheral irritation is referred to the thoraco-abdominal wall.
+Q_GEN_ANAT_THORAX_021 [M] During chest-drain insertion the instrument is passed immediately above the upper border of the lower rib of the space. This avoids the main intercostal neurovascular bundle, whose structures lie in the costal groove in which order from superior to inferior?
+    A. Nerve, artery, vein
+    B. Artery, vein, nerve
+   *C. Vein, artery, nerve
+    D. Vein, nerve, artery
+   key=C ref=Snell's Clinical Anatomy by Regions, Chapter 3 — The Thorax (Intercostal Spaces and Neurovascular Bundle)
+   concept: In the costal groove along the lower border of each upper rib the main intercostal neurovascular bundle is arranged from above downward as Vein, Artery, Nerve (mnemonic VAN). Because these lie tucked under the rib above the space, entry is made just above the upper border of the rib below the space (over the middle of the space), where only a smaller collateral bundle runs, minimising the risk of injuring the main vessels and nerve. The safe triangle for drains is bordered by pectoralis major, latissimus dorsi and the fifth intercostal space.
+Q_GEN_ANAT_THORAX_022 [H] The transverse pericardial sinus is a passage within the pericardial cavity that lies posterior to the ascending aorta and pulmonary trunk and anterior to the:
+    A. Inferior vena cava and right ventricle
+    B. Left ventricle and cardiac apex
+   *C. Superior vena cava and the left atrium
+    D. Descending thoracic aorta
+   key=C ref=Gray's Anatomy for Students — Thorax (Pericardium and its Sinuses)
+   concept: The transverse pericardial sinus is the space enclosed as the serous pericardium reflects around the arterial and venous groups of great vessels; it lies behind the ascending aorta and pulmonary trunk (the arterial mesocardium) and in front of the superior vena cava and the atria (left atrium). A finger or ligature passed through this sinus can be used to clamp or ligate the aorta and pulmonary trunk together during cardiac surgery. The oblique pericardial sinus is a separate cul-de-sac behind the left atrium.
+Q_GEN_ANAT_THORAX_023 [H] Assertion (A): A small but rapidly accumulating pericardial effusion may precipitate cardiac tamponade. Reason (R): The tough fibrous pericardium is relatively inextensible and cannot stretch acutely to accommodate the added volume. Choose the most appropriate option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Moore's Clinically Oriented Anatomy — Thorax (Pericardium and Cardiac Tamponade)
+   concept: The fibrous pericardium is a strong, inelastic sac, so fluid entering the pericardial cavity rapidly (as in trauma or aortic rupture) causes a steep rise in intrapericardial pressure that compresses the thin-walled atria and ventricles, impairing venous return and diastolic filling — cardiac tamponade, with Beck triad of hypotension, muffled heart sounds and raised jugular venous pressure. Slowly forming effusions allow the pericardium to stretch and can reach large volumes before compromise, so R correctly explains A.
+Q_GEN_ANAT_THORAX_024 [M] The thoracic duct, the largest lymphatic channel of the body, most commonly terminates by opening into the venous system at the junction of the:
+    A. Right subclavian and right internal jugular veins
+    B. Left brachiocephalic vein and the superior vena cava
+    C. Azygos vein and the superior vena cava
+   *D. Left subclavian and left internal jugular veins
+   key=D ref=BD Chaurasia's Human Anatomy Vol 1 — Thorax (Thoracic Duct)
+   concept: The thoracic duct begins at the cisterna chyli (about L1–L2), enters the thorax through the aortic hiatus (T12), ascends in the posterior mediastinum on the right, crosses to the left at about T5, and finally opens into the venous system at the junction of the left subclavian and left internal jugular veins. It drains lymph from the whole body except the right head and neck, right upper limb and right hemithorax, which are drained by the right lymphatic duct.
+
+=== Anatomy / Pharyngeal arches, germ-layer derivatives
+Q_GEN_ANAT_EMBRYO_001 [E] The muscles of mastication (temporalis, masseter and the pterygoids), along with mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini, are all derivatives of which pharyngeal arch?
+   *A. First pharyngeal arch
+    B. Second pharyngeal arch
+    C. Third pharyngeal arch
+    D. Fourth pharyngeal arch
+   key=A ref=Langman's Medical Embryology — Head and Neck (Pharyngeal/Branchial Apparatus)
+   concept: The mesoderm of the first (mandibular) arch forms the muscles of mastication plus mylohyoid, anterior belly of digastric, tensor tympani and tensor veli palatini, all supplied by the mandibular division of the trigeminal (V3), the nerve of the first arch. Second-arch muscles are the muscles of facial expression (VII); the third arch gives only stylopharyngeus (IX); the fourth arch gives cricothyroid and pharyngeal constrictors (X).
+Q_GEN_ANAT_EMBRYO_002 [E] The epidermis of the skin, together with hair, nails and the sebaceous and sweat glands, is derived from which germ layer?
+    A. Paraxial mesoderm
+    B. Endoderm
+   *C. Surface ectoderm
+    D. Neural crest
+   key=C ref=Langman's Medical Embryology — Integumentary System / Third Week (Germ Layer Derivatives)
+   concept: The epidermis and its appendages (hair, nails, sebaceous and sweat glands, mammary glands) arise from surface (non-neural) ectoderm; the dermis beneath it is mesodermal (dermatome of somites over the trunk). Endoderm forms gut epithelium and its glands, while neural crest supplies melanocytes that migrate into the epidermis but does not form the keratinocyte layer itself.
+Q_GEN_ANAT_EMBRYO_003 [E] The epithelial lining of the gastrointestinal tract and the parenchyma of the liver, pancreas and lungs are derived from which germ layer?
+    A. Ectoderm
+    B. Paraxial mesoderm
+    C. Neural crest
+   *D. Endoderm
+   key=D ref=Langman's Medical Embryology — Digestive System / Germ Layer Derivatives
+   concept: Endoderm forms the epithelial lining of the gut tube and the glandular/parenchymal cells of the liver, pancreas, thyroid, parathyroids, thymus and the respiratory epithelium of the lungs, as well as the lining of the bladder and urethra. The surrounding smooth muscle and connective tissue (stroma) of these organs are mesodermal (splanchnic/visceral mesoderm), and the extreme ends of the gut (mouth, anal canal) are ectodermal.
+Q_GEN_ANAT_EMBRYO_004 [E] Which cranial nerve is the nerve of the third pharyngeal arch?
+    A. Facial nerve (VII)
+   *B. Glossopharyngeal nerve (IX)
+    C. Vagus nerve (X)
+    D. Mandibular nerve (V3)
+   key=B ref=IB Singh Human Embryology — Pharyngeal Arches, Pouches and Clefts
+   concept: Each pharyngeal arch carries its own cranial nerve: arch 1 = trigeminal (V3), arch 2 = facial (VII), arch 3 = glossopharyngeal (IX), and arches 4 and 6 = branches of the vagus (superior and recurrent laryngeal nerves respectively). The glossopharyngeal nerve therefore supplies the single third-arch muscle, stylopharyngeus, and provides sensation to the posterior third of the tongue.
+Q_GEN_ANAT_EMBRYO_005 [E] Only one of the pharyngeal (branchial) clefts gives rise to a definitive adult structure. That first pharyngeal cleft forms which of the following?
+   *A. External acoustic meatus
+    B. Auditory (pharyngotympanic) tube
+    C. Palatine tonsil
+    D. Tympanic cavity
+   key=A ref=Langman's Medical Embryology — Head and Neck (Pharyngeal Clefts)
+   concept: The ectodermal first pharyngeal cleft (groove) persists as the external acoustic meatus, and its floor contributes to the outer layer of the tympanic membrane. Clefts 2, 3 and 4 are normally buried and obliterated as the cervical sinus; their persistence causes a branchial cyst or fistula. The auditory tube and tympanic cavity are endodermal first-POUCH derivatives, and the palatine tonsil arises from the second pouch, not from a cleft.
+Q_GEN_ANAT_EMBRYO_006 [M] Meckel's cartilage, the cartilage bar of the first pharyngeal arch, gives rise to which pair of middle-ear ossicles?
+   *A. Malleus and incus
+    B. Incus and stapes
+    C. Stapes and styloid process
+    D. Malleus and stapes
+   key=A ref=IB Singh Human Embryology — Pharyngeal Arch Cartilages / Development of the Ear
+   concept: The dorsal end of Meckel's (first-arch) cartilage ossifies into the malleus and incus and also forms the sphenomandibular ligament and anterior ligament of the malleus; the mandible itself develops by intramembranous ossification lateral to this cartilage. The stapes, along with the styloid process, stylohyoid ligament and lesser cornu of the hyoid, is a derivative of Reichert's (second-arch) cartilage, which is why it is not a Meckel's derivative.
+Q_GEN_ANAT_EMBRYO_007 [M] During swallowing, a muscle that elevates the pharynx and larynx is supplied by the glossopharyngeal nerve and is the only muscle derived from the third pharyngeal arch. Which muscle is this?
+    A. Stylohyoid
+   *B. Stylopharyngeus
+    C. Styloglossus
+    D. Palatopharyngeus
+   key=B ref=BD Chaurasia's Human Anatomy — Head and Neck / Development of the Pharyngeal Arches
+   concept: Stylopharyngeus is the sole muscle of the third pharyngeal arch and is therefore supplied by that arch's nerve, the glossopharyngeal (IX). Stylohyoid is a second-arch muscle (facial nerve, VII); styloglossus is a tongue muscle derived from occipital myotomes and supplied by the hypoglossal (XII); palatopharyngeus is a fourth/sixth-arch derivative supplied by the vagus (X) via the pharyngeal plexus.
+Q_GEN_ANAT_EMBRYO_008 [H] The cricothyroid muscle, a derivative of the fourth pharyngeal arch, is supplied by which nerve?
+    A. Recurrent laryngeal nerve
+    B. Internal laryngeal nerve
+   *C. External laryngeal nerve
+    D. Glossopharyngeal nerve
+   key=C ref=Langman's Medical Embryology — Head and Neck (Fourth and Sixth Arch Derivatives)
+   concept: The fourth arch gives rise to cricothyroid (and the pharyngeal constrictors and levator veli palatini), supplied by the external laryngeal branch of the superior laryngeal nerve of the vagus. All the remaining intrinsic laryngeal muscles are sixth-arch derivatives supplied by the recurrent laryngeal nerve. The internal laryngeal nerve is purely sensory (above the vocal folds), so it supplies no muscle.
+Q_GEN_ANAT_EMBRYO_009 [M] The endoderm of the first pharyngeal pouch forms the tubotympanic recess, which develops into which of the following?
+    A. Palatine tonsil
+   *B. Tympanic cavity and auditory tube
+    C. Inferior parathyroid gland
+    D. Thymus
+   key=B ref=IB Singh Human Embryology — Pharyngeal Pouches / Development of the Middle Ear
+   concept: The first pharyngeal pouch expands into the tubotympanic recess, whose distal (dilated) part becomes the tympanic (middle-ear) cavity and mastoid antrum while its proximal (narrow) part becomes the auditory (pharyngotympanic) tube. The palatine tonsil comes from the second pouch; the inferior parathyroid and thymus come from the third pouch; the superior parathyroid and ultimobranchial body come from the fourth pouch.
+Q_GEN_ANAT_EMBRYO_010 [M] The surface epithelium and the crypts of the palatine tonsil are derived from the endoderm of which pharyngeal pouch?
+    A. Middle ear cavity
+    B. Thymus
+   *C. Palatine tonsil
+    D. Superior parathyroid gland
+   key=C ref=Langman's Medical Embryology — Head and Neck (Pharyngeal Pouches)
+   concept: This question tests the second pharyngeal pouch, whose endoderm proliferates into buds that form the surface epithelium and lining of the tonsillar crypts of the palatine tonsil; the surrounding lymphoid tissue is later infiltrated by mesoderm-derived lymphocytes. The other listed structures belong to different pouches: middle ear = pouch 1, thymus = pouch 3, superior parathyroid = pouch 4, making palatine tonsil the correct second-pouch derivative.
+Q_GEN_ANAT_EMBRYO_011 [H] The inferior parathyroid glands and the thymus both develop from the endoderm of which pharyngeal pouch?
+    A. First pouch
+    B. Second pouch
+    C. Fourth pouch
+   *D. Third pouch
+   key=D ref=IB Singh Human Embryology — Pharyngeal Pouches (Parathyroid and Thymic Development)
+   concept: The dorsal wing of the third pouch forms the inferior parathyroid gland and the ventral wing forms the thymus. As the thymus migrates caudally into the thorax it drags the inferior parathyroid with it, so the inferior parathyroids end up BELOW the superior parathyroids, which arise from the fourth pouch and migrate less. This crossing-over of migration explains the paradoxical final positions of the parathyroid glands.
+Q_GEN_ANAT_EMBRYO_012 [H] The superior parathyroid glands and the ultimobranchial body develop from which pharyngeal pouch?
+    A. Second pouch
+    B. Third pouch
+   *C. Fourth pouch
+    D. First pouch
+   key=C ref=Langman's Medical Embryology — Head and Neck (Fourth Pouch Derivatives)
+   concept: The dorsal wing of the fourth pouch forms the superior parathyroid gland, while its ventral wing forms the ultimobranchial (postbranchial) body, which is incorporated into the thyroid and gives rise to the calcitonin-secreting parafollicular C cells. Because the superior parathyroids migrate only a short distance, they remain above the inferior parathyroids despite arising from a more caudal pouch than the third-pouch inferior glands.
+Q_GEN_ANAT_EMBRYO_013 [H] Assertion (A): The parafollicular (C) cells of the thyroid gland secrete calcitonin. Reason (R): The parafollicular C cells are derived from the ultimobranchial body of the fourth pharyngeal pouch. Choose the best option.
+    A. Both A and R are true, and R is the correct explanation of A
+   *B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=B ref=Langman's Medical Embryology — Head and Neck / Thyroid Gland (Ultimobranchial Body)
+   concept: Both statements are individually true: parafollicular C cells do secrete calcitonin, and they are indeed carried into the thyroid within the ultimobranchial body of the fourth pouch (the C cells themselves being neural-crest cells that colonise that body). However, the embryonic ORIGIN of the C cells does not explain WHY they secrete calcitonin, so the reason is not the correct explanation of the assertion, making B the right choice.
+Q_GEN_ANAT_EMBRYO_014 [M] A 20-year-old presents with a smooth, painless, fluctuant swelling at the anterior border of the upper third of the sternocleidomastoid muscle. It has been slowly enlarging and does not move on swallowing or tongue protrusion. Which lesion, arising from remnants of the cervical sinus, is most likely?
+   *A. Branchial (cervical) cyst
+    B. Thyroglossal duct cyst
+    C. Cystic hygroma
+    D. Sublingual dermoid cyst
+   key=A ref=Langman's Medical Embryology — Head and Neck (Pharyngeal Cleft Anomalies)
+   concept: A branchial cyst results from failure of the cervical sinus (formed by the buried second, third and fourth clefts) to obliterate, producing a fluctuant swelling classically at the junction of the upper and middle thirds of the anterior border of sternocleidomastoid; a persistent tract opening onto the skin is a branchial fistula. A thyroglossal cyst is midline and moves on tongue protrusion, a cystic hygroma is a soft transilluminant lymphatic malformation, and a dermoid lies in the midline floor of the mouth.
+Q_GEN_ANAT_EMBRYO_015 [M] A 9-year-old child has a painless midline neck swelling near the level of the hyoid bone that moves upward when the tongue is protruded and when the child swallows. Which developmental anomaly does this describe?
+    A. Branchial cyst
+   *B. Thyroglossal duct cyst
+    C. Enlarged submental lymph node
+    D. Sublingual dermoid cyst
+   key=B ref=IB Singh Human Embryology — Development of the Thyroid Gland (Thyroglossal Duct)
+   concept: A thyroglossal duct cyst arises from persistence of the thyroglossal duct, the tract along which the thyroid descended from the foramen cecum to the neck. Because the duct is attached superiorly to the foramen cecum of the tongue and passes in close relation to the hyoid, the cyst characteristically moves upward on protrusion of the tongue (and on swallowing) — a sign that distinguishes it from a laterally placed branchial cyst, a fixed lymph node, or a floor-of-mouth dermoid.
+Q_GEN_ANAT_EMBRYO_016 [M] The foramen cecum, located at the junction of the anterior two-thirds and posterior third of the tongue, marks the point of origin of which structure?
+    A. Palatine tonsil
+    B. Parathyroid gland
+   *C. Thyroid gland
+    D. Submandibular gland
+   key=C ref=Langman's Medical Embryology — Head and Neck / Thyroid Gland
+   concept: The thyroid gland begins as a median endodermal thyroid diverticulum in the floor of the primitive pharynx at what becomes the foramen cecum, then descends in front of the hyoid and laryngeal cartilages to its adult position, remaining temporarily connected by the thyroglossal duct. The foramen cecum is the persistent adult remnant of this origin; failure of descent produces a lingual thyroid, and persistence of the duct produces a thyroglossal cyst.
+Q_GEN_ANAT_EMBRYO_017 [H] A neonate presents with hypocalcemic tetany and seizures, recurrent viral and fungal infections due to absent T-cell immunity, and a conotruncal cardiac anomaly (interrupted aortic arch). These features result from maldevelopment of the third and fourth pharyngeal pouches. The most likely diagnosis is:
+    A. Down syndrome
+    B. Treacher Collins syndrome
+    C. Pierre Robin sequence
+   *D. DiGeorge syndrome
+   key=D ref=Langman's Medical Embryology — Head and Neck (DiGeorge / Pharyngeal Pouch Anomalies)
+   concept: DiGeorge syndrome (22q11.2 microdeletion) results from abnormal development of the third and fourth pharyngeal pouches, giving thymic aplasia/hypoplasia (T-cell immunodeficiency), parathyroid aplasia (hypocalcemia and tetany), and conotruncal cardiac defects such as truncus arteriosus, tetralogy of Fallot and interrupted aortic arch, with characteristic facies. It is often driven by defective neural-crest migration into the pharyngeal arches; the other listed conditions do not produce this pouch-derived triad.
+Q_GEN_ANAT_EMBRYO_018 [M] The somites, which give rise to the vertebral column, the skeletal muscle of the trunk and limbs, and the dermis of the back, develop from which subdivision of the mesoderm?
+    A. Lateral plate mesoderm
+    B. Intermediate mesoderm
+    C. Neural crest
+   *D. Paraxial mesoderm
+   key=D ref=Langman's Medical Embryology — Third to Eighth Week / Mesoderm (Paraxial and Somites)
+   concept: Paraxial mesoderm segments into somites, each differentiating into a sclerotome (vertebrae and ribs), a myotome (skeletal muscle) and a dermatome (dermis of the back). Intermediate mesoderm forms the urogenital system; lateral plate mesoderm splits into somatic and splanchnic layers forming the body-wall/limb connective tissue and the visceral serosa/gut wall. Neural crest is ectodermal, not a mesodermal subdivision, so paraxial mesoderm is the somite source.
+Q_GEN_ANAT_EMBRYO_019 [M] The kidneys, ureters and gonads develop primarily from which subdivision of the mesoderm?
+    A. Paraxial mesoderm
+   *B. Intermediate mesoderm
+    C. Lateral plate mesoderm
+    D. Endoderm
+   key=B ref=Langman's Medical Embryology — Urogenital System (Intermediate Mesoderm)
+   concept: The urogenital system arises from intermediate mesoderm, which lies between the paraxial (somite) mesoderm and the lateral plate. It forms the nephrogenic cord and urogenital ridge, giving the pronephros, mesonephros and metanephros (definitive kidney), the mesonephric and paramesonephric ducts, and the gonads. Paraxial mesoderm makes somites, lateral plate makes body-wall and visceral connective tissue, and the bladder/urethra lining is endodermal, so intermediate mesoderm is correct.
+Q_GEN_ANAT_EMBRYO_020 [M] Assertion (A): The adrenal (suprarenal) medulla is derived from neural crest cells. Reason (R): The adrenal cortex is also derived from neural crest cells. Choose the best option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=IB Singh Human Embryology — Neural Crest Derivatives / Development of Suprarenal Gland
+   concept: The assertion is true: the adrenal medulla is populated by neural-crest-derived chromaffin cells that secrete catecholamines, essentially modified postganglionic sympathetic neurons. The reason is false: the adrenal cortex is NOT of neural-crest origin but arises from mesoderm (coelomic/mesothelial epithelium of the urogenital ridge). Because A is true and R is false, the correct choice is C. This dual origin is a classic embryology point tested in FMGE.
+Q_GEN_ANAT_EMBRYO_021 [H] Assertion (A): Hirschsprung disease (congenital aganglionic megacolon) results from a failure of neural crest cell migration into the wall of the distal bowel. Reason (R): Neural crest cells give rise to the enteric (myenteric and submucosal) ganglia. Choose the best option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Langman's Medical Embryology — Digestive System / Neural Crest (Hirschsprung Disease)
+   concept: Both statements are true and the reason directly explains the assertion. Vagal neural crest cells normally migrate craniocaudally to colonise the entire gut and form the parasympathetic myenteric (Auerbach) and submucosal (Meissner) ganglia. If migration arrests before reaching the distal colon, that segment lacks ganglion cells (aganglionosis), stays tonically contracted and cannot relax, producing functional obstruction and proximal dilatation — Hirschsprung disease. Hence A is the correct option.
+Q_GEN_ANAT_EMBRYO_022 [H] The aorticopulmonary (spiral) septum, which divides the truncus arteriosus into the ascending aorta and the pulmonary trunk, is formed by cells derived from which source?
+    A. Paraxial mesoderm
+    B. Endoderm of the pharynx
+    C. Splanchnic mesoderm
+   *D. Neural crest cells
+   key=D ref=Langman's Medical Embryology — Cardiovascular System (Outflow Tract Septation / Neural Crest)
+   concept: The aorticopulmonary septum is formed by cardiac neural crest cells that migrate from the occipital-cervical region into the truncal and bulbar (conotruncal) ridges; these ridges grow and spiral to separate the outflow tract into the aorta and pulmonary trunk. Failure of this neural-crest-dependent septation causes conotruncal anomalies such as persistent truncus arteriosus, transposition of the great arteries and tetralogy of Fallot, which is why the same crest defect underlies DiGeorge syndrome.
+Q_GEN_ANAT_EMBRYO_023 [H] The ductus arteriosus, which becomes the ligamentum arteriosum after birth, is a derivative of which embryonic aortic arch artery?
+    A. Left fourth arch artery
+    B. Right sixth arch artery
+    C. Right fourth arch artery
+   *D. Left sixth arch artery
+   key=D ref=Langman's Medical Embryology — Cardiovascular System (Aortic Arch Derivatives)
+   concept: The distal part of the LEFT sixth aortic arch artery persists as the ductus arteriosus (later the ligamentum arteriosum), while the proximal parts of the sixth arches form the proximal pulmonary arteries; the right sixth arch loses its distal segment. For contrast: the left fourth arch forms the arch of the aorta, the right fourth forms the proximal right subclavian artery, and the third arch arteries form the common carotids and the proximal internal carotids.
+Q_GEN_ANAT_EMBRYO_024 [M] A newborn with a history of maternal polyhydramnios develops excessive frothy oral secretions and chokes and turns cyanotic with the first feed. A nasogastric tube cannot be advanced into the stomach and coils in the upper thorax on X-ray, yet gas is seen in the stomach. This anomaly of foregut division is best explained by which diagnosis?
+   *A. Tracheoesophageal fistula with esophageal atresia
+    B. Congenital hypertrophic pyloric stenosis
+    C. Duodenal atresia
+    D. Congenital diaphragmatic hernia
+   key=A ref=Langman's Medical Embryology — Respiratory / Digestive System (Tracheoesophageal Septum and Fistula)
+   concept: The picture is the common (type C) esophageal atresia with a distal tracheoesophageal fistula, arising from faulty division of the foregut by the tracheoesophageal septum. A blind upper esophageal pouch causes drooling, choking and an NG tube that coils in the thorax, while the distal fistula between trachea and lower esophagus lets air reach the stomach; maternal polyhydramnios reflects impaired fetal swallowing. Pyloric stenosis and duodenal atresia present with vomiting later, and a diaphragmatic hernia presents with respiratory distress and bowel in the chest.
+Q_PYQ_INICET_2025MAY_027 [M] Regarding the skin, which of the following statements is INCORRECT?
+    A. Epidermis can regenerate from hair bulbs and sebaceous glands
+    B. Stratum corneum is the outermost cellular layer
+    C. Epidermis originates from the ectoderm
+   *D. Dermis and hypodermis originate from the endoderm
+   key=D ref=INI-CET May 2025 (real exam recall)
+   concept: The epidermis and its appendages arise from surface ectoderm, while the dermis and hypodermis arise from MESODERM (mesenchyme), not endoderm; the epidermis can regenerate from hair bulbs/sebaceous glands. NOTE: the stem as scraped read 'which are correct', but the key (D) only makes sense if the intended item was 'which statement is INCORRECT' - D is the false statement - so the stem was re-read accordingly and flagged.
+
+=== Anatomy / Spinal cord tracts & lesions
+Q_GEN_ANAT_NEURO_TRACTS_001 [E] The dorsal (posterior) column–medial lemniscus pathway of the spinal cord is chiefly responsible for carrying which of the following sensory modalities?
+   *A. Fine (discriminative) touch, vibration and conscious proprioception
+    B. Pain and temperature
+    C. Crude touch and pressure only
+    D. Unconscious proprioception destined for the cerebellum
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord and Ascending Tracts
+   concept: The dorsal columns (fasciculus gracilis and cuneatus) carry fine discriminative touch, vibration, two-point discrimination and conscious joint-position sense. Fibers ascend ipsilaterally, synapse in the gracile/cuneate nuclei of the medulla, then cross as the internal arcuate fibers to form the medial lemniscus. Pain and temperature instead travel in the lateral spinothalamic tract, and unconscious proprioception in the spinocerebellar tracts.
+Q_GEN_ANAT_NEURO_TRACTS_002 [E] The lateral spinothalamic tract is the principal ascending pathway for which of the following sensations?
+   *A. Pain and temperature
+    B. Vibration and conscious proprioception
+    C. Fine discriminative (two-point) touch
+    D. Motor commands to skeletal muscle
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord and Ascending Tracts
+   concept: The lateral spinothalamic tract conveys pain and temperature. First-order fibers enter and travel a short distance in the dorsolateral tract of Lissauer and synapse in the dorsal horn; second-order fibers cross in the anterior white commissure and ascend contralaterally to the ventral posterolateral (VPL) nucleus of the thalamus. Because the fibers cross close to their level of entry, a cord lesion causes contralateral pain/temperature loss beginning one to two segments below.
+Q_GEN_ANAT_NEURO_TRACTS_003 [M] A 55-year-old strict vegetarian with megaloblastic anaemia reports tingling in the feet, an unsteady gait that is worse in the dark, and stiff weak legs. Examination shows loss of vibration and joint-position sense, brisk knee jerks and extensor plantar responses. Which combination of spinal tracts is degenerating?
+   *A. Dorsal columns and lateral corticospinal tracts
+    B. Lateral spinothalamic and anterior corticospinal tracts
+    C. Spinocerebellar tracts and anterior horn cells
+    D. Dorsal columns and lateral spinothalamic tracts
+   key=A ref=Harrison's Principles of Internal Medicine — Diseases of the Spinal Cord
+   concept: Vitamin B12 deficiency causes subacute combined degeneration, which simultaneously demyelinates the dorsal columns (sensory ataxia, positive Romberg, loss of vibration/position sense) and the lateral corticospinal tracts (spastic weakness, brisk reflexes, extensor plantar responses). The combination of a proprioceptive sensory ataxia with upper-motor-neuron signs — sometimes alongside absent ankle jerks from an associated peripheral neuropathy — is characteristic.
+Q_GEN_ANAT_NEURO_TRACTS_004 [M] A 50-year-old man with untreated syphilis has a broad-based stamping gait, lightning-like shooting pains in the legs, and falls when he closes his eyes while washing his face. He has absent ankle jerks and small irregular pupils that accommodate but do not react to light. The primary site of spinal cord damage is:
+   *A. The dorsal columns and dorsal (posterior) nerve roots
+    B. The lateral corticospinal tracts
+    C. The anterior horn cells
+    D. The lateral spinothalamic tracts
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord (Clinical Notes)
+   concept: Tabes dorsalis is a form of tertiary neurosyphilis that degenerates the dorsal roots and dorsal columns, producing sensory (proprioceptive) ataxia, a positive Romberg sign, lightning pains, areflexia, and loss of vibration and joint-position sense. Argyll Robertson pupils — small, irregular pupils that accommodate but do not react to light — are the classic associated finding.
+Q_GEN_ANAT_NEURO_TRACTS_005 [M] During repair of a thoracic aortic aneurysm a patient wakes with flaccid paraplegia and complete loss of pain and temperature sensation below the umbilicus, yet vibration and joint-position sense in the toes are entirely preserved. Which territory has been infarcted?
+   *A. The anterior spinal artery territory, sparing the dorsal columns
+    B. The posterior spinal artery territory, sparing the corticospinal tracts
+    C. The entire cross-section of the cord at that level
+    D. A single dorsal root entry zone
+   key=A ref=Harrison's Principles of Internal Medicine — Vascular Diseases of the Spinal Cord
+   concept: Anterior spinal artery syndrome infarcts the anterior two-thirds of the cord: the corticospinal tracts (motor) and the spinothalamic tracts (pain/temperature) are lost bilaterally below the level, whereas the dorsal columns — supplied by the paired posterior spinal arteries — are spared, so vibration and proprioception remain intact. It is a recognised complication of aortic cross-clamping and profound hypotension.
+Q_GEN_ANAT_NEURO_TRACTS_006 [M] In the dorsal columns, the fasciculus gracilis (lying most medially) carries proprioceptive and fine-touch information from which region of the body?
+   *A. The lower limb and lower trunk (below about the sixth thoracic segment)
+    B. The upper limb and upper trunk
+    C. The face and scalp
+    D. The perineum only
+   key=A ref=Gray's Anatomy — Spinal Cord: Ascending Pathways
+   concept: The dorsal columns are somatotopically organised: the medially placed fasciculus gracilis carries fibers from the lower limb and lower trunk (below about T6), while the more lateral fasciculus cuneatus (present only above T6) carries fibers from the upper limb and upper trunk. A useful mnemonic is 'gracilis = ground/legs, and it lies medial'.
+Q_GEN_ANAT_NEURO_TRACTS_007 [M] Second-order neurons of the pain and temperature pathway cross the midline within the spinal cord at which structure, and how far do they usually ascend before crossing?
+   *A. The anterior (ventral) white commissure, ascending one to two segments before crossing
+    B. The posterior grey commissure, crossing within the same segment
+    C. The pyramidal decussation in the medulla
+    D. The internal arcuate fibers of the medulla
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord and Ascending Tracts
+   concept: In the spinothalamic (anterolateral) system the second-order fibers cross in the anterior white commissure, typically ascending one to two segments above their level of entry before crossing. This delayed, oblique crossing explains why a cord hemisection produces contralateral pain/temperature loss beginning a segment or two below the lesion, and why a central (syrinx) lesion first interrupts these decussating fibers.
+Q_GEN_ANAT_NEURO_TRACTS_008 [E] Approximately 85–90% of corticospinal (pyramidal) fibers cross the midline to form the lateral corticospinal tract at which anatomical site?
+   *A. The pyramidal decussation in the lower medulla
+    B. The anterior white commissure of the spinal cord
+    C. The posterior limb of the internal capsule
+    D. The midbrain at the level of the red nucleus
+   key=A ref=Snell's Clinical Neuroanatomy — The Descending Tracts of the Spinal Cord
+   concept: Most corticospinal fibers decussate at the junction of the medulla and spinal cord (the pyramidal decussation) and descend as the crossed lateral corticospinal tract, which controls contralateral limb musculature. The uncrossed minority continues as the anterior corticospinal tract and crosses segmentally in the anterior white commissure to supply axial and proximal muscles.
+Q_GEN_ANAT_NEURO_TRACTS_009 [H] An elderly man with cervical spondylosis falls forward, striking his forehead in a hyperextension injury. He now has marked weakness and a 'burning' sensory disturbance in both hands and forearms, but his legs are only mildly affected and he can still walk. Which pattern of cord injury best explains this?
+   *A. Central cord syndrome, damaging the central grey and the medially placed cervical corticospinal fibers
+    B. Complete cord transection
+    C. Anterior spinal artery syndrome
+    D. An isolated posterior column syndrome
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord (Clinical Notes)
+   concept: Acute central cord syndrome, typical of a hyperextension injury in a spondylotic cervical spine, damages the central grey matter and the medially situated cervical (arm) fibers of the lateral corticospinal tract — arm fibers lie medial to leg fibers in the tract. The result is disproportionately greater weakness and sensory disturbance in the upper limbs than the lower limbs, often with a cape-like dissociated sensory loss.
+Q_GEN_ANAT_NEURO_TRACTS_010 [H] A 58-year-old man has progressive painless weakness with wasting and fasciculations of the hands, together with spasticity, brisk reflexes and extensor plantar responses in the legs. Sensation is entirely normal and there are no sphincter or eye-movement problems. Which structures are affected?
+   *A. The lateral corticospinal tracts together with the anterior horn cells, with sensory tracts spared
+    B. The dorsal columns and spinocerebellar tracts
+    C. The lateral spinothalamic tracts only
+    D. The dorsal roots and posterior columns
+   key=A ref=Harrison's Principles of Internal Medicine — Amyotrophic Lateral Sclerosis and Other Motor Neuron Diseases
+   concept: Amyotrophic lateral sclerosis is a motor neuron disease that combines upper-motor-neuron signs (lateral corticospinal tract degeneration → spasticity, hyperreflexia, extensor plantars) with lower-motor-neuron signs (anterior horn cell loss → wasting and fasciculations). Sensation is preserved because the ascending sensory tracts are not involved — a key clue that distinguishes it from myelopathies such as subacute combined degeneration.
+Q_GEN_ANAT_NEURO_TRACTS_011 [M] An unimmunised child develops fever followed by rapidly progressive asymmetric flaccid weakness of one leg, with loss of tendon reflexes and later muscle wasting, but no sensory loss. The spinal structure selectively destroyed is:
+   *A. The anterior (ventral) horn motor neurons
+    B. The dorsal column nuclei
+    C. The lateral corticospinal tract
+    D. The dorsal root ganglion
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord (Clinical Notes)
+   concept: Poliovirus has a selective tropism for the anterior horn (lower motor neuron) cells of the spinal cord, producing a pure lower-motor-neuron picture: asymmetric flaccid paralysis, hypotonia, areflexia and wasting, with completely preserved sensation because the sensory tracts and dorsal roots are spared. Involvement is typically patchy and asymmetric.
+Q_GEN_ANAT_NEURO_TRACTS_012 [H] A teenager has progressive gait and limb ataxia, loss of vibration and joint-position sense, absent knee and ankle jerks but extensor plantar responses, along with pes cavus and scoliosis. This combination reflects degeneration of which set of spinal tracts?
+   *A. Spinocerebellar tracts, dorsal columns and lateral corticospinal tracts
+    B. Anterior horn cells and lateral spinothalamic tracts
+    C. Dorsal roots and the anterior white commissure
+    D. The anterior spinal artery territory
+   key=A ref=Harrison's Principles of Internal Medicine — The Hereditary Ataxias
+   concept: Friedreich ataxia is an autosomal-recessive GAA trinucleotide-repeat disorder that degenerates the spinocerebellar tracts (limb and gait ataxia), the dorsal columns (loss of vibration and position sense, sensory ataxia) and the corticospinal tracts (extensor plantar responses despite paradoxically absent tendon jerks). Pes cavus, scoliosis and hypertrophic cardiomyopathy are characteristic associated features.
+Q_GEN_ANAT_NEURO_TRACTS_013 [M] In the dorsal column–medial lemniscus pathway, where does the first-order (primary) sensory neuron synapse onto the second-order neuron?
+   *A. In the nucleus gracilis or nucleus cuneatus of the medulla
+    B. In the dorsal horn at the segmental level of entry
+    C. In the ventral posterolateral (VPL) nucleus of the thalamus
+    D. In the anterior white commissure
+   key=A ref=Gray's Anatomy — Spinal Cord: Ascending Pathways
+   concept: Uniquely among the major sensory pathways, the first-order neuron of the dorsal column system ascends ipsilaterally the entire length of the cord before synapsing in the gracile or cuneate nucleus of the medulla. The second-order neuron then crosses as the internal arcuate fibers to form the medial lemniscus and terminates on the third-order neuron in the VPL of the thalamus, which projects to the primary sensory cortex.
+Q_GEN_ANAT_NEURO_TRACTS_014 [M] A patient stands steadily with the eyes open but sways and nearly falls the moment the eyes are closed (a positive Romberg sign). This finding localises the lesion to which spinal pathway?
+   *A. The dorsal columns (proprioceptive pathway)
+    B. The lateral corticospinal tract
+    C. The lateral spinothalamic tract
+    D. The cerebellar vermis
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord (Clinical Notes)
+   concept: A positive Romberg sign indicates a sensory (proprioceptive) ataxia due to dorsal column dysfunction. With the eyes open, vision compensates for the lost joint-position sense; on closing the eyes that visual compensation is removed and the patient sways. A cerebellar ataxia, by contrast, is present even with the eyes open, so Romberg's test is negative in cerebellar disease.
+Q_GEN_ANAT_NEURO_TRACTS_015 [H] A knife wound hemisects the left half of the spinal cord at the C6 level. Which of the following findings is expected below the lesion?
+   *A. Loss of pain and temperature on the RIGHT side of the body, beginning a few segments below the lesion
+    B. Loss of pain and temperature on the LEFT side of the body
+    C. Loss of vibration and proprioception on the RIGHT side of the body
+    D. Flaccid paralysis of the right lower limb
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord (Clinical Notes)
+   concept: In Brown-Séquard (cord hemisection) the spinothalamic fibers have already crossed, so pain and temperature are lost contralaterally (on the right), beginning one to two segments below the lesion. The dorsal columns and corticospinal tracts are still uncrossed at this level, so vibration/proprioception loss and spastic weakness are ipsilateral (on the left). Hence the expected finding is contralateral (right-sided) pain and temperature loss.
+Q_GEN_ANAT_NEURO_TRACTS_016 [M] To relieve intractable cancer pain in the right leg, a neurosurgeon divides the left anterolateral quadrant of the spinal cord (an anterolateral cordotomy). Which tract is being deliberately interrupted?
+   *A. The lateral spinothalamic tract, carrying already-crossed pain and temperature fibers
+    B. The left dorsal column
+    C. The left lateral corticospinal tract
+    D. The dorsal (posterior) spinocerebellar tract
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord and Ascending Tracts
+   concept: Because pain and temperature fibers cross within the cord and then ascend in the contralateral lateral spinothalamic tract, cutting the left anterolateral quadrant abolishes pain and temperature sensation on the right side of the body below the lesion — the anatomical principle behind anterolateral cordotomy. Touch, vibration and proprioception are preserved because the dorsal columns are untouched.
+Q_GEN_ANAT_NEURO_TRACTS_017 [H] A young adult with a known cervical syrinx, who already had a cape-like loss of pain and temperature over the shoulders, now develops wasting, weakness and areflexia of the small muscles of both hands. This new finding is due to the expanding cavity now involving:
+   *A. The anterior horn cells at the affected cervical segments
+    B. The dorsal columns
+    C. The lateral spinothalamic fibers that have already crossed and ascended
+    D. The posterior spinal arteries
+   key=A ref=Snell's Clinical Neuroanatomy — The Spinal Cord (Clinical Notes)
+   concept: A syrinx begins centrally and first interrupts the decussating spinothalamic fibers in the anterior white commissure, producing dissociated 'cape' sensory loss (pain/temperature lost, touch/proprioception spared). As the cavity enlarges ventrolaterally it destroys the anterior horn cells, causing lower-motor-neuron wasting, weakness and areflexia of the hands; still later, lateral corticospinal involvement adds spastic weakness of the legs.
+Q_GEN_ANAT_NEURO_TRACTS_018 [M] The dorsal (posterior) spinocerebellar tract, which arises from the nucleus dorsalis of Clarke, conveys which type of information, and does it cross the midline?
+   *A. Unconscious proprioception from the lower limb, ascending uncrossed (ipsilateral) to the cerebellum
+    B. Conscious proprioception, crossing in the medulla
+    C. Pain and temperature, crossing in the spinal cord
+    D. Voluntary motor commands descending to the cerebellum
+   key=A ref=Gray's Anatomy — Spinal Cord: Ascending Pathways
+   concept: The dorsal spinocerebellar tract originates in the nucleus dorsalis of Clarke (roughly C8–L2/3) and carries unconscious proprioceptive information from muscle spindles and Golgi tendon organs of the lower limb and trunk. It remains uncrossed (ipsilateral) and enters the cerebellum through the inferior cerebellar peduncle, providing the input needed for coordination of posture and fine limb movement.
+Q_GEN_ANAT_NEURO_TRACTS_019 [H] A discrete lesion damages only the lateral corticospinal tract on the right side of the spinal cord at the T8 level. On which side, and with what features, will the resulting motor deficit appear below the lesion?
+   *A. On the right (ipsilateral) side, with spastic weakness, hyperreflexia and an extensor plantar response
+    B. On the left (contralateral) side, with flaccid weakness and absent reflexes
+    C. On the right side, with flaccid paralysis and fasciculations
+    D. Bilaterally, with symmetrical spastic weakness
+   key=A ref=Snell's Clinical Neuroanatomy — The Descending Tracts of the Spinal Cord
+   concept: The corticospinal fibers have already decussated in the medulla, so within the spinal cord the lateral corticospinal tract carries fibers destined for the ipsilateral (same-side) muscles. A right-sided cord lesion therefore produces right-sided upper-motor-neuron signs below the level — spasticity, hyperreflexia, clonus and an extensor plantar (Babinski) response — not contralateral or flaccid weakness.
+Q_GEN_ANAT_NEURO_TRACTS_020 [E] Which set of clinical signs indicates an upper motor neuron (corticospinal tract) lesion rather than a lower motor neuron lesion?
+   *A. Spasticity, hyperreflexia and an extensor (upgoing) plantar response
+    B. Flaccidity, prominent fasciculations and marked early muscle wasting
+    C. Absent tendon reflexes with fully preserved power
+    D. Loss of pain and temperature with normal muscle power
+   key=A ref=Snell's Clinical Neuroanatomy — The Descending Tracts of the Spinal Cord
+   concept: Upper motor neuron (corticospinal) lesions produce spasticity, hyperreflexia, clonus, an extensor plantar (positive Babinski) response and only minimal (disuse) wasting. Lower motor neuron lesions instead cause flaccid weakness, hypotonia, hyporeflexia or areflexia, marked wasting and fasciculations. Correctly separating these two patterns is the first step in localising a lesion along the motor pathway.
+Q_GEN_ANAT_NEURO_TRACTS_021 [M] The ventral (anterior) spinocerebellar tract is unusual in that its fibres cross the midline twice before reaching the cerebellum. Through which cerebellar peduncle does it finally enter the cerebellum?
+   *A. Superior cerebellar peduncle
+    B. Inferior cerebellar peduncle
+    C. Middle cerebellar peduncle
+    D. Corpus callosum
+   key=A ref=Snell's Clinical Neuroanatomy, 8th ed., Ch. 4 (The Spinal Cord and the Ascending and Descending Tracts)
+   concept: The ventral (anterior) spinocerebellar tract arises from spinal border cells, crosses the midline in the cord, ascends, and then crosses back a second time within the cerebellum, entering through the superior cerebellar peduncle. The dorsal spinocerebellar tract from Clarke's column stays uncrossed and enters via the inferior cerebellar peduncle. Both carry unconscious proprioception from the lower limb.
+Q_GEN_ANAT_NEURO_TRACTS_022 [M] For both the dorsal column–medial lemniscus pathway and the spinothalamic pathway, the third-order neuron that projects to the primary somatosensory cortex has its cell body located in which structure?
+   *A. Ventral posterolateral (VPL) nucleus of the thalamus
+    B. Nucleus gracilis of the medulla
+    C. Dorsal root ganglion
+    D. Substantia gelatinosa of the dorsal horn
+   key=A ref=Snell's Clinical Neuroanatomy, 8th ed., Ch. 4 (The Spinal Cord and the Ascending and Descending Tracts)
+   concept: For both the dorsal column–medial lemniscus and spinothalamic systems the third-order neuron lies in the ventral posterolateral (VPL) nucleus of the thalamus (the face is relayed by VPM). Its axon passes through the posterior limb of the internal capsule to the postcentral gyrus. The nucleus gracilis houses second-order DCML cell bodies, and dorsal root ganglia contain the first-order neurons.
+Q_GEN_ANAT_NEURO_TRACTS_023 [M] On entering the spinal cord, first-order pain and temperature fibres ascend or descend one to two segments before synapsing in the dorsal horn. Within which structure do they travel during this short course?
+   *A. Dorsolateral tract of Lissauer
+    B. Fasciculus cuneatus
+    C. Anterior white commissure
+    D. Fasciculus proprius alone
+   key=A ref=Snell's Clinical Neuroanatomy, 8th ed., Ch. 4 (The Spinal Cord and the Ascending and Descending Tracts)
+   concept: Thinly myelinated and unmyelinated pain and temperature (and crude touch) fibres travel one to two segments up or down in the dorsolateral tract of Lissauer before synapsing on second-order neurons in the dorsal horn, chiefly the substantia gelatinosa (Rexed lamina II). This is why the spinothalamic sensory level often lies a segment or two below the actual level of a cord lesion.
+Q_GEN_ANAT_NEURO_TRACTS_024 [H] A 45-year-old man has a slowly enlarging intramedullary spinal cord tumour in the thoracic region. He has lost pain and temperature sensation over the trunk and both lower limbs, yet sensation over the perineum and perianal 'saddle' area is strikingly preserved. This 'sacral sparing' is explained by which feature of the spinothalamic tract?
+   *A. Sacral fibres are laminated most laterally and are spared by a centrally expanding lesion
+    B. Sacral fibres decussate only in the medulla
+    C. Sacral sensation is carried entirely in the dorsal columns
+    D. Sacral dermatomes have dual (bilateral) cord innervation
+   key=A ref=Vishram Singh, Textbook of Clinical Neuroanatomy, 3rd ed., Ch. 6 (Spinal Cord)
+   concept: In the lateral spinothalamic tract fibres are somatotopically laminated, with sacral segments lying most laterally (superficially) and cervical segments most medially. A centrally arising intramedullary tumour or syrinx therefore destroys the medial cervical/thoracic fibres first while the laterally placed sacral fibres are spared, producing 'sacral sparing.' An extramedullary compressive lesion tends instead to involve sacral sensation early.
+Q_GEN_ANAT_NEURO_TRACTS_025 [M] The fasciculus cuneatus is present in the dorsal columns only above the mid-thoracic (approximately T6) level. Which information does it convey?
+   *A. Fine touch, vibration and conscious proprioception from the upper limb, upper trunk and neck
+    B. Pain and temperature from the lower limb
+    C. Conscious proprioception from the lower limb and lower trunk
+    D. Voluntary motor commands to the upper limb
+   key=A ref=Snell's Clinical Neuroanatomy, 8th ed., Ch. 4 (The Spinal Cord and the Ascending and Descending Tracts)
+   concept: The dorsal columns comprise a medial fasciculus gracilis and a lateral fasciculus cuneatus. The cuneatus is added at about the T6 level and carries discriminative touch, vibration and conscious proprioception from the upper limb, upper trunk and neck; below T6 only the gracilis (lower limb and lower trunk) is present. Cuneatus fibres synapse in the nucleus cuneatus of the medulla.
+Q_GEN_ANAT_NEURO_TRACTS_026 [H] A comatose patient after a midbrain haemorrhage shows extension and internal rotation of all four limbs (decerebrate posturing). Loss of which descending influence, leaving vestibulospinal and pontine reticulospinal drive to the extensors unopposed, best explains this posture?
+   *A. Rubrospinal tract facilitation of flexor tone
+    B. Lateral corticospinal tract control of the hands
+    C. Dorsal spinocerebellar proprioceptive feedback
+    D. Fasciculus gracilis sensory input
+   key=A ref=Snell's Clinical Neuroanatomy, 8th ed., Ch. 4 (The Spinal Cord and the Ascending and Descending Tracts)
+   concept: Decerebrate rigidity (extension of all four limbs) follows a brainstem lesion below the level of the red nucleus. Removing the rubrospinal tract's facilitation of flexor muscle tone leaves the extensor drive of the lateral vestibulospinal and pontine reticulospinal tracts unopposed, so extensor tone dominates. A lesion above the red nucleus (e.g., internal capsule) spares rubrospinal flexor facilitation and instead produces decorticate posturing with arm flexion.
+Q_GEN_ANAT_NEURO_TRACTS_027 [M] The largest neurons contributing axons to the corticospinal tract, the giant Betz cells, are found in which layer of the primary motor cortex?
+   *A. Layer V (internal pyramidal layer)
+    B. Layer I (molecular layer)
+    C. Layer IV (internal granular layer)
+    D. Layer VI (multiform layer)
+   key=A ref=Snell's Clinical Neuroanatomy, 8th ed., Ch. 4 (The Spinal Cord and the Ascending and Descending Tracts)
+   concept: Only about 30% of corticospinal fibres arise from the primary motor cortex (Brodmann area 4), with the rest from premotor and sensory areas. The giant Betz cells, the largest neurons of the primary motor cortex, lie in cortical layer V (the internal pyramidal layer) and contribute the fastest-conducting, largest-diameter corticospinal axons, though they form only a small fraction of the tract's total fibres.
+Q_GEN_ANAT_NEURO_TRACTS_028 [H] A patient with a cervical syrinx develops a right-sided Horner's syndrome (partial ptosis, miosis and facial anhidrosis). Damage to which grey-matter structure, the origin of pre-ganglionic sympathetic fibres, accounts for this?
+   *A. Intermediolateral cell column (lateral horn) at C8–T2
+    B. Nucleus dorsalis of Clarke
+    C. Substantia gelatinosa
+    D. Anterior (ventral) horn motor neurons
+   key=A ref=Snell's Clinical Neuroanatomy, 8th ed., Ch. 4 (The Spinal Cord and the Ascending and Descending Tracts)
+   concept: Pre-ganglionic sympathetic neurons occupy the intermediolateral cell column (lateral horn) of spinal segments T1–L2, and those supplying the head and eye emerge from C8–T2 (the ciliospinal centre of Budge). A cervical syrinx expanding into this lateral horn interrupts the oculosympathetic outflow, producing an ipsilateral Horner's syndrome of partial ptosis, miosis and facial anhidrosis.
+
+[107 shown of 107 unverified in scope]

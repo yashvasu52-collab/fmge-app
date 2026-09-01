@@ -1,0 +1,44 @@
+Q_PAT_MDS_011 | del | duplicate of Q_PAT_MDS_001 on dysplastic marrow with cytopenias defining myelodysplastic syndrome. The first item is retained
+Q_PAT_MDS_016 | del | duplicate of Q_PAT_MDS_008 on irradiation preventing transfusion-associated graft versus host disease. The first item is retained
+Q_PAT_PLZ_005 | del | duplicate of Q_PAT_PLZ_012, which gives the same JAK2 V617F mutation and additionally the raised haematocrit with low erythropoietin. The fuller item is retained
+Q_PAT_PLZ_007 | del | duplicate of Q_PAT_PLZ_013 on teardrop poikilocytes with a leucoerythroblastic picture in primary myelofibrosis. The later item is retained
+Q_PAT_PLZ_008 | del | duplicate of Q_PAT_LAC_008 on distinguishing a leukaemoid reaction from chronic myeloid leukaemia. The first item is retained
+Q_PAT_PLZ_010 | del | duplicate of Q_PAT_PLZ_016, which covers the same combination of thrombosis and bleeding and additionally the acquired von Willebrand mechanism. The fuller item is retained
+Q_PAT_REN_002 | del | duplicate of Q_PAT_REN_011, which gives the same autosomal dominant inheritance and gene and additionally the berry aneurysm association. The fuller item is retained
+Q_PAT_REN_004 | del | duplicate of Q_PAT_REN_015, which gives the same muddy brown casts and additionally the contrast with prerenal azotaemia. The fuller item is retained
+Q_PAT_REN_013 | del | duplicate of Q_PAT_REN_005 on the triphasic pattern of Wilms tumour. The first item is retained
+Q_PAT_REN_008 | del | duplicate of Q_PAT_REN_016, which describes the same coarse scarring over deformed calyces and additionally why renal failure progresses. The fuller item is retained
+Q_PAT_REN_006 | del | duplicate of Q_PAT_CYT_012 on Congo red staining with apple-green birefringence for amyloid. The first item is retained
+Q_PAT_MDS_005 | ok |
+Q_PAT_MDS_006 | ok |
+Q_PAT_MDS_007 | ok |
+Q_PAT_MDS_008 | ok |
+Q_PAT_MDS_009 | ok |
+Q_PAT_MDS_010 | ok |
+Q_PAT_MDS_012 | ok |
+Q_PAT_MDS_013 | ok |
+Q_PAT_MDS_014 | ok |
+Q_PAT_MDS_015 | ok |
+Q_PAT_PLZ_001 | ok |
+Q_PAT_PLZ_002 | ok |
+Q_PAT_PLZ_003 | ok |
+Q_PAT_PLZ_006 | ok |
+Q_PAT_PLZ_009 | ok |
+Q_PAT_PLZ_011 | ok |
+Q_PAT_PLZ_012 | ok |
+Q_PAT_PLZ_013 | ok |
+Q_PAT_PLZ_014 | ok |
+Q_PAT_PLZ_016 | ok |
+Q_PAT_REN_005 | ok |
+Q_PAT_REN_007 | ok |
+Q_PAT_REN_009 | ok |
+Q_PAT_REN_010 | ok |
+Q_PAT_REN_011 | ok |
+Q_PAT_REN_014 | ok |
+Q_PAT_REN_015 | ok |
+Q_PAT_REN_016 | ok |
+Q_PAT_SKN_001 | ok |
+Q_PAT_SKN_003 | ok |
+Q_PAT_SKN_004 | ok |
+Q_PAT_SKN_005 | ok |
+Q_PAT_SKN_006 | ok |

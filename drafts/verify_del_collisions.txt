@@ -1,0 +1,13 @@
+Q_h3b_042 | del | my replacement for this duplicate itself duplicated Q_PSM_NUT_015, which asks the same WHO criteria for severe acute malnutrition. Deleted rather than rewritten again, since rewriting at this bank density keeps producing collisions
+Q_MED_HEM_018 | del | my replacement duplicated Q_PAT_LAC_007, which already covers Richter transformation of chronic lymphocytic leukaemia. Deleted; the Pathology item is retained
+Q_PSM_HCD_013 | del | my replacement duplicated Q_PSM_ECO_002, which already asks the two components of Ayushman Bharat. Deleted; the health-economics item is retained
+Q_PED_NB_011 | del | my replacement duplicated Q_C_033, which already covers the five Apgar parameters. Deleted
+Q_SUR_PDS_015 | del | my replacement duplicated Q_SUR_PDS_001, which already gives the hypochloraemic hypokalaemic alkalosis of pyloric stenosis. Deleted
+Q_MIC_SPC_013 | del | my replacement duplicated Q_MIC_SPC_001 on blood culture collection. Deleted
+Q_MED_ANE_011 | del | my replacement duplicated Q_MED_ANE_005 on methylmalonic acid distinguishing B12 from folate deficiency. Deleted
+Q_MIC_HEL_007 | del | one of three questions in this topic keying Strongyloides stercoralis for autoinfection and hyperinfection, alongside Q_MIC_HEL_011 and Q_MIC_HEL_015. Q_MIC_HEL_015 is retained as the fullest version; this item and Q_MIC_HEL_011 are deleted
+Q_MIC_HEL_011 | del | second of three questions keying Strongyloides stercoralis for the same autoinfection fact. Q_MIC_HEL_015 retained
+Q_MED_NUT_016 | del | one of three questions in this topic keying zinc deficiency, alongside Q_MED_NUT_008 and Q_MED_NUT_019. Q_MED_NUT_008 is retained because it names acrodermatitis enteropathica; this item, which I wrote as a replacement, and Q_MED_NUT_019 are deleted
+Q_MED_NUT_019 | del | second of three questions keying zinc deficiency from a parenteral nutrition vignette. Q_MED_NUT_008 retained
+Q_AN_RA_007 | del | my replacement combined the plain and adrenaline-containing maximum lignocaine doses, which are already covered separately and correctly by Q_GEN_ANAES_LA_007 (3 mg/kg plain) and Q_S_037 (7 mg/kg with adrenaline). Both of those are retained
+Q_PY_CO_004 | del | duplicate of Q_PY_CO_011 on the cerebral autoregulation range, and the two disagreed numerically (60 to 160 mmHg here against 60 to 150 mmHg). Q_PY_CO_011 is retained because it also states the upward shift in chronic hypertension, which is the clinically important part

@@ -1,0 +1,42 @@
+Q_FM_ALC_006 | del | defective and duplicated: the stem asked what a body packer should NOT be given, but the keyed option described what IS preferred, so the question and answer did not match. Q_FM_ALC_016 covers the same ground correctly and is retained
+Q_FM_ALC_009 | del | duplicate of Q_FM_ALC_018 on NDPS Act punishment being graded by quantity. The fuller item, which also covers the treatment-immunity provision for addicts, is retained
+Q_FM_ALC_003 | del | duplicate of Q_PYQ_FMGE_2025JANP2_038, which reaches formic acid as the toxic metabolite of methanol from a clinical vignette. The exam-recall item is retained, and Q_FM_ALC_011 continues to cover the antidote
+Q_FM_ALC_002 | del | duplicate of Q_FM_ALC_015, which covers the same sodium fluoride and potassium oxalate preservative and additionally names the corroborating specimens. The fuller item is retained
+Q_PYQ_FMGE_2025JULP2_070 | stem=A traveller carrying laxatives and enema apparatus develops abdominal pain at the airport. Abdominal radiography shows multiple radio-opaque cylindrical objects with a surrounding halo of gas throughout the bowel. What is the likely diagnosis?;;ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (body packing) | the stem referred to an X-ray "(shown)" that the bank does not hold; the radiographic findings including the double-ring sign are now described in text. Exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JULP2_068 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Asphyxial Deaths (drowning) | reference cited only the exam paper; a study source added
+Q_h3d_020 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Asphyxial Deaths (strangulation) | the reference chapter simply repeated the book title and named no chapter
+Q_PYQ_FMGE_2024JAN_011 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (snake bite) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2024JUN_010 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (mushroom poisoning) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP2_038 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (methanol) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP2_056 | ref=KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Nonsteroidal Anti-Inflammatory Drugs (paracetamol poisoning) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_069 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (metallic poisons) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_012 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (opioids) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_017 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (carbon monoxide) | reference cited only the exam paper; a study source added
+Q_h3d_024 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Toxicology (aluminium phosphide) | the reference chapter simply repeated the book title and named no chapter
+Q_A_032 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Death and its Changes (rigor mortis) | the reference chapter simply repeated the book title and named no chapter
+Q_PYQ_FMGE_2025JANP2_007 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Death and its Changes (time since death) | reference cited only the exam paper; a study source added
+Q_h3d_023 | ref=Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Death and its Changes (cadaveric spasm) | the reference chapter simply repeated the book title and named no chapter
+Q_FM_ALC_001 | ok |
+Q_FM_ALC_004 | ok |
+Q_FM_ALC_005 | ok |
+Q_FM_ALC_007 | ok |
+Q_FM_ALC_008 | ok |
+Q_FM_ALC_010 | ok |
+Q_FM_ALC_011 | ok |
+Q_FM_ALC_012 | ok |
+Q_FM_ALC_013 | ok |
+Q_FM_ALC_014 | ok |
+Q_FM_ALC_015 | ok |
+Q_FM_ALC_016 | ok |
+Q_FM_ALC_017 | ok |
+Q_FM_ALC_018 | ok |
+Q_FM_POI_001 | ok |
+Q_FM_POI_002 | ok |
+Q_FM_POI_003 | ok |
+Q_FM_POI_004 | ok |
+Q_FM_POI_005 | ok |
+Q_FM_POI_006 | ok |
+Q_FM_PSY_001 | ok |
+Q_FM_PSY_002 | ok |
+Q_FM_PSY_003 | ok |
+Q_FM_PSY_004 | ok |

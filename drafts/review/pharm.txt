@@ -1,0 +1,1141 @@
+
+=== Pharmacology / ADRs, enzyme inducers/inhibitors
+Q_c1_028 [E] A 16-year-old on long-term antiepileptic therapy develops gum hypertrophy, hirsutism and coarsening of the facial features. Which drug is responsible?
+    A. Sodium valproate
+   *B. Phenytoin
+    C. Carbamazepine
+    D. Ethosuximide
+   key=B ref=KD Tripathi 8e, Ch. Antiepileptic Drugs
+   concept: Phenytoin characteristically causes gingival hyperplasia, hirsutism, coarse facies, megaloblastic anemia (folate interference), and cerebellar signs at toxic levels. It follows zero-order kinetics near therapeutic doses.
+
+=== Pharmacology / Adrenergic agonists/antagonists
+Q_c1_032 [H] During preoperative preparation of a patient with pheochromocytoma, which principle must be followed to avoid a hypertensive crisis?
+    A. Start a beta-blocker first, then add an alpha-blocker
+   *B. Achieve alpha-blockade (e.g. phenoxybenzamine) BEFORE giving any beta-blocker
+    C. Use a beta-blocker alone
+    D. No pharmacologic blockade is required
+   key=B ref=KD Tripathi 8e, Ch. Adrenergic Antagonists
+   concept: In pheochromocytoma, alpha-blockade must precede beta-blockade. Giving a beta-blocker first leaves alpha-mediated vasoconstriction unopposed, precipitating a severe hypertensive crisis. Phenoxybenzamine (irreversible alpha-blocker) is used first.
+
+=== Pharmacology / Anti-TB drugs & ADRs
+Q_GEN_PHAR_CHEMO_TB_001 [M] Isoniazid is a prodrug activated by the mycobacterial catalase-peroxidase enzyme. Once activated, its bactericidal effect is due to inhibition of the synthesis of which cell-wall component of Mycobacterium tuberculosis?
+   *A. Mycolic acid
+    B. Arabinogalactan
+    C. Peptidoglycan cross-links
+    D. Lipoarabinomannan
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antitubercular Drugs (Isoniazid); Katzung Basic & Clinical Pharmacology — Antimycobacterial Drugs
+   concept: Isoniazid is activated by catalase-peroxidase (KatG); the active species inhibits InhA (enoyl-ACP reductase) and KasA, blocking synthesis of mycolic acids — the long-chain fatty acids essential to the mycobacterial cell wall — which is why it is bactericidal against actively dividing bacilli. Arabinogalactan synthesis is blocked by ethambutol (arabinosyl transferase), peptidoglycan is the target of beta-lactams and cycloserine, and lipoarabinomannan is not the isoniazid target.
+Q_GEN_PHAR_CHEMO_TB_002 [M] A 34-year-old man on maintenance phenytoin for epilepsy is started on standard antitubercular therapy. Two weeks later he develops nystagmus, ataxia, slurred speech, and a raised serum phenytoin level. Which antitubercular drug most likely precipitated this?
+    A. Rifampicin
+   *B. Isoniazid
+    C. Ethambutol
+    D. Pyrazinamide
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Isoniazid (drug interactions); Goodman & Gilman's The Pharmacological Basis of Therapeutics — Chemotherapy of Tuberculosis
+   concept: Isoniazid inhibits several cytochrome P450 isoenzymes (CYP2C9, CYP2C19, CYP3A4, CYP2E1) and thereby slows the metabolism of phenytoin and carbamazepine, raising their plasma levels and causing toxicity (nystagmus, ataxia, sedation), an effect greatest in slow acetylators. Rifampicin does the opposite — it is a potent enzyme inducer that LOWERS phenytoin levels — while ethambutol and pyrazinamide are not clinically significant CYP inhibitors of phenytoin.
+Q_GEN_PHAR_CHEMO_TB_003 [M] A patient on antitubercular therapy develops arthralgia, malaise, and a rash; investigations show positive antinuclear antibody (ANA) and anti-histone antibodies, suggesting a drug-induced lupus-like syndrome. Which drug is the most likely cause?
+    A. Ethambutol
+    B. Streptomycin
+   *C. Isoniazid
+    D. Pyrazinamide
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Isoniazid (adverse effects); Katzung Basic & Clinical Pharmacology — Antimycobacterial Drugs
+   concept: Isoniazid is a classic cause of a drug-induced lupus (SLE-like) syndrome, characterized by arthralgia, positive ANA, and anti-histone antibodies, and is more frequent in slow acetylators; procainamide and hydralazine are the other textbook culprits. Ethambutol (optic neuritis), streptomycin (ototoxicity/nephrotoxicity), and pyrazinamide (hyperuricemia/hepatotoxicity) do not produce a lupus-like autoimmune syndrome, making isoniazid the answer.
+Q_GEN_PHAR_CHEMO_TB_004 [H] The dose-independent hepatocellular injury caused by isoniazid is attributed chiefly to which mechanism?
+    A. Accumulation of pyrazinoic acid in hepatocytes
+    B. Formation of an insoluble iron-drug chelate
+    C. Inhibition of mitochondrial ATP synthase
+   *D. Generation of toxic acetylhydrazine and hydrazine metabolites
+   key=D ref=Goodman & Gilman's The Pharmacological Basis of Therapeutics — Chemotherapy of Tuberculosis (isoniazid toxicity); KD Tripathi, Essentials of Medical Pharmacology, 8th ed
+   concept: Isoniazid hepatotoxicity is attributed to reactive metabolites — acetylhydrazine and hydrazine — generated during acetylation and hydrolysis, which cause hepatocellular necrosis; risk rises with age, chronic alcohol use, pre-existing liver disease, and concurrent rifampicin (an inducer). Pyrazinoic acid is the active metabolite of pyrazinamide, iron chelation is not an isoniazid mechanism, and ATP synthase inhibition is the mechanism of bedaquiline, not a cause of hepatic injury.
+Q_GEN_PHAR_CHEMO_TB_005 [E] Pyridoxine is co-administered with isoniazid to prevent an adverse effect. By which mechanism does isoniazid create the underlying vitamin deficiency?
+   *A. It increases pyridoxine excretion and forms inactive hydrazones with pyridoxal phosphate
+    B. It irreversibly inhibits hepatic CYP3A4
+    C. It chelates calcium in the gut lumen
+    D. It induces folate deficiency by blocking dihydrofolate reductase
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Isoniazid (pyridoxine prophylaxis); Katzung Basic & Clinical Pharmacology
+   concept: Isoniazid increases urinary excretion of pyridoxine and forms hydrazone complexes with pyridoxal phosphate, producing a functional vitamin B6 deficiency that manifests as peripheral neuropathy; prophylactic pyridoxine (about 10 mg/day) prevents this, especially in diabetics, alcoholics, pregnant women, the malnourished, and slow acetylators. Isoniazid inhibits (does not induce) CYP enzymes, does not chelate calcium, and does not act on dihydrofolate reductase (that is trimethoprim/methotrexate).
+Q_GEN_PHAR_CHEMO_TB_006 [E] Rifampicin exerts its bactericidal action against Mycobacterium tuberculosis by inhibiting which bacterial enzyme?
+    A. DNA gyrase (topoisomerase II)
+   *B. DNA-dependent RNA polymerase
+    C. Dihydrofolate reductase
+    D. Arabinosyl transferase
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Rifampicin (mechanism); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Rifampicin binds the beta-subunit of bacterial DNA-dependent RNA polymerase (encoded by rpoB), blocking initiation of RNA synthesis (transcription); it is bactericidal against both intracellular and extracellular organisms, and resistance results from rpoB point mutations. DNA gyrase is inhibited by fluoroquinolones, dihydrofolate reductase by trimethoprim/pyrimethamine, and arabinosyl transferase by ethambutol — none of which is rifampicin's target.
+Q_GEN_PHAR_CHEMO_TB_007 [M] A woman taking a combined oral contraceptive pill is started on rifampicin-containing therapy and becomes pregnant despite reporting good compliance. What is the mechanism of this contraceptive failure?
+    A. Rifampicin displaces estrogen from plasma-protein binding sites
+    B. Rifampicin inhibits intestinal absorption of the contraceptive
+   *C. Rifampicin induces hepatic CYP3A4, increasing metabolism of estrogen and progestin
+    D. Rifampicin acts as a progesterone-receptor antagonist
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Rifampicin (enzyme induction, interactions); Katzung Basic & Clinical Pharmacology
+   concept: Rifampicin is among the most potent inducers of hepatic and intestinal CYP3A4 (and P-glycoprotein), accelerating metabolism of estrogens and progestins and reducing contraceptive efficacy, so additional or alternative contraception must be advised. The same induction lowers levels of warfarin, HIV protease inhibitors, sulfonylureas, ciclosporin, and many other drugs. It does not act by protein displacement, absorption blockade, or receptor antagonism.
+Q_GEN_PHAR_CHEMO_TB_008 [E] A patient on antitubercular therapy is alarmed by orange-red discoloration of his urine, tears, and sweat. Which drug is responsible and what is the appropriate advice?
+    A. Ethambutol; stop the drug immediately
+    B. Pyrazinamide; this indicates hepatotoxicity
+    C. Isoniazid; this indicates ongoing hemolysis
+   *D. Rifampicin; it is harmless but may permanently stain soft contact lenses
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Rifampicin (adverse effects); Katzung Basic & Clinical Pharmacology
+   concept: Rifampicin and its metabolites impart a harmless orange-red colour to urine, sweat, tears, sputum, and saliva; patients should be reassured but warned that soft contact lenses can be permanently stained. It is not a marker of toxicity, so the drug is continued. Ethambutol, pyrazinamide, and isoniazid do not cause this discoloration, and none of the alarming interpretations in the other options is correct.
+Q_GEN_PHAR_CHEMO_TB_009 [H] Assertion (A): Rifampicin can cause a flu-like syndrome with fever, chills, and occasionally thrombocytopenia. Reason (R): These immunoallergic, antibody-mediated reactions occur more often with intermittent or high-dose rifampicin than with regular daily dosing. Select the correct option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Rifampicin (intermittent-dose reactions); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Rifampicin's flu-like syndrome (fever, chills, myalgia) and the less common thrombocytopenia, hemolytic anemia, and acute interstitial nephritis are immunoallergic reactions mediated by anti-rifampicin antibodies; these develop far more readily with intermittent, irregular, or high-dose therapy than with steady daily dosing. Both statements are therefore true and causally linked, so R correctly explains A, giving option A.
+Q_GEN_PHAR_CHEMO_TB_010 [H] An HIV-positive patient on a ritonavir-boosted protease-inhibitor regimen requires treatment for tuberculosis. Which rifamycin is preferred to minimize drug interactions, and why?
+    A. Rifampicin, because it is the least inducing of the rifamycins
+   *B. Rifabutin, because it is a weaker inducer of CYP3A4 than rifampicin
+    C. Rifapentine, because it has no effect on CYP450 enzymes
+    D. Rifampicin at double dose, to overcome its own induction
+   key=B ref=Goodman & Gilman's The Pharmacological Basis of Therapeutics — Rifamycins (rifabutin in HIV); KD Tripathi, Essentials of Medical Pharmacology, 8th ed
+   concept: Rifabutin is a weaker inducer of CYP3A4 than rifampicin, so it causes less reduction in protease-inhibitor plasma levels and is preferred (often with dose adjustment) in patients on PI-based antiretroviral therapy. Rifampicin is the MOST potent inducer of the rifamycins, not the least; rifapentine is a long-acting rifamycin that still induces CYP3A4; and simply doubling rifampicin does not resolve the interaction and risks toxicity.
+Q_GEN_PHAR_CHEMO_TB_011 [M] Pyrazinamide is a prodrug that is especially effective against semi-dormant intracellular bacilli. Its activation and antibacterial activity depend on which of the following?
+    A. Activation by KatG, with activity confined to alkaline pH
+    B. Direct inhibition of DNA-dependent RNA polymerase
+   *C. Conversion to pyrazinoic acid by pyrazinamidase, with activity at acidic pH
+    D. Irreversible binding to the 30S ribosomal subunit
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Pyrazinamide (mechanism, sterilizing action); Katzung Basic & Clinical Pharmacology
+   concept: Pyrazinamide is converted to its active form pyrazinoic acid by mycobacterial pyrazinamidase/nicotinamidase (encoded by pncA), and is most active in the acidic environment inside macrophages and inflamed tissue, where it kills semi-dormant intracellular bacilli; this sterilizing action allowed shortening of therapy to 6 months, and resistance arises from pncA mutations. KatG activates isoniazid, RNA polymerase is rifampicin's target, and the 30S subunit is the aminoglycoside target.
+Q_GEN_PHAR_CHEMO_TB_012 [H] Assertion (A): Pyrazinamide therapy increases the renal excretion of uric acid. Reason (R): The active metabolite pyrazinoic acid inhibits renal tubular secretion of urate. Select the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Pyrazinamide (hyperuricemia); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Pyrazinamide characteristically causes hyperuricemia precisely because its active metabolite pyrazinoic acid INHIBITS renal tubular secretion of urate, thereby DECREASING (not increasing) uric acid excretion — so the Assertion is false while the Reason is true, giving option D. The retained urate may be asymptomatic or precipitate gout/arthralgia; humans lack functional uricase, and pyrazinamide neither induces xanthine oxidase nor increases purine synthesis.
+Q_GEN_PHAR_CHEMO_TB_013 [M] Ethambutol is a bacteriostatic antitubercular agent added mainly to prevent emergence of resistance. It acts by inhibiting which target?
+   *A. Arabinosyl transferase, blocking arabinogalactan synthesis
+    B. Mycolic acid synthesis
+    C. Mycobacterial ATP synthase
+    D. Folic acid synthesis
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Ethambutol (mechanism); Katzung Basic & Clinical Pharmacology
+   concept: Ethambutol inhibits arabinosyl transferases (encoded by the embCAB operon; resistance via embB mutations), blocking polymerization of arabinose into the arabinogalactan of the mycobacterial cell wall; it is bacteriostatic and is combined with other drugs chiefly to retard resistance. Mycolic acid synthesis is isoniazid's target, ATP synthase is bedaquiline's, and folate synthesis is inhibited by dapsone/sulfonamides — not by ethambutol.
+Q_GEN_PHAR_CHEMO_TB_014 [M] Which statement about ethambutol dosing and monitoring is correct?
+    A. It is chiefly hepatically metabolized, so no dose change is needed in renal impairment
+   *B. It is largely excreted unchanged by the kidney, so the dose is reduced in renal impairment, and visual acuity and red-green colour vision must be monitored
+    C. It is absolutely contraindicated in all adults over 60 years of age
+    D. Its optic toxicity is dose-independent and always irreversible
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Ethambutol (excretion, ocular monitoring); Katzung Basic & Clinical Pharmacology
+   concept: Ethambutol is largely excreted unchanged by the kidney, so the dose must be reduced (or the interval extended) in renal impairment to avoid accumulation and optic neuritis. Its dose-related retrobulbar/optic neuritis is usually reversible if detected early, so baseline and periodic visual acuity and red-green colour discrimination testing are recommended, and it is avoided in young children who cannot report visual changes. It is not primarily hepatic, not contraindicated by age alone, and toxicity is dose-related, not dose-independent.
+Q_GEN_PHAR_CHEMO_TB_015 [E] Streptomycin and amikacin act against mycobacteria by binding to which target, producing which effect?
+    A. The 50S ribosomal subunit, halting peptide-bond formation
+    B. DNA gyrase, causing DNA strand breaks
+   *C. The 30S ribosomal subunit, causing misreading of mRNA
+    D. DNA-dependent RNA polymerase, blocking transcription
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Streptomycin/Aminoglycosides (mechanism); Katzung Basic & Clinical Pharmacology
+   concept: Aminoglycosides (streptomycin, amikacin, kanamycin) bind irreversibly to the 30S ribosomal subunit, causing misreading of the genetic code and inhibition of protein synthesis; they are bactericidal and act mainly on extracellular organisms. Streptomycin resistance is due to rpsL (S12 protein) or rrs (16S rRNA) mutations. Linezolid and macrolides act on the 50S subunit, fluoroquinolones inhibit DNA gyrase, and rifampicin inhibits RNA polymerase.
+Q_GEN_PHAR_CHEMO_TB_016 [M] Assertion (A): Streptomycin is considered safe for use throughout pregnancy. Reason (R): Aminoglycosides cross the placenta and can damage the fetal eighth cranial nerve, causing congenital deafness. Select the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Streptomycin (toxicity, pregnancy); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Streptomycin is CONTRAINDICATED in pregnancy, so the Assertion is false; it is not safe. The Reason is true — aminoglycosides cross the placenta and are ototoxic to the fetus, damaging cranial nerve VIII and causing irreversible congenital deafness. Because A is false while R is true, the answer is D. In adults, streptomycin additionally causes vestibular greater than cochlear toxicity and dose-related nephrotoxicity.
+Q_GEN_PHAR_CHEMO_TB_017 [H] Bedaquiline, used in multidrug-resistant tuberculosis, has a novel mechanism of action and one notable cardiac adverse effect. Which pairing is correct?
+   *A. Inhibits mycobacterial ATP synthase; QT-interval prolongation
+    B. Inhibits DNA gyrase; tendon rupture
+    C. Inhibits DNA-dependent RNA polymerase; hepatotoxicity
+    D. Inhibits the 30S ribosomal subunit; ototoxicity
+   key=A ref=Katzung Basic & Clinical Pharmacology — Antimycobacterial Drugs (bedaquiline); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Bedaquiline is a diarylquinoline that inhibits the mycobacterial ATP synthase (atpE), depleting cellular ATP; its principal safety concerns are QT-interval prolongation — so it is used cautiously with other QT-prolonging agents such as moxifloxacin and clofazimine, with ECG monitoring — and hepatotoxicity, and it has a very long terminal half-life. The other mechanism/adverse-effect pairings describe fluoroquinolones, rifampicin, and aminoglycosides respectively.
+Q_GEN_PHAR_CHEMO_TB_018 [H] A patient on prolonged linezolid therapy for extensively drug-resistant tuberculosis develops progressive numbness of the feet and pancytopenia. Which additional caution is specifically relevant to linezolid?
+    A. It is a potent inducer of CYP3A4
+   *B. It is a reversible non-selective monoamine oxidase inhibitor, risking serotonin syndrome or hypertensive crisis with serotonergic drugs or tyramine-rich foods
+    C. It chelates with dietary calcium, reducing absorption
+    D. It causes harmless orange discoloration of the urine
+   key=B ref=Katzung Basic & Clinical Pharmacology — Oxazolidinones (linezolid); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Linezolid (an oxazolidinone that binds the 23S rRNA of the 50S subunit and blocks formation of the initiation complex) causes dose- and duration-dependent myelosuppression (thrombocytopenia, anemia, pancytopenia) and peripheral and optic neuropathy with prolonged use; it is also a reversible non-selective MAO inhibitor, so combining it with SSRIs or tyramine-rich foods risks serotonin syndrome or hypertensive crisis. It is not a CYP inducer, does not chelate calcium (that is tetracyclines/fluoroquinolones), and does not colour urine (that is rifampicin).
+Q_GEN_PHAR_CHEMO_TB_019 [M] A second-line antitubercular drug frequently causes neuropsychiatric toxicity (seizures, psychosis, depression) and is routinely given with pyridoxine. By which mechanism does it act?
+    A. It inhibits mycolic acid synthesis after KatG activation
+    B. It binds the 50S ribosomal subunit
+   *C. It inhibits alanine racemase and D-alanyl-D-alanine ligase, blocking cell-wall synthesis
+    D. It inhibits arabinosyl transferase
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Cycloserine (mechanism, CNS toxicity); Katzung Basic & Clinical Pharmacology
+   concept: Cycloserine is a structural analogue of D-alanine that inhibits alanine racemase and D-alanyl-D-alanine ligase, blocking peptidoglycan (cell-wall) synthesis. Its dose-limiting toxicity is neuropsychiatric — headache, tremor, psychosis, depression, suicidal ideation, and seizures — so pyridoxine is co-administered and it is avoided in patients with epilepsy, psychiatric illness, or alcoholism. The other mechanisms describe isoniazid, macrolides/linezolid, and ethambutol respectively.
+Q_GEN_PHAR_CHEMO_TB_020 [M] In multidrug-resistant tuberculosis regimens a later-generation fluoroquinolone such as moxifloxacin or levofloxacin is a core drug. Which mechanism-of-action and class adverse-effect pairing is correct?
+    A. Inhibits RNA polymerase; harmless red urine
+    B. Inhibits ATP synthase; optic neuritis
+    C. Inhibits folic acid synthesis; oxidative hemolysis
+   *D. Inhibits DNA gyrase/topoisomerase; tendinopathy and QT-interval prolongation
+   key=D ref=Katzung Basic & Clinical Pharmacology — Fluoroquinolones and Antimycobacterial Drugs; KD Tripathi, Essentials of Medical Pharmacology, 8th ed
+   concept: Fluoroquinolones inhibit bacterial DNA gyrase (topoisomerase II) and topoisomerase IV and are core second-line/MDR-TB agents; recognized class adverse effects include tendinitis and tendon rupture, QT-interval prolongation (moxifloxacin greater than levofloxacin), dysglycemia, and CNS effects. Moxifloxacin's QT effect is especially important when combined with bedaquiline or clofazimine. The distractor mechanisms describe rifampicin, bedaquiline, and dapsone/sulfonamides respectively.
+Q_GEN_PHAR_CHEMO_TB_021 [M] Dapsone, a mainstay of multidrug therapy for leprosy, is bacteriostatic against Mycobacterium leprae because it inhibits which target?
+   *A. Dihydropteroate synthase, blocking folic acid synthesis
+    B. DNA-dependent RNA polymerase
+    C. Arabinosyl transferase
+    D. Mycolic acid synthesis
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antileprotic Drugs (Dapsone); Katzung Basic & Clinical Pharmacology
+   concept: Dapsone is a sulfone that inhibits dihydropteroate synthase, blocking folic acid synthesis in M. leprae — the same folate pathway targeted by sulfonamides — and is bacteriostatic; it is combined with rifampicin (bactericidal, via RNA polymerase) and clofazimine in WHO multidrug therapy. RNA polymerase inhibition is rifampicin's mechanism, arabinosyl transferase is ethambutol's, and mycolic acid synthesis is isoniazid's — none is dapsone's target.
+Q_GEN_PHAR_CHEMO_TB_022 [H] A patient started on dapsone for leprosy develops fatigue, dark urine, and a falling hemoglobin, and is subsequently found to be G6PD-deficient. Which pair of adverse effects best characterizes dapsone?
+    A. Aplastic anemia and agranulocytosis only
+   *B. Dose-related hemolysis and methemoglobinemia
+    C. Megaloblastic anemia due to vitamin B12 deficiency
+    D. Iron-deficiency anemia from chronic blood loss
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Dapsone (adverse effects, G6PD); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Dapsone characteristically causes dose-related hemolytic anemia — severe in G6PD deficiency — and methemoglobinemia, both driven by its oxidant hydroxylamine metabolite, so screening for G6PD deficiency is advised before therapy. It can also cause the 'dapsone syndrome' (fever, rash, hepatitis, lymphadenopathy, eosinophilia). It does not cause megaloblastic or iron-deficiency anemia, and agranulocytosis, although reported, is uncommon and is not the oxidant mechanism producing this presentation.
+Q_GEN_PHAR_CHEMO_TB_023 [E] A patient on multidrug therapy for lepromatous leprosy notices progressive reddish-brown to black discoloration of the skin. Which drug is responsible?
+    A. Dapsone
+    B. Rifampicin
+   *C. Clofazimine
+    D. Ethionamide
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antileprotic Drugs (Clofazimine); Katzung Basic & Clinical Pharmacology
+   concept: Clofazimine, a riminophenazine dye that binds mycobacterial DNA and also has an anti-inflammatory action useful in erythema nodosum leprosum, causes dose-dependent reddish-brown to black discoloration of the skin, along with conjunctival, urinary, and secretion pigmentation, plus dryness/ichthyosis and gastrointestinal disturbance. Rifampicin colours secretions orange-red (not the skin black), dapsone causes hemolysis, and ethionamide causes gastrointestinal upset — none produces this characteristic pigmentation.
+Q_GEN_PHAR_CHEMO_TB_024 [H] A second-line antitubercular drug that is structurally related to isoniazid causes marked gastrointestinal intolerance and, with prolonged use, hypothyroidism with goitre as well as hepatotoxicity. Which drug is this?
+    A. Para-aminosalicylic acid (PAS)
+    B. Capreomycin
+    C. Cycloserine
+   *D. Ethionamide
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Ethionamide (structure, adverse effects); Goodman & Gilman's The Pharmacological Basis of Therapeutics
+   concept: Ethionamide is a thioamide structurally related to isoniazid; like isoniazid it inhibits mycolic acid synthesis (InhA) after activation by EthA. Its major adverse effects are severe gastrointestinal intolerance (nausea, vomiting, metallic taste), hepatotoxicity, and, on prolonged use, hypothyroidism with goitre (it inhibits thyroid hormone synthesis) plus peripheral neuropathy (pyridoxine is given). PAS also causes GI upset and hypothyroidism but is not an isoniazid structural analogue; capreomycin is an ototoxic/nephrotoxic polypeptide; cycloserine causes neuropsychiatric toxicity.
+Q_c1_046 [M] A tuberculosis patient reports decreasing visual acuity and difficulty distinguishing red from green. Which drug is responsible and requires monthly visual monitoring?
+    A. Isoniazid
+    B. Rifampicin
+   *C. Ethambutol
+    D. Streptomycin
+   key=C ref=KD Tripathi 8e, Ch. Antitubercular Drugs; grounded via Frontiers/PMC on ethambutol optic neuropathy
+   concept: Ethambutol causes dose-dependent optic (retrobulbar) neuritis with loss of visual acuity and red-green color discrimination; it is usually reversible if the drug is stopped promptly, so visual acuity/color vision are monitored. Streptomycin damages the vestibulo-cochlear nerve instead.
+
+=== Pharmacology / Antibiotics: classes, MOA, resistance, DoC
+Q_c1_042 [E] A patient on gentamicin for gram-negative sepsis develops a rising serum creatinine and new hearing loss. These two dose-related toxicities are characteristic of which antibiotic class?
+   *A. Aminoglycosides
+    B. Macrolides
+    C. Penicillins
+    D. Tetracyclines
+   key=A ref=KD Tripathi 8e, Ch. Aminoglycoside Antibiotics
+   concept: Aminoglycosides characteristically cause nephrotoxicity (usually reversible) and ototoxicity (often irreversible), plus neuromuscular blockade. They are concentration-dependent bactericidals, favoring once-daily dosing with monitoring.
+Q_c1_044 [M] A hospitalized patient grows methicillin-resistant Staphylococcus aureus (MRSA) in blood cultures. The drug of choice is vancomycin, which acts by?
+    A. Inhibiting DNA gyrase
+   *B. Binding the D-alanyl-D-alanine terminus to block peptidoglycan cell-wall synthesis
+    C. Inhibiting the 30S ribosomal subunit
+    D. Blocking folate synthesis
+   key=B ref=KD Tripathi 8e, Ch. Antibacterial Drugs
+   concept: Vancomycin (a glycopeptide) binds the terminal D-Ala-D-Ala of peptidoglycan precursors, inhibiting cell-wall synthesis; it is the drug of choice for serious MRSA infection. Rapid infusion releases histamine causing 'red-man' syndrome.
+
+=== Pharmacology / Antiepileptics
+Q_GEN_PHAR_CNS_AED_001 [E] Phenytoin and carbamazepine control focal and generalized tonic-clonic seizures largely through a common molecular action. Which mechanism do they principally share?
+    A. Enhancement of GABA-A receptor chloride currents
+   *B. Use-dependent (frequency-dependent) blockade of voltage-gated sodium channels, prolonging their inactivated state
+    C. Blockade of T-type calcium channels in thalamic relay neurons
+    D. Competitive antagonism of the NMDA glutamate receptor
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antiepileptic Drugs (mechanisms)
+   concept: Phenytoin and carbamazepine stabilise the inactivated conformation of voltage-gated Na channels in a use-dependent manner, selectively suppressing high-frequency repetitive firing while sparing normal transmission, which controls focal and tonic-clonic seizures. Option A describes benzodiazepines/barbiturates, option C describes ethosuximide acting on thalamic T-type Ca channels underlying absence seizures, and option D describes drugs such as felbamate/perampanel-type glutamate modulation, none of which is the shared primary action here.
+Q_GEN_PHAR_CNS_AED_002 [E] Levetiracetam is a broad-spectrum antiepileptic whose novel target is distinct from that of the older sodium- and calcium-channel drugs. Its principal molecular target is:
+   *A. The synaptic vesicle glycoprotein 2A (SV2A), modulating vesicular neurotransmitter release
+    B. Irreversible inhibition of GABA transaminase
+    C. The alpha2-delta subunit of voltage-gated calcium channels
+    D. Prolongation of GABA-A chloride channel opening duration
+   key=A ref=Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th ed — Pharmacotherapy of the Epilepsies
+   concept: Levetiracetam binds the synaptic vesicle protein SV2A, altering calcium-dependent vesicular neurotransmitter release and dampening abnormal synchronised discharge; this unique mechanism explains its broad spectrum and relative lack of enzyme interactions. Option B is vigabatrin, option C is gabapentin/pregabalin, and option D is the barbiturate action on the GABA-A chloride channel. None of these describes SV2A binding, which is the defining feature of levetiracetam and its analogue brivaracetam.
+Q_GEN_PHAR_CNS_AED_003 [E] Gabapentin and pregabalin are structural analogues of GABA, yet they do not act on GABA receptors. Their anticonvulsant and analgesic effect is mediated mainly by binding to:
+    A. The synaptic vesicle protein SV2A
+    B. GABA transaminase enzyme
+   *C. The alpha2-delta subunit of voltage-gated (presynaptic) calcium channels, reducing excitatory neurotransmitter release
+    D. T-type calcium channels of thalamic neurons
+   key=C ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Antiseizure Drugs (gabapentin, pregabalin)
+   concept: Despite being GABA analogues, gabapentin and pregabalin do not bind GABA receptors or affect GABA uptake; they bind the alpha2-delta auxiliary subunit of voltage-gated Ca channels, reducing presynaptic Ca influx and release of glutamate and other excitatory transmitters, which underlies their use in focal seizures and neuropathic pain. Option A is levetiracetam, option B is vigabatrin, and option D (T-type Ca) is ethosuximide, none of which is the alpha2-delta target of the gabapentinoids.
+Q_GEN_PHAR_CNS_AED_004 [E] A 30-year-old man is newly diagnosed with focal (partial) seizures with impaired awareness and no comorbidities. Which of the following is a classical first-line monotherapy for this seizure type?
+    A. Ethosuximide
+    B. Vigabatrin
+    C. Gabapentin as first-choice monotherapy
+   *D. Carbamazepine
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Choice of drugs for seizure types
+   concept: Carbamazepine is a long-standing first-line drug for focal (partial) seizures with or without secondary generalization (levetiracetam and lamotrigine are modern alternatives). Ethosuximide is effective only in absence seizures and does not control focal seizures. Vigabatrin is reserved for infantile spasms/refractory focal use because of irreversible visual-field toxicity. Gabapentin is a weak add-on agent, not a preferred first-line monotherapy, making carbamazepine the best answer here.
+Q_GEN_PHAR_CNS_AED_005 [E] A patient started on an antiepileptic reports tingling of the fingers, difficulty finding words, unexpected weight loss, and later develops a renal calculus. This adverse-effect cluster is most characteristic of which drug?
+   *A. Topiramate
+    B. Phenytoin
+    C. Valproate
+    D. Vigabatrin
+   key=A ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Topiramate adverse effects
+   concept: Topiramate causes paraesthesias, cognitive slowing with word-finding difficulty, weight loss, and (via carbonic-anhydrase inhibition) renal calculi and metabolic acidosis, plus a risk of acute angle-closure glaucoma; this profile fits option A. Phenytoin classically gives gingival hyperplasia and hirsutism, valproate causes weight gain, tremor and alopecia, and vigabatrin causes irreversible visual-field constriction, so options B, C and D do not match the described cluster.
+Q_GEN_PHAR_CNS_AED_006 [M] A stable patient's phenytoin dose is raised from 300 mg to 400 mg/day; the plasma level rises disproportionately from 12 to 28 mcg/mL and he develops nystagmus and ataxia. Which pharmacokinetic property best explains this?
+    A. First-order elimination with a very short half-life
+   *B. Saturation (zero-order, Michaelis-Menten) kinetics once metabolizing enzymes are saturated at therapeutic doses
+    C. Extensive enterohepatic recirculation
+    D. Autoinduction of its own hepatic metabolism lowering plasma levels
+   key=B ref=Goodman & Gilman's, 13th ed — Phenytoin pharmacokinetics (dose-dependent elimination)
+   concept: Phenytoin's metabolizing enzymes saturate within the therapeutic range, so elimination switches from first-order to zero-order (Michaelis-Menten) kinetics; small dose increases then cause disproportionate, non-linear rises in plasma level and dose-dependent toxicity (nystagmus, ataxia, diplopia). Option A is wrong because saturation, not a short half-life, drives the jump; option C is not a phenytoin feature; option D (autoinduction) applies to carbamazepine and would lower, not raise, levels.
+Q_GEN_PHAR_CNS_AED_007 [M] A 68-year-old woman on carbamazepine for focal seizures becomes confused; serum sodium is 121 mmol/L with low serum osmolality and inappropriately concentrated urine. The most likely mechanism is:
+    A. Renal tubular acidosis induced by the drug
+    B. Cerebral salt wasting caused by hepatic enzyme induction
+   *C. Hyponatremia due to a SIADH-like antidiuretic effect of carbamazepine
+    D. Pseudohyponatremia secondary to hyperlipidemia
+   key=C ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Carbamazepine adverse effects (hyponatremia)
+   concept: Carbamazepine (and oxcarbazepine, more so) potentiates ADH action on the collecting duct, producing an SIADH-like syndrome with hypo-osmolar hyponatremia and inappropriately concentrated urine, especially in the elderly; this matches option C. It does not cause renal tubular acidosis (A) or cerebral salt wasting (B), and the low osmolality excludes pseudohyponatremia from hyperlipidemia (D). Management is fluid restriction and dose reduction or switching agents.
+Q_GEN_PHAR_CNS_AED_008 [M] Assertion (A): During the first few weeks of carbamazepine therapy its plasma level rises progressively because the drug inhibits its own metabolism. Reason (R): Carbamazepine is an inducer of hepatic CYP3A4. Select the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is not the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Carbamazepine (autoinduction)
+   concept: The assertion is false: carbamazepine induces (does not inhibit) its own metabolism, so plasma levels fall and half-life shortens over the first 2-4 weeks (autoinduction), often requiring an upward dose adjustment. The reason is true: carbamazepine is a potent inducer of CYP3A4 (and other enzymes), which is exactly why autoinduction occurs and why it lowers levels of co-administered drugs such as oral contraceptives. Hence A is false while R is true, giving option D.
+Q_GEN_PHAR_CNS_AED_009 [M] Valproate (sodium valproate) is a broad-spectrum antiepileptic effective against focal, tonic-clonic, absence and myoclonic seizures. This wide spectrum is best explained by which mechanistic feature?
+   *A. It has multiple actions: blockade of voltage-gated Na channels, reduction of T-type Ca currents, and enhancement of GABAergic transmission
+    B. Selective binding to the SV2A vesicle protein only
+    C. Irreversible inhibition of GABA transaminase as its sole action
+    D. Pure blockade of thalamic T-type calcium channels only
+   key=A ref=Goodman & Gilman's, 13th ed — Valproic acid (mechanisms and spectrum)
+   concept: Valproate's broad spectrum arises from several combined actions: use-dependent Na channel blockade, attenuation of T-type Ca currents, and augmentation of GABA (partly by inhibiting its degradation and enhancing synthesis); this multiplicity lets it cover focal, generalized tonic-clonic, absence and myoclonic seizures. Option B is levetiracetam's single target, option C describes vigabatrin, and option D describes ethosuximide, each of which is narrower and does not capture valproate's multimodal profile.
+Q_GEN_PHAR_CNS_AED_010 [M] An 18-month-old child on valproate plus another antiepileptic develops vomiting, increasing lethargy and encephalopathy; ammonia is markedly elevated with only mildly raised transaminases. Which statement is correct?
+    A. A Reye-like hepatic reaction is essentially impossible with valproate
+   *B. Valproate can cause dose-independent (idiosyncratic) hepatotoxicity and hyperammonemic encephalopathy, with greatest risk in children under 2 years on polytherapy
+    C. This picture is simply expected CYP enzyme induction and needs no action
+    D. Valproate produces this by folate antagonism causing megaloblastic anemia
+   key=B ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Valproate hepatotoxicity and hyperammonemia
+   concept: Valproate can cause idiosyncratic, dose-independent hepatotoxicity and hyperammonemic encephalopathy; both risks are highest in children under two years on polytherapy or with underlying metabolic/mitochondrial disease, and the clinical picture demands stopping the drug and checking ammonia and liver function. Option A is false (fatal hepatotoxicity is a recognised hazard), option C wrongly dismisses a dangerous reaction, and option D describes phenytoin's folate-related megaloblastic anemia, not this presentation.
+Q_GEN_PHAR_CNS_AED_011 [M] Regarding vigabatrin, which statement correctly links its mechanism to its hallmark serious toxicity?
+    A. It binds SV2A and characteristically causes renal calculi
+    B. It is a reversible GABA reuptake inhibitor and is free of ocular toxicity
+   *C. It irreversibly inhibits GABA transaminase, raising CNS GABA, and can cause irreversible concentric visual-field constriction
+    D. It blocks T-type calcium channels and typically causes hyponatremia
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Vigabatrin (mechanism, visual field defects)
+   concept: Vigabatrin (gamma-vinyl-GABA) irreversibly inhibits GABA transaminase, the enzyme that degrades GABA, thereby raising synaptic GABA; its defining serious toxicity is irreversible, often permanent, concentric peripheral visual-field constriction requiring periodic perimetry, which limits it to infantile spasms and refractory focal seizures. Option A confuses SV2A/topiramate features, option B wrongly calls it a reversible reuptake inhibitor without ocular risk (that is tiagabine), and option D describes ethosuximide/carbamazepine features.
+Q_GEN_PHAR_CNS_AED_012 [M] A 6-month-old infant has clusters of sudden flexor (salaam) spasms and the EEG shows hypsarrhythmia. Which is an appropriate first-line pharmacotherapy for this syndrome?
+    A. Ethosuximide
+    B. Carbamazepine
+    C. Phenytoin
+   *D. ACTH (adrenocorticotropic hormone) or vigabatrin, the latter especially if tuberous sclerosis is present
+   key=D ref=Goodman & Gilman's, 13th ed — Infantile spasms (ACTH, vigabatrin)
+   concept: This is West syndrome (infantile spasms with hypsarrhythmia); first-line therapy is hormonal (ACTH or oral corticosteroids) or vigabatrin, with vigabatrin particularly favoured when tuberous sclerosis is the underlying cause, making option D correct. Ethosuximide (absence only), carbamazepine and phenytoin (focal/tonic-clonic Na-channel drugs) are ineffective for infantile spasms and carbamazepine may even aggravate certain generalized epilepsies, so options A, B and C are inappropriate.
+Q_GEN_PHAR_CNS_AED_013 [M] A 24-year-old woman on a combined oral contraceptive becomes pregnant while taking an antiepileptic drug for focal seizures. Which drug most likely caused contraceptive failure through hepatic enzyme induction?
+   *A. Carbamazepine
+    B. Valproate
+    C. Levetiracetam
+    D. Gabapentin
+   key=A ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Enzyme-inducing antiseizure drugs and oral contraceptive interactions
+   concept: Carbamazepine is a potent inducer of CYP3A4 and UGT enzymes, accelerating metabolism of the ethinylestradiol/progestin in oral contraceptives and lowering their plasma levels, a classic cause of contraceptive failure (other enzyme inducers are phenytoin, phenobarbitone and topiramate at higher doses). Valproate is an enzyme inhibitor, and levetiracetam and gabapentin are not clinically significant inducers, so options B, C and D would not typically compromise contraceptive efficacy.
+Q_GEN_PHAR_CNS_AED_014 [M] In a patient needing parenteral phenytoin loading, fosphenytoin is often chosen instead of intravenous phenytoin. What is the main advantage of fosphenytoin?
+    A. It is available only for oral use, improving adherence
+   *B. It is a water-soluble prodrug that can also be given intramuscularly and produces less infusion-site injury (e.g. purple glove syndrome) than IV phenytoin
+    C. It has no active anticonvulsant metabolite
+    D. Intravenous phenytoin is preferred because it is water-soluble and pH-neutral
+   key=B ref=Goodman & Gilman's, 13th ed — Fosphenytoin (prodrug advantages)
+   concept: Fosphenytoin is a water-soluble phosphate ester prodrug rapidly converted to phenytoin in vivo; because it avoids the strongly alkaline propylene-glycol vehicle of IV phenytoin, it can be given IM and causes far less venous irritation, hypotension and local tissue injury such as purple glove syndrome, making option B correct. Option A is false (it is parenteral), option C is false (phenytoin is its active metabolite), and option D is wrong because IV phenytoin is highly alkaline and poorly water-soluble.
+Q_GEN_PHAR_CNS_AED_015 [M] Phenobarbitone potentiates GABAergic inhibition at the GABA-A receptor. Compared with benzodiazepines, its principal effect on the chloride channel is to:
+    A. Increase the frequency of chloride channel opening events
+    B. Bind the SV2A vesicle protein
+   *C. Prolong the duration of chloride channel opening, and at high concentrations directly open the channel
+    D. Block thalamic T-type calcium channels
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Barbiturates and GABA-A receptor (duration vs frequency)
+   concept: Barbiturates such as phenobarbitone increase the duration of GABA-A chloride channel opening (and at high concentrations can open the channel directly, independent of GABA), whereas benzodiazepines increase the frequency of opening; the direct action partly explains barbiturates' narrow safety margin and respiratory depression. Option A is the benzodiazepine effect, option B is levetiracetam's target, and option D is ethosuximide's action, none of which describes the barbiturate mechanism in option C.
+Q_GEN_PHAR_CNS_AED_016 [M] Lacosamide is a newer sodium-channel antiepileptic used as add-on therapy for focal seizures. Its mechanism differs from phenytoin/carbamazepine in that lacosamide:
+    A. Blocks the alpha2-delta calcium channel subunit
+    B. Enhances fast inactivation of sodium channels, identical to phenytoin
+    C. Binds the SV2A synaptic vesicle protein
+   *D. Selectively enhances the slow inactivation of voltage-gated sodium channels
+   key=D ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Lacosamide (slow inactivation of sodium channels)
+   concept: Lacosamide selectively enhances the slow inactivation of voltage-gated Na channels, stabilising hyperexcitable neuronal membranes without markedly affecting fast inactivation, which distinguishes it from phenytoin and carbamazepine that act mainly on fast inactivation; a notable adverse effect is dose-dependent PR-interval prolongation. Option A is the gabapentinoid mechanism, option B misstates its action as fast inactivation, and option C is levetiracetam's SV2A target, so option D is correct.
+Q_GEN_PHAR_CNS_AED_017 [H] Assertion (A): After a single intravenous dose, diazepam has a rapid onset but a relatively short duration of anticonvulsant action in the brain. Reason (R): Diazepam is highly lipophilic, entering the CNS quickly and then rapidly redistributing from brain to peripheral tissues. Select the correct option.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Goodman & Gilman's, 13th ed — Benzodiazepine pharmacokinetics (redistribution)
+   concept: Both statements are true and R explains A: diazepam's high lipophilicity gives near-immediate CNS penetration and rapid seizure control, but the same lipophilicity causes swift redistribution out of the brain into fat and muscle, so the central anticonvulsant effect of a single IV dose wanes within minutes despite a long elimination half-life. This redistribution pharmacokinetics is why lorazepam (less lipophilic, longer CNS retention) is often preferred for sustained seizure control, making option A the correct choice.
+Q_GEN_PHAR_CNS_AED_018 [H] A woman with well-controlled epilepsy is planning pregnancy and needs to continue an antiepileptic. Considering comparative teratogenic risk, which monotherapy is generally regarded as among the safest choices?
+    A. Valproate
+   *B. Lamotrigine or levetiracetam
+    C. Phenobarbitone
+    D. Topiramate
+   key=B ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Antiseizure drugs in pregnancy (teratogenicity ranking)
+   concept: Comparative registry data rank lamotrigine and levetiracetam among the lowest-risk antiepileptics in pregnancy, so they are preferred when monotherapy must continue, alongside folic acid supplementation. Valproate carries the highest risk (neural tube defects and impaired neurodevelopment) and is avoided; phenobarbitone is associated with cardiac and other malformations and neurodevelopmental effects; topiramate raises the risk of oral clefts and low birth weight. Hence option B is the safest listed choice.
+Q_GEN_PHAR_CNS_AED_019 [H] Assertion (A): Chronic phenytoin therapy can produce megaloblastic anemia. Reason (R): Phenytoin causes vitamin B12 deficiency by blocking gastric intrinsic factor. Select the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is not the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Phenytoin adverse effects (megaloblastic anemia, folate)
+   concept: The assertion is true: long-term phenytoin can cause megaloblastic anemia. The reason is false: the mechanism is impaired folate absorption and altered folate metabolism leading to folate (not vitamin B12) deficiency, and phenytoin does not block intrinsic factor. Because a true assertion is paired with a false reason, the answer is option C; the correct teaching point is that folate, given judiciously, corrects the anemia (very high-dose folate may slightly reduce phenytoin levels).
+Q_GEN_PHAR_CNS_AED_020 [H] A hypoalbuminemic patient with chronic kidney disease on phenytoin has a total phenytoin level reported as 6 mcg/mL (reference 10-20) but shows clear signs of phenytoin toxicity. What is the best interpretation?
+    A. Total phenytoin reliably reflects free drug even in hypoalbuminemia, so toxicity is unrelated to phenytoin
+    B. The dose should be increased because the total level is subtherapeutic
+    C. Phenytoin is not protein-bound, so albumin is irrelevant to interpretation
+   *D. In hypoalbuminemia/uraemia the unbound (free) fraction rises, so a low total level can correspond to a therapeutic or toxic free concentration; measure free phenytoin or apply a correction
+   key=D ref=Goodman & Gilman's, 13th ed — Phenytoin protein binding and therapeutic drug monitoring
+   concept: Phenytoin is about 90% albumin-bound, and only the free fraction is pharmacologically active; in hypoalbuminemia and uraemia (which also displaces the drug), the free fraction rises so a low measured total level can hide a therapeutic or toxic free concentration. Therefore option D is correct: measure free phenytoin or use a correction (e.g. Sheiner-Tozer) rather than raising the dose. Options A and C are false about protein binding, and option B would dangerously worsen toxicity.
+Q_GEN_PHAR_CNS_AED_021 [H] Tiagabine is an antiepileptic that augments GABAergic transmission. Its specific mechanism of action is:
+   *A. Selective inhibition of the GAT-1 neuronal and glial GABA reuptake transporter, prolonging synaptic GABA action
+    B. Irreversible inhibition of GABA transaminase
+    C. Binding to the SV2A synaptic vesicle protein
+    D. Blockade of thalamic T-type calcium channels
+   key=A ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Tiagabine (GAT-1 GABA reuptake inhibition)
+   concept: Tiagabine selectively and reversibly inhibits the GAT-1 transporter that mediates neuronal and glial reuptake of GABA, thereby increasing and prolonging synaptic GABA concentration; it is used as adjunctive therapy for focal seizures. This differs from vigabatrin, which irreversibly inhibits the degrading enzyme GABA transaminase (option B); option C is levetiracetam's SV2A target, and option D is ethosuximide's T-type Ca channel action, so option A uniquely describes tiagabine's reuptake-inhibition mechanism.
+Q_GEN_PHAR_CNS_AED_022 [H] Felbamate is an effective broad-spectrum antiepileptic but is used only in strictly selected patients. Which statement best explains its restricted role?
+    A. It is first-line for all focal seizures because of an outstanding safety profile
+   *B. It is reserved for refractory epilepsy (such as Lennox-Gastaut syndrome) because of the risk of aplastic anemia and fulminant hepatic failure
+    C. It is contraindicated mainly because it causes gingival hyperplasia
+    D. It is a benzodiazepine used only for status epilepticus
+   key=B ref=Goodman & Gilman's, 13th ed — Felbamate (aplastic anemia, hepatotoxicity, restricted use)
+   concept: Felbamate has broad efficacy (including Lennox-Gastaut syndrome and refractory focal seizures) but carries a serious risk of aplastic anemia and fulminant hepatic failure, so it is reserved for refractory patients under close haematological and hepatic monitoring with informed consent, which makes option B correct. Option A ignores its toxicity, option C wrongly attributes phenytoin's gingival hyperplasia, and option D is false because felbamate is a dicarbamate, not a benzodiazepine.
+Q_GEN_PHAR_CNS_AED_023 [H] A 55-year-old man has lancinating unilateral facial pain triggered by chewing and touch, diagnosed as trigeminal neuralgia. Which drug-and-monitoring pairing is most appropriate?
+    A. Phenytoin; monitor primarily for megaloblastic anemia
+    B. Gabapentin; monitor for renal calculi
+   *C. Carbamazepine; monitor complete blood counts for aplastic anemia/agranulocytosis
+    D. Valproate; monitor visual fields
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Carbamazepine (trigeminal neuralgia, blood dyscrasias)
+   concept: Carbamazepine is the drug of choice for trigeminal neuralgia, and because it can cause aplastic anemia and agranulocytosis (as well as hyponatremia and hepatotoxicity), baseline and periodic complete blood counts are advised, so option C pairs the correct drug with the correct monitoring. Option A pairs a non-first-line drug with the wrong emphasis, option B (gabapentin is second-line and does not typically cause stones) and option D (valproate is not first-line; visual-field monitoring belongs to vigabatrin) are incorrect.
+Q_GEN_PHAR_CNS_AED_024 [H] A teenager with juvenile myoclonic epilepsy (myoclonic jerks plus generalized tonic-clonic seizures) is started on a sodium-channel blocker and paradoxically has more frequent myoclonus and new absence-like episodes. Which statement is correct?
+    A. Valproate typically worsens absence seizures
+    B. Levetiracetam characteristically aggravates myoclonic seizures
+    C. Ethosuximide worsens absence seizures
+   *D. Carbamazepine (and phenytoin/gabapentin) can aggravate absence and myoclonic seizures and should be avoided in idiopathic generalized epilepsies such as JME
+   key=D ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Seizure-type selection and aggravation by inappropriate antiseizure drugs
+   concept: Narrow-spectrum Na-channel blockers such as carbamazepine, phenytoin and gabapentin can aggravate absence and myoclonic seizures and are best avoided in idiopathic generalized epilepsies like juvenile myoclonic epilepsy, where valproate (or levetiracetam/lamotrigine) is preferred, making option D correct. Options A and B are false because valproate and levetiracetam control these seizure types, and option C is false because ethosuximide treats (does not worsen) absence seizures.
+Q_c1_038 [H] A child has brief staring spells with eyelid flutter; EEG shows 3-Hz spike-and-wave discharges. Which statement about drug therapy is correct?
+   *A. Ethosuximide is preferred; carbamazepine may WORSEN the seizures
+    B. Carbamazepine is preferred; valproate worsens them
+    C. Phenytoin is preferred; ethosuximide worsens them
+    D. Vigabatrin is preferred; valproate worsens them
+   key=A ref=KD Tripathi 8e, Ch. Antiepileptic Drugs
+   concept: This is childhood absence epilepsy. Ethosuximide (or valproate) is first-line. Carbamazepine, phenytoin, gabapentin and vigabatrin can paradoxically AGGRAVATE absence and myoclonic seizures — a classic 'twisted' exam point.
+
+=== Pharmacology / Antihypertensives
+Q_c1_033 [E] A hypertensive patient on enalapril develops a persistent, irritating dry cough. This adverse effect is due to accumulation of?
+    A. Angiotensin II
+   *B. Bradykinin
+    C. Aldosterone
+    D. Renin
+   key=B ref=KD Tripathi 8e, Ch. Antihypertensives / RAS
+   concept: ACE (kininase II) also degrades bradykinin; ACE inhibitors therefore raise bradykinin, causing dry cough and (rarely) angioedema. Switching to an angiotensin-receptor blocker (ARB), which does not affect bradykinin, resolves the cough.
+
+=== Pharmacology / Antipsychotics, antidepressants
+Q_c1_040 [H] A patient stable on lithium for bipolar disorder is started on a thiazide diuretic and becomes confused with coarse tremor and ataxia. Why did lithium toxicity develop?
+    A. The thiazide increased lithium renal clearance
+   *B. The thiazide increased proximal sodium (and lithium) reabsorption, raising lithium levels
+    C. Lithium induced thiazide metabolism
+    D. Both drugs are eliminated by the liver
+   key=B ref=KD Tripathi 8e, Ch. Drugs for Mood Disorders
+   concept: Lithium has a narrow therapeutic index and is handled like sodium by the kidney. Thiazides (and NSAIDs, ACE inhibitors, dehydration) reduce lithium clearance, raising levels and causing tremor, ataxia, confusion and seizures.
+
+=== Pharmacology / Antivirals, antifungals, antimalarials, anticancer
+Q_PYQ_INICET_2025MAY_037 [M] Which of the following statements regarding Thalidomide is correct?
+    A. It acts as an antimetabolite and is useful as an immunosuppressant
+   *B. It is used in the treatment of multiple myeloma
+    C. It is used in the management of Type 2 lepra reaction (ENL)
+    D. It is teratogenic
+   key=B ref=INI-CET May 2025 (real exam recall)
+   concept: Thalidomide is an immunomodulator (anti-TNF/anti-angiogenic), not an antimetabolite. NOTE: as worded (which is correct), options B (multiple myeloma), C (Type 2 lepra reaction/ENL) and D (teratogenic) are ALL true and only A is false; the scraped single answer B is correct but not unique - likely a multiple-response item - so flagged.
+
+=== Pharmacology / Cholinergic & anticholinergic drugs
+Q_c1_030 [M] Which anticholinesterase crosses the blood-brain barrier and is therefore used to treat the CENTRAL effects of anticholinergic (atropine) toxicity?
+    A. Neostigmine
+    B. Pyridostigmine
+   *C. Physostigmine
+    D. Edrophonium
+   key=C ref=KD Tripathi 8e, Ch. Anticholinesterases
+   concept: Physostigmine is a tertiary amine (lipid-soluble) that crosses the blood-brain barrier, so it reverses central anticholinergic toxicity. Neostigmine, pyridostigmine and edrophonium are quaternary compounds acting only peripherally (used in myasthenia gravis / reversing neuromuscular block).
+
+=== Pharmacology / General & local anaesthetics, opioids
+Q_GEN_PHAR_CNS_ANES_001 [E] Minimum Alveolar Concentration (MAC) is the alveolar concentration of an inhalational anaesthetic at 1 atmosphere that abolishes movement to a standard surgical (skin) incision in 50% of patients. Clinically, MAC is used as an index of the agent's:
+    A. Speed of induction
+   *B. Potency
+    C. Blood solubility
+    D. Rate of hepatic metabolism
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — General Anaesthetics
+   concept: MAC is inversely proportional to potency — a low MAC (halothane ~0.75%) marks a highly potent agent, whereas a high MAC (nitrous oxide >100%) marks a weak one. MAC correlates with the oil:gas partition coefficient (Meyer-Overton lipid-solubility rule), NOT with the blood:gas coefficient, which instead governs speed of induction and recovery. Metabolism of modern agents is minimal and does not define MAC. Hence potency (B) is the correct answer, and the other options describe unrelated properties.
+Q_GEN_PHAR_CNS_ANES_002 [M] Assertion (A): The MAC of an inhalational anaesthetic is lower in an elderly patient than in an infant. Reason (R): MAC rises progressively from infancy through to old age. Select the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — General Anaesthetics (MAC and factors affecting it)
+   concept: MAC is highest in infancy (around 6 months) and declines steadily with advancing age, so the elderly need less anaesthetic — the Assertion is TRUE. The Reason is FALSE because it states the opposite trend; MAC does not increase toward old age, it decreases. MAC is also lowered by hypothermia, pregnancy, opioids, benzodiazepines, alpha-2 agonists and acute alcohol intake, and is raised by hyperthermia, chronic alcoholism and hypernatraemia. Since A is true but R is false, the answer is C.
+Q_GEN_PHAR_CNS_ANES_003 [E] An inhalational anaesthetic with a LOW blood:gas partition coefficient (e.g. desflurane, nitrous oxide) is characterised by:
+    A. High potency
+   *B. Rapid induction and rapid recovery
+    C. Extensive hepatic metabolism
+    D. Marked skeletal muscle relaxation
+   key=B ref=Katzung Basic & Clinical Pharmacology, 15th ed — General Anesthetics (uptake and distribution)
+   concept: A low blood:gas coefficient means the agent is poorly soluble in blood, so blood is quickly 'saturated' and the alveolar (hence brain) partial pressure rises fast — giving rapid induction and, because wash-out is equally quick, rapid recovery. This coefficient controls SPEED, not potency (that is the oil:gas coefficient / MAC). Highly soluble agents like methoxyflurane and ether give slow induction. Metabolism and muscle relaxation are unrelated to blood solubility, so only B is correct.
+Q_GEN_PHAR_CNS_ANES_004 [H] During induction, delivering a high concentration of nitrous oxide together with a volatile agent such as sevoflurane accelerates the rise of the volatile agent's alveolar concentration. This phenomenon is termed the:
+    A. Concentration effect
+   *B. Second gas effect
+    C. Diffusion hypoxia
+    D. Bohr effect
+   key=B ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Inhalation Anesthetics (pharmacokinetics)
+   concept: The second gas effect: rapid, large-volume uptake of the high-concentration 'first gas' (nitrous oxide) into pulmonary blood shrinks alveolar gas volume, which concentrates the remaining 'second gas' (the volatile agent) and augments its inspiratory inflow — speeding its alveolar rise. It is a consequence of the concentration effect (which describes only the first gas itself). Diffusion hypoxia is the reverse process at emergence, and the Bohr effect concerns haemoglobin–oxygen affinity, so B is correct.
+Q_GEN_PHAR_CNS_ANES_005 [M] At the end of a prolonged nitrous oxide anaesthetic, the patient is at risk of diffusion hypoxia. The most appropriate measure to prevent this is to:
+    A. Continue nitrous oxide at a low flow rate
+    B. Extubate immediately and leave the patient breathing room air
+   *C. Administer 100% oxygen for the first few minutes after discontinuing nitrous oxide
+    D. Hyperventilate the patient with added carbon dioxide
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — General Anaesthetics (Nitrous oxide)
+   concept: When nitrous oxide is stopped, its large stored volume rapidly diffuses from blood back into the alveoli, diluting alveolar oxygen and CO2 and producing transient dilutional (diffusion) hypoxia. Delivering 100% oxygen for 3–5 minutes offsets this dilution and maintains arterial oxygenation. Continuing N2O or leaving the patient in room air worsens hypoxia, and adding CO2 is not indicated. Hence C is the correct preventive step; this risk is greatest after high-concentration, prolonged N2O use.
+Q_GEN_PHAR_CNS_ANES_006 [H] Prolonged or repeated exposure to nitrous oxide can cause megaloblastic anaemia and myeloneuropathy. This results from irreversible oxidation of the cobalt atom of vitamin B12, which inactivates:
+   *A. Methionine synthase
+    B. Thymidylate synthase
+    C. Dihydrofolate reductase
+    D. Methylmalonyl-CoA mutase
+   key=A ref=Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th ed — General Anesthetics (Nitrous oxide toxicity)
+   concept: Nitrous oxide oxidises the cobalt of cobalamin (Co+ to Co3+), inactivating methionine synthase, the B12-dependent enzyme that converts homocysteine to methionine and regenerates tetrahydrofolate from methyl-THF. The resulting 'folate trap' impairs DNA synthesis, causing megaloblastic bone-marrow changes, and chronic exposure produces subacute combined degeneration of the cord. Methylmalonyl-CoA mutase is the other B12 enzyme but is not the mediator here; DHFR and thymidylate synthase are folate enzymes not directly oxidised by N2O — so A is correct.
+Q_GEN_PHAR_CNS_ANES_007 [M] Assertion (A): The dose of adrenaline infiltrated into the surgical field should be strictly limited during halothane anaesthesia. Reason (R): Halothane sensitises the myocardium to the arrhythmogenic effects of catecholamines. Select the correct option.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — General Anaesthetics (Halothane, adverse effects)
+   concept: Halothane (more than other halogenated agents) sensitises the myocardium to catecholamines, so exogenous adrenaline can precipitate multifocal ventricular ectopics or ventricular tachycardia — this is exactly why the infiltrated adrenaline dose is capped during halothane. Both statements are true and the Reason directly and correctly explains the Assertion, so the answer is A. Halothane itself is a myocardial depressant, not a beta-agonist. Isoflurane and sevoflurane sensitise far less and are preferred when adrenaline is required.
+Q_GEN_PHAR_CNS_ANES_008 [H] Thiopentone (thiopental) is ABSOLUTELY contraindicated as an induction agent in a patient with which of the following conditions?
+   *A. Acute intermittent porphyria
+    B. Well-controlled type 2 diabetes mellitus
+    C. Mild iron-deficiency anaemia
+    D. Primary osteoarthritis of the knee
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — General Anaesthetics (Thiopentone sodium)
+   concept: Barbiturates induce hepatic delta-aminolaevulinic acid (ALA) synthase, boosting porphyrin-precursor synthesis and precipitating an acute, potentially fatal attack of acute intermittent porphyria (and variegate porphyria); thiopentone is therefore absolutely contraindicated, and propofol is the preferred alternative. This hazard is distinct from thiopentone's ultrashort action (due to redistribution) and its tendency to trigger laryngospasm/bronchospasm. Diabetes, anaemia and osteoarthritis are not contraindications, so A is correct.
+Q_GEN_PHAR_CNS_ANES_009 [M] Which of the following is a characteristic property of propofol that distinguishes it from thiopentone?
+    A. It precipitates acute intermittent porphyria
+    B. It has a long elimination half-life with marked cumulation
+    C. It provides profound intra-operative analgesia
+   *D. It possesses intrinsic anti-emetic activity
+   key=D ref=Katzung Basic & Clinical Pharmacology, 15th ed — General Anesthetics (Propofol)
+   concept: Propofol has intrinsic anti-emetic action (useful against postoperative nausea and vomiting) and gives a smooth, rapid, clear-headed recovery, making it the induction agent of choice for day-care surgery and for maintenance by infusion (TIVA). It does NOT precipitate porphyria (indeed it is the safe substitute for thiopentone), is rapidly cleared without cumulation, and, like most IV anaesthetics, has essentially no analgesic effect. Its drawbacks are injection pain, dose-dependent hypotension/apnoea, egg-soy caution and propofol infusion syndrome — so D is correct.
+Q_GEN_PHAR_CNS_ANES_010 [H] Propofol infusion syndrome, associated with prolonged high-dose propofol infusion (particularly in critically ill or paediatric patients), is characterised by:
+   *A. Metabolic acidosis, rhabdomyolysis, hyperkalaemia, hyperlipidaemia and cardiac failure
+    B. Hypernatraemia with central pontine myelinolysis
+    C. Cholestatic jaundice with intense pruritus
+    D. Aplastic anaemia and agranulocytosis
+   key=A ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Intravenous Anesthetics (Propofol)
+   concept: Propofol infusion syndrome (PRIS) occurs with high-dose (>4 mg/kg/h), prolonged infusions and reflects impaired mitochondrial fatty-acid oxidation, producing severe metabolic (lactic) acidosis, rhabdomyolysis, hyperkalaemia, hyperlipidaemia, hepatomegaly and refractory bradycardia/cardiac failure that can be fatal. Treatment is to stop propofol immediately and give supportive/haemodynamic care. The other options describe unrelated toxicities not caused by propofol, so A is the correct constellation.
+Q_GEN_PHAR_CNS_ANES_011 [M] Ketamine is generally avoided in a patient with raised intracranial pressure or an open-globe (penetrating) eye injury because it:
+    A. Causes profound systemic hypotension
+   *B. Increases cerebral blood flow, intracranial pressure and intra-ocular pressure
+    C. Produces marked, early respiratory depression
+    D. Reduces cerebral metabolic rate and cerebral blood flow
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — General Anaesthetics (Ketamine)
+   concept: Ketamine, a dissociative NMDA-receptor antagonist, is sympathomimetic — it raises blood pressure, heart rate, cerebral blood flow, ICP and intra-ocular pressure; hence caution in raised ICP and open-globe injuries. Because it supports blood pressure and relatively preserves airway reflexes and respiration, it is valuable in hypovolaemic shock and in asthmatics (bronchodilator). Its principal drawbacks are emergence delirium/hallucinations (reduced by benzodiazepines) and hypersalivation. Only B correctly states the ICP/IOP-raising effect.
+Q_GEN_PHAR_CNS_ANES_012 [E] Ketamine produces 'dissociative anaesthesia' primarily through antagonism at which receptor?
+    A. GABA-A receptor
+    B. Mu (μ) opioid receptor
+   *C. NMDA subtype of glutamate receptor
+    D. Alpha-2 adrenergic receptor
+   key=C ref=Katzung Basic & Clinical Pharmacology, 15th ed — General Anesthetics (Ketamine)
+   concept: Ketamine is a non-competitive antagonist at the NMDA subtype of the glutamate receptor, producing a cataleptic 'dissociative' state — profound analgesia and amnesia with open eyes, nystagmus and preserved reflexes. GABA-A potentiation is the mechanism of thiopentone, propofol and benzodiazepines; mu-opioid agonism underlies morphine/fentanyl; alpha-2 agonism is the mechanism of dexmedetomidine and clonidine. Therefore NMDA-receptor blockade (C) is the correct answer for ketamine.
+Q_GEN_PHAR_CNS_ANES_013 [H] Etomidate is valued for its cardiovascular stability at induction, but even a single bolus can cause which of the following adverse effects?
+    A. Malignant hyperthermia
+    B. Prolonged skeletal muscle paralysis
+    C. Massive histamine release with bronchospasm
+   *D. Adrenocortical suppression (inhibition of steroidogenesis)
+   key=D ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Intravenous Anesthetics (Etomidate)
+   concept: Etomidate reversibly inhibits 11-beta-hydroxylase, suppressing cortisol and aldosterone synthesis; even a single induction dose blunts the adrenal stress response, and continuous infusion increased mortality in ICU patients — so it is used cautiously in sepsis. Its advantage is haemodynamic stability with minimal histamine release, making it useful in cardiac and shocked patients; other drawbacks are injection pain, myoclonus and postoperative nausea/vomiting. It is not a malignant-hyperthermia trigger and does not cause paralysis, so D is correct.
+Q_GEN_PHAR_CNS_ANES_014 [M] A young, previously healthy patient given suxamethonium (succinylcholine) for a brief procedure fails to resume spontaneous breathing and remains paralysed for over an hour. The most likely cause is:
+    A. Malignant hyperthermia
+    B. An excessive dose of neostigmine
+   *C. Atypical or deficient plasma pseudocholinesterase
+    D. Acute hyperkalaemia
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Skeletal Muscle Relaxants (Succinylcholine)
+   concept: Suxamethonium is normally hydrolysed within minutes by plasma pseudocholinesterase (butyrylcholinesterase). In patients with a genetically atypical or quantitatively deficient enzyme, hydrolysis is markedly slowed, producing prolonged apnoea ('scoline apnoea'), managed simply by continued mechanical ventilation until recovery. The dibucaine number identifies the atypical enzyme. Neostigmine would worsen (not cause) this by inhibiting cholinesterase. This scenario deliberately excludes the separate hyperkalaemia and malignant-hyperthermia hazards, so C is correct.
+Q_GEN_PHAR_CNS_ANES_015 [H] Assertion (A): Atracurium is a suitable neuromuscular blocker in a patient with combined severe hepatic and renal failure. Reason (R): Atracurium is eliminated by Hofmann degradation, a process independent of hepatic and renal function. Select the correct option.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Skeletal Muscle Relaxants (non-depolarizing blockers)
+   concept: Atracurium (and cisatracurium) undergo Hofmann elimination — spontaneous, non-enzymatic breakdown at physiological pH and temperature — plus ester hydrolysis, so clearance does not depend on the liver or kidney, making them ideal in organ failure. Both statements are true and the Reason correctly explains the Assertion, so the answer is A. A degradation product, laudanosine, can rarely cause CNS excitation. By contrast, vecuronium is largely biliary, pancuronium mainly renal and rocuronium chiefly hepatic, all accumulating in organ failure.
+Q_GEN_PHAR_CNS_ANES_016 [M] At the end of surgery, residual non-depolarizing neuromuscular block is reversed with neostigmine. Neostigmine is deliberately co-administered with glycopyrrolate (or atropine) in order to:
+    A. Potentiate the neuromuscular blockade
+   *B. Prevent the muscarinic effects of neostigmine such as bradycardia and excess secretions
+    C. Prolong the action of the muscle relaxant
+    D. Reverse the central sedative effects of the general anaesthetic
+   key=B ref=Katzung Basic & Clinical Pharmacology, 15th ed — Skeletal Muscle Relaxants (reversal of blockade)
+   concept: Neostigmine inhibits acetylcholinesterase, raising synaptic acetylcholine to out-compete the non-depolarizing (competitive) blocker at the nicotinic neuromuscular junction. However, the extra acetylcholine also floods muscarinic receptors, causing bradycardia, bronchospasm, salivation and gut hypermotility. An antimuscarinic — glycopyrrolate (preferred, as it does not cross the blood–brain barrier) or atropine — is given alongside to block these unwanted muscarinic effects while leaving the nicotinic reversal intact. It neither potentiates nor prolongs the block, so B is correct.
+Q_GEN_PHAR_CNS_ANES_017 [M] Sugammadex reverses neuromuscular blockade produced by rocuronium (and vecuronium) by which mechanism?
+    A. Inhibiting acetylcholinesterase at the neuromuscular junction
+    B. Blocking presynaptic voltage-gated calcium channels
+    C. Depolarizing the motor end-plate
+   *D. Encapsulating (chelating) the aminosteroid relaxant molecule in plasma
+   key=D ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Neuromuscular Blocking Agents (Sugammadex)
+   concept: Sugammadex is a modified gamma-cyclodextrin that directly encapsulates aminosteroid neuromuscular blockers (rocuronium greater than vecuronium) in the plasma, forming an inactive complex; this creates a concentration gradient that draws the drug away from the neuromuscular junction, giving rapid, complete reversal even of profound block, without the muscarinic side-effects of neostigmine. It does NOT act on acetylcholinesterase and is ineffective against benzylisoquinolinium agents such as atracurium — so D is the correct mechanism.
+Q_GEN_PHAR_CNS_ANES_018 [E] The analgesic action and most of the clinically important effects of morphine are mediated predominantly through agonism at which opioid receptor?
+   *A. Mu (μ) receptor
+    B. Kappa (κ) receptor
+    C. Delta (δ) receptor
+    D. Nociceptin (ORL-1) receptor
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Opioid Analgesics and Antagonists
+   concept: Morphine is a relatively selective agonist at the mu (μ)-opioid receptor; μ activation mediates supraspinal and spinal analgesia, euphoria, respiratory depression, miosis, constipation and physical dependence. Kappa contributes spinal analgesia with dysphoria and less respiratory depression, delta modulates analgesia and mood, and the ORL-1/nociceptin receptor is a related but distinct system. All opioid receptors are Gi/Go-coupled, reducing cAMP, closing calcium and opening potassium channels to depress neuronal excitability — so A is correct.
+Q_GEN_PHAR_CNS_ANES_019 [H] Assertion (A): Morphine should be used cautiously in a patient with chronic kidney disease. Reason (R): Morphine-3-glucuronide is a potent mu-opioid agonist that accumulates in renal failure and causes prolonged respiratory depression. Select the correct option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th ed — Opioids (morphine metabolism)
+   concept: Morphine is indeed hazardous in renal failure — the Assertion is TRUE — but the Reason is FALSE because it names the wrong metabolite: morphine-3-glucuronide (M3G) is analgesically inactive (and may be neuroexcitatory), whereas it is morphine-6-glucuronide (M6G), a potent renally-excreted mu-agonist, that accumulates and causes prolonged sedation and respiratory depression. Since A is true but R is false, the answer is C; fentanyl is often preferred in significant renal impairment.
+Q_GEN_PHAR_CNS_ANES_020 [H] Which of the following statements regarding pethidine (meperidine) is TRUE?
+    A. Its metabolite morphine-6-glucuronide is responsible for its analgesia
+   *B. Its metabolite norpethidine can accumulate to cause CNS excitation and seizures, and it is contraindicated with MAO inhibitors
+    C. It characteristically produces marked miosis and bradycardia identical to morphine
+    D. It is a pure opioid antagonist used to treat opioid overdose
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Opioid Analgesics (Pethidine)
+   concept: Pethidine is metabolised to norpethidine (normeperidine), a neurotoxic metabolite that accumulates — especially in renal impairment or with repeated dosing — causing tremor, myoclonus and seizures that are NOT reversed by naloxone. Combined with a monoamine-oxidase inhibitor it can trigger a life-threatening excitatory/serotonergic reaction (hyperthermia, rigidity, coma). Unlike morphine, pethidine has antimuscarinic action, so it causes less miosis (even mydriasis) and can produce tachycardia. It is an agonist, not an antagonist, making B the only true statement.
+Q_GEN_PHAR_CNS_ANES_021 [M] Codeine is a relatively weak analgesic by itself; its analgesic effect depends largely on hepatic O-demethylation to morphine, catalysed by which enzyme?
+    A. CYP3A4
+    B. Plasma pseudocholinesterase
+    C. CYP1A2
+   *D. CYP2D6
+   key=D ref=Katzung Basic & Clinical Pharmacology, 15th ed — Opioid Analgesics & Antagonists (codeine, CYP2D6)
+   concept: Codeine is essentially a prodrug that is O-demethylated to morphine by CYP2D6. Poor metabolizers (deficient CYP2D6) obtain little analgesia, whereas ultra-rapid metabolizers generate excess morphine and risk toxicity and respiratory depression — a recognised danger in young children and in breast-fed infants of ultra-rapid-metabolizer mothers. CYP2D6 inhibitors such as fluoxetine and quinidine blunt codeine's effect. CYP3A4 forms inactive norcodeine, while pseudocholinesterase and CYP1A2 are not the key pathway, so D is correct.
+Q_GEN_PHAR_CNS_ANES_022 [M] A patient maintained on high-dose full-agonist opioid therapy is given buprenorphine and unexpectedly develops acute withdrawal symptoms. This is best explained by the fact that buprenorphine is a:
+    A. Pure mu-opioid antagonist like naloxone
+    B. Selective kappa-receptor agonist
+    C. Non-opioid NMDA-receptor antagonist
+   *D. Partial mu-opioid agonist with very high receptor affinity
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Opioid Analgesics (Buprenorphine)
+   concept: Buprenorphine is a partial agonist at the mu-receptor — very high binding affinity but low intrinsic activity — and a kappa antagonist. Given to a patient on a full agonist, its high affinity displaces that full agonist while delivering only submaximal mu activation, so the net opioid effect falls and withdrawal is precipitated. Its partial agonism also produces a ceiling on respiratory depression, and its tight binding makes overdose relatively resistant to naloxone. It is neither a pure antagonist nor an NMDA blocker, so D is correct.
+Q_GEN_PHAR_CNS_ANES_023 [M] Tramadol produces analgesia by a dual mechanism. In addition to weak agonism at the mu-opioid receptor, it also:
+    A. Blocks NMDA glutamate receptors
+    B. Irreversibly inhibits cyclo-oxygenase
+   *C. Inhibits neuronal reuptake of serotonin and noradrenaline
+    D. Antagonises GABA-A receptors
+   key=C ref=Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th ed — Opioids (Tramadol)
+   concept: Tramadol is a weak mu-agonist (its M1 metabolite, formed by CYP2D6, is the more active opioid moiety) that additionally inhibits neuronal reuptake of serotonin and noradrenaline, enhancing descending inhibitory pain pathways. This monoaminergic action explains why it lowers seizure threshold and, particularly when combined with SSRIs, SNRIs or MAOIs, can precipitate serotonin syndrome. It causes comparatively less respiratory depression and constipation than classical opioids. It does not act via COX, NMDA or GABA-A, so C is correct.
+Q_GEN_PHAR_CNS_ANES_024 [E] Regarding the mechanism of action of local anaesthetics, which statement is correct?
+    A. They open voltage-gated potassium channels to hyperpolarise the axon
+    B. They activate GABA-A receptors on the peripheral nerve
+    C. They block calcium channels at the motor end-plate
+   *D. They block voltage-gated sodium channels, binding chiefly from the axoplasmic (inner) side of the membrane
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Local Anaesthetics (mechanism of action)
+   concept: Local anaesthetics are weak bases: the unionized lipid-soluble form penetrates the axonal membrane, then the ionized cationic form binds the inner (intracellular) gate of the voltage-gated sodium channel, preferentially in its open/inactivated state — giving use- (frequency-) dependent block that prevents the action-potential upstroke. This explains why inflamed acidic tissue (more ionized, less penetration) reduces efficacy, and why small, rapidly firing fibres are blocked first. They do not act on potassium channels, GABA-A or end-plate calcium channels, so D is correct.
+
+=== Pharmacology / Heart failure, antiarrhythmics, antianginals
+Q_GEN_PHAR_CVS_HF_ARR_001 [E] A 58-year-old man with HFrEF started on enalapril develops a persistent dry, tickling cough that resolves within days of stopping the drug. The most likely mechanism is:
+   *A. Accumulation of bradykinin and substance P in the airways
+    B. Direct chemical irritation of the bronchial epithelium
+    C. A rise in circulating angiotensin II acting on cough receptors
+    D. Mast-cell histamine release triggering bronchospasm
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Drugs Affecting Renin-Angiotensin System / Drugs for CHF
+   concept: ACE (kininase II) normally degrades bradykinin, so ACE inhibition raises bradykinin and substance P, which sensitise airway sensory nerves and produce the classic non-productive cough (and, rarely, angioedema). It is a class effect of all ACE inhibitors and reverses on stopping. Angiotensin II actually falls, not rises, so C is wrong; the cough is not from direct irritation (B) or histamine/allergy (D). Switching to an ARB, which does not affect bradykinin, avoids the cough.
+Q_GEN_PHAR_CVS_HF_ARR_002 [M] In the angiotensin receptor-neprilysin inhibitor (ARNI) sacubitril/valsartan, the sacubitril component acts by:
+    A. Blocking the angiotensin II AT1 receptor
+    B. Inhibiting angiotensin-converting enzyme
+   *C. Inhibiting neprilysin, thereby raising natriuretic peptide levels
+    D. Directly stimulating soluble guanylate cyclase
+   key=C ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Drugs Used in Heart Failure
+   concept: Sacubitril is a prodrug whose active metabolite inhibits neprilysin, the enzyme that degrades natriuretic peptides (ANP, BNP, CNP); higher natriuretic peptide levels promote natriuresis, vasodilation and reduced sympathetic/RAAS activity. The AT1 blockade is provided by valsartan, so A describes the partner drug, not sacubitril. It is not an ACE inhibitor (B), and it does not directly stimulate guanylate cyclase (D). PARADIGM-HF showed ARNI reduced cardiovascular death versus enalapril; ARNI must not be combined with an ACE inhibitor (angioedema risk).
+Q_GEN_PHAR_CVS_HF_ARR_003 [M] Ivabradine, used in chronic HFrEF with sinus rhythm and an elevated heart rate, reduces heart rate by:
+    A. Blocking L-type calcium channels in the AV node
+   *B. Selectively inhibiting the funny (If) current in the SA node
+    C. Antagonising beta-1 adrenergic receptors
+    D. Inhibiting the cardiac Na+/K+ ATPase
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Drugs for CHF / Antianginal Drugs
+   concept: Ivabradine selectively blocks the hyperpolarisation-activated funny (If) current carried by HCN channels in the sinoatrial node, slowing the slope of spontaneous diastolic depolarisation and hence the rate of pacemaker firing. It is a pure heart-rate-lowering drug with no effect on contractility, blood pressure or AV conduction, which distinguishes it from beta-blockers (C) and non-dihydropyridine calcium blockers (A). It requires sinus rhythm to work and is added when heart rate stays >=70/min despite maximal beta-blockade. It does not touch the Na+/K+ ATPase (D, the digoxin target).
+Q_GEN_PHAR_CVS_HF_ARR_004 [M] Which class of oral antidiabetic drugs has been shown to reduce cardiovascular death and heart-failure hospitalisation in HFrEF, even in patients without diabetes?
+    A. Alpha-glucosidase inhibitors
+    B. DPP-4 inhibitors
+    C. Sulfonylureas
+   *D. SGLT2 inhibitors
+   key=D ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Drugs Used in Heart Failure
+   concept: SGLT2 inhibitors (dapagliflozin, empagliflozin) reduced the composite of cardiovascular death and worsening heart failure in trials such as DAPA-HF and EMPEROR-Reduced, benefits seen regardless of diabetic status; proposed mechanisms include osmotic diuresis/natriuresis, reduced preload and afterload, and favourable cardiac metabolic/energetic effects. They are now a pillar of guideline-directed HFrEF therapy. DPP-4 inhibitors are neutral (saxagliptin even increased HF hospitalisation), and sulfonylureas and alpha-glucosidase inhibitors have no HF mortality benefit, so A, B and C are wrong.
+Q_GEN_PHAR_CVS_HF_ARR_005 [E] Which beta-blocker has proven mortality benefit in HFrEF and is one of the agents recommended for chronic heart failure?
+   *A. Carvedilol
+    B. Atenolol
+    C. Propranolol
+    D. Esmolol
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Drugs for CHF
+   concept: Only three beta-blockers have documented mortality benefit in HFrEF: carvedilol, bisoprolol and metoprolol succinate (extended release); this is a drug-specific, not a class-wide, effect and they must be started at low dose and up-titrated in stable patients. Carvedilol additionally blocks alpha-1 receptors, giving vasodilation. Atenolol and propranolol were not established in the landmark HF trials, and esmolol is an ultra-short-acting IV agent used for acute rate control, not chronic HF. Beta-blockers are avoided during acute decompensation.
+Q_GEN_PHAR_CVS_HF_ARR_006 [M] A man with HFrEF on spironolactone develops painful gynecomastia. The best mineralocorticoid receptor antagonist to switch him to, with fewer antiandrogen effects, is:
+    A. Amiloride
+   *B. Eplerenone
+    C. Triamterene
+    D. Furosemide
+   key=B ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Diuretic Agents / Drugs Used in Heart Failure
+   concept: Eplerenone is a selective aldosterone (mineralocorticoid) receptor antagonist that, unlike spironolactone, has minimal affinity for androgen and progesterone receptors, so it causes far less gynecomastia, breast tenderness and menstrual irregularity while retaining the mortality benefit of MRAs in HFrEF. Amiloride and triamterene are potassium-sparing diuretics that block the epithelial sodium channel (ENaC), not aldosterone receptors, so they are not MRAs. Furosemide is a loop diuretic. All MRAs and K+-sparing agents require monitoring for hyperkalemia.
+Q_GEN_PHAR_CVS_HF_ARR_007 [H] A patient with HFrEF cannot tolerate ACE inhibitors or ARBs because of renal dysfunction with hyperkalemia. Which drug combination has additionally been shown to improve survival, particularly in self-identified Black patients?
+    A. Amlodipine plus atenolol
+    B. Digoxin plus furosemide
+   *C. Hydralazine plus isosorbide dinitrate
+    D. Verapamil plus nitroglycerin
+   key=C ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Drugs Used in Heart Failure
+   concept: The combination of hydralazine (an arteriolar vasodilator reducing afterload) with isosorbide dinitrate (a venodilator/nitric-oxide donor reducing preload) improved survival in HFrEF and showed particular benefit in self-identified Black patients (A-HeFT trial). It is the standard alternative when ACE inhibitors/ARBs/ARNI are contraindicated by renal impairment or hyperkalemia because it does not raise potassium. Digoxin plus furosemide (B) relieves symptoms but does not extend survival; amlodipine/atenolol (A) and verapamil (D, a negative inotrope contraindicated in HFrEF) do not.
+Q_GEN_PHAR_CVS_HF_ARR_008 [M] Milrinone, used as an inotrope in acute decompensated heart failure, increases myocardial contractility primarily by:
+    A. Stimulating beta-1 adrenergic receptors
+    B. Inhibiting the Na+/K+ ATPase
+    C. Blocking phosphodiesterase-5
+   *D. Inhibiting phosphodiesterase-3, raising intracellular cAMP
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Drugs for CHF
+   concept: Milrinone is a selective phosphodiesterase-3 inhibitor; by blocking the breakdown of cAMP in cardiac and vascular smooth muscle it increases intracellular cAMP and calcium in myocytes (positive inotropy) while causing vasodilation (inodilator effect, lowering preload and afterload). Because it acts downstream of the beta receptor, it works even when beta receptors are down-regulated or the patient is on a beta-blocker, unlike dobutamine (A). It does not inhibit Na+/K+ ATPase (B, the digoxin target) or PDE-5 (C, the sildenafil target). It can cause arrhythmias and hypotension.
+Q_GEN_PHAR_CVS_HF_ARR_009 [E] Dobutamine used in cardiogenic shock acts predominantly as a(n):
+   *A. Beta-1 adrenergic receptor agonist
+    B. Alpha-1 adrenergic receptor agonist
+    C. Beta-2 selective agonist
+    D. Dopamine D1 receptor agonist
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Adrenergic Drugs / Drugs for CHF
+   concept: Dobutamine is a synthetic catecholamine that predominantly stimulates beta-1 adrenergic receptors, producing a positive inotropic effect with relatively modest increases in heart rate, making it useful for short-term inotropic support in acute decompensated heart failure and cardiogenic shock. Its mild beta-2 and alpha-1 actions tend to balance, so peripheral resistance changes little. It is not primarily an alpha-1 agonist (B, that describes phenylephrine) or a D1 agonist (D, low-dose dopamine effect). Tolerance develops with prolonged infusion and it can provoke arrhythmias and increase myocardial oxygen demand.
+Q_GEN_PHAR_CVS_HF_ARR_010 [M] Which statement about digoxin is CORRECT?
+    A. It has a wide therapeutic index, so plasma monitoring is unnecessary
+   *B. Life-threatening toxicity is treated with digoxin-specific antibody fragments (digoxin immune Fab)
+    C. Hyperkalemia strongly potentiates digoxin binding to its receptor
+    D. It characteristically shortens the PR interval on the ECG
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Drugs for CHF (Cardiac Glycosides)
+   concept: Severe, life-threatening digoxin toxicity (refractory arrhythmias, marked hyperkalemia) is treated with digoxin-specific antibody fragments (digoxin immune Fab, e.g. Digibind/DigiFab), which bind and neutralise the drug. Digoxin has a narrow therapeutic index (~0.5-2 ng/mL) so monitoring is essential, making A wrong. It is hypokalemia, not hyperkalemia, that potentiates digoxin toxicity by reducing competition at the Na+/K+ ATPase, so C is wrong. By enhancing vagal tone digoxin slows AV conduction and prolongs (not shortens) the PR interval, so D is wrong.
+Q_GEN_PHAR_CVS_HF_ARR_011 [H] Which drug used in HFrEF provides symptomatic relief but has NOT been shown to reduce mortality?
+    A. Bisoprolol
+    B. Sacubitril/valsartan
+   *C. Furosemide
+    D. Spironolactone
+   key=C ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Drugs Used in Heart Failure
+   concept: Loop diuretics such as furosemide relieve congestion (dyspnea, edema) rapidly and are essential for symptom control, but no trial has shown they reduce mortality in HFrEF; they treat symptoms, not disease progression. The drugs with proven mortality benefit are the neurohormonal blockers: ACE inhibitors/ARBs, ARNI (sacubitril/valsartan), evidence-based beta-blockers (bisoprolol), mineralocorticoid receptor antagonists (spironolactone) and SGLT2 inhibitors. Hence A, B and D all improve survival, whereas furosemide is symptom-only, as is digoxin (which reduces hospitalisations but not mortality).
+Q_GEN_PHAR_CVS_HF_ARR_012 [M] A patient develops sustained ventricular tachycardia soon after an acute myocardial infarction. Which intravenous class Ib antiarrhythmic preferentially blocks sodium channels in depolarised, ischaemic ventricular tissue?
+    A. Quinidine
+    B. Verapamil
+    C. Adenosine
+   *D. Lidocaine
+   key=D ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antiarrhythmic Drugs
+   concept: Lidocaine is a class Ib agent that binds sodium channels with fast on-off kinetics and shows use-dependence, so it preferentially blocks channels in rapidly firing or depolarised/ischaemic tissue while sparing normal myocardium; this makes it effective for ventricular arrhythmias, especially post-MI, with little effect on atrial tissue. Quinidine (A) is class Ia; verapamil (B) is a class IV calcium blocker for supraventricular arrhythmias; adenosine (C) terminates AV-nodal reentrant SVT. Lidocaine is given IV because of extensive first-pass metabolism and can cause CNS toxicity (perioral numbness, seizures).
+Q_GEN_PHAR_CVS_HF_ARR_013 [H] Assertion (A): Flecainide should not be used to suppress premature ventricular complexes in a patient with a previous myocardial infarction. Reason (R): In the CAST trial, class Ic sodium-channel blockers increased mortality by provoking lethal proarrhythmia in patients with structural heart disease.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=A ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Agents Used in Cardiac Arrhythmias
+   concept: Flecainide is a class Ic agent with potent, slowly-reversible sodium-channel block and marked slowing of conduction. The Cardiac Arrhythmia Suppression Trial (CAST) found that suppressing asymptomatic PVCs post-MI with flecainide/encainide paradoxically increased mortality due to proarrhythmia in scarred, structurally abnormal ventricles. Therefore the assertion is true and the reason correctly explains it. Class Ic drugs are reserved for patients WITHOUT structural heart disease (e.g. paroxysmal AF, the pill-in-the-pocket approach) — making A the right choice.
+Q_GEN_PHAR_CVS_HF_ARR_014 [E] A young patient presents with paroxysmal supraventricular tachycardia (AV nodal reentry) unresponsive to vagal manoeuvres. The drug of choice for acute termination is:
+    A. Lidocaine
+   *B. Adenosine
+    C. Digoxin
+    D. Quinidine
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antiarrhythmic Drugs
+   concept: Adenosine is the drug of choice for acute termination of AV-nodal reentrant supraventricular tachycardia. Given as a rapid IV bolus, it activates A1 receptors, opening potassium channels and inhibiting calcium current in the AV node, transiently blocking AV conduction and interrupting the reentry circuit. Its half-life is only a few seconds, so effects (flushing, chest tightness, transient asystole) are brief. Lidocaine (A) is for ventricular arrhythmias, digoxin (C) is too slow for acute conversion, and quinidine (D) is not used here. Effects are potentiated by dipyridamole and blocked by methylxanthines.
+Q_GEN_PHAR_CVS_HF_ARR_015 [M] A patient on a QT-prolonging drug develops polymorphic ventricular tachycardia (torsades de pointes). The drug of choice, given even when serum magnesium is normal, is:
+    A. Amiodarone
+    B. Lidocaine
+   *C. Intravenous magnesium sulfate
+    D. Procainamide
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antiarrhythmic Drugs
+   concept: Intravenous magnesium sulfate is the drug of choice for torsades de pointes and works to suppress the early afterdepolarisations that trigger it even when the serum magnesium level is normal. Additional measures include stopping the offending QT-prolonging drug, correcting hypokalemia, and overdrive pacing or isoprenaline to increase heart rate and shorten the QT. Class Ia (procainamide, D) and class III (amiodarone, A) agents prolong the QT and can worsen torsades, so they are avoided; lidocaine (B) is unreliable here. This is a high-yield emergency management fact.
+Q_GEN_PHAR_CVS_HF_ARR_016 [H] Which antiarrhythmic possesses BOTH class III (potassium-channel-blocking) and class II (beta-blocking) actions and is notably associated with QT prolongation and torsades de pointes?
+    A. Diltiazem
+    B. Mexiletine
+    C. Flecainide
+   *D. Sotalol
+   key=D ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Agents Used in Cardiac Arrhythmias
+   concept: Sotalol is a non-selective beta-blocker (class II) that also blocks the rapid delayed-rectifier potassium current IKr (class III), prolonging repolarisation and the QT interval; this dual action underlies both its efficacy in atrial and ventricular arrhythmias and its dose-dependent risk of torsades de pointes, especially with hypokalemia or renal impairment (it is renally cleared). Diltiazem (A) is a class IV calcium blocker, mexiletine (B) is a class Ib agent, and flecainide (C) is class Ic — none combine class II and III actions. Its l-isomer provides the beta-blockade.
+Q_GEN_PHAR_CVS_HF_ARR_017 [M] A patient taking quinidine for an arrhythmia develops tinnitus, headache, blurred vision, and diarrhoea. This constellation of adverse effects is known as:
+   *A. Cinchonism
+    B. Serotonin syndrome
+    C. Disulfiram-like reaction
+    D. Gray baby syndrome
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antiarrhythmic Drugs
+   concept: Cinchonism is the characteristic toxidrome of quinidine (and quinine, both cinchona alkaloids): tinnitus, hearing loss, headache, blurred vision, and gastrointestinal upset such as diarrhoea and nausea. Quinidine is a class Ia agent that also has vagolytic and alpha-blocking effects, can prolong QT and cause torsades, and can raise serum digoxin levels. Serotonin syndrome (B) results from serotonergic drugs; disulfiram-like reactions (C) follow alcohol with certain drugs; gray baby syndrome (D) is chloramphenicol toxicity in neonates. Recognising cinchonism is a classic FMGE association.
+Q_GEN_PHAR_CVS_HF_ARR_018 [M] Long-term therapy with procainamide is most characteristically associated with which adverse effect?
+    A. Pulmonary fibrosis
+   *B. Drug-induced lupus erythematosus (SLE-like syndrome)
+    C. Corneal microdeposits
+    D. Gingival hyperplasia
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antiarrhythmic Drugs
+   concept: Chronic procainamide use is classically associated with a drug-induced lupus erythematosus-like syndrome (arthralgia, fever, serositis) with positive antinuclear and anti-histone antibodies; it is more common in slow acetylators and usually reverses on stopping the drug. Procainamide is a class Ia agent that can also cause QT prolongation/torsades and agranulocytosis. Pulmonary fibrosis and corneal microdeposits (A, C) are amiodarone effects, and gingival hyperplasia (D) is seen with phenytoin, calcium blockers and cyclosporine. Hydralazine and isoniazid are other common causes of drug-induced lupus.
+Q_GEN_PHAR_CVS_HF_ARR_019 [M] Assertion (A): Verapamil should not be combined with a beta-blocker in most patients. Reason (R): Verapamil characteristically produces marked reflex tachycardia that beta-blockers are unable to control.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+   *C. A is true, but R is false
+    D. A is false, but R is true
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Calcium Channel Blockers / Antiarrhythmic Drugs
+   concept: The assertion is true: verapamil (a non-dihydropyridine calcium blocker) depresses SA/AV nodal conduction and myocardial contractility, so combining it with a beta-blocker risks severe bradycardia, high-grade AV block, asystole and heart failure. The reason is false — verapamil does NOT cause reflex tachycardia; by slowing AV conduction it tends to lower or steady the heart rate, and reflex tachycardia is instead typical of dihydropyridines like nifedipine. Hence A is true but R is false (option C). Verapamil also commonly causes constipation and can precipitate digoxin toxicity by raising digoxin levels.
+Q_GEN_PHAR_CVS_HF_ARR_020 [H] A patient with recent-onset atrial flutter needs rapid pharmacological cardioversion. Which intravenous class III agent is used specifically for this, carrying a risk of torsades de pointes?
+    A. Lidocaine
+    B. Verapamil
+    C. Digoxin
+   *D. Ibutilide
+   key=D ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Agents Used in Cardiac Arrhythmias
+   concept: Ibutilide is a class III antiarrhythmic given intravenously for acute pharmacological conversion of recent-onset atrial fibrillation or atrial flutter; it prolongs repolarisation (partly by activating a slow inward sodium current and blocking IKr), lengthening the QT and carrying a notable risk of torsades de pointes, so patients require cardiac monitoring. Lidocaine (A) is for ventricular arrhythmias, verapamil (B) and digoxin (C) provide rate control but do not chemically cardiovert. Dofetilide is a related oral class III agent used to maintain sinus rhythm, also with torsades risk requiring in-hospital initiation.
+Q_GEN_PHAR_CVS_HF_ARR_021 [H] Amiodarone is added to a patient who is stable on a maintenance dose of digoxin. What is the expected interaction and appropriate response?
+   *A. Serum digoxin levels rise, so the digoxin dose should be reduced (usually halved)
+    B. Serum digoxin levels fall due to enzyme induction, so digoxin should be increased
+    C. There is no clinically significant interaction between the two drugs
+    D. Amiodarone directly antagonises digoxin at the Na+/K+ ATPase
+   key=A ref=Goodman & Gilman's The Pharmacological Basis of Therapeutics, 13th ed — Antiarrhythmic Drugs
+   concept: Amiodarone raises serum digoxin concentrations, mainly by inhibiting P-glycoprotein-mediated renal/biliary elimination and reducing digoxin clearance, so the digoxin dose should be reduced (commonly by about half) and levels monitored to avoid toxicity. Amiodarone similarly potentiates warfarin (via CYP2C9 inhibition), requiring a lower warfarin dose. It is an enzyme inhibitor, not an inducer, so B is wrong; the interaction is clinically important, so C is wrong; and it does not act at the Na+/K+ ATPase (D). This pharmacokinetic interaction is a frequently tested amiodarone fact distinct from its organ toxicities.
+Q_GEN_PHAR_CVS_HF_ARR_022 [E] The principal anti-anginal action of organic nitrates at usual therapeutic doses is:
+    A. Increasing heart rate to augment coronary blood flow
+   *B. Venodilation that reduces preload and myocardial oxygen demand
+    C. A direct positive inotropic effect on the ventricle
+    D. Blockade of cardiac beta-1 adrenergic receptors
+   key=B ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antianginal Drugs
+   concept: Organic nitrates are converted to nitric oxide, which activates guanylate cyclase and raises cGMP, relaxing vascular smooth muscle. At usual doses the predominant effect is venodilation, which pools blood peripherally, reduces venous return (preload) and lowers ventricular wall tension, thereby cutting myocardial oxygen demand — the main mechanism of angina relief. They also dilate epicardial coronary arteries and relieve spasm. They do not increase heart rate as a therapeutic action (reflex tachycardia is an unwanted effect, A), have no positive inotropic effect (C), and do not block beta receptors (D).
+Q_GEN_PHAR_CVS_HF_ARR_023 [M] Assertion (A): Patients on long-acting nitrates should observe a daily nitrate-free interval of about 8-12 hours. Reason (R): Uninterrupted nitrate exposure characteristically produces reflex bradycardia.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+   *C. A is true, but R is false
+    D. A is false, but R is true
+   key=C ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antianginal Drugs
+   concept: The assertion is true: continuous nitrate exposure causes tolerance (tachyphylaxis) with loss of anti-anginal efficacy, so a daily nitrate-free interval of 8-12 hours is deliberately built into dosing to restore responsiveness. The reason is false: uninterrupted nitrates cause tolerance, not reflex bradycardia, and nitrates in fact tend to produce reflex TACHYCARDIA (from baroreceptor-mediated sympathetic activation), not bradycardia. Thus A is true but R is false (option C). Proposed tolerance mechanisms include depletion of tissue thiols and increased oxidative stress reducing NO generation.
+Q_GEN_PHAR_CVS_HF_ARR_024 [H] Ranolazine relieves chronic stable angina mainly by:
+    A. Blocking L-type calcium channels and lowering blood pressure
+    B. Non-selective beta-blockade that slows the heart rate
+    C. Opening ATP-sensitive potassium channels
+   *D. Inhibiting the late inward sodium current, reducing calcium overload, with little effect on heart rate or blood pressure
+   key=D ref=Katzung, Basic & Clinical Pharmacology, 15th ed — Vasodilators and the Treatment of Angina Pectoris
+   concept: Ranolazine is a novel anti-anginal that inhibits the late inward sodium current in cardiac myocytes; reducing the sodium influx lessens sodium-dependent calcium overload, improving diastolic relaxation and myocardial oxygen efficiency without meaningfully lowering heart rate or blood pressure. This makes it useful as add-on therapy when nitrates, beta-blockers or calcium blockers are insufficient or not tolerated, and its haemodynamic neutrality distinguishes it from options A and B. It does not open K-ATP channels (C, the nicorandil action). It can prolong the QT interval and is metabolised by CYP3A4, so drug interactions matter.
+Q_GEN_PHAR_CVS_HF_ARR_025 [H] Nicorandil, used in angina, produces coronary and systemic vasodilation through a dual mechanism of:
+   *A. ATP-sensitive potassium (K-ATP) channel opening plus nitrate-like nitric oxide donation
+    B. Late sodium current inhibition plus beta-adrenergic blockade
+    C. L-type calcium channel blockade plus alpha-1 adrenergic agonism
+    D. Neprilysin inhibition plus angiotensin AT1 receptor blockade
+   key=A ref=KD Tripathi, Essentials of Medical Pharmacology, 8th ed — Antianginal Drugs
+   concept: Nicorandil has a dual action: it opens ATP-sensitive potassium channels in vascular smooth muscle (hyperpolarising the membrane, closing calcium channels and causing arteriolar dilation that reduces afterload) and it also acts as a nitric oxide donor (nitrate-like), causing venodilation that reduces preload; together these dilate coronary vessels and relieve angina. It does not inhibit late sodium current (that is ranolazine, B), block calcium channels (C), or inhibit neprilysin (D, an ARNI action). The K-ATP opening also confers a degree of ischaemic preconditioning; headache is a common adverse effect.
+Q_c1_036 [M] A patient on long-term amiodarone for a ventricular arrhythmia needs periodic monitoring for toxicity of which TWO organs most characteristically affected?
+   *A. Thyroid and lung
+    B. Kidney and pancreas
+    C. Adrenal and bone marrow
+    D. Spleen and skin
+   key=A ref=KD Tripathi 8e, Ch. Antiarrhythmic Drugs
+   concept: Amiodarone (iodine-rich, class III) characteristically causes thyroid dysfunction (hypo- or hyper-) and pulmonary fibrosis; other effects include hepatotoxicity, corneal microdeposits, and blue-grey skin. Thyroid and lung function are monitored.
+
+=== Pharmacology / Insulin/OHAs, thyroid, corticosteroids
+Q_GEN_PHAR_ENDO_001 [E] Which of the following insulin preparations has the most rapid onset of action (approximately 5-15 minutes) after subcutaneous injection, making it suitable for dosing immediately before or after a meal?
+   *A. Insulin lispro
+    B. NPH insulin
+    C. Insulin glargine
+    D. Regular (soluble) insulin
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Insulin & Oral Hypoglycaemic Drugs; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Insulin lispro is a rapid-acting analogue (like aspart and glulisine) with onset in 5-15 minutes, peak at 30-90 minutes and duration of 3-5 hours, allowing mealtime dosing that closely mimics prandial insulin. Regular insulin is short-acting but slower (onset 30-60 minutes), needing dosing 30 minutes pre-meal. NPH is intermediate-acting and glargine is long-acting basal, both unsuitable for rapid postprandial cover.
+Q_GEN_PHAR_ENDO_002 [M] A long-acting insulin analogue that forms microprecipitates at physiological subcutaneous pH, giving a relatively peakless basal action lasting about 24 hours, is:
+    A. Insulin aspart
+    B. NPH insulin
+   *C. Insulin glargine
+    D. Regular insulin
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Insulin & Oral Hypoglycaemic Drugs; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Insulin glargine is soluble at acidic pH (pH 4) but precipitates when injected into the neutral subcutaneous tissue; slow redissolution gives a flat, peakless profile over roughly 24 hours, ideal as once-daily basal insulin. Detemir prolongs action by albumin binding and degludec by multihexamer formation. NPH is only intermediate-acting with a distinct peak, and aspart/regular are prandial insulins, not basal.
+Q_GEN_PHAR_ENDO_003 [H] A 22-year-old with type 1 diabetes on bedtime NPH insulin has persistent fasting morning hyperglycaemia. A 3 a.m. capillary blood glucose is 45 mg/dL. What is the most appropriate next step?
+    A. Increase the bedtime NPH dose
+   *B. Decrease the bedtime NPH dose
+    C. Add morning regular insulin
+    D. Start an SGLT2 inhibitor
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Insulin; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: The low 3 a.m. glucose indicates the Somogyi effect: nocturnal hypoglycaemia triggers counter-regulatory hormones (glucagon, cortisol, GH, catecholamines) causing rebound morning hyperglycaemia. The correct response is to reduce the evening insulin or add a bedtime snack. Increasing insulin would worsen the nocturnal hypoglycaemia. This contrasts with the dawn phenomenon (early-morning glucose rise without hypoglycaemia), where increasing basal insulin is appropriate.
+Q_GEN_PHAR_ENDO_004 [E] The most common acute adverse effect encountered during insulin therapy is:
+    A. Weight loss
+    B. Lactic acidosis
+    C. Acute pancreatitis
+   *D. Hypoglycaemia
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Insulin; Goodman & Gilman's The Pharmacological Basis of Therapeutics — Endocrine Pancreas
+   concept: Hypoglycaemia is by far the commonest and most dangerous acute complication of insulin, arising from excess dose, missed meals or exertion, and presenting with sweating, tremor, palpitation, confusion or coma. Insulin actually causes weight gain, not loss. Lactic acidosis is linked to metformin, and pancreatitis to incretin-based drugs (GLP-1 agonists/DPP-4 inhibitors), not insulin. Lipodystrophy at injection sites is another local adverse effect.
+Q_GEN_PHAR_ENDO_005 [M] In the management of diabetic ketoacidosis, which insulin preparation is administered as a continuous intravenous infusion?
+    A. Insulin glargine
+    B. NPH insulin
+   *C. Regular (soluble) insulin
+    D. Insulin degludec
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Insulin (DKA management); Harrison's Principles of Internal Medicine — Diabetic Ketoacidosis
+   concept: Only regular (soluble) insulin can be given intravenously because it exists as free monomers/dimers that act immediately; a low-dose continuous IV infusion is the standard for DKA, alongside fluids and potassium correction. Rapid-acting analogues can also be given IV but regular insulin is the traditional and most widely used choice. NPH, glargine and degludec are suspensions or depot analogues meant only for subcutaneous use and must never be injected IV.
+Q_GEN_PHAR_ENDO_006 [E] Sulfonylureas such as glimepiride and glibenclamide lower blood glucose primarily by:
+   *A. Closing ATP-sensitive potassium channels on pancreatic beta cells to stimulate insulin secretion
+    B. Inhibiting hepatic gluconeogenesis
+    C. Blocking renal tubular glucose reabsorption
+    D. Inhibiting intestinal alpha-glucosidase
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Oral Hypoglycaemic Drugs; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Sulfonylureas bind the SUR1 subunit and close ATP-sensitive K+ channels on beta cells; the resulting membrane depolarisation opens voltage-gated Ca2+ channels, and Ca2+ influx triggers insulin exocytosis. They are therefore insulin secretagogues and require functioning beta cells. Inhibiting hepatic gluconeogenesis describes metformin, blocking renal glucose reabsorption describes SGLT2 inhibitors, and inhibiting alpha-glucosidase describes acarbose.
+Q_GEN_PHAR_ENDO_007 [M] Empagliflozin, a newer oral antidiabetic drug, lowers plasma glucose by:
+    A. Enhancing glucose-dependent insulin secretion via incretins
+   *B. Inhibiting sodium-glucose cotransporter-2 in the proximal renal tubule, producing glycosuria
+    C. Activating peroxisome proliferator-activated receptor-gamma
+    D. Inhibiting dipeptidyl peptidase-4
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Oral Hypoglycaemic Drugs (SGLT2 inhibitors); Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Empagliflozin blocks SGLT2 in the S1 segment of the proximal convoluted tubule, reducing glucose reabsorption and causing glucosuria that lowers plasma glucose independent of insulin. This class also produces weight loss, mild blood-pressure reduction and proven cardiovascular and renal protection. Enhancing incretin action describes DPP-4 inhibitors, PPAR-gamma activation describes thiazolidinediones, and DPP-4 inhibition describes gliptins.
+Q_GEN_PHAR_ENDO_008 [H] A type 2 diabetic taking dapagliflozin presents with vomiting, high-anion-gap metabolic acidosis and ketonaemia, but the blood glucose is only 190 mg/dL. The most likely diagnosis is:
+    A. Lactic acidosis
+    B. Hyperosmolar hyperglycaemic state
+    C. Salicylate poisoning
+   *D. Euglycaemic diabetic ketoacidosis
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — SGLT2 inhibitors; Goodman & Gilman's The Pharmacological Basis of Therapeutics — Endocrine Pancreas
+   concept: SGLT2 inhibitors can precipitate euglycaemic DKA, where ketoacidosis develops with near-normal or only modestly raised glucose (often below 250 mg/dL), because urinary glucose loss lowers blood glucose while promoting lipolysis and ketogenesis; the near-normal glucose can delay diagnosis. HHS by definition has very high glucose without significant ketosis, lactic acidosis relates to metformin, and salicylate poisoning gives a mixed respiratory alkalosis with metabolic acidosis, not diabetic ketonaemia. Genital mycotic infection is another SGLT2 adverse effect.
+Q_GEN_PHAR_ENDO_009 [M] Which of the following antidiabetic agents is a glucagon-like peptide-1 (GLP-1) receptor agonist that characteristically produces marked weight loss and demonstrated cardiovascular benefit?
+    A. Sitagliptin
+   *B. Semaglutide
+    C. Glimepiride
+    D. Pioglitazone
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Incretin-based therapies; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Semaglutide (and liraglutide) are injectable GLP-1 receptor agonists that enhance glucose-dependent insulin secretion, suppress glucagon, slow gastric emptying and reduce appetite, producing substantial weight loss and proven cardiovascular risk reduction; the main adverse effects are nausea and vomiting. Sitagliptin (a DPP-4 inhibitor) is weight-neutral, while glimepiride (sulfonylurea) and pioglitazone (thiazolidinedione) both cause weight gain.
+Q_GEN_PHAR_ENDO_010 [M] Sitagliptin improves glycaemic control in type 2 diabetes by:
+   *A. Inhibiting dipeptidyl peptidase-4, thereby raising endogenous incretin (GLP-1 and GIP) levels
+    B. Directly agonising the GLP-1 receptor
+    C. Closing beta-cell ATP-sensitive potassium channels
+    D. Inhibiting SGLT2 in the kidney
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Incretin-based therapies (DPP-4 inhibitors); Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Sitagliptin and other gliptins inhibit dipeptidyl peptidase-4, the enzyme that degrades incretins, so endogenous GLP-1 and GIP levels rise and enhance glucose-dependent insulin secretion while suppressing glucagon. They are oral, weight-neutral and carry low hypoglycaemia risk. Directly agonising the GLP-1 receptor describes semaglutide/liraglutide, closing K-ATP channels describes sulfonylureas, and inhibiting SGLT2 describes gliflozins.
+Q_GEN_PHAR_ENDO_011 [H] Assertion (A): Pioglitazone should be avoided in patients with NYHA class III-IV heart failure. Reason (R): Pioglitazone, a PPAR-gamma agonist, promotes renal sodium and water retention, causing peripheral oedema and plasma volume expansion. Choose the correct option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Thiazolidinediones; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Pioglitazone activates PPAR-gamma, increasing distal tubular sodium and water reabsorption; the resulting fluid retention and plasma volume expansion cause oedema and can precipitate or worsen congestive heart failure, so it is contraindicated in NYHA class III-IV failure. The reason directly explains the assertion, making A the answer. Other thiazolidinedione adverse effects include weight gain, increased fracture risk and possible bladder cancer risk.
+Q_GEN_PHAR_ENDO_012 [M] Acarbose reduces postprandial hyperglycaemia by inhibiting intestinal alpha-glucosidase. Its most common adverse effect is:
+    A. Hypoglycaemia
+    B. Weight gain
+   *C. Flatulence, abdominal cramps and diarrhoea
+    D. Lactic acidosis
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Alpha-glucosidase inhibitors; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Acarbose competitively inhibits intestinal brush-border alpha-glucosidase, delaying carbohydrate digestion and absorption; unabsorbed carbohydrate is fermented by colonic bacteria, so flatulence, bloating, cramps and diarrhoea are the dominant dose-limiting side effects. It does not cause hypoglycaemia when used alone, but if hypoglycaemia occurs with a sulfonylurea/insulin it must be treated with glucose (not sucrose), since sucrose splitting is blocked. It is weight-neutral, and lactic acidosis is a metformin effect.
+Q_GEN_PHAR_ENDO_013 [H] A patient with irregular meal timing needs a rapid-onset, short-acting insulin secretagogue taken just before each meal to blunt postprandial glucose spikes while minimising the risk of hypoglycaemia between meals. The most appropriate drug is:
+    A. Glimepiride
+    B. Metformin
+    C. Pioglitazone
+   *D. Repaglinide
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Meglitinide analogues; Katzung Basic & Clinical Pharmacology — Pancreatic Hormones
+   concept: Repaglinide is a meglitinide (glinide) insulin secretagogue that, like sulfonylureas, closes beta-cell K-ATP channels but at a distinct binding site, giving a fast onset and short duration; it is taken before each meal and skipped if the meal is skipped, which suits erratic eating and limits inter-meal hypoglycaemia. Glimepiride is a long-acting sulfonylurea with higher sustained hypoglycaemia risk, while metformin and pioglitazone are not insulin secretagogues and do not target postprandial peaks in this manner.
+Q_GEN_PHAR_ENDO_014 [M] Long-term metformin therapy is associated with malabsorption of which vitamin, potentially leading to megaloblastic anaemia and worsening peripheral neuropathy?
+   *A. Vitamin B12 (cobalamin)
+    B. Vitamin C
+    C. Vitamin D
+    D. Vitamin K
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Biguanides (Metformin); Goodman & Gilman's The Pharmacological Basis of Therapeutics — Endocrine Pancreas
+   concept: Metformin interferes with calcium-dependent vitamin B12 absorption in the terminal ileum, so prolonged use can cause B12 deficiency with megaloblastic anaemia and aggravation of diabetic peripheral neuropathy; periodic B12 monitoring is advised in long-term users. This is a distinct adverse effect from its well-known metabolic complication. Vitamin C, D and K malabsorption are not features of metformin therapy.
+Q_GEN_PHAR_ENDO_015 [E] The drug of choice for long-term replacement therapy in hypothyroidism is:
+    A. Liothyronine (T3)
+   *B. Levothyroxine (T4)
+    C. Carbimazole
+    D. Propylthiouracil
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Thyroid Hormones and Antithyroid Drugs; Katzung Basic & Clinical Pharmacology — Thyroid & Antithyroid Drugs
+   concept: Levothyroxine (synthetic T4) is the drug of choice for hypothyroidism because it has a long half-life (about 7 days) allowing stable once-daily dosing, and is peripherally converted to the active T3 at physiologically regulated rates, giving smooth, steady hormone levels. Liothyronine (T3) has a short half-life and causes fluctuating levels, reserved for special situations like myxoedema coma. Carbimazole and propylthiouracil are antithyroid drugs used in hyperthyroidism, not replacement.
+Q_GEN_PHAR_ENDO_016 [M] A woman in the first trimester of pregnancy develops Graves' hyperthyroidism requiring drug therapy. The preferred antithyroid agent during this period is:
+    A. Carbimazole
+    B. Methimazole
+    C. Radioactive iodine (131-I)
+   *D. Propylthiouracil
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Antithyroid Drugs; Katzung Basic & Clinical Pharmacology — Thyroid & Antithyroid Drugs
+   concept: Propylthiouracil is preferred in the first trimester because methimazole/carbimazole are associated with teratogenic effects such as aplasia cutis, choanal and oesophageal atresia (methimazole embryopathy). Because PTU carries a higher risk of hepatotoxicity, guidelines switch back to methimazole/carbimazole in the second and third trimesters. Radioactive iodine is absolutely contraindicated in pregnancy as it crosses the placenta and ablates the foetal thyroid.
+Q_GEN_PHAR_ENDO_017 [M] Carbimazole and methimazole inhibit thyroid hormone synthesis mainly by:
+   *A. Inhibiting thyroid peroxidase, thereby blocking iodide organification and iodotyrosine coupling
+    B. Blocking peripheral conversion of T4 to T3
+    C. Emitting radiation that destroys thyroid follicular cells
+    D. Competitively inhibiting the sodium-iodide symporter
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Antithyroid Drugs; Goodman & Gilman's The Pharmacological Basis of Therapeutics — Thyroid and Antithyroid Drugs
+   concept: The thionamides carbimazole (a prodrug converted to methimazole) and methimazole inhibit thyroid peroxidase, blocking oxidation and organification of iodide and the coupling of iodotyrosines (MIT and DIT) to form T3 and T4, thereby reducing new hormone synthesis without affecting release of stored hormone (hence a delayed clinical effect). Only propylthiouracil additionally blocks peripheral T4-to-T3 conversion. Radiation destruction describes 131-I, and symporter inhibition describes perchlorate/thiocyanate.
+Q_GEN_PHAR_ENDO_018 [H] A patient who started carbimazole two weeks ago presents with high fever and severe sore throat. The most important life-threatening adverse effect that must be urgently excluded is:
+    A. Hepatotoxicity
+    B. Aplastic anaemia
+    C. Cholestatic jaundice
+   *D. Agranulocytosis
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Antithyroid Drugs (adverse effects); Katzung Basic & Clinical Pharmacology — Thyroid & Antithyroid Drugs
+   concept: Agranulocytosis is the most serious, though rare, idiosyncratic adverse effect of thionamides; it usually appears within the first 2-3 months and presents with fever and sore throat. Any such patient must stop the drug immediately and have an urgent white cell count. Patients are counselled to report fever/sore throat promptly. Hepatotoxicity is more typical of propylthiouracil, and aplastic anaemia and cholestatic jaundice are far less characteristic than the abrupt neutropenia of agranulocytosis.
+Q_GEN_PHAR_ENDO_019 [M] Assertion (A): Propranolol is a useful adjunct in the management of thyroid storm. Reason (R): Propranolol acts by inhibiting thyroid peroxidase and thereby blocking new thyroid hormone synthesis. Choose the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Thyroid storm management; Katzung Basic & Clinical Pharmacology — Thyroid & Antithyroid Drugs
+   concept: The assertion is true: propranolol rapidly controls the adrenergic features of thyroid storm (tachycardia, tremor, anxiety) and, at high doses, also inhibits peripheral conversion of T4 to the more active T3. The reason is false because propranolol does not touch thyroid peroxidase; blocking peroxidase and hormone synthesis is the action of the thionamides (carbimazole, methimazole, propylthiouracil). Hence A is true but R is false, giving answer C.
+Q_GEN_PHAR_ENDO_020 [H] Lugol's iodine given for about 10 days before thyroidectomy in Graves' disease is beneficial chiefly because it:
+    A. Increases thyroid hormone release
+    B. Stimulates peripheral T4-to-T3 conversion
+   *C. Transiently inhibits hormone synthesis and release and reduces gland vascularity (Wolff-Chaikoff effect)
+    D. Permanently ablates the gland
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Iodine and Iodides (preoperative preparation); Katzung Basic & Clinical Pharmacology — Thyroid & Antithyroid Drugs
+   concept: High-dose iodide (Lugol's solution) acutely inhibits its own organification and hormone release and reduces thyroid size and vascularity via the Wolff-Chaikoff effect, making the gland firm and less vascular for safer surgery. The effect is transient, with escape after 10-14 days, so preoperative use is short-term. Iodide does not increase hormone release long-term, does not promote T4-to-T3 conversion, and unlike radioactive iodine does not ablate the gland.
+Q_GEN_PHAR_ENDO_021 [M] Radioactive iodine (131-I) used to treat hyperthyroidism produces its therapeutic effect by:
+    A. Inhibiting thyroid peroxidase
+    B. Blocking peripheral T4-to-T3 conversion
+    C. Competitively inhibiting iodide uptake at the symporter
+   *D. Emitting beta particles that destroy thyroid follicular cells
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Radioactive Iodine; Katzung Basic & Clinical Pharmacology — Thyroid & Antithyroid Drugs
+   concept: 131-I is concentrated in the thyroid via the sodium-iodide symporter and emits beta particles that penetrate only 0.5-2 mm, selectively destroying follicular cells over weeks with little damage to surrounding tissue; hypothyroidism is a common late outcome requiring levothyroxine. It is contraindicated in pregnancy and lactation. Peroxidase inhibition describes thionamides, T4-to-T3 block describes propranolol/PTU, and symporter competition describes perchlorate.
+Q_GEN_PHAR_ENDO_022 [H] Which corticosteroid possesses the highest anti-inflammatory (glucocorticoid) potency together with negligible mineralocorticoid (salt-retaining) activity?
+    A. Hydrocortisone
+    B. Prednisolone
+   *C. Dexamethasone
+    D. Fludrocortisone
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Corticosteroids (relative potencies); Katzung Basic & Clinical Pharmacology — Adrenocorticosteroids
+   concept: Dexamethasone (and betamethasone) have the highest glucocorticoid/anti-inflammatory potency (about 25-30 times hydrocortisone) with essentially no mineralocorticoid activity, making them ideal when fluid retention must be avoided (e.g. cerebral oedema). Hydrocortisone has equal glucocorticoid and mineralocorticoid activity, prednisolone is intermediate (about 4 times) with slight salt retention, and fludrocortisone is a potent mineralocorticoid used for its salt-retaining, not anti-inflammatory, action.
+Q_GEN_PHAR_ENDO_023 [M] The anti-inflammatory action of glucocorticoids is mediated chiefly by:
+    A. Directly and irreversibly inhibiting cyclo-oxygenase
+   *B. Inducing annexin-1 (lipocortin-1), which inhibits phospholipase A2 and reduces prostaglandin and leukotriene synthesis
+    C. Antagonising histamine H1 receptors
+    D. Blocking cysteinyl-leukotriene receptors
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Corticosteroids (mechanism); Goodman & Gilman's The Pharmacological Basis of Therapeutics — ACTH and Adrenal Steroids
+   concept: Glucocorticoids bind cytoplasmic glucocorticoid receptors that translocate to the nucleus and alter gene transcription; a key effect is induction of annexin-1 (lipocortin-1), which inhibits phospholipase A2, cutting the release of arachidonic acid and hence both prostaglandins and leukotrienes. They also suppress COX-2 induction and pro-inflammatory cytokines. Irreversible COX inhibition describes aspirin, H1 blockade describes antihistamines, and leukotriene-receptor blockade describes montelukast.
+Q_GEN_PHAR_ENDO_024 [E] Assertion (A): Long-term high-dose glucocorticoid therapy must be tapered gradually rather than stopped abruptly. Reason (R): Chronic glucocorticoid use causes osteoporosis. Choose the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+   *B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Corticosteroids (HPA suppression, withdrawal); Katzung Basic & Clinical Pharmacology — Adrenocorticosteroids
+   concept: Both statements are individually true, but osteoporosis is not the reason for tapering. Chronic glucocorticoids suppress the hypothalamic-pituitary-adrenal axis and cause adrenal atrophy; abrupt withdrawal can therefore precipitate an acute adrenal (addisonian) crisis, which is why the dose is tapered to allow HPA recovery. Osteoporosis is a genuine adverse effect but unrelated to the withdrawal risk, so R does not explain A, giving answer B.
+Q_GEN_PHAR_ENDO_025 [H] Which agent used in Cushing syndrome acts as a competitive antagonist at the glucocorticoid receptor (and is also a progesterone-receptor antagonist)?
+    A. Metyrapone
+    B. Ketoconazole
+    C. Fludrocortisone
+   *D. Mifepristone
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology, 8th ed — Corticosteroid antagonists/inhibitors; Katzung Basic & Clinical Pharmacology — Adrenocorticosteroids & Antagonists
+   concept: Mifepristone (RU-486) is a competitive antagonist at the glucocorticoid receptor (and the progesterone receptor), and is used to control hyperglycaemia in inoperable Cushing syndrome. It differs from steroidogenesis inhibitors: metyrapone blocks 11-beta-hydroxylase (the final step of cortisol synthesis) and ketoconazole inhibits several cytochrome-P450 steroidogenic enzymes to lower cortisol. Fludrocortisone is a mineralocorticoid agonist, not a cortisol antagonist.
+Q_PYQ_INICET_2025MAY_026 [M] Which of the following are recognized side effects of topical corticosteroid use?
+   *A. Hypertrichosis
+    B. Acneiform eruptions
+    C. Skin atrophy
+    D. Blue pigmentation of the skin
+   key=A ref=INI-CET May 2025 (real exam recall)
+   concept: Recognised adverse effects of topical corticosteroids include skin atrophy, striae, telangiectasia, hypertrichosis and acneiform eruptions; blue-grey pigmentation is not typical (that points to minocycline/amiodarone). NOTE: as worded (which ARE recognised side effects), options A, B and C are ALL correct and only D is not; the scraped single answer A is correct but not unique - likely a multiple-response item - so flagged.
+
+=== Pharmacology / Pharmacokinetics/dynamics, receptors
+Q_GEN_PHAR_GEN_PKPD_001 [M] A patient presents with severe salicylate (aspirin, a weak acid, pKa ~3.5) poisoning. Which measure best enhances renal elimination of the drug?
+    A. Acidification of urine with ammonium chloride
+   *B. Alkalinisation of urine with intravenous sodium bicarbonate
+    C. Restricting fluids to concentrate the urine
+    D. Giving repeated doses of oral activated charcoal
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology — General Pharmacology / Pharmacokinetics
+   concept: By the pH-partition principle, a weak acid (HA <-> H+ + A-) becomes more ionised in alkaline urine. Sodium bicarbonate raises urine pH, so aspirin exists mainly as the ionised A- form which cannot be reabsorbed across the tubule and is 'ion-trapped' and excreted. Acidifying urine would favour excretion of weak BASES, not acids; fluid restriction reduces clearance; activated charcoal acts in the gut, not the kidney.
+Q_GEN_PHAR_GEN_PKPD_002 [E] Assertion (A): A drug with an apparent volume of distribution (Vd) of 500 L in a 70 kg adult is extensively distributed into and bound by tissues. Reason (R): The apparent Vd of a drug can never exceed the volume of total body water.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology — Distribution / Volume of Distribution
+   concept: Apparent Vd = Dose / plasma concentration; it is a proportionality constant, not a real anatomical volume. A value (500 L) far exceeding total body water (~42 L) means the drug is largely sequestered in tissues so little remains in plasma (e.g. digoxin ~500 L, chloroquine even more). Thus A is TRUE. R is FALSE because Vd frequently exceeds total body water for highly tissue-bound drugs; it is not capped at 42 L.
+Q_GEN_PHAR_GEN_PKPD_003 [M] A patient stable on warfarin develops bleeding after a sulphonamide is added. The most likely pharmacokinetic mechanism is:
+    A. Sulphonamide reduces warfarin absorption from the gut
+   *B. Sulphonamide displaces warfarin from plasma albumin, raising free (active) warfarin
+    C. Sulphonamide induces hepatic metabolism of warfarin
+    D. Sulphonamide increases renal clearance of warfarin
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology — Plasma Protein Binding / Drug Interactions
+   concept: Warfarin is ~99% bound to plasma albumin; only the free fraction is pharmacologically active. Sulphonamides are also highly albumin-bound acidic drugs and competitively DISPLACE warfarin from binding sites, transiently raising free warfarin and precipitating bleeding (a protein-binding drug interaction). Options A, C and D would each LOWER, not raise, the anticoagulant effect, so they cannot explain the bleeding.
+Q_GEN_PHAR_GEN_PKPD_004 [M] A drug is given as a 400 mg intravenous bolus. The plasma concentration extrapolated back to time zero (C0) is 20 mg/L. What is the apparent volume of distribution?
+    A. 5 L
+   *B. 20 L
+    C. 80 L
+    D. 8000 L
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology — Pharmacokinetic Calculations / Volume of Distribution
+   concept: Apparent Vd = Dose / C0. Here Vd = 400 mg / 20 mg/L = 20 L. Dividing amount (mg) by concentration (mg/L) correctly yields litres. 5 L (=100/20) and 80 L are arithmetic errors; 8000 L results from multiplying (400x20) instead of dividing. A 20 L Vd is roughly total body water, indicating distribution beyond plasma into interstitial and intracellular fluid.
+Q_GEN_PHAR_GEN_PKPD_005 [H] A drug has an apparent volume of distribution of 40 L and an elimination rate constant (kel) of 0.15 per hour. What is its total body clearance?
+    A. 0.15 L/hr
+    B. 2.67 L/hr
+   *C. 6 L/hr
+    D. 267 L/hr
+   key=C ref=Katzung Basic & Clinical Pharmacology — Pharmacokinetics (Clearance)
+   concept: Clearance = kel x Vd = 0.15/hr x 40 L = 6 L/hr. Clearance is the volume of plasma cleared of drug per unit time and links the first-order rate constant to the distribution volume. 2.67 L/hr wrongly divides Vd by kel; 267 L/hr wrongly divides kel into Vd (40/0.15); 0.15 L/hr confuses the rate constant with clearance. The correct product gives 6 L/hr.
+Q_GEN_PHAR_GEN_PKPD_006 [H] A drug has a volume of distribution of 30 L and a total clearance of 6 L/hr. What is its elimination half-life?
+    A. 0.7 hr
+    B. 5 hr
+    C. 6.9 hr
+   *D. 3.5 hr
+   key=D ref=Katzung Basic & Clinical Pharmacology — Pharmacokinetics (Half-life)
+   concept: Half-life t1/2 = 0.693 x Vd / CL = 0.693 x (30/6) = 0.693 x 5 = 3.465, i.e. about 3.5 hr. The kel is CL/Vd = 6/30 = 0.2/hr, and 0.693/0.2 = 3.46 hr confirms the answer. 5 hr omits the 0.693 factor; 0.7 hr uses 0.693 alone; 6.9 hr mistakenly multiplies 0.693 by 10. Correct half-life is ~3.5 hr.
+Q_GEN_PHAR_GEN_PKPD_007 [M] A drug (bioavailability F = 1, given IV) has a clearance of 3 L/hr. To maintain a target steady-state concentration of 4 mg/L with a dosing interval of 6 hours, what maintenance dose should be given each interval?
+   *A. 72 mg
+    B. 12 mg
+    C. 24 mg
+    D. 0.5 mg
+   key=A ref=Katzung Basic & Clinical Pharmacology — Maintenance Dosing
+   concept: Maintenance dose per interval = CL x Css x tau / F = 3 L/hr x 4 mg/L x 6 hr / 1 = 72 mg every 6 hours. Dimensionally (L/hr)(mg/L)(hr) = mg. 12 mg is the hourly infusion RATE (CL x Css) but not the per-interval dose; 24 mg and 0.5 mg are arithmetic errors. At steady state the amount administered per interval must replace the amount cleared, giving 72 mg.
+Q_GEN_PHAR_GEN_PKPD_008 [M] A drug with an elimination half-life of 12 hours is started on a fixed maintenance regimen without a loading dose. Approximately how long will it take to reach steady-state (plateau) plasma concentration?
+    A. 12 hours
+    B. 24 hours
+   *C. About 2 to 2.5 days (4-5 half-lives)
+    D. About 2 weeks
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology — Kinetics of Repeated Dosing / Plateau Principle
+   concept: Steady state is reached in about 4-5 half-lives regardless of dose or dosing rate: 4 x 12 = 48 hr (~94%) and 5 x 12 = 60 hr (~97%), i.e. roughly 2-2.5 days. One half-life (12 hr) gives only 50% and two (24 hr) only 75% of plateau, so those are too early; 2 weeks is far beyond plateau. Only a loading dose speeds attainment of the target level; the time to plateau itself depends solely on t1/2.
+Q_GEN_PHAR_GEN_PKPD_009 [E] Assertion (A): A small increase in the dose of phenytoin can cause a disproportionately large rise in its plasma concentration. Reason (R): At therapeutic doses phenytoin is eliminated by zero-order (capacity-limited/saturation) kinetics.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology — Order of Reaction / Non-linear Kinetics
+   concept: Phenytoin's metabolising enzymes saturate within the therapeutic range, so elimination shifts from first-order to ZERO-order (a constant amount, not a constant fraction, is removed per unit time). Once saturated, further dose increments are cleared no faster, so plasma levels climb steeply and unpredictably, risking toxicity (nystagmus, ataxia). Thus both statements are true AND the zero-order (saturation) kinetics is precisely why small dose rises cause large level rises, making R the correct explanation of A.
+Q_GEN_PHAR_GEN_PKPD_010 [E] Glyceryl trinitrate (nitroglycerin) is administered sublingually rather than orally for an acute angina attack chiefly because the sublingual route:
+    A. Provides a slow, sustained release of the drug
+   *B. Avoids extensive hepatic first-pass metabolism, allowing rapid systemic effect
+    C. Protects the drug from destruction by gastric acid only
+    D. Increases plasma protein binding of the drug
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology — Routes of Administration / First-pass Metabolism
+   concept: Drug absorbed from the sublingual mucosa drains into the superior vena cava and enters the systemic circulation directly, BYPASSING the portal vein and hepatic first-pass metabolism. Orally swallowed nitroglycerin is almost completely inactivated on first pass through the liver, giving very low bioavailability. The sublingual route therefore gives a rapid onset (1-2 min), ideal for acute angina; it is not a slow-release route and does not act by altering protein binding.
+Q_GEN_PHAR_GEN_PKPD_011 [M] A woman on combined oral contraceptive pills is started on rifampicin for tuberculosis and later has an unintended pregnancy. The most likely mechanism of contraceptive failure is:
+   *A. Rifampicin induces hepatic CYP450 enzymes, increasing metabolism of the contraceptive steroids
+    B. Rifampicin inhibits hepatic CYP450 enzymes, raising steroid levels
+    C. Rifampicin displaces the steroids from plasma proteins
+    D. Rifampicin reduces gastric emptying and steroid absorption
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology — Enzyme Induction / Drug Interactions
+   concept: Rifampicin is a potent INDUCER of hepatic microsomal CYP450 enzymes (and P-glycoprotein). Enzyme induction accelerates the metabolism of oestrogen and progestin, lowering their plasma levels below the contraceptive threshold and causing failure. Induction is a slow process (days to weeks) as new enzyme protein is synthesised. An inhibitor (option B) would RAISE steroid levels; displacement and reduced absorption are not the recognised mechanism here.
+Q_GEN_PHAR_GEN_PKPD_012 [M] Which of the following drugs INHIBITS hepatic microsomal enzymes and can raise plasma levels of co-administered drugs?
+    A. Rifampicin
+    B. Phenobarbitone
+   *C. Erythromycin
+    D. Carbamazepine
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology — Enzyme Inhibition / Drug Interactions
+   concept: Erythromycin (like clarithromycin, cimetidine, ketoconazole, ciprofloxacin and grapefruit juice) is a CYP450 INHIBITOR; it slows metabolism of substrates, raising their plasma levels and risking toxicity (e.g. with theophylline or warfarin). Rifampicin, phenobarbitone and carbamazepine are classic enzyme INDUCERS that instead accelerate metabolism and LOWER co-drug levels, so they are the opposite of what the question asks.
+Q_GEN_PHAR_GEN_PKPD_013 [M] Which of the following is a prodrug that is pharmacologically inactive until converted to its active form in the body?
+   *A. Enalapril
+    B. Atenolol
+    C. Captopril
+    D. Propranolol
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology — Biotransformation / Prodrugs
+   concept: Enalapril is an ester prodrug that is hydrolysed by hepatic esterases to the active ACE inhibitor enalaprilat, which is itself poorly absorbed orally. Captopril, by contrast, is an intrinsically active ACE inhibitor (needs no activation). Atenolol and propranolol are active beta-blockers given as such. Other classic prodrugs include levodopa, codeine, sulfasalazine, prednisone and valacyclovir; recognising activation-requiring agents is key to dosing and onset.
+Q_GEN_PHAR_GEN_PKPD_014 [H] A young patient remains apnoeic and paralysed for several hours after a single dose of succinylcholine given for a routine procedure. The most likely underlying cause is:
+    A. CYP2D6 poor-metaboliser genotype
+    B. Glucose-6-phosphate dehydrogenase (G6PD) deficiency
+    C. Slow acetylator (NAT2) status
+   *D. Deficient or atypical plasma pseudocholinesterase (butyrylcholinesterase)
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology — Pharmacogenetics / Genetic Variation in Drug Response
+   concept: Succinylcholine is normally hydrolysed rapidly by plasma pseudocholinesterase (butyrylcholinesterase), giving a brief action (~5 min). In patients with genetically deficient or atypical pseudocholinesterase the drug is degraded slowly, producing prolonged neuromuscular blockade and apnoea ('scoline apnoea') - a classic pharmacogenetic reaction. CYP2D6 handles many oral drugs (not scoline), G6PD deficiency causes oxidant haemolysis, and slow NAT2 acetylation affects isoniazid/hydralazine, none of which explain this presentation.
+Q_GEN_PHAR_GEN_PKPD_015 [E] Which of the following biotransformation reactions is a Phase II (conjugation) reaction?
+    A. Aromatic hydroxylation
+    B. N-dealkylation
+    C. Nitro reduction
+   *D. Glucuronidation
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology — Metabolism (Phase I vs Phase II)
+   concept: Phase II reactions are synthetic CONJUGATIONS in which an endogenous group is attached to the drug or its Phase I metabolite, usually yielding a more water-soluble, readily excreted product; glucuronidation is the commonest, along with sulfation, acetylation, methylation, glycine and glutathione conjugation. Aromatic hydroxylation and N-dealkylation are Phase I OXIDATIONS (CYP450), and nitro reduction is a Phase I reduction, so all three are Phase I, not Phase II.
+Q_GEN_PHAR_GEN_PKPD_016 [H] A broad-spectrum antibiotic reduces the efficacy of oral oestrogen-containing contraceptives even though the antibiotic is not an enzyme inducer. The best explanation is that the antibiotic:
+    A. Displaces oestrogen from plasma albumin
+   *B. Disrupts gut flora, interrupting the enterohepatic circulation of oestrogen
+    C. Chelates the oestrogen in the stomach
+    D. Increases glomerular filtration of oestrogen
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology — Excretion / Enterohepatic Circulation
+   concept: Oestrogens are conjugated (glucuronidated/sulfated) in the liver and excreted in bile; gut bacteria then DECONJUGATE them in the intestine so that free oestrogen is reabsorbed - the enterohepatic circulation, which sustains plasma levels. A broad-spectrum antibiotic kills these bacteria, so less oestrogen is reabsorbed and more is lost in faeces, lowering levels and risking contraceptive failure. This is distinct from CYP induction (as with rifampicin); options A, C and D are not the recognised mechanism.
+Q_GEN_PHAR_GEN_PKPD_017 [E] Which of the following drugs most requires therapeutic drug monitoring (TDM) because of its narrow therapeutic index?
+    A. Amoxicillin
+   *B. Lithium
+    C. Paracetamol at therapeutic doses
+    D. Ranitidine
+   key=B ref=KD Tripathi Essentials of Medical Pharmacology — Therapeutic Drug Monitoring / Therapeutic Index
+   concept: Lithium has a very narrow therapeutic index (therapeutic range ~0.6-1.2 mEq/L, toxicity just above), so plasma levels must be monitored to avoid tremor, seizures and renal toxicity. Other narrow-TI drugs needing TDM include digoxin, phenytoin, theophylline, warfarin, aminoglycosides and cyclosporine. Amoxicillin, ranitidine and therapeutic-dose paracetamol have wide safety margins and are not routinely monitored, making lithium the clear answer.
+Q_GEN_PHAR_GEN_PKPD_018 [H] In an animal study a drug has a median lethal dose (LD50) of 300 mg/kg and a median effective dose (ED50) of 15 mg/kg. What is its therapeutic index?
+    A. 0.05
+    B. 5
+   *C. 20
+    D. 45
+   key=C ref=Katzung Basic & Clinical Pharmacology — Therapeutic Index / Quantal Dose-Response
+   concept: Therapeutic index = LD50 / ED50 = 300 / 15 = 20. A larger value denotes a wider margin of safety between the effective and lethal doses. 0.05 inverts the ratio (ED50/LD50); 5 and 45 are arithmetic errors. A more clinically conservative measure, the certain safety factor, uses LD1/ED99, but the classic therapeutic index here is simply 300/15 = 20.
+Q_GEN_PHAR_GEN_PKPD_019 [M] Two analgesics reach the SAME maximal pain relief, but drug A does so at 10 mg whereas drug B needs 100 mg. Assertion (A): The more potent drug is always the clinically superior analgesic. Reason (R): Potency reflects the dose needed for an effect (position on the dose axis / ED50), whereas efficacy is the maximal effect achievable.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology — Potency vs Efficacy / Dose-Response
+   concept: Drug A is more POTENT (lower dose/ED50) but both drugs have EQUAL EFFICACY because they reach the same maximal effect (Emax). Assertion is FALSE: greater potency merely means a smaller dose is needed and does not make a drug clinically superior - efficacy (maximal achievable benefit), safety and kinetics matter more; a small potency difference is handled simply by adjusting the dose. Reason is TRUE and correctly defines potency versus efficacy. Hence A false, R true.
+Q_GEN_PHAR_GEN_PKPD_020 [H] Which statement best describes an inverse agonist?
+   *A. It binds the receptor and produces an effect OPPOSITE to that of the agonist by reducing the receptor's constitutive (basal) activity
+    B. It binds the receptor but produces no effect of its own, only blocking the agonist
+    C. It binds and produces a submaximal effect, acting as an antagonist in the presence of a full agonist
+    D. It binds a site distinct from the agonist to enhance agonist binding
+   key=A ref=Katzung Basic & Clinical Pharmacology — Receptor Theory / Agonists and Antagonists
+   concept: An inverse agonist binds the same receptor as the agonist but stabilises the INACTIVE conformation, reducing the receptor's spontaneous (constitutive) basal activity and thus producing an effect opposite to the agonist (e.g. certain beta-carbolines at the GABA-A benzodiazepine site are anxiogenic/proconvulsant). Option B describes a pure (neutral) antagonist, option C a partial agonist, and option D a positive allosteric modulator - each distinct from an inverse agonist.
+Q_GEN_PHAR_GEN_PKPD_021 [M] Insulin produces its cellular effects primarily by acting on which type of receptor?
+    A. A G-protein coupled receptor linked to cAMP
+    B. A ligand-gated ion channel
+   *C. A cell-surface receptor with intrinsic tyrosine kinase activity
+    D. An intracellular nuclear (gene-transcription) receptor
+   key=C ref=KD Tripathi Essentials of Medical Pharmacology — Receptor Types / Signal Transduction
+   concept: Insulin binds a transmembrane receptor whose intracellular domain has intrinsic TYROSINE KINASE activity; ligand binding triggers autophosphorylation and phosphorylation of insulin-receptor substrates, initiating downstream signalling (a response in seconds-to-minutes). The four superfamilies of receptors are: ligand-gated ion channels (fastest, e.g. nicotinic), G-protein coupled receptors (cAMP/IP3-DAG), enzyme-linked receptors such as receptor tyrosine kinases (insulin, growth factors), and intracellular nuclear receptors (steroids, slowest); insulin belongs to the tyrosine-kinase class.
+Q_GEN_PHAR_GEN_PKPD_022 [H] A hormone activates a cell-surface receptor coupled to a stimulatory Gs protein, which then activates adenylyl cyclase. The second messenger whose intracellular level rises is:
+   *A. Cyclic AMP (cAMP)
+    B. Inositol trisphosphate (IP3)
+    C. Diacylglycerol (DAG)
+    D. Cyclic GMP (cGMP)
+   key=A ref=KD Tripathi Essentials of Medical Pharmacology — Second Messengers / GPCR Signalling
+   concept: A Gs-coupled receptor stimulates adenylyl cyclase, which converts ATP to cyclic AMP (cAMP); cAMP then activates protein kinase A (e.g. beta-adrenergic and glucagon signalling). By contrast, Gq-coupled receptors activate phospholipase C to generate IP3 (releases Ca2+) and DAG (activates PKC), while cGMP is produced by guanylyl cyclase (nitric-oxide / ANP pathways). Nuclear receptors act via gene transcription and use no cytoplasmic second messenger, so cAMP is the correct answer here.
+Q_GEN_PHAR_GEN_PKPD_023 [H] When ephedrine is injected repeatedly at short intervals, each successive dose produces a progressively smaller pressor response within minutes to hours. This rapidly developing loss of response is best termed:
+    A. Idiosyncrasy
+    B. Cumulation
+    C. Drug allergy
+   *D. Tachyphylaxis
+   key=D ref=KD Tripathi Essentials of Medical Pharmacology — Tachyphylaxis / Tolerance / Drug Response
+   concept: Tachyphylaxis is a RAPID (within minutes-hours) fall in response on repeated dosing. For ephedrine, an indirectly acting sympathomimetic, it results from progressive depletion of releasable noradrenaline stores plus receptor desensitisation. It differs from tolerance, which develops slowly over days-weeks. Idiosyncrasy is a genetically-determined abnormal response, cumulation is accumulation of a slowly-eliminated drug causing toxicity, and allergy is an immune-mediated reaction - none fits this rapid, dosing-related decline.
+Q_c1_025 [E] Which statement correctly describes ZERO-order kinetics of drug elimination?
+    A. A constant FRACTION of drug is eliminated per unit time
+   *B. A constant AMOUNT of drug is eliminated per unit time
+    C. Half-life is constant and independent of dose
+    D. It applies to most drugs at ordinary therapeutic doses
+   key=B ref=KD Tripathi 8e, Ch. Pharmacokinetics
+   concept: Zero-order (saturation) kinetics eliminates a constant amount of drug per unit time because metabolizing enzymes are saturated; half-life is NOT constant. Classic examples are phenytoin, ethanol, and high-dose aspirin. First-order kinetics (most drugs) eliminates a constant fraction.
+Q_c1_026 [E] A drug undergoes extensive hepatic first-pass metabolism when taken orally. What is its bioavailability by the intravenous route?
+    A. Reduced below the oral value
+   *B. 100% by definition
+    C. Unchanged from the oral route
+    D. Unpredictable and always variable
+   key=B ref=KD Tripathi 8e, Ch. Pharmacokinetics
+   concept: Intravenous administration bypasses absorption and first-pass metabolism, so bioavailability is 100% (the reference standard). Drugs with high first-pass effect (propranolol, GTN, lignocaine, morphine) have low ORAL bioavailability.
+
+[159 shown of 159 unverified in scope]

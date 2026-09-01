@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_PED_RDS_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "E",
+   "stem": "Hyaline membrane disease in a preterm neonate is caused by deficiency of:",
+   "options": [
+    "Surfactant",
+    "Alpha-1 antitrypsin",
+    "Immunoglobulin A",
+    "Carbonic anhydrase"
+   ],
+   "correct": 0,
+   "concept": "Surfactant deficiency raises alveolar surface tension causing progressive atelectasis, with grunting, tachypnoea, retractions and a ground-glass chest radiograph with air bronchograms. Antenatal steroids and exogenous surfactant with CPAP are the mainstays.",
+   "reference": "Nelson 21e, Respiratory Distress Syndrome",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "M",
+   "stem": "The Silverman-Andersen score is used to assess:",
+   "options": [
+    "Severity of respiratory distress in a newborn",
+    "Gestational age",
+    "Jaundice",
+    "Dehydration"
+   ],
+   "correct": 0,
+   "concept": "The Silverman-Andersen score grades chest movement, intercostal and xiphoid retraction, nasal flaring and expiratory grunt from 0 to 10, with a higher score indicating worse distress - the reverse direction of the Apgar score.",
+   "reference": "Ghai Essential Pediatrics 9e, Respiratory Distress",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "M",
+   "stem": "Transient tachypnoea of the newborn is characteristically associated with:",
+   "options": [
+    "Elective caesarean delivery with delayed clearance of lung fluid",
+    "Extreme prematurity",
+    "Meconium aspiration",
+    "Diaphragmatic hernia"
+   ],
+   "correct": 0,
+   "concept": "Absence of labour reduces catecholamine-driven clearance of fetal lung fluid, so tachypnoea appears within hours and resolves in 24 to 72 hours, with prominent perihilar streaking and fluid in fissures on radiograph.",
+   "reference": "Nelson 21e, Transient Tachypnoea",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "E",
+   "stem": "Meconium aspiration syndrome is most likely in a neonate who is:",
+   "options": [
+    "Post-term with thick meconium-stained liquor",
+    "Extremely preterm",
+    "Delivered by elective caesarean",
+    "Small for gestational age at 28 weeks"
+   ],
+   "correct": 0,
+   "concept": "Post-term or growth-restricted fetuses pass meconium with hypoxic stress and gasp it into the airways, causing patchy infiltrates, hyperinflation and pneumothorax risk with persistent pulmonary hypertension. Routine intrapartum suctioning is no longer advised.",
+   "reference": "Nelson 21e, Meconium Aspiration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "M",
+   "stem": "A neonate with scaphoid abdomen, respiratory distress and bowel sounds in the chest has:",
+   "options": [
+    "Congenital diaphragmatic hernia",
+    "Hyaline membrane disease",
+    "Tracheo-oesophageal fistula",
+    "Choanal atresia"
+   ],
+   "correct": 0,
+   "concept": "Congenital diaphragmatic hernia, usually left posterolateral (Bochdalek), presents with a scaphoid abdomen and mediastinal shift. Bag-and-mask ventilation is avoided in favour of intubation and a nasogastric tube; pulmonary hypoplasia determines outcome.",
+   "reference": "Nelson 21e, Diaphragmatic Hernia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "M",
+   "stem": "Excessive frothing at the mouth with choking on first feed and coiling of the nasogastric tube suggests:",
+   "options": [
+    "Oesophageal atresia with tracheo-oesophageal fistula",
+    "Pyloric stenosis",
+    "Duodenal atresia",
+    "Hirschsprung disease"
+   ],
+   "correct": 0,
+   "concept": "The commonest variety is proximal atresia with a distal tracheo-oesophageal fistula, often with polyhydramnios antenatally and associated VACTERL anomalies. Radiography shows the tube coiled in a blind pouch with gas in the abdomen.",
+   "reference": "Nelson 21e, Oesophageal Atresia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "E",
+   "stem": "The commonest cause of seizures in the first 24 to 48 hours of life is:",
+   "options": [
+    "Hypoxic ischaemic encephalopathy",
+    "Meningitis",
+    "Hypocalcaemia",
+    "Kernicterus"
+   ],
+   "correct": 0,
+   "concept": "Perinatal asphyxia causing hypoxic ischaemic encephalopathy is the commonest cause of early neonatal seizures. Metabolic causes such as hypoglycaemia and hypocalcaemia, infection and intracranial haemorrhage must also be excluded.",
+   "reference": "Nelson 21e, Neonatal Seizures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "H",
+   "stem": "The first-line drug for neonatal seizures is:",
+   "options": [
+    "Phenobarbitone",
+    "Diazepam",
+    "Carbamazepine",
+    "Sodium valproate"
+   ],
+   "correct": 0,
+   "concept": "Phenobarbitone 20 mg/kg intravenously remains first line after correcting hypoglycaemia and hypocalcaemia, followed by levetiracetam, phenytoin or fosphenytoin. Valproate is avoided in neonates because of hepatotoxicity.",
+   "reference": "KDT 8e, Antiepileptic Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "H",
+   "stem": "Subtle seizures, the commonest seizure type in neonates, manifest as:",
+   "options": [
+    "Eye deviation, lip smacking, cycling or apnoea rather than overt convulsions",
+    "Generalised tonic-clonic activity",
+    "Absence spells",
+    "Myoclonic jerks only"
+   ],
+   "correct": 0,
+   "concept": "Neonatal cortical immaturity means seizures are often subtle - ocular deviation, oro-buccal movements, pedalling, apnoea or autonomic change - so amplitude-integrated EEG is valuable, and generalised tonic-clonic seizures essentially do not occur.",
+   "reference": "Nelson 21e, Neonatal Seizures",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_RDS_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Respiratory distress in the newborn & neonatal seizures",
+   "difficulty": "M",
+   "stem": "Therapeutic hypothermia in a term neonate with hypoxic ischaemic encephalopathy must be started within:",
+   "options": [
+    "6 hours of birth",
+    "24 hours",
+    "48 hours",
+    "12 hours"
+   ],
+   "correct": 0,
+   "concept": "Cooling to 33.5 degrees Celsius for 72 hours started within 6 hours of birth in moderate to severe encephalopathy reduces death and disability. It is offered only at or above 36 weeks gestation with facilities for monitoring.",
+   "reference": "Nelson 21e, Hypoxic Ischaemic Encephalopathy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "E",
+   "stem": "The commonest chromosomal cause of intellectual disability is:",
+   "options": [
+    "Down syndrome (trisomy 21)",
+    "Klinefelter syndrome",
+    "Turner syndrome",
+    "Edward syndrome"
+   ],
+   "correct": 0,
+   "concept": "Trisomy 21 is the commonest chromosomal disorder compatible with survival and the leading chromosomal cause of intellectual disability, incidence rising with maternal age. Ninety-five percent result from meiotic non-disjunction.",
+   "reference": "Nelson 21e, Down Syndrome",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "M",
+   "stem": "A Down syndrome child is at greatest risk of which cardiac lesion?",
+   "options": [
+    "Endocardial cushion (atrioventricular septal) defect",
+    "Coarctation of aorta",
+    "Tetralogy of Fallot",
+    "Bicuspid aortic valve"
+   ],
+   "correct": 0,
+   "concept": "Atrioventricular septal defect is the characteristic lesion in trisomy 21, occurring in about 40% with congenital heart disease. Duodenal atresia, atlantoaxial instability, hypothyroidism and leukaemia are other associations.",
+   "reference": "Nelson 21e, Down Syndrome",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "M",
+   "stem": "Which chromosomal disorder is associated with a translocation that can be inherited from a balanced carrier parent?",
+   "options": [
+    "Robertsonian translocation Down syndrome",
+    "Trisomy 21 from non-disjunction",
+    "Turner syndrome",
+    "Triple X"
+   ],
+   "correct": 0,
+   "concept": "About 4% of Down syndrome is due to a Robertsonian translocation, usually 14;21; when inherited from a balanced carrier parent the recurrence risk is high, which is why karyotyping of the child and parents guides counselling.",
+   "reference": "Nelson 21e, Down Syndrome",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "E",
+   "stem": "Phenylketonuria results from deficiency of:",
+   "options": [
+    "Phenylalanine hydroxylase",
+    "Tyrosinase",
+    "Homogentisate oxidase",
+    "Branched-chain ketoacid dehydrogenase"
+   ],
+   "correct": 0,
+   "concept": "Phenylalanine hydroxylase deficiency causes accumulation of phenylalanine with a mousy odour, fair hair, eczema, intellectual disability and seizures. A phenylalanine-restricted diet started in the neonatal period prevents brain damage.",
+   "reference": "Harper's Biochemistry, Amino Acid Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "M",
+   "stem": "Congenital hypothyroidism is screened for in the newborn because:",
+   "options": [
+    "Untreated it causes irreversible intellectual disability and clinical signs are absent at birth",
+    "It is always symptomatic",
+    "It resolves spontaneously",
+    "It only affects growth"
+   ],
+   "correct": 0,
+   "concept": "Newborns are clinically normal because maternal thyroxine crosses the placenta, yet delay in starting thyroxine causes permanent intellectual disability - so screening at 48 to 72 hours by TSH is universally recommended.",
+   "reference": "Nelson 21e, Congenital Hypothyroidism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "M",
+   "stem": "Galactosaemia classically presents in a neonate with:",
+   "options": [
+    "Vomiting, jaundice, hepatomegaly and E. coli sepsis after milk feeds",
+    "Constipation and coarse facies",
+    "Isolated seizures",
+    "Cataract only at 10 years"
+   ],
+   "correct": 0,
+   "concept": "Galactose-1-phosphate uridyltransferase deficiency causes vomiting, jaundice, hepatomegaly, cataract and a predisposition to E. coli sepsis once lactose-containing milk is started. A lactose-free diet is life-saving.",
+   "reference": "Harper's Biochemistry, Carbohydrate Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "E",
+   "stem": "Turner syndrome is characterised by:",
+   "options": [
+    "Short stature, webbed neck, streak ovaries and 45,XO karyotype",
+    "Tall stature and gynaecomastia",
+    "Macro-orchidism",
+    "Trisomy 18 features"
+   ],
+   "correct": 0,
+   "concept": "Turner syndrome shows short stature, webbed neck, wide-spaced nipples, cubitus valgus, coarctation or bicuspid aortic valve, horseshoe kidney and primary amenorrhoea with high FSH. Growth hormone and oestrogen replacement are used.",
+   "reference": "Nelson 21e, Turner Syndrome",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "H",
+   "stem": "The commonest inherited cause of intellectual disability, associated with macro-orchidism and a long face, is:",
+   "options": [
+    "Fragile X syndrome",
+    "Down syndrome",
+    "Prader-Willi syndrome",
+    "Angelman syndrome"
+   ],
+   "correct": 0,
+   "concept": "Fragile X results from CGG trinucleotide repeat expansion in FMR1 with X-linked dominant inheritance and anticipation, causing intellectual disability, large ears, long face, macro-orchidism and autistic features. It is the commonest inherited (not chromosomal) cause.",
+   "reference": "Nelson 21e, Fragile X",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "H",
+   "stem": "Prader-Willi and Angelman syndromes illustrate the principle of:",
+   "options": [
+    "Genomic imprinting, with the phenotype depending on the parental origin of the deleted 15q region",
+    "Autosomal recessive inheritance",
+    "Mitochondrial inheritance",
+    "X-linked dominance"
+   ],
+   "correct": 0,
+   "concept": "Deletion of paternal 15q11-13 causes Prader-Willi with hypotonia, hyperphagia, obesity and hypogonadism; the same maternal deletion causes Angelman with severe intellectual disability, ataxia and inappropriate laughter.",
+   "reference": "Nelson 21e, Imprinting Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_IEM_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Inborn errors, newborn screening & chromosomal syndromes",
+   "difficulty": "M",
+   "stem": "Maple syrup urine disease results from a defect in metabolism of:",
+   "options": [
+    "Branched-chain amino acids leucine, isoleucine and valine",
+    "Phenylalanine",
+    "Galactose",
+    "Fructose"
+   ],
+   "correct": 0,
+   "concept": "Branched-chain ketoacid dehydrogenase deficiency causes accumulation of leucine, isoleucine and valine with a maple syrup odour of urine, encephalopathy, ketoacidosis and death if untreated. Dietary restriction with thiamine is the treatment.",
+   "reference": "Harper's Biochemistry, Amino Acid Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_001",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "E",
+   "stem": "The commonest congenital heart disease in children is:",
+   "options": [
+    "Ventricular septal defect",
+    "Atrial septal defect",
+    "Patent ductus arteriosus",
+    "Tetralogy of Fallot"
+   ],
+   "correct": 0,
+   "concept": "Ventricular septal defect is the commonest congenital cardiac lesion; small defects often close spontaneously while large ones cause left-to-right shunting, failure to thrive and eventually pulmonary hypertension.",
+   "reference": "Nelson 21e, Ventricular Septal Defect",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_002",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "M",
+   "stem": "The four components of tetralogy of Fallot are:",
+   "options": [
+    "Pulmonary stenosis, VSD, right ventricular hypertrophy and overriding aorta",
+    "ASD, VSD, PDA and coarctation",
+    "Pulmonary atresia, TAPVC, VSD and PDA",
+    "Mitral stenosis, ASD, PDA and PS"
+   ],
+   "correct": 0,
+   "concept": "Tetralogy comprises pulmonary outflow obstruction, a large ventricular septal defect, right ventricular hypertrophy and an aorta overriding the septum. Severity of pulmonary stenosis determines the degree of cyanosis and gives a boot-shaped heart.",
+   "reference": "Nelson 21e, Tetralogy of Fallot",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_003",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "M",
+   "stem": "During a cyanotic (tet) spell, the child should be placed in:",
+   "options": [
+    "The knee-chest position with oxygen, morphine and fluids",
+    "Supine flat position",
+    "Prone with head down",
+    "Sitting upright with legs dependent"
+   ],
+   "correct": 0,
+   "concept": "The knee-chest or squatting position raises systemic vascular resistance, reducing right-to-left shunting across the ventricular septal defect. Morphine calms hyperpnoea, and beta blockers relieve infundibular spasm.",
+   "reference": "Nelson 21e, Tetralogy of Fallot",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_004",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "E",
+   "stem": "The commonest cyanotic congenital heart disease presenting in the neonatal period is:",
+   "options": [
+    "Transposition of the great arteries",
+    "Tetralogy of Fallot",
+    "Tricuspid atresia",
+    "Truncus arteriosus"
+   ],
+   "correct": 0,
+   "concept": "Transposition presents with severe cyanosis in the first days as the ductus closes, with an egg-on-side cardiac silhouette. Prostaglandin E1 maintains ductal patency and balloon atrial septostomy allows mixing before arterial switch.",
+   "reference": "Nelson 21e, Transposition",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_005",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "M",
+   "stem": "Prostaglandin E1 is used in a duct-dependent congenital heart lesion to:",
+   "options": [
+    "Maintain patency of the ductus arteriosus",
+    "Close the ductus",
+    "Reduce pulmonary pressure",
+    "Increase contractility"
+   ],
+   "correct": 0,
+   "concept": "Prostaglandin E1 keeps the duct open, preserving pulmonary or systemic flow in lesions such as transposition, pulmonary atresia, critical coarctation and hypoplastic left heart until surgery. Conversely, indomethacin closes a patent duct in preterm infants.",
+   "reference": "KDT 8e, Prostaglandins",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_006",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "M",
+   "stem": "Eisenmenger syndrome refers to:",
+   "options": [
+    "Irreversible pulmonary hypertension with shunt reversal in an untreated left-to-right shunt",
+    "A right-to-left shunt from birth",
+    "Isolated pulmonary stenosis",
+    "Reversible pulmonary hypertension"
+   ],
+   "correct": 0,
+   "concept": "Prolonged left-to-right shunting causes fixed pulmonary vascular disease, so the shunt reverses and the patient becomes cyanosed with clubbing and polycythaemia. Surgical closure is then contraindicated and transplantation is the only option.",
+   "reference": "Nelson 21e, Pulmonary Hypertension",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_007",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "E",
+   "stem": "The murmur of a small ventricular septal defect is:",
+   "options": [
+    "A harsh pansystolic murmur at the left lower sternal border with a thrill",
+    "A continuous machinery murmur",
+    "A mid-diastolic murmur at the apex",
+    "An ejection systolic murmur in the aortic area"
+   ],
+   "correct": 0,
+   "concept": "A small defect generates a loud harsh pansystolic murmur because of the high pressure gradient; paradoxically, a very large defect equalises pressures and produces a softer murmur - loudness does not indicate size.",
+   "reference": "Nelson 21e, Ventricular Septal Defect",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_008",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "H",
+   "stem": "The most common cause of acquired heart disease in Indian children is:",
+   "options": [
+    "Rheumatic heart disease",
+    "Kawasaki disease",
+    "Viral myocarditis",
+    "Infective endocarditis"
+   ],
+   "correct": 0,
+   "concept": "Rheumatic heart disease following group A streptococcal pharyngitis remains the leading acquired cardiac disease in Indian children, with mitral valve involvement most frequent, and is preventable by prompt treatment of sore throat.",
+   "reference": "Park 27e, Rheumatic Heart Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_009",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "H",
+   "stem": "The most frequently affected valve in chronic rheumatic heart disease is:",
+   "options": [
+    "Mitral valve",
+    "Aortic valve",
+    "Tricuspid valve",
+    "Pulmonary valve"
+   ],
+   "correct": 0,
+   "concept": "The mitral valve is involved in about 75% of cases, alone or with the aortic valve; mitral stenosis produces a loud first sound, opening snap and mid-diastolic murmur with a malar flush. The pulmonary valve is rarely affected.",
+   "reference": "HARR 21e, Rheumatic Fever",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PED_CHD_010",
+   "part": "B",
+   "subject": "Pediatrics",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Congenital & rheumatic heart disease in children",
+   "difficulty": "M",
+   "stem": "Primary prophylaxis of rheumatic fever consists of:",
+   "options": [
+    "Treating streptococcal pharyngitis with penicillin within nine days of onset",
+    "Lifelong benzathine penicillin",
+    "Aspirin for all sore throats",
+    "Tonsillectomy"
+   ],
+   "correct": 0,
+   "concept": "Adequate antibiotic treatment of group A streptococcal pharyngitis within nine days prevents a first attack of rheumatic fever - primary prophylaxis. Secondary prophylaxis with three-weekly benzathine penicillin prevents recurrences.",
+   "reference": "Park 27e, Rheumatic Fever",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+Q_PH_CTR_006 | del | duplicate of Q_PH_AEI_001 on type A adverse reactions being dose-related and predictable. The adverse-reactions topic is the natural home and is retained
+Q_PH_CTR_012 | del | duplicate of Q_PH_CTR_003 on blinding protecting against observer bias. The first item is retained
+Q_PH_CTR_014 | del | duplicate of Q_PH_CTR_004 on intention-to-treat analysis. The first item is retained
+Q_PH_DIU_001 | del | duplicate of Q_PH_DIU_011, which covers the same loop of Henle site of action and additionally the potency and retained efficacy in renal impairment. The fuller item is retained
+Q_PH_DIU_014 | del | duplicate of Q_PH_DIU_002, which covers the same thiazide electrolyte and metabolic profile more completely. The fuller item is retained
+Q_PH_DIU_007 | del | duplicate of Q_c1_035 on hypokalaemia from diuretics precipitating digoxin toxicity. The cardiac drugs topic is the better home and is retained
+Q_PH_GIT_014 | del | duplicate of Q_PH_GIT_001 on irreversible inhibition of the gastric H+/K+ ATPase. The first item is retained
+Q_PH_GIT_013 | del | duplicate of Q_PH_GIT_004 on metoclopramide causing acute dystonic reactions in the young. The first item is retained
+Q_PH_GIT_005 | del | duplicate of Q_PH_CAD_005 on hyoscine for motion sickness. The cholinergic topic is the natural home for the antimuscarinic and is retained
+Q_PH_GIT_007 | del | duplicate of Q_PH_GIT_016, which covers the same loperamide advantage and additionally why both agents are avoided in dysentery. The fuller item is retained
+Q_PH_GIT_012 | del | duplicate of Q_PH_GIT_008 on lactulose acidifying colonic contents to trap ammonia. The item giving the mechanism is retained
+Q_PH_CTR_007 | ref=Drugs and Cosmetics Rules 1945, Schedule H; KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Drug Development and Regulations | the reference read "Drugs and Cosmetics Rules; KDT 8e", using an abbreviation and naming no schedule or chapter
+Q_PH_CTR_008 | ref=Drugs and Cosmetics Rules 1945, Schedule X; KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Drug Development and Regulations | the reference named the Rules with no schedule or supporting chapter
+Q_PH_CTR_010 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Health Care of the Community; KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Drug Development and Regulations | the reference read "Park's ...; KDT 8e" with no chapter for either book and an abbreviation for the second
+Q_PH_CTR_005 | ok |
+Q_PH_CTR_009 | ok |
+Q_PH_CTR_013 | ok |
+Q_PH_CTR_015 | ok |
+Q_PH_CTR_016 | ok |
+Q_PH_DIU_002 | ok |
+Q_PH_DIU_003 | ok |
+Q_PH_DIU_004 | ok |
+Q_PH_DIU_005 | ok |
+Q_PH_DIU_008 | ok |
+Q_PH_DIU_009 | ok |
+Q_PH_DIU_010 | ok |
+Q_PH_DIU_011 | ok |
+Q_PH_DIU_012 | ok |
+Q_PH_DIU_015 | ok |
+Q_PH_DIU_016 | ok |
+Q_PH_GIT_001 | ok |
+Q_PH_GIT_002 | ok |
+Q_PH_GIT_003 | ok |
+Q_PH_GIT_004 | ok |
+Q_PH_GIT_006 | ok |
+Q_PH_GIT_008 | ok |
+Q_PH_GIT_009 | ok |
+Q_PH_GIT_010 | ok |
+Q_PH_GIT_011 | ok |
+Q_PH_GIT_016 | ok |
+Q_PH_IMS_001 | ok |
+Q_PH_IMS_002 | ok |
+Q_PH_IMS_003 | ok |
+Q_PH_IMS_004 | ok |
+Q_PH_IMS_005 | ok |
+Q_PH_IMS_006 | ok |
+Q_PH_IMS_007 | ok |
+Q_PH_IMS_008 | ok |

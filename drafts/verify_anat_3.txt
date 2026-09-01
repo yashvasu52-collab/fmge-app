@@ -1,0 +1,44 @@
+Q_PYQ_FMGE_2025JANP2_003 | opt2=Failure of fusion of the muscular interventricular septum;;ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Thorax (heart) | the third option, "Non-development of the perimembranous part of the septum", described the same lesion as the keyed "Membranous defect", so two options were correct. Replaced with a distinct muscular defect mechanism; exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JULP2_004 | stem=Which adult structure is derived from the notochord, the rod-like midline structure lying ventral to the neural tube in the embryo?;;ref=Langman's Medical Embryology 14e, Ch. Third Week of Development | the stem referred to "an arrow points to" a structure in an image the bank does not hold; the notochord is already described in words so the media reference was removed. Exam-paper-only reference replaced
+Q_A_011 | ref=Langman's Medical Embryology 14e, Ch. Head and Neck (pharyngeal arches) | the reference named the book with no chapter
+Q_PYQ_FMGE_2024JAN_003 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Lower Limb | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_013 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Lower Limb (venous drainage) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_019 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Lower Limb (arteries) | reference cited only the exam paper; a study source added
+Q_PYQ_NEETPG_2025_001 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Lower Limb (ankle joint) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP2_002 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Thorax (oesophagus) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JAN_014 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Thorax (heart valves) | reference cited only the exam paper; a study source added
+Q_PYQ_INICET_2025MAY_018 | ref=Snell's Clinical Anatomy by Regions 10e, Ch. The Thorax (congenital heart disease) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_028 | ref=Langman's Medical Embryology 14e, Ch. Central Nervous System (neural tube defects) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_051 | ref=Langman's Medical Embryology 14e, Ch. Head and Neck (pharyngeal arch syndromes) | reference cited only the exam paper; a study source added
+Q_A_006 | ok |
+Q_h3d_007 | ok |
+Q_AN_PP_001 | ok |
+Q_AN_PP_002 | ok |
+Q_AN_PP_004 | ok |
+Q_AN_PP_005 | ok |
+Q_AN_PP_006 | ok |
+Q_AN_PP_007 | ok |
+Q_AN_PP_008 | ok |
+Q_AN_PP_009 | ok |
+Q_AN_PP_010 | ok |
+Q_AN_PP_011 | ok |
+Q_AN_PP_012 | ok |
+Q_AN_PP_013 | ok |
+Q_AN_SK_001 | ok |
+Q_AN_SK_002 | ok |
+Q_AN_SK_003 | ok |
+Q_AN_SK_004 | ok |
+Q_AN_SK_005 | ok |
+Q_AN_SK_007 | ok |
+Q_AN_SK_008 | ok |
+Q_AN_SK_009 | ok |
+Q_AN_SK_010 | ok |
+Q_AN_SK_012 | ok |
+Q_AN_SK_013 | ok |
+Q_A_010 | ok |
+Q_h3d_006 | ok |
+Q_AN_TH_001 | ok |
+Q_AN_TH_003 | ok |
+Q_AN_TH_004 | ok |
+Q_AN_TH_006 | ok |
+Q_AN_TH_007 | ok |

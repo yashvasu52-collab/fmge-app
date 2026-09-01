@@ -1,0 +1,5 @@
+Q_S_030 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Brain and Meninges | reference was "Cerebellum Radiology notes; standard radiology texts", which names no resolvable source
+Q_S_031 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Chest | reference was the unresolvable "Standard radiology texts"
+Q_S_032 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Abdomen | reference was the unresolvable "Standard radiology texts"
+Q_S_033 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Skeletal Radiology | reference was the unresolvable "Standard radiology texts"
+Q_S_034 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Nuclear Medicine and Interventional Radiology | reference was the unresolvable "Standard radiology texts"

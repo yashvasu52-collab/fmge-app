@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_RD_ABD_001",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "E",
+   "stem": "Free gas under the diaphragm on an erect chest radiograph indicates:",
+   "options": [
+    "Hollow viscus perforation",
+    "Intestinal obstruction",
+    "Paralytic ileus",
+    "Ascites"
+   ],
+   "correct": 0,
+   "concept": "Pneumoperitoneum is best seen on an erect chest film or left lateral decubitus, and in a patient with an acute abdomen indicates perforation, most often of a duodenal ulcer, requiring urgent surgery.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_002",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "M",
+   "stem": "Multiple air-fluid levels with dilated central small bowel loops showing valvulae conniventes indicate:",
+   "options": [
+    "Small bowel obstruction",
+    "Large bowel obstruction",
+    "Paralytic ileus",
+    "Volvulus"
+   ],
+   "correct": 0,
+   "concept": "Valvulae conniventes cross the full bowel width and the loops lie centrally, unlike colonic haustra which cross only part of the lumen with peripheral loops. More than three air-fluid levels suggests obstruction.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_003",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "M",
+   "stem": "The investigation of choice for suspected acute appendicitis in a young adult male is:",
+   "options": [
+    "Contrast-enhanced CT abdomen",
+    "Plain radiograph",
+    "Barium enema",
+    "MRI"
+   ],
+   "correct": 0,
+   "concept": "CT has high sensitivity and specificity showing a thickened appendix with periappendiceal fat stranding. Ultrasound is preferred first in children and pregnancy to avoid radiation, and MRI in pregnancy if ultrasound is inconclusive.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_004",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "E",
+   "stem": "The imaging investigation of choice for gallstones is:",
+   "options": [
+    "Ultrasound of the abdomen",
+    "Plain radiograph",
+    "CT",
+    "MRI"
+   ],
+   "correct": 0,
+   "concept": "Ultrasound detects over 95% of gallstones as mobile echogenic foci with posterior acoustic shadowing, and also shows wall thickening and duct dilatation. Only about 10 to 15% of gallstones are radio-opaque on plain film.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_005",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "M",
+   "stem": "A coffee-bean sign on abdominal radiograph indicates:",
+   "options": [
+    "Sigmoid volvulus",
+    "Intussusception",
+    "Appendicitis",
+    "Perforation"
+   ],
+   "correct": 0,
+   "concept": "A massively dilated closed loop arising from the pelvis with apposed medial walls forms the coffee-bean or omega sign. Caecal volvulus instead displaces the dilated loop towards the left upper quadrant.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_006",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "M",
+   "stem": "A string sign of Kantor on barium study of the terminal ileum suggests:",
+   "options": [
+    "Crohn disease",
+    "Ulcerative colitis",
+    "Tuberculosis only",
+    "Coeliac disease"
+   ],
+   "correct": 0,
+   "concept": "Narrowing of the terminal ileal lumen from oedema and fibrosis produces a thin barium stream. Cobblestoning, skip lesions and fistulae are other Crohn features; ileocaecal tuberculosis is the main differential in India.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_007",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "E",
+   "stem": "The target or doughnut sign on abdominal ultrasound in an infant indicates:",
+   "options": [
+    "Intussusception",
+    "Pyloric stenosis",
+    "Hirschsprung disease",
+    "Appendicitis"
+   ],
+   "correct": 0,
+   "concept": "Concentric rings of invaginated bowel produce a target sign in transverse and pseudokidney in longitudinal section. Ultrasound is the investigation of choice, avoiding radiation, and guides pneumatic reduction.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_008",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "H",
+   "stem": "MRCP is preferred over ERCP for biliary imaging because it:",
+   "options": [
+    "Is non-invasive and avoids the risk of post-procedure pancreatitis",
+    "Is therapeutic",
+    "Is cheaper always",
+    "Uses ionising radiation"
+   ],
+   "correct": 0,
+   "concept": "MRCP is purely diagnostic with no risk of pancreatitis, bleeding or perforation, so ERCP is now reserved for cases needing intervention such as stone extraction, stenting or sphincterotomy.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_009",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "H",
+   "stem": "Rigler sign on a supine abdominal radiograph refers to:",
+   "options": [
+    "Visualisation of both sides of the bowel wall due to free intraperitoneal gas",
+    "Bowel wall thickening",
+    "Gas in the biliary tree",
+    "Calcified gallstones"
+   ],
+   "correct": 0,
+   "concept": "Air on both the luminal and peritoneal surfaces outlines the wall, indicating pneumoperitoneum on a supine film where free gas under the diaphragm cannot be assessed. The football sign is a large midline gas collection.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_ABD_010",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdominal & GIT imaging; acute abdomen signs",
+   "difficulty": "M",
+   "stem": "Gas in the biliary tree (pneumobilia) with small bowel obstruction and an ectopic gallstone constitutes:",
+   "options": [
+    "Rigler triad of gallstone ileus",
+    "Charcot triad",
+    "Beck triad",
+    "Virchow triad"
+   ],
+   "correct": 0,
+   "concept": "A large gallstone erodes through a cholecystoduodenal fistula and impacts at the terminal ileum. Rigler triad of pneumobilia, obstruction and an ectopic calcified stone is diagnostic.",
+   "reference": "Sutton's Textbook of Radiology 8e, Abdominal Imaging",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_001",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "E",
+   "stem": "The most accurate ultrasound parameter for dating a pregnancy in the first trimester is:",
+   "options": [
+    "Crown-rump length",
+    "Biparietal diameter",
+    "Femur length",
+    "Abdominal circumference"
+   ],
+   "correct": 0,
+   "concept": "Crown-rump length between 7 and 13 weeks dates pregnancy to within about 5 days because early growth is highly uniform; accuracy declines progressively with advancing gestation.",
+   "reference": "Sutton's Textbook of Radiology 8e, Obstetric Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_002",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "M",
+   "stem": "The anomaly scan in pregnancy is optimally performed at:",
+   "options": [
+    "18 to 20 weeks",
+    "8 weeks",
+    "28 weeks",
+    "36 weeks"
+   ],
+   "correct": 0,
+   "concept": "By 18 to 20 weeks organogenesis is complete and fetal size permits detailed structural assessment, while still allowing time for further investigation and decision-making within legal limits for termination.",
+   "reference": "Sutton's Textbook of Radiology 8e, Obstetric Imaging",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_003",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "M",
+   "stem": "The mammographic finding most suspicious of malignancy is:",
+   "options": [
+    "Clustered pleomorphic branching microcalcification with a spiculated mass",
+    "Coarse popcorn calcification",
+    "A well-defined round opacity",
+    "Diffuse symmetrical density"
+   ],
+   "correct": 0,
+   "concept": "Fine pleomorphic linear branching microcalcifications suggest ductal carcinoma in situ, and a spiculated mass with architectural distortion suggests invasive carcinoma. Popcorn calcification indicates an involuting fibroadenoma.",
+   "reference": "Sutton's Textbook of Radiology 8e, Breast Imaging",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_004",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "E",
+   "stem": "The imaging modality of choice for a breast lump in a woman under 35 years is:",
+   "options": [
+    "Ultrasound",
+    "Mammography",
+    "MRI",
+    "CT"
+   ],
+   "correct": 0,
+   "concept": "Dense fibroglandular tissue in younger women limits mammographic sensitivity, so ultrasound is preferred and reliably distinguishes cystic from solid lesions. Mammography is the screening tool above 40.",
+   "reference": "Sutton's Textbook of Radiology 8e, Breast Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_005",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "M",
+   "stem": "The BI-RADS classification is used to:",
+   "options": [
+    "Standardise reporting and management recommendations for breast imaging",
+    "Stage breast cancer",
+    "Grade tumours histologically",
+    "Assess response to chemotherapy"
+   ],
+   "correct": 0,
+   "concept": "BI-RADS categories run from 0 (incomplete) through 1 and 2 (normal or benign) to 5 (highly suggestive of malignancy) and 6 (biopsy-proven), each with a defined management recommendation.",
+   "reference": "Sutton's Textbook of Radiology 8e, Breast Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_006",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "M",
+   "stem": "A snowstorm appearance of the uterine cavity with no fetal parts indicates:",
+   "options": [
+    "Complete hydatidiform mole",
+    "Missed abortion",
+    "Twin pregnancy",
+    "Fibroid uterus"
+   ],
+   "correct": 0,
+   "concept": "Hydropic villi produce multiple small cystic spaces giving the snowstorm or cluster-of-grapes pattern, usually with a uterus large for dates, very high hCG and bilateral theca lutein cysts.",
+   "reference": "Sutton's Textbook of Radiology 8e, Obstetric Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_007",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "E",
+   "stem": "Transvaginal ultrasound is preferred over transabdominal in early pregnancy because it:",
+   "options": [
+    "Gives higher resolution allowing earlier detection of the gestational sac and cardiac activity",
+    "Is safer",
+    "Requires a full bladder",
+    "Uses lower frequency"
+   ],
+   "correct": 0,
+   "concept": "The higher frequency probe placed close to the pelvic organs improves resolution, detecting an intrauterine sac from about 4.5 to 5 weeks and cardiac activity from 6 weeks - crucial in suspected ectopic pregnancy.",
+   "reference": "Sutton's Textbook of Radiology 8e, Obstetric Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_008",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "H",
+   "stem": "The most reliable ultrasound sign of ectopic pregnancy is:",
+   "options": [
+    "An adnexal mass with an extrauterine gestational sac containing a yolk sac or embryo",
+    "Free fluid alone",
+    "An empty uterus alone",
+    "A thickened endometrium"
+   ],
+   "correct": 0,
+   "concept": "Definitive diagnosis requires visualising an extrauterine sac, though this is uncommon; more often an empty uterus with beta-hCG above the discriminatory zone, an adnexal mass and free fluid raise suspicion.",
+   "reference": "Sutton's Textbook of Radiology 8e, Obstetric Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_009",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "H",
+   "stem": "In the PC-PNDT Act context, ultrasound in pregnancy must not be used to:",
+   "options": [
+    "Determine or disclose the sex of the fetus",
+    "Assess growth",
+    "Detect anomalies",
+    "Confirm viability"
+   ],
+   "correct": 0,
+   "concept": "The Pre-Conception and Pre-Natal Diagnostic Techniques Act prohibits sex determination and disclosure to combat female foeticide; registration of clinics, record maintenance and prominent display of notices are mandatory.",
+   "reference": "Park 27e, PC-PNDT Act",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_RD_OBS_010",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Obstetric, breast & pelvic imaging",
+   "difficulty": "M",
+   "stem": "Hysterosalpingography is best performed:",
+   "options": [
+    "In the follicular phase, days 7 to 10, after menstruation has ceased",
+    "Just before menstruation",
+    "During menstruation",
+    "In the luteal phase"
+   ],
+   "correct": 0,
+   "concept": "Performing it after bleeding stops but before ovulation avoids disturbing an early pregnancy and gives a clean cavity for assessment. It is contraindicated in active pelvic infection and pregnancy.",
+   "reference": "Sutton's Textbook of Radiology 8e, Gynaecological Imaging",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_001",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "E",
+   "stem": "The radionuclide most widely used in diagnostic nuclear medicine is:",
+   "options": [
+    "Technetium-99m",
+    "Iodine-131",
+    "Cobalt-60",
+    "Radium-226"
+   ],
+   "correct": 0,
+   "concept": "Technetium-99m has a 6-hour half-life and emits pure gamma radiation at 140 keV, ideal for imaging with minimal patient dose, and is available from a portable molybdenum-99 generator.",
+   "reference": "Sutton's Textbook of Radiology 8e, Nuclear Medicine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_002",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "M",
+   "stem": "A bone scan using technetium-99m MDP shows increased uptake in all EXCEPT:",
+   "options": [
+    "Multiple myeloma",
+    "Osteoblastic metastases",
+    "Osteomyelitis",
+    "Healing fracture"
+   ],
+   "correct": 0,
+   "concept": "Bone scans detect osteoblastic activity, so purely lytic myeloma lesions are typically cold or normal, which is why skeletal survey or whole-body MRI is preferred for myeloma staging.",
+   "reference": "Sutton's Textbook of Radiology 8e, Nuclear Medicine",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_003",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "M",
+   "stem": "Iodine-131 is used therapeutically in thyroid disease because it emits:",
+   "options": [
+    "Beta particles causing local tissue destruction, with gamma emission allowing imaging",
+    "Only gamma rays",
+    "Only alpha particles",
+    "X-rays"
+   ],
+   "correct": 0,
+   "concept": "Beta emission destroys thyroid tissue over a short range, treating thyrotoxicosis and thyroid carcinoma, while the gamma component permits scanning. It is contraindicated in pregnancy and lactation.",
+   "reference": "Sutton's Textbook of Radiology 8e, Nuclear Medicine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_004",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "E",
+   "stem": "FDG-PET detects tumours by exploiting their:",
+   "options": [
+    "Increased glucose uptake and glycolysis",
+    "Reduced blood flow",
+    "Increased calcium content",
+    "Reduced oxygen use"
+   ],
+   "correct": 0,
+   "concept": "Fluorodeoxyglucose accumulates in metabolically active cells reflecting the Warburg effect, making PET valuable for staging, detecting recurrence and assessing treatment response, usually fused with CT for localisation.",
+   "reference": "Sutton's Textbook of Radiology 8e, Nuclear Medicine",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_005",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "M",
+   "stem": "Brachytherapy differs from teletherapy in that the radiation source is:",
+   "options": [
+    "Placed within or adjacent to the tumour",
+    "At a distance from the patient",
+    "Systemically administered",
+    "Not used in cancer"
+   ],
+   "correct": 0,
+   "concept": "Brachytherapy delivers a very high local dose with rapid fall-off by the inverse square law, sparing surrounding tissue, and is central to treating carcinoma cervix. Teletherapy uses an external beam at a distance.",
+   "reference": "Sutton's Textbook of Radiology 8e, Radiotherapy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_006",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "M",
+   "stem": "The most radiosensitive cells in the body are:",
+   "options": [
+    "Rapidly dividing cells such as bone marrow, gonads and intestinal mucosa",
+    "Neurons",
+    "Muscle cells",
+    "Bone cells"
+   ],
+   "correct": 0,
+   "concept": "By the law of Bergonie and Tribondeau, radiosensitivity increases with mitotic activity and decreases with differentiation, which explains both radiotherapy toxicity and the effectiveness of fractionation.",
+   "reference": "Sutton's Textbook of Radiology 8e, Radiotherapy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_007",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "E",
+   "stem": "Fractionation in radiotherapy is used to:",
+   "options": [
+    "Allow normal tissue repair and tumour reoxygenation between doses",
+    "Reduce total dose",
+    "Shorten treatment",
+    "Avoid imaging"
+   ],
+   "correct": 0,
+   "concept": "Dividing the total dose exploits differences between tumour and normal tissue in the four Rs - repair, redistribution, repopulation and reoxygenation - improving the therapeutic ratio.",
+   "reference": "Sutton's Textbook of Radiology 8e, Radiotherapy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_008",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "H",
+   "stem": "Transjugular intrahepatic portosystemic shunt (TIPS) is indicated for:",
+   "options": [
+    "Refractory variceal bleeding or ascites in portal hypertension",
+    "Acute cholecystitis",
+    "Renal artery stenosis",
+    "Aortic aneurysm"
+   ],
+   "correct": 0,
+   "concept": "TIPS creates a low-resistance channel between the portal and hepatic veins, decompressing varices. Its main complication is hepatic encephalopathy from diverting portal blood away from the liver.",
+   "reference": "Sutton's Textbook of Radiology 8e, Interventional Radiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_009",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "H",
+   "stem": "Uterine artery embolisation is an established alternative to surgery for:",
+   "options": [
+    "Symptomatic uterine fibroids and intractable postpartum haemorrhage",
+    "Ovarian cancer",
+    "Endometriosis",
+    "Cervical carcinoma"
+   ],
+   "correct": 0,
+   "concept": "Embolising both uterine arteries causes fibroid infarction with symptom relief while preserving the uterus, and is life-saving in postpartum haemorrhage where fertility is to be conserved.",
+   "reference": "Sutton's Textbook of Radiology 8e, Interventional Radiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_NUC_010",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Nuclear medicine, radiotherapy basics & interventional radiology",
+   "difficulty": "M",
+   "stem": "The ALARA principle in radiation protection stands for:",
+   "options": [
+    "As Low As Reasonably Achievable",
+    "Always Limit All Radiation Access",
+    "Assess Local And Regional Absorption",
+    "Average Level Age Related Adjustment"
+   ],
+   "correct": 0,
+   "concept": "ALARA underpins justification, optimisation and dose limitation - the three pillars of radiation protection - implemented through shielding, distance, time minimisation and avoiding unnecessary investigations.",
+   "reference": "Sutton's Textbook of Radiology 8e, Radiation Protection",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+
+=== Forensic Medicine (FMT) / Asphyxial deaths (hanging, drowning)
+Q_A_035 [E] In a typical death due to hanging, the ligature mark is characteristically:
+    A. Horizontal, continuous and below the thyroid cartilage
+   *B. Oblique, non-continuous and high on the neck above the thyroid cartilage
+    C. Multiple horizontal abrasions across the mid-neck
+    D. Always absent
+   key=B ref=Reddy, The Essentials of Forensic Medicine and Toxicology
+   concept: In hanging the ligature mark is oblique, incomplete (non-continuous, highest at the point of suspension) and lies high, above the thyroid cartilage. In ligature strangulation it is typically horizontal, continuous and low (at or below the thyroid).
+Q_A_036 [H] In a decomposed body suspected of drowning, which test on the marrow of a long bone (e.g., femur) helps confirm antemortem drowning by demonstrating silica-walled algae carried in the circulation?
+    A. Gettler test
+   *B. Diatom test
+    C. Hydrostatic test
+    D. Precipitin test
+   key=B ref=Reddy, The Essentials of Forensic Medicine and Toxicology
+   concept: The diatom test detects silica-shelled diatoms in long-bone marrow; their presence implies the person was alive with a beating heart in the water (antemortem drowning), since diatoms reach the marrow only via circulation. The Gettler test compares chloride content of blood from the two sides of the heart.
+Q_GEN_FMT_ASPHYXIA_001 [E] Tardieu spots, frequently listed among the signs of asphyxial death, are best described as:
+    A. Areas of postmortem hypostasis in the dependent parts of the body
+    B. Antemortem bruises produced by the margins of a ligature
+   *C. Pinpoint (petechial) subpleural and subpericardial haemorrhages caused by an acute rise in venous pressure and anoxic capillary damage
+    D. Fungal colonies developing on the skin during decomposition
+   key=C ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Mechanical Asphyxia
+   concept: Tardieu spots are pinpoint petechial haemorrhages classically found beneath the visceral pleura and epicardium (and other serous membranes) in asphyxia. They arise from an acute rise in intracapillary venous pressure together with anoxic damage to capillary endothelium during the convulsive stage. They are a general, supportive sign of asphyxia rather than a specific one, and may also be seen in some sudden natural deaths and within areas of hypostasis; hence they suggest but never prove asphyxia. They are neither hypostasis, ligature bruises, nor a decomposition artefact.
+Q_GEN_FMT_ASPHYXIA_002 [E] During a dinner party an elderly denture-wearing man who had been drinking suddenly clutches his throat and collapses dead. Autopsy shows a large bolus of meat impacted in the laryngopharynx and a structurally normal heart. This is an example of:
+   *A. Café coronary
+    B. Judicial hanging
+    C. Burking
+    D. Traumatic asphyxia
+   key=A ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Asphyxial Deaths (Choking)
+   concept: Café coronary is sudden collapse and death due to impaction of a large bolus of food in the laryngopharynx during eating, so named because it is easily mistaken for a myocardial infarction. Death results from acute obstruction of the airway and, importantly, from reflex vagal cardiac inhibition triggered by stimulation of the larynx. Predisposing factors include intoxication, old age, dentures and neurological swallowing disorders. The manner is accidental and the heart is typically normal, which distinguishes it from a true coronary event.
+Q_GEN_FMT_ASPHYXIA_003 [E] 'Cutis anserina' (goose skin) observed on a body recovered from water is produced by:
+    A. Rigor mortis limited to the muscles of the face
+   *B. Contraction of the erector pilae (arrector pili) muscles of the skin
+    C. Antemortem scald burns from hot water
+    D. Gas formation in the subcutaneous tissues during putrefaction
+   key=B ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Death from Drowning
+   concept: Cutis anserina (goose skin/gooseflesh) is a puckered skin appearance with erection of the hair follicles caused by contraction or rigidity of the arrector pili (erector pilae) muscles, provoked by cold water and by postmortem rigor. It is a sign of immersion — i.e. that the body was in cold water — and can develop whether the person entered the water alive or was already dead. It is therefore not proof of antemortem drowning, and is unrelated to burns or to putrefactive gas formation.
+Q_GEN_FMT_ASPHYXIA_004 [E] Which of the following combinations best represents the classical general (non-specific) signs of asphyxia?
+    A. Pallor of the skin, contracted pupils and early rigor mortis
+    B. Cherry-red postmortem lividity with skin blistering
+    C. Rectangular contact burns with reddened margins
+   *D. Cyanosis, visceral congestion, petechial haemorrhages and fluidity of the blood
+   key=D ref=The Synopsis of Forensic Medicine and Toxicology (K.S. Narayan Reddy) — Asphyxia
+   concept: The classical general signs of asphyxia are cyanosis, congestion of the internal organs, petechial (Tardieu) haemorrhages, and dark fluid blood (the blood remaining fluid because of increased fibrinolytic activity and high carbon dioxide). These are supportive but non-specific and may be seen in other modes of death. Cherry-red lividity points to carbon monoxide poisoning rather than asphyxia, while pallor with contracted pupils and rectangular contact burns are not features of the asphyxial picture.
+Q_GEN_FMT_ASPHYXIA_005 [E] The finding of 'washerwoman's hands' (bleached, sodden, wrinkled palms and soles) in a body taken from water indicates:
+    A. A definite antemortem struggle within the water
+    B. Conclusive proof that drowning was the cause of death
+   *C. Only that the body was immersed in water for some hours (a sign of immersion, not of drowning)
+    D. That death was due to electrocution while in water
+   key=C ref=Parikh's Textbook of Medical Jurisprudence, Forensic Medicine and Toxicology — Drowning
+   concept: 'Washerwoman's hands and feet' refers to bleaching and sodden, corrugated wrinkling of the thick keratin of the palms and soles due to imbibition of water. It develops after some hours of immersion and merely indicates that the body lay in water for a period. It is a sign of IMMERSION and occurs whether the person drowned or was already dead when they entered the water; therefore it is not proof of antemortem drowning, of a struggle, or of electrocution.
+Q_GEN_FMT_ASPHYXIA_006 [M] In the majority of cases of ordinary (non-judicial) hanging, the principal immediate mechanism of death is:
+    A. Fracture-dislocation of the cervical vertebrae
+   *B. Cerebral anoxia due to compression/occlusion of the carotid and vertebral arteries and jugular veins
+    C. Air embolism entering torn neck veins
+    D. Reflex vagal cardiac inhibition in every case
+   key=B ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Hanging
+   concept: In ordinary hanging very little weight is needed to compress the neck structures — roughly 2 kg occludes the jugular veins, about 5 kg the carotids and 15 kg the trachea. The commonest mechanism of death is therefore cerebral anoxia/ischaemia from occlusion of the carotid and vertebral arteries and jugular veins, causing rapid loss of consciousness. Airway occlusion (asphyxia proper) and, less often, reflex vagal cardiac arrest contribute, while cervical fracture-dislocation is essentially confined to judicial hanging with a long drop.
+Q_GEN_FMT_ASPHYXIA_007 [M] In judicial hanging employing a calculated long drop with a submental (under-chin) knot, death is chiefly caused by:
+   *A. Fracture-dislocation of the upper cervical vertebrae ('hangman's fracture' of the axis) with transection of the upper cord and medulla
+    B. Slow simple asphyxia developing over several minutes
+    C. Aspiration of gastric contents into the lungs
+    D. Exsanguinating haemorrhage from rupture of both carotid arteries
+   key=A ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Hanging
+   concept: In judicial hanging the drop length is calculated from body weight and a submental knot is used, so that at the end of the fall the neck is suddenly hyperextended and distracted. This produces a fracture-dislocation of the axis — classically bilateral fractures through the pars interarticularis/pedicles of C2 (the 'hangman's fracture') with dislocation of C2 on C3 — and transection or crushing of the upper spinal cord and medulla, giving near-instantaneous death. Ordinary suicidal hanging, lacking a drop, rarely fractures the spine.
+Q_GEN_FMT_ASPHYXIA_008 [M] Which one of the following statements about hanging is TRUE?
+    A. The body must be completely suspended with the feet clear of the ground for death to occur
+    B. Contact of the feet with the floor automatically excludes a diagnosis of hanging
+    C. Hanging is impossible in the sitting or kneeling posture
+   *D. Death can occur in partial hanging, because only a few kilograms of force are needed to compress the neck vessels
+   key=D ref=The Synopsis of Forensic Medicine and Toxicology (K.S. Narayan Reddy) — Hanging
+   concept: Hanging is classed as complete (body fully suspended, feet off the ground) or partial (part of the body — feet, knees or buttocks — resting on a surface). Because only a few kilograms of weight are needed to occlude the jugular veins and carotid arteries, partial hanging in the sitting, kneeling or even lying position is entirely possible and is common in suicides. Therefore contact of the feet with the ground does not exclude hanging, and full suspension is not required for a fatal outcome.
+Q_GEN_FMT_ASPHYXIA_009 [M] At autopsy a ligature groove on the neck shows congestion of its margins, ecchymosis and extravasation of blood into the underlying subcutaneous tissue and muscle. This vital reaction indicates that the mark is:
+   *A. An antemortem ligature mark
+    B. A postmortem mark produced to simulate suicidal hanging
+    C. Purely an artefact of decomposition
+    D. Nothing more than postmortem lividity in the neck
+   key=A ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Hanging
+   concept: The distinction between antemortem and postmortem ligature marks rests on vital reaction. An antemortem mark shows congestion of the margins, ecchymosis and extravasation of blood into the subcutaneous tissue and muscle beneath the groove, and sometimes tears of the carotid intima — all evidence of a living circulation reacting to injury. A postmortem mark (as when a body is suspended after death to fake suicide) lacks vital reaction, has a soft pale base and shows no extravasation. The described features therefore denote an antemortem mark.
+Q_GEN_FMT_ASPHYXIA_010 [M] Compared with the mark of hanging, the ligature mark of ligature strangulation is typically:
+    A. Oblique, incomplete and situated high on the neck above the thyroid cartilage
+   *B. Horizontal (transverse), continuous and completely encircling the neck, and low at or below the thyroid cartilage
+    C. Always completely absent
+    D. V-shaped with its apex behind the ear
+   key=B ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Strangulation
+   concept: In ligature strangulation the constricting force is applied horizontally by an assailant, so the mark is transverse, usually continuous and completely encircling the neck, and lies low — at or below the level of the thyroid cartilage. In hanging, by contrast, the mark is oblique, incomplete (interrupted at the site of the knot) and high up above the thyroid, directed toward the point of suspension. Direction, completeness and level thus reliably separate strangulation from hanging.
+Q_GEN_FMT_ASPHYXIA_011 [M] In forensic terminology, 'mugging' as a mode of violent asphyxia refers to:
+    A. Compression of the neck with a ligature that is twisted tight by means of a stick or rod
+    B. Manual strangulation using the thumbs and fingers
+   *C. Strangulation by holding the victim's neck in the bend of the elbow (an arm-lock chokehold)
+    D. Occlusion of the nose and mouth with a pillow
+   key=C ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Strangulation
+   concept: Mugging is a form of strangulation in which the victim's neck is compressed within the bend/angle of the elbow (an arm-lock or chokehold), usually from behind. It is distinct from garroting (a ligature suddenly thrown around the neck from behind and tightened, classically for robbery or execution), from bansdola (compression of the neck or chest between two bamboo sticks or rods), and from throttling (manual strangulation with the hands and thumbs). Each of these leaves characteristically different neck marks.
+Q_GEN_FMT_ASPHYXIA_012 [M] Smothering, as a form of mechanical asphyxia, is defined as:
+   *A. Mechanical occlusion of the external air passages — the nose and mouth — so that breathing is prevented
+    B. Obstruction of the internal airway by an impacted food bolus
+    C. Compression of the chest that prevents respiratory movements
+    D. Closure of the glottis by sustained laryngeal spasm
+   key=A ref=The Synopsis of Forensic Medicine and Toxicology (K.S. Narayan Reddy) — Smothering
+   concept: Smothering is asphyxia produced by mechanical occlusion of the external respiratory orifices — the nose and mouth — for example by a hand, pillow, plastic bag or adhesive tape. It is most often homicidal (in infants, the elderly or the intoxicated) and, with plastic bags, may be suicidal or accidental. It is distinct from choking (internal airway obstruction by a foreign body or bolus), from traumatic asphyxia (chest compression) and from laryngospasm closing the glottis.
+Q_GEN_FMT_ASPHYXIA_013 [M] During a robbery a cloth is forced into and tied across the victim's mouth; the victim is later found dead with the sodden cloth still in place. The asphyxial mechanism is best termed:
+    A. Choking
+    B. Café coronary
+    C. Overlaying
+   *D. Gagging
+   key=D ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Gagging
+   concept: Gagging is obstruction of the mouth (and frequently the nose) by a cloth or similar material pushed into or tied across the mouth, usually to stop the victim calling for help during a crime. Death results from blockage of the air passages, often accelerated as the gag becomes soaked with saliva and mucus and swells, and by aspiration. It is typically accidental in the course of a felony. Choking is internal foreign-body obstruction, café coronary is bolus impaction during eating, and overlaying is accidental infant smothering.
+Q_GEN_FMT_ASPHYXIA_014 [M] In fresh-water drowning, absorption of the hypotonic aspirated water from the alveoli into the circulation classically produces:
+    A. Haemoconcentration with hypernatraemia
+   *B. Haemodilution, hypervolaemia, haemolysis with hyperkalaemia, and ventricular fibrillation
+    C. No appreciable change in circulating blood volume
+    D. Marked pulmonary oedema from fluid drawn osmotically into the alveoli
+   key=B ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Drowning
+   concept: Fresh water is hypotonic relative to blood, so water aspirated into the alveoli is rapidly absorbed across the alveolar-capillary membrane into the circulation, causing haemodilution and hypervolaemia within a couple of minutes. Dilution plus haemolysis of red cells releases potassium, and the resulting hyperkalaemia together with anoxia precipitates ventricular fibrillation, so death may be very rapid. This contrasts with salt-water drowning, where hypertonic water draws plasma into the alveoli producing haemoconcentration and pulmonary oedema.
+Q_GEN_FMT_ASPHYXIA_015 [M] Relative to fresh-water drowning, salt-water (sea-water) drowning characteristically produces:
+   *A. Haemoconcentration, hypovolaemia, hypernatraemia and marked pulmonary oedema
+    B. Haemodilution with hyperkalaemia
+    C. Immediate ventricular fibrillation as the usual mode of death
+    D. A fall in the serum sodium and chloride concentrations
+   key=A ref=Parikh's Textbook of Medical Jurisprudence, Forensic Medicine and Toxicology — Drowning
+   concept: Sea water is hypertonic (about 3% salt). Water aspirated into the alveoli therefore draws plasma osmotically OUT of the pulmonary capillaries into the alveolar spaces, producing intense pulmonary oedema together with haemoconcentration, hypovolaemia and hypernatraemia. Death tends to be somewhat slower than in fresh-water drowning, resulting from hypoxia and pulmonary oedema over several minutes rather than the rapid ventricular fibrillation of fresh-water drowning. This osmotic contrast is the basis of the Gettler chloride test.
+Q_GEN_FMT_ASPHYXIA_016 [M] Gettler's test, described for the diagnosis of antemortem drowning, is based on demonstrating a difference between the left and right sides of the heart in the concentration of:
+    A. Urea
+    B. Glucose
+   *C. Chloride
+    D. Bilirubin
+   key=C ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Drowning
+   concept: The Gettler test compares the chloride (sodium chloride) concentration of blood drawn from the left and right ventricles. In fresh-water drowning the diluted blood returning to the left heart gives a LOWER left-sided chloride than the right; in salt-water drowning the left-sided chloride is HIGHER. A difference of about 25 mg/100 ml or more was regarded as significant. In practice the test is unreliable because of postmortem diffusion and resuscitation effects and is now largely of historical/academic value, but it remains a classic examination fact.
+Q_GEN_FMT_ASPHYXIA_017 [M] Paltauf's haemorrhages, seen in some cases of drowning, are:
+    A. Petechiae confined to the palpebral conjunctivae
+    B. Haemorrhages into the cavity of the middle ear
+    C. Small nodular haemorrhages scattered through the brain substance
+   *D. Pale, bluish-red subpleural haemorrhages, larger than Tardieu spots, on the surface of the lungs
+   key=D ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Drowning
+   concept: Paltauf's haemorrhages are subpleural haemorrhages of drowning — pale, bluish-red, and larger and more diffuse than Tardieu petechiae — found chiefly on the anterior and interlobar surfaces of the lungs. They result from rupture of alveolar walls and capillaries together with dilution of the blood by inhaled water. With voluminous water-logged lungs (emphysema aquosum) and fine froth in the airway they support antemortem drowning. Middle-ear haemorrhage is a separate drowning sign and is not Paltauf's spots.
+Q_GEN_FMT_ASPHYXIA_018 [H] The diatom (acid-digestion) test for antemortem drowning depends chiefly on which property of diatoms, and how is a positive result in the marrow of a closed long bone interpreted?
+    A. Their calcium-carbonate shells dissolve in acid, so any diatoms recovered must be postmortem contaminants
+   *B. Their silica frustules resist strong-acid digestion; diatoms in the marrow of a closed bone imply they were carried there by the circulation during active (antemortem) drowning
+    C. Diatoms are proteinaceous and are destroyed by acid digestion, so their ABSENCE proves drowning
+    D. Diatoms enter closed bones equally by passive diffusion after death, so the test cannot indicate antemortem drowning
+   key=B ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Drowning (Diatom Test)
+   concept: Diatoms are microscopic algae whose cell wall (frustule) is made of silica and resists the strong nitric/sulphuric acid digestion used to destroy the surrounding soft tissue in the test. For diatoms to reach the marrow of a 'closed' bone such as the femur they must have been inhaled with water and distributed by a beating heart — so their presence there indicates antemortem drowning. Reliable interpretation requires matching the diatom species and counts with those of the drowning medium and rigorous laboratory controls, since contamination and mere presence in the lungs are far less conclusive.
+Q_GEN_FMT_ASPHYXIA_019 [H] A labourer is pinned across the chest under a collapsed wall for several minutes and dies. The face, neck and upper chest are deeply blue-purple with florid petechiae and marked subconjunctival haemorrhage, sharply demarcated at the level of compression. This 'masque ecchymotique' is characteristic of:
+    A. Carbon monoxide poisoning
+    B. Manual strangulation (throttling)
+   *C. Traumatic (crush/compression) asphyxia
+    D. Fresh-water drowning
+   key=C ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Traumatic Asphyxia
+   concept: Traumatic (crush or compression) asphyxia occurs when the chest, or chest and upper abdomen, is forcibly compressed — crowd crushes, vehicle or wall collapse, cave-ins — preventing respiratory movement. The abrupt rise in intrathoracic and cranial venous pressure drives blood backward into the valveless veins of the head and neck, producing intense congestion, cyanosis, countless petechiae over the face, neck and upper chest, and subconjunctival haemorrhage — the 'ecchymotic mask' (masque ecchymotique of Morestin), sharply bordered at the compression line. Death is from inability to breathe, not from vascular occlusion.
+Q_GEN_FMT_ASPHYXIA_020 [H] A heavily intoxicated man is found dead having slumped head-downward, doubled up in the narrow gap between a bed and the wall; there is no injury or natural disease to account for death. The most probable mechanism is:
+   *A. Postural (positional) asphyxia
+    B. Judicial hanging
+    C. Bansdola
+    D. Café coronary
+   key=A ref=The Synopsis of Forensic Medicine and Toxicology (K.S. Narayan Reddy) — Traumatic and Postural Asphyxia
+   concept: Postural (positional) asphyxia is death resulting from a body position that mechanically impairs respiration. Typically an incapacitated person — through alcohol, drugs, restraint or a seizure — becomes trapped head-down or with the neck and chest sharply flexed so that diaphragmatic and chest-wall movement, or the airway itself, is obstructed, and the person cannot extricate themselves. It is diagnosed largely by exclusion together with a position known to compromise breathing, is usually accidental, and is important in deaths during restraint or in custody.
+Q_GEN_FMT_ASPHYXIA_021 [H] A previously healthy 2-month-old infant who had been co-sleeping with an intoxicated adult is found dead in the bed with no injuries and no natural disease. The classic accidental asphyxial mechanism to be considered is:
+    A. Burking
+    B. Traumatic asphyxia from a crowd crush
+    C. Judicial hanging
+   *D. Overlaying (overlying) by the co-sleeping adult
+   key=D ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Smothering and Overlaying
+   concept: Overlaying (overlying) is accidental mechanical asphyxia of an infant when a co-sleeping adult — often intoxicated or in deep sleep — rolls over and covers the baby's nose and mouth or compresses its chest, preventing breathing. It is characteristically accidental. It must be carefully distinguished from Sudden Infant Death Syndrome (SIDS) and from deliberate smothering; the sleeping arrangement, the position in which the infant is found and the absence of any other cause guide interpretation, although definite proof is often difficult.
+Q_GEN_FMT_ASPHYXIA_022 [H] A young man is found dead alone in a locked room, partially suspended by a ligature that has soft padding beneath it, cross-dressed, surrounded by mirrors and pornographic material, with a self-release mechanism within reach that had failed. The most appropriate conclusion regarding the manner of death is:
+    A. Homicidal ligature strangulation
+   *B. Accidental death due to autoerotic (sexual) asphyxia
+    C. Suicidal hanging
+    D. Judicial hanging
+   key=B ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Sexual (Autoerotic) Asphyxia
+   concept: Autoerotic (sexual) asphyxia is self-induced partial asphyxia, usually by neck compression with a ligature, undertaken to heighten sexual pleasure through cerebral hypoxia; death occurs accidentally when the self-rescue mechanism fails. Characteristic scene findings include a solitary victim in a locked room, protective padding under the ligature, a binding or escape device within reach, erotic paraphernalia, mirrors, cross-dressing or bondage, usually no suicide note, and evidence of repeated previous activity. The manner of death is accidental, not suicide or homicide.
+Q_GEN_FMT_ASPHYXIA_023 [H] 'Burking', named after the notorious 19th-century body-snatching murderers, is a homicidal method of asphyxia that combines:
+    A. Ligature strangulation followed by drowning of the victim
+    B. Manual throttling followed by hanging of the body
+   *C. Smothering (closing the nose and mouth) together with traumatic asphyxia produced by sitting or kneeling on the chest
+    D. Gagging combined with administration of a chemical sedative
+   key=C ref=Modi's A Textbook of Medical Jurisprudence and Toxicology, 26th ed. — Smothering (Burking)
+   concept: Burking is the method used by Burke and Hare in Edinburgh in the 1820s, who killed people to sell their bodies for dissection. The assailant sits or kneels on the victim's chest — producing traumatic/compression asphyxia by fixing the chest — while simultaneously closing the mouth and nose with the hands (smothering). The combination causes rapid death with very few external marks: no ligature mark and minimal neck injury. This is medicolegally important because the true cause of death can easily be overlooked.
+Q_GEN_FMT_ASPHYXIA_024 [H] In a case of ligature strangulation, which single finding most strongly favours a HOMICIDAL rather than a suicidal manner of death?
+   *A. Multiple defence injuries on the hands and forearms with signs of a struggle and disturbed surroundings
+    B. A neatly tied single-loop knot at the front of the neck
+    C. A hesitantly written note found beside the body
+    D. A ligature short enough to have been applied by the deceased themselves
+   key=A ref=The Synopsis of Forensic Medicine and Toxicology (K.S. Narayan Reddy) — Strangulation (Medicolegal Aspects)
+   concept: Ligature strangulation is nearly always homicidal, because a person usually loses consciousness before a self-applied ligature can be tightened enough to be fatal; self-strangulation is possible only rarely, using a special self-locking knot or tourniquet that stays tight after consciousness is lost. Features favouring homicide include defence wounds on the hands and forearms, evidence of a struggle, disturbed clothing and surroundings, a knot tied at the back out of the victim's reach, and multiple or crossing marks. A self-applicable ligature or a note does not by itself establish suicide.
+Q_GEN_FMT_ASPHYXIA_025 [H] A man dives into very cold water and dies almost instantly, before any water can be aspirated; autopsy shows none of the usual signs of drowning. This 'immersion syndrome' (hydrocution) is best explained by:
+    A. Rapid haemodilution with hyperkalaemia
+    B. Massive pulmonary oedema caused by hypertonic water
+    C. Sustained laryngospasm trapping air within the lungs
+   *D. Sudden reflex cardiac arrest (vagal inhibition) triggered by cold water striking the skin, pharynx or larynx
+   key=D ref=Reddy's The Essentials of Forensic Medicine and Toxicology, 34th ed. — Drowning (Immersion Syndrome)
+   concept: Immersion syndrome ('hydrocution') is sudden death within seconds of entering water — usually cold water — from reflex vagal cardiac arrest (bradycardia proceeding to asystole) provoked by cold water striking the skin, or stimulating the pharynx and larynx, sometimes potentiated by alcohol or by a very full or empty stomach. Because no water is aspirated, the classic signs of drowning are absent. It is distinct from 'dry drowning' (laryngospasm) and from ordinary wet drowning.
+Q_GEN_FMT_ASPHYXIA_026 [H] In so-called 'dry drowning', which accounts for a minority of drowning deaths, the lungs at autopsy contain little or no water because death resulted from:
+    A. Immediate absorption of all the aspirated water into the bloodstream
+   *B. Persistent laryngeal spasm that seals the airway when water contacts the larynx, causing asphyxia with minimal aspiration
+    C. Reflex vagal cardiac arrest from cold-water shock
+    D. Postmortem drainage of water out of the lungs before autopsy
+   key=B ref=Parikh's Textbook of Medical Jurisprudence, Forensic Medicine and Toxicology — Drowning (Dry Drowning)
+   concept: 'Dry drowning' accounts for roughly 10-15% of drowning deaths. Contact of water with the sensitive laryngeal mucosa provokes intense, sustained laryngospasm that closes the glottis and prevents entry of both water and air, so death is from asphyxia with dry, non-oedematous lungs and little aspirated water. It is distinct from immersion syndrome, in which death is due to reflex vagal cardiac arrest, and from typical 'wet' drowning in which the lungs are voluminous and water-logged (emphysema aquosum).
+
+=== Forensic Medicine (FMT) / Common poisons (OPC, corrosives, snakebite)
+Q_A_037 [E] A farmer who ingested an insecticide has pinpoint pupils, profuse salivation, lacrimation, sweating, bronchorrhoea and muscle fasciculations. The specific antidotes are:
+    A. Naloxone
+   *B. Atropine and pralidoxime (2-PAM)
+    C. N-acetylcysteine
+    D. Flumazenil
+   key=B ref=Reddy, The Essentials of Forensic Medicine and Toxicology
+   concept: This is organophosphate (anticholinesterase) poisoning - a cholinergic crisis (muscarinic SLUDGE features plus fasciculations). Atropine blocks muscarinic effects and pralidoxime (2-PAM) reactivates acetylcholinesterase, most effective before enzyme 'ageing'.
+Q_A_038 [M] In chronic arsenic poisoning, which characteristic nail finding - transverse white bands across the nails - is seen?
+   *A. Mees' lines
+    B. Beau's lines
+    C. Koilonychia
+    D. Muehrcke's lines
+   key=A ref=Reddy, The Essentials of Forensic Medicine and Toxicology
+   concept: Chronic arsenic poisoning classically causes Mees' lines (transverse white bands), along with 'rain-drop' pigmentation, hyperkeratosis and peripheral neuropathy. Hair and nails are used for postmortem detection of arsenic.
+
+=== Forensic Medicine (FMT) / Death, postmortem changes (rigor/livor/algor)
+Q_A_033 [M] A body recovered from a closed room with a running charcoal heater shows cherry-red postmortem lividity. This coloration of hypostasis is most characteristic of:
+    A. Hydrogen sulphide poisoning
+   *B. Carbon monoxide poisoning
+    C. Organophosphate poisoning
+    D. Methaemoglobinaemia (chocolate-brown)
+   key=B ref=Reddy, The Essentials of Forensic Medicine and Toxicology
+   concept: Cherry-red livor mortis is classic for carbon monoxide poisoning (carboxyhaemoglobin), with a charcoal source pointing to CO. Hydrogen sulphide gives greenish lividity and methaemoglobinaemia gives brown lividity.
+Q_GEN_FMT_THANATOLOGY_001 [E] Molecular (cellular) death, as distinct from somatic death, is best defined as which of the following?
+    A. The irreversible stoppage of the functions of the brain, heart and lungs together
+   *B. The death of individual cells and tissues, occurring a few hours after somatic death
+    C. The point at which the electroencephalogram first becomes isoelectric
+    D. The instant at which the heart stops but respiration briefly continues
+   key=B ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Thanatology
+   concept: Somatic death is the irreversible cessation of the three interdependent systems — nervous, circulatory and respiratory. Molecular or cellular death follows it: individual cells and tissues survive briefly and die gradually, roughly 3-4 hours after somatic death, as their oxygen supply ceases. This residual cellular life is what allows tissues such as cornea and skin to be harvested for a short while after death. Option A actually defines somatic death, not molecular death.
+Q_GEN_FMT_THANATOLOGY_002 [E] According to Bichat's classification, the three modes of death are coma, syncope and asphyxia. Syncope as a mode of death results from primary failure of which system?
+    A. The respiratory system (lungs)
+    B. The central nervous system (brain)
+   *C. The circulatory system (heart)
+    D. The renal excretory system (kidneys)
+   key=C ref=Nandy, Principles of Forensic Medicine and Toxicology — Death and its Causes
+   concept: In Bichat's classical grouping, the mode of death names which of the three vital systems fails first. Coma is death from primary failure of the brain (nervous system), syncope is death from sudden and complete failure of the heart's action (circulation), and asphyxia is death from primary failure of respiration and oxygenation. Syncope may follow massive haemorrhage, a cardiac arrhythmia or vagal inhibition. The kidney is not one of Bichat's three modes.
+Q_GEN_FMT_THANATOLOGY_003 [H] A ventilated patient in an intensive care unit is being assessed for brainstem death. Which one of the following findings is COMPATIBLE with the diagnosis and does NOT exclude it?
+    A. A brisk pupillary reaction to light
+    B. Spontaneous respiratory effort during the apnoea test
+    C. An intact corneal reflex on both sides
+   *D. Preserved spinal reflexes such as a deep tendon jerk
+   key=D ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Death and Brainstem Death
+   concept: Brainstem death requires demonstrable, irreversible loss of all brainstem functions: fixed non-reacting pupils and absent corneal, oculocephalic, oculovestibular, gag and cough reflexes, with no respiratory drive on a formal apnoea test. Spinal-cord-mediated reflexes (deep tendon jerks, limb withdrawal, the Lazarus sign) may persist because the cord is still perfused, and their presence does NOT exclude brainstem death. A reacting pupil, an intact corneal reflex, or spontaneous respiration would each refute the diagnosis.
+Q_GEN_FMT_THANATOLOGY_004 [H] Which statement most accurately describes the postmortem body-temperature (algor mortis) curve?
+   *A. It is sigmoid, with an initial plateau during which cooling is minimal before the rapid phase
+    B. It is perfectly linear, the body losing exactly one degree Celsius every hour until it reaches ambient temperature
+    C. The core temperature always rises steadily for the first six hours before it begins to fall
+    D. Cooling is fastest at the very end, as the body nears the surrounding temperature
+   key=A ref=Modi's A Textbook of Medical Jurisprudence and Toxicology — Death and its Signs
+   concept: Although Newton's law of cooling (rate proportional to the body-environment gradient) is often invoked, in practice the cooling curve is sigmoid. There is an initial plateau or lag period (about half an hour to three hours) when the surface cools but core temperature falls little, because metabolism and internal equilibration continue; then a steep near-linear middle phase; then the rate slows again as the body approaches ambient temperature. Cooling is therefore slowest, not fastest, at the end.
+Q_GEN_FMT_THANATOLOGY_005 [E] As a simple rule of thumb in a temperate climate, at approximately what rate does a body lose heat during the early hours after death?
+    A. About 0.1 degree Fahrenheit per hour
+   *B. About 1.5 degrees Fahrenheit (roughly 0.8 degree Celsius) per hour
+    C. About 5 degrees Fahrenheit per hour
+    D. About 10 degrees Fahrenheit per hour
+   key=B ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Thanatology
+   concept: A widely quoted approximation is that in temperate conditions the body cools by roughly 1.5 degrees Fahrenheit (about 0.8 degree Celsius) per hour during the first several hours, cooling more slowly thereafter. This gives the classical rough estimate that hours since death is approximately (98.4 minus the rectal temperature in Fahrenheit) divided by 1.5. Because the rate depends heavily on body build, clothing and environment, temperature-based estimates of time since death are only approximate.
+Q_GEN_FMT_THANATOLOGY_006 [M] Four bodies are discovered at the same postmortem interval. Which one would be expected to have cooled the MOST rapidly?
+    A. An obese adult wrapped in a thick blanket in a warm room
+    B. A muscular adult, fully clothed, in a room at body temperature
+   *C. An emaciated infant lying unclothed on a cold stone floor
+    D. A heavily built adult who died of a septic fever in a warm ward
+   key=C ref=Nandy, Principles of Forensic Medicine and Toxicology — Cooling of the Body
+   concept: The rate of cooling rises with the ratio of body surface area to mass and with the temperature gradient to the surroundings. A thin infant has a very high surface-area-to-mass ratio, little insulating fat, no clothing, and lies on a cold conducting surface, so it cools fastest. Obesity, clothing or blankets, a warm environment, and a febrile state (a raised temperature at the moment of death) all slow apparent cooling. Hence the emaciated unclothed infant on cold stone cools most quickly.
+Q_GEN_FMT_THANATOLOGY_007 [M] The muscular stiffening of rigor mortis is produced by which underlying biochemical change?
+   *A. Depletion of ATP, so that actin and myosin remain locked together as inextensible actomyosin
+    B. Excess ATP that drives continuous active muscle contraction after death
+    C. Coagulation of muscle proteins by lactic-acid-induced heat
+    D. Bacterial gas production that mechanically splints the muscles
+   key=A ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Rigor Mortis
+   concept: During life ATP keeps the actin and myosin filaments dissociated, allowing muscle to relax. After death glycogen is consumed and ATP can no longer be regenerated; once ATP falls below roughly 85 percent of normal, actin and myosin bind irreversibly into rigid actomyosin, and the muscle becomes stiff and slightly shortened. Rigor passes off only when autolytic and putrefactive enzymes break down the actomyosin. It is thus an ATP-depletion phenomenon, not active contraction or bacterial gas.
+Q_GEN_FMT_THANATOLOGY_008 [M] According to Nysten's rule for the sequence of rigor mortis in the voluntary muscles, in which muscles does rigor typically first become apparent?
+    A. The large muscles of the lower limbs
+   *B. The muscles of the eyelids, face and lower jaw
+    C. The muscles of the trunk and abdominal wall
+    D. The small muscles of the fingers and toes
+   key=B ref=Modi's A Textbook of Medical Jurisprudence and Toxicology — Rigor Mortis
+   concept: Nysten's rule states that rigor mortis appears first in involuntary muscle (the heart) and then, in the voluntary muscles, follows a cranio-caudal (descending) sequence: eyelids, face and lower jaw, then neck, thorax and upper limbs, then trunk, and finally the lower limbs. It disappears in the same order in which it appeared. This ordered onset and passing-off is what underlies its use in estimating the time since death.
+Q_GEN_FMT_THANATOLOGY_009 [M] Which single feature most reliably distinguishes cadaveric spasm from ordinary rigor mortis?
+    A. It typically involves every voluntary muscle of the body at once
+    B. It can be easily broken by the examiner and will then re-form
+    C. It is always preceded by a period of primary muscular flaccidity
+   *D. It appears instantaneously at the moment of death, without any primary flaccidity
+   key=D ref=Nandy, Principles of Forensic Medicine and Toxicology — Cadaveric Spasm
+   concept: Cadaveric spasm (instantaneous rigor or cataleptic rigidity) sets in at the very instant of death with no preceding primary flaccidity, whereas ordinary rigor is preceded by 1-2 hours of flaccidity and takes hours to develop. Cadaveric spasm usually affects only one group of muscles that were in strong contraction at death (commonly the hand), is linked with intense emotion or exertion, cannot be reproduced and once broken cannot re-form, and its exact cause is unknown. Ordinary rigor affects all muscles and, if broken early, re-forms.
+Q_GEN_FMT_THANATOLOGY_010 [H] A body recovered from a house fire is heavily charred and lies in a flexed 'pugilistic (boxer's) attitude'. What is the correct interpretation of this posture?
+   *A. Heat-induced coagulation and shortening of muscles, with flexors overpowering the extensors
+    B. Cadaveric spasm proving the victim was fighting the flames while conscious
+    C. Ordinary rigor mortis that developed after the fire was extinguished
+    D. Deliberate positioning of the body by an assailant before ignition
+   key=A ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Injuries from Heat and Thanatology
+   concept: Exposure to intense heat (above roughly 65 degrees Celsius) coagulates and denatures muscle proteins, producing heat stiffening. Because the bulkier flexor muscles shorten more than the extensors, the limbs assume the flexed 'pugilistic' or boxer's attitude. Crucially, this posture develops whether the person was alive or already dead when burnt, so it has NO value in deciding whether the victim was alive in the fire. It is not cadaveric spasm and not ordinary rigor mortis.
+Q_GEN_FMT_THANATOLOGY_011 [M] A body left in a freezing environment becomes rigid within a short time. This 'cold stiffening', which disappears on rewarming, is due to what?
+    A. Very rapid depletion of ATP producing true rigor within minutes
+    B. Coagulation of the muscle proteins by the extreme cold
+   *C. Freezing of the tissue fluids and solidification of the subcutaneous fat
+    D. Instantaneous cadaveric spasm triggered by the cold
+   key=C ref=Modi's A Textbook of Medical Jurisprudence and Toxicology — Rigor Mortis and Cold Stiffening
+   concept: Cold stiffening is a physical, not biochemical, phenomenon: at freezing temperatures the body fluids freeze and the subcutaneous and other fat solidifies, making the body rigid, and on moving such a body the joints may crackle. When the body is rewarmed this stiffness disappears, and true rigor mortis then develops in the normal way. It must not be mistaken for genuine rigor, and it is distinct from heat stiffening, which is caused by coagulation of muscle proteins.
+Q_GEN_FMT_THANATOLOGY_012 [M] In which of the following circumstances would rigor mortis be expected to appear UNUSUALLY early and also pass off quickly?
+    A. Death from massive haemorrhage in a person kept in a cold room
+   *B. Death from strychnine poisoning after prolonged convulsions
+    C. Death of a healthy, well-rested young adult in a cool environment
+    D. Death of a well-nourished person immersed in cold water
+   key=B ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Rigor Mortis
+   concept: The onset and duration of rigor depend largely on how much ATP and glycogen remain in the muscle at death and on the temperature. When muscles are exhausted before death — as after strychnine or tetanus convulsions, violent exertion, high fever or an exhausting illness — ATP is already depleted, so rigor develops rapidly and also passes off quickly. Cold environments and a rested, well-nourished state delay its onset and prolong it. Hence strychnine convulsions produce early, short-lasting rigor.
+Q_GEN_FMT_THANATOLOGY_013 [M] Postmortem lividity (hypostasis) is said to become 'fixed' — no longer shifting when the position of the body is changed — after approximately how long?
+    A. Within the first 30 minutes after death
+    B. About 2 to 3 hours after death
+   *C. About 6 to 8 hours after death
+    D. Only after 48 hours, coinciding with putrefaction
+   key=C ref=Nandy, Principles of Forensic Medicine and Toxicology — Postmortem Lividity
+   concept: Lividity begins as dull-red patches within about half an hour to one hour of death, coalesces, and is usually well developed by about 4 hours; up to that time it shifts if the body is turned. By roughly 6 to 8 hours it becomes 'fixed' owing to haemoconcentration, transudation and damage to the vessel walls, so that it no longer moves with a change of posture and no longer blanches fully on pressure. Fixation of lividity is therefore a useful, if approximate, marker of time since death and of original body position.
+Q_GEN_FMT_THANATOLOGY_014 [H] A dark brown (chocolate-coloured) postmortem lividity is most characteristic of poisoning by which of the following?
+    A. Carbon monoxide from a faulty room heater
+    B. Hydrogen cyanide taken orally
+    C. Hydrogen sulphide gas in a sewer
+   *D. Nitrites, potassium chlorate or aniline compounds
+   key=D ref=Modi's A Textbook of Medical Jurisprudence and Toxicology — Postmortem Lividity
+   concept: The colour of postmortem staining can hint at the cause of death. Methaemoglobin-forming poisons — nitrites, nitrates, potassium chlorate, aniline, nitrobenzene and acetanilide — turn the blood, and hence the lividity, dark brown (chocolate). Carbon monoxide and cyanide give a cherry-red or bright pink hue, hydrogen sulphide and early putrefaction give a greenish discolouration, and simple asphyxia gives deep bluish-purple lividity. Recognising the brown tint points toward a methaemoglobinaemia-producing agent.
+Q_GEN_FMT_THANATOLOGY_015 [M] At autopsy an incision is made into a purple discolouration of the skin. Which finding indicates postmortem lividity rather than a bruise (contusion)?
+   *A. Blood lies free within the vessels and washes away, leaving the tissues uninfiltrated
+    B. Blood is clotted, infiltrates the subcutaneous tissues, and cannot be washed off
+    C. There is swelling and elevation of the overlying skin
+    D. The colour changes progressively through green and yellow over several days
+   key=A ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Postmortem Lividity and Bruises
+   concept: Lividity is intravascular: on incision the blood remains inside the vessels and can be wiped or washed away, the cut surface is clean, the tissues are not infiltrated and there is no swelling. A bruise is extravascular: blood has escaped into and coagulated within the tissues, so on incision it infiltrates the subcutaneous tissue, cannot be washed off, is often swollen or elevated, and its colour evolves over days if the person survived. These features reliably separate hypostasis from a true contusion.
+Q_GEN_FMT_THANATOLOGY_016 [M] The small dark petechial haemorrhages known as 'Tardieu spots', seen in the dependent parts of a body, are caused by what?
+    A. Antemortem trauma indicating a struggle before death
+    B. Bacterial colonisation of the skin during early putrefaction
+    C. Fat embolism lodging in the dermal capillaries
+   *D. Rupture of distended capillaries in areas of intense postmortem hypostasis
+   key=D ref=Nandy, Principles of Forensic Medicine and Toxicology — Postmortem Lividity
+   concept: Tardieu spots are pin-point (about 0.1-0.5 mm) petechial haemorrhages that appear in the most dependent, deeply congested parts of a body, particularly where hypostasis is intense and where death was associated with asphyxia. They result from the raised intravascular pressure of pooled, settling blood rupturing small distended capillaries and venules. They are a postmortem phenomenon and should not be misread as evidence of antemortem injury or of disease.
+Q_GEN_FMT_THANATOLOGY_017 [E] Within an area of well-developed livor mortis, the skin over pressure points such as the shoulder blades and buttocks remains pale. Why?
+    A. These areas have no blood vessels in the dermis
+    B. Bacterial decomposition bleaches these regions first
+   *C. Compression of the capillaries prevents blood from settling in them
+    D. Livor selectively spares areas with thicker skin
+   key=C ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Postmortem Lividity
+   concept: Livor mortis develops as gravity draws blood into the dependent capillaries and small vessels. Wherever the body presses firmly against a supporting surface, or where tight clothing or a ligature compresses the skin, the underlying capillaries are squeezed shut and blood cannot pool there, so those areas stay pale — 'contact pallor' or contact flattening. The pattern of these pale pressure marks helps indicate the position of the body after death and the presence of constricting objects.
+Q_GEN_FMT_THANATOLOGY_018 [E] The earliest external sign of putrefaction is a greenish discolouration of the skin appearing first over which region of the body?
+   *A. The right iliac fossa, over the caecum
+    B. The forehead and the scalp
+    C. The soles of both feet
+    D. The palms of both hands
+   key=A ref=Modi's A Textbook of Medical Jurisprudence and Toxicology — Putrefaction
+   concept: The first external sign of putrefaction is a greenish discolouration of the skin over the right iliac fossa, appearing in temperate climates in about 12-18 hours (sooner in the tropics). The caecum lies superficially there, is loaded with bacteria and fluid, and its contents are thin; hydrogen sulphide generated by the bacteria combines with haemoglobin to form greenish sulphaemoglobin, which stains the overlying skin. From there the discolouration spreads over the abdomen and then the rest of the body.
+Q_GEN_FMT_THANATOLOGY_019 [M] During putrefaction a branching, reddish-brown to greenish network becomes visible over the shoulders, chest and thighs, following the line of the superficial veins. This 'marbling' is produced by what?
+    A. Dilatation of lymphatic channels filled with chyle
+    B. Deposition of bile pigment along the venous walls
+    C. Antemortem thrombosis of the superficial veins
+   *D. Haemolysed blood reacting with hydrogen sulphide along the superficial veins
+   key=D ref=Nandy, Principles of Forensic Medicine and Toxicology — Putrefaction
+   concept: Marbling appears roughly 36-48 hours into putrefaction. Blood haemolyses within the superficial veins, and the released haemoglobin reacts with hydrogen sulphide produced by bacteria to form reddish-brown and then greenish sulphaemoglobin and iron sulphide, which stain the vessel walls and the adjacent skin. This outlines the branching pattern of the subcutaneous veins, giving the marbled or arborescent appearance, most obvious over the shoulders, chest, abdomen, groin and limbs.
+Q_GEN_FMT_THANATOLOGY_020 [H] Casper's dictum states that, other conditions being equal, the putrefaction of a body exposed to air for one week corresponds to that of a body immersed in water, or buried in earth, for what respective periods?
+   *A. Two weeks in water and eight weeks in earth
+    B. Eight weeks in water and two weeks in earth
+    C. Four weeks in water and eight weeks in earth
+    D. One week in water and one week in earth
+   key=A ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Putrefaction
+   concept: Casper's dictum expresses the relative rates of putrefaction in the three common environments as a ratio of air : water : earth = 1 : 2 : 8. In other words a body decomposes in air about twice as fast as in water and about eight times as fast as when buried in earth; thus one week of decomposition in air corresponds roughly to two weeks in water and eight weeks in the ground, assuming comparable temperature and other conditions. Burial, especially in deep, dry, cool soil, greatly retards decomposition.
+Q_GEN_FMT_THANATOLOGY_021 [M] A body recovered after several weeks from a damp, waterlogged grave shows a greyish-white, greasy, wax-like material replacing the subcutaneous fat. Formation of this change (adipocere) requires which conditions?
+    A. A hot, dry environment with free circulation of air
+   *B. Moisture together with a warm environment, hydrolysing and hydrogenating the body fat
+    C. Sustained freezing temperatures
+    D. The complete absence of any bacteria
+   key=B ref=Modi's A Textbook of Medical Jurisprudence and Toxicology — Adipocere
+   concept: Adipocere (saponification) is a modification of putrefaction in which body fat is converted into a greyish-white, greasy, wax-like substance of fatty acids and their salts. It needs moisture (from the body itself or a damp or watery surrounding) and warmth, and is promoted by anaerobic bacteria such as Clostridium welchii, whose lipases hydrolyse fat to fatty acids that are then hydrogenated. It develops in bodies immersed in water or lying in wet graves; earliest changes take about three weeks and full formation several months. A hot dry environment favours mummification instead.
+Q_GEN_FMT_THANATOLOGY_022 [M] A body recovered from a hot, dry desert is shrivelled and dry, with brown, leathery skin, the features still recognisable and no offensive smell. This form of preservation (mummification) develops under which conditions?
+    A. Immersion in cold running water for several weeks
+    B. Burial in a damp, poorly drained clay soil
+    C. Storage in a cold, humid mortuary environment
+   *D. A hot, dry atmosphere with free circulation of air, causing rapid dehydration
+   key=D ref=Nandy, Principles of Forensic Medicine and Toxicology — Mummification
+   concept: Mummification is the dehydration and desiccation of the tissues that occurs when a body lies in a hot, dry environment with good air circulation, as in deserts or dry vaults. Rapid loss of water dries and shrinks the tissues before bacteria can multiply, so putrefaction is arrested; the skin becomes brown, dry and leathery, the body shrivels, yet the features and even injuries may remain recognisable. Moisture favours adipocere instead, and mere cold only delays decomposition without producing mummification.
+Q_GEN_FMT_THANATOLOGY_023 [H] In forensic entomology, the minimum time since death of a decomposing body is estimated chiefly from which observation?
+   *A. Identifying the species and the developmental stage (instar) of the oldest maggots present
+    B. Counting the total number of adult flies hovering around the body
+    C. Measuring the ambient humidity at the scene at the moment of discovery
+    D. Weighing the body and comparing it with the expected antemortem weight
+   key=A ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Estimation of Time Since Death
+   concept: Blowflies and flesh flies are attracted to a body within minutes to hours and lay eggs in the natural orifices and wounds. The eggs hatch into first-instar larvae (maggots), which grow through successive instars, pupate, and emerge as adults on a known, temperature-dependent timetable. By identifying the fly species and the developmental stage of the oldest and largest larvae or pupae, and correcting for temperature, an entomologist estimates the minimum postmortem interval. The mere number of adult flies, or the ambient humidity alone, cannot date the death.
+Q_GEN_FMT_THANATOLOGY_024 [H] Which biochemical change in the vitreous humour of the eye is used to help estimate the time since death?
+    A. A progressive fall in the potassium concentration
+   *B. A progressive rise in the potassium concentration
+    C. A steady rise in the glucose concentration
+    D. A rapid rise in the sodium concentration
+   key=B ref=Modi's A Textbook of Medical Jurisprudence and Toxicology — Estimation of Time Since Death
+   concept: After death potassium leaks out of the retinal and other ocular cells into the vitreous humour, so its concentration rises steadily and fairly predictably with the postmortem interval, usefully up to about 100 hours. Because the vitreous is anatomically isolated and resists putrefaction, it gives more reliable postmortem chemistry than blood. In contrast, vitreous sodium and chloride tend to fall and glucose falls after death; it is the RISE in potassium that is applied to estimate the time since death.
+Q_GEN_FMT_THANATOLOGY_025 [H] A body is found with the eyes open. A yellowish to brownish-black horizontal band is seen across the exposed sclera on either side of the cornea. This 'tache noire' is due to what?
+    A. Subconjunctival haemorrhage from strangulation
+    B. Deposition of bile pigment in scleral jaundice
+   *C. Desiccation (drying) of the exposed area of sclera after death
+    D. A malignant melanoma of the conjunctiva
+   key=C ref=Nandy, Principles of Forensic Medicine and Toxicology — Changes in the Eye after Death
+   concept: When the eyelids remain open after death, the strip of sclera exposed on either side of the cornea dries out. As it desiccates it first appears yellowish and then forms a brownish-black band called the tache noire de la sclerotique. It is purely a postmortem drying artefact and is neither haemorrhage, jaundice nor tumour. The exposed cornea similarly loses its lustre and becomes cloudy and opaque as it dries, which is another early ocular postmortem change.
+Q_GEN_FMT_THANATOLOGY_026 [H] At autopsy the stomach is found full of recently eaten, easily recognisable and largely undigested food. In relation to the last meal, this finding most reliably suggests that death occurred approximately when?
+    A. About 12 hours after the last meal
+    B. About 24 hours after the last meal
+    C. Several days after the last meal
+   *D. Within roughly 1 to 2 hours of the last meal
+   key=D ref=Reddy's The Essentials of Forensic Medicine and Toxicology — Estimation of Time Since Death
+   concept: The stomach normally begins to empty soon after eating and is largely empty within a few hours (a light meal in about 2 hours, a full meal in about 4-6 hours). A stomach full of recently ingested, recognisable and undigested food therefore indicates death within roughly one to two hours of the last meal, and the nature of the food may itself help identify the meal. Because gastric emptying is affected by illness, emotion, drugs and the type of meal, this estimate of time since the last meal is only a rough guide and must be corroborated.
+
+=== Forensic Medicine (FMT) / Legal procedure, consent, key IPC sections
+Q_A_039 [M] Under Indian criminal law (Bharatiya Nyaya Sanhita 2023, which replaced the IPC), below which age is a child granted absolute immunity from criminal responsibility (doli incapax)?
+   *A. 7 years
+    B. 12 years
+    C. 16 years
+    D. 18 years
+   key=A ref=Bharatiya Nyaya Sanhita 2023 (in force 01-Jul-2024); Reddy, Forensic Medicine
+   concept: A child under 7 years is doli incapax - absolutely incapable of committing an offence (BNS Section 20, formerly IPC Section 82). Between 7 and 12 years, immunity applies only if the child lacks sufficient maturity of understanding (BNS Section 21, formerly IPC 83).
+Q_A_040 [E] In India, the minimum age generally taken as sufficient for a person to give valid consent to an ordinary medical examination (absent an overriding statute such as POCSO) is:
+    A. 7 years
+   *B. 12 years
+    C. 16 years
+    D. 18 years
+   key=B ref=Reddy, The Essentials of Forensic Medicine and Toxicology
+   concept: By convention a person aged 12 years or above can give valid consent for a general medical examination; below 12 guardian consent is required. Consent to procedures carrying a risk of harm requires 18 years, and statutes such as POCSO may override for minors in sexual-offence cases.
+Q_PYQ_FMGE_2025JANP1_017 [M] A villager assaulted by 4-5 people is brought to hospital in serious condition and his dying declaration is being taken. Which of the following is correct regarding this process?
+   *A. A Magistrate can record the statement
+    B. A doctor can record the statement
+    C. Leading questions can be asked
+    D. Oath is compulsory before recording the statement
+   key=A ref=FMGE January 2025 Part 1 (real exam recall)
+   concept: A dying declaration is ideally recorded by a Magistrate; no oath is administered and leading questions must be avoided. NOTE: option B (a doctor may record it, e.g. when a Magistrate is unavailable) is also true, so the item is ambiguous - the exam key is A.
+Q_h3d_022 [M] A stabbing victim, fully conscious but dying, names his assailant to the attending doctor before he succumbs. At trial the defence objects that this statement was not made on oath and the maker could not be cross-examined. Which statement about the evidentiary status of a dying declaration in India is correct?
+   *A. It is admissible even though not made on oath and untested by cross-examination
+    B. It is inadmissible unless recorded only by a magistrate
+    C. It is inadmissible because the maker cannot be cross-examined
+    D. It is valid only if the declarant was expecting to die
+   key=A ref=Reddy, The Essentials of Forensic Medicine and Toxicology; Bharatiya Sakshya Adhiniyam 2023 (replaced Indian Evidence Act) - current section number to be confirmed
+   concept: A dying declaration is admissible substantive evidence and may be recorded by a magistrate, a doctor or any person; it needs no oath and cannot be cross-examined, resting on the maxim 'nemo moriturus praesumitur mentiri', and in Indian law (unlike English law) the declarant need not have been under expectation of death. VERIFY: the governing provision was Section 32(1) of the Indian Evidence Act 1872, now replaced by the Bharatiya Sakshya Adhiniyam 2023 - confirm the current section number before relying on it, as this is law-currency-dependent.
+
+=== Forensic Medicine (FMT) / Wounds, firearm & mechanical injuries
+Q_A_034 [M] In firearm injuries, 'tattooing' (stippling) from unburnt and semi-burnt powder grains embedded in the skin indicates a wound fired from:
+    A. Contact range
+   *B. Intermediate (close) range
+    C. Distant range, beyond the carry of powder
+    D. Any range regardless of distance
+   key=B ref=Reddy, The Essentials of Forensic Medicine and Toxicology
+   concept: Tattooing/stippling indicates an intermediate (close) range wound, as powder grains travel only a limited distance. Contact wounds show muzzle imprint, singeing and blackening; distant wounds show only the bullet's mechanical effect without powder marks.
+
+[62 shown of 62 unverified in scope]

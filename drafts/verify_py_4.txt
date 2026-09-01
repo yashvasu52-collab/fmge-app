@@ -1,0 +1,44 @@
+Q_PY_LNG_001 | del | duplicate of Q_PY_LNG_011, which gives the same unmeasurable residual volume and additionally the methods that do measure it. The fuller item is retained
+Q_PY_LNG_003 | del | duplicate of Q_PY_LNG_013, which gives the same surface tension and compliance effect and additionally names the type II cell. The fuller item is retained
+Q_PY_LNG_004 | del | duplicate of Q_PY_LNG_016, which distinguishes the same physiological from anatomical dead space and additionally names the Bohr equation. The fuller item is retained
+Q_PY_LNG_006 | del | duplicate of Q_PY_LNG_014, which tests the same gravitational ventilation and perfusion gradient from the other end. The apex item is retained
+Q_PY_LNG_010 | del | duplicate of Q_PY_LNG_015, which gives the same obstructive ratio and additionally contrasts it with the restrictive pattern. The fuller item is retained
+Q_PY_MUS_002 | del | duplicate of Q_PYQ_FMGE_2025JANP1_008 on the sarcomere bands during contraction, whose distractors already test the constant A band. The real exam recall is retained
+Q_PY_MUS_013 | del | duplicate of Q_PYQ_FMGE_2025JANP1_008 on which sarcomere bands shorten during contraction. The real exam recall is retained
+Q_PY_MUS_008 | del | duplicate of Q_PY_CCE_005, which states the same length-tension relationship and additionally the sarcomere mechanism. The fuller item is retained
+Q_A_017 | del | duplicate of Q_PYQ_FMGE_2025JANP2_027 on the factors shifting the oxygen dissociation curve to the right, and its chapter was the placeholder "Physiology". The real exam recall is retained
+Q_h3d_010 | ref=Guyton and Hall Textbook of Medical Physiology 14e, Ch. The Adrenocortical Hormones | the reference named the book with no chapter
+Q_PYQ_FMGE_2024JUN_031 | ref=FMGE June 2024 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Regulation of Respiration | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_021 | ref=FMGE January 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Transport of Oxygen and Carbon Dioxide in Blood and Tissue Fluids | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_027 | ref=FMGE January 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Transport of Oxygen and Carbon Dioxide in Blood and Tissue Fluids | exam-paper-only reference given a study source
+Q_PY_HAF_007 | ok |
+Q_PY_LNG_002 | ok |
+Q_PY_LNG_005 | ok |
+Q_PY_LNG_007 | ok |
+Q_PY_LNG_008 | ok |
+Q_PY_LNG_009 | ok |
+Q_PY_LNG_011 | ok |
+Q_PY_LNG_012 | ok |
+Q_PY_LNG_013 | ok |
+Q_PY_LNG_014 | ok |
+Q_PY_LNG_015 | ok |
+Q_PY_LNG_016 | ok |
+Q_PY_LNG_017 | ok |
+Q_PY_LNG_018 | ok |
+Q_PY_LNG_019 | ok |
+Q_PY_MUS_005 | ok |
+Q_PY_MUS_009 | ok |
+Q_PY_MUS_010 | ok |
+Q_PY_MUS_012 | ok |
+Q_PY_MUS_014 | ok |
+Q_PY_MUS_015 | ok |
+Q_PY_MUS_016 | ok |
+Q_PY_MUS_017 | ok |
+Q_PY_MUS_019 | ok |
+Q_PY_OCT_002 | ok |
+Q_PY_OCT_003 | ok |
+Q_PY_OCT_004 | ok |
+Q_PY_OCT_005 | ok |
+Q_PY_OCT_006 | ok |
+Q_PY_OCT_007 | ok |
+Q_PY_OCT_008 | ok |

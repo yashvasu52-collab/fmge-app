@@ -1,0 +1,400 @@
+
+=== Orthopedics / Bone tumours; CTEV, DDH
+Q_GEN_ORTHO_TUMOR_CONG_001 [E] Which of the following is the most common benign bone tumour?
+    A. Osteoid osteoma
+    B. Enchondroma
+   *C. Osteochondroma (osteocartilaginous exostosis)
+    D. Giant cell tumour
+   key=C ref=Maheshwari's Essential Orthopaedics — Bone Tumours (Benign Tumours)
+   concept: Osteochondroma is the commonest benign bone tumour, arising from the metaphysis of long bones (typically around the knee) as a bony projection capped by cartilage that points away from the adjacent joint. Malignant change to chondrosarcoma is rare (~1%), suggested by a cartilage cap thicker than 2 cm or renewed growth after skeletal maturity. Osteoid osteoma, enchondroma and giant cell tumour are all less common.
+Q_GEN_ORTHO_TUMOR_CONG_002 [M] A 19-year-old man complains of well-localised bone pain that is worst at night and is dramatically relieved by aspirin or other NSAIDs. Radiograph shows a small (<1 cm) radiolucent nidus surrounded by dense reactive sclerosis in the femoral cortex. The most likely diagnosis is:
+   *A. Osteoid osteoma
+    B. Osteoblastoma
+    C. Brodie's abscess
+    D. Stress fracture
+   key=A ref=Apley's System of Orthopaedics and Fractures — Bone Tumours
+   concept: Osteoid osteoma classically causes night pain relieved by NSAIDs because the nidus produces prostaglandins; the nidus is a small (<1 cm) radiolucent focus with surrounding reactive sclerosis, best localised on CT. Osteoblastoma is larger (>2 cm), favours the spine and has less night-pain/NSAID response. Brodie's abscess is subacute osteomyelitis, and a stress fracture shows a periosteal reaction along a stress line rather than a discrete nidus.
+Q_GEN_ORTHO_TUMOR_CONG_003 [M] The combination of multiple enchondromas with soft-tissue haemangiomas is known as:
+    A. Ollier disease
+    B. McCune-Albright syndrome
+    C. Gardner syndrome
+   *D. Maffucci syndrome
+   key=D ref=Maheshwari's Essential Orthopaedics — Bone Tumours (Cartilaginous Tumours)
+   concept: Maffucci syndrome is multiple enchondromatosis plus soft-tissue haemangiomas, whereas Ollier disease is multiple enchondromatosis without haemangiomas; both carry an increased risk of malignant transformation to chondrosarcoma, higher in Maffucci. McCune-Albright is polyostotic fibrous dysplasia with café-au-lait spots and endocrinopathy, and Gardner syndrome combines colonic polyposis with osteomas and desmoid tumours.
+Q_GEN_ORTHO_TUMOR_CONG_004 [H] A 16-year-old presents with knee pain. Radiograph shows a well-defined lytic lesion confined to the epiphysis of the proximal tibia with fine internal calcification, and the growth plate is still open. Biopsy shows chondroid cells with 'chicken-wire' calcification. The diagnosis is:
+    A. Giant cell tumour
+   *B. Chondroblastoma
+    C. Chondromyxoid fibroma
+    D. Osteosarcoma
+   key=B ref=Campbell's Operative Orthopaedics — Benign Bone Tumours
+   concept: Chondroblastoma is a rare benign tumour arising in the epiphysis/apophysis of a skeletally immature patient (open physis), showing 'chicken-wire' calcification and S-100 positivity. Giant cell tumour is also epiphyseal but occurs after physeal closure in the mature skeleton. Chondromyxoid fibroma is metaphyseal, and osteosarcoma is an aggressive metaphyseal lesion with bone destruction and periosteal reaction, not a well-defined epiphyseal lesion.
+Q_GEN_ORTHO_TUMOR_CONG_005 [E] Osteosarcoma most commonly arises at which anatomical location?
+    A. Diaphysis of the femur
+    B. Epiphysis of the proximal humerus
+   *C. Metaphysis around the knee
+    D. Vertebral body
+   key=C ref=Maheshwari's Essential Orthopaedics — Malignant Bone Tumours (Osteosarcoma)
+   concept: Osteosarcoma most commonly arises in the metaphysis of long bones around the knee (distal femur > proximal tibia), followed by the proximal humerus, typically in adolescents. Radiological hallmarks are sunburst/sunray spiculation and Codman's triangle from aggressive periosteal reaction. The diaphysis is the classic site of Ewing sarcoma, the epiphysis suggests chondroblastoma or giant cell tumour, and vertebral bodies are common sites for metastases and myeloma.
+Q_GEN_ORTHO_TUMOR_CONG_006 [M] The characteristic cytogenetic translocation of Ewing sarcoma is:
+   *A. t(11;22)(q24;q12)
+    B. t(9;22)(q34;q11)
+    C. t(X;18)(p11;q11)
+    D. t(2;13)(q35;q14)
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — Bones and Joints (cross-referenced with Apley's)
+   concept: Ewing sarcoma is defined by t(11;22)(q24;q12) producing the EWSR1-FLI1 fusion; it is a small round blue cell tumour that is CD99 (MIC2) positive with PAS-positive intracytoplasmic glycogen, arising in the diaphysis with an onion-skin (laminated) periosteal reaction. t(9;22) is the Philadelphia chromosome of CML/ALL, t(X;18) is seen in synovial sarcoma, and t(2;13) occurs in alveolar rhabdomyosarcoma.
+Q_GEN_ORTHO_TUMOR_CONG_007 [M] A 62-year-old man has back pain, anaemia and a markedly raised ESR. Skull radiograph shows multiple well-defined 'punched-out' lytic lesions without a sclerotic rim, and urine contains Bence-Jones protein. The most likely diagnosis is:
+    A. Osteoporosis
+   *B. Multiple myeloma
+    C. Metastatic prostate carcinoma
+    D. Primary hyperparathyroidism
+   key=B ref=Apley's System of Orthopaedics and Fractures — Bone Tumours (Myeloma)
+   concept: Multiple myeloma is a plasma-cell malignancy causing punched-out lytic lesions without a sclerotic rim, Bence-Jones (light-chain) proteinuria, an M-band, rouleaux formation, hypercalcaemia and renal failure; lesions are typically 'cold' on a technetium bone scan because there is no osteoblastic reaction. Prostatic metastases are characteristically osteoblastic, and hyperparathyroidism produces brown tumours and a salt-and-pepper skull rather than discrete punched-out lesions.
+Q_GEN_ORTHO_TUMOR_CONG_008 [E] The most common malignant tumour of bone overall is:
+    A. Osteosarcoma
+    B. Ewing sarcoma
+    C. Chondrosarcoma
+   *D. Metastatic carcinoma
+   key=D ref=Maheshwari's Essential Orthopaedics — Metastatic Bone Tumours
+   concept: Metastatic carcinoma is by far the commonest malignant tumour of bone; the primaries are recalled by 'BLT-KP' — Breast, Lung, Thyroid, Kidney and Prostate — and they favour the axial (red-marrow) skeleton. Osteosarcoma is the commonest primary malignant bone tumour if myeloma is excluded. Most metastases are osteolytic, while prostate carcinoma is characteristically osteoblastic.
+Q_GEN_ORTHO_TUMOR_CONG_009 [H] Which primary malignancy most characteristically produces osteoblastic (sclerotic) bone metastases?
+    A. Renal cell carcinoma
+    B. Thyroid carcinoma
+   *C. Prostate carcinoma
+    D. Lung carcinoma
+   key=C ref=Campbell's Operative Orthopaedics — Metastatic Disease of Bone
+   concept: Prostate carcinoma classically causes osteoblastic (sclerotic) metastases, associated with a raised alkaline phosphatase and PSA, whereas breast cancer produces mixed lesions. Renal cell and thyroid carcinomas typically give expansile, vascular, osteolytic 'blow-out' metastases (which can be pulsatile), and lung carcinoma metastases are usually lytic. Recognising blastic versus lytic patterns helps direct the search for the primary tumour.
+Q_GEN_ORTHO_TUMOR_CONG_010 [M] A 30-year-old woman has distal femoral pain. Radiograph shows an eccentric, expansile 'soap-bubble' lytic lesion at the epiphysis extending up to the subchondral bone, with no surrounding sclerotic rim, and the growth plate is fused. The most likely diagnosis is:
+    A. Aneurysmal bone cyst
+   *B. Giant cell tumour
+    C. Osteosarcoma
+    D. Chondrosarcoma
+   key=B ref=Maheshwari's Essential Orthopaedics — Giant Cell Tumour
+   concept: Giant cell tumour (osteoclastoma) is benign but locally aggressive, occurring in the mature skeleton (after physeal closure, typically 20-40 years) at the epi-metaphyseal region extending to subchondral bone; it shows an eccentric lytic 'soap-bubble' appearance without a sclerotic margin. It has a high local recurrence after curettage and rarely gives benign lung metastases. Campanacci grading describes its radiological aggressiveness; ABC shows fluid-fluid levels and osteosarcoma shows aggressive bone destruction.
+Q_GEN_ORTHO_TUMOR_CONG_011 [M] Fluid-fluid levels on MRI within an expansile, eccentric metaphyseal lytic lesion in an adolescent are most characteristic of:
+   *A. Aneurysmal bone cyst
+    B. Simple bone cyst
+    C. Enchondroma
+    D. Osteoid osteoma
+   key=A ref=Apley's System of Orthopaedics and Fractures — Cystic Lesions of Bone
+   concept: An aneurysmal bone cyst contains blood-filled spaces that produce fluid-fluid levels on MRI/CT due to sedimentation; it is an eccentric, expansile 'blown-out' metaphyseal lesion in patients under 20 and may be secondary to other lesions such as GCT, chondroblastoma or osteosarcoma. A simple bone cyst is centrally located, an enchondroma shows chondroid calcification, and osteoid osteoma has a sclerotic nidus. Because telangiectatic osteosarcoma can also show fluid-fluid levels, biopsy is still needed.
+Q_GEN_ORTHO_TUMOR_CONG_012 [M] A 10-year-old boy sustains a pathological fracture through a well-defined central lytic lesion in the proximal humeral metaphysis. A small bony fragment is seen lying within the lesion (the 'fallen fragment sign'). The diagnosis is:
+    A. Aneurysmal bone cyst
+    B. Fibrous dysplasia
+    C. Ewing sarcoma
+   *D. Unicameral (simple) bone cyst
+   key=D ref=Maheshwari's Essential Orthopaedics — Simple Bone Cyst
+   concept: A unicameral (simple) bone cyst is a fluid-filled cavity that is centrally located in the proximal humeral or femoral metaphysis in children and often presents as a pathological fracture; the 'fallen fragment/leaf sign' — a cortical fragment sinking to the dependent part of the fluid-filled cyst — is pathognomonic. An aneurysmal bone cyst is eccentric with fluid-fluid levels, and treatment of a simple cyst is by aspiration and steroid injection or curettage with bone grafting.
+Q_GEN_ORTHO_TUMOR_CONG_013 [H] A young girl has precocious puberty, café-au-lait macules with irregular 'coast of Maine' borders, and a ground-glass lytic lesion of the proximal femur producing a 'shepherd's crook' deformity. This constellation is best described as:
+    A. Neurofibromatosis type 1
+    B. Ollier disease
+    C. Osteogenesis imperfecta
+   *D. McCune-Albright syndrome
+   key=D ref=Campbell's Operative Orthopaedics — Fibrous Dysplasia
+   concept: McCune-Albright syndrome combines polyostotic fibrous dysplasia, café-au-lait macules with irregular 'coast of Maine' borders and endocrinopathy (classically precocious puberty), caused by a post-zygotic GNAS1 mutation. Fibrous dysplasia gives a ground-glass appearance and a 'shepherd's crook' (coxa vara) deformity of the proximal femur. Neurofibromatosis type 1 has smooth 'coast of California' café-au-lait spots with neurofibromas, distinguishing it from this presentation.
+Q_GEN_ORTHO_TUMOR_CONG_014 [H] An asymptomatic, well-defined eccentric metaphyseal lucent lesion with a sclerotic scalloped margin, found incidentally in a child and usually regressing spontaneously, is:
+    A. Chondrosarcoma
+    B. Osteosarcoma
+   *C. Non-ossifying fibroma
+    D. Brodie's abscess
+   key=C ref=Apley's System of Orthopaedics and Fractures — Fibrous Lesions of Bone
+   concept: Non-ossifying fibroma (fibroxanthoma), when small and cortex-based, is called a fibrous cortical defect; it is a very common, asymptomatic, incidental eccentric metaphyseal lucency with a sclerotic scalloped border in children and adolescents, and it typically ossifies and regresses spontaneously. It is a 'leave-me-alone/do-not-touch' lesion needing no treatment unless it is large and threatens pathological fracture. Chondrosarcoma and osteosarcoma are aggressive, and Brodie's abscess is subacute osteomyelitis.
+Q_GEN_ORTHO_TUMOR_CONG_015 [H] Which statement about chondrosarcoma is correct?
+    A. It typically affects children under 10 years of age
+   *B. It is largely radio- and chemo-resistant and is treated by wide surgical excision
+    C. It arises most often in the small bones of the hand
+    D. Codman's triangle and sunburst spiculation are its radiological hallmarks
+   key=B ref=Maheshwari's Essential Orthopaedics — Chondrosarcoma
+   concept: Chondrosarcoma is a malignant cartilage-forming tumour of older adults (40-60 years) affecting axial and flat bones such as the pelvis, proximal femur, ribs and shoulder girdle; it is relatively radio- and chemo-resistant, so wide en-bloc surgical excision is the mainstay of treatment. It is not a childhood tumour, enchondromas of the small hand bones rarely turn malignant, and sunburst/Codman's triangle are features of osteosarcoma rather than chondrosarcoma.
+Q_GEN_ORTHO_TUMOR_CONG_016 [H] Which of the following is a fundamental principle of bone-tumour biopsy?
+    A. Excisional biopsy is preferred for all suspected malignant tumours
+    B. Biopsy should always precede clinical and radiological assessment
+    C. The biopsy tract should be placed transversely, away from the definitive resection plane
+   *D. The biopsy tract must be placed so that it can be excised en-bloc with the definitive resection
+   key=D ref=Campbell's Operative Orthopaedics — Principles of Tumour Biopsy and Enneking Staging
+   concept: Biopsy is the last step, performed after clinical evaluation and imaging and ideally at the definitive treating centre; the tract must be longitudinal and positioned so it can be removed en-bloc with the tumour at definitive surgery, because a poorly placed or transverse tract seeds tumour and can convert a limb-salvage case into an amputation. For suspected malignancy, incisional or core-needle biopsy is preferred over excisional biopsy. Enneking's surgical staging uses grade, site/compartment and metastasis.
+Q_GEN_ORTHO_TUMOR_CONG_017 [E] The deformities of congenital talipes equinovarus (CTEV) are remembered by the mnemonic 'CAVE'. Which of the following is NOT a component of CTEV?
+    A. Midfoot cavus
+    B. Forefoot adductus
+   *C. Hindfoot valgus
+    D. Ankle equinus
+   key=C ref=Maheshwari's Essential Orthopaedics — Congenital Talipes Equinovarus (CTEV)
+   concept: The four components of clubfoot (CTEV) are given by CAVE: Cavus of the midfoot, Adductus of the forefoot, Varus of the hindfoot and Equinus of the ankle. The hindfoot in CTEV is in VARUS, not valgus, so hindfoot valgus is not a component. In the Ponseti sequence the cavus is corrected first and the hindfoot varus and equinus are corrected last, equinus often requiring a tendo-Achilles tenotomy.
+Q_GEN_ORTHO_TUMOR_CONG_018 [M] In the Ponseti method for idiopathic clubfoot, after serial weekly manipulation and casting the residual ankle equinus is most often corrected by:
+   *A. Percutaneous tendo-Achilles tenotomy
+    B. Extensive posteromedial soft-tissue release
+    C. Triple arthrodesis
+    D. Tibialis anterior tendon transfer
+   key=A ref=Apley's System of Orthopaedics and Fractures — Clubfoot (Ponseti Method)
+   concept: In the Ponseti technique, serial manipulation and casting correct the cavus, then adductus, then varus; a tight tendo-Achilles causing residual equinus is corrected by a percutaneous Achilles tenotomy in roughly 80-90% of cases, after which a foot-abduction (Denis Browne) brace is worn to prevent relapse. Extensive posteromedial soft-tissue release is now largely avoided because it causes stiffness, while triple arthrodesis and tendon transfers are reserved for older or relapsed feet.
+Q_GEN_ORTHO_TUMOR_CONG_019 [H] Assertion (A): Idiopathic CTEV generally responds better to Ponseti casting than syndromic clubfoot. Reason (R): Syndromic clubfoot, as in arthrogryposis and myelomeningocele, is rigid, more resistant to correction and has a higher relapse rate. Choose the correct option:
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Campbell's Operative Orthopaedics — Congenital Clubfoot (Idiopathic vs Syndromic)
+   concept: Idiopathic clubfoot is supple and responds well to Ponseti casting, whereas syndromic or teratologic clubfoot associated with arthrogryposis, spina bifida/myelomeningocele or diastrophic dysplasia is rigid, resistant to correction and relapses more often, frequently requiring surgery. Both the assertion and the reason are true, and the rigidity/resistance described in the reason is precisely why syndromic feet respond less well, so R correctly explains A.
+Q_GEN_ORTHO_TUMOR_CONG_020 [M] During newborn hip screening, the examiner adducts the flexed hip and applies a posteriorly directed force, feeling the femoral head slip out of the acetabulum. This provocative manoeuvre is the:
+    A. Ortolani test
+   *B. Barlow test
+    C. Galeazzi test
+    D. Thomas test
+   key=B ref=Maheshwari's Essential Orthopaedics — Developmental Dysplasia of the Hip (Clinical Tests)
+   concept: The Barlow test is the provocative (dislocating) test: the flexed hip is adducted and pushed posteriorly, and a dislocatable head is felt to slip out of the acetabulum. The Ortolani test is the reduction test, in which abduction with an anterior lift relocates an already-dislocated hip with a palpable clunk. The Galeazzi sign detects unequal knee heights from femoral shortening/dislocation, and the Thomas test assesses a fixed flexion deformity of the hip.
+Q_GEN_ORTHO_TUMOR_CONG_021 [M] For diagnosing developmental dysplasia of the hip (DDH) in an infant younger than 6 months, the investigation of choice is:
+    A. Plain radiograph (AP pelvis)
+    B. CT scan
+    C. MRI
+   *D. Ultrasonography (Graf method)
+   key=D ref=Apley's System of Orthopaedics and Fractures — Developmental Dysplasia of the Hip (Imaging)
+   concept: Before about 4-6 months the femoral head is largely cartilaginous and its ossific nucleus has not appeared, so plain radiographs are unreliable; ultrasonography (Graf's method, using alpha and beta angles) is the imaging modality of choice and allows dynamic assessment. After roughly 6 months, once the ossific nucleus appears, plain radiographs become useful using Hilgenreiner's and Perkin's lines, Shenton's line and the acetabular index. CT/MRI are reserved for complex or post-reduction assessment.
+Q_GEN_ORTHO_TUMOR_CONG_022 [H] A 3-year-old girl presents with a painless limp. Examination shows a positive Trendelenburg sign, limb shortening and an extra thigh skin crease, and neglected unilateral DDH is diagnosed. The most appropriate management is:
+    A. Pavlik harness
+    B. Observation until skeletal maturity
+   *C. Open reduction with femoral and/or pelvic osteotomy
+    D. Closed reduction with a hip spica cast alone
+   key=C ref=Campbell's Operative Orthopaedics — Developmental Dysplasia of the Hip (Late Presentation)
+   concept: A Pavlik harness is effective only in early infancy (younger than about 6 months); in a walking child with neglected/established DDH, closed reduction usually fails, so open reduction combined with femoral shortening-derotation and/or a pelvic osteotomy (Salter or Pemberton) is required to achieve and maintain a concentric, stable hip. A positive Trendelenburg sign reflects abductor (gluteus medius) insufficiency because the dislocated head loses its normal fulcrum. Simple observation would leave the hip dysplastic and painful.
+Q_GEN_ORTHO_TUMOR_CONG_023 [E] Achondroplasia, the commonest form of short-limb (rhizomelic) dwarfism, is caused by a mutation in which gene?
+    A. COL1A1 gene
+   *B. FGFR3 gene
+    C. FBN1 gene
+    D. GNAS1 gene
+   key=B ref=Maheshwari's Essential Orthopaedics — Skeletal Dysplasias (Achondroplasia)
+   concept: Achondroplasia is an autosomal dominant condition (most cases arising from new mutations, with a paternal age effect) caused by a gain-of-function mutation in FGFR3 that impairs endochondral ossification, producing rhizomelic (proximal) limb shortening, a trident hand, frontal bossing, spinal canal stenosis, but a normal trunk and normal intelligence. COL1A1 mutations cause osteogenesis imperfecta, FBN1 causes Marfan syndrome, and GNAS1 is implicated in fibrous dysplasia/McCune-Albright syndrome.
+Q_GEN_ORTHO_TUMOR_CONG_024 [M] Assertion (A): Osteogenesis imperfecta classically presents with recurrent fractures and blue sclerae. Reason (R): It results from a qualitative or quantitative defect in type I collagen. Choose the correct option:
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Apley's System of Orthopaedics and Fractures — Osteogenesis Imperfecta
+   concept: Osteogenesis imperfecta ('brittle bone disease') arises from defective type I collagen (COL1A1/COL1A2 mutations), producing fragile bones with recurrent low-trauma fractures, blue sclerae (thin sclera revealing the underlying choroid), dentinogenesis imperfecta, conductive hearing loss, ligamentous laxity and wormian bones in the skull. Both the assertion and the reason are true, and the type I collagen defect directly explains both the fragility and the blue sclerae, so R is the correct explanation of A.
+Q_S_005 [M] A 15-year-old presents with a painful swelling around the knee. X-ray of the lower femur shows a destructive metaphyseal lesion with a 'sunburst/sunray' spiculated pattern and a Codman's triangle. The most likely diagnosis is:
+    A. Ewing's sarcoma
+   *B. Osteosarcoma
+    C. Giant cell tumour
+    D. Osteochondroma
+   key=B ref=Maheshwari, Essential Orthopaedics
+   concept: Osteosarcoma occurs in adolescents at the metaphysis around the knee (lower femur/upper tibia), with 'sunburst' spiculation and Codman's triangle (elevated periosteum). Ewing's sarcoma shows an 'onion-peel' lamellated periosteal reaction and favours the diaphysis; giant cell tumour is epiphyseal/subarticular in the mature skeleton.
+Q_S_006 [E] During newborn examination the paediatrician flexes and abducts the hip and feels a palpable 'clunk' as the femoral head relocates into the acetabulum, suggesting developmental dysplasia of the hip. This manoeuvre is known as:
+    A. Barlow's test
+   *B. Ortolani's test
+    C. Trendelenburg test
+    D. Thomas test
+   key=B ref=Maheshwari, Essential Orthopaedics
+   concept: Ortolani's test relocates a dislocated hip (abduction with a palpable clunk of reduction), while Barlow's test is the provocative dislocation test (adduction plus posterior pressure). Both screen for DDH in neonates; ultrasound is the imaging of choice under 6 months of age.
+
+=== Orthopedics / Osteomyelitis & TB spine
+Q_GEN_ORTHO_INFECTION_001 [E] Which single organism is the commonest cause of acute haematogenous osteomyelitis across all age groups?
+    A. Streptococcus pyogenes
+   *B. Staphylococcus aureus
+    C. Pseudomonas aeruginosa
+    D. Salmonella typhi
+   key=B ref=Maheshwari's Essential Orthopaedics, 6th ed — Bone and Joint Infections (Acute Osteomyelitis)
+   concept: Staphylococcus aureus is by far the most frequent organism in acute haematogenous osteomyelitis at all ages because of its adhesins that bind bone matrix and its ability to survive intracellularly. Streptococcus pyogenes causes a minority of cases; Pseudomonas is linked to IV drug use and puncture wounds; Salmonella is characteristic of sickle-cell disease. Knowing S. aureus predominates guides empirical anti-staphylococcal antibiotic choice before cultures return.
+Q_GEN_ORTHO_INFECTION_002 [E] A 7-year-old known to have sickle-cell disease develops fever with pain and swelling of the forearm and is diagnosed with osteomyelitis. Which organism is characteristically associated with osteomyelitis in this setting?
+    A. Escherichia coli
+    B. Group B Streptococcus
+   *C. Salmonella species
+    D. Neisseria gonorrhoeae
+   key=C ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Acute Haematogenous Osteomyelitis
+   concept: Salmonella osteomyelitis is classically over-represented in sickle-cell disease, attributed to micro-infarction of gut and bone that seeds Salmonella and to functional hyposplenism impairing clearance of encapsulated organisms. Although Staphylococcus aureus is still numerically common even in sickle-cell patients, Salmonella is the association exams test. E. coli and Group B Strep suit neonates, and gonococcus causes septic arthritis in sexually active adults, not this presentation.
+Q_GEN_ORTHO_INFECTION_003 [M] Assertion (A): In neonatal osteomyelitis, spread of infection into the adjacent joint (secondary septic arthritis) is rare. Reason (R): In neonates and infants, some metaphyseal blood vessels cross the physis (growth plate) to reach the epiphysis. Choose the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true, but R is false
+   *D. A is false, but R is true
+   key=D ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Osteomyelitis in Infants
+   concept: The assertion is false: in neonates and infants joint spread is actually common, not rare. The reason is true — before about 18 months some metaphyseal vessels perforate the physis into the epiphysis, so infection readily reaches the joint, causing secondary septic arthritis and growth-plate damage. In older children the physis acts as a barrier, confining infection to the metaphysis. Because a false assertion pairs with a true reason, the answer is 'A false, R true'.
+Q_GEN_ORTHO_INFECTION_004 [M] A 26-year-old intravenous drug user presents with pain, swelling and warmth of the sternoclavicular joint with adjacent bone involvement. Besides Staphylococcus aureus, which organism is classically associated with bone and joint infection at unusual sites in this population?
+   *A. Pseudomonas aeruginosa
+    B. Salmonella enteritidis
+    C. Group B Streptococcus
+    D. Coagulase-negative Staphylococcus
+   key=A ref=Campbell's Operative Orthopaedics, 14th ed — Osteomyelitis (special settings)
+   concept: Intravenous drug users classically develop infection at unusual axial sites (sternoclavicular, sacroiliac, vertebral) and Pseudomonas aeruginosa is the organism characteristically over-represented in this group along with S. aureus. Salmonella suggests sickle-cell disease, Group B Streptococcus suits neonates, and coagulase-negative staphylococci (S. epidermidis) characterise prosthetic/implant infection via biofilm. Recognising the IVDU-Pseudomonas link influences empirical anti-pseudomonal cover and imaging of axial joints.
+Q_GEN_ORTHO_INFECTION_005 [M] Acute haematogenous osteomyelitis in children characteristically begins in the metaphysis of long bones. Which feature best explains this predilection?
+    A. The metaphysis has the richest anastomotic arterial supply, promoting rapid bacterial clearance
+   *B. Sluggish blood flow in the hairpin loops of non-anastomosing metaphyseal capillaries favours bacterial lodgement
+    C. The growth plate is the most vascular part of the bone and acts as the primary nidus
+    D. Metaphyseal bone is covered by unusually thick periosteum that traps organisms
+   key=B ref=Maheshwari's Essential Orthopaedics, 6th ed — Pathology of Acute Osteomyelitis
+   concept: In the child's metaphysis, nutrient-artery branches form hairpin loops that empty into wide, non-anastomosing venous sinusoids where blood flow is sluggish and phagocytic activity is relatively low; this stasis lets circulating bacteria settle and multiply. It is a low-flow, poorly-defended zone, not a rich anastomotic bed (so A is wrong). The physis is relatively avascular and acts as a barrier rather than a nidus (C wrong), and periosteal thickness does not explain metaphyseal seeding (D wrong).
+Q_GEN_ORTHO_INFECTION_006 [E] In chronic osteomyelitis, a fragment of dead, avascular bone that has separated from surrounding living bone is termed:
+    A. Involucrum
+    B. Cloaca
+   *C. Sequestrum
+    D. Brodie's abscess
+   key=C ref=Maheshwari's Essential Orthopaedics, 6th ed — Chronic Osteomyelitis (terminology)
+   concept: A sequestrum is a piece of necrotic, avascular bone that has separated from viable bone; because it is dead and lacks blood supply, antibiotics cannot penetrate it and it perpetuates infection until surgically removed (sequestrectomy). By contrast, an involucrum is the new living bone laid down by periosteum around it, a cloaca is the opening through the involucrum through which pus escapes, and a Brodie's abscess is a walled-off subacute focus. Radiologically a sequestrum appears denser than the surrounding osteopenic living bone.
+Q_GEN_ORTHO_INFECTION_007 [M] The layer of new, living bone laid down by the stripped and elevated periosteum, which comes to surround infected or dead bone in chronic osteomyelitis, is called:
+    A. Sequestrum
+    B. Cloaca
+    C. Sinus tract
+   *D. Involucrum
+   key=D ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Chronic Osteomyelitis
+   concept: The involucrum is the sheath of new living bone formed by the periosteum, which is lifted off by subperiosteal pus; it envelops the infected/dead bone and can eventually reconstitute the shaft. It is perforated by openings called cloacae through which pus and sequestra discharge to a skin sinus. The involucrum is living and vascular, opposite to the dead sequestrum it surrounds; distinguishing the two is central to planning saucerisation and sequestrectomy in chronic osteomyelitis.
+Q_GEN_ORTHO_INFECTION_008 [M] In chronic osteomyelitis, the openings in the involucrum through which pus and small pieces of dead bone are discharged are known as:
+   *A. Cloacae
+    B. Sequestra
+    C. Brodie's abscesses
+    D. Ring sequestra
+   key=A ref=Maheshwari's Essential Orthopaedics, 6th ed — Chronic Osteomyelitis (terminology)
+   concept: Cloacae are the holes in the involucrum through which pus, granulation tissue and small sequestra escape, ultimately reaching the skin via a sinus tract. A sequestrum is the dead bone itself; a Brodie's abscess is a localised subacute abscess with a sclerotic rim; a ring sequestrum is the specific circumferential dead bone seen around a pin track or amputation stump. Understanding that cloacae are conduits, not dead bone, clarifies why simply draining pus without removing the sequestrum fails to cure the infection.
+Q_GEN_ORTHO_INFECTION_009 [M] A 15-year-old boy has several months of intermittent, dull pain near the upper end of the tibia with little systemic upset. Radiograph shows a well-defined round lucency surrounded by a rim of reactive sclerosis in the metaphysis. The most likely diagnosis is:
+    A. Osteoid osteoma
+   *B. Brodie's abscess (subacute osteomyelitis)
+    C. Ewing's sarcoma
+    D. Giant cell tumour
+   key=B ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Subacute Osteomyelitis (Brodie's abscess)
+   concept: A Brodie's abscess is a localised subacute osteomyelitis, typically in the proximal tibial metaphysis of a child or adolescent, presenting with chronic low-grade pain and minimal systemic signs; the classic X-ray is a round lucency with a sclerotic margin. Osteoid osteoma also has a lucent nidus with sclerosis but causes night pain dramatically relieved by NSAIDs. Ewing's sarcoma shows an aggressive permeative lesion with lamellated periosteal reaction and systemic upset; a giant cell tumour is epiphyseal/subarticular in a skeletally mature patient.
+Q_GEN_ORTHO_INFECTION_010 [M] A child has clinical features strongly suggestive of acute osteomyelitis, but the plain radiograph of the limb is normal. Which imaging investigation is the most sensitive for detecting early disease?
+    A. Repeat plain radiograph after 48 hours
+    B. Diagnostic ultrasound of the limb
+   *C. Magnetic resonance imaging (MRI)
+    D. Non-contrast CT scan
+   key=C ref=Maheshwari's Essential Orthopaedics, 6th ed — Investigations in Osteomyelitis
+   concept: MRI is the most sensitive imaging test in early osteomyelitis: marrow oedema (low T1, high T2/STIR signal) appears within days, well before plain-film changes, and it also delineates subperiosteal or soft-tissue abscesses to guide drainage. Plain radiographs lag by 10-14 days, so repeating them early is low-yield; ultrasound can show subperiosteal collections but is less sensitive for marrow; CT is best for cortical detail and sequestra but is poor for early marrow oedema and adds radiation.
+Q_GEN_ORTHO_INFECTION_011 [M] Assertion (A): A normal plain radiograph in the first few days does not exclude acute osteomyelitis. Reason (R): Bony radiographic changes such as osteopenia and periosteal reaction lag behind the disease, appearing only after about 10-14 days. Choose the correct option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=A ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Imaging in Acute Osteomyelitis
+   concept: Both statements are true and the reason explains the assertion. Detectable bone loss on plain film requires roughly 30-50% demineralisation, which takes about 10-14 days; hence early films are often normal, and the earliest visible change is deep soft-tissue swelling, not bone destruction. Because bony signs lag, a normal early radiograph cannot rule out osteomyelitis and MRI or bone scan should be used when clinical suspicion is high. The lag directly justifies the assertion, so option A is correct.
+Q_GEN_ORTHO_INFECTION_012 [H] A three-phase Technetium-99m MDP bone scan is performed for suspected osteomyelitis. Which statement best describes its role?
+    A. It is highly specific and reliably separates infection from fracture or tumour
+    B. It becomes positive only after two weeks, later than the plain radiograph
+    C. It is the investigation of choice for demonstrating a sequestrum
+   *D. It becomes positive early (within 24-72 hours) and is sensitive, but is relatively non-specific
+   key=D ref=Campbell's Operative Orthopaedics, 14th ed — Imaging of Musculoskeletal Infection
+   concept: A radionuclide (Tc-99m MDP) bone scan turns positive within 24-72 hours, well before plain films, and is sensitive, so it is useful when MRI is unavailable or when multifocal disease is suspected; however increased uptake also occurs with fracture, tumour, surgery and arthropathy, making it non-specific. It is thus not confirmatory (A wrong), it is earlier than X-ray not later (B wrong), and CT — not scintigraphy — best shows a sequestrum's dense cortical detail (C wrong). MRI generally supersedes it for anatomical localisation.
+Q_GEN_ORTHO_INFECTION_013 [H] What is the most definitive method to establish the causative organism in acute haematogenous osteomyelitis?
+    A. Serum C-reactive protein (CRP)
+   *B. Culture of a bone aspirate or biopsy, together with blood cultures
+    C. MRI of the affected limb
+    D. Total leucocyte count
+   key=B ref=Maheshwari's Essential Orthopaedics, 6th ed — Diagnosis of Acute Osteomyelitis
+   concept: Definitive identification of the organism — essential for targeted, prolonged antibiotic therapy — comes from culture of material aspirated or biopsied from the infected bone/subperiosteal collection, ideally with paired blood cultures (positive in roughly 50-60% of acute cases). CRP and total leucocyte count are sensitive markers of inflammation and useful for monitoring response but do not name the organism. MRI localises and characterises infection but is not microbiological. Whenever feasible, samples should be taken before starting antibiotics.
+Q_GEN_ORTHO_INFECTION_014 [M] A 9-year-old with acute haematogenous osteomyelitis is started on appropriate intravenous antibiotics. Which management principle is correct?
+    A. Antibiotics are given for three days and stopped once the child is afebrile
+    B. Surgical drainage is contraindicated in all cases of osteomyelitis
+   *C. Antibiotics are continued for about 4-6 weeks; surgical drainage is indicated if there is an abscess or no clinical improvement within about 48 hours
+    D. Oral antibiotics alone are adequate from the outset regardless of severity
+   key=C ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Treatment of Acute Osteomyelitis
+   concept: Acute osteomyelitis needs a prolonged course — typically initial IV antibiotics followed by oral therapy for a total of about 4-6 weeks — because dead/poorly-vascularised bone clears organisms slowly, and premature cessation invites chronic osteomyelitis. Surgery is indicated when there is a drainable abscess (subperiosteal/soft-tissue) or when there is no clinical response within roughly 48 hours of adequate antibiotics. Thus three days is far too short (A), surgery is sometimes essential (B), and severe cases require initial IV therapy, not oral alone (D).
+Q_GEN_ORTHO_INFECTION_015 [H] A 55-year-old man has had a chronically discharging sinus over the tibia from long-standing osteomyelitis for 30 years. The sinus margin has recently become raised, everted and ulcerated with a foul discharge. The most likely complication is:
+    A. Secondary amyloidosis
+    B. Basal cell carcinoma
+    C. Chronic recurrent multifocal osteomyelitis
+   *D. Squamous cell carcinoma (Marjolin's ulcer)
+   key=D ref=Maheshwari's Essential Orthopaedics, 6th ed — Complications of Chronic Osteomyelitis
+   concept: A Marjolin's ulcer is a squamous cell carcinoma arising in chronically inflamed tissue such as a long-standing osteomyelitis sinus, burn scar or ulcer; the tell-tale signs are raised everted margins, increasing size and foul discharge after years of a stable sinus, warranting biopsy. It is typically slow-growing but can metastasise. Amyloidosis is a systemic sequela of chronic suppuration, not a change at the sinus margin; basal cell carcinoma does not arise this way; and chronic recurrent multifocal osteomyelitis is a distinct non-suppurative paediatric condition.
+Q_GEN_ORTHO_INFECTION_016 [H] The Cierny-Mader classification is used to stage which condition, and on what basis?
+   *A. Chronic osteomyelitis, based on the anatomic type of bone involvement combined with the physiologic (host) status
+    B. Acute septic arthritis, based on the synovial fluid cell count
+    C. Spinal tuberculosis, based on the number of vertebrae involved
+    D. Prosthetic joint infection, based only on the time since surgery
+   key=A ref=Campbell's Operative Orthopaedics, 14th ed — Chronic Osteomyelitis (Cierny-Mader staging)
+   concept: The Cierny-Mader system stages adult chronic osteomyelitis by combining an anatomic type (I medullary, II superficial, III localised, IV diffuse) with a physiologic host class (A normal, B compromised locally/systemically, C treatment worse than disease). This links extent of bone disease with host healing capacity to guide surgery and prognosis. It is not a septic-arthritis, spinal-TB or purely time-based prosthetic-infection scheme, which is why the other options are wrong; recognising host class B explains why comorbidities (diabetes, smoking, vascular disease) worsen outcomes.
+Q_GEN_ORTHO_INFECTION_017 [E] Which is the most commonly affected joint in acute septic (pyogenic) arthritis in adults?
+    A. Shoulder
+   *B. Knee
+    C. Ankle
+    D. Wrist
+   key=B ref=Maheshwari's Essential Orthopaedics, 6th ed — Acute Septic Arthritis
+   concept: In adults the knee is the most commonly involved joint in acute septic arthritis, being large, superficial and frequently exposed to trauma and haematogenous seeding; it presents with a hot, swollen, exquisitely tender joint held in slight flexion with global restriction of movement. In infants and young children the hip is the classic site. The shoulder, ankle and wrist are affected less often. Rapid diagnosis matters because pus digests articular cartilage within days, threatening permanent joint destruction.
+Q_GEN_ORTHO_INFECTION_018 [M] A 23-year-old sexually active woman presents with migratory polyarthralgia, tenosynovitis of the wrist, and scattered pustular skin lesions, along with an acutely inflamed knee. The most likely cause of her arthritis is:
+    A. Staphylococcus aureus
+    B. Rheumatoid arthritis
+   *C. Neisseria gonorrhoeae (disseminated gonococcal infection)
+    D. Reactive (post-dysenteric) arthritis
+   key=C ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Gonococcal Arthritis
+   concept: In a young, sexually active adult the triad of migratory polyarthralgia, tenosynovitis and pustular/vesicopustular skin lesions is the classic disseminated gonococcal infection caused by Neisseria gonorrhoeae; it may evolve into frank purulent monoarthritis and responds to ceftriaxone. Staphylococcus aureus typically causes single-joint pyogenic arthritis without the dermatitis-tenosynovitis picture. Rheumatoid arthritis is chronic and symmetrical, and reactive arthritis follows urethritis/dysentery with a seronegative, culture-negative aseptic joint. Recognising gonococcus prompts genital cultures and partner treatment.
+Q_GEN_ORTHO_INFECTION_019 [M] Kocher's criteria help differentiate septic arthritis of the hip from transient synovitis in a child. Which option correctly lists these four predictors?
+    A. Age under 2 years, groin pain, limp, and a positive hip ultrasound
+    B. Fever, raised CRP, positive blood culture, and a joint effusion
+    C. Night pain, weight loss, raised ESR, and a positive Mantoux test
+   *D. Inability to bear weight, temperature above 38.5°C, ESR above 40 mm/hr, and WBC above 12,000/mm3
+   key=D ref=Campbell's Operative Orthopaedics, 14th ed — Septic Arthritis in Children (Kocher criteria)
+   concept: Kocher's four independent predictors of septic arthritis of the hip are: non-weight-bearing on the affected side, temperature above 38.5°C, ESR above 40 mm/hr, and serum white cell count above 12,000/mm3; the probability of septic arthritis rises steeply as more criteria are met (from a few percent with one to over 90% with all four). The other option sets mix in ultrasound, blood culture or TB features that are not part of Kocher's original prediction rule, which is why they are incorrect for this classic decision aid.
+Q_GEN_ORTHO_INFECTION_020 [H] A 4-year-old has confirmed acute septic arthritis of the knee with frank pus obtained on aspiration. What is the most appropriate management principle?
+   *A. Urgent surgical drainage/washout of the joint plus intravenous antibiotics, because pus rapidly destroys articular cartilage
+    B. A trial of oral antibiotics for one week before considering any drainage
+    C. Immobilisation and NSAIDs alone, reserving antibiotics for failure
+    D. Intra-articular corticosteroid injection to reduce inflammation
+   key=A ref=Maheshwari's Essential Orthopaedics, 6th ed — Treatment of Acute Septic Arthritis
+   concept: Frank pus in a joint is a surgical emergency: proteolytic and lysosomal enzymes from leucocytes and bacteria digest articular cartilage within days, so treatment is urgent drainage (arthrotomy, arthroscopic washout or repeated aspiration) combined with prompt intravenous antibiotics. Delaying with oral antibiotics alone (B), relying on NSAIDs/immobilisation without antibiotics (C), or injecting steroids (D) all allow irreversible cartilage loss, growth-plate damage and later degenerative arthritis. Early decompression preserves the joint and reduces sequelae.
+Q_GEN_ORTHO_INFECTION_021 [M] A patient with tuberculosis of the lower lumbar spine develops a soft, fluctuant, non-tender swelling in the groin/femoral triangle. This cold abscess has most likely tracked along which structure?
+    A. The adductor longus muscle
+    B. The sartorius muscle
+   *C. The psoas (iliopsoas) sheath
+    D. The femoral artery sheath
+   key=C ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — Spinal Tuberculosis (cold abscess)
+   concept: A tuberculous cold abscess from the lumbar spine typically dissects along the psoas (iliopsoas) muscle sheath and may present as a fluctuant swelling in the groin/femoral triangle, or point below the inguinal ligament; hence the term psoas abscess. It is 'cold' because it lacks the acute inflammatory signs of a pyogenic abscess. Tracking does not follow the adductor longus or sartorius, and although the abscess appears near the femoral vessels it descends within the psoas sheath, not the arterial sheath. A psoas abscess may cause a positive psoas (hip-flexion) sign.
+Q_GEN_ORTHO_INFECTION_022 [E] Destruction and anterior collapse of adjacent vertebral bodies in Pott's disease of the spine typically produces which characteristic deformity?
+    A. Scoliosis
+   *B. Gibbus (a sharp, angular kyphosis)
+    C. Exaggerated lumbar lordosis
+    D. Flat-back deformity
+   key=B ref=Maheshwari's Essential Orthopaedics, 6th ed — Tuberculosis of the Spine (deformity)
+   concept: Because tuberculosis preferentially destroys the anterior parts of the vertebral bodies, they wedge and collapse forward, producing a gibbus — a localised, sharp, angular kyphosis (a knuckle-shaped prominence) rather than a smooth rounded curve. This is the classic deformity of spinal TB and can be palpated as a prominent spinous process. Scoliosis is a lateral curve, lordosis is a reversed sagittal curve, and flat-back is loss of normal lordosis; none reflects the anterior vertebral-body collapse of Pott's disease.
+Q_GEN_ORTHO_INFECTION_023 [H] Assertion (A): In tuberculous spondylitis the intervertebral disc space is relatively preserved until late in the disease. Reason (R): Mycobacterium tuberculosis lacks the proteolytic (disc-digesting) enzymes produced by pyogenic bacteria. Choose the correct option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=A ref=Apley & Solomon's System of Orthopaedics and Trauma, 10th ed — TB versus Pyogenic Spondylodiscitis
+   concept: Both statements are true and R explains A. Unlike pyogenic organisms, M. tuberculosis does not elaborate proteolytic enzymes that rapidly destroy the disc, so in spinal TB the disc space is relatively spared while adjacent vertebral bodies are eroded (paradiscal lesion) and the infection spreads under the anterior longitudinal ligament to affect multiple contiguous levels. In pyogenic spondylodiscitis the disc is destroyed early with rapid narrowing. This disc-preservation-versus-early-destruction contrast is a key radiological discriminator, making option A correct.
+Q_GEN_ORTHO_INFECTION_024 [H] A patient with Pott's disease has vertebral involvement but no neurological deficit and a clinically stable spine. Which statement about management is correct?
+    A. Radical surgical debridement is required in every case before anti-tubercular drugs are started
+    B. Anti-tubercular therapy is unnecessary provided a spinal brace is applied
+    C. Immediate spinal fusion is indicated for all patients who have a cold abscess
+   *D. Anti-tubercular chemotherapy is the mainstay; surgery is reserved for progressive or non-responding neurological deficit, gross instability/deformity, or a large abscess
+   key=D ref=Maheshwari's Essential Orthopaedics, 6th ed — Treatment of Spinal Tuberculosis (indications for surgery)
+   concept: The mainstay of spinal TB treatment is prolonged multidrug anti-tubercular chemotherapy (typically 4-drug intensive phase then continuation, often 12-18 months), and most patients without neurological deficit heal on drugs plus supportive measures. Surgery (decompression, debridement, stabilisation) is reserved for specific indications: neurological deficit that is progressive or fails to respond to ATT, gross instability or severe/progressive kyphotic deformity, and a large or non-resolving abscess. Hence ATT is not optional (B), and neither routine pre-treatment debridement (A) nor fusion for every abscess (C) is warranted.
+Q_GEN_ORTHO_INFECTION_025 [H] A patient develops an indolent, low-grade infection of a total hip replacement several months after surgery. Which organism is most characteristically responsible, owing to its ability to form biofilm on the implant?
+    A. Staphylococcus aureus
+    B. Escherichia coli
+   *C. Coagulase-negative Staphylococcus (Staphylococcus epidermidis)
+    D. Streptococcus pyogenes
+   key=C ref=Campbell's Operative Orthopaedics, 14th ed — Prosthetic (Periprosthetic) Joint Infection
+   concept: Coagulase-negative staphylococci, chiefly Staphylococcus epidermidis, are the organisms most characteristically responsible for delayed, low-grade prosthetic joint infection because they produce a glycocalyx biofilm on the implant surface that shields them from antibiotics and host defences, causing an indolent course with subtle pain and loosening rather than florid sepsis. Staphylococcus aureus tends to cause more acute, aggressive infection; E. coli and Streptococcus pyogenes are less typical implant biofilm formers. Eradication usually requires implant removal or exchange plus prolonged antibiotics, since biofilm cannot be cleared by drugs alone.
+Q_PYQ_INICET_2025MAY_015 [M] According to WHO, which of the following is the recommended diagnostic test for spinal tuberculosis?
+    A. X-ray
+    B. CT scan
+   *C. CB-NAAT
+    D. Culture and Sensitivity
+   key=C ref=INI-CET May 2025 (real exam recall)
+   concept: WHO now recommends rapid molecular testing (Xpert MTB/RIF, i.e. CBNAAT) as the initial diagnostic test for all forms of tuberculosis, including spinal/extrapulmonary disease. NOTE: the scraped key said D (culture); culture remains the microbiological gold standard, so the item is genuinely ambiguous between the WHO-recommended initial test (CBNAAT) and the gold standard (culture) - flagged.
+Q_S_003 [E] An 8-year-old child presents with acute fever and severe pain around the knee, with tenderness over the metaphysis of the lower femur. Which is the most common causative organism of acute haematogenous osteomyelitis in children?
+   *A. Staphylococcus aureus
+    B. Pseudomonas aeruginosa
+    C. Salmonella species
+    D. Escherichia coli
+   key=A ref=Maheshwari, Essential Orthopaedics
+   concept: Staphylococcus aureus is the commonest cause of acute haematogenous osteomyelitis in all age groups, typically affecting the metaphysis of long bones (rich blood supply with sluggish flow) in children. Salmonella osteomyelitis is characteristically associated with sickle-cell disease.
+Q_S_004 [M] A 30-year-old presents with chronic back pain, low-grade evening fever and weight loss. MRI shows destruction of two adjacent vertebral bodies with narrowing of the intervening disc space and a paravertebral (psoas) abscess. The most likely diagnosis is:
+    A. Pyogenic spondylodiscitis
+   *B. Tuberculosis of the spine (Pott's disease)
+    C. Metastatic vertebral deposits
+    D. Multiple myeloma
+   key=B ref=Maheshwari, Essential Orthopaedics
+   concept: Tuberculosis of the spine typically affects the paradiscal region of two contiguous vertebrae with disc-space reduction and a cold (paravertebral/psoas) abscess; the thoracolumbar region is the commonest site and a gibbus (angular kyphosis) is characteristic. Metastasis and myeloma classically spare the disc space.
+
+=== Orthopedics / Specific fractures (Colles, NOF, supracondylar) & healing
+Q_S_001 [E] A 65-year-old osteoporotic woman falls on her outstretched hand and presents with a 'dinner-fork' deformity of the wrist. X-ray shows a fracture of the distal radius with dorsal (posterior) displacement of the distal fragment. This is which fracture?
+    A. Smith fracture
+   *B. Colles fracture
+    C. Galeazzi fracture
+    D. Monteggia fracture
+   key=B ref=Maheshwari, Essential Orthopaedics
+   concept: Colles fracture = fracture of the distal radius (within ~2.5 cm of the wrist) with dorsal displacement/angulation of the distal fragment, giving the 'dinner-fork' deformity; classic in elderly osteoporotic women after a fall on the outstretched hand. Smith fracture is the reverse (volar displacement).
+Q_S_002 [H] A 6-year-old boy falls on his outstretched hand; X-ray shows an extension-type supracondylar fracture of the humerus. A few hours after closed reduction and an above-elbow slab, he develops severe pain on passive extension of the fingers, refuses to move the hand, and the radial pulse is feeble. What is the most likely impending complication?
+    A. Cubitus varus deformity
+   *B. Volkmann's ischaemic contracture
+    C. Myositis ossificans
+    D. Tardy ulnar nerve palsy
+   key=B ref=Maheshwari, Essential Orthopaedics
+   concept: Supracondylar humeral fractures can injure the brachial artery and cause forearm compartment ischaemia. Severe pain on passive stretch of the fingers plus a diminished pulse signals impending Volkmann's ischaemic contracture (an acute compartment syndrome) - an emergency. Cubitus varus is a late malunion deformity, not an acute vascular event.
+
+[56 shown of 56 unverified in scope]

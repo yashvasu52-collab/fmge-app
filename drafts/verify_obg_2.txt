@@ -1,0 +1,44 @@
+Q_OBG_DX_009 | del | duplicate of Q_OBG_DX_018, which makes the same point about cell-free DNA needing invasive confirmation in a clinical scenario. The applied item is retained
+Q_OBG_END_012 | del | duplicate of Q_OBG_END_003 on laparoscopy with histology being the diagnostic standard for endometriosis. The first item is retained
+Q_OBG_END_009 | del | duplicate of Q_OBG_END_014 on laparoscopic excision improving pain and fecundity in endometriosis. The later item is retained
+Q_OBG_PID_002 | del | duplicate of Q_OBG_PID_012, which gives the same strawberry cervix and additionally the treatment of the patient and partner. The fuller item is retained
+Q_OBG_PID_003 | del | duplicate of Q_OBG_PID_013 on Candida albicans with pseudohyphae on a potassium hydroxide mount. The later item is retained
+Q_OBG_PID_005 | del | duplicate of Q_OBG_PID_015 on Fitz-Hugh-Curtis perihepatitis with violin-string adhesions. The later item is retained
+Q_OBG_PID_007 | ref=NACO National Guidelines on Prevention, Management and Control of Reproductive Tract Infections and Sexually Transmitted Infections 2014; Shaw's Textbook of Gynaecology 17e, Ch. Infections of the Genital Tract | the reference read "NACO STI Guidelines" with no title, year or supporting textbook
+Q_OBG_PID_009 | ref=NACO National Guidelines on Prevention, Management and Control of Reproductive Tract Infections and Sexually Transmitted Infections 2014; Park's Textbook of Preventive and Social Medicine 27e, Ch. Sexually Transmitted Diseases | the reference read "NACO STI Guidelines; Park 27e" with no title, year or chapter
+Q_OBG_DX_005 | ok |
+Q_OBG_DX_006 | ok |
+Q_OBG_DX_007 | ok |
+Q_OBG_DX_008 | ok |
+Q_OBG_DX_012 | ok |
+Q_OBG_DX_013 | ok |
+Q_OBG_DX_014 | ok |
+Q_OBG_DX_016 | ok |
+Q_OBG_DX_017 | ok |
+Q_OBG_DX_018 | ok |
+Q_OBG_DX_019 | ok |
+Q_OBG_END_001 | ok |
+Q_OBG_END_002 | ok |
+Q_OBG_END_003 | ok |
+Q_OBG_END_004 | ok |
+Q_OBG_END_005 | ok |
+Q_OBG_END_006 | ok |
+Q_OBG_END_007 | ok |
+Q_OBG_END_010 | ok |
+Q_OBG_END_013 | ok |
+Q_OBG_END_014 | ok |
+Q_OBG_END_015 | ok |
+Q_OBG_END_016 | ok |
+Q_OBG_END_017 | ok |
+Q_OBG_END_018 | ok |
+Q_OBG_END_019 | ok |
+Q_OBG_PID_001 | ok |
+Q_OBG_PID_004 | ok |
+Q_OBG_PID_008 | ok |
+Q_OBG_PID_010 | ok |
+Q_OBG_PID_012 | ok |
+Q_OBG_PID_013 | ok |
+Q_OBG_PID_015 | ok |
+Q_OBG_PID_016 | ok |
+Q_OBG_PID_017 | ok |
+Q_OBG_PID_018 | ok |

@@ -1,0 +1,581 @@
+
+=== Biochemistry / Amino acid metabolism & urea cycle
+Q_A_026 [M] Transamination reactions that transfer amino groups between amino acids and keto acids require which vitamin-derived coenzyme?
+    A. Thiamine pyrophosphate (B1)
+   *B. Pyridoxal phosphate (B6)
+    C. Biotin (B7)
+    D. Cobalamin (B12)
+   key=B ref=Vasudevan, Textbook of Biochemistry
+   concept: Aminotransferases (e.g., ALT, AST) use pyridoxal phosphate (PLP), the active form of vitamin B6, as coenzyme for transamination. B6 deficiency (e.g., with isoniazid) impairs these reactions.
+Q_GEN_BIOCHEM_AA_001 [E] Which enzyme of the urea cycle catalyzes the reaction that directly yields urea?
+   *A. Arginase
+    B. Argininosuccinate synthetase
+    C. Ornithine transcarbamoylase
+    D. Carbamoyl phosphate synthetase I
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — The Urea Cycle (Catabolism of Proteins & of Amino Acid Nitrogen)
+   concept: Arginase catalyzes the fifth and final urea-cycle step, hydrolysing arginine into urea plus ornithine, and ornithine re-enters the mitochondrion to keep the cycle turning. CPS-I and ornithine transcarbamoylase form carbamoyl phosphate and citrulline, while argininosuccinate synthetase makes argininosuccinate; none of these liberate free urea, so arginase is the sole direct urea-generating enzyme.
+Q_GEN_BIOCHEM_AA_002 [M] A neonate develops lethargy, poor feeding and hyperammonemia; plasma citrulline is markedly elevated (>1000 µmol/L) while orotic acid is not raised. Deficiency of which enzyme is most likely?
+    A. Ornithine transcarbamoylase
+    B. Arginase
+    C. Carbamoyl phosphate synthetase I
+   *D. Argininosuccinate synthetase
+   key=D ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 19: Removal of Nitrogen from Amino Acids / Urea Cycle Disorders
+   concept: Argininosuccinate synthetase condenses citrulline with aspartate, so its deficiency (citrullinemia type I) blocks the cycle just after citrulline and plasma citrulline rises markedly, often above 1000 µmol/L, with hyperammonemia. OTC deficiency instead causes low citrulline with high orotic acid; CPS-I deficiency gives low citrulline and low orotate; arginase deficiency raises arginine — so grossly elevated citrulline is the decisive clue.
+Q_GEN_BIOCHEM_AA_003 [M] An infant with hyperammonemia has abnormally brittle hair that fractures easily (trichorrhexis nodosa) and greatly elevated argininosuccinate in blood and urine. Which enzyme is deficient?
+    A. Argininosuccinate synthetase
+    B. Arginase
+   *C. Argininosuccinate lyase
+    D. Ornithine transcarbamoylase
+   key=C ref=Vasudevan — Textbook of Biochemistry for Medical Students — Urea Cycle and Metabolism of Ammonia
+   concept: Argininosuccinate lyase cleaves argininosuccinate into arginine and fumarate; its deficiency (argininosuccinic aciduria) causes accumulation of argininosuccinate in blood and urine with hyperammonemia, and the characteristic brittle, easily fractured hair (trichorrhexis nodosa) attributed to arginine deficiency. OTC deficiency raises orotate, argininosuccinate synthetase deficiency raises citrulline, and arginase deficiency raises arginine — elevated argininosuccinate is diagnostic here.
+Q_GEN_BIOCHEM_AA_004 [H] Carbamoyl phosphate synthetase I, the committed step of the urea cycle, is absolutely dependent on which allosteric activator?
+   *A. N-acetylglutamate
+    B. Guanosine triphosphate
+    C. Aspartate
+    D. Fumarate
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — The Urea Cycle: Regulation and N-Acetylglutamate
+   concept: Carbamoyl phosphate synthetase I, the rate-limiting mitochondrial entry enzyme of the urea cycle, is obligately dependent on the allosteric activator N-acetylglutamate, which is synthesized from glutamate and acetyl-CoA by N-acetylglutamate synthase and is itself stimulated by arginine. Aspartate enters later via argininosuccinate synthetase, fumarate is a downstream product, and GTP is unrelated — only N-acetylglutamate activates CPS-I.
+Q_GEN_BIOCHEM_AA_005 [M] A 3-year-old child has progressive spastic diplegia, developmental regression and only episodic mild hyperammonemia, with elevated plasma arginine. Which urea-cycle enzyme is most likely deficient?
+    A. Carbamoyl phosphate synthetase I deficiency
+   *B. Arginase deficiency (argininemia)
+    C. Ornithine transcarbamoylase deficiency
+    D. Argininosuccinate synthetase deficiency (citrullinemia)
+   key=B ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 19: Urea Cycle Disorders
+   concept: Arginase deficiency (argininemia) is atypical among urea-cycle defects: rather than catastrophic neonatal hyperammonemia it usually presents later with progressive spastic diplegia or tetraplegia, developmental regression and seizures, raised plasma arginine, and only episodic mild hyperammonemia. CPS-I, OTC and citrullinemia typically manifest as severe neonatal encephalopathy, distinguishing them from this milder, spasticity-dominant presentation.
+Q_GEN_BIOCHEM_AA_006 [M] How does sodium benzoate lower blood ammonia in a child with a urea-cycle disorder?
+    A. It converts ammonia directly into urea
+    B. It inhibits intestinal urease-producing bacteria
+    C. It chelates ammonia directly in the blood
+   *D. It conjugates with glycine to form hippurate, which is excreted in urine
+   key=D ref=Harper's Illustrated Biochemistry, 31st ed. — Metabolic Disorders of the Urea Cycle and Their Treatment
+   concept: Sodium benzoate opens a nitrogen-disposal route that bypasses the defective urea cycle: it conjugates with glycine to form hippuric acid, which is excreted renally, removing one nitrogen per glycine molecule. Sodium phenylacetate/phenylbutyrate similarly conjugate glutamine to phenylacetylglutamine. These agents do not synthesize urea, kill bacteria, or directly chelate ammonia — the mechanism is amino-acid conjugation followed by urinary excretion.
+Q_GEN_BIOCHEM_AA_007 [E] By which mechanism does oral lactulose reduce blood ammonia in hepatic encephalopathy?
+    A. It neutralizes gastric acid
+    B. It acts as a systemic antibiotic killing urease-producing bacteria
+   *C. It acidifies the colonic lumen, trapping ammonia as non-absorbable ammonium for excretion
+    D. It stimulates hepatic urea synthesis
+   key=C ref=Vasudevan — Textbook of Biochemistry for Medical Students — Metabolism of Ammonia and Hepatic Coma
+   concept: Lactulose, a non-absorbable disaccharide, is fermented by colonic bacteria to lactic and acetic acids that acidify the lumen; this shifts NH3 to non-absorbable ammonium (NH4+), which is trapped and excreted, while its cathartic effect and reduction of ammoniagenic flora further lower ammonia in hepatic encephalopathy. It is not an antibiotic, an antacid, or a stimulator of hepatic urea synthesis.
+Q_GEN_BIOCHEM_AA_008 [M] Which compound is the principal non-toxic transport form of ammonia in the blood?
+   *A. Glutamine
+    B. Alanine
+    C. Aspartate
+    D. Urea
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — Catabolism of Proteins & of Amino Acid Nitrogen (Ammonia Transport)
+   concept: Glutamine is the principal non-toxic transport form of ammonia in blood; glutamine synthetase incorporates free NH3 into glutamate to form glutamine (especially important in brain and muscle), which is carried to liver and kidney where glutaminase releases the ammonia. Alanine also shuttles nitrogen but chiefly via the glucose-alanine cycle, aspartate donates nitrogen within the urea cycle, and urea is the excretory end-product rather than a transport form.
+Q_GEN_BIOCHEM_AA_009 [H] Assertion (A): Glutamate dehydrogenase is the principal enzyme that liberates free ammonia from amino-acid nitrogen in the liver. Reason (R): Glutamate dehydrogenase catalyzes oxidative deamination of glutamate and can use either NAD+ or NADP+ as its coenzyme. Select the correct option:
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — Catabolism of Proteins & of Amino Acid Nitrogen (Oxidative Deamination)
+   concept: Glutamate dehydrogenase is the major enzyme performing oxidative deamination: amino groups are first funnelled onto α-ketoglutarate to form glutamate by transamination, then glutamate dehydrogenase releases free ammonia and regenerates α-ketoglutarate, uniquely using either NAD+ or NADP+. It is inhibited by GTP/ATP and activated by ADP/GDP. Both statements are true and the reason correctly explains the mechanism by which ammonia is liberated, so the answer is A.
+Q_GEN_BIOCHEM_AA_010 [M] In the glucose-alanine cycle, which amino acid carries amino-group nitrogen from skeletal muscle to the liver?
+    A. Glutamine
+    B. Aspartate
+    C. Glycine
+   *D. Alanine
+   key=D ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 19: The Glucose-Alanine Cycle
+   concept: In the glucose-alanine cycle, muscle transaminates pyruvate to alanine using amino groups derived from amino-acid catabolism; alanine travels to the liver, where it is transaminated back to pyruvate for gluconeogenesis while its nitrogen enters the urea cycle. Glutamine is the other major nitrogen carrier but is not the muscle-specific glucogenic shuttle, and aspartate and glycine do not serve this transport role.
+Q_GEN_BIOCHEM_AA_011 [E] Which pair of amino acids is exclusively (purely) ketogenic?
+    A. Leucine and isoleucine
+   *B. Leucine and lysine
+    C. Lysine and valine
+    D. Leucine and valine
+   key=B ref=Harper's Illustrated Biochemistry, 31st ed. — Catabolism of the Carbon Skeletons of Amino Acids
+   concept: Leucine and lysine are the only two amino acids that are purely (exclusively) ketogenic — their carbon skeletons yield only acetyl-CoA/acetoacetate and cannot be used to make glucose. Isoleucine, phenylalanine, tyrosine, tryptophan and threonine are both glucogenic and ketogenic, whereas valine is purely glucogenic; therefore only the leucine-plus-lysine pairing is entirely ketogenic.
+Q_GEN_BIOCHEM_AA_012 [M] Which of the following amino acids is both glucogenic and ketogenic?
+    A. Alanine
+    B. Leucine
+   *C. Isoleucine
+    D. Valine
+   key=C ref=Vasudevan — Textbook of Biochemistry for Medical Students — Glucogenic and Ketogenic Amino Acids
+   concept: Isoleucine is both glucogenic and ketogenic because its skeleton yields acetyl-CoA (ketogenic) and propionyl-CoA/succinyl-CoA (glucogenic). Leucine is purely ketogenic, whereas alanine and valine are purely glucogenic. The classic five amino acids that are both glucogenic and ketogenic are isoleucine, phenylalanine, tyrosine, tryptophan and threonine, so isoleucine is the correct dual-fate answer here.
+Q_GEN_BIOCHEM_AA_013 [E] Which of the following is a nutritionally essential (indispensable) amino acid?
+    A. Alanine
+    B. Serine
+    C. Glutamate
+   *D. Methionine
+   key=D ref=Satyanarayana — Biochemistry — Metabolism of Amino Acids (Essential and Non-essential Amino Acids)
+   concept: Methionine is a nutritionally essential (indispensable) amino acid that must be supplied in the diet because the human body cannot synthesize its carbon skeleton. The essentials are commonly memorized as PVT TIM HALL — phenylalanine, valine, threonine, tryptophan, isoleucine, methionine, histidine, arginine (semi-essential), leucine and lysine. Alanine, serine and glutamate are non-essential and synthesized endogenously, so methionine is the only essential option listed.
+Q_GEN_BIOCHEM_AA_014 [M] An infant with phenylketonuria is placed on a phenylalanine-restricted diet, yet develops seizures and progressive neurological deterioration despite normal blood phenylalanine. What is the most likely underlying cause?
+   *A. Tetrahydrobiopterin (BH4) deficiency
+    B. Continued dietary non-compliance
+    C. Vitamin B6 (pyridoxine) deficiency
+    D. Dietary tyrosine deficiency
+   key=A ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Phenylketonuria and Tetrahydrobiopterin
+   concept: Persisting neurological deterioration despite a phenylalanine-restricted diet and normal blood phenylalanine points to tetrahydrobiopterin (BH4) deficiency, so-called malignant PKU, from defects in BH4 synthesis or dihydropteridine reductase. BH4 is the cofactor not only for phenylalanine hydroxylase but also for tyrosine and tryptophan hydroxylases, so its lack cripples dopamine and serotonin synthesis; treatment must add BH4 plus L-DOPA and 5-HTP, not diet alone.
+Q_GEN_BIOCHEM_AA_015 [H] A 45-year-old man notes that his urine turns black on standing and has bluish-black discoloration of the ear cartilage and sclerae with degenerative spinal arthritis. Deficiency of which enzyme is responsible?
+    A. Tyrosine aminotransferase
+   *B. Homogentisate oxidase (homogentisate 1,2-dioxygenase)
+    C. Phenylalanine hydroxylase
+    D. Fumarylacetoacetate hydrolase
+   key=B ref=Harper's Illustrated Biochemistry, 31st ed. — Catabolism of the Carbon Skeletons of Amino Acids (Alkaptonuria)
+   concept: Alkaptonuria is a deficiency of homogentisate oxidase (homogentisate 1,2-dioxygenase) in the tyrosine degradation pathway, causing accumulation of homogentisic acid. Urine darkens on standing or alkalinization, and oxidized pigment deposits in cartilage and connective tissue (ochronosis), producing bluish-black ears and sclerae with a degenerative arthropathy of the spine. Phenylalanine hydroxylase deficiency causes PKU, and fumarylacetoacetate hydrolase deficiency causes tyrosinemia type I.
+Q_GEN_BIOCHEM_AA_016 [M] A neonate has poor feeding, vomiting and lethargy, and the urine smells like maple syrup; branched-chain amino acids and their keto acids are elevated. Which enzyme is deficient?
+    A. Branched-chain aminotransferase
+    B. Propionyl-CoA carboxylase
+   *C. Branched-chain α-ketoacid dehydrogenase
+    D. Methylmalonyl-CoA mutase
+   key=C ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Maple Syrup Urine Disease
+   concept: Maple syrup urine disease results from deficiency of the branched-chain α-ketoacid dehydrogenase complex, which blocks oxidative decarboxylation of the keto acids of leucine, isoleucine and valine. These branched-chain amino acids and their keto acids accumulate, producing the sweet maple-syrup odour of urine and severe neonatal neurotoxicity; the complex uses thiamine (TPP), lipoate, FAD, NAD and CoA, and some cases are thiamine-responsive.
+Q_GEN_BIOCHEM_AA_017 [H] A young adult with recurrent renal stones has hexagonal crystals in the urine and a positive cyanide-nitroprusside test. Which defect best explains this?
+    A. Lysosomal accumulation of cystine within cells
+    B. Deficiency of cystathionine β-synthase
+    C. Deficiency of cysteine dioxygenase
+   *D. Defective renal and intestinal transport of cystine, ornithine, lysine and arginine
+   key=D ref=Harper's Illustrated Biochemistry, 31st ed. — Disorders of Amino Acid Transport (Cystinuria)
+   concept: Cystinuria is an inherited defect of the renal tubular and intestinal transporter for the dibasic amino acids cystine, ornithine, lysine and arginine (mnemonic COLA); poorly soluble cystine precipitates as characteristic hexagonal crystals and recurrent radio-opaque calculi, with a positive cyanide-nitroprusside test. It must be distinguished from cystinosis, a lysosomal cystine-storage disease causing renal Fanconi syndrome rather than stones, and from cystathionine β-synthase deficiency (homocystinuria).
+Q_GEN_BIOCHEM_AA_018 [M] Which enzyme catalyzes the rate-limiting step of catecholamine biosynthesis?
+    A. DOPA decarboxylase
+    B. Dopamine β-hydroxylase
+   *C. Tyrosine hydroxylase
+    D. Phenylethanolamine N-methyltransferase
+   key=C ref=Harper's Illustrated Biochemistry, 31st ed. — Conversion of Amino Acids to Specialized Products (Catecholamines)
+   concept: Tyrosine hydroxylase catalyzes the rate-limiting step of catecholamine synthesis, converting tyrosine to L-DOPA using tetrahydrobiopterin; L-DOPA is then decarboxylated to dopamine, hydroxylated to noradrenaline by dopamine β-hydroxylase, and N-methylated to adrenaline by phenylethanolamine N-methyltransferase. Because tyrosine hydroxylase controls flux into the whole pathway, it is the pace-setting enzyme, not the downstream steps.
+Q_GEN_BIOCHEM_AA_019 [E] Serotonin and melatonin are synthesized from which amino acid?
+    A. Tyrosine
+   *B. Tryptophan
+    C. Histidine
+    D. Glutamate
+   key=B ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Amino Acid-Derived Products (Serotonin and Melatonin)
+   concept: Tryptophan is the precursor of serotonin (5-hydroxytryptamine): tryptophan hydroxylase forms 5-hydroxytryptophan, which is decarboxylated to serotonin, and in the pineal gland serotonin is acetylated and methylated to melatonin. Tyrosine gives rise to catecholamines, histidine yields histamine, and glutamate yields GABA — only tryptophan produces both serotonin and melatonin.
+Q_GEN_BIOCHEM_AA_020 [M] A patient with Hartnup disease develops a pellagra-like photosensitive dermatitis. Reduced endogenous synthesis of which vitamin best explains this?
+   *A. Niacin
+    B. Riboflavin
+    C. Thiamine
+    D. Folate
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — Conversion of Amino Acids to Specialized Products (Tryptophan and Niacin)
+   concept: Tryptophan is converted via the kynurenine pathway to niacin/NAD, with roughly 60 mg tryptophan yielding about 1 mg niacin. In Hartnup disease the intestinal and renal transport of neutral amino acids including tryptophan is impaired, so less tryptophan is available for niacin synthesis and a pellagra-like dermatitis, diarrhoea and neurological signs appear. The deficient vitamin synthesizable from tryptophan is therefore niacin, not riboflavin, thiamine or folate.
+Q_GEN_BIOCHEM_AA_021 [H] Assertion (A): S-adenosylmethionine is the body's principal donor of methyl groups. Reason (R): S-adenosylmethionine is synthesized from methionine and ATP. Select the correct option:
+    A. Both A and R are true, and R is the correct explanation of A
+   *B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=B ref=Harper's Illustrated Biochemistry, 31st ed. — Conversion of Amino Acids to Specialized Products (S-Adenosylmethionine)
+   concept: S-adenosylmethionine (SAM), formed from methionine and ATP, is indeed the body's principal methyl donor in reactions such as synthesis of creatine, phosphatidylcholine, adrenaline and in DNA methylation, becoming S-adenosylhomocysteine after methyl transfer. However, the reason given describes only its formation, not why it donates methyl groups (which is the high-energy, reactive methyl-sulfonium bond); hence both statements are true but the reason does not explain the assertion, so the answer is B.
+Q_GEN_BIOCHEM_AA_022 [H] Remethylation of homocysteine to methionine by methionine synthase requires which pair of cofactors?
+    A. Pyridoxal phosphate and folate
+    B. Biotin and cobalamin
+   *C. Methylcobalamin and N5-methyl-tetrahydrofolate
+    D. FAD and NAD
+   key=C ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Sulfur-Containing Amino Acids; Homocysteine, Folate and B12
+   concept: Remethylation of homocysteine to methionine is catalyzed by methionine synthase (homocysteine methyltransferase), which requires methylcobalamin (vitamin B12) as the enzyme cofactor and N5-methyl-tetrahydrofolate as the methyl donor, linking folate and B12 metabolism. B12 deficiency traps folate as methyl-THF (the methyl-folate trap) and raises both homocysteine and methylmalonic acid; pyridoxal phosphate instead serves the alternative transsulfuration route, not remethylation.
+Q_GEN_BIOCHEM_AA_023 [H] Assertion (A): Glutathione is a tripeptide containing an atypical peptide linkage. Reason (R): In glutathione the glutamate residue is joined to cysteine through its γ-carboxyl group rather than its α-carboxyl group. Select the correct option:
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — Conversion of Amino Acids to Specialized Products (Glutathione)
+   concept: Glutathione is the tripeptide γ-glutamyl-cysteinyl-glycine and the major intracellular antioxidant, reduced by glutathione reductase using NADPH from the HMP shunt. It contains an atypical peptide bond precisely because glutamate is joined to cysteine through its γ-carboxyl group rather than its α-carboxyl group, which protects it from ordinary peptidases. Both statements are true and the γ-linkage is exactly what makes the bond atypical, so the reason correctly explains the assertion.
+Q_GEN_BIOCHEM_AA_024 [M] Which reaction is the major source of one-carbon units as N5,N10-methylene-tetrahydrofolate?
+    A. β-oxidation of fatty acids
+   *B. Conversion of serine to glycine by serine hydroxymethyltransferase
+    C. Oxidative deamination of glutamate
+    D. Decarboxylation of histidine
+   key=B ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Folic Acid and One-Carbon Metabolism
+   concept: The largest source of one-carbon units is the conversion of serine to glycine by serine hydroxymethyltransferase, a pyridoxal-phosphate-dependent enzyme that transfers serine's β-carbon to tetrahydrofolate, generating N5,N10-methylene-THF. This folate-bound one-carbon pool feeds thymidylate, purine and methionine synthesis. β-oxidation of fatty acids, oxidative deamination of glutamate and decarboxylation of histidine do not supply the methylene-THF pool.
+Q_GEN_BIOCHEM_AA_025 [H] Creatine is synthesized in the body from which three amino acids?
+    A. Glycine, serine and cysteine
+    B. Arginine, ornithine and lysine
+    C. Glutamate, glycine and cysteine
+   *D. Glycine, arginine and methionine
+   key=D ref=Harper's Illustrated Biochemistry, 31st ed. — Conversion of Amino Acids to Specialized Products (Creatine and Creatinine)
+   concept: Creatine is synthesized from three amino acids: the kidney enzyme arginine-glycine amidinotransferase joins arginine and glycine to form guanidinoacetate (releasing ornithine), and the liver then methylates guanidinoacetate using S-adenosylmethionine derived from methionine to yield creatine. Creatine is phosphorylated to phosphocreatine in muscle and non-enzymatically cyclizes to creatinine, which is excreted. The correct trio is therefore glycine, arginine and methionine.
+
+=== Biochemistry / DNA/RNA, replication, mutations
+Q_A_030 [M] Insertion or deletion of a single nucleotide (not a multiple of three) in a coding region produces which type of mutation?
+    A. Silent mutation
+    B. Missense mutation
+   *C. Frameshift mutation
+    D. Transition point mutation
+   key=C ref=Vasudevan, Textbook of Biochemistry
+   concept: Adding or deleting nucleotides not in multiples of three shifts the reading frame (frameshift), altering all downstream codons and often creating a premature stop codon. Point mutations may be silent, missense or nonsense.
+
+=== Biochemistry / Glycolysis, TCA, gluconeogenesis (key enzymes)
+Q_A_023 [M] Which enzyme is unique to gluconeogenesis and converts oxaloacetate to phosphoenolpyruvate, bypassing the irreversible pyruvate kinase step?
+    A. Pyruvate carboxylase
+   *B. Phosphoenolpyruvate carboxykinase (PEPCK)
+    C. Glucokinase
+    D. Aldolase
+   key=B ref=Lippincott's Illustrated Reviews: Biochemistry
+   concept: Gluconeogenesis bypasses the three irreversible glycolytic steps using pyruvate carboxylase, PEPCK (oxaloacetate to PEP), fructose-1,6-bisphosphatase and glucose-6-phosphatase.
+Q_GEN_BIOCHEM_CHO_001 [E] Which statement correctly distinguishes hepatic glucokinase from hexokinase?
+    A. Glucokinase has a low Km for glucose and is strongly inhibited by its product glucose-6-phosphate
+   *B. Glucokinase has a high Km for glucose and is not inhibited by physiological levels of glucose-6-phosphate
+    C. Glucokinase is present in all tissues, whereas hexokinase is confined to the liver
+    D. Glucokinase phosphorylates glucose only during hypoglycaemia
+   key=B ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 8: Glycolysis (Hexokinase vs Glucokinase)
+   concept: Glucokinase (hexokinase IV) has a high Km (~10 mmol/L), so it is only active after a carbohydrate meal, has a high Vmax, is induced by insulin, and is NOT inhibited by glucose-6-phosphate (it is regulated by GKRP). Hexokinase I-III are ubiquitous, have a low Km (~0.1 mmol/L) so are saturated at normal glucose, and are product-inhibited by G6P. Option A actually describes hexokinase; C reverses the distributions (hexokinase is ubiquitous); D is wrong because glucokinase acts postprandially when glucose is high, not in hypoglycaemia.
+Q_GEN_BIOCHEM_CHO_002 [M] The single most potent allosteric activator of phosphofructokinase-1 (PFK-1) in the liver is:
+   *A. Fructose-2,6-bisphosphate
+    B. Citrate
+    C. ATP
+    D. Fructose-1,6-bisphosphate
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 18: Glycolysis & the Oxidation of Pyruvate (Regulation of PFK-1)
+   concept: Fructose-2,6-bisphosphate, produced by the kinase activity of PFK-2 in the fed/insulin state, is the most potent allosteric activator of PFK-1; it raises the enzyme's affinity for fructose-6-phosphate and overrides ATP-mediated inhibition. AMP also activates PFK-1. Citrate and ATP are inhibitors, signalling an energy-rich cell (high citrate = abundant biosynthetic precursors). Fructose-1,6-bisphosphate is the PRODUCT of PFK-1 (it feed-forward activates pyruvate kinase, not PFK-1), so it is not the activator asked for.
+Q_GEN_BIOCHEM_CHO_003 [M] In glycolysis, ATP is generated by substrate-level phosphorylation at the reactions catalysed by:
+    A. Hexokinase and phosphofructokinase-1
+    B. Glyceraldehyde-3-phosphate dehydrogenase and enolase
+   *C. Phosphoglycerate kinase and pyruvate kinase
+    D. Aldolase and triose phosphate isomerase
+   key=C ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 18: Glycolysis & the Oxidation of Pyruvate
+   concept: Substrate-level phosphorylation means ATP is formed by direct transfer of a high-energy phosphate from a substrate to ADP. In glycolysis this occurs twice: phosphoglycerate kinase (1,3-bisphosphoglycerate to 3-phosphoglycerate) and pyruvate kinase (phosphoenolpyruvate to pyruvate). Hexokinase and PFK-1 CONSUME ATP. GAPDH creates the high-energy 1,3-BPG and NADH but does not itself make ATP, and enolase only forms PEP; aldolase and triose phosphate isomerase are cleavage/isomerisation steps with no ATP change.
+Q_GEN_BIOCHEM_CHO_004 [E] The net ATP yield from the anaerobic conversion of one molecule of glucose to lactate is:
+    A. 0 ATP
+   *B. 2 ATP
+    C. 6 ATP
+    D. 8 ATP
+   key=B ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 8: Glycolysis (Energy yield)
+   concept: In anaerobic glycolysis, 2 ATP are invested (hexokinase and PFK-1) and 4 ATP are produced (two phosphoglycerate kinase and two pyruvate kinase reactions per glucose), giving a NET of 2 ATP. The NADH made at the GAPDH step is re-oxidised by lactate dehydrogenase (pyruvate to lactate) to regenerate NAD+, so it yields no additional ATP anaerobically. Complete aerobic oxidation yields roughly 30-32 ATP. Option A ignores the two net ATP; 6 and 8 overestimate the anaerobic yield.
+Q_GEN_BIOCHEM_CHO_005 [H] Arsenate (a pentavalent arsenic compound) reduces the net ATP yield of glycolysis without stopping the pathway because it:
+    A. Irreversibly inhibits enolase so 2-phosphoglycerate accumulates
+    B. Blocks lactate dehydrogenase and traps NADH
+    C. Chelates the Mg2+ ion required by pyruvate kinase
+   *D. Substitutes for inorganic phosphate at the GAPDH step, forming an unstable 1-arseno-3-phosphoglycerate that hydrolyses spontaneously
+   key=D ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 18: Glycolysis & the Oxidation of Pyruvate (Arsenate/Arsenite)
+   concept: Arsenate mimics inorganic phosphate at the glyceraldehyde-3-phosphate dehydrogenase step, forming 1-arseno-3-phosphoglycerate, which spontaneously hydrolyses to 3-phosphoglycerate without generating 1,3-bisphosphoglycerate. This bypasses the phosphoglycerate kinase substrate-level phosphorylation (arsenolysis), so glycolysis continues and NADH is still made, but the net ATP is lost. Note that trivalent arsenite (not arsenate) is the species that inhibits lipoic-acid enzymes such as pyruvate dehydrogenase; the other options describe unrelated toxic mechanisms.
+Q_GEN_BIOCHEM_CHO_006 [M] A blood sample for glucose estimation is collected in a grey-top tube containing sodium fluoride. Fluoride preserves the glucose value by inhibiting which glycolytic enzyme?
+    A. Hexokinase
+    B. Pyruvate kinase
+   *C. Enolase
+    D. Lactate dehydrogenase
+   key=C ref=Vasudevan's Textbook of Biochemistry for Medical Students, 9th ed. — Chapter: Major Metabolic Pathways of Glucose (Glycolysis)
+   concept: Sodium fluoride forms a magnesium-fluorophosphate complex that inhibits enolase (2-phosphoglycerate to phosphoenolpyruvate), halting glycolysis in the collected sample so that red cells and leukocytes cannot continue consuming glucose in vitro — this prevents a falsely low reading. Fluoride is usually combined with potassium oxalate (the anticoagulant) in grey-top tubes. Hexokinase, pyruvate kinase and lactate dehydrogenase are not the specific targets of fluoride's glycolysis-preserving action.
+Q_GEN_BIOCHEM_CHO_007 [M] Assertion (A): 2,3-Bisphosphoglycerate shifts the erythrocyte oxygen dissociation curve to the right. Reason (R): 2,3-BPG binds to and stabilises the deoxygenated (T, taut) conformation of haemoglobin, lowering its affinity for oxygen. Select the correct option:
+   *A. Both the assertion and the reason are true, and the reason is the correct explanation of the assertion
+    B. Both the assertion and the reason are true, but the reason is NOT the correct explanation of the assertion
+    C. The assertion is true, but the reason is false
+    D. The assertion is false, but the reason is true
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 18: Glycolysis (Rapoport-Luebering / 2,3-BPG) and Chapter 6: Proteins - Myoglobin & Haemoglobin
+   concept: 2,3-BPG is produced in the erythrocyte Rapoport-Luebering shunt by bisphosphoglycerate mutase from 1,3-BPG. It binds in the central cavity between the beta-chains of deoxyhaemoglobin, stabilising the low-affinity T (taut) state; this lowers oxygen affinity and shifts the dissociation curve to the right, favouring oxygen unloading in tissues (it rises in chronic hypoxia, anaemia and at high altitude). Both statements are true and the reason correctly explains the assertion, so the answer is option A.
+Q_GEN_BIOCHEM_CHO_008 [H] A child with chronic non-spherocytic haemolytic anaemia is found to have an autosomal recessive enzyme defect. Red cells show low ATP with markedly elevated 2,3-bisphosphoglycerate. The deficient enzyme is:
+    A. Glucose-6-phosphate dehydrogenase
+   *B. Pyruvate kinase
+    C. Hexokinase
+    D. Phosphofructokinase-1
+   key=B ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 8: Glycolysis (Pyruvate kinase deficiency)
+   concept: Pyruvate kinase deficiency is the commonest glycolytic-enzyme defect causing hereditary (autosomal recessive) haemolytic anaemia. Mature red cells rely solely on glycolysis for ATP; a pyruvate kinase block lowers ATP, causing membrane cation-pump failure, dehydrated rigid cells and splenic haemolysis. Upstream intermediates accumulate, including 2,3-BPG, which right-shifts the oxygen curve and partly offsets the anaemia. G6PD deficiency instead causes episodic OXIDATIVE haemolysis with Heinz bodies (not a chronic low-ATP picture); hexokinase and PFK-1 deficiencies are far rarer.
+Q_GEN_BIOCHEM_CHO_009 [M] Which set correctly lists all five coenzymes required by the pyruvate dehydrogenase complex?
+    A. Biotin, thiamine pyrophosphate, NAD+, FAD, coenzyme A
+    B. Pyridoxal phosphate, lipoic acid, FAD, NAD+, coenzyme A
+    C. Thiamine pyrophosphate, biotin, lipoic acid, FAD, NAD+
+   *D. Thiamine pyrophosphate, lipoic acid, coenzyme A, FAD, NAD+
+   key=D ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 18: Oxidation of Pyruvate (Pyruvate Dehydrogenase Complex)
+   concept: The pyruvate dehydrogenase complex uses five coenzymes: thiamine pyrophosphate (E1, decarboxylation), lipoic acid (E2, acyl transfer), coenzyme A (accepts the acetyl group to form acetyl-CoA), FAD (E3, dihydrolipoyl dehydrogenase) and NAD+ (final electron acceptor). A common mnemonic is 'Tender Loving Care For Nancy'. Biotin (used in carboxylations) and pyridoxal phosphate (used in transaminations) are NOT PDH cofactors, so options A, B and C are wrong. The same five cofactors serve the alpha-ketoglutarate dehydrogenase complex.
+Q_GEN_BIOCHEM_CHO_010 [H] Chronic arsenic (arsenite) poisoning impairs the oxidative decarboxylation of pyruvate. The molecular basis is that arsenite:
+    A. Competes with thiamine pyrophosphate at the E1 subunit
+    B. Prevents NAD+ from accepting electrons at E3
+   *C. Binds the two adjacent thiol (-SH) groups of reduced lipoic acid, inactivating the complex
+    D. Cleaves coenzyme A into inactive fragments
+   key=C ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 9: TCA Cycle & Pyruvate Dehydrogenase (Arsenite/lipoic acid)
+   concept: Trivalent arsenicals (arsenite) bind covalently to the vicinal dithiol (two adjacent -SH) groups of reduced lipoic acid (dihydrolipoamide), inactivating both the pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase complexes; pyruvate and lactate therefore accumulate. This is why dimercaprol (BAL), itself a dithiol, is the antidote — it competes with the tissue dithiols for the arsenic. Arsenite is not a TPP competitor, and neither NAD+ nor coenzyme A is its direct molecular target.
+Q_GEN_BIOCHEM_CHO_011 [M] A neonate presents with severe congenital lactic acidosis and progressive neurological impairment. Blood shows elevated lactate and pyruvate with a normal lactate-to-pyruvate ratio. The most likely defect is:
+   *A. Pyruvate dehydrogenase complex deficiency
+    B. Glucose-6-phosphatase deficiency
+    C. Medium-chain acyl-CoA dehydrogenase deficiency
+    D. Ornithine transcarbamylase deficiency
+   key=A ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 18: Oxidation of Pyruvate (PDH deficiency, lactic acidosis)
+   concept: Pyruvate dehydrogenase complex deficiency (often X-linked E1-alpha) blocks the conversion of pyruvate to acetyl-CoA, so pyruvate builds up and is shunted to lactate, producing congenital lactic acidosis with neurological damage (the brain depends heavily on glucose oxidation). Because the block is BEFORE the electron-transport-dependent steps, both pyruvate and lactate rise and the lactate-to-pyruvate ratio stays normal (a high ratio suggests a respiratory-chain defect). Von Gierke disease also causes lactic acidosis but with hepatomegaly and hypoglycaemia; MCAD is a fatty-acid oxidation defect; OTC deficiency causes hyperammonaemia.
+Q_GEN_BIOCHEM_CHO_012 [H] A chronic alcoholic presents with confusion, ophthalmoplegia and ataxia. Assay of which erythrocyte enzyme, tested for activation by added thiamine pyrophosphate in vitro, best confirms the underlying vitamin deficiency?
+    A. Glucose-6-phosphate dehydrogenase
+   *B. Transketolase
+    C. Glutathione reductase
+    D. Pyruvate carboxylase
+   key=B ref=Vasudevan's Textbook of Biochemistry for Medical Students, 9th ed. — Chapter: Vitamins (Thiamine) and HMP Shunt (Transketolase)
+   concept: The triad of confusion, ophthalmoplegia and ataxia is Wernicke encephalopathy, caused by thiamine (vitamin B1) deficiency, common in alcoholics. Erythrocyte transketolase — a TPP-dependent enzyme of the non-oxidative HMP pathway — has reduced activity in thiamine deficiency; adding TPP in vitro causes a large increase in activity (the 'TPP effect', typically greater than 15-25 percent), confirming the deficiency. G6PD is assayed for G6PD deficiency; glutathione reductase activation tests riboflavin (B2) status; pyruvate carboxylase is a biotin enzyme, not TPP-dependent.
+Q_GEN_BIOCHEM_CHO_013 [E] The only reaction of the citric acid cycle that directly produces a high-energy nucleoside triphosphate (GTP) by substrate-level phosphorylation is catalysed by:
+    A. Citrate synthase
+    B. Isocitrate dehydrogenase
+   *C. Succinyl-CoA synthetase (succinate thiokinase)
+    D. Malate dehydrogenase
+   key=C ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 17: The Citric Acid Cycle
+   concept: Succinyl-CoA synthetase (succinate thiokinase) converts succinyl-CoA to succinate, using the energy of the thioester bond to phosphorylate GDP to GTP (in some tissues ADP to ATP). This is the sole substrate-level phosphorylation step of the TCA cycle. Citrate synthase forms citrate — the hydrolysis of its thioester merely drives the condensation, with no nucleotide made. Isocitrate dehydrogenase and malate dehydrogenase are oxidations that generate NADH, not a nucleoside triphosphate.
+Q_GEN_BIOCHEM_CHO_014 [M] Assertion (A): Citrate synthase is the principal rate-limiting enzyme of the citric acid cycle. Reason (R): Isocitrate dehydrogenase is allosterically activated by ADP and inhibited by ATP and NADH. Select the correct option:
+    A. Both the assertion and the reason are true, and the reason is the correct explanation of the assertion
+    B. Both the assertion and the reason are true, but the reason is NOT the correct explanation of the assertion
+    C. The assertion is true, but the reason is false
+   *D. The assertion is false, but the reason is true
+   key=D ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 17: The Citric Acid Cycle (Regulation)
+   concept: The assertion is FALSE: isocitrate dehydrogenase — not citrate synthase — is generally taught as the principal rate-limiting and regulatory enzyme of the citric acid cycle. The reason is TRUE: isocitrate dehydrogenase is allosterically activated by ADP (and Ca2+) and inhibited by ATP and NADH, coupling cycle flux to the cellular energy charge. Citrate synthase and alpha-ketoglutarate dehydrogenase are additional control points, but the classic rate-limiting step is isocitrate dehydrogenase. A false assertion with a true reason is answer option D.
+Q_GEN_BIOCHEM_CHO_015 [H] Fluoroacetate (the rodenticide 'compound 1080') is lethal because it undergoes conversion in vivo to fluorocitrate, which inhibits the citric acid cycle enzyme:
+   *A. Aconitase
+    B. Fumarase
+    C. Citrate synthase
+    D. Succinate dehydrogenase
+   key=A ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 9: Tricarboxylic Acid Cycle (Fluoroacetate / aconitase)
+   concept: Fluoroacetate is itself non-toxic until it is converted to fluoroacetyl-CoA and then condensed with oxaloacetate (by citrate synthase) to form fluorocitrate, a potent inhibitor of aconitase. This is the classic example of 'lethal synthesis' (Peters): the cycle stalls at the citrate-to-isocitrate isomerisation, citrate accumulates, and ATP production collapses. Fumarase, citrate synthase and succinate dehydrogenase are not the targets of fluorocitrate, which acts specifically on aconitase.
+Q_GEN_BIOCHEM_CHO_016 [M] Assertion (A): Pyruvate carboxylase is a key anaplerotic enzyme that replenishes oxaloacetate for the citric acid cycle. Reason (R): Pyruvate carboxylase requires biotin as its coenzyme. Select the correct option:
+    A. Both the assertion and the reason are true, and the reason is the correct explanation of the assertion
+   *B. Both the assertion and the reason are true, but the reason is NOT the correct explanation of the assertion
+    C. The assertion is true, but the reason is false
+    D. The assertion is false, but the reason is true
+   key=B ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 17: The Citric Acid Cycle (Anaplerotic reactions)
+   concept: Both statements are individually true. Pyruvate carboxylase converts pyruvate to oxaloacetate and is the most important anaplerotic ('filling-up') reaction, replacing TCA intermediates withdrawn for biosynthesis; and it does require biotin (a CO2 carrier) plus allosteric activation by acetyl-CoA. However, the requirement for biotin is NOT the reason the enzyme is anaplerotic — its anaplerotic role stems from the fact that its product is oxaloacetate, a cycle intermediate. Two true statements where the reason does not explain the assertion is answer option B.
+Q_GEN_BIOCHEM_CHO_017 [E] One complete turn of the citric acid cycle, oxidising one molecule of acetyl-CoA, directly yields:
+    A. 1 NADH, 3 FADH2 and 1 GTP
+    B. 4 NADH, 1 FADH2 and 2 GTP
+   *C. 3 NADH, 1 FADH2 and 1 GTP
+    D. 2 NADH, 2 FADH2 and 1 ATP
+   key=C ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 9: Tricarboxylic Acid Cycle (Energy yield)
+   concept: Per acetyl-CoA, one turn of the citric acid cycle produces 3 NADH (isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase and malate dehydrogenase), 1 FADH2 (succinate dehydrogenase) and 1 GTP (succinyl-CoA synthetase), releasing 2 CO2. Through oxidative phosphorylation this corresponds to about 10 ATP (3 x 2.5 + 1 x 1.5 + 1). The other options misallocate the number of reduced coenzymes; only option C matches the correct 3 NADH : 1 FADH2 : 1 GTP stoichiometry.
+Q_GEN_BIOCHEM_CHO_018 [M] Pyruvate carboxylase, the first committed enzyme of gluconeogenesis from pyruvate, requires which coenzyme and which allosteric activator, respectively?
+    A. Thiamine pyrophosphate; activated by AMP
+    B. Lipoic acid; activated by citrate
+    C. NADPH; activated by fructose-2,6-bisphosphate
+   *D. Biotin; activated by acetyl-CoA
+   key=D ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 19: Gluconeogenesis & the Control of Blood Glucose
+   concept: Pyruvate carboxylase is a mitochondrial, biotin-dependent enzyme that carboxylates pyruvate to oxaloacetate (ATP-driven, with CO2 carried on biotin). It is allosterically ACTIVATED by acetyl-CoA: when acetyl-CoA is abundant it signals that pyruvate should be directed to oxaloacetate for gluconeogenesis and anaplerosis rather than through pyruvate dehydrogenase. TPP, lipoic acid and NADPH are cofactors of other enzymes, and fructose-2,6-bisphosphate regulates glycolysis (PFK-1/PFK-2), not pyruvate carboxylase, so only option D is correct.
+Q_GEN_BIOCHEM_CHO_019 [M] Which enzyme, present in liver and kidney but absent in skeletal muscle, catalyses the final step — common to both gluconeogenesis and glycogenolysis — that releases free glucose into the blood?
+   *A. Glucose-6-phosphatase
+    B. Glucokinase
+    C. Phosphoglucomutase
+    D. Fructose-1,6-bisphosphatase
+   key=A ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 10: Gluconeogenesis (Glucose-6-phosphatase)
+   concept: Glucose-6-phosphatase, located on the endoplasmic reticulum membrane of liver, kidney and intestine, hydrolyses glucose-6-phosphate to free glucose, allowing these organs to export glucose to maintain blood levels. Skeletal muscle LACKS this enzyme, so muscle glycogen and glucose-6-phosphate cannot directly raise blood glucose. Its deficiency causes von Gierke disease (GSD type I) with fasting hypoglycaemia, hepatomegaly and lactic acidosis. Fructose-1,6-bisphosphatase acts one step earlier and only in gluconeogenesis; phosphoglucomutase and glucokinase do not liberate free glucose.
+Q_GEN_BIOCHEM_CHO_020 [E] In the Cori cycle, lactate produced by anaerobic glycolysis in exercising muscle is carried to the liver, where it is used mainly to:
+    A. Be completely oxidised to CO2 and water to power muscle contraction
+   *B. Be reconverted to glucose by gluconeogenesis, which then returns to the muscle
+    C. Be converted to ketone bodies for use by the brain
+    D. Be excreted unchanged by the kidney
+   key=B ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 19: Gluconeogenesis & the Control of Blood Glucose (Cori cycle)
+   concept: The Cori (lactic acid) cycle recycles carbon between muscle and liver: lactate released by exercising muscle travels in the blood to the liver, where lactate dehydrogenase regenerates pyruvate and gluconeogenesis remakes glucose. This glucose returns to the muscle. The process is energetically costly (about 6 ATP consumed in the liver versus 2 ATP gained in the muscle) but shifts the metabolic burden to the liver and prevents lactic acidosis. It is not net oxidation in the liver, ketogenesis, or renal excretion.
+Q_GEN_BIOCHEM_CHO_021 [H] A boy of Mediterranean descent develops acute haemolysis with bite cells and Heinz bodies after eating fava beans. The enzyme he is deficient in normally supplies the erythrocyte with which protective molecule?
+    A. ATP for the membrane cation pumps
+    B. 2,3-bisphosphoglycerate for oxygen unloading
+   *C. NADPH to keep glutathione in the reduced state against oxidative stress
+    D. Ribose-5-phosphate for nucleotide synthesis
+   key=C ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 12: Pentose Phosphate Pathway & NADPH (G6PD deficiency)
+   concept: Glucose-6-phosphate dehydrogenase is the committed, rate-limiting enzyme of the oxidative pentose phosphate pathway and generates NADPH. In red cells NADPH keeps glutathione reduced (via glutathione reductase), the main defence against oxidant (H2O2) injury. In G6PD deficiency (X-linked; triggered by fava beans, oxidant drugs or infection) oxidised haemoglobin precipitates as Heinz bodies, and splenic macrophages create 'bite' cells, causing haemolysis. Although the pathway also yields ribose-5-phosphate, in the mature erythrocyte the protective role is NADPH/glutathione, not nucleotide synthesis; ATP and 2,3-BPG come from glycolysis.
+Q_GEN_BIOCHEM_CHO_022 [H] An infant develops vomiting, hypoglycaemia, jaundice and hepatomegaly whenever fruit or sucrose is introduced into the diet, but remains well on breast milk alone. Deficiency of which enzyme, leading to accumulation of fructose-1-phosphate, is responsible?
+    A. Fructokinase
+    B. Galactokinase
+    C. Glucose-6-phosphatase
+   *D. Aldolase B
+   key=D ref=Lippincott's Illustrated Reviews: Biochemistry, 7th ed. — Chapter 13: Metabolism of Monosaccharides (Hereditary Fructose Intolerance)
+   concept: Hereditary fructose intolerance is caused by aldolase B deficiency. Fructokinase still forms fructose-1-phosphate, but aldolase B cannot cleave it, so fructose-1-phosphate accumulates: it sequesters inorganic phosphate and inhibits both glycogenolysis (phosphorylase) and gluconeogenesis, producing severe hypoglycaemia along with liver and kidney toxicity. Symptoms begin when fructose or sucrose is introduced (weaning, fruit), not on lactose-based breast milk. Fructokinase deficiency (essential fructosuria) is benign; galactokinase deficiency affects galactose (cataracts); glucose-6-phosphatase deficiency is von Gierke disease.
+Q_GEN_BIOCHEM_CHO_023 [M] A healthy, asymptomatic child is incidentally found to have a urine sample that is positive on a copper-reduction (Benedict's) test but negative on a glucose-oxidase dipstick. The most likely benign explanation is deficiency of:
+   *A. Fructokinase (essential fructosuria)
+    B. Aldolase B (hereditary fructose intolerance)
+    C. Galactose-1-phosphate uridyltransferase
+    D. Glucose-6-phosphate dehydrogenase
+   key=A ref=Vasudevan's Textbook of Biochemistry for Medical Students, 9th ed. — Chapter: Metabolism of Fructose and Galactose
+   concept: Essential fructosuria results from deficiency of fructokinase (ketohexokinase) and is a benign, asymptomatic condition: unmetabolised fructose spills into the urine, giving a POSITIVE reducing-sugar test (Benedict's, which detects any reducing sugar) but a NEGATIVE glucose-specific dipstick (glucose oxidase). No treatment is needed. Aldolase B deficiency (hereditary fructose intolerance) is symptomatic and dangerous; GALT deficiency causes classic galactosaemia; and G6PD deficiency causes haemolysis, not a reducing sugar in the urine — so the benign answer is fructokinase deficiency.
+Q_GEN_BIOCHEM_CHO_024 [H] A child has hepatomegaly, fasting hypoglycaemia and ketosis. Liver glycogen has abnormally short outer branches (a limit-dextrin-like structure), while blood lactate and uric acid are near normal. The deficient enzyme is:
+    A. Muscle glycogen phosphorylase (myophosphorylase)
+   *B. Glycogen debranching enzyme (amylo-1,6-glucosidase)
+    C. Branching enzyme (amylo-4,6-transglucosidase)
+    D. Lysosomal acid alpha-glucosidase (acid maltase)
+   key=B ref=Harper's Illustrated Biochemistry, 31st ed. — Chapter 20: Metabolism of Glycogen (Glycogen Storage Diseases)
+   concept: Cori/Forbes disease (glycogen storage disease type III) is due to deficiency of the debranching enzyme (amylo-1,6-glucosidase): glycogen with short outer branches resembling limit dextrin accumulates. It is milder than von Gierke disease, and because gluconeogenesis is intact, blood lactate and uric acid are near normal. Myophosphorylase deficiency is McArdle disease (type V, exercise cramps, no rise in venous lactate on exercise); branching enzyme deficiency is Andersen disease (type IV, cirrhosis, amylopectin-like glycogen); acid alpha-glucosidase deficiency is Pompe disease (type II, lysosomal, cardiomegaly).
+
+=== Biochemistry / Inborn errors of metabolism
+Q_PYQ_FMGE_2024JAN_004 [M] Zellweger syndrome is associated with which cellular organelle?
+   *A. Peroxisomes
+    B. Nucleosomes
+    C. Lysosomes
+    D. Ribosomes
+   key=A ref=FMGE January 2024 (real exam recall)
+   concept: Zellweger (cerebrohepatorenal) syndrome is the prototype peroxisomal biogenesis disorder, so the organelle involved is the peroxisome. NOTE: the scraped answer key said 'Nucleosomes' (B), but that is medically incorrect - the correct organelle is the peroxisome (A).
+
+=== Biochemistry / Lipid metabolism & lipoproteins
+Q_GEN_BIOCHEM_LIPID_001 [M] Transport of long-chain fatty acyl groups across the inner mitochondrial membrane into the matrix for beta-oxidation depends on the carnitine shuttle. Which enzyme catalyses the rate-limiting step of this shuttle and is physiologically inhibited by malonyl-CoA?
+    A. Acyl-CoA synthetase (thiokinase)
+    B. Carnitine palmitoyltransferase II (CPT-II)
+   *C. Carnitine palmitoyltransferase I (CPT-I)
+    D. Carnitine-acylcarnitine translocase
+   key=C ref=Harper's Illustrated Biochemistry — Oxidation of Fatty Acids: Ketogenesis
+   concept: CPT-I sits on the outer mitochondrial membrane and converts long-chain acyl-CoA to acylcarnitine; this is the rate-limiting and committed step of mitochondrial fatty acid entry, and it is inhibited by malonyl-CoA (the first intermediate of fatty acid synthesis), coordinating synthesis and oxidation. CPT-II regenerates acyl-CoA on the matrix side (not rate-limiting), translocase merely exchanges acylcarnitine for free carnitine, and acyl-CoA synthetase activates the fatty acid in the cytosol before the shuttle even begins.
+Q_GEN_BIOCHEM_LIPID_002 [H] A 10-month-old infant presents with recurrent episodes of hypoketotic hypoglycaemia during fasting or intercurrent illness, dilated cardiomyopathy, and skeletal muscle weakness. Plasma total and free carnitine levels are markedly reduced, and the defect localises to the OCTN2 plasma-membrane carnitine transporter. What is the most likely diagnosis?
+    A. Von Gierke disease (glucose-6-phosphatase deficiency)
+   *B. Primary (systemic) carnitine deficiency
+    C. McArdle disease (myophosphorylase deficiency)
+    D. Medium-chain acyl-CoA dehydrogenase (MCAD) deficiency
+   key=B ref=Lippincott Illustrated Reviews: Biochemistry — Fatty Acid and Triacylglycerol Metabolism
+   concept: Primary carnitine deficiency results from a defect in the OCTN2 (SLC22A5) high-affinity carnitine transporter, causing renal carnitine wasting and low plasma/tissue carnitine, so long-chain fatty acids cannot enter mitochondria; the triad of hypoketotic hypoglycaemia, cardiomyopathy and myopathy is classic and responds to carnitine supplementation. Von Gierke causes fasting hypoglycaemia but with hepatomegaly, lactic acidosis and normal carnitine; McArdle gives exercise intolerance with muscle cramps; MCAD lowers acylcarnitines with a specific C8 pattern but carnitine transport itself is intact.
+Q_GEN_BIOCHEM_LIPID_003 [H] A previously healthy 2-year-old develops vomiting, lethargy and non-ketotic (hypoketotic) hypoglycaemia after a prolonged fast with a viral illness. Investigations show dicarboxylic aciduria and elevated C8 (octanoyl) acylcarnitine on tandem mass spectrometry. A deficiency of which enzyme best explains this presentation?
+   *A. Medium-chain acyl-CoA dehydrogenase (MCAD)
+    B. Glucose-6-phosphatase
+    C. Myophosphorylase
+    D. Pyruvate carboxylase
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — Inborn Errors of Metabolism
+   concept: MCAD deficiency is the commonest inherited fatty-acid oxidation defect; medium-chain (C6-C10) acyl-CoAs cannot be dehydrogenated, so fasting produces hypoketotic hypoglycaemia (impaired ketogenesis) with accumulation of medium-chain species that spill into microsomal omega-oxidation, giving dicarboxylic aciduria and a diagnostic C8-acylcarnitine peak. Glucose-6-phosphatase deficiency causes ketotic hypoglycaemia with hepatomegaly and lactic acidosis; myophosphorylase deficiency is a muscle glycogenosis; pyruvate carboxylase deficiency causes lactic acidosis, not this acylcarnitine profile.
+Q_GEN_BIOCHEM_LIPID_004 [E] Each round of mitochondrial beta-oxidation of a saturated fatty acyl-CoA shortens the chain by two carbons. Which set of products is generated directly in a single round?
+   *A. One FADH2, one NADH and one acetyl-CoA
+    B. One FADH2, one NADPH and one malonyl-CoA
+    C. One NADH, one GTP and one acetyl-CoA
+    D. Two acetyl-CoA and one NADH
+   key=A ref=Harper's Illustrated Biochemistry — Oxidation of Fatty Acids: Ketogenesis
+   concept: The four steps of one beta-oxidation spiral are oxidation (acyl-CoA dehydrogenase producing FADH2), hydration, a second oxidation (3-hydroxyacyl-CoA dehydrogenase producing NADH), and thiolytic cleavage releasing one acetyl-CoA while leaving an acyl-CoA shortened by two carbons. NADPH and malonyl-CoA belong to fatty acid synthesis, not oxidation; GTP is produced in the TCA cycle; and only the final round of an even-chain fatty acid yields two acetyl-CoA molecules, not every round.
+Q_GEN_BIOCHEM_LIPID_005 [M] Ketone bodies are synthesised in hepatic mitochondria from acetyl-CoA. After thiolase and HMG-CoA synthase produce HMG-CoA, which enzyme cleaves HMG-CoA to yield acetoacetate plus acetyl-CoA, the committed step of ketogenesis?
+    A. HMG-CoA reductase
+    B. HMG-CoA synthase
+   *C. HMG-CoA lyase
+    D. Succinyl-CoA:acetoacetate CoA transferase (thiophorase)
+   key=C ref=Lippincott Illustrated Reviews: Biochemistry — Fatty Acid and Triacylglycerol Metabolism (Ketone Bodies)
+   concept: In ketogenesis, HMG-CoA lyase splits mitochondrial HMG-CoA into acetoacetate and acetyl-CoA; acetoacetate is then reduced to beta-hydroxybutyrate or decarboxylated to acetone. HMG-CoA reductase is the cytosolic/ER enzyme of cholesterol synthesis (converts HMG-CoA to mevalonate, not acetoacetate); HMG-CoA synthase forms HMG-CoA one step earlier; and thiophorase (SCOT) is an extrahepatic enzyme used for ketone utilisation, not synthesis. HMG-CoA lyase deficiency causes non-ketotic hypoglycaemia.
+Q_GEN_BIOCHEM_LIPID_006 [H] The liver synthesises ketone bodies for export to peripheral tissues but is itself unable to use them as a fuel. This inability is best explained by the hepatic absence of which enzyme?
+    A. Thiolase (acetoacetyl-CoA thiolase)
+    B. Beta-hydroxybutyrate dehydrogenase
+   *C. Succinyl-CoA:acetoacetate CoA transferase (thiophorase / SCOT)
+    D. HMG-CoA synthase
+   key=C ref=Harper's Illustrated Biochemistry — Oxidation of Fatty Acids: Ketogenesis
+   concept: To use ketone bodies, tissues must first re-activate acetoacetate to acetoacetyl-CoA using thiophorase (SCOT), which transfers CoA from succinyl-CoA. The liver lacks thiophorase, so it cannot re-activate acetoacetate and therefore exports ketones rather than consuming them, ensuring fuel reaches the brain, heart and muscle during fasting. Beta-hydroxybutyrate dehydrogenase and thiolase are present in the liver; HMG-CoA synthase is actually the ketogenic (synthetic) enzyme, so its presence, not absence, is what makes the liver ketogenic.
+Q_GEN_BIOCHEM_LIPID_007 [M] The committed, rate-limiting step of de novo fatty acid synthesis is the carboxylation of acetyl-CoA to malonyl-CoA. Which statement about the enzyme catalysing this step is correct?
+   *A. It is acetyl-CoA carboxylase, a biotin-dependent enzyme allosterically activated by citrate
+    B. It is fatty acid synthase, which is allosterically activated by malonyl-CoA
+    C. It is acetyl-CoA carboxylase, which is allosterically activated by palmitoyl-CoA
+    D. It is thiolase, a biotin-dependent condensing enzyme
+   key=A ref=Lippincott Illustrated Reviews: Biochemistry — Fatty Acid and Triacylglycerol Metabolism
+   concept: Acetyl-CoA carboxylase (ACC) is the rate-limiting enzyme of fatty acid synthesis; it uses biotin and bicarbonate to carboxylate acetyl-CoA to malonyl-CoA, is allosterically activated by citrate (a signal of abundant fuel) and inhibited by palmitoyl-CoA (product feedback), and is inactivated by AMPK-mediated phosphorylation. Fatty acid synthase acts downstream and is not the regulatory bottleneck; palmitoyl-CoA inhibits rather than activates ACC; and thiolase is a beta-oxidation/ketogenesis enzyme, not biotin-dependent.
+Q_GEN_BIOCHEM_LIPID_008 [H] In the well-fed state, active fatty acid synthesis prevents simultaneous futile beta-oxidation of the newly made fatty acids. This reciprocal control is achieved primarily because malonyl-CoA does what?
+    A. Activates carnitine palmitoyltransferase I
+   *B. Inhibits carnitine palmitoyltransferase I, blocking fatty acyl entry into mitochondria
+    C. Inhibits acetyl-CoA carboxylase by feedback
+    D. Activates acyl-CoA dehydrogenase to speed oxidation
+   key=B ref=Harper's Illustrated Biochemistry — Biosynthesis of Fatty Acids
+   concept: Malonyl-CoA, the product of acetyl-CoA carboxylase and the first committed intermediate of synthesis, allosterically inhibits CPT-I. This blocks entry of fatty acyl groups into mitochondria, so newly synthesised fatty acids are not immediately oxidised, giving tight reciprocal regulation of synthesis versus oxidation. It does not activate CPT-I (opposite effect); it does not feedback-inhibit acetyl-CoA carboxylase (that is done by palmitoyl-CoA); and it has no activating role on acyl-CoA dehydrogenase.
+Q_GEN_BIOCHEM_LIPID_009 [M] Acetyl-CoA required for cytosolic fatty acid synthesis is generated inside mitochondria and cannot cross the inner membrane directly; it is exported as citrate. In the cytosol, citrate is cleaved back to acetyl-CoA and oxaloacetate by which enzyme?
+    A. Citrate synthase
+    B. Aconitase
+   *C. ATP-citrate lyase
+    D. Isocitrate dehydrogenase
+   key=C ref=Lippincott Illustrated Reviews: Biochemistry — Fatty Acid and Triacylglycerol Metabolism
+   concept: The citrate (tricarboxylate) shuttle exports acetyl units: mitochondrial acetyl-CoA condenses with oxaloacetate to citrate, which leaves the mitochondrion and is split in the cytosol by ATP-citrate lyase into acetyl-CoA (for fatty acid synthesis) and oxaloacetate. Citrate synthase performs the mitochondrial condensation, not the cytosolic cleavage; aconitase isomerises citrate to isocitrate; and isocitrate dehydrogenase is a TCA oxidative-decarboxylation enzyme, none of which liberate cytosolic acetyl-CoA.
+Q_GEN_BIOCHEM_LIPID_010 [E] De novo fatty acid synthesis consumes large amounts of NADPH as reducing power. In lipogenic tissues such as liver and adipose tissue, which pathway is the major source of this NADPH?
+    A. Glycolysis
+   *B. The pentose phosphate (HMP shunt) pathway
+    C. The citric acid (TCA) cycle
+    D. Oxidative phosphorylation
+   key=B ref=Harper's Illustrated Biochemistry — The Pentose Phosphate Pathway & Other Pathways of Hexose Metabolism
+   concept: The oxidative branch of the pentose phosphate pathway (glucose-6-phosphate dehydrogenase and 6-phosphogluconate dehydrogenase) is the principal NADPH generator for reductive biosynthesis such as fatty acid and cholesterol synthesis; the malic enzyme contributes additional NADPH via the citrate shuttle. Glycolysis produces NADH and ATP not NADPH; the TCA cycle produces NADH, FADH2 and GTP; oxidative phosphorylation consumes NADH/FADH2 to make ATP and does not generate NADPH.
+Q_GEN_BIOCHEM_LIPID_011 [E] The multienzyme fatty acid synthase complex adds two-carbon units repeatedly to build a fatty acid chain. Which fatty acid is the principal end product released by the mammalian fatty acid synthase?
+   *A. Palmitate (C16:0)
+    B. Stearate (C18:0)
+    C. Oleate (C18:1)
+    D. Arachidonate (C20:4)
+   key=A ref=Lippincott Illustrated Reviews: Biochemistry — Fatty Acid and Triacylglycerol Metabolism
+   concept: Mammalian fatty acid synthase elongates a growing chain by successive addition of malonyl-CoA-derived two-carbon units and releases the saturated 16-carbon palmitate as its main product. Longer chains such as stearate are made by microsomal/ER elongation enzymes acting on palmitate; unsaturated fatty acids like oleate require desaturases; and arachidonate (a 20-carbon polyunsaturated fatty acid) is derived from the essential fatty acid linoleic acid, not synthesised de novo by fatty acid synthase.
+Q_GEN_BIOCHEM_LIPID_012 [M] Cholesterol biosynthesis proceeds in the cytosol and endoplasmic reticulum from acetyl-CoA. Which pairing correctly names the rate-limiting enzyme of this pathway and the principal transcription factor that upregulates it when cellular sterol is low?
+    A. HMG-CoA synthase; PPAR-alpha
+   *B. HMG-CoA reductase; SREBP-2
+    C. Squalene epoxidase; SREBP-1c
+    D. Mevalonate kinase; ChREBP
+   key=B ref=Harper's Illustrated Biochemistry — Cholesterol Synthesis, Transport, & Excretion
+   concept: HMG-CoA reductase converts HMG-CoA to mevalonate and is the rate-limiting, most heavily regulated step of cholesterol synthesis; when sterol levels fall, SREBP-2 is proteolytically released in the Golgi and travels to the nucleus to transcribe HMG-CoA reductase and the LDL receptor. SREBP-1c preferentially drives lipogenic (fatty acid) genes; PPAR-alpha governs fatty acid oxidation; ChREBP responds to glucose for lipogenesis; and squalene epoxidase and mevalonate kinase are downstream, non-rate-limiting cholesterogenic enzymes.
+Q_GEN_BIOCHEM_LIPID_013 [E] Humans lack the desaturases needed to introduce double bonds beyond carbon 9 of a fatty acid, so certain fatty acids must be obtained from the diet. Which pair are the true essential fatty acids in humans?
+    A. Palmitic acid and stearic acid
+    B. Oleic acid and palmitoleic acid
+    C. Arachidonic acid and oleic acid
+   *D. Linoleic acid (omega-6) and alpha-linolenic acid (omega-3)
+   key=D ref=Lippincott Illustrated Reviews: Biochemistry — Complex Lipid Metabolism (Essential Fatty Acids)
+   concept: Linoleic (18:2, omega-6) and alpha-linolenic (18:3, omega-3) acids cannot be synthesised de novo because humans lack delta-12 and delta-15 desaturases; they are dietary essentials and precursors for arachidonic acid, EPA and DHA. Palmitic, stearic, oleic and palmitoleic acids are all synthesised endogenously (oleate and palmitoleate via the delta-9 desaturase). Arachidonic acid is only conditionally essential because it can be made from linoleate, so it is not counted with oleic acid as a primary essential pair.
+Q_GEN_BIOCHEM_LIPID_014 [M] Prostaglandins, thromboxanes and leukotrienes are 20-carbon signalling lipids (eicosanoids). Which option correctly names their major fatty-acid precursor together with the enzyme irreversibly inhibited by aspirin?
+    A. Linoleic acid; lipoxygenase
+    B. Gamma-linolenic acid; phospholipase A2
+    C. Arachidonic acid; lipoxygenase
+   *D. Arachidonic acid; cyclooxygenase (COX)
+   key=D ref=Harper's Illustrated Biochemistry — Metabolism of Unsaturated Fatty Acids & Eicosanoids
+   concept: Arachidonic acid (a 20-carbon omega-6 polyunsaturated fatty acid, released from membrane phospholipids by phospholipase A2) is the main eicosanoid precursor. The cyclooxygenase (COX) pathway makes prostaglandins and thromboxanes, while the lipoxygenase pathway makes leukotrienes. Aspirin irreversibly acetylates and inhibits COX (not lipoxygenase), reducing thromboxane A2 and giving its antiplatelet effect. Linoleic acid is the dietary precursor of arachidonate but not the direct eicosanoid substrate, and phospholipase A2 is inhibited by steroids, not aspirin.
+Q_GEN_BIOCHEM_LIPID_015 [M] A neonate born at 29 weeks develops progressive respiratory distress with tachypnoea, grunting and a ground-glass chest radiograph within hours of birth, attributed to pulmonary surfactant deficiency. Which phospholipid is the principal surface-tension-lowering component of surfactant that is deficient?
+    A. Phosphatidylserine
+    B. Sphingomyelin
+   *C. Dipalmitoylphosphatidylcholine (dipalmitoyl lecithin)
+    D. Cardiolipin
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease — Diseases of Infancy and Childhood (Respiratory Distress Syndrome)
+   concept: Dipalmitoylphosphatidylcholine (lecithin) is the chief surfactant phospholipid secreted by type II pneumocytes; it lowers alveolar surface tension and prevents end-expiratory collapse, and its deficiency in prematurity causes neonatal respiratory distress syndrome (hyaline membrane disease). Fetal lung maturity is judged by a lecithin-to-sphingomyelin (L:S) ratio above 2. Sphingomyelin stays roughly constant and is the ratio denominator; phosphatidylserine and cardiolipin (an inner-mitochondrial-membrane lipid) are not the key surfactant components.
+Q_GEN_BIOCHEM_LIPID_016 [E] Plasma lipoproteins differ in density according to their protein-to-lipid ratio. Which lipoprotein class has the highest protein content (and thus highest density) and mediates reverse cholesterol transport from peripheral tissues to the liver?
+    A. Chylomicron
+    B. VLDL
+    C. LDL
+   *D. HDL
+   key=D ref=Lippincott Illustrated Reviews: Biochemistry — Cholesterol, Lipoprotein, and Steroid Metabolism
+   concept: HDL has the highest protein-to-lipid ratio, hence the greatest density, and carries out reverse cholesterol transport, picking up peripheral cholesterol (via ABCA1 and LCAT esterification) and returning it to the liver. Density falls and particle size rises as lipid content increases: chylomicrons are the largest and least dense (mostly dietary triglyceride), VLDL carries endogenous triglyceride, and LDL is the main cholesterol carrier delivering cholesterol to tissues, all with lower protein fractions than HDL.
+Q_GEN_BIOCHEM_LIPID_017 [M] ApoB-48 and ApoB-100 are produced from the same gene, differing because of tissue-specific mRNA editing. Which statement about these two apolipoproteins is correct?
+    A. ApoB-48 is found on VLDL and LDL, whereas ApoB-100 is found on chylomicrons
+   *B. ApoB-48 is made in the intestine and coats chylomicrons, whereas ApoB-100 is made in the liver, coats VLDL/LDL and is the ligand for the LDL receptor
+    C. ApoB-48 is the ligand recognised by the hepatic LDL receptor
+    D. Both ApoB-48 and ApoB-100 are synthesised exclusively in the liver
+   key=B ref=Harper's Illustrated Biochemistry — Lipid Transport & Storage
+   concept: Intestinal mRNA editing introduces a stop codon so enterocytes make the truncated ApoB-48 (about 48% of full length) that assembles chylomicrons, while the liver makes full-length ApoB-100 for VLDL, which becomes LDL and provides the ApoB-100 that the hepatic LDL receptor recognises for clearance. ApoB-48 lacks the LDL-receptor-binding domain, so it is not the receptor ligand; the class assignments in the other options are reversed or restricted to the wrong tissue.
+Q_GEN_BIOCHEM_LIPID_018 [M] Lipoprotein lipase (LPL), anchored to capillary endothelium, hydrolyses the triglycerides carried in chylomicrons and VLDL so that free fatty acids can be taken up by tissues. Which apolipoprotein is the essential activator of lipoprotein lipase?
+    A. ApoA-I
+    B. ApoB-100
+    C. ApoE
+   *D. ApoC-II
+   key=D ref=Lippincott Illustrated Reviews: Biochemistry — Cholesterol, Lipoprotein, and Steroid Metabolism
+   concept: ApoC-II, transferred to chylomicrons and VLDL from HDL, is the obligatory cofactor that activates lipoprotein lipase; a deficiency of either LPL or ApoC-II causes fasting chylomicronaemia with severe hypertriglyceridaemia (type I pattern). ApoA-I instead activates LCAT on HDL; ApoB-100 is the LDL-receptor ligand and structural protein of VLDL/LDL; and ApoE mediates hepatic uptake of chylomicron and VLDL remnants via the LDL-receptor and LRP, not LPL activation.
+Q_GEN_BIOCHEM_LIPID_019 [H] A 28-year-old man has markedly elevated LDL cholesterol, tendon xanthomas over the Achilles tendons and knuckles, corneal arcus, and a strong family history of myocardial infarction before age 45 in an autosomal dominant pattern. Which underlying molecular defect best explains this disorder?
+    A. Lipoprotein lipase deficiency
+    B. ApoC-II deficiency
+    C. ABCA1 transporter defect
+   *D. Defective or deficient LDL receptor (familial hypercholesterolaemia, type IIa)
+   key=D ref=Robbins & Cotran Pathologic Basis of Disease — Genetic Disorders (Familial Hypercholesterolemia)
+   concept: Familial hypercholesterolaemia (Fredrickson type IIa) is caused by autosomal dominant loss-of-function mutations in the LDL receptor (or its ligand ApoB-100, or gain-of-function PCSK9), so LDL is not cleared and plasma LDL cholesterol is very high from birth, producing tendon xanthomas, corneal arcus and premature atherosclerotic coronary disease. LPL and ApoC-II deficiencies raise triglycerides (chylomicrons), not LDL; and an ABCA1 defect causes Tangier disease with very low HDL, the opposite lipid picture.
+Q_GEN_BIOCHEM_LIPID_020 [H] A child presents with chronic fat malabsorption and steatorrhoea, failure to thrive, spinocerebellar ataxia, retinitis pigmentosa, and acanthocytes on the peripheral smear. Fasting lipids show very low total cholesterol and triglycerides, and apolipoprotein B is undetectable in plasma. Which molecular defect underlies this disorder?
+   *A. Deficiency of microsomal triglyceride transfer protein (MTP)
+    B. Deficiency of apolipoprotein A-I
+    C. Deficiency of LCAT (lecithin-cholesterol acyltransferase)
+    D. Deficiency of cholesteryl ester transfer protein (CETP)
+   key=A ref=Harper's Illustrated Biochemistry — Lipid Transport & Storage
+   concept: Abetalipoproteinaemia results from loss of microsomal triglyceride transfer protein (MTP), which is required to load lipids onto ApoB during assembly of chylomicrons and VLDL; without it, no ApoB-containing lipoproteins are secreted, causing fat and fat-soluble-vitamin malabsorption. Vitamin E deficiency drives the neurological signs and retinitis pigmentosa, and acanthocytosis reflects abnormal red-cell membrane lipids. ApoA-I and LCAT defects lower HDL, and CETP deficiency raises HDL, none of which abolish ApoB or cause this malabsorptive picture.
+Q_GEN_BIOCHEM_LIPID_021 [H] A patient has strikingly enlarged, yellow-orange tonsils, mild hepatosplenomegaly, a peripheral neuropathy, and near-absent plasma HDL cholesterol with low total cholesterol. The disorder arises from failure to transfer cellular free cholesterol and phospholipid onto lipid-poor ApoA-I. Which defect is responsible?
+   *A. Defect in the ABCA1 transporter (Tangier disease)
+    B. Deficiency of LCAT
+    C. Homozygosity for ApoE2
+    D. Deficiency of CETP
+   key=A ref=Robbins & Cotran Pathologic Basis of Disease — Environmental and Nutritional Diseases / Lipoprotein Disorders
+   concept: Tangier disease is caused by mutations in the ABCA1 transporter, which normally effluxes cellular cholesterol and phospholipid onto nascent ApoA-I to form HDL; without it, lipid-poor ApoA-I is rapidly catabolised, HDL is nearly absent, and cholesteryl esters accumulate in reticuloendothelial cells, producing the classic orange tonsils, hepatosplenomegaly and neuropathy. LCAT deficiency causes corneal opacity and anaemia; ApoE2 homozygosity underlies type III dysbetalipoproteinaemia (remnant accumulation); CETP deficiency paradoxically raises HDL.
+Q_GEN_BIOCHEM_LIPID_022 [M] Lecithin-cholesterol acyltransferase (LCAT) is a plasma enzyme activated by apolipoprotein A-I. What is its principal role in HDL and reverse cholesterol transport?
+    A. It hydrolyses the triglycerides carried within HDL particles
+    B. It transfers cholesteryl esters from HDL to VLDL in exchange for triglyceride
+   *C. It esterifies free cholesterol on the HDL surface, driving HDL maturation and cholesterol uptake
+    D. It catalyses hepatic synthesis of apolipoprotein A-I
+   key=C ref=Lippincott Illustrated Reviews: Biochemistry — Cholesterol, Lipoprotein, and Steroid Metabolism
+   concept: LCAT, activated by ApoA-I on HDL, transfers a fatty acyl group from lecithin (phosphatidylcholine) to free cholesterol, forming hydrophobic cholesteryl esters that move into the HDL core; this converts discoidal nascent HDL into mature spherical HDL and maintains a gradient that keeps drawing free cholesterol out of peripheral cells. Triglyceride hydrolysis is done by lipases; the HDL-to-VLDL cholesteryl-ester/triglyceride swap is performed by CETP; and ApoA-I is synthesised by liver and intestine, not by LCAT.
+Q_GEN_BIOCHEM_LIPID_023 [H] A 6-month-old infant of Ashkenazi Jewish descent shows progressive loss of motor milestones, exaggerated startle response to sound, and a cherry-red spot at the macula, but notably NO hepatosplenomegaly. Accumulation of GM2 ganglioside is demonstrated. Which enzyme deficiency is responsible?
+    A. Beta-glucocerebrosidase
+    B. Sphingomyelinase
+   *C. Hexosaminidase A
+    D. Arylsulfatase A
+   key=C ref=Robbins & Cotran Pathologic Basis of Disease — Genetic Disorders (Lysosomal Storage Diseases)
+   concept: Tay-Sachs disease is a deficiency of hexosaminidase A, causing GM2 ganglioside accumulation predominantly in neurons; hence the neurodegeneration, hyperacusis-related exaggerated startle and cherry-red macula, with the distinguishing absence of hepatosplenomegaly (in contrast to Niemann-Pick, which has a cherry-red spot WITH hepatosplenomegaly). Beta-glucocerebrosidase deficiency causes Gaucher disease; sphingomyelinase deficiency causes Niemann-Pick; and arylsulfatase A deficiency causes metachromatic leukodystrophy (sulfatide accumulation).
+Q_GEN_BIOCHEM_LIPID_024 [H] A young man reports episodic burning pain in the hands and feet, decreased sweating, and clusters of dark-red angiokeratomas over the lower trunk; he later develops proteinuria and left ventricular hypertrophy. The disorder is X-linked and involves accumulation of ceramide trihexoside (globotriaosylceramide). Which enzyme is deficient?
+    A. Alpha-L-iduronidase
+    B. Galactocerebrosidase
+    C. Hexosaminidase A
+   *D. Alpha-galactosidase A
+   key=D ref=Harper's Illustrated Biochemistry — Glycosphingolipids / Robbins Lysosomal Storage Diseases
+   concept: Fabry disease is an X-linked deficiency of alpha-galactosidase A, causing accumulation of globotriaosylceramide (ceramide trihexoside) in vascular endothelium and other tissues; hallmarks are acroparaesthesias (burning pain), hypohidrosis, angiokeratomas, and later renal failure and cardiac/cerebrovascular disease. Alpha-L-iduronidase deficiency causes Hurler syndrome (a mucopolysaccharidosis); galactocerebrosidase deficiency causes Krabbe disease with globoid cells; and hexosaminidase A deficiency causes Tay-Sachs, which lacks these vascular skin lesions.
+Q_GEN_BIOCHEM_LIPID_025 [M] Fibrates (for example fenofibrate) are the most effective agents for lowering markedly raised serum triglycerides. What is their principal mechanism of action?
+    A. Inhibition of HMG-CoA reductase
+   *B. Activation of PPAR-alpha, which increases lipoprotein lipase activity and hepatic fatty acid oxidation
+    C. Inhibition of intestinal cholesterol absorption via the NPC1L1 transporter
+    D. Binding of bile acids in the intestinal lumen to interrupt their enterohepatic recirculation
+   key=B ref=Lippincott Illustrated Reviews: Pharmacology — Drugs Affecting the Cardiovascular System (Antihyperlipidemics)
+   concept: Fibrates are agonists of the nuclear receptor PPAR-alpha; activation induces lipoprotein lipase and reduces ApoC-III, enhancing triglyceride-rich lipoprotein clearance, and upregulates fatty acid oxidation, so they chiefly lower triglycerides and modestly raise HDL. HMG-CoA reductase inhibition is the mechanism of statins; NPC1L1 inhibition describes ezetimibe; and bile-acid binding describes resins such as cholestyramine, none of which is the fibrate mechanism.
+Q_GEN_BIOCHEM_LIPID_026 [M] A fasting lipid panel reports total cholesterol 200 mg/dL, HDL cholesterol 50 mg/dL and triglycerides 150 mg/dL. Using the Friedewald equation, what is the calculated LDL cholesterol?
+   *A. 120 mg/dL
+    B. 100 mg/dL
+    C. 150 mg/dL
+    D. 130 mg/dL
+   key=A ref=Harper's Illustrated Biochemistry — Cholesterol Synthesis, Transport, & Excretion (Clinical Laboratory)
+   concept: The Friedewald equation estimates LDL cholesterol as LDL = Total cholesterol minus HDL minus (triglycerides divided by 5), where triglycerides/5 approximates VLDL cholesterol in mg/dL. Here LDL = 200 minus 50 minus (150/5) = 200 minus 50 minus 30 = 120 mg/dL. The formula requires a fasting sample and is invalid when triglycerides exceed about 400 mg/dL or when chylomicrons or type III dysbetalipoproteinaemia are present, because the fixed TG/5 VLDL estimate breaks down.
+Q_PYQ_INICET_2025MAY_038 [H] Which of the following statements regarding Bempedoic acid are correct?
+    A. It is a non-competitive inhibitor of ATP citrate lyase
+   *B. It is used along with diet and statins for hypercholesterolemia
+    C. It is a dicarboxylic acid
+    D. It inhibits cholesterol biosynthesis
+   key=B ref=INI-CET May 2025 (real exam recall)
+   concept: Bempedoic acid is a dicarboxylic-acid prodrug that inhibits ATP citrate lyase, reducing cholesterol synthesis upstream of HMG-CoA reductase, and is used with diet and statins for hypercholesterolaemia. NOTE: as worded (which are correct), options B, C and D are all essentially true and even A is partly right (it does inhibit ATP citrate lyase, though 'non-competitive' is dubious); the scraped single answer B is correct but not unique - so flagged.
+
+=== Biochemistry / Vitamins & deficiency diseases
+Q_A_028 [M] An alcoholic develops confusion, ophthalmoplegia and ataxia (Wernicke encephalopathy). Deficiency of which vitamin, a coenzyme for pyruvate dehydrogenase and transketolase, is responsible?
+   *A. Thiamine (B1)
+    B. Riboflavin (B2)
+    C. Niacin (B3)
+    D. Folate (B9)
+   key=A ref=Lippincott's Illustrated Reviews: Biochemistry
+   concept: Thiamine (B1), as thiamine pyrophosphate, is a coenzyme for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase and transketolase. Deficiency causes beriberi and Wernicke-Korsakoff syndrome, common in alcoholics.
+
+[81 shown of 81 unverified in scope]

@@ -1,0 +1,45 @@
+Q_SUR_CHT_013 | del | duplicate of Q_SUR_CHT_001 on flail chest from segmental fractures of three or more ribs producing paradoxical movement. The first item is retained
+Q_SUR_CHT_002 | del | duplicate of Q_SUR_CHT_012, which gives the same 1500 mL threshold and additionally the 200 mL per hour rate. The fuller item is retained
+Q_SUR_COL_004 | del | duplicate of Q_SUR_COL_011, which describes the same pain and bleeding of an anal fissure and additionally the sentinel pile at the posterior midline. The fuller item is retained
+Q_SUR_FLU_004 | del | duplicate of Q_SUR_FLU_011, which gives the same preference for enteral feeding and additionally the reasons. The fuller item is retained
+Q_SUR_FLU_012 | del | duplicate of Q_SUR_FLU_008 on the hypophosphataemia, hypokalaemia and hypomagnesaemia of refeeding syndrome. The first item is retained
+Q_SUR_FLU_009 | ref=Bailey & Love's Short Practice of Surgery 28e, Ch. Fluid and Electrolytes; KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Drugs Affecting Calcium Balance | the reference gave both books in short form with no chapter for either
+Q_SUR_CHT_005 | ok |
+Q_SUR_CHT_006 | ok |
+Q_SUR_CHT_007 | ok |
+Q_SUR_CHT_008 | ok |
+Q_SUR_CHT_009 | ok |
+Q_SUR_CHT_010 | ok |
+Q_SUR_CHT_011 | ok |
+Q_SUR_CHT_012 | ok |
+Q_SUR_CHT_014 | ok |
+Q_SUR_CHT_015 | ok |
+Q_SUR_CHT_016 | ok |
+Q_SUR_COL_001 | ok |
+Q_SUR_COL_002 | ok |
+Q_SUR_COL_003 | ok |
+Q_SUR_COL_005 | ok |
+Q_SUR_COL_007 | ok |
+Q_SUR_COL_008 | ok |
+Q_SUR_COL_009 | ok |
+Q_SUR_COL_010 | ok |
+Q_SUR_COL_011 | ok |
+Q_SUR_COL_013 | ok |
+Q_SUR_COL_014 | ok |
+Q_SUR_COL_015 | ok |
+Q_SUR_COL_016 | ok |
+Q_SUR_FLU_001 | ok |
+Q_SUR_FLU_002 | ok |
+Q_SUR_FLU_003 | ok |
+Q_SUR_FLU_005 | ok |
+Q_SUR_FLU_006 | ok |
+Q_SUR_FLU_007 | ok |
+Q_SUR_FLU_008 | ok |
+Q_SUR_FLU_010 | ok |
+Q_SUR_FLU_011 | ok |
+Q_SUR_FLU_013 | ok |
+Q_SUR_FLU_014 | ok |
+Q_SUR_FLU_016 | ok |
+Q_SUR_GP_001 | ok |
+Q_SUR_GP_002 | ok |
+Q_SUR_GP_003 | ok |

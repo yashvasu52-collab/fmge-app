@@ -1,0 +1,31 @@
+Q_PYQ_FMGE_2025JANP2_023 | ref=AHA Guidelines for CPR and ECC 2020, Ch. Chain of Survival | reference cited only the exam paper, which tells a student nothing about where to read the concept. A study source added; the paper remains recorded in source_ref
+Q_h3d_045 | ref=AHA Guidelines for CPR and ECC 2020, Ch. Adult Cardiac Arrest Algorithm; Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Cardiopulmonary Resuscitation | reference began "Standard ACLS principles", which names no resolvable source. Replaced with the actual guideline
+Q_AN_GA_013 | stem=Which inhalational agent is preferred for gaseous induction of anaesthesia in a child, and why?;;opt0=Sevoflurane, because it is non-pungent and does not irritate the airway;;opt1=Desflurane, because it is the least soluble;;opt2=Isoflurane, because it is the cheapest;;opt3=Halothane, because it is the most potent;;key=0;;concept=Desflurane is pungent and provokes coughing, laryngospasm and breath-holding so it is unsuitable for induction despite its low solubility, whereas sevoflurane allows a smooth single-breath or tidal-volume induction in a child who will not accept a cannula.;;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Inhalational Anesthetics | duplicate of Q_AN_GA_001, which asks the same question about ketamine as the induction agent for a haemodynamically unstable patient. Rewritten to paediatric gaseous induction
+Q_PYQ_FMGE_2024JAN_002 | ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Local Anesthetics; AK Khurana Comprehensive Ophthalmology 8e, Ch. Ocular Anaesthesia | reference cited only the exam paper. Study sources added
+Q_PYQ_FMGE_2024JUN_002 | topic=Regional, spinal & epidural anaesthesia; postoperative care, pain & complications;;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Spinal, Epidural and Caudal Blocks | misfiled: a question about the tissue layers traversed during an epidural was under "Local anaesthetics (max doses, toxicity)", which covers agent doses and systemic toxicity, not neuraxial technique. Refiled to the regional anaesthesia topic, and the exam-paper-only reference replaced with a study source
+Q_h3d_046 | topic=Regional, spinal & epidural anaesthesia; postoperative care, pain & complications;;ref=Morgan & Mikhail's Clinical Anesthesiology 6e, Ch. Spinal, Epidural and Caudal Blocks | misfiled: post-dural-puncture headache after a spinal anaesthetic is a complication of neuraxial blockade, not a local anaesthetic dosing or toxicity question. Refiled, and a chapter added to the reference
+Q_AN_GA_001 | ok |
+Q_AN_GA_002 | ok |
+Q_AN_GA_003 | ok |
+Q_AN_GA_004 | ok |
+Q_AN_GA_005 | ok |
+Q_AN_GA_006 | ok |
+Q_AN_GA_007 | ok |
+Q_AN_GA_008 | ok |
+Q_AN_GA_009 | ok |
+Q_AN_GA_010 | ok |
+Q_AN_GA_011 | ok |
+Q_AN_GA_012 | ok |
+Q_AN_GA_014 | ok |
+Q_AN_GA_015 | ok |
+Q_AN_MR_001 | ok |
+Q_AN_MR_002 | ok |
+Q_AN_MR_003 | ok |
+Q_AN_MR_004 | ok |
+Q_AN_MR_005 | ok |
+Q_AN_MR_006 | ok |
+Q_AN_MR_007 | ok |
+Q_AN_MR_008 | ok |
+Q_AN_MR_009 | ok |
+Q_AN_MR_010 | ok |
+Q_AN_MR_011 | ok |

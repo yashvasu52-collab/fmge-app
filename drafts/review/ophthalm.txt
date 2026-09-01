@@ -1,0 +1,752 @@
+
+=== Ophthalmology / Cataract
+Q_GEN_OPHTH_CATARACT_001 [E] In the context of global blindness, cataract is best described as which of the following?
+    A. The leading cause of irreversible childhood blindness
+    B. A cause of blindness for which no surgical remedy currently exists
+   *C. The commonest cause of treatable (reversible) blindness worldwide
+    D. A refractive error correctable with spectacles alone
+   key=C ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Cataract)
+   concept: Cataract is the leading cause of blindness worldwide and, because sight is restored by surgery, it is the commonest cause of treatable or reversible blindness (C). It is not irreversible (A), it has an excellent surgical remedy (B), and it is a media opacity rather than a refractive error correctable by spectacles (D). Recognising cataract as reversible is the rationale behind large-scale cataract-surgery blindness-control programmes.
+Q_GEN_OPHTH_CATARACT_002 [E] Regarding the crystalline lens capsule, which statement is correct?
+    A. It is thickest at the posterior pole and thinnest at the equator
+   *B. It is the thickest basement membrane in the body and is thinnest at the central posterior pole
+    C. It is composed mainly of type I collagen secreted by the iris
+    D. It is a vascular membrane supplied by the long posterior ciliary arteries
+   key=B ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Anatomy and Physiology (The Crystalline Lens)
+   concept: The lens capsule is a true basement membrane (predominantly type IV collagen) secreted by the lens epithelium and is the thickest basement membrane in the human body; it is thickest in the pre-equatorial zones and thinnest at the central posterior pole, which explains why the posterior capsule is so fragile during surgery (B). It is not iris-derived type I collagen (C) and is avascular (D); option A reverses the true thickness pattern.
+Q_GEN_OPHTH_CATARACT_003 [E] Assertion (A): The lens depends on the aqueous humour to meet its metabolic needs. Reason (R): The lens is avascular and devoid of any blood or nerve supply. Choose the correct option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=A ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Anatomy and Physiology (The Crystalline Lens)
+   concept: The lens is avascular and has no nerve supply; it therefore depends entirely on the aqueous humour (and, posteriorly, on the vitreous) for glucose, oxygen and metabolic exchange, and it discharges waste into the aqueous. Because this avascularity is precisely the reason the lens must rely on the aqueous, both statements are true and the reason correctly explains the assertion (A).
+Q_GEN_OPHTH_CATARACT_004 [E] The crystalline lens meets the bulk of its energy (ATP) requirement through which metabolic pathway?
+    A. Aerobic oxidative phosphorylation in the lens nucleus
+   *B. Anaerobic glycolysis
+    C. Beta-oxidation of fatty acids
+    D. The pentose phosphate (HMP) shunt as the principal ATP source
+   key=B ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Anatomy and Physiology (Biochemistry of the Lens)
+   concept: The lens is metabolically active yet relatively hypoxic, so roughly 80-85% of its glucose is metabolised by anaerobic glycolysis to generate ATP (B). Aerobic oxidative phosphorylation (A) is limited and confined mainly to the epithelium; the HMP/pentose-phosphate shunt (D) chiefly supplies NADPH for the antioxidant glutathione system rather than bulk ATP; and fatty-acid beta-oxidation (C) is not an operative lens pathway.
+Q_GEN_OPHTH_CATARACT_005 [E] Eighteen months after uncomplicated extracapsular cataract surgery with a posterior chamber IOL, a patient reports gradual painless dimming of vision; slit-lamp shows a wrinkled, pearl-studded membrane behind the IOL. The definitive treatment is:
+    A. Intraocular lens exchange
+    B. Topical corticosteroids for six weeks
+   *C. Nd:YAG laser posterior capsulotomy
+    D. Intravitreal anti-VEGF injection
+   key=C ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (After-cataract)
+   concept: A wrinkled, pearly, opacified posterior capsule months to years after extracapsular/phaco surgery is posterior capsular opacification (after-cataract) caused by proliferation of residual lens epithelial cells (Elschnig pearls and Soemmering ring). The definitive, quick, non-incisional treatment is Nd:YAG laser posterior capsulotomy, which clears the visual axis (C). IOL exchange (A), steroids (B) and anti-VEGF (D) do not clear a fibrosed opaque capsule.
+Q_GEN_OPHTH_CATARACT_006 [M] An elderly man who has worn reading glasses for years is now able to read newsprint without them, although his distance vision has become blurred; the lens nucleus is brunescent. This 'second sight' phenomenon is due to:
+    A. A hypermetropic shift from cortical spoke opacities
+   *B. Index myopia from an increasing refractive index of the sclerosed nucleus
+    C. Accommodative spasm of the ciliary muscle
+    D. Astigmatism induced by a subluxated lens
+   key=B ref=Parsons' Diseases of the Eye — The Crystalline Lens (Senile cataract)
+   concept: Progressive nuclear sclerosis raises the refractive index of the lens nucleus, producing an acquired index myopia; this myopic shift lets a previously presbyopic or hypermetropic patient read again without glasses, the classic 'second sight', while distance vision blurs (B). It is not a hypermetropic shift (A), not ciliary accommodative spasm (C), and not astigmatism from lens subluxation (D).
+Q_GEN_OPHTH_CATARACT_007 [M] A patient complains of seeing several overlapping images of a single object with one eye; the extra images persist when the fellow eye is covered. The most likely explanation is:
+   *A. Monocular polyopia due to irregular refraction by an early lens opacity
+    B. Binocular diplopia from a sixth cranial nerve palsy
+    C. Retinal detachment involving the macula
+    D. Homonymous hemianopia from an occipital lobe lesion
+   key=A ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Symptoms of cataract)
+   concept: Multiple or overlapping images arising from a single eye that persist when the other eye is occluded constitute monocular diplopia/polyopia, caused by irregular refraction across zones of differing refractive index within an early cataract (A). Binocular diplopia (B) disappears on covering one eye; retinal detachment (C) and homonymous hemianopia (D) cause field or visual loss, not overlapping duplicate images.
+Q_GEN_OPHTH_CATARACT_008 [M] Wedge-shaped (cuneiform) opacities radiating like spokes from the periphery toward the centre, with intervening water clefts and vacuoles, are characteristic of which morphological type of senile cataract?
+    A. Nuclear sclerotic cataract
+    B. Posterior subcapsular cataract
+   *C. Cortical cataract
+    D. Anterior polar cataract
+   key=C ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Morphological classification of cataract)
+   concept: Cortical senile cataract begins as wedge-shaped (cuneiform) opacities and spokes extending from the periphery toward the centre, with water clefts and vacuoles forming between hydrated lens fibres (C). Nuclear cataract (A) is a central, brunescent opacity; posterior subcapsular cataract (B) is a plaque lying just in front of the posterior capsule; and anterior polar cataract (D) is a small central capsular opacity.
+Q_GEN_OPHTH_CATARACT_009 [M] Regarding the iris-shadow (shadow) test performed with an obliquely thrown torchlight to help stage a senile cataract, which statement is correct?
+    A. A well-formed iris shadow indicates a mature cataract
+    B. Absence of an iris shadow is typical of an incipient cataract
+    C. The test primarily assesses the depth of the posterior capsule
+   *D. A crescentic iris shadow on the lens indicates an immature cataract, whereas it is absent in a mature cataract
+   key=D ref=Parsons' Diseases of the Eye — The Crystalline Lens (Stages and examination of senile cataract)
+   concept: In the oblique torch (shadow) test, an immature cataract still has clear cortex between the pupillary margin and the opacity, so a crescentic iris shadow falls on the greyish lens; in a mature cataract the opacity reaches the anterior capsule and no shadow is cast (D). Thus a present shadow means immature (not mature, A), absence is typical of mature (not incipient, B), and the test does not gauge posterior capsule depth (C).
+Q_GEN_OPHTH_CATARACT_010 [M] Assertion (A): In a Morgagnian cataract the liquefied cortex allows the dense nucleus to sink inferiorly within the capsular bag. Reason (R): The lens capsule is the thickest basement membrane in the body. Choose the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+   *B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=B ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Hypermature cataract)
+   concept: A Morgagnian cataract is a hypermature cataract in which the cortex liquefies to milky fluid and the heavy nucleus sinks to the bottom of the capsular bag, so the assertion is true; the lens capsule is indeed the thickest basement membrane in the body, so the reason is also true. However, capsular thickness has nothing to do with why the nucleus sinks, so the reason does not explain the assertion (B).
+Q_GEN_OPHTH_CATARACT_011 [M] A 3-month-old infant with failure to thrive, hepatomegaly and bilateral central 'oil-droplet' lens opacities is investigated. The most likely underlying enzyme deficiency is:
+    A. Alpha-galactosidase A
+    B. Branched-chain alpha-ketoacid dehydrogenase
+   *C. Galactose-1-phosphate uridyltransferase
+    D. Phenylalanine hydroxylase
+   key=C ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Congenital and developmental cataract)
+   concept: An oil-droplet cataract in an infant with hepatomegaly and failure to thrive points to classic galactosaemia caused by deficiency of galactose-1-phosphate uridyltransferase (GALT), leading to galactitol accumulation and osmotic lens changes that are reversible if a galactose-free diet is started early (C). Alpha-galactosidase A (A) causes Fabry disease, BCKAD (B) maple syrup urine disease, and phenylalanine hydroxylase (D) phenylketonuria; none produce the classic oil-droplet cataract.
+Q_GEN_OPHTH_CATARACT_012 [M] A neonate born to a mother who had a febrile rash with lymphadenopathy in the first trimester has bilateral pearly-white nuclear cataracts, a continuous machinery murmur and fails the newborn hearing screen. The most likely aetiology of the cataract is:
+   *A. Congenital rubella syndrome
+    B. Congenital toxoplasmosis
+    C. Lowe (oculocerebrorenal) syndrome
+    D. Birth trauma
+   key=A ref=Parsons' Diseases of the Eye — The Crystalline Lens (Congenital cataract)
+   concept: First-trimester maternal rubella causes congenital rubella syndrome, whose classic triad is cataract (a pearly-white nuclear opacity), sensorineural deafness and cardiac defects such as a patent ductus arteriosus (machinery murmur), often with a salt-and-pepper retinopathy (A). Toxoplasmosis (B) typically causes chorioretinitis, Lowe syndrome (C) adds glaucoma and renal disease, and birth trauma (D) would be unilateral and acquired.
+Q_GEN_OPHTH_CATARACT_013 [M] A neonate is found to have a dense unilateral congenital cataract that obscures the fundus. Which management principle is most appropriate?
+    A. Defer surgery until 2 years of age to allow the eye to grow
+    B. Manage conservatively with atropine and spectacles indefinitely
+    C. Surgery is unnecessary because congenital cataracts rarely affect vision
+   *D. Operate early (ideally within about the first 6 weeks), then provide optical correction and vigorous amblyopia therapy
+   key=D ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Management of congenital cataract)
+   concept: A dense unilateral congenital cataract deprives the developing visual cortex of form vision and rapidly causes irreversible stimulus-deprivation amblyopia, so during this critical period the lens should be removed early (about the first 6 weeks), followed by prompt aphakic optical correction (contact lens or IOL) and aggressive amblyopia therapy (D). Deferring (A), conservative atropine/spectacles (B) or withholding surgery (C) all risk permanent amblyopia.
+Q_GEN_OPHTH_CATARACT_014 [M] Two weeks after being struck in the eye by a cricket ball, a young man has a stellate, feathery posterior subcapsular opacity, and a ring of iris pigment is imprinted on the anterior lens capsule. This pigment ring is termed:
+    A. Kayser-Fleischer ring
+    B. Fleischer ring
+    C. Soemmering ring
+   *D. Vossius ring
+   key=D ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Traumatic cataract)
+   concept: Blunt ocular trauma classically produces a rosette-shaped (stellate, feathery) subcapsular cataract, and imprinting of the pupillary-margin iris pigment onto the anterior lens capsule produces a circular pigment ring called the Vossius ring (D). The Kayser-Fleischer ring (A) is corneal copper in Wilson disease, the Fleischer ring (B) encircles a keratoconus cone, and the Soemmering ring (C) is residual equatorial lens matter after capsule rupture.
+Q_GEN_OPHTH_CATARACT_015 [M] Before cataract surgery the surgeon calculates intraocular lens power. The two principal biometric measurements required for standard IOL power formulae are:
+   *A. Axial length of the globe and corneal curvature (keratometry)
+    B. Intraocular pressure and central corneal thickness
+    C. Anterior chamber cell grade and pupil diameter
+    D. Colour vision score and contrast sensitivity
+   key=A ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Biometry and IOL power calculation)
+   concept: Standard IOL power formulae (such as SRK and its successors) require the eye's axial length, measured by A-scan ultrasound biometry or optical biometry (e.g. the IOLMaster), together with the corneal power obtained by keratometry (A). Intraocular pressure and pachymetry (B), anterior chamber cell grade and pupil size (C), and colour or contrast testing (D) are not inputs to IOL power calculation; axial length error is the largest source of refractive surprise.
+Q_GEN_OPHTH_CATARACT_016 [M] Which feature is characteristic of phacoemulsification cataract surgery?
+    A. A 10-12 mm limbal incision with removal of the lens within its intact capsule
+    B. Delivery of the whole nucleus intact through a scleral tunnel without ultrasound
+   *C. Ultrasonic fragmentation and aspiration of the nucleus through a small (~2-3 mm) incision after a continuous curvilinear capsulorhexis
+    D. Routine removal of the entire posterior capsule as part of the procedure
+   key=C ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Cataract surgery: phacoemulsification)
+   concept: Phacoemulsification uses an ultrasonic probe to fragment and aspirate the nucleus through a small (~2-3 mm) self-sealing incision after fashioning a continuous curvilinear capsulorhexis, leaving the posterior capsule intact to support a foldable IOL (C). A large incision with intact-capsule removal describes ICCE (A), intact nuclear delivery through a scleral tunnel describes manual SICS/ECCE (B), and the posterior capsule is deliberately preserved, not removed (D).
+Q_GEN_OPHTH_CATARACT_017 [M] During phacoemulsification there is sudden deepening of the anterior chamber, a pupillary snap and loss of followability of the nuclear fragments. This most commonly signals which intraoperative complication, the commonest of cataract surgery?
+    A. Suprachoroidal (expulsive) haemorrhage
+   *B. Posterior capsule rupture
+    C. Descemet membrane detachment
+    D. Zonular dialysis with capsular contraction
+   key=B ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Complications of cataract surgery)
+   concept: Posterior capsule rupture is the commonest intraoperative complication of cataract surgery; sudden anterior chamber deepening, a pupillary snap and loss of nuclear followability are classic signs, and it predisposes to vitreous loss, dropped nucleus, and later cystoid macular oedema or endophthalmitis (B). Expulsive haemorrhage (A) is rare and dramatic, while Descemet detachment (C) and zonular dialysis (D) are less common and present differently.
+Q_GEN_OPHTH_CATARACT_018 [H] An elderly woman with an immature senile cataract presents with sudden ocular pain, coloured haloes and a red eye. The lens appears swollen, the anterior chamber is shallow and the intraocular pressure is markedly raised. The type of cataract responsible is:
+    A. Morgagnian hypermature cataract
+    B. Nuclear sclerotic cataract
+    C. Posterior polar cataract
+   *D. Intumescent (swollen) cataract precipitating phacomorphic angle-closure glaucoma
+   key=D ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Glaucoma (Lens-induced glaucomas)
+   concept: An immature senile cataract that imbibes water becomes intumescent (swollen), increasing lens thickness, shallowing the anterior chamber and pushing the iris forward; this can precipitate acute secondary angle-closure, i.e. phacomorphic glaucoma, with pain, haloes and a high IOP (D). A Morgagnian (hypermature) cataract (A) tends to cause phacolytic open-angle glaucoma, whereas nuclear (B) and posterior polar (C) cataracts do not swell the lens in this way.
+Q_GEN_OPHTH_CATARACT_019 [H] An elderly patient with a long-standing hypermature cataract develops a painful red eye with very high IOP; the anterior chamber shows numerous cells and iridescent particles, and gonioscopy reveals an open angle. The mechanism of this secondary glaucoma is:
+   *A. Leaked high-molecular-weight lens proteins engulfed by macrophages that obstruct the open trabecular meshwork (phacolytic glaucoma)
+    B. Pupillary block from a swollen lens closing the angle
+    C. Neovascularisation of the angle from chronic ocular ischaemia
+    D. Steroid-induced trabecular meshwork dysfunction
+   key=A ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Glaucoma (Lens-induced glaucomas)
+   concept: In phacolytic glaucoma a hypermature (often Morgagnian) cataract leaks high-molecular-weight soluble lens proteins through an intact but permeable capsule; these proteins and the macrophages that engulf them obstruct an open trabecular meshwork, raising IOP acutely (A). It is not a pupillary-block angle-closure (B), not neovascular (C) and not steroid-induced (D); definitive treatment is prompt cataract extraction after controlling the pressure.
+Q_GEN_OPHTH_CATARACT_020 [H] The secondary angle-closure glaucoma produced when an intumescent, swollen cataractous lens pushes the iris-lens diaphragm forward is best termed:
+    A. Phacolytic glaucoma
+   *B. Phacomorphic glaucoma
+    C. Phacoantigenic (phacoanaphylactic) glaucoma
+    D. Pigmentary glaucoma
+   key=B ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Glaucoma (Lens-induced glaucomas)
+   concept: Phacomorphic glaucoma is a secondary angle-closure glaucoma that occurs when an intumescent, swollen cataractous lens increases in thickness and pushes the iris-lens diaphragm forward, mechanically closing the drainage angle (B). Phacolytic glaucoma (A) is an open-angle glaucoma from leaked lens proteins, phacoantigenic reaction (C) is a lens-induced uveitis, and pigmentary glaucoma (D) is unrelated to cataract.
+Q_GEN_OPHTH_CATARACT_021 [H] Assertion (A): Phacoanaphylactic (lens-induced) uveitis is a granulomatous inflammation that follows rupture of the lens capsule from trauma or surgery. Reason (R): It is an IgE-mediated type I hypersensitivity reaction to lens proteins. Choose the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+   *C. A is true, but R is false
+    D. A is false, but R is true
+   key=C ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Uvea and Lens (Lens-induced uveitis)
+   concept: Phacoanaphylactic (phacoantigenic, lens-induced) uveitis is a granulomatous, zonal inflammatory response to lens proteins exposed after capsule rupture from trauma or surgery, so the assertion is true. However it is not an IgE-mediated type I reaction; it is an autoimmune (predominantly type III immune-complex and type IV) granulomatous response to previously sequestered lens antigen, so the reason is false (C). Treatment is removal of the residual lens matter.
+Q_GEN_OPHTH_CATARACT_022 [H] A male infant presents with bilateral congenital cataracts and congenital glaucoma, together with hypotonia, developmental delay and features of renal (Fanconi-type) tubular dysfunction. The most likely diagnosis is:
+    A. Congenital rubella syndrome
+    B. Galactosaemia
+    C. Myotonic dystrophy
+   *D. Lowe (oculocerebrorenal) syndrome
+   key=D ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Congenital cataract: systemic associations)
+   concept: Lowe (oculocerebrorenal) syndrome is an X-linked disorder of the OCRL gene affecting male infants, characterised by the combination of congenital cataract, congenital glaucoma and neurological involvement (hypotonia, intellectual disability), plus proximal renal (Fanconi-type) tubular dysfunction (D). Congenital rubella (A) lacks this renal tubulopathy, galactosaemia (B) gives an oil-droplet cataract without glaucoma, and myotonic dystrophy (C) presents in adulthood.
+Q_GEN_OPHTH_CATARACT_023 [H] A 35-year-old man with frontal balding, temporalis wasting, difficulty releasing his grip after a handshake and percussion myotonia is found on slit-lamp to have fine, multicoloured iridescent crystalline lens opacities ('Christmas-tree' cataract). The underlying disorder is:
+   *A. Myotonic dystrophy
+    B. Wilson disease
+    C. Marfan syndrome
+    D. Neurofibromatosis type 2
+   key=A ref=Parsons' Diseases of the Eye — The Crystalline Lens (Cataract in systemic disease)
+   concept: Myotonic dystrophy (autosomal dominant, a CTG trinucleotide-repeat expansion in the DMPK gene) features frontal balding, temporalis and facial wasting, grip and percussion myotonia, and characteristically fine polychromatic iridescent lens crystals ('Christmas-tree' cataract) that evolve into a posterior subcapsular cataract (A). Wilson disease (B) gives a sunflower cataract, Marfan (C) causes lens subluxation, and NF2 (D) is associated with posterior subcapsular cataract but not myotonia.
+Q_GEN_OPHTH_CATARACT_024 [H] In the SRK (Sanders-Retzlaff-Kraff) regression formula for intraocular lens power, P = A - 2.5L - 0.9K, the terms 'L' and 'K' respectively denote:
+    A. Lens thickness and corneal diameter
+    B. Limbal white-to-white distance and anterior chamber depth
+   *C. Axial length of the eye and average keratometry (corneal power)
+    D. Refractive index of the lens and pupil size
+   key=C ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Biometry and IOL power calculation)
+   concept: In the SRK formula P = A - 2.5L - 0.9K, P is the emmetropic IOL power, A is the lens-specific A-constant, L is the axial length of the eye in millimetres, and K is the average keratometry (corneal dioptric power) (C). The other options misidentify L and K; because the coefficient of L is large, small axial-length measurement errors produce the biggest postoperative refractive surprises.
+Q_GEN_OPHTH_CATARACT_025 [H] Three days after uneventful cataract surgery a patient returns with severe ocular pain, marked reduction of vision, lid oedema, circumcorneal congestion and a hypopyon. The most appropriate immediate step, and the commonest causative organism, are:
+    A. Observation with topical lubricants; organism usually Pseudomonas
+    B. Increase topical steroids only; organism usually fungal
+    C. Nd:YAG capsulotomy; organism usually Propionibacterium acnes
+   *D. Vitreous tap with intravitreal antibiotics (e.g. vancomycin plus ceftazidime); commonest organism coagulase-negative Staphylococcus (Staph. epidermidis)
+   key=D ref=A.K. Khurana — Comprehensive Ophthalmology, 7th ed. — Diseases of the Lens (Postoperative endophthalmitis)
+   concept: Acute postoperative endophthalmitis presents within days of surgery with severe pain, marked visual loss, lid oedema, circumcorneal congestion and a hypopyon; it is a sight-threatening emergency managed by immediate vitreous tap/aspirate plus intravitreal antibiotics such as vancomycin with ceftazidime, and the commonest causative organisms are coagulase-negative staphylococci (Staph. epidermidis) (D). Observation (A), steroids alone (B) or capsulotomy (C) would be dangerous.
+Q_S_013 [E] A 68-year-old man has gradually progressive, painless dimming of vision in both eyes with glare. Examination shows a grayish-white opacity of the lens. What is the definitive treatment of a visually significant senile cataract?
+    A. Topical corticosteroid drops
+   *B. Surgical extraction with intraocular lens implantation
+    C. Long-term miotic eye drops
+    D. Oral antioxidant vitamin supplements
+   key=B ref=Khurana, Comprehensive Ophthalmology
+   concept: There is no proven medical therapy that reverses a cataract. The definitive treatment of a visually significant cataract is surgery - phacoemulsification (or extracapsular cataract extraction) with implantation of a posterior-chamber intraocular lens.
+
+=== Ophthalmology / Diabetic retinopathy, retinal detachment
+Q_GEN_OPHTH_RETINA_001 [M] The earliest histopathological change in the retina in diabetic retinopathy is:
+   *A. Selective loss of retinal capillary pericytes (mural cells)
+    B. Thinning of the capillary basement membrane
+    C. Proliferation of retinal Müller glial cells
+    D. Occlusion of the central retinal artery
+   key=A ref=Khurana's Comprehensive Ophthalmology — Diseases of the Retina (Diabetic Retinopathy)
+   concept: Chronic hyperglycaemia damages retinal capillaries; the earliest change is selective loss of pericytes (mural cells) together with basement-membrane thickening and endothelial injury. Pericyte loss weakens the capillary wall, producing microaneurysms and impaired autoregulation. The basement membrane thickens (not thins), Müller-cell change is not the initiating event, and central retinal artery occlusion is an unrelated vascular emergency.
+Q_GEN_OPHTH_RETINA_002 [E] Which is the earliest clinically visible ophthalmoscopic lesion of non-proliferative diabetic retinopathy?
+    A. Neovascularization of the optic disc
+    B. Hard exudates at the macula
+   *C. Microaneurysms
+    D. Tractional retinal detachment
+   key=C ref=Parsons' Diseases of the Eye — Diseases of the Retina
+   concept: Microaneurysms are the earliest clinically visible lesion of non-proliferative diabetic retinopathy, seen as tiny discrete red dots typically temporal to the fovea, arising from focal capillary-wall outpouchings after pericyte loss. Hard exudates and cotton-wool spots appear later; neovascularization defines the proliferative stage; tractional detachment is an advanced complication. On fluorescein angiography microaneurysms appear as pinpoint hyperfluorescent dots.
+Q_GEN_OPHTH_RETINA_003 [E] Cotton-wool spots seen on fundoscopy represent:
+    A. Lipid and lipoprotein deposits in the outer plexiform layer
+   *B. Microinfarcts of the retinal nerve-fibre layer with accumulated axoplasmic debris
+    C. Saccular outpouchings of retinal capillaries
+    D. Rupture of superficial retinal capillaries into the nerve-fibre layer
+   key=B ref=Khurana's Comprehensive Ophthalmology — Diseases of the Retina
+   concept: Cotton-wool spots are fluffy white superficial lesions representing microinfarcts of the nerve-fibre layer, where interrupted axoplasmic flow causes swollen axons (cytoid bodies) to accumulate. They are not lipid: hard exudates are lipid/lipoprotein in the outer plexiform (Henle) layer; saccular capillary outpouchings are microaneurysms; superficial capillary rupture gives flame-shaped haemorrhages. Cotton-wool spots occur in diabetes, hypertension, HIV and vascular occlusions.
+Q_GEN_OPHTH_RETINA_004 [H] According to the ETDRS 4-2-1 rule, severe non-proliferative diabetic retinopathy is diagnosed when a patient has any ONE of the following:
+    A. Neovascularization of the disc greater than one-third disc area
+    B. Hard exudates within 500 µm of the foveal centre
+   *C. Diffuse intraretinal haemorrhages/microaneurysms in all 4 quadrants, OR venous beading in ≥2 quadrants, OR intraretinal microvascular abnormalities (IRMA) in ≥1 quadrant
+    D. Microaneurysms confined to a single quadrant
+   key=C ref=Khurana's Comprehensive Ophthalmology — Diabetic Retinopathy (ETDRS classification)
+   concept: The ETDRS 4-2-1 rule defines severe NPDR by ANY of: diffuse intraretinal haemorrhages/microaneurysms in all 4 quadrants, OR venous beading in ≥2 quadrants, OR IRMA in ≥1 quadrant; having two of these features indicates very severe NPDR, carrying a high risk of progression to proliferative disease within a year. Disc neovascularization already denotes PDR, and exudates near the fovea define clinically significant macular oedema, a separate axis.
+Q_GEN_OPHTH_RETINA_005 [M] Panretinal photocoagulation (PRP) improves proliferative diabetic retinopathy chiefly by:
+    A. Directly cauterizing the new vessels on the optic disc
+    B. Sealing peripheral retinal breaks to prevent detachment
+    C. Draining subretinal fluid to flatten the macula
+   *D. Ablating ischaemic peripheral retina, lowering the VEGF drive so neovascularization regresses
+   key=D ref=Parsons' Diseases of the Eye — Retina (management of diabetic retinopathy)
+   concept: Panretinal photocoagulation destroys ischaemic peripheral retina, the source of VEGF and other angiogenic factors; reducing this angiogenic drive causes existing retinal and disc new vessels to regress and prevents vitreous haemorrhage and neovascular glaucoma. It does not directly cauterize individual new vessels, does not seal breaks (that is retinopexy), and is not the primary treatment for macular oedema, where focal/grid laser or anti-VEGF are used.
+Q_GEN_OPHTH_RETINA_006 [M] A patient with centre-involving diabetic macular oedema and reduced vision is best managed with:
+    A. Immediate panretinal photocoagulation
+   *B. Intravitreal anti-VEGF injection
+    C. Systemic oral corticosteroids
+    D. Early pars plana vitrectomy
+   key=B ref=Khurana's Comprehensive Ophthalmology — Diabetic Macular Oedema
+   concept: For centre-involving diabetic macular oedema with reduced vision, intravitreal anti-VEGF (e.g. ranibizumab, aflibercept, bevacizumab) is first-line, improving vision by reducing vascular leakage. Focal/grid laser is reserved for non-centre-involving oedema; intravitreal (not systemic) steroids are a second-line option; vitrectomy is used mainly when there is vitreomacular traction. Panretinal photocoagulation treats proliferative disease, not macular oedema itself.
+Q_GEN_OPHTH_RETINA_007 [E] A newly diagnosed 50-year-old type 2 diabetic with no visual symptoms should have his first dilated retinal examination:
+   *A. At the time of diagnosis
+    B. 5 years after diagnosis
+    C. 10 years after diagnosis
+    D. Only when the patient notices blurred vision
+   key=A ref=Khurana's Comprehensive Ophthalmology — Screening for Diabetic Retinopathy
+   concept: Because type 2 diabetes has a long asymptomatic phase, retinopathy may already be present at diagnosis, so a dilated fundus examination is recommended AT diagnosis and annually thereafter. Type 1 diabetics are screened 5 years after diagnosis (or from puberty). Pregnancy accelerates retinopathy and needs closer monitoring. Waiting for symptoms is unsafe because sight-threatening macular oedema and proliferative disease can be asymptomatic until advanced.
+Q_GEN_OPHTH_RETINA_008 [E] Assertion (A): A newly diagnosed type 2 diabetic should undergo a dilated fundus examination at the time of diagnosis. Reason (R): Cotton-wool spots are microinfarcts of the retinal nerve-fibre layer. Choose the correct option:
+    A. Both A and R are true and R is the correct explanation of A
+   *B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=B ref=Khurana's Comprehensive Ophthalmology — Diabetic Retinopathy (screening and signs)
+   concept: Both statements are individually true: a newly diagnosed type 2 diabetic should have a fundus examination at diagnosis (retinopathy may already exist), and cotton-wool spots are indeed nerve-fibre-layer microinfarcts. However, the reason does not explain the assertion: the screening recommendation stems from the insidious subclinical onset of type 2 diabetes, not from the pathology of cotton-wool spots. Hence both are true but R is not the correct explanation.
+Q_GEN_OPHTH_RETINA_009 [M] Rhegmatogenous retinal detachment is initiated by:
+   *A. A full-thickness retinal break that allows liquefied vitreous to pass into the subretinal space
+    B. Contraction of fibrovascular tissue pulling the retina inward
+    C. Accumulation of exudate beneath an intact retina
+    D. An intraocular tumour elevating the retina
+   key=A ref=Parsons' Diseases of the Eye — Retinal Detachment
+   concept: Rhegmatogenous retinal detachment (the commonest type) begins with a full-thickness retinal break; liquefied vitreous passes through it into the subretinal space, separating the neurosensory retina from the RPE. Risk factors include myopia, aphakia/pseudophakia, lattice degeneration, trauma and posterior vitreous detachment. Tractional detachment is caused by contracting fibrovascular membranes (e.g. in diabetes); exudative detachment by subretinal fluid under an intact retina, as with tumours or inflammation.
+Q_GEN_OPHTH_RETINA_010 [H] A pregnant woman with severe pre-eclampsia develops bilateral serous retinal detachments; the retina is smoothly elevated with subretinal fluid that shifts with head position, and no retinal break is found. This is best classified as:
+    A. Rhegmatogenous retinal detachment
+    B. Tractional retinal detachment
+   *C. Exudative (serous) retinal detachment
+    D. Combined tractional and rhegmatogenous detachment
+   key=C ref=Khurana's Comprehensive Ophthalmology — Retinal Detachment (types)
+   concept: This is exudative (serous) retinal detachment: fluid from damaged RPE/choroid or leaky vessels collects under an intact retina, giving a smooth, convex elevation with shifting subretinal fluid (moves with gravity/position) and no retinal break. Causes include toxaemia of pregnancy, malignant hypertension, Vogt-Koyanagi-Harada, posterior scleritis, Coats disease and choroidal tumours. Treatment targets the underlying cause; surgery to close a break is not required.
+Q_GEN_OPHTH_RETINA_011 [M] A long-standing diabetic with proliferative retinopathy develops a tractional retinal detachment involving the macula. The most appropriate management is:
+    A. Scleral buckling
+    B. Pneumatic retinopexy
+    C. Observation with intravitreal anti-VEGF alone
+   *D. Pars plana vitrectomy with delamination of fibrovascular membranes
+   key=D ref=Khurana's Comprehensive Ophthalmology — Tractional Retinal Detachment
+   concept: A macula-involving tractional retinal detachment from proliferative diabetic retinopathy is managed with pars plana vitrectomy, relieving traction by delaminating/segmenting fibrovascular membranes, often with endolaser and gas/oil tamponade. Scleral buckling and pneumatic retinopexy address rhegmatogenous breaks, not fibrovascular traction. Anti-VEGF may be given pre-operatively to reduce intra-operative bleeding but does not by itself relieve established traction.
+Q_GEN_OPHTH_RETINA_012 [H] Proliferative vitreoretinopathy (PVR), the commonest cause of failure of retinal detachment surgery, is characterized by:
+   *A. Formation of contractile cellular membranes on the retinal surface producing recurrent traction detachment
+    B. Rapid neovascularization of the iris and angle
+    C. Opacification of the posterior lens capsule
+    D. Deposition of hard exudates in a macular star pattern
+   key=A ref=Parsons' Diseases of the Eye — Complications of Retinal Detachment Surgery
+   concept: Proliferative vitreoretinopathy (PVR) is the commonest cause of failure of rhegmatogenous retinal detachment surgery. Dispersed RPE and glial cells proliferate on both retinal surfaces and within the vitreous, forming contractile membranes that produce fixed folds and recurrent traction detachment. It is graded by extent (A-C) and managed with vitrectomy, membrane peeling and long-acting tamponade. Iris neovascularization, posterior-capsule opacity and macular star are unrelated entities.
+Q_GEN_OPHTH_RETINA_013 [M] A patient presents within 90 minutes of sudden painless loss of vision in one eye; the fundus shows a pale oedematous retina with a cherry-red spot at the macula. Which immediate measure may help dislodge an embolus and restore perfusion?
+    A. Topical atropine
+   *B. Ocular massage combined with anterior chamber paracentesis to abruptly lower intraocular pressure
+    C. Immediate panretinal photocoagulation
+    D. Intravitreal anti-VEGF injection
+   key=B ref=Khurana's Comprehensive Ophthalmology — Central Retinal Artery Occlusion
+   concept: Central retinal artery occlusion is an ocular emergency; the inner retina tolerates only about 90-100 minutes of ischaemia. Immediate measures aim to dislodge an embolus distally by abruptly lowering intraocular pressure — ocular massage and anterior-chamber paracentesis, with IV acetazolamide/mannitol and carbogen/rebreathing as adjuncts. Prognosis is often poor. Atropine, laser and anti-VEGF have no acute role; one must also seek a carotid/cardiac source and exclude giant cell arteritis.
+Q_GEN_OPHTH_RETINA_014 [H] A cherry-red spot at the macula is a classic sign of central retinal artery occlusion. In a child with progressive neurodegeneration, a cherry-red spot should raise suspicion of:
+    A. Retinoblastoma
+    B. Retinitis pigmentosa
+    C. Retinopathy of prematurity
+   *D. A sphingolipidosis such as Tay-Sachs disease
+   key=D ref=Parsons' Diseases of the Eye — Macular disorders (cherry-red spot differential)
+   concept: A cherry-red spot arises when the perifoveal ganglion-cell layer becomes opaque (white) while the thin foveola reveals the underlying red choroid. Causes include CRAO, commotio retinae (Berlin oedema) and quinine toxicity; in a child with progressive neurodegeneration it suggests a sphingolipidosis — Tay-Sachs, Sandhoff, Niemann-Pick or GM1 gangliosidosis. Retinoblastoma gives leucocoria, retinitis pigmentosa gives bone-spicule pigment, and ROP affects preterm infants — none produce this picture.
+Q_GEN_OPHTH_RETINA_015 [M] On routine fundoscopy an asymptomatic elderly man has a bright, refractile yellow plaque lodged at a retinal arteriolar bifurcation. This Hollenhorst plaque indicates emboli originating most commonly from:
+    A. A cardiac valve vegetation
+   *B. The ipsilateral carotid artery (cholesterol embolus)
+    C. A lower-limb deep vein thrombosis
+    D. Injected talc particles
+   key=B ref=Khurana's Comprehensive Ophthalmology — Retinal Artery Occlusions
+   concept: A bright, refractile yellow intra-arteriolar plaque at a bifurcation is a Hollenhorst plaque — a cholesterol embolus, most commonly from atheroma of the ipsilateral internal carotid artery. It mandates carotid Doppler and stroke-risk evaluation and may cause branch retinal artery occlusion with a sectoral field defect. Other emboli include calcific (cardiac valves), platelet-fibrin, and talc (IV drug use); cardiac vegetations and deep vein thrombosis are not the usual source.
+Q_GEN_OPHTH_RETINA_016 [M] A 65-year-old hypertensive has sudden moderate vision loss; the fundus shows diffuse haemorrhages in all four quadrants ('blood-and-thunder'), dilated tortuous veins and cotton-wool spots. The most feared complication of the ischaemic form, appearing at about 3 months, is:
+   *A. Neovascular ('90-day') glaucoma
+    B. Age-related cataract
+    C. Macular hole
+    D. Retinitis pigmentosa
+   key=A ref=Khurana's Comprehensive Ophthalmology — Central Retinal Vein Occlusion
+   concept: Ischaemic central retinal vein occlusion (the 'blood-and-thunder' fundus with haemorrhages in all four quadrants, dilated tortuous veins and cotton-wool spots) causes widespread capillary non-perfusion and VEGF release, leading to iris/angle neovascularization and neovascular ('90-day' or 100-day) glaucoma — the most feared complication. It is managed with PRP and anti-VEGF; macular oedema is treated with anti-VEGF. The non-ischaemic type has a better prognosis and lower NVG risk.
+Q_GEN_OPHTH_RETINA_017 [E] Branch retinal vein occlusion characteristically occurs at:
+    A. The lamina cribrosa
+    B. The foveal avascular zone
+   *C. An arteriovenous crossing, where the artery and vein share a common adventitial sheath
+    D. The ora serrata
+   key=C ref=Parsons' Diseases of the Eye — Retinal Vein Occlusions
+   concept: Branch retinal vein occlusion characteristically occurs at an arteriovenous crossing, where the artery and vein share a common adventitial sheath; a thickened, atherosclerotic arteriole compresses the vein, causing turbulence, endothelial damage and thrombosis. The superotemporal quadrant is most often affected, giving sectoral haemorrhages and macular oedema. Macular oedema is treated with anti-VEGF and areas of neovascularization with sectoral laser photocoagulation.
+Q_GEN_OPHTH_RETINA_018 [H] Assertion (A): Roth spots are pathognomonic of infective endocarditis. Reason (R): The pale centre of a Roth spot represents a focal collection of fibrin-platelet aggregate or leukaemic/inflammatory cells within a retinal haemorrhage. Choose the correct option:
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Khurana's Comprehensive Ophthalmology — Retinal Haemorrhages (Roth spots)
+   concept: The assertion is false: Roth spots (retinal haemorrhages with pale centres) are NOT pathognomonic of infective endocarditis — they also occur in leukaemia, severe anaemia, hypertension, diabetes and collagen vascular disease. The reason is true: the white centre is a focal collection of fibrin-platelet aggregate or leukaemic/inflammatory cells within the haemorrhage. Therefore A is false but R is true.
+Q_GEN_OPHTH_RETINA_019 [M] An elderly patient reports gradual central blurring; the fundus shows scattered yellowish drusen and geographic atrophy at the macula without haemorrhage. Compared with this 'dry' form, 'wet' age-related macular degeneration is characterized by:
+    A. Mid-peripheral bone-spicule pigmentation
+    B. A cherry-red spot at the fovea
+   *C. A choroidal neovascular membrane with subretinal fluid/haemorrhage, treated with intravitreal anti-VEGF
+    D. Multiple peripheral retinal breaks
+   key=C ref=Khurana's Comprehensive Ophthalmology — Age-related Macular Degeneration
+   concept: Dry (non-exudative) AMD, about 90% of cases, shows drusen and geographic RPE atrophy with slow central visual loss. Wet (neovascular) AMD is defined by a choroidal neovascular membrane growing through Bruch's membrane, causing subretinal/intraretinal fluid and haemorrhage and rapid central loss with metamorphopsia; it is treated with intravitreal anti-VEGF. Bone-spicule pigment (retinitis pigmentosa), a cherry-red spot (CRAO/storage disease) and peripheral breaks (rhegmatogenous detachment) are unrelated features. Amsler grid monitors distortion.
+Q_GEN_OPHTH_RETINA_020 [M] A young adult complains of difficulty seeing at night since childhood; the fundus shows a waxy pale disc, attenuated arterioles and mid-peripheral bone-spicule pigmentation. The earliest and most characteristic functional test abnormality is:
+    A. Loss of central Snellen acuity
+   *B. A markedly reduced or extinguished electroretinogram, especially the rod (scotopic) response
+    C. Raised intraocular pressure
+    D. An afferent pupillary defect at first presentation
+   key=B ref=Parsons' Diseases of the Eye — Retinitis Pigmentosa
+   concept: Retinitis pigmentosa is a progressive rod-cone dystrophy presenting with childhood-onset night blindness (nyctalopia); the classic triad is arteriolar attenuation, waxy disc pallor and mid-peripheral bone-spicule pigmentation, with a ring scotoma and tunnel vision. The earliest and most characteristic objective abnormality is a reduced or extinguished ERG (rod/scotopic responses affected first), often preceding fundus changes. Central acuity is preserved until late; raised IOP and an early RAPD are not features.
+Q_GEN_OPHTH_RETINA_021 [H] A 2-year-old is brought with a white pupillary reflex (leucocoria) noticed in photographs and a squint. The most likely diagnosis and its underlying genetic defect are:
+   *A. Retinoblastoma; biallelic inactivation of the RB1 tumour-suppressor gene on chromosome 13q14
+    B. Congenital cataract; classic galactosaemia
+    C. Coats disease; a somatic NDP gene mutation
+    D. Persistent hyperplastic primary vitreous; trisomy 21
+   key=A ref=Khurana's Comprehensive Ophthalmology — Retinoblastoma
+   concept: Leucocoria with strabismus in a young child suggests retinoblastoma, the commonest intraocular malignancy of childhood, caused by biallelic inactivation of the RB1 tumour-suppressor gene on chromosome 13q14 (two-hit hypothesis); hereditary cases tend to be bilateral/multifocal. Calcification is seen on ultrasound/CT; management includes chemoreduction, focal therapy and enucleation — biopsy is avoided to prevent seeding. Differentials of leucocoria include Coats disease, PHPV, cataract and ROP.
+Q_GEN_OPHTH_RETINA_022 [H] In the Keith-Wagener-Barker grading of hypertensive retinopathy, the feature that defines Grade IV (malignant) rather than Grade III is:
+    A. Generalized arteriolar narrowing alone
+    B. Arteriovenous nicking (Gunn's sign)
+    C. Flame-shaped haemorrhages and cotton-wool spots
+   *D. Bilateral optic disc oedema (papilloedema)
+   key=D ref=Parsons' Diseases of the Eye — Hypertensive Retinopathy (Keith-Wagener-Barker)
+   concept: In the Keith-Wagener-Barker grading: Grade I is mild generalized arteriolar narrowing/copper-wiring; Grade II adds focal narrowing and arteriovenous nicking (Salus/Gunn signs) with silver-wiring; Grade III adds flame haemorrhages, cotton-wool spots and hard exudates (macular star); Grade IV (malignant hypertension) is defined by the addition of bilateral optic disc oedema (papilloedema) and mandates urgent blood-pressure control. Copper-wiring precedes the more severe silver-wiring.
+Q_GEN_OPHTH_RETINA_023 [H] A 38-year-old man under recent stress develops sudden dim, blurred central vision with micropsia and metamorphopsia in one eye; OCT shows a well-defined neurosensory retinal detachment at the macula with subretinal fluid and no haemorrhage. The most likely diagnosis is:
+    A. Wet age-related macular degeneration
+    B. Optic neuritis
+   *C. Central serous chorioretinopathy
+    D. Central retinal vein occlusion
+   key=C ref=Khurana's Comprehensive Ophthalmology — Central Serous Chorioretinopathy
+   concept: Central serous chorioretinopathy is an idiopathic serous (neurosensory) detachment of the macula due to focal RPE leakage from a hyperpermeable choroid. It typically affects young/middle-aged men and is linked to stress, type-A personality and corticosteroid exposure, causing central blur with micropsia, metamorphopsia and a hyperopic shift. Fluorescein angiography shows an 'ink-blot' or 'smoke-stack' leak. It is usually self-limiting over 1-3 months; steroids should be stopped, with focal laser or PDT reserved for persistent cases.
+Q_S_016 [M] A patient with diabetes of 15 years' duration is found on fundoscopy to have fragile new blood vessels growing on the optic disc and retina (neovascularisation), defining proliferative diabetic retinopathy. Which is the treatment of choice to induce regression of this neovascularisation?
+   *A. Pan-retinal photocoagulation (laser)
+    B. Topical timolol
+    C. Systemic corticosteroids
+    D. Scleral buckling
+   key=A ref=Khurana, Comprehensive Ophthalmology
+   concept: Neovascularisation defines proliferative diabetic retinopathy, which risks vitreous haemorrhage and tractional retinal detachment. Pan-retinal photocoagulation ablates ischaemic peripheral retina, reducing VEGF drive and causing regression of new vessels; anti-VEGF injections are useful adjuncts.
+Q_S_017 [E] A myopic patient suddenly notices flashes of light and floaters, followed by a 'curtain' descending across the vision of one eye. Which is the most likely diagnosis?
+    A. Central retinal artery occlusion
+   *B. Rhegmatogenous retinal detachment
+    C. Acute angle-closure glaucoma
+    D. Optic neuritis
+   key=B ref=Khurana, Comprehensive Ophthalmology
+   concept: Photopsiae (flashes), floaters and a progressive 'curtain/veil' over the visual field are classic for rhegmatogenous retinal detachment, in which a retinal break lets fluid separate the neurosensory retina from the RPE. Myopia and posterior vitreous detachment are risk factors; urgent referral is required.
+
+=== Ophthalmology / Glaucoma
+Q_GEN_OPHTH_GLAUCOMA_001 [E] Aqueous humour, which maintains intraocular pressure, is actively secreted by which ocular structure?
+    A. Trabecular meshwork
+    B. Corneal endothelium
+   *C. Non-pigmented epithelium of the ciliary processes
+    D. Lens epithelium
+   key=C ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Chapter on Glaucoma (Aqueous humour dynamics)
+   concept: Aqueous humour is secreted mainly by the non-pigmented (inner) epithelium of the ciliary processes (pars plicata) through active transport (Na-K ATPase and carbonic anhydrase), supplemented by ultrafiltration and diffusion. The trabecular meshwork is the site of drainage, not production; the corneal endothelium regulates corneal deturgescence; and the lens epithelium plays no role in aqueous formation.
+Q_GEN_OPHTH_GLAUCOMA_002 [E] The accepted statistical normal range of intraocular pressure in the adult population, and the pattern of its diurnal variation, is best described as:
+   *A. 10-21 mmHg, with a diurnal peak typically in the early morning hours
+    B. 5-10 mmHg, peaking only around midnight
+    C. 22-30 mmHg, with no diurnal variation
+    D. 10-21 mmHg, identical at every hour of the day
+   key=A ref=Parsons' Diseases of the Eye, 22nd ed. — Glaucoma (Intraocular pressure)
+   concept: The mean IOP is about 16 mmHg and the normal range is taken as 10-21 mmHg (mean plus or minus two standard deviations). IOP shows a diurnal rhythm, usually varying 3-5 mmHg in normal eyes and more in glaucoma, and characteristically peaks in the early morning. A fluctuation greater than 5-8 mmHg is suspicious, and persistent readings above 21 mmHg warrant evaluation.
+Q_GEN_OPHTH_GLAUCOMA_003 [E] In the normal human eye, the majority of aqueous humour drains from the anterior chamber via which pathway?
+    A. Uveoscleral (ciliary body to suprachoroidal) route
+   *B. Trabecular meshwork into the canal of Schlemm
+    C. Diffusion across the corneal stroma
+    D. Active pumping by the retinal pigment epithelium
+   key=B ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Glaucoma (Aqueous outflow)
+   concept: The conventional (trabecular) pathway accounts for roughly 80-90% of aqueous outflow: aqueous passes through the trabecular meshwork into Schlemm's canal, then via collector channels and aqueous veins to the episcleral veins. The uveoscleral (unconventional) route drains the remaining 10-20%, is relatively pressure-independent, and is the pathway enhanced by prostaglandin analogues; the cornea and RPE play no drainage role.
+Q_GEN_OPHTH_GLAUCOMA_004 [E] A 4-month-old infant is brought with persistent watering, marked intolerance to light and squeezing of the eyelids; both corneas appear enlarged and hazy. What is the most likely diagnosis?
+    A. Congenital nasolacrimal duct obstruction
+    B. Ophthalmia neonatorum
+    C. Retinoblastoma
+   *D. Primary congenital glaucoma (buphthalmos)
+   key=D ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Congenital and developmental glaucomas
+   concept: The classic triad of primary congenital glaucoma is epiphora, photophobia and blepharospasm. Because an infant's sclera is distensible, raised IOP enlarges the globe (buphthalmos) and cornea (diameter over 12 mm), causing corneal haze and horizontal breaks in Descemet's membrane (Haab's striae). Nasolacrimal duct obstruction gives watering and discharge with a normal cornea; ophthalmia neonatorum gives purulent discharge; retinoblastoma presents with leukocoria.
+Q_GEN_OPHTH_GLAUCOMA_005 [E] Goldmann applanation tonometry, the clinical gold standard for measuring intraocular pressure, is based on which physical principle?
+    A. Poiseuille's law of laminar flow
+   *B. Imbert-Fick law (pressure equals force divided by the area of applanation)
+    C. Snell's law of refraction
+    D. Bernoulli's principle
+   key=B ref=Parsons' Diseases of the Eye, 22nd ed. — Tonometry
+   concept: Goldmann applanation tonometry flattens a fixed corneal area of 3.06 mm diameter. By the Imbert-Fick principle, the pressure inside a dry, thin-walled sphere equals the applied force divided by the applanated area. The 3.06 mm diameter is chosen so that corneal rigidity and the tear-film surface tension cancel out, and the force in grams multiplied by ten gives IOP in mmHg. Readings are influenced by central corneal thickness.
+Q_GEN_OPHTH_GLAUCOMA_006 [M] Latanoprost, a prostaglandin analogue commonly used as first-line therapy in primary open-angle glaucoma, lowers intraocular pressure mainly by:
+    A. Decreasing aqueous production by the ciliary body
+    B. Increasing episcleral venous pressure
+   *C. Increasing uveoscleral outflow of aqueous humour
+    D. Constricting the pupil to open the trabecular meshwork
+   key=C ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Medical management of glaucoma
+   concept: Prostaglandin analogues (latanoprost, travoprost, bimatoprost) act on FP receptors and remodel the ciliary muscle extracellular matrix through matrix metalloproteinases, thereby enhancing the pressure-independent uveoscleral outflow. They are potent, once-daily first-line agents. Characteristic side effects include conjunctival hyperaemia, increased iris and periocular pigmentation, eyelash lengthening (hypertrichosis) and cystoid macular oedema in predisposed eyes.
+Q_GEN_OPHTH_GLAUCOMA_007 [M] A patient is found to have a thin central corneal thickness of 480 microns. Compared with the true intraocular pressure, Goldmann applanation tonometry in this eye will most likely:
+   *A. Underestimate the true IOP
+    B. Overestimate the true IOP
+    C. Measure the true IOP exactly
+    D. Be completely unaffected by corneal thickness
+   key=A ref=Parsons' Diseases of the Eye, 22nd ed. — Tonometry and central corneal thickness
+   concept: Goldmann tonometry is calibrated for an average central corneal thickness of about 520-545 microns. A thin cornea offers less resistance to applanation, so the measured pressure reads lower than the true IOP (underestimation) — an important reason why thin-cornea ocular hypertensives progress and are under-treated. A thick cornea causes overestimation. This is why pachymetry is part of every glaucoma work-up, especially after LASIK.
+Q_GEN_OPHTH_GLAUCOMA_008 [M] On gonioscopy using the Shaffer grading system, which grade denotes an angle that is closed (no angle structures visible) and carries the highest risk of angle closure?
+    A. Grade 4
+    B. Grade 3
+    C. Grade 2
+   *D. Grade 0
+   key=D ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Gonioscopy and angle grading
+   concept: The Shaffer system grades the angle by the angular width between the iris and trabecular meshwork: Grade 4 (35-45 degrees, wide open), Grade 3 (20-35 degrees, open), Grade 2 (about 20 degrees, closure possible), Grade 1 (about 10 degrees, closure probable) and Grade 0 (0 degrees, closed, with iris touching the meshwork). Grade 0 therefore represents a closed angle at greatest risk, whereas Grade 4 is the widest and safest.
+Q_GEN_OPHTH_GLAUCOMA_009 [M] A 68-year-old with open-angle glaucoma shows, on slit-lamp examination, greyish-white flaky dandruff-like deposits on the anterior lens capsule in a target pattern and along the pupillary margin. The most likely diagnosis is:
+    A. Pigmentary glaucoma
+   *B. Pseudoexfoliation glaucoma
+    C. Phacolytic glaucoma
+    D. Neovascular glaucoma
+   key=B ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Secondary open-angle glaucomas
+   concept: Pseudoexfoliation syndrome deposits fibrillar grey-white basement-membrane-like material on the anterior lens capsule (a central disc plus a peripheral band separated by a clear zone), the pupil margin, zonules and trabecular meshwork; meshwork obstruction raises IOP. It is the commonest identifiable cause of secondary open-angle glaucoma, is often asymmetric, is associated with weak zonules (cataract-surgery risk) and produces higher, more resistant IOP spikes than POAG.
+Q_GEN_OPHTH_GLAUCOMA_010 [M] A young myopic man has raised IOP; gonioscopy shows dense homogeneous pigmentation of the trabecular meshwork and slit-lamp shows a vertical spindle-shaped pigment deposit on the corneal endothelium. The most likely diagnosis is:
+    A. Pseudoexfoliation glaucoma
+    B. Angle-recession glaucoma
+   *C. Pigmentary glaucoma (pigment dispersion syndrome)
+    D. Steroid-induced glaucoma
+   key=C ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Pigmentary glaucoma
+   concept: In pigment dispersion syndrome a concave, posteriorly bowed iris rubs against the lens zonules, liberating pigment that deposits on the corneal endothelium as a vertical Krukenberg spindle and heavily pigments the trabecular meshwork, producing pigmentary glaucoma. It classically affects young myopic males, and exercise or pupil dilation can trigger IOP spikes. Mid-peripheral iris transillumination defects are characteristic, distinguishing it from the flaky deposits of pseudoexfoliation.
+Q_GEN_OPHTH_GLAUCOMA_011 [M] Assertion (A): Topical timolol should be avoided in a patient with bronchial asthma. Reason (R): Timolol is a non-selective beta-adrenergic blocker that can precipitate bronchospasm and bradycardia through systemic absorption. Select the correct option:
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Parsons' Diseases of the Eye, 22nd ed. — Antiglaucoma drugs (beta-blockers)
+   concept: Timolol, a non-selective beta-blocker, lowers IOP by reducing aqueous secretion from the ciliary epithelium. Systemic absorption through the nasolacrimal mucosa can cause bronchospasm (beta-2 blockade), bradycardia and heart block (beta-1 blockade); hence it is contraindicated in asthma or COPD, sinus bradycardia, second- or third-degree heart block and decompensated heart failure. Punctal occlusion reduces systemic effects, so the reason correctly explains the assertion.
+Q_GEN_OPHTH_GLAUCOMA_012 [M] Oral acetazolamide lowers intraocular pressure primarily by which mechanism?
+   *A. Inhibiting carbonic anhydrase to reduce aqueous humour secretion
+    B. Increasing trabecular outflow facility
+    C. Osmotically dehydrating the vitreous body
+    D. Increasing uveoscleral outflow
+   key=A ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Carbonic anhydrase inhibitors
+   concept: Carbonic anhydrase inhibitors (oral acetazolamide and topical dorzolamide or brinzolamide) block carbonic anhydrase in the ciliary epithelium, reducing bicarbonate formation and thereby aqueous production, which lowers IOP. Acetazolamide is a sulphonamide; systemic effects include paraesthesiae, metabolic acidosis, hypokalaemia, renal stones and malaise, and it should be avoided in sulpha allergy and sickle-cell disease. It is useful for acute IOP control in angle closure.
+Q_GEN_OPHTH_GLAUCOMA_013 [M] A diabetic with proliferative retinopathy now has a painful red eye, IOP of 44 mmHg, new vessels on the iris (rubeosis) and a fibrovascular membrane crossing the angle on gonioscopy. The diagnosis is:
+    A. Primary open-angle glaucoma
+    B. Phacomorphic glaucoma
+    C. Pseudoexfoliation glaucoma
+   *D. Neovascular glaucoma
+   key=D ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Neovascular glaucoma
+   concept: Neovascular glaucoma follows retinal ischaemia (proliferative diabetic retinopathy, central retinal vein occlusion, ocular ischaemic syndrome), which drives VEGF release and rubeosis iridis. A fibrovascular membrane grows over the angle, first causing a secondary open-angle picture and then contracting to produce synechial angle closure with a high, painful IOP. Management targets the underlying ischaemia with pan-retinal photocoagulation and anti-VEGF agents, along with IOP control and drainage surgery.
+Q_GEN_OPHTH_GLAUCOMA_014 [M] Which visual field defect is most characteristic of early to moderate glaucomatous optic nerve damage?
+    A. Bitemporal hemianopia
+   *B. Arcuate (Bjerrum) scotoma with a nasal step
+    C. Central scotoma
+    D. Homonymous hemianopia
+   key=B ref=Parsons' Diseases of the Eye, 22nd ed. — Perimetry in glaucoma
+   concept: Glaucoma damages the arcuate retinal nerve-fibre bundles, so field defects arc around fixation from the blind spot along the nerve-fibre distribution: paracentral scotomas, arcuate (Bjerrum) scotomas and a nasal step (Roenne's) from asymmetric involvement across the horizontal raphe. Central vision is spared until late, ending as tunnel vision and then a temporal island. Bitemporal, homonymous and central defects instead indicate chiasmal, retrochiasmal or macular disease.
+Q_GEN_OPHTH_GLAUCOMA_015 [M] Chronic use of topical corticosteroids can raise intraocular pressure mainly by:
+    A. Increasing aqueous production by the ciliary body
+    B. Causing pupillary block
+   *C. Increasing resistance to aqueous outflow at the trabecular meshwork
+    D. Increasing episcleral venous pressure
+   key=C ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Steroid-induced glaucoma
+   concept: Corticosteroids raise IOP by increasing trabecular outflow resistance: they cause accumulation of glycosaminoglycans and extracellular matrix, reduce phagocytosis of debris and induce myocilin (TIGR) in meshwork cells, producing an open-angle picture. About one-third of people are steroid responders, more so in POAG patients and relatives, high myopes and diabetics. It can follow topical, periocular, inhaled or systemic steroids, and IOP usually falls after the steroid is stopped.
+Q_GEN_OPHTH_GLAUCOMA_016 [H] An elderly patient with a long-standing, now swollen (intumescent) mature cataract presents with acute pain and IOP of 46 mmHg; the anterior chamber is shallow only in that eye and gonioscopy shows a closed angle. The diagnosis is:
+    A. Phacolytic glaucoma
+    B. Primary angle-closure glaucoma
+    C. Lens-particle glaucoma
+   *D. Phacomorphic glaucoma
+   key=D ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Lens-induced glaucomas
+   concept: Phacomorphic glaucoma is a secondary angle-closure glaucoma: an intumescent mature or hypermature lens pushes the iris-lens diaphragm forward, shallowing the anterior chamber and closing the angle with a sudden rise in IOP. A unilaterally shallow chamber in an eye with an advanced cataract is the key clue. Treatment is to control IOP medically and then remove the lens. It contrasts with phacolytic glaucoma (open-angle, from leaked lens protein) and lens-particle glaucoma (retained cortex after surgery or trauma).
+Q_GEN_OPHTH_GLAUCOMA_017 [M] Assertion (A): Pilocarpine lowers IOP in primary angle-closure. Reason (R): As a muscarinic agonist it contracts the ciliary muscle and sphincter pupillae, pulling the peripheral iris away from the angle and increasing trabecular outflow. Choose the correct option:
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. Both A and R are false
+   key=A ref=Parsons' Diseases of the Eye, 22nd ed. — Miotics in glaucoma
+   concept: Pilocarpine is a direct-acting muscarinic (cholinergic) agonist. It contracts the sphincter pupillae to produce miosis and contracts the ciliary muscle; ciliary contraction pulls on the scleral spur to open the trabecular meshwork and increase outflow, while miosis pulls the peripheral iris out of a crowded angle, breaking appositional closure in angle-closure. The two effects are causally linked, so the reason correctly explains the assertion. Side effects include brow ache and induced myopia.
+Q_GEN_OPHTH_GLAUCOMA_018 [M] What is the definitive treatment to relieve and prevent recurrence of primary angle closure caused by pupillary block?
+    A. Trabeculectomy
+    B. Laser trabeculoplasty
+   *C. Laser peripheral iridotomy
+    D. Cyclophotocoagulation
+   key=C ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Management of primary angle-closure glaucoma
+   concept: In pupillary-block angle closure, aqueous is trapped behind the iris and bows it forward to close the angle. A laser peripheral iridotomy (usually Nd:YAG) creates an alternative channel that equalises pressure between the posterior and anterior chambers and flattens the iris, relieving and preventing the block; the fellow at-risk eye is treated prophylactically. Trabeculectomy is filtering surgery for uncontrolled glaucoma, trabeculoplasty is for open-angle disease, and cyclophotocoagulation reduces production in refractory eyes.
+Q_GEN_OPHTH_GLAUCOMA_019 [H] An elderly patient with a hypermature (Morgagnian) cataract develops acute pain and IOP of 40 mmHg; the anterior chamber shows heavy flare with floating white particles, yet gonioscopy reveals an open angle. The diagnosis is:
+    A. Phacomorphic glaucoma
+   *B. Phacolytic glaucoma
+    C. Acute anterior uveitis
+    D. Neovascular glaucoma
+   key=B ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Phacolytic (lens-protein) glaucoma
+   concept: In phacolytic glaucoma, high-molecular-weight lens proteins leak through the intact but permeable capsule of a hypermature cataract; protein-laden macrophages and the free proteins clog an open trabecular meshwork, raising IOP as an open-angle secondary glaucoma. The clue is dense anterior-chamber flare with a hypermature lens and an open angle. Treatment is IOP control followed by cataract extraction. Phacomorphic glaucoma is angle closure from a swollen lens, uveitis lacks the hypermature lens, and neovascular glaucoma shows angle vessels.
+Q_GEN_OPHTH_GLAUCOMA_020 [H] Which class of drug is contraindicated (should be avoided) in an eye at risk of, or with, primary angle closure because it can precipitate an acute attack?
+    A. Miotics (e.g., pilocarpine)
+    B. Carbonic anhydrase inhibitors
+    C. Beta-blockers
+   *D. Mydriatics / anticholinergics (e.g., atropine)
+   key=D ref=Parsons' Diseases of the Eye, 22nd ed. — Drugs contraindicated in angle-closure glaucoma
+   concept: Mydriatics and anticholinergics (atropine, homatropine, tropicamide, and systemic anticholinergics, some antihistamines and tricyclics) dilate the pupil to a mid-dilated position that maximises iris-lens contact and peripheral iris crowding, precipitating pupillary-block angle closure in a narrow angle; adrenergic mydriatics carry a similar risk. In contrast, pilocarpine (a miotic), carbonic anhydrase inhibitors, beta-blockers and hyperosmotics are therapeutic in angle closure because they lower IOP.
+Q_GEN_OPHTH_GLAUCOMA_021 [H] Regarding hyperosmotic agents used to rapidly lower intraocular pressure, which statement is correct?
+    A. Intravenous mannitol is freely metabolised to glucose and is therefore safe in cardiac failure
+   *B. Oral glycerol should be avoided in diabetics because it is metabolised and can cause hyperglycaemia
+    C. Hyperosmotic agents act by increasing trabecular outflow of aqueous
+    D. Isosorbide is contraindicated in diabetics, so glycerol is preferred in them
+   key=B ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Hyperosmotic agents
+   concept: Hyperosmotic agents (intravenous mannitol, oral glycerol, oral isosorbide) raise plasma osmolality and draw water from the vitreous to lower IOP acutely, for example in acute angle closure. Glycerol is metabolised (caloric) and can cause hyperglycaemia or ketoacidosis, so it is avoided in diabetics; isosorbide, which is not metabolised, is preferred in them. Mannitol is not metabolised and expands the intravascular volume, so it is used cautiously in cardiac and renal failure.
+Q_GEN_OPHTH_GLAUCOMA_022 [H] Assertion (A): Mitomycin-C or 5-fluorouracil is applied during trabeculectomy in high-risk eyes. Reason (R): These antimetabolites inhibit fibroblast proliferation and so reduce scarring of the filtering bleb, improving surgical success. Choose the correct option:
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Filtration surgery and antimetabolites
+   concept: Trabeculectomy creates a guarded fistula that drains aqueous into a subconjunctival bleb; failure is usually due to fibroblast-driven scarring at the sclera and conjunctiva. Antifibrotic antimetabolites, mitomycin-C (an alkylating agent) and 5-fluorouracil, inhibit fibroblast proliferation and reduce bleb fibrosis, improving IOP control, especially in high-risk eyes (young, dark-skinned, previous failed surgery, neovascular). Risks include thin avascular blebs, hypotony, leaks and blebitis, so the reason explains the assertion.
+Q_GEN_OPHTH_GLAUCOMA_023 [H] A 60-year-old has glaucomatous optic disc cupping and arcuate field loss, but repeated readings show IOP of 14-16 mmHg with open angles and a normal central corneal thickness; the disc shows a splinter haemorrhage at its margin. The most likely diagnosis is:
+   *A. Normal-tension (low-tension) glaucoma
+    B. Ocular hypertension
+    C. Primary open-angle glaucoma with high IOP
+    D. Primary angle-closure glaucoma
+   key=A ref=Parsons' Diseases of the Eye, 22nd ed. — Normal-tension glaucoma
+   concept: Normal-tension glaucoma shows characteristic glaucomatous disc and field damage despite IOP consistently at or below 21 mmHg with open angles, implicating vascular dysregulation, reduced ocular perfusion and a susceptible lamina cribrosa. Disc (Drance or splinter) haemorrhages, focal notching and deeper defects closer to fixation are typical. It is a diagnosis of exclusion (rule out spurious low readings from a thin cornea, prior steroid use, intermittent spikes and compressive neurological lesions). Treatment still aims to lower IOP by about 30%, unlike ocular hypertension, which has a raised IOP but a normal disc and field.
+Q_GEN_OPHTH_GLAUCOMA_024 [H] A man sustained blunt trauma to one eye from a cricket ball several years ago; that eye now has raised IOP, and gonioscopy shows an abnormally deep, widened ciliary-body band with a torn iris root over part of the angle. The diagnosis is:
+    A. Neovascular glaucoma
+    B. Phacolytic glaucoma
+   *C. Angle-recession glaucoma
+    D. Pseudoexfoliation glaucoma
+   key=C ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Post-traumatic (angle-recession) glaucoma
+   concept: Blunt ocular trauma can tear the face of the ciliary body between the longitudinal and circular muscle fibres (angle recession), seen on gonioscopy as a segment of abnormally widened and deepened ciliary-body band with a torn iris root. Associated scarring of the trabecular meshwork reduces outflow, and glaucoma may develop months to years later as an open-angle disease, so long-term IOP follow-up after blunt trauma is essential. Involvement of more than 180-270 degrees of the angle increases the risk; the mechanism is distinct from neovascular, phacolytic and pseudoexfoliative glaucomas.
+Q_GEN_OPHTH_GLAUCOMA_025 [H] The preferred initial (definitive) treatment of primary congenital glaucoma is:
+    A. Lifelong topical prostaglandin analogues alone
+    B. Laser peripheral iridotomy
+    C. Enucleation
+   *D. Angle surgery — goniotomy or trabeculotomy
+   key=D ref=Khurana's Comprehensive Ophthalmology, 7th ed. — Management of congenital glaucoma
+   concept: Primary congenital glaucoma results from maldevelopment of the angle (trabeculodysgenesis) that obstructs outflow. The definitive treatment is angle surgery: goniotomy when the cornea is clear enough to visualise the angle, or trabeculotomy when the cornea is hazy; both incise the abnormal trabecular tissue to restore drainage. Trabeculectomy with a tube or a combined trabeculotomy-trabeculectomy is used when these fail. Medications are only a temporising adjunct; laser iridotomy addresses pupillary block (not the mechanism here) and enucleation is not indicated.
+Q_GEN_OPHTH_GLAUCOMA_026 [H] Selective laser trabeculoplasty (SLT) and argon laser trabeculoplasty (ALT) lower IOP by acting on which structure, and in which type of glaucoma are they mainly used?
+    A. They create a hole in the peripheral iris and are used in angle-closure glaucoma
+   *B. They treat the trabecular meshwork to improve outflow and are used in open-angle glaucoma
+    C. They ablate the ciliary body to reduce aqueous production and are used only in refractory glaucoma
+    D. They surgically cut the trabecular meshwork and are used in congenital glaucoma
+   key=B ref=Parsons' Diseases of the Eye, 22nd ed. — Laser therapy in glaucoma
+   concept: Laser trabeculoplasty applies laser energy to the trabecular meshwork to enhance conventional (trabecular) aqueous outflow, lowering IOP in open-angle glaucoma and ocular hypertension. SLT uses low-energy, pigment-selective Q-switched Nd:YAG (repeatable, with minimal tissue damage), whereas ALT uses thermal argon burns; either can be first-line or adjunctive. In contrast, iridotomy makes an iris hole for angle closure, cyclophotocoagulation ablates the ciliary body in refractory cases, and goniotomy is a surgical angle incision for congenital glaucoma.
+Q_PYQ_FMGE_2025JULP1_053 [M] An elderly woman presents with sudden pain, redness and decreased vision. Examination shows a hazy cornea, a fixed mid-dilated pupil and a shallow anterior chamber. What is the diagnosis?
+    A. Acute uveitis
+    B. Acute conjunctivitis
+   *C. Acute congestive glaucoma
+    D. Central retinal artery occlusion
+   key=C ref=FMGE July 2025 Part 1 (real exam recall)
+   concept: NOTE: the scraped key said A (acute uveitis) but that is wrong. A fixed mid-dilated pupil, a shallow anterior chamber and a hazy (oedematous) cornea with sudden pain in an elderly patient are the hallmark of acute angle-closure (congestive) glaucoma. Anterior uveitis instead gives a small/miotic or irregular pupil with a normal-depth chamber and keratic precipitates, so C is the correct answer.
+Q_S_014 [M] A 55-year-old man is found on routine examination to have an intraocular pressure of 26 mmHg, an enlarged optic disc cup (cup-to-disc ratio 0.7), open angles on gonioscopy and early peripheral field loss, with no pain. Which class of drug is generally first-line medical therapy for primary open-angle glaucoma?
+   *A. Topical prostaglandin analogue (e.g., latanoprost)
+    B. Intravenous mannitol
+    C. Oral pilocarpine
+    D. Topical atropine
+   key=A ref=Khurana, Comprehensive Ophthalmology
+   concept: Primary open-angle glaucoma is a chronic, painless optic neuropathy with raised IOP, disc cupping and peripheral (arcuate) field loss. Topical prostaglandin analogues (e.g., latanoprost) are usual first-line agents, lowering IOP by increasing uveoscleral outflow with once-daily dosing; topical beta-blockers are an alternative.
+Q_S_015 [H] A 60-year-old woman presents with sudden severe pain in one eye, coloured haloes around lights, nausea and vomiting. The eye is red, the cornea hazy, the pupil mid-dilated and fixed, and IOP is 50 mmHg. Which is the most appropriate immediate measure to lower the pressure?
+    A. Topical atropine to dilate the pupil
+   *B. Intravenous acetazolamide (with osmotic agents) plus topical pilocarpine
+    C. Immediate cataract extraction
+    D. Reassurance and review in one week
+   key=B ref=Khurana, Comprehensive Ophthalmology
+   concept: Acute angle-closure glaucoma is an ophthalmic emergency. Immediate IOP reduction uses IV acetazolamide (with IV mannitol if needed), a topical beta-blocker and topical pilocarpine (a miotic that opens the angle); definitive treatment is laser peripheral iridotomy. Atropine (a mydriatic) is contraindicated as it worsens angle closure.
+
+=== Ophthalmology / Refractive errors
+Q_GEN_OPHTH_REFRACT_001 [E] In an emmetropic eye at complete physiological rest (accommodation fully relaxed), where do parallel rays of light coming from infinity come to a focus?
+   *A. Exactly on the retina (fovea)
+    B. In front of the retina, in the vitreous
+    C. Behind the retina
+    D. On the retinal pigment epithelium behind the choroid
+   key=A ref=Khurana, Comprehensive Ophthalmology — Optics and Refraction (Errors of Refraction)
+   concept: Emmetropia is the ideal state in which the axial length and total refractive power are balanced, so parallel rays from infinity focus precisely on the retina without any accommodative effort; the far point lies at infinity. A focus in front of the retina defines myopia and a focus behind it defines hypermetropia, while the RPE lies deep to the neurosensory retina and is never the image plane.
+Q_GEN_OPHTH_REFRACT_002 [E] Which structure contributes the greatest amount of static refractive (dioptric) power to the resting human eye?
+    A. The aqueous humour
+   *B. The cornea (~43 D)
+    C. The crystalline lens (~19 D)
+    D. The vitreous humour
+   key=B ref=Khurana, Theory and Practice of Optics and Refraction — Physiological Optics
+   concept: The cornea (mainly its air–tear interface) is the principal refracting surface, providing about 43–44 D of the eye's total ~58–60 D. The crystalline lens adds only ~15–20 D at rest but is the sole variable element that changes power during accommodation. Aqueous and vitreous humour have refractive indices close to their surroundings and contribute negligible refracting power.
+Q_GEN_OPHTH_REFRACT_003 [M] A myopic eye in which the total dioptric power of the refracting media is normal but the anteroposterior axial length is longer than normal is best classified as:
+    A. Curvatural myopia
+    B. Index myopia
+   *C. Axial myopia
+    D. Positional myopia
+   key=C ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Myopia)
+   concept: Axial myopia is due to an increased anteroposterior length with normal refracting power; roughly each 1 mm of extra axial length adds about 3 D of myopia, and most simple and pathological myopia is axial. Curvatural myopia results from steeper corneal/lens curvature, index myopia from a rise in refractive index (e.g. nuclear sclerosis or hyperglycaemia), and positional myopia from anterior displacement of the lens.
+Q_GEN_OPHTH_REFRACT_004 [E] The far point (punctum remotum) of an uncorrected myopic eye lies:
+    A. At infinity
+    B. Behind the eye, as a virtual point
+    C. At the anterior focal point of the cornea
+   *D. At a finite distance in front of the eye
+   key=D ref=Khurana, Theory and Practice of Optics and Refraction — Refractive Errors
+   concept: In myopia the far point is a real point situated a finite distance in front of the eye; the greater the myopia the nearer this point (a −2 D myope's far point is 0.5 m, a −4 D myope's is 0.25 m). In an emmetrope the far point is at infinity, whereas in a hypermetrope it is virtual and lies behind the eye. Knowing the far point lets one calculate the concave lens power needed for correction.
+Q_GEN_OPHTH_REFRACT_005 [M] A young man with well-corrected daytime distance vision complains that objects appear blurred and he tends to under-estimate distances only while driving at night. The most likely explanation is:
+   *A. Night (twilight) myopia from pupil dilation and dark-focus of accommodation
+    B. Early nuclear sclerotic cataract
+    C. Accommodative spasm that is relieved in the dark
+    D. Against-the-rule astigmatism
+   key=A ref=Khurana, Theory and Practice of Optics and Refraction — Myopia (Night Myopia)
+   concept: In dim light the pupil dilates, increasing spherical aberration, and accommodation drifts to an intermediate resting dark-focus of about 1–1.5 D; together with the Purkinje shift this produces a relative myopia at night that a small extra concave (minus) correction can relieve. Early cataract and against-the-rule astigmatism blur vision by day too, and accommodative spasm is worsened, not relieved, in the dark.
+Q_GEN_OPHTH_REFRACT_006 [M] Which type of myopia is physiological in nature, usually appears around puberty, rarely exceeds −6 D, gives good corrected acuity, and is not associated with degenerative fundus changes?
+    A. Congenital myopia
+   *B. Simple (developmental) myopia
+    C. Pathological (degenerative) myopia
+    D. Index myopia
+   key=B ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Types of Myopia)
+   concept: Simple myopia is a physiological (correlation-type) variation with onset near puberty, magnitude usually below −5 to −6 D, normal corrected acuity and no degenerative fundus changes. Pathological myopia is progressive and high (often beyond −6 to −8 D) with staphyloma, lacquer cracks and chorioretinal degeneration; congenital myopia is present from birth and often high, while index myopia arises from lens sclerosis in later life.
+Q_GEN_OPHTH_REFRACT_007 [H] A patient with −14 D pathological myopia has a raised, circular, pigmented macular lesion representing organised subretinal haemorrhage arising from choroidal neovascularisation. This lesion is known as:
+    A. Elschnig spot
+    B. Siegrist streaks
+   *C. Foster-Fuchs spot
+    D. Gunn's dots
+   key=C ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Complications of Myopia)
+   concept: In degenerative myopia, lacquer cracks (breaks in Bruch's membrane) predispose to choroidal neovascularisation; organised subretinal bleeding leaves a raised pigmented macular scar called the Foster-Fuchs spot, causing central vision loss. Elschnig spots and Siegrist streaks are signs of hypertensive choroidopathy, and Gunn's dots are normal light reflections around the disc, not degenerative lesions.
+Q_GEN_OPHTH_REFRACT_008 [M] The full amount of hypermetropia that becomes evident only after complete paralysis of accommodation by cycloplegia is termed:
+    A. Manifest hypermetropia
+    B. Facultative hypermetropia
+    C. Absolute hypermetropia
+   *D. Total hypermetropia
+   key=D ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Hypermetropia)
+   concept: Total hypermetropia equals latent plus manifest hypermetropia. The latent component is masked by resting ciliary muscle tone and is revealed only under full cycloplegia (e.g. atropine), so total hypermetropia can be measured only after cycloplegic refraction. Manifest hypermetropia is itself divided into facultative (overcome by accommodation) and absolute (not overcome by accommodation) parts.
+Q_GEN_OPHTH_REFRACT_009 [M] A 3-year-old with +5 D hypermetropia develops a convergent squint that disappears completely when full hypermetropic spectacles are worn. The underlying mechanism and definitive management are:
+   *A. Excess accommodation drives convergence; full convex (plus) spectacle correction
+    B. Divergence weakness; base-in prisms
+    C. Sixth nerve palsy; strabismus surgery
+    D. Duane retraction syndrome; observation only
+   key=A ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Complications of Hypermetropia)
+   concept: Uncorrected hypermetropia forces sustained accommodation, and the linked accommodative convergence produces an accommodative esotropia. Full cycloplegic plus correction relaxes accommodation and straightens the eyes; a high AC/A ratio may need bifocals. If left uncorrected it risks amblyopia. A sixth-nerve palsy and Duane syndrome give incomitant deviations that are not abolished by plus lenses.
+Q_GEN_OPHTH_REFRACT_010 [H] A myopic patient has a far point 1 metre in front of the eye and a near point at 20 cm. What is his amplitude of accommodation?
+    A. 5 D
+   *B. 4 D
+    C. 6 D
+    D. 1 D
+   key=B ref=Khurana, Theory and Practice of Optics and Refraction — Accommodation
+   concept: Amplitude of accommodation equals the dioptric difference between the far point and the near point = (1 / 0.20 m) − (1 / 1.0 m) = 5 D − 1 D = 4 D. It represents the maximum increase in dioptric power the crystalline lens can generate. This amplitude falls steadily with age as the lens hardens, which is the physiological basis of presbyopia.
+Q_GEN_OPHTH_REFRACT_011 [E] Assertion (A): In presbyopia the near point of the eye recedes with advancing age. Reason (R): The crystalline lens progressively hardens and loses elasticity, reducing its ability to increase curvature during accommodation. Select the correct option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Presbyopia)
+   concept: Presbyopia is the age-related decline of accommodation caused chiefly by lens sclerosis and loss of capsular elasticity, with some contribution from ciliary muscle change; because the lens can no longer steepen enough, the near point moves further away, so both the assertion and the reason are true and the reason correctly explains it. Convex (plus) reading additions restore comfortable near vision.
+Q_GEN_OPHTH_REFRACT_012 [M] A 50-year-old emmetrope needs reading glasses. Which near addition (add) is most appropriate for comfortable reading at about 33 cm?
+    A. +0.50 D
+    B. +3.50 D
+   *C. +2.00 D
+    D. +4.00 D
+   key=C ref=Khurana, Theory and Practice of Optics and Refraction — Presbyopia (Prescribing the Add)
+   concept: The presbyopic add increases with age: roughly +1.00 D at 40–45, +1.50 D at 45–50, +2.00 D at 50–55, +2.50 D at 55–60 and up to +3.00 D beyond 60. A 50-year-old therefore typically needs about +2.00 D for a 33 cm working distance. Too strong an add (e.g. +3.50 or +4.00) forces an uncomfortably short working distance, while +0.50 D is inadequate. The add is prescribed over any distance correction.
+Q_GEN_OPHTH_REFRACT_013 [M] In with-the-rule astigmatism, the meridian with the greatest refractive power and the appropriate correcting lens are:
+    A. Horizontal meridian, steepest; concave cylinder at axis 90°
+    B. Vertical meridian, steepest; concave cylinder at axis 90°
+    C. Oblique meridian, steepest; corrected with a spherical lens only
+   *D. Vertical meridian, steepest; concave (minus) cylinder at axis 180°
+   key=D ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Astigmatism)
+   concept: In with-the-rule astigmatism (common in the young) the vertical meridian is steeper and more powerful, so it is corrected by a minus cylinder with its axis at 180° (equivalently a plus cylinder at 90°). Against-the-rule astigmatism, common in the elderly, has the horizontal meridian steeper and is corrected with a minus cylinder at 90°. Astigmatism cannot be corrected by a spherical lens alone.
+Q_GEN_OPHTH_REFRACT_014 [M] A patient has irregular astigmatism with an uneven anterior corneal surface after a healed corneal ulcer. Which correction gives the best visual result?
+   *A. Rigid gas-permeable contact lens
+    B. Spectacle spherical lens
+    C. Spectacle cylindrical lens
+    D. Bifocal spectacles
+   key=A ref=Khurana, Theory and Practice of Optics and Refraction — Astigmatism (Irregular Astigmatism)
+   concept: In irregular astigmatism the principal meridians are not regular or mutually perpendicular, so a cylindrical spectacle lens cannot neutralise the error. A rigid gas-permeable contact lens masks the surface irregularity by forming a smooth new refracting surface with the tear film beneath it, restoring good acuity. Cylindrical spectacle lenses correct only regular astigmatism, and bifocals address presbyopia, not corneal irregularity.
+Q_GEN_OPHTH_REFRACT_015 [H] A teenager with atopy and habitual eye-rubbing has progressive myopic astigmatism, an oil-droplet red reflex, Vogt's striae and a Fleischer ring at the base of a corneal cone. To halt disease progression the intervention of choice is:
+    A. LASIK to correct the astigmatism
+   *B. Corneal collagen cross-linking (CXL)
+    C. Topical corticosteroids
+    D. Immediate penetrating keratoplasty
+   key=B ref=Khurana, Comprehensive Ophthalmology — Diseases of the Cornea (Keratoconus)
+   concept: These are classic features of keratoconus — progressive non-inflammatory corneal ectasia with irregular myopic astigmatism, Fleischer ring, Vogt striae, oil-droplet reflex and Munson sign. Corneal collagen cross-linking stiffens the stroma with riboflavin and UV-A to arrest progression; rigid contact lenses restore vision, and keratoplasty is reserved for advanced scarring. LASIK is strictly contraindicated because ablation accelerates ectasia.
+Q_GEN_OPHTH_REFRACT_016 [H] A spectacle prescription reads −3.00 DS / −1.50 DC × 90. What is its spherical equivalent?
+    A. −4.50 D
+    B. −3.00 D
+   *C. −3.75 D
+    D. −2.25 D
+   key=C ref=Khurana, Theory and Practice of Optics and Refraction — Astigmatism (Spherical Equivalent)
+   concept: Spherical equivalent = sphere + (cylinder / 2) = −3.00 + (−1.50 / 2) = −3.00 + (−0.75) = −3.75 D. It corresponds to the dioptric position of the circle of least confusion and is used when only a spherical lens is available, for example when fitting a spherical soft trial contact lens or reporting a single-value refraction.
+Q_GEN_OPHTH_REFRACT_017 [H] A patient wears a +5.00 D spherical spectacle lens that is decentred 4 mm from the visual axis. What is the induced prismatic power?
+    A. 20 prism dioptres
+    B. 0.8 prism dioptres
+    C. 5 prism dioptres
+   *D. 2 prism dioptres
+   key=D ref=Khurana, Theory and Practice of Optics and Refraction — Prisms (Prentice's Rule)
+   concept: By Prentice's rule the prismatic effect (in prism dioptres) equals the decentration in centimetres multiplied by the lens power in dioptres = 0.4 cm × 5 D = 2 prism dioptres. Deliberate decentration can incorporate prism, but unwanted decentration induces prism and asthenopia. One prism dioptre deviates a ray of light 1 cm at a distance of 1 metre.
+Q_GEN_OPHTH_REFRACT_018 [M] During subjective refraction, the Jackson cross cylinder is used mainly to:
+   *A. Refine the power and axis of the cylindrical (astigmatic) correction
+    B. Measure the amplitude of accommodation
+    C. Detect the presence of colour blindness
+    D. Determine the near addition for presbyopia
+   key=A ref=Khurana, Theory and Practice of Optics and Refraction — Subjective Refraction (Cross Cylinder)
+   concept: The Jackson cross cylinder is a lens combining equal plus and minus cylinders whose axes are 90° apart, with the handle bisecting them. By flipping it and comparing images the examiner first refines the cylinder axis and then its power, fine-tuning the astigmatic correction. It has no role in measuring accommodation, testing colour vision or determining a presbyopic add.
+Q_GEN_OPHTH_REFRACT_019 [M] On the duochrome (red-green) test a patient reports that the black letters on the RED half are clearer and blacker than those on the green half. This indicates the eye is:
+    A. Over-minused — add plus power
+   *B. Under-minused / relatively myopic — add minus power
+    C. Perfectly corrected — no change needed
+    D. Amblyopic — no refractive change is possible
+   key=B ref=Khurana, Theory and Practice of Optics and Refraction — Subjective Refraction (Duochrome Test)
+   concept: The duochrome test exploits the eye's chromatic aberration: longer red wavelengths focus behind and shorter green wavelengths in front of the retina. If the red side is clearer the overall focus lies anterior to the retina (the myopic/under-minused side), so minus power should be added; if green is clearer, add plus (mnemonic RAM-GAP). The endpoint is reached when both halves appear equally clear.
+Q_GEN_OPHTH_REFRACT_020 [E] A patient's unaided visual acuity is 6/36 but improves to 6/9 when tested through a pinhole. This most strongly suggests:
+    A. A dense nuclear sclerotic cataract
+    B. Advanced glaucomatous optic atrophy
+   *C. An uncorrected refractive error
+    D. Age-related macular degeneration
+   key=C ref=Khurana, Comprehensive Ophthalmology — Clinical Methods (Pinhole Test)
+   concept: A pinhole admits only central paraxial rays and eliminates the blur circle produced by ametropia, so vision that improves with a pinhole indicates a refractive error correctable by glasses. Little or no improvement points instead to a media opacity such as dense cataract, or to organic macular or optic-nerve disease. The pinhole thus helps separate refractive from non-refractive causes of reduced acuity.
+Q_GEN_OPHTH_REFRACT_021 [M] During plane-mirror streak retinoscopy performed at 1 metre, the retinal reflex moves in the SAME direction as the streak (a "with" movement). Before applying the working-distance correction, this indicates the eye is:
+    A. Myopic greater than 1 D — neutralise with minus lenses
+    B. Exactly 1 D myopic, at the point of reversal
+    C. Irregularly astigmatic and cannot be neutralised
+   *D. Hypermetropic, emmetropic, or myopic less than 1 D — neutralise with plus lenses
+   key=D ref=Khurana, Theory and Practice of Optics and Refraction — Retinoscopy
+   concept: A "with" movement means the far point lies behind the retinoscope peephole, so the eye is hypermetropic, emmetropic, or myopic by less than the working-distance dioptre, and plus lenses are added to neutralise it. An "against" movement (myopia greater than the working distance) needs minus lenses. At neutralisation the far point lies at the peephole; the working-distance value (1 D at 1 m) is then subtracted to give the true error.
+Q_GEN_OPHTH_REFRACT_022 [H] For accurate refraction of a 3-year-old child with a suspected accommodative convergent squint and high hypermetropia, the cycloplegic agent of choice is:
+   *A. Atropine 1% ointment (full cycloplegia)
+    B. Tropicamide 0.5% drops
+    C. Phenylephrine 2.5% drops
+    D. Topical brimonidine
+   key=A ref=Khurana, Theory and Practice of Optics and Refraction — Refraction in Children (Cycloplegics)
+   concept: Young children and darkly pigmented irides have strong ciliary tone, and accommodative esotropia demands complete relaxation of accommodation, so atropine 1% — the most powerful cycloplegic — is preferred for full cycloplegic refraction despite its slow onset and long duration (with counselling about systemic toxicity). Tropicamide is a weak, short-acting cycloplegic used mainly for mydriasis; phenylephrine and brimonidine have no cycloplegic action.
+Q_GEN_OPHTH_REFRACT_023 [M] A soft contact lens wearer who habitually sleeps in her lenses presents with a painful red eye, photophobia, and a corneal stromal infiltrate with an overlying epithelial defect. The most sight-threatening diagnosis is:
+    A. Giant papillary conjunctivitis
+   *B. Microbial (bacterial) keratitis
+    C. Contact-lens-induced dry eye
+    D. Corneal neovascularisation
+   key=B ref=Khurana, Comprehensive Ophthalmology — Contact Lenses (Complications)
+   concept: Overnight lens wear causes corneal hypoxia and epithelial breakdown, greatly increasing the risk of microbial keratitis (notably Pseudomonas and Acanthamoeba), the most serious, potentially blinding complication that demands urgent corneal scraping, culture and intensive fortified antibiotics. Giant papillary conjunctivitis, dry eye and superficial neovascularisation cause discomfort and blur but are not immediately vision-threatening emergencies.
+Q_GEN_OPHTH_REFRACT_024 [H] A 28-year-old with stable −13 D myopia and a thin central cornea of 480 µm wishes to be spectacle-independent. LASIK is inadvisable here because of insufficient residual stromal bed. The most appropriate option is:
+    A. Higher-ablation LASIK to fully correct the −13 D
+    B. Radial keratotomy
+   *C. Phakic intraocular lens / ICL implantation
+    D. Bilateral clear lens extraction as the first-choice procedure
+   key=C ref=Khurana, Comprehensive Ophthalmology — Refractive Surgery (Phakic IOL / ICL)
+   concept: High myopia combined with a thin cornea exceeds the safe ablation limit for LASIK or PRK, risking iatrogenic ectasia and too little residual stroma, so a phakic intraocular lens (implantable collamer lens, ICL) is preferred because it corrects large errors without removing corneal tissue and is reversible. Radial keratotomy is obsolete and unstable, and clear lens extraction in a young high myope carries a significant retinal detachment risk and abolishes accommodation.
+Q_GEN_OPHTH_REFRACT_025 [H] An adult with +1.00 D hypermetropia in the right eye and +6.00 D in the left develops troublesome asthenopia and a difference in the size of the two retinal images when wearing spectacles. The optical correction that best minimises this aniseikonia is:
+    A. Higher-powered spectacle lenses
+    B. A balancing prism in the spectacles
+    C. A bifocal spectacle add
+   *D. Contact lenses
+   key=D ref=Khurana, Comprehensive Ophthalmology — Errors of Refraction (Anisometropia and Aniseikonia)
+   concept: This is anisometropia (a 5 D interocular difference) causing aniseikonia, because a spectacle lens sits well in front of the eye and magnifies or minifies the retinal image (about 1–2% per dioptre) and creates differential prism on eccentric gaze. Contact lenses lie at the corneal plane, producing far less image-size disparity and prismatic difference, and so best relieve the aniseikonia and asthenopia. Large uncorrected childhood anisometropia is a major cause of amblyopia.
+Q_S_018 [E] In myopia (short-sightedness), parallel rays of light come to a focus in front of the retina. Which type of corrective lens is used to bring the focus onto the retina?
+    A. Convex (plus, converging) lens
+   *B. Concave (minus, diverging) lens
+    C. Cylindrical lens only
+    D. Prism
+   key=B ref=Khurana, Comprehensive Ophthalmology
+   concept: In myopia the image focuses in front of the retina (the eye is too long or too powerful); a concave (minus, diverging) lens spreads the rays so they focus on the retina. Hypermetropia is corrected with convex (plus) lenses and astigmatism with cylindrical lenses.
+
+[106 shown of 106 unverified in scope]

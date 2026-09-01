@@ -1,0 +1,382 @@
+{
+ "questions": [
+  {
+   "id": "Q_PH_NSA_011",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "E",
+   "stem": "Which mechanism explains the gastric toxicity of a non-selective NSAID?",
+   "options": [
+    "Inhibition of COX-1 derived prostaglandins that maintain mucosal blood flow, mucus and bicarbonate",
+    "Direct acid secretion",
+    "Inhibition of COX-2 in the stomach",
+    "Increased pepsin release"
+   ],
+   "correct": 0,
+   "concept": "Co-prescription of a proton pump inhibitor, or use of a COX-2 selective agent, reduces the risk, but the latter carries a higher cardiovascular hazard so the choice depends on the individual risk profile.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. NSAIDs and Antigout Drugs"
+  },
+  {
+   "id": "Q_PH_NSA_012",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "E",
+   "stem": "Which analgesic has antipyretic and analgesic action with negligible anti-inflammatory effect?",
+   "options": [
+    "Paracetamol",
+    "Ibuprofen",
+    "Diclofenac",
+    "Naproxen"
+   ],
+   "correct": 0,
+   "concept": "Its weak peripheral cyclooxygenase inhibition with a predominantly central action explains this profile, and it lacks the gastric, renal and platelet effects of the NSAIDs at therapeutic dose.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. NSAIDs and Antigout Drugs"
+  },
+  {
+   "id": "Q_PH_NSA_013",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "Which drug is first line for an acute attack of gout in a patient with chronic kidney disease?",
+   "options": [
+    "A short course of oral corticosteroid or intra-articular steroid",
+    "High-dose NSAID",
+    "Full-dose colchicine",
+    "Allopurinol started immediately"
+   ],
+   "correct": 0,
+   "concept": "NSAIDs worsen renal function and colchicine accumulates in renal impairment, and starting a urate-lowering drug during an attack can prolong it unless anti-inflammatory cover is given.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. NSAIDs and Antigout Drugs"
+  },
+  {
+   "id": "Q_PH_NSA_014",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "Which mechanism explains the action of colchicine in acute gout?",
+   "options": [
+    "Inhibition of microtubule assembly, impairing neutrophil chemotaxis and inflammasome activation",
+    "Inhibition of xanthine oxidase",
+    "Uricosuric action",
+    "Cyclooxygenase inhibition"
+   ],
+   "correct": 0,
+   "concept": "Diarrhoea is the dose-limiting effect, low-dose regimens are as effective as high-dose with less toxicity, and it accumulates dangerously with CYP3A4 or P-glycoprotein inhibitors such as clarithromycin.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. NSAIDs and Antigout Drugs"
+  },
+  {
+   "id": "Q_PH_NSA_015",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "M",
+   "stem": "Which enzyme does febuxostat inhibit, and what advantage does it have over allopurinol?",
+   "options": [
+    "Xanthine oxidase, with no dose adjustment needed for mild to moderate renal impairment",
+    "Uricase",
+    "URAT1 transporter",
+    "Purine nucleoside phosphorylase"
+   ],
+   "correct": 0,
+   "concept": "It is a non-purine selective inhibitor so it does not interact with azathioprine in the same way, though a cardiovascular safety signal has restricted its first-line use in some guidance.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. NSAIDs and Antigout Drugs"
+  },
+  {
+   "id": "Q_PH_NSA_016",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "NSAIDs, analgesics, antipyretics & drugs for gout",
+   "difficulty": "H",
+   "stem": "Why does aspirin at low dose inhibit platelet thromboxane far more than endothelial prostacyclin?",
+   "options": [
+    "Platelets are anucleate and cannot resynthesise cyclooxygenase, whereas endothelial cells can",
+    "Platelets have more cyclooxygenase",
+    "Aspirin is concentrated in platelets",
+    "Prostacyclin is not cyclooxygenase dependent"
+   ],
+   "correct": 0,
+   "concept": "Presystemic acetylation in the portal circulation also favours platelet inhibition, which is why once-daily low-dose aspirin gives antiplatelet effect without abolishing endothelial protection.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. NSAIDs and Antigout Drugs"
+  },
+  {
+   "id": "Q_PH_SEX_011",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "E",
+   "stem": "Which component of the combined oral contraceptive is chiefly responsible for the thrombotic risk?",
+   "options": [
+    "The oestrogen component, through increased hepatic synthesis of clotting factors",
+    "The progestogen component",
+    "The excipient",
+    "Both equally"
+   ],
+   "correct": 0,
+   "concept": "This is why progestogen-only methods are used where oestrogen is contraindicated, and why the risk is greatest in smokers over 35 and in known thrombophilia.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Sex Hormones and Related Drugs"
+  },
+  {
+   "id": "Q_PH_SEX_012",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "E",
+   "stem": "Which drug is a selective oestrogen receptor modulator that is an agonist on bone but an antagonist on breast tissue?",
+   "options": [
+    "Raloxifene",
+    "Tamoxifen",
+    "Clomiphene",
+    "Anastrozole"
+   ],
+   "correct": 0,
+   "concept": "Tamoxifen is an agonist on the endometrium so it increases endometrial cancer risk, whereas raloxifene is not, which is why the two are used differently despite belonging to the same class.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Sex Hormones and Related Drugs"
+  },
+  {
+   "id": "Q_PH_SEX_013",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Which drug is used for medical termination of pregnancy in combination with misoprostol, and what is its mechanism?",
+   "options": [
+    "Mifepristone, a progesterone receptor antagonist",
+    "Methotrexate, a folate antagonist",
+    "Danazol, an androgen",
+    "Letrozole, an aromatase inhibitor"
+   ],
+   "correct": 0,
+   "concept": "Blocking progesterone destabilises the decidua and sensitises the myometrium to prostaglandin, which is why the sequential regimen is far more effective than either drug alone.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Sex Hormones and Related Drugs"
+  },
+  {
+   "id": "Q_PH_SEX_014",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Which bone drug inhibits osteoclast function by binding hydroxyapatite and inducing osteoclast apoptosis?",
+   "options": [
+    "A bisphosphonate such as alendronate",
+    "Teriparatide",
+    "Denosumab",
+    "Calcitriol"
+   ],
+   "correct": 0,
+   "concept": "Denosumab is a monoclonal antibody to RANK ligand with a different mechanism, and both classes carry a small risk of osteonecrosis of the jaw and atypical femoral fracture with long use.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Sex Hormones and Related Drugs"
+  },
+  {
+   "id": "Q_PH_SEX_015",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "M",
+   "stem": "Which mechanism explains the use of an aromatase inhibitor rather than tamoxifen in a postmenopausal woman with hormone-receptor-positive breast cancer?",
+   "options": [
+    "After the menopause oestrogen comes mainly from peripheral aromatisation, which the inhibitor blocks",
+    "Tamoxifen is ineffective in older women",
+    "Aromatase inhibitors block the receptor",
+    "They are safer for bone"
+   ],
+   "correct": 0,
+   "concept": "Because they lower oestrogen systemically they accelerate bone loss and cause arthralgia, and they are ineffective in premenopausal women whose ovaries respond to the resulting gonadotropin rise.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Sex Hormones and Related Drugs"
+  },
+  {
+   "id": "Q_PH_SEX_016",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Sex hormones, contraceptives, uterine & bone drugs",
+   "difficulty": "H",
+   "stem": "Why is a progestogen-only pill required to be taken within a narrow time window while the combined pill is not?",
+   "options": [
+    "Its main action is on cervical mucus and the endometrium with inconsistent ovulation suppression, so contraceptive cover depends on steady levels",
+    "It is absorbed more slowly",
+    "It has a longer half-life",
+    "It contains less hormone"
+   ],
+   "correct": 0,
+   "concept": "The desogestrel formulation does suppress ovulation reliably and therefore allows a 12-hour window rather than 3 hours, which is a practically important distinction.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Sex Hormones and Related Drugs"
+  },
+  {
+   "id": "Q_PH_PRK_011",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "E",
+   "stem": "Which drug is added to levodopa to prevent its peripheral decarboxylation, and what does this achieve?",
+   "options": [
+    "Carbidopa, which increases the fraction reaching the brain and reduces nausea",
+    "Entacapone, which inhibits COMT",
+    "Selegiline, which inhibits MAO-B",
+    "Amantadine, which releases dopamine"
+   ],
+   "correct": 0,
+   "concept": "Because carbidopa does not cross the blood-brain barrier it does not block central conversion, so the therapeutic effect is enhanced while peripheral dopaminergic adverse effects are reduced.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Skeletal Muscle Relaxants and Antiparkinsonian Drugs"
+  },
+  {
+   "id": "Q_PH_PRK_012",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "E",
+   "stem": "Which class of drug is used to treat drug-induced parkinsonism but is ineffective and may worsen tardive dyskinesia?",
+   "options": [
+    "Anticholinergics such as trihexyphenidyl",
+    "Levodopa",
+    "Dopamine agonists",
+    "Amantadine"
+   ],
+   "correct": 0,
+   "concept": "Because the underlying problem is receptor blockade rather than dopamine deficiency, levodopa is ineffective in drug-induced parkinsonism, and the definitive step is to reduce or change the offending antipsychotic.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Skeletal Muscle Relaxants and Antiparkinsonian Drugs"
+  },
+  {
+   "id": "Q_PH_PRK_013",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "Which adverse effect is characteristic of dopamine agonists such as pramipexole and is often missed?",
+   "options": [
+    "Impulse control disorders including pathological gambling and hypersexuality",
+    "Hepatotoxicity",
+    "Nephrotoxicity",
+    "Optic neuritis"
+   ],
+   "correct": 0,
+   "concept": "Sleep attacks and hallucinations are the other important effects, and because patients rarely volunteer the behavioural symptoms they must be asked about directly at each review.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Skeletal Muscle Relaxants and Antiparkinsonian Drugs"
+  },
+  {
+   "id": "Q_PH_PRK_014",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "Which mechanism explains the antispastic action of baclofen?",
+   "options": [
+    "GABA-B receptor agonism in the spinal cord reducing excitatory transmitter release",
+    "GABA-A receptor agonism",
+    "Blockade of ryanodine receptors",
+    "Nicotinic receptor blockade"
+   ],
+   "correct": 0,
+   "concept": "Dantrolene acts peripherally on the ryanodine receptor and is therefore the drug for malignant hyperthermia, and abrupt withdrawal of intrathecal baclofen can cause a life-threatening syndrome.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Skeletal Muscle Relaxants and Antiparkinsonian Drugs"
+  },
+  {
+   "id": "Q_PH_PRK_015",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "M",
+   "stem": "Which drug is used for malignant hyperthermia, and what is its mechanism?",
+   "options": [
+    "Dantrolene, which blocks calcium release from the sarcoplasmic reticulum through the ryanodine receptor",
+    "Baclofen, acting on GABA-B receptors",
+    "Diazepam, acting centrally",
+    "Neostigmine, raising acetylcholine"
+   ],
+   "correct": 0,
+   "concept": "Stopping the trigger, cooling and correcting acidosis and hyperkalaemia accompany it, and the condition is inherited as a ryanodine receptor channelopathy so family screening follows.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Skeletal Muscle Relaxants and Antiparkinsonian Drugs"
+  },
+  {
+   "id": "Q_PH_PRK_016",
+   "part": "A",
+   "subject": "Pharmacology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal muscle relaxants & drugs for Parkinsonism",
+   "difficulty": "H",
+   "stem": "Why do motor fluctuations develop after several years of levodopa therapy?",
+   "options": [
+    "Progressive loss of dopaminergic terminals removes the buffering of dopamine storage, so plasma levels dictate the clinical state",
+    "The drug loses potency",
+    "Receptors are destroyed by the drug",
+    "Absorption fails completely"
+   ],
+   "correct": 0,
+   "concept": "This is why continuous delivery strategies such as intrajejunal levodopa gel, apomorphine infusion and deep brain stimulation are used in advanced disease rather than simply increasing the oral dose.",
+   "reference": "KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Skeletal Muscle Relaxants and Antiparkinsonian Drugs"
+  }
+ ]
+}

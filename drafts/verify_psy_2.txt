@@ -1,0 +1,38 @@
+Q_PYQ_FMGE_2025JANP1_035 | del | duplicate of Q_PYQ_FMGE_2025JULP1_058, which describes the same manic presentation and additionally requires the candidate to distinguish bipolar I with mania from bipolar II with hypomania. The finer item is retained
+Q_PS_DEL_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Vitamin and Trace Mineral Deficiency; Kaplan & Sadock's Synopsis of Psychiatry 12e, Ch. Neurocognitive Disorders | the reference named two books with no chapter for either; chapters added
+Q_PYQ_FMGE_2025JULP1_058 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JUN_027 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders (psychotic depression) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JUN_028 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders (lithium toxicity) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2026JUN_029 | ref=KD Tripathi Essentials of Medical Pharmacology 8e, Ch. Drugs for Bipolar Disorder | reference cited only the exam paper; a study source added
+Q_PYQ_INICET_2025MAY_028 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders (newer antidepressants) | reference cited only the exam paper; a study source added
+Q_h3d_036 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Mood Disorders (acute mania) | the reference chapter simply repeated the book title and named no chapter
+Q_PS_DEL_006 | ok |
+Q_PS_DEL_007 | ok |
+Q_PS_DEL_008 | ok |
+Q_PS_DEL_009 | ok |
+Q_PS_DEL_010 | ok |
+Q_PS_DEL_011 | ok |
+Q_PS_DEL_012 | ok |
+Q_PS_DEL_013 | ok |
+Q_PS_DEL_014 | ok |
+Q_PS_DEL_015 | ok |
+Q_PS_DEL_016 | ok |
+Q_PS_DEL_017 | ok |
+Q_PS_DEL_018 | ok |
+Q_PS_DEP_001 | ok |
+Q_PS_DEP_002 | ok |
+Q_PS_DEP_003 | ok |
+Q_PS_DEP_004 | ok |
+Q_PS_DEP_005 | ok |
+Q_PS_DEP_006 | ok |
+Q_PS_DEP_007 | ok |
+Q_PS_DEP_008 | ok |
+Q_PS_DEP_009 | ok |
+Q_PS_DEP_010 | ok |
+Q_PS_MSE_001 | ok |
+Q_PS_MSE_002 | ok |
+Q_PS_MSE_003 | ok |
+Q_PS_MSE_004 | ok |
+Q_PS_MSE_006 | ok |
+Q_PS_MSE_007 | ok |
+Q_PS_MSE_008 | ok |

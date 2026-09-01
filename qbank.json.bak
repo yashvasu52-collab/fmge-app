@@ -1,5 +1,5 @@
 {
- "count": 5470,
+ "count": 5471,
  "questions": [
   {
    "id": "Q_c1_001",
@@ -39252,6 +39252,29 @@
    ],
    "correct": 0,
    "concept": "Under the MTP Act a woman aged 18 years or older can give valid consent for termination herself; for a minor (below 18) or a mentally ill woman, the written consent of a guardian is required.",
+   "reference": "INI-CET May 2025 (real exam recall); MTP (Amendment) Act 2021, Section 3; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Medical Law and Ethics",
+   "verified": "Y",
+   "source": "pyq",
+   "source_ref": "INICET_2025MAY",
+   "verified_by": "model-audit",
+   "verified_on": "2026-09-01",
+   "verify_note": "exam-paper-only reference given a study source"
+  },
+  {
+   "id": "Q_PYQ_INICET_2025MAY_006",
+   "subject": "Forensic Medicine (FMT)",
+   "topic": "Legal procedure, consent, key IPC sections",
+   "part": "A",
+   "difficulty": "M",
+   "stem": "As per the MTP (Amendment) Act, 2021, the opinion of two registered medical practitioners is required for termination of pregnancy at which gestational age?",
+   "options": [
+    "16-20 weeks",
+    "20-24 weeks",
+    "Up to 12 weeks",
+    "12-16 weeks"
+   ],
+   "correct": 1,
+   "concept": "Under the MTP (Amendment) Act 2021, termination up to 20 weeks needs the opinion of one registered medical practitioner, while 20-24 weeks (for specified categories of women) requires the opinion of two RMPs.",
    "reference": "INI-CET May 2025 (real exam recall); MTP (Amendment) Act 2021, Section 3; Reddy's The Essentials of Forensic Medicine and Toxicology 34e, Ch. Medical Law and Ethics",
    "verified": "Y",
    "source": "pyq",

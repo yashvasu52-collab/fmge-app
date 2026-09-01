@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_BC_INT_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "E",
+   "stem": "In the early fasting state, blood glucose is maintained principally by:",
+   "options": [
+    "Hepatic glycogenolysis",
+    "Gluconeogenesis",
+    "Ketogenesis",
+    "Lipolysis"
+   ],
+   "correct": 0,
+   "concept": "Liver glycogen stores last about 18 to 24 hours, after which gluconeogenesis from lactate, glycerol and amino acids predominates. Muscle glycogen cannot contribute as muscle lacks glucose-6-phosphatase.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "M",
+   "stem": "Ketone bodies are synthesised in the:",
+   "options": [
+    "Liver mitochondria, but the liver cannot use them due to lack of thiophorase",
+    "Muscle",
+    "Brain",
+    "Kidney only"
+   ],
+   "correct": 0,
+   "concept": "Absence of succinyl-CoA acetoacetyl-CoA transferase in liver ensures ketones are exported for use by brain, heart and muscle, an elegant example of metabolic division of labour.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "M",
+   "stem": "The predominant ketone body in diabetic ketoacidosis is:",
+   "options": [
+    "Beta-hydroxybutyrate",
+    "Acetoacetate",
+    "Acetone",
+    "Pyruvate"
+   ],
+   "correct": 0,
+   "concept": "Standard urine nitroprusside dipsticks detect acetoacetate but not beta-hydroxybutyrate, so ketonuria may underestimate severity and can paradoxically appear to worsen during treatment as the ratio shifts.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "E",
+   "stem": "The brain adapts to prolonged starvation by:",
+   "options": [
+    "Using ketone bodies for up to two-thirds of its energy needs",
+    "Using fatty acids",
+    "Using only glucose",
+    "Reducing activity"
+   ],
+   "correct": 0,
+   "concept": "This adaptation spares muscle protein by reducing the gluconeogenic demand, which is the principal determinant of survival time in starvation. Fatty acids cannot cross the blood-brain barrier.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "M",
+   "stem": "Insulin promotes all of the following EXCEPT:",
+   "options": [
+    "Lipolysis",
+    "Glycogen synthesis",
+    "Protein synthesis",
+    "Glucose uptake in muscle and adipose tissue"
+   ],
+   "correct": 0,
+   "concept": "Insulin is the master anabolic hormone and actively inhibits hormone-sensitive lipase. Its deficiency releases this brake, driving the lipolysis and ketogenesis of diabetic ketoacidosis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "M",
+   "stem": "The Cori cycle involves:",
+   "options": [
+    "Transport of muscle lactate to the liver for conversion back to glucose",
+    "Glucose to fat conversion",
+    "Amino acid transamination",
+    "Ketone transport"
+   ],
+   "correct": 0,
+   "concept": "It shifts the metabolic burden of anaerobic glycolysis to the liver at a net ATP cost. The glucose-alanine cycle similarly carries nitrogen from muscle to liver for urea synthesis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "E",
+   "stem": "HbA1c reflects glycaemic control over approximately:",
+   "options": [
+    "The preceding 8 to 12 weeks",
+    "One week",
+    "One day",
+    "One year"
+   ],
+   "correct": 0,
+   "concept": "Non-enzymatic glycation is proportional to average glucose over the red cell lifespan. It is falsely low in haemolysis and blood loss and falsely high in iron deficiency, limiting reliability in those settings.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "H",
+   "stem": "Metabolic syndrome centres on insulin resistance, which biochemically causes:",
+   "options": [
+    "Raised triglycerides with low HDL and small dense LDL particles",
+    "Low triglycerides",
+    "High HDL",
+    "Reduced VLDL"
+   ],
+   "correct": 0,
+   "concept": "Failure to suppress lipolysis floods the liver with free fatty acids, driving VLDL overproduction. LDL cholesterol is not itself a diagnostic criterion of the syndrome.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Lipid Metabolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "H",
+   "stem": "Alcohol causes hypoglycaemia and lactic acidosis because its metabolism:",
+   "options": [
+    "Raises the NADH to NAD+ ratio, blocking gluconeogenesis",
+    "Lowers NADH",
+    "Increases glycogenolysis",
+    "Increases pyruvate"
+   ],
+   "correct": 0,
+   "concept": "Excess NADH drives pyruvate to lactate and oxaloacetate to malate, removing both gluconeogenic substrates. This also promotes fatty liver by favouring triglyceride synthesis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_INT_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Integration of metabolism: fed/fasting, diabetes, ketosis",
+   "difficulty": "M",
+   "stem": "In the fed state, the principal fate of excess dietary glucose is:",
+   "options": [
+    "Glycogen synthesis followed by conversion to fatty acids for storage as triglyceride",
+    "Immediate excretion",
+    "Ketone formation",
+    "Gluconeogenesis"
+   ],
+   "correct": 0,
+   "concept": "Insulin activates glycogen synthase and lipogenesis while inhibiting the opposing pathways, ensuring reciprocal regulation so that synthesis and breakdown never run simultaneously as a futile cycle.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Metabolic Integration",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "E",
+   "stem": "The Henderson-Hasselbalch equation relates blood pH to:",
+   "options": [
+    "The ratio of bicarbonate to carbonic acid (dissolved CO2)",
+    "Sodium and potassium",
+    "Oxygen and carbon dioxide",
+    "Albumin and globulin"
+   ],
+   "correct": 0,
+   "concept": "pH depends on the ratio, not absolute values, which is why compensation restores pH by adjusting the other component. Normal ratio is 20 to 1, giving pH 7.4.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Acid-Base",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "M",
+   "stem": "The anion gap is calculated as:",
+   "options": [
+    "Sodium minus the sum of chloride and bicarbonate, normally 8 to 12 mmol/L",
+    "Sodium plus potassium",
+    "Chloride minus bicarbonate",
+    "Bicarbonate minus chloride"
+   ],
+   "correct": 0,
+   "concept": "It represents unmeasured anions, principally albumin, so it must be corrected in hypoalbuminaemia by adding 2.5 for every 1 g/dL fall. A raised gap indicates added acid.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Acid-Base",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "M",
+   "stem": "The most important extracellular buffer system is:",
+   "options": [
+    "The bicarbonate-carbonic acid system, because it is open to respiratory adjustment",
+    "Phosphate",
+    "Protein",
+    "Haemoglobin"
+   ],
+   "correct": 0,
+   "concept": "Although its pKa of 6.1 is not ideal, the ability to vary carbon dioxide by ventilation and bicarbonate by the kidney makes it uniquely powerful. Haemoglobin is the main intracellular buffer.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Acid-Base",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "E",
+   "stem": "Iron is absorbed principally in the:",
+   "options": [
+    "Duodenum, enhanced by vitamin C and the ferrous form",
+    "Ileum",
+    "Colon",
+    "Stomach"
+   ],
+   "correct": 0,
+   "concept": "Hepcidin from the liver is the master regulator, blocking ferroportin-mediated release. Its induction by inflammation explains the anaemia of chronic disease with low iron but raised ferritin.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Minerals",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "M",
+   "stem": "Copper deficiency causes anaemia because copper is required for:",
+   "options": [
+    "Ceruloplasmin (ferroxidase) activity, needed to mobilise iron",
+    "Haem synthesis directly",
+    "Globin synthesis",
+    "Erythropoietin production"
+   ],
+   "correct": 0,
+   "concept": "Copper deficiency causes a microcytic anaemia unresponsive to iron, with neutropenia and neurological features. Menkes kinky hair disease results from defective copper absorption and transport.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Minerals",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "M",
+   "stem": "Iodine deficiency in the fetus causes:",
+   "options": [
+    "Cretinism with intellectual disability and deaf-mutism",
+    "Anaemia",
+    "Rickets",
+    "Scurvy"
+   ],
+   "correct": 0,
+   "concept": "Universal salt iodisation is the principal preventive strategy, and iodine deficiency remains the commonest preventable cause of intellectual disability worldwide. Goitre reflects TSH-driven thyroid hyperplasia.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Minerals",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "E",
+   "stem": "Fluoride in drinking water at optimal levels prevents dental caries, but excess causes:",
+   "options": [
+    "Dental and skeletal fluorosis",
+    "Anaemia",
+    "Goitre",
+    "Rickets"
+   ],
+   "correct": 0,
+   "concept": "The optimal level is about 0.5 to 0.8 mg/L in India. Mottled enamel appears above 1.5 mg/L and crippling skeletal fluorosis with genu valgum above 3 mg/L, a serious problem in several Indian states.",
+   "reference": "Park 27e, Water",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "H",
+   "stem": "Magnesium deficiency should be suspected in refractory:",
+   "options": [
+    "Hypokalaemia and hypocalcaemia that do not correct until magnesium is replaced",
+    "Hypernatraemia",
+    "Hyperkalaemia",
+    "Acidosis"
+   ],
+   "correct": 0,
+   "concept": "Magnesium is required for PTH secretion and action and for renal potassium conservation, so correcting it is a prerequisite for correcting the other electrolytes - a common clinical trap.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Minerals",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "H",
+   "stem": "In metabolic acidosis, respiratory compensation is predicted by the Winter formula:",
+   "options": [
+    "Expected PCO2 equals 1.5 times bicarbonate plus 8, plus or minus 2",
+    "Bicarbonate plus 15",
+    "Twice bicarbonate",
+    "Bicarbonate minus 8"
+   ],
+   "correct": 0,
+   "concept": "If measured PCO2 exceeds the predicted value there is an additional respiratory acidosis, and if lower an additional respiratory alkalosis - allowing detection of mixed disorders.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Acid-Base",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_BC_MIN_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Minerals, trace elements & acid-base biochemistry",
+   "difficulty": "M",
+   "stem": "Zinc is a cofactor for many enzymes, and its deficiency causes:",
+   "options": [
+    "Poor wound healing, impaired taste, diarrhoea and acral dermatitis",
+    "Anaemia only",
+    "Goitre",
+    "Rickets"
+   ],
+   "correct": 0,
+   "concept": "Zinc supplementation shortens childhood diarrhoea and reduces recurrence, which is why the national programme pairs zinc with ORS. Acrodermatitis enteropathica is the inherited absorptive defect.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Minerals",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_001",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "E",
+   "stem": "An oncogene differs from a proto-oncogene in that it is:",
+   "options": [
+    "An activated, gain-of-function form driving unregulated proliferation",
+    "A normal gene",
+    "A tumour suppressor",
+    "Inactive"
+   ],
+   "correct": 0,
+   "concept": "A single activated allele suffices, making oncogenes dominant at the cellular level, whereas tumour suppressors require loss of both alleles - the Knudson two-hit hypothesis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_002",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "M",
+   "stem": "The RAS oncogene causes malignant transformation because the mutant protein:",
+   "options": [
+    "Remains locked in the GTP-bound active state due to loss of GTPase activity",
+    "Cannot bind GTP",
+    "Is degraded",
+    "Binds DNA"
+   ],
+   "correct": 0,
+   "concept": "RAS mutations occur in about 30% of human cancers, notably pancreatic, colorectal and lung. KRAS status predicts resistance to anti-EGFR antibodies in colorectal cancer.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_003",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "M",
+   "stem": "Telomerase is significant in cancer because it:",
+   "options": [
+    "Maintains telomere length, allowing unlimited replicative capacity",
+    "Shortens telomeres",
+    "Repairs DNA",
+    "Degrades chromosomes"
+   ],
+   "correct": 0,
+   "concept": "Normal somatic cells lose telomere length each division until replicative senescence. Most cancers reactivate telomerase, achieving immortality - one of the recognised hallmarks of cancer.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_004",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "E",
+   "stem": "Alpha-fetoprotein is a useful tumour marker for:",
+   "options": [
+    "Hepatocellular carcinoma and non-seminomatous germ cell tumours",
+    "Colorectal carcinoma",
+    "Prostate carcinoma",
+    "Breast carcinoma"
+   ],
+   "correct": 0,
+   "concept": "CEA is used for colorectal, PSA for prostate, CA-125 for ovarian and CA 19-9 for pancreatic cancer. Markers are best for monitoring treatment response and detecting recurrence, not for screening.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_005",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "M",
+   "stem": "The BCL2 gene contributes to malignancy by:",
+   "options": [
+    "Inhibiting apoptosis, allowing survival of cells that should die",
+    "Promoting apoptosis",
+    "Repairing DNA",
+    "Blocking the cell cycle"
+   ],
+   "correct": 0,
+   "concept": "The t(14;18) translocation in follicular lymphoma places BCL2 under immunoglobulin heavy chain promoter control, causing overexpression - a tumour arising from failure of cell death rather than excess proliferation.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_006",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "M",
+   "stem": "Angiogenesis in tumours is driven principally by:",
+   "options": [
+    "Vascular endothelial growth factor",
+    "Epidermal growth factor",
+    "Insulin",
+    "Interferon"
+   ],
+   "correct": 0,
+   "concept": "Tumours cannot grow beyond 1 to 2 mm without a blood supply. Bevacizumab targets VEGF, and anti-VEGF agents are also used intravitreally for wet age-related macular degeneration and diabetic retinopathy.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_007",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "E",
+   "stem": "The Warburg effect describes tumour reliance on:",
+   "options": [
+    "Aerobic glycolysis despite adequate oxygen",
+    "Oxidative phosphorylation",
+    "Beta oxidation",
+    "Ketogenesis"
+   ],
+   "correct": 0,
+   "concept": "This shift provides biosynthetic intermediates for rapid growth and underlies FDG-PET imaging, which localises tumours by their avid glucose uptake.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_008",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "H",
+   "stem": "The p53 protein is described as the guardian of the genome because it:",
+   "options": [
+    "Arrests the cell cycle at G1/S for repair or triggers apoptosis if damage is irreparable",
+    "Replicates DNA",
+    "Promotes growth",
+    "Forms the spindle"
+   ],
+   "correct": 0,
+   "concept": "Loss of p53 permits damaged cells to proliferate. Germline mutation causes Li-Fraumeni syndrome with multiple early cancers, and HPV E6 protein degrades p53 in cervical carcinogenesis.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_009",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "H",
+   "stem": "BRCA1 and BRCA2 genes function in:",
+   "options": [
+    "Homologous recombination repair of DNA double-strand breaks",
+    "Mismatch repair",
+    "Nucleotide excision repair",
+    "Base excision repair"
+   ],
+   "correct": 0,
+   "concept": "Their loss creates dependence on alternative repair, exploited therapeutically by PARP inhibitors through synthetic lethality. Carriers face high breast, ovarian, prostate and pancreatic cancer risk.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_BC_CAN_010",
+   "part": "A",
+   "subject": "Biochemistry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Cancer biology, oncogenes & tumour biochemistry",
+   "difficulty": "M",
+   "stem": "Cancer cachexia is mediated principally by:",
+   "options": [
+    "Cytokines such as TNF-alpha and IL-6 causing hypermetabolism and proteolysis",
+    "Reduced intake alone",
+    "Malabsorption alone",
+    "Anaemia"
+   ],
+   "correct": 0,
+   "concept": "Because it is cytokine-driven rather than simple starvation, cachexia is not reversed by feeding alone. It predicts poor prognosis and reduced tolerance of chemotherapy.",
+   "reference": "Harper's Illustrated Biochemistry 32e, Cancer Biochemistry",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

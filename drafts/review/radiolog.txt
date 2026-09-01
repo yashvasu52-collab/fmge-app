@@ -1,0 +1,218 @@
+
+=== Radiology / Chest X-ray signs
+Q_PYQ_FMGE_2024JAN_031 [M] A 45-year-old male presented with severe abdominal pain following alcohol intake. Make a diagnosis based on the given X-ray.
+   *A. Pneumoperitoneum
+    B. SBO
+    C. Esophageal perforation
+    D. Pneumomediastinum
+   key=A ref=FMGE January 2024 (real exam recall)
+   concept: Free gas under the diaphragm on an erect film indicates pneumoperitoneum, most often from a perforated peptic ulcer - a recognised cause of sudden severe abdominal pain in a patient after alcohol. NOTE: this is an image-dependent question and the X-ray itself was not available to review; the answer follows the scraped key and the text (abdominal, not chest, pain favours perforated ulcer over Boerhaave-related pneumomediastinum), so it is left unverified.
+Q_S_032 [M] A chest X-ray in acute cardiogenic pulmonary oedema classically shows bilateral perihilar alveolar opacities in a 'bat-wing' pattern, upper-lobe blood diversion and Kerley B lines. Kerley B lines represent:
+    A. Dilated, thick-walled bronchi
+   *B. Thickened interlobular septa due to interstitial fluid
+    C. Calcified pleural plaques
+    D. Cavitating parenchymal lesions
+   key=B ref=Standard radiology texts
+   concept: Kerley B lines are short, horizontal peripheral lines abutting the pleura at the lung bases, caused by fluid or thickening of the interlobular septa - a sign of interstitial pulmonary oedema (and of other causes of septal thickening). 'Bat-wing' perihilar opacity and upper-lobe diversion accompany cardiogenic oedema.
+Q_S_033 [E] On an erect PA chest X-ray, which is the earliest and most characteristic sign of a moderate pleural effusion?
+   *A. Blunting of the costophrenic angle with an upper concave meniscus
+    B. Deviation of the trachea towards the same side
+    C. Increased lucency of the affected lung
+    D. Elevation of the hemidiaphragm
+   key=A ref=Standard radiology texts
+   concept: On an erect film, pleural fluid first blunts the costophrenic angle and forms a homogeneous opacity with an upper concave meniscus. A large effusion pushes the mediastinum and trachea to the opposite side. Roughly 200-300 mL is needed before blunting is visible on a PA film.
+
+=== Radiology / Choice of imaging modality; contrast
+Q_S_030 [E] A patient with acute head trauma and deteriorating consciousness needs urgent imaging to detect intracranial haemorrhage and skull fractures. Which is the imaging modality of choice in this acute setting?
+    A. MRI of the brain
+   *B. Non-contrast CT of the head
+    C. Plain skull X-ray
+    D. Catheter cerebral angiography
+   key=B ref=Cerebellum Radiology notes; standard radiology texts
+   concept: Non-contrast CT is the first-line emergency investigation in acute head trauma - fast, widely available and excellent for acute blood (hyperdense) and bony fractures. MRI gives better parenchymal/posterior-fossa detail but is slower and less suited to the unstable acute trauma patient.
+Q_S_031 [M] Before giving an intravenous iodinated contrast agent for a contrast-enhanced CT, which factor is most important to check in order to reduce the risk of contrast-induced nephropathy?
+    A. Serum potassium only
+   *B. Renal function (serum creatinine / eGFR) and hydration status
+    C. The patient's blood group
+    D. Liver transaminase levels
+   key=B ref=Standard radiology texts
+   concept: Iodinated contrast can cause contrast-induced nephropathy, especially with pre-existing renal impairment, diabetes or dehydration, so renal function (creatinine/eGFR) and hydration must be assessed first. Prior contrast reactions and metformin use are also checked. (Gadolinium, used in MRI, is linked to nephrogenic systemic fibrosis in severe renal failure.)
+
+=== Radiology / Radiation safety & principles
+Q_GEN_RADIO_SAFETY_001 [E] The SI unit of absorbed dose, defined as one joule of energy deposited per kilogram of tissue, is the:
+    A. Sievert
+   *B. Gray
+    C. Becquerel
+    D. Coulomb per kilogram
+   key=B ref=Christensen's Physics of Diagnostic Radiology / ICRP recommendations — Dosimetric Quantities
+   concept: The gray (Gy) is the SI unit of absorbed dose, defined as one joule of energy deposited per kilogram of tissue (1 Gy = 1 J/kg). It replaced the older rad (1 Gy = 100 rad). It quantifies energy deposition irrespective of radiation type; biological weighting is applied only when converting to equivalent dose in sieverts, and it must not be confused with the becquerel (activity).
+Q_GEN_RADIO_SAFETY_002 [E] Equivalent dose and effective dose, which weight absorbed dose for radiation type and tissue sensitivity, are expressed in:
+    A. Gray
+    B. Roentgen
+   *C. Sievert
+    D. Rad
+   key=C ref=ICRP Publication 103 (2007) — System of Radiological Protection
+   concept: Equivalent dose and effective dose are expressed in sieverts (Sv). Equivalent dose equals absorbed dose in gray multiplied by the radiation weighting factor (wR); effective dose additionally sums tissue weighting factors (wT). The sievert reflects biological harm and allows stochastic-risk comparison across radiation types and exposed organs; 1 Sv = 100 rem. The gray measures only physical energy deposition.
+Q_GEN_RADIO_SAFETY_003 [M] The continuous spectrum of X-rays emitted from a diagnostic X-ray tube is produced by:
+   *A. Bremsstrahlung (braking radiation) as electrons decelerate near target nuclei
+    B. Characteristic radiation from inner-shell electron transitions
+    C. Compton scattering within the anode target
+    D. Pair production in the tungsten target
+   key=A ref=Bushberg — The Essential Physics of Medical Imaging: X-ray Production
+   concept: Bremsstrahlung (braking radiation) forms the continuous X-ray spectrum: high-speed electrons decelerate in the electric field of target nuclei, losing kinetic energy as photons of a continuous range up to the peak kVp. Characteristic radiation, by contrast, gives discrete energy lines from inner-shell electron transitions and superimposes spikes on the continuous curve. Pair production requires photon energies far above the diagnostic range.
+Q_GEN_RADIO_SAFETY_004 [M] At diagnostic X-ray energies, the photon interaction chiefly responsible for the scattered radiation that reaches personnel is:
+    A. Photoelectric absorption
+    B. Rayleigh (coherent) scattering
+    C. Pair production
+   *D. Compton scattering
+   key=D ref=Sutton's Textbook of Radiology and Imaging — Physics of Diagnostic Radiology
+   concept: At diagnostic energies (roughly 30-150 keV) Compton scattering predominates in soft tissue and is the principal source of scattered radiation reaching staff, which is why distance and shielding are emphasised. Photoelectric absorption dominates at lower energies and with high-Z materials such as bone, iodine and barium, providing image contrast, while pair production needs photons above 1.02 MeV and is irrelevant in diagnostic imaging.
+Q_GEN_RADIO_SAFETY_005 [M] In radiography, increasing the kVp (kilovoltage peak) while keeping other factors constant primarily:
+    A. Increases only the number (quantity) of photons
+    B. Has no effect on the X-ray beam
+   *C. Increases the energy and penetrating power (quality) of the beam, whereas mAs governs quantity
+    D. Reduces the maximum photon energy produced
+   key=C ref=Christensen's Physics of Diagnostic Radiology — Exposure Factors
+   concept: kVp (kilovoltage peak) sets the maximum photon energy and therefore the penetrating power or quality of the beam; raising kVp increases penetration and scatter and lowers subject contrast. mAs (milliampere-seconds) governs the quantity or number of photons and is the main determinant of patient dose for a given technique. Optimising both quantities is central to dose reduction under the ALARA principle.
+Q_GEN_RADIO_SAFETY_006 [H] Which statement about the photoelectric effect in diagnostic imaging is correct?
+    A. It predominates at high photon energies and is independent of atomic number
+    B. It mainly generates image-degrading scatter that irradiates staff
+    C. It produces the continuous energy spectrum from the target
+   *D. Its probability rises steeply with atomic number (about proportional to Z-cubed) and falls with photon energy, making it the basis of radiographic contrast
+   key=D ref=Bushberg — The Essential Physics of Medical Imaging: Interactions of Radiation
+   concept: In the photoelectric effect an incident photon is totally absorbed, ejecting an inner-shell electron. Its probability is approximately proportional to the cube of the absorber's atomic number (Z-cubed) and inversely to about the cube of the photon energy, so it dominates at low energies and with high-Z materials such as bone, iodine and barium; this differential absorption is the physical basis of radiographic contrast. Compton scattering, not photoelectric, is the main source of scatter to staff.
+Q_GEN_RADIO_SAFETY_007 [M] The becquerel (Bq) is the SI unit of radioactivity (one disintegration per second). One curie (Ci) is equal to:
+   *A. 3.7 x 10^10 Bq
+    B. 3.7 x 10^7 Bq
+    C. 3.7 x 10^6 Bq
+    D. 1 x 10^6 Bq
+   key=A ref=ICRP Publication 103 (2007) / IAEA — Radioactivity Units
+   concept: The becquerel (Bq) is the SI unit of radioactivity, equal to one nuclear disintegration (decay) per second. The older unit, the curie (Ci), corresponds to the activity of one gram of radium: 1 Ci = 3.7 x 10^10 Bq = 37 GBq. Activity describes the rate of decay of a radionuclide and is used in nuclear medicine; it is quite distinct from absorbed dose (gray) or equivalent dose (sievert).
+Q_GEN_RADIO_SAFETY_008 [E] The three cardinal (basic) principles for reducing external occupational exposure to ionising radiation are:
+    A. Justification, optimisation and dose limitation
+    B. Filtration, collimation and grid use
+    C. kVp, mAs and focal-spot size
+   *D. Time, distance and shielding
+   key=D ref=AERB Safety Code for Medical Diagnostic X-ray Equipment — Radiation Protection
+   concept: The three cardinal principles of external radiation protection are TIME (minimise the exposure duration), DISTANCE (exploit the inverse-square law by maximising separation from the source) and SHIELDING (interpose lead, concrete or lead-glass). These are the practical operational measures. Justification, optimisation (ALARA) and dose limitation form the overarching ICRP system of protection, and filtration or collimation are equipment measures, not the three cardinal principles.
+Q_GEN_RADIO_SAFETY_009 [M] Assertion (A): Doubling the distance from a point radiation source reduces the exposure rate to one-quarter. Reason (R): The intensity of radiation from a point source is inversely proportional to the square of the distance. Select the correct option:
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Dowd & Tilson — Practical Radiation Protection and Applied Radiobiology
+   concept: Radiation intensity from a point source obeys the inverse-square law: intensity is inversely proportional to the square of the distance (I proportional to 1/d-squared). Doubling the distance therefore reduces the exposure rate to one-quarter and tripling it to one-ninth, so the reason correctly explains the assertion. This makes increasing distance one of the most effective and cheapest occupational protection measures during fluoroscopy and mobile radiography.
+Q_GEN_RADIO_SAFETY_010 [H] The dose rate 1 m from a point source is 16 mGy/h. Applying the inverse-square law, the approximate dose rate at 2 m from the same source is:
+   *A. 4 mGy/h
+    B. 8 mGy/h
+    C. 32 mGy/h
+    D. 64 mGy/h
+   key=A ref=Christensen's Physics of Diagnostic Radiology — Radiation Protection Calculations
+   concept: Using the inverse-square relationship I1 x d1-squared = I2 x d2-squared, a dose rate of 16 mGy/h at 1 m becomes 16 x (1/2)-squared = 16 x 0.25 = 4 mGy/h at 2 m. Because intensity falls with the square of the distance, doubling the separation cuts the rate to one-quarter, not one-half. This simple calculation underpins why stepping back is a powerful, no-cost protection strategy for staff.
+Q_GEN_RADIO_SAFETY_011 [M] The typical lead-equivalent thickness of a protective lead apron used in diagnostic radiology is:
+    A. 2-3 mm Pb
+   *B. 0.25-0.5 mm Pb
+    C. 5 mm Pb
+    D. 0.02 mm Pb
+   key=B ref=AERB Safety Code — Personal Protective Devices in Diagnostic Radiology
+   concept: Protective lead aprons for diagnostic radiology typically provide 0.25-0.5 mm lead equivalence (0.5 mm is preferred for higher-kVp and fluoroscopy work), attenuating roughly 90-95% of scattered radiation at common energies. Aprons protect against scatter rather than the primary beam and must be inspected periodically for cracks. Thyroid shields and lead glasses further reduce organ dose. Verify local AERB requirements for current specifications.
+Q_GEN_RADIO_SAFETY_012 [M] Which personnel monitoring device provides an immediate, direct read-out of accumulated radiation dose?
+    A. Film badge
+    B. Thermoluminescent dosimeter (TLD)
+   *C. Pocket (self-reading/electronic) dosimeter
+    D. Optically stimulated luminescence (OSL) badge
+   key=C ref=Sutton's Textbook of Radiology and Imaging — Personnel Monitoring
+   concept: A pocket (self-reading or electronic) dosimeter uses a small ionisation chamber to give an immediate, direct read-out of accumulated dose, which is valuable when instant feedback is needed. Film badges, thermoluminescent dosimeters (TLD) and optically stimulated luminescence (OSL) badges provide accurate cumulative legal records but require later laboratory processing, so they cannot display a real-time value. Choice of monitor depends on the exposure setting.
+Q_GEN_RADIO_SAFETY_013 [H] According to current ICRP/AERB recommendations, the whole-body occupational effective-dose limit for a radiation worker is (verify against current regulation):
+    A. 50 mSv per year with no averaging permitted
+    B. 1 mSv per year
+    C. 5 mSv per year
+   *D. 20 mSv per year averaged over 5 consecutive years (not exceeding 50 mSv in any single year)
+   key=D ref=ICRP Publication 103 (2007) / AERB — Dose Limits (VERIFY current)
+   concept: ICRP Publication 103 and AERB recommend an occupational whole-body effective-dose limit of 20 mSv per year averaged over 5 consecutive years (100 mSv in 5 years), with no single year exceeding 50 mSv. The equivalent-dose limit for the lens of the eye was also lowered to 20 mSv/year (averaged). These are change-prone regulatory figures and MUST be verified against the current ICRP recommendations and national AERB rules before quoting.
+Q_GEN_RADIO_SAFETY_014 [M] The recommended annual effective-dose limit for a member of the general public is (verify against current ICRP/AERB):
+   *A. 1 mSv per year
+    B. 20 mSv per year
+    C. 5 mSv per year
+    D. 0.1 mSv per year
+   key=A ref=ICRP Publication 103 (2007) / AERB — Public Dose Limits (VERIFY current)
+   concept: For members of the general public the recommended limit is 1 mSv effective dose per year (with higher averaging permitted only in special circumstances), well below the 20 mSv/year occupational limit. The difference reflects that the public receives neither the benefit nor the training and monitoring associated with occupational exposure. This is a change-prone regulatory value and should be verified against current ICRP and AERB guidance.
+Q_GEN_RADIO_SAFETY_015 [H] A radiographer declares her pregnancy to the radiation safety officer. According to ICRP recommendations, the additional dose to the embryo/fetus for the remainder of the pregnancy should not exceed (verify against current ICRP/AERB):
+    A. 20 mSv
+   *B. About 1 mSv (roughly 2 mSv at the surface of the abdomen)
+    C. 5 mSv
+    D. 0.1 mSv
+   key=B ref=ICRP Publication 103 (2007) / AERB — Occupational Exposure in Pregnancy (VERIFY current)
+   concept: Once a worker declares pregnancy, the conceptus is protected to a standard broadly comparable to a member of the public: ICRP recommends that the additional dose to the embryo/fetus not exceed about 1 mSv for the remainder of the pregnancy, which corresponds to roughly 2 mSv at the surface of the mother's abdomen. Working conditions are reviewed accordingly. This is a change-prone limit and must be verified against current ICRP/AERB regulation.
+Q_GEN_RADIO_SAFETY_016 [M] Which of the following is a DETERMINISTIC (tissue-reaction) effect of ionising radiation?
+    A. Radiation-induced leukaemia
+    B. Heritable genetic mutation
+   *C. Radiation cataract
+    D. Solid-organ carcinoma
+   key=C ref=Sutton's Textbook of Radiology and Imaging — Biological Effects of Radiation
+   concept: Deterministic effects (tissue reactions) have a dose threshold below which they do not occur, and their severity increases with dose once the threshold is crossed; examples include radiation cataract, skin erythema, epilation, sterility and the acute radiation syndrome. Radiation-induced cancers such as leukaemia and solid tumours, and heritable genetic mutations, are stochastic (probabilistic) effects, so radiation cataract is the deterministic answer here.
+Q_GEN_RADIO_SAFETY_017 [H] Assertion (A): The linear-no-threshold model assumes there is no threshold dose for radiation-induced cancer. Reason (R): The severity of a stochastic effect increases as the radiation dose increases. Select the correct option:
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=ICRP Publication 103 (2007) — Stochastic vs Deterministic Effects
+   concept: Stochastic effects (radiation-induced cancer and heritable effects) are assumed under the linear-no-threshold (LNT) model to have no threshold, so the assertion is TRUE. However, for stochastic effects it is the PROBABILITY of the effect, not its severity, that rises with dose; the severity of any cancer that occurs is independent of the dose received. The reason is therefore FALSE, making C correct. Severity rising with dose describes deterministic effects.
+Q_GEN_RADIO_SAFETY_018 [H] Which sub-syndrome of the acute radiation syndrome appears at the LOWEST whole-body radiation dose?
+   *A. Haematopoietic (bone-marrow) syndrome
+    B. Gastrointestinal syndrome
+    C. Cerebrovascular (CNS) syndrome
+    D. Cutaneous syndrome
+   key=A ref=Sutton's Textbook of Radiology and Imaging — Acute Radiation Syndrome
+   concept: Acute radiation syndrome progresses through dose-dependent sub-syndromes. The haematopoietic (bone-marrow) syndrome appears at the LOWEST whole-body doses (roughly 1-6 Gy) with pancytopenia; the gastrointestinal syndrome follows at about 6-10 Gy; and the cerebrovascular/CNS syndrome occurs only at very high doses (above about 15-20 Gy) with rapid, invariably fatal neurological collapse. Survival time shortens progressively as the whole-body dose rises.
+Q_GEN_RADIO_SAFETY_019 [M] According to the law of Bergonie and Tribondeau, cells are MORE radiosensitive when they are:
+    A. Highly differentiated and non-dividing
+   *B. Actively dividing, undifferentiated, with high mitotic and metabolic activity
+    C. In the resting G0 phase with low metabolism
+    D. Large, mature and long-lived
+   key=B ref=Grainger & Allison's Diagnostic Radiology — Radiobiology
+   concept: The law of Bergonie and Tribondeau states that cells are most radiosensitive when they are actively dividing (high mitotic rate), have a long dividing future ahead, and are least differentiated with high metabolic activity. Hence lymphocytes, spermatogonia, erythroblasts and intestinal crypt cells are highly radiosensitive, whereas mature, highly differentiated, non-dividing cells such as neurons and muscle fibres are comparatively radioresistant.
+Q_GEN_RADIO_SAFETY_020 [H] Which of the following cell types is the LEAST radiosensitive?
+    A. Lymphocytes
+    B. Spermatogonia
+   *C. Mature neurons and muscle cells
+    D. Intestinal crypt cells
+   key=C ref=Grainger & Allison's Diagnostic Radiology — Tissue Radiosensitivity
+   concept: By the Bergonie-Tribondeau principle the LEAST radiosensitive cells are highly differentiated, non-dividing and long-lived, namely mature neurons (nerve cells) and muscle cells (and mature bone). In contrast, lymphocytes, spermatogonia, erythroblasts and intestinal crypt cells are among the MOST radiosensitive because they divide rapidly and are poorly differentiated. Knowing this order helps predict tissue reactions after therapeutic or accidental exposure.
+Q_GEN_RADIO_SAFETY_021 [E] A clinician wishes to image a patient using a modality that involves NO ionising radiation. Which of the following should be chosen?
+    A. Computed tomography (CT)
+    B. Fluoroscopy
+    C. Plain radiography
+   *D. Magnetic resonance imaging (MRI)
+   key=D ref=Sutton's Textbook of Radiology and Imaging — Imaging Modalities
+   concept: MRI uses a strong static magnetic field and non-ionising radiofrequency pulses to image tissue and involves NO ionising radiation, making it attractive when radiation must be avoided (for example in pregnancy, in children or for repeated imaging). CT, fluoroscopy and plain radiography all use ionising X-rays. MRI is not hazard-free, however: projectiles, implanted devices, radiofrequency heating and gadolinium contrast reactions must still be considered.
+Q_GEN_RADIO_SAFETY_022 [E] Among the following common investigations, which typically delivers the HIGHEST radiation dose to the patient?
+    A. Chest radiograph (PA view)
+    B. Ultrasound of the abdomen
+    C. Radiograph of an extremity
+   *D. CT of the abdomen and pelvis
+   key=D ref=Grainger & Allison's Diagnostic Radiology — Patient Dose and Reference Levels
+   concept: Among common investigations, CT delivers by far the highest patient radiation dose: a CT of the abdomen and pelvis is roughly 8-10 mSv, equivalent to several hundred chest radiographs (a PA chest radiograph is about 0.02 mSv). Ultrasound uses no ionising radiation and extremity radiographs give very low doses. CT should therefore be justified and optimised, and diagnostic reference levels (DRLs) are used to audit and control typical doses.
+Q_GEN_RADIO_SAFETY_023 [M] Which of the following is considered an absolute contraindication to MRI because of the strong static magnetic field?
+    A. A titanium hip prosthesis
+   *B. A traditional (non-MR-conditional) cardiac pacemaker
+    C. Dental amalgam fillings
+    D. A copper intrauterine contraceptive device
+   key=B ref=Grainger & Allison's Diagnostic Radiology — MRI Safety
+   concept: A traditional cardiac pacemaker or implantable defibrillator that is NOT labelled MR-conditional is a classic absolute contraindication to MRI, because the static field and radiofrequency energy can reprogramme, inhibit or damage the device and heat the leads. Other serious concerns include ferromagnetic intracranial aneurysm clips, cochlear implants and intra-ocular metallic foreign bodies. Titanium prostheses, dental amalgam and copper IUDs are generally MR-safe or MR-conditional.
+Q_GEN_RADIO_SAFETY_024 [H] A patient with severe chronic kidney disease (eGFR 20) is scheduled for a contrast-enhanced MRI. The principal risk of administering a gadolinium-based contrast agent in this setting is:
+    A. Contrast-induced nephropathy identical to that from iodinated agents
+   *B. Nephrogenic systemic fibrosis (NSF)
+    C. Thyroid storm from iodine load
+    D. Lactic acidosis
+   key=B ref=Grainger & Allison's Diagnostic Radiology / ACR Manual on Contrast Media — Gadolinium Safety
+   concept: Gadolinium-based MRI contrast agents can precipitate nephrogenic systemic fibrosis (NSF), a debilitating fibrosis of the skin and viscera, in patients with severe renal impairment (eGFR under 30) or on dialysis, particularly with older linear agents. eGFR should be checked and macrocyclic agents at the lowest effective dose used, or the study avoided. NSF is distinct from contrast-induced nephropathy and the iodinated-contrast/metformin lactic-acidosis concern seen with CT.
+Q_S_034 [E] The core principle of radiation protection, stating that radiation exposure should be kept 'As Low As Reasonably Achievable', is abbreviated as:
+   *A. ALARA
+    B. ASAP
+    C. AMPLE
+    D. ATLS
+   key=A ref=Standard radiology texts
+   concept: ALARA ('As Low As Reasonably Achievable') is the core radiation-safety principle: minimise dose using time, distance and shielding. Ionising radiation (X-ray/CT) is avoided in pregnancy where possible; ultrasound and MRI use no ionising radiation.
+
+[30 shown of 30 unverified in scope]

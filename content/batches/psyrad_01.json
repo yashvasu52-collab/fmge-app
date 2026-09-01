@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_PS_CHI_001",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "E",
+   "stem": "The first-line drug treatment for attention deficit hyperactivity disorder in a school-age child is:",
+   "options": [
+    "Methylphenidate",
+    "Haloperidol",
+    "Fluoxetine",
+    "Sodium valproate"
+   ],
+   "correct": 0,
+   "concept": "Stimulants increase synaptic dopamine and noradrenaline in prefrontal circuits and are highly effective. Growth and appetite are monitored; atomoxetine is a non-stimulant alternative where misuse or tics are a concern.",
+   "reference": "KDT 8e, CNS Stimulants",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_002",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "Electroconvulsive therapy is most strongly indicated in:",
+   "options": [
+    "Severe depression with stupor, refusal to eat or high suicidal risk",
+    "Mild depression",
+    "Personality disorder",
+    "Generalised anxiety"
+   ],
+   "correct": 0,
+   "concept": "ECT acts faster than any antidepressant, making it the treatment of choice when delay is dangerous, and is also used in catatonia, puerperal psychosis and neuroleptic malignant syndrome. Memory disturbance is the main adverse effect.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Brain Stimulation Therapies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_003",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "The only absolute contraindication to electroconvulsive therapy is:",
+   "options": [
+    "Raised intracranial pressure",
+    "Pregnancy",
+    "Old age",
+    "Pacemaker"
+   ],
+   "correct": 0,
+   "concept": "Raised intracranial pressure risks herniation. Pregnancy, old age and cardiac devices are relative considerations, and ECT is in fact often preferred in pregnancy to avoid teratogenic drugs.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Brain Stimulation Therapies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_004",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "E",
+   "stem": "Lithium requires regular monitoring because:",
+   "options": [
+    "It has a narrow therapeutic index with renal and thyroid toxicity",
+    "It causes agranulocytosis",
+    "It is hepatotoxic",
+    "It causes retinopathy"
+   ],
+   "correct": 0,
+   "concept": "Serum levels are kept at 0.6 to 1.0 mmol/L; toxicity causes coarse tremor, ataxia, vomiting, confusion and seizures. Thiazides, NSAIDs, ACE inhibitors and dehydration raise levels dangerously.",
+   "reference": "KDT 8e, Drugs for Bipolar Disorder",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_005",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "Clozapine is reserved for treatment-resistant schizophrenia and requires monitoring for:",
+   "options": [
+    "Agranulocytosis by regular white cell counts",
+    "Renal failure",
+    "Retinal damage",
+    "Hearing loss"
+   ],
+   "correct": 0,
+   "concept": "Clozapine is the most effective antipsychotic in resistant illness and reduces suicidality, but causes agranulocytosis in about 1%, plus myocarditis, seizures, weight gain and hypersalivation, mandating registry-based blood monitoring.",
+   "reference": "KDT 8e, Antipsychotic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_006",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "Neuroleptic malignant syndrome is characterised by:",
+   "options": [
+    "Hyperthermia, lead-pipe rigidity, autonomic instability and raised creatine kinase",
+    "Flaccidity and hypothermia",
+    "Diarrhoea and hyperreflexia",
+    "Isolated confusion"
+   ],
+   "correct": 0,
+   "concept": "NMS follows dopamine blockade, developing over days, and is treated by stopping the antipsychotic with cooling, dantrolene and bromocriptine. Serotonin syndrome differs in having hyperreflexia, clonus and diarrhoea with rapid onset.",
+   "reference": "KDT 8e, Antipsychotic Drugs",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_007",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "E",
+   "stem": "Tardive dyskinesia is:",
+   "options": [
+    "A late-onset involuntary orofacial movement disorder from prolonged dopamine blockade",
+    "An acute dystonia",
+    "A withdrawal effect",
+    "Reversible in all cases"
+   ],
+   "correct": 0,
+   "concept": "Tardive dyskinesia emerges after months to years of antipsychotic use and may be irreversible, so the lowest effective dose is used. Acute dystonia occurring within days responds promptly to anticholinergics.",
+   "reference": "KDT 8e, Antipsychotic Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_008",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "H",
+   "stem": "Cognitive behaviour therapy works on the principle that:",
+   "options": [
+    "Maladaptive thoughts drive emotions and behaviour, and can be identified and modified",
+    "Unconscious conflict must be uncovered",
+    "Behaviour alone matters",
+    "Insight is unnecessary"
+   ],
+   "correct": 0,
+   "concept": "CBT is structured, time-limited and problem-focused with homework, and has the strongest evidence base in depression, anxiety disorders and OCD. Psychoanalysis instead explores unconscious conflict over a long period.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Psychotherapies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_009",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "H",
+   "stem": "Systematic desensitisation for phobia involves:",
+   "options": [
+    "Graded exposure to a hierarchy of feared stimuli paired with relaxation",
+    "Sudden maximal exposure",
+    "Avoidance training",
+    "Aversive conditioning"
+   ],
+   "correct": 0,
+   "concept": "Reciprocal inhibition pairs relaxation with progressively more anxiety-provoking stimuli. Flooding instead uses immediate maximal exposure, and both work by preventing avoidance so anxiety extinguishes naturally.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Psychotherapies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_PS_CHI_010",
+   "part": "B",
+   "subject": "Psychiatry",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Child psychiatry, psychopharmacology, ECT & psychotherapies",
+   "difficulty": "M",
+   "stem": "Enuresis in a child older than 5 years is best managed initially with:",
+   "options": [
+    "Behavioural measures including an enuresis alarm and motivational therapy",
+    "Long-term imipramine",
+    "Antibiotics",
+    "Fluid loading at night"
+   ],
+   "correct": 0,
+   "concept": "Alarms have the best long-term cure rates with no drug exposure. Desmopressin is useful for short-term cover such as school trips, and imipramine is now rarely used because of cardiotoxicity in overdose.",
+   "reference": "Kaplan & Sadock Synopsis 12e, Elimination Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_001",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "E",
+   "stem": "A sunburst periosteal reaction with Codman triangle in the metaphysis of a long bone suggests:",
+   "options": [
+    "Osteosarcoma",
+    "Ewing sarcoma",
+    "Osteomyelitis",
+    "Giant cell tumour"
+   ],
+   "correct": 0,
+   "concept": "Aggressive periosteal elevation produces the Codman triangle, and spiculated new bone perpendicular to the cortex gives the sunburst appearance, typical of osteosarcoma around the knee in adolescents.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_002",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "M",
+   "stem": "An onion-peel (lamellated) periosteal reaction in the diaphysis of a long bone in a child suggests:",
+   "options": [
+    "Ewing sarcoma",
+    "Osteosarcoma",
+    "Osteochondroma",
+    "Enchondroma"
+   ],
+   "correct": 0,
+   "concept": "Successive layers of periosteal new bone give the onion-skin pattern, characteristic of Ewing sarcoma, which is diaphyseal and may mimic osteomyelitis with fever and raised inflammatory markers.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_003",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "M",
+   "stem": "A soap-bubble appearance in the epiphysis of the distal femur in a young adult indicates:",
+   "options": [
+    "Giant cell tumour",
+    "Osteosarcoma",
+    "Simple bone cyst",
+    "Osteoid osteoma"
+   ],
+   "correct": 0,
+   "concept": "Giant cell tumour is an eccentric expansile lytic epiphyseal lesion with a narrow zone of transition abutting subchondral bone, giving a multiloculated soap-bubble look. It is locally aggressive with high recurrence.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_004",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "E",
+   "stem": "Multiple punched-out lytic skull lesions without marginal sclerosis are characteristic of:",
+   "options": [
+    "Multiple myeloma",
+    "Paget disease",
+    "Osteopetrosis",
+    "Fibrous dysplasia"
+   ],
+   "correct": 0,
+   "concept": "Myeloma is purely lytic with no osteoblastic reaction, so lesions have no sclerotic rim and bone scans are typically negative - hence skeletal survey rather than scintigraphy is used for staging.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_005",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "M",
+   "stem": "A sequestrum on radiograph in chronic osteomyelitis represents:",
+   "options": [
+    "Dead avascular bone within an involucrum of new bone",
+    "New bone formation",
+    "A tumour",
+    "A fracture callus"
+   ],
+   "correct": 0,
+   "concept": "The sequestrum is dense necrotic bone acting as a nidus for persistent infection, surrounded by the involucrum of reactive new bone with cloacae draining pus. Surgical removal is required for cure.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_006",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "M",
+   "stem": "Looser zones (pseudofractures) are characteristic of:",
+   "options": [
+    "Osteomalacia",
+    "Osteoporosis",
+    "Paget disease",
+    "Multiple myeloma"
+   ],
+   "correct": 0,
+   "concept": "Looser zones are transverse translucent bands with sclerotic margins at sites of stress - pubic rami, femoral neck, ribs and scapula - reflecting unmineralised osteoid, and are pathognomonic of osteomalacia.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_007",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "E",
+   "stem": "Bamboo spine on a lumbar radiograph indicates:",
+   "options": [
+    "Ankylosing spondylitis with syndesmophytes and ligamentous ossification",
+    "Osteoarthritis",
+    "Rheumatoid arthritis",
+    "Spinal tuberculosis"
+   ],
+   "correct": 0,
+   "concept": "Vertical syndesmophytes bridging vertebral bodies with ossification of spinal ligaments fuse the spine into a rigid bamboo-like column, preceded by bilateral symmetrical sacroiliitis which is the earliest sign.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_008",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "H",
+   "stem": "A rat-bite or pencil-in-cup deformity of the digits suggests:",
+   "options": [
+    "Psoriatic arthritis",
+    "Rheumatoid arthritis",
+    "Gout",
+    "Osteoarthritis"
+   ],
+   "correct": 0,
+   "concept": "Psoriatic arthritis causes both erosion and proliferation, producing pencil-in-cup deformity and arthritis mutilans with distal interphalangeal involvement, unlike rheumatoid arthritis which spares the DIP joints.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_009",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "H",
+   "stem": "A hair-on-end appearance of the skull vault is characteristic of:",
+   "options": [
+    "Thalassaemia major and other chronic haemolytic anaemias",
+    "Osteosarcoma",
+    "Paget disease",
+    "Meningioma"
+   ],
+   "correct": 0,
+   "concept": "Marrow hyperplasia widens the diploic space and thins the outer table, with vertical trabeculae producing the hair-on-end pattern, along with maxillary overgrowth giving chipmunk facies.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_SKL_010",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Skeletal radiology & classic bone signs",
+   "difficulty": "M",
+   "stem": "Subperiosteal bone resorption of the radial aspect of the middle phalanges is pathognomonic of:",
+   "options": [
+    "Hyperparathyroidism",
+    "Osteoporosis",
+    "Rickets",
+    "Scurvy"
+   ],
+   "correct": 0,
+   "concept": "Subperiosteal resorption, best seen on the radial border of the middle phalanges of the index and middle fingers, is the most specific radiological sign of hyperparathyroidism, with salt-and-pepper skull and brown tumours.",
+   "reference": "Sutton's Textbook of Radiology 8e, Musculoskeletal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_001",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "E",
+   "stem": "The initial investigation of choice in suspected acute stroke is:",
+   "options": [
+    "Non-contrast CT of the head to exclude haemorrhage",
+    "MRI with contrast",
+    "Carotid Doppler",
+    "Cerebral angiography"
+   ],
+   "correct": 0,
+   "concept": "Non-contrast CT rapidly distinguishes haemorrhagic from ischaemic stroke, which determines whether thrombolysis can be given. Early ischaemic changes may be subtle, while blood appears immediately hyperdense.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_002",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "M",
+   "stem": "A biconvex (lentiform) hyperdense collection that does not cross suture lines indicates:",
+   "options": [
+    "Extradural haematoma",
+    "Subdural haematoma",
+    "Subarachnoid haemorrhage",
+    "Intracerebral haemorrhage"
+   ],
+   "correct": 0,
+   "concept": "Extradural blood is limited by firm dural attachment at sutures, producing a lens shape, whereas subdural blood spreads freely across sutures in a crescent but is limited by dural reflections at the midline.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_003",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "M",
+   "stem": "Blood in the basal cisterns on non-contrast CT indicates:",
+   "options": [
+    "Subarachnoid haemorrhage",
+    "Extradural haematoma",
+    "Cerebral infarct",
+    "Hydrocephalus"
+   ],
+   "correct": 0,
+   "concept": "Aneurysmal subarachnoid haemorrhage fills the basal cisterns and sylvian fissures. If CT is negative but suspicion is high, lumbar puncture at 12 hours for xanthochromia is required, followed by CT angiography.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_004",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "E",
+   "stem": "MRI is superior to CT for imaging:",
+   "options": [
+    "Posterior fossa, brainstem and early ischaemia by diffusion-weighted imaging",
+    "Acute haemorrhage",
+    "Skull fractures",
+    "Calcification"
+   ],
+   "correct": 0,
+   "concept": "MRI avoids beam-hardening artefact in the posterior fossa and detects cytotoxic oedema within minutes on diffusion-weighted sequences. CT remains superior for acute blood, bone and calcification, and is faster.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_005",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "M",
+   "stem": "Multiple ring-enhancing lesions in an HIV-positive patient most likely represent:",
+   "options": [
+    "Cerebral toxoplasmosis",
+    "Glioblastoma",
+    "Meningioma",
+    "Cerebral infarct"
+   ],
+   "correct": 0,
+   "concept": "Toxoplasmosis typically gives multiple lesions in the basal ganglia and at the grey-white junction. Primary CNS lymphoma is usually solitary and periventricular; failure to respond to empirical anti-toxoplasma therapy prompts biopsy.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_006",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "M",
+   "stem": "A butterfly lesion crossing the corpus callosum with irregular ring enhancement suggests:",
+   "options": [
+    "Glioblastoma multiforme",
+    "Meningioma",
+    "Metastasis",
+    "Abscess"
+   ],
+   "correct": 0,
+   "concept": "Glioblastoma spreads across the corpus callosum giving the butterfly pattern, with central necrosis, irregular enhancement and marked vasogenic oedema. It is the commonest primary malignant brain tumour in adults.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_007",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "E",
+   "stem": "An extra-axial dural-based mass with homogeneous enhancement and a dural tail is characteristic of:",
+   "options": [
+    "Meningioma",
+    "Glioma",
+    "Metastasis",
+    "Abscess"
+   ],
+   "correct": 0,
+   "concept": "Meningiomas arise from arachnoid cap cells, are extra-axial with a broad dural base, enhance avidly and homogeneously, may calcify and cause hyperostosis of adjacent bone.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_008",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "H",
+   "stem": "Restricted diffusion on DWI with low ADC within a ring-enhancing lesion favours:",
+   "options": [
+    "Pyogenic brain abscess over necrotic tumour",
+    "Meningioma",
+    "Infarct only",
+    "Haemorrhage"
+   ],
+   "correct": 0,
+   "concept": "Viscous pus restricts water diffusion, whereas necrotic tumour does not, making DWI the key discriminator between abscess and cystic or necrotic neoplasm when enhancement patterns overlap.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_009",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "H",
+   "stem": "Periventricular calcification in a neonate suggests congenital infection with:",
+   "options": [
+    "Cytomegalovirus",
+    "Toxoplasma",
+    "Rubella",
+    "Syphilis"
+   ],
+   "correct": 0,
+   "concept": "CMV causes periventricular calcification with microcephaly, while toxoplasmosis causes scattered diffuse intracranial calcification with hydrocephalus and chorioretinitis - a useful distinguishing pattern.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_RD_CNS_010",
+   "part": "B",
+   "subject": "Radiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "CNS imaging: CT/MRI in stroke, trauma & space-occupying lesions",
+   "difficulty": "M",
+   "stem": "The hyperdense middle cerebral artery sign on non-contrast CT indicates:",
+   "options": [
+    "Acute thrombus within the vessel, an early sign of infarction",
+    "Haemorrhage",
+    "Calcification",
+    "Normal finding"
+   ],
+   "correct": 0,
+   "concept": "A hyperdense artery represents fresh intraluminal thrombus and is one of the earliest CT signs of ischaemic stroke, appearing before parenchymal changes such as loss of grey-white differentiation and insular ribbon sign.",
+   "reference": "Sutton's Textbook of Radiology 8e, Neuroradiology",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

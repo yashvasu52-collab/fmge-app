@@ -1,0 +1,263 @@
+[
+ {
+  "ans": 1.0,
+  "stem": 0.67,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Nutritional requirements & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2025JANP1_136",
+  "b": "Q_PYQ_FMGE_2025JANP2_129",
+  "answer": "Fluorosis"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.57,
+  "subject": "Microbiology",
+  "topic": "Immunoglobulins, complement, hypersensitivity",
+  "a": "Q_PYQ_FMGE_2025JANP1_002",
+  "b": "Q_PYQ_FMGE_2025JANP2_061",
+  "answer": "Bruton syndrome"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.5,
+  "subject": "PSM (Community Medicine)",
+  "topic": "National immunization schedule",
+  "a": "Q_PYQ_FMGE_2025JANP2_078",
+  "b": "Q_PYQ_FMGE_2025JANP2_079",
+  "answer": "Varicella"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.48,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Water/waste, biomedical waste, vital statistics",
+  "a": "Q_c1_101",
+  "b": "Q_h3b_035",
+  "answer": "White (translucent) puncture-proof container"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.45,
+  "subject": "Microbiology",
+  "topic": "Immunoglobulins, complement, hypersensitivity",
+  "a": "Q_PYQ_FMGE_2025JULP2_027",
+  "b": "Q_PYQ_FMGE_2026JAN_012",
+  "answer": "IgM"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.4,
+  "subject": "Anatomy",
+  "topic": "Cranial nerves & nuclei",
+  "a": "Q_PYQ_FMGE_2025JANP1_005",
+  "b": "Q_PYQ_FMGE_2025JANP2_012",
+  "answer": "Trigeminal nerve"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.33,
+  "subject": "Pathology",
+  "topic": "Acute & chronic inflammation, healing/repair",
+  "a": "Q_c1_004",
+  "b": "Q_h3a_005",
+  "answer": "Interferon-gamma"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.33,
+  "subject": "Medicine",
+  "topic": "Heart failure & valvular disease",
+  "a": "Q_c1_069",
+  "b": "Q_MED_HFV_003",
+  "answer": "Mitral stenosis"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.33,
+  "subject": "Anatomy",
+  "topic": "Lower limb: femoral/sciatic nerve, foot drop",
+  "a": "Q_PYQ_FMGE_2025JULP2_007",
+  "b": "Q_PYQ_FMGE_2026JUN_010",
+  "answer": "Common peroneal nerve"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.31,
+  "subject": "Medicine",
+  "topic": "AKI/CKD & electrolyte/acid-base disorders",
+  "a": "Q_PYQ_FMGE_2025JANP2_059",
+  "b": "Q_PYQ_FMGE_2025JANP2_127",
+  "answer": "Metabolic alkalosis"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.3,
+  "subject": "Medicine",
+  "topic": "Adrenal disorders: Cushing's, Conn's, Addison's",
+  "a": "Q_h3b_008",
+  "b": "Q_MED_ADC_001",
+  "answer": "Overnight 1 mg dexamethasone suppression test"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.29,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_024",
+  "b": "Q_PYQ_FMGE_2026JAN_046",
+  "answer": "Vitamin A"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.27,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Menstrual disorders, PCOS, fibroids",
+  "a": "Q_PYQ_FMGE_2025JANP1_127",
+  "b": "Q_PYQ_FMGE_2025JANP2_068",
+  "answer": "Vaginal"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.27,
+  "subject": "Surgery",
+  "topic": "Acute abdomen, appendicitis, obstruction",
+  "a": "Q_PYQ_FMGE_2025JANP2_082",
+  "b": "Q_C_003",
+  "answer": "Sigmoid Volvulus"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.26,
+  "subject": "Microbiology",
+  "topic": "Medically important fungi",
+  "a": "Q_PYQ_FMGE_2025JANP2_008",
+  "b": "Q_h3a_030",
+  "answer": "Cryptococcus neoformans"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.26,
+  "subject": "Ophthalmology",
+  "topic": "Diabetic retinopathy, retinal detachment",
+  "a": "Q_PYQ_FMGE_2025JULP1_052",
+  "b": "Q_S_017",
+  "answer": "Rhegmatogenous retinal detachment"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.25,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_035",
+  "b": "Q_PYQ_FMGE_2026JAN_046",
+  "answer": "Vitamin K"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.23,
+  "subject": "Psychiatry",
+  "topic": "Anxiety disorders & substance use",
+  "a": "Q_PYQ_FMGE_2025JANP2_026",
+  "b": "Q_PYQ_FMGE_2025JULP2_014",
+  "answer": "Delirium tremens"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.23,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2025JANP1_052",
+  "b": "Q_A_027",
+  "answer": "Vitamin C"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.22,
+  "subject": "PSM (Community Medicine)",
+  "topic": "Study designs; incidence vs prevalence",
+  "a": "Q_c1_086",
+  "b": "Q_h3b_038",
+  "answer": "Case-control study; odds ratio"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.22,
+  "subject": "Biochemistry",
+  "topic": "Vitamins & deficiency diseases",
+  "a": "Q_PYQ_FMGE_2026JAN_024",
+  "b": "Q_PYQ_FMGE_2026JAN_035",
+  "answer": "Vitamin A"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.21,
+  "subject": "Pathology",
+  "topic": "Bleeding & coagulation disorders",
+  "a": "Q_c1_017",
+  "b": "Q_PYQ_FMGE_2025JULP2_043",
+  "answer": "Hemophilia A"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.21,
+  "subject": "Medicine",
+  "topic": "AKI/CKD & electrolyte/acid-base disorders",
+  "a": "Q_PYQ_FMGE_2025JANP2_006",
+  "b": "Q_PYQ_FMGE_2025JANP2_010",
+  "answer": "Hypokalemia"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.21,
+  "subject": "Orthopedics",
+  "topic": "Bone tumours; CTEV, DDH",
+  "a": "Q_PYQ_INICET_2025MAY_016",
+  "b": "Q_S_005",
+  "answer": "Osteosarcoma"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.2,
+  "subject": "Pediatrics",
+  "topic": "PEM, breastfeeding, micronutrients",
+  "a": "Q_PYQ_FMGE_2025JANP1_077",
+  "b": "Q_PYQ_FMGE_2025JANP2_111",
+  "answer": "Rickets"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.2,
+  "subject": "Obstetrics & Gynaecology",
+  "topic": "Abortion, ectopic pregnancy, recurrent pregnancy loss",
+  "a": "Q_PYQ_FMGE_2025JULP1_078",
+  "b": "Q_OBG_AEP_001",
+  "answer": "Threatened abortion"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.2,
+  "subject": "Medicine",
+  "topic": "Adrenal disorders: Cushing's, Conn's, Addison's",
+  "a": "Q_PYQ_FMGE_2025JANP2_036",
+  "b": "Q_PYQ_FMGE_2026JAN_002",
+  "answer": "Conn's Syndrome"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.19,
+  "subject": "Microbiology",
+  "topic": "Sterilization, disinfection, stains, culture media",
+  "a": "Q_PYQ_FMGE_2026JUN_031",
+  "b": "Q_h3a_027",
+  "answer": "Geobacillus stearothermophilus"
+ },
+ {
+  "ans": 1.0,
+  "stem": 0.19,
+  "subject": "PSM (Community Medicine)",
+  "topic": "National health programs (NHM, NTEP, etc.)",
+  "a": "Q_PYQ_FMGE_2025JULP1_015",
+  "b": "Q_PYQ_FMGE_2025JULP1_056",
+  "answer": "Tele-MANAS"
+ }
+]

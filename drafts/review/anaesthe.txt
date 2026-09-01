@@ -1,0 +1,407 @@
+
+=== Anaesthesia / CPR / BLS-ACLS basics
+Q_GEN_ANAES_CPR_001 [E] During adult basic life support, what is the currently recommended depth of chest compressions?
+    A. 2-3 cm
+    B. 3-4 cm
+    C. At least 7 cm
+   *D. At least 5 cm but not exceeding 6 cm (about 2 inches)
+   key=D ref=AHA Guidelines for CPR & ECC 2020 — Adult Basic Life Support
+   concept: Current AHA guidelines specify an adult chest-compression depth of at least 5 cm (2 inches) but not more than 6 cm. Too-shallow compressions fail to generate adequate coronary and cerebral perfusion, while excessive depth (>6 cm) increases injury such as rib and sternal fractures without added haemodynamic benefit. 2-4 cm is inadequate and 'at least 7 cm' is excessive.
+Q_GEN_ANAES_CPR_002 [M] Allowing complete chest recoil between compressions during CPR is emphasised primarily because it:
+    A. Prevents rib fractures during compressions
+   *B. Lowers intrathoracic pressure so blood returns to the heart, improving cardiac output and coronary perfusion
+    C. Reduces the number of ventilations required
+    D. Increases intrathoracic pressure to push blood forward
+   key=B ref=AHA Guidelines for CPR & ECC 2020 — High-Quality CPR Components
+   concept: Complete chest recoil lets the thorax re-expand, dropping intrathoracic pressure so blood returns to the heart (venous return); this refills the ventricles and sustains the coronary perfusion pressure that drives ROSC. Leaning on the chest prevents recoil, raises intrathoracic pressure, cuts venous return and worsens outcomes. It does not primarily prevent fractures or reduce ventilation need.
+Q_GEN_ANAES_CPR_003 [H] Chest compression fraction (the proportion of arrest time spent actively compressing) should ideally be maintained at a minimum of:
+    A. At least 20%
+    B. At least 40%
+   *C. At least 60%
+    D. Exactly 100%
+   key=C ref=AHA Guidelines for CPR & ECC 2020 — Chest Compression Fraction
+   concept: Chest compression fraction (CCF) measures the share of resuscitation time spent compressing. AHA recommends a CCF of at least 60%, ideally greater than 80%, achieved by minimising pauses for rhythm checks, ventilation and defibrillation. Higher CCF correlates with ROSC and survival. 20-40% reflects excessive interruptions, and 100% is unattainable because brief pauses are unavoidable.
+Q_GEN_ANAES_CPR_004 [M] In a two-rescuer adult resuscitation, how often should the rescuer performing chest compressions be rotated?
+    A. Every 30 seconds
+   *B. Every 2 minutes
+    C. Every 5 minutes
+    D. Only when the rescuer feels visibly fatigued
+   key=B ref=AHA Guidelines for CPR & ECC 2020 — Adult BLS
+   concept: Rescuers should rotate the compressor role every 2 minutes (or sooner if fatigued), coinciding with the rhythm-check interval, because compression quality (depth and rate) deteriorates measurably within 1-2 minutes even before the rescuer perceives fatigue. The switch should take under 5 seconds to preserve compression fraction. Waiting for visible fatigue is too late and lowers quality.
+Q_GEN_ANAES_CPR_005 [M] Why is over-ventilation (excessive rate or volume) considered harmful during cardiopulmonary resuscitation?
+   *A. It raises intrathoracic pressure, reducing venous return, cardiac output and coronary perfusion
+    B. It causes hypocapnia but has no haemodynamic effect
+    C. It improves coronary perfusion and should be encouraged
+    D. It has no measurable effect on outcomes
+   key=A ref=AHA Guidelines for CPR & ECC 2020 — Ventilation During CPR
+   concept: Excessive ventilation, whether too fast or too forceful, is harmful during CPR: it raises intrathoracic pressure, which impedes venous return to the chest, lowering cardiac output and coronary perfusion pressure and reducing survival. It also causes gastric insufflation and aspiration risk. Hence AHA stresses avoiding hyperventilation and delivering only the recommended rate and tidal volume.
+Q_GEN_ANAES_CPR_006 [M] When two healthcare rescuers are performing CPR on a child, what compression-to-ventilation ratio should be used?
+    A. 30:2
+    B. 5:1
+    C. 3:1
+   *D. 15:2
+   key=D ref=AHA Guidelines for CPR & ECC 2020 — Pediatric Basic Life Support
+   concept: For paediatric BLS, a lone rescuer uses 30:2, but when two rescuers are present the compression-to-ventilation ratio becomes 15:2 to provide more frequent ventilation, reflecting that hypoxic/respiratory causes predominate in paediatric arrest. 30:2 is the single-rescuer/adult ratio, 3:1 is used in neonatal resuscitation, and 5:1 is obsolete.
+Q_GEN_ANAES_CPR_007 [M] For chest compressions on an infant when two rescuers are present, the preferred technique is:
+    A. Heel of one hand on the sternum
+    B. Two hands, one over the other
+    C. Two-finger technique regardless of rescuer number
+   *D. Two-thumb encircling-hands technique
+   key=D ref=AHA Guidelines for CPR & ECC 2020 — Infant CPR Technique
+   concept: For an infant with two rescuers, the two-thumb encircling-hands technique is preferred: thumbs on the lower sternum with fingers encircling the thorax. It generates higher, more consistent compression pressures and better coronary perfusion than the two-finger technique, which a lone rescuer uses. Heel-of-one-hand and two-hand methods are reserved for older children and adults.
+Q_GEN_ANAES_CPR_008 [E] Where on the chest should compressions be delivered in an infant?
+   *A. Lower half of the sternum, just below the inter-nipple line
+    B. Upper third of the sternum
+    C. Over the xiphoid process
+    D. Left side of the chest over the cardiac apex
+   key=A ref=AHA Guidelines for CPR & ECC 2020 — Infant Basic Life Support
+   concept: Infant compressions are delivered over the lower half of the sternum, just below the inter-nipple line. The xiphoid must be avoided to prevent hepatic and abdominal injury, and the upper sternum overlies the great vessels rather than the ventricles. Correct hand or finger positioning is essential for generating effective cardiac output during resuscitation.
+Q_GEN_ANAES_CPR_009 [E] Which of the following cardiac arrest rhythms is a shockable rhythm?
+    A. Asystole
+   *B. Ventricular fibrillation
+    C. Pulseless electrical activity
+    D. Sinus bradycardia
+   key=B ref=AHA Guidelines for CPR & ECC 2020 — Adult Cardiac Arrest Algorithm
+   concept: Shockable rhythms are ventricular fibrillation (VF) and pulseless ventricular tachycardia (pVT), which respond to defibrillation. Asystole and pulseless electrical activity (PEA) are non-shockable and are treated with CPR plus epinephrine and correction of reversible causes. Sinus bradycardia is a perfusing rhythm, not a cardiac-arrest rhythm, and is not defibrillated.
+Q_GEN_ANAES_CPR_010 [M] What is the recommended initial energy for defibrillation using a biphasic defibrillator in an adult?
+    A. 20-50 J
+    B. 360 J
+   *C. 120-200 J (manufacturer-recommended)
+    D. 500 J
+   key=C ref=AHA Guidelines for CPR & ECC 2020 — Defibrillation
+   concept: For biphasic defibrillators the initial adult shock is the manufacturer-recommended energy, typically 120-200 J; if the recommended dose is unknown, use the maximum available. Subsequent shocks are equal or higher. 20-50 J is subtherapeutic, and 360 J or 500 J correspond to monophasic dosing rather than the standard biphasic initial dose.
+Q_GEN_ANAES_CPR_011 [M] When using a monophasic defibrillator in an adult, the recommended shock energy is:
+    A. 150 J
+    B. 200 J
+    C. 300 J
+   *D. 360 J
+   key=D ref=AHA Guidelines for CPR & ECC 2020 — Defibrillation Energy Doses
+   concept: Monophasic defibrillators deliver a single-polarity current and require higher energy: the standard adult dose is 360 J for all shocks. Biphasic devices achieve equivalent or better defibrillation at lower energy (120-200 J) because current flows in both directions. 150-300 J are biphasic-range or subtherapeutic values for a monophasic device and are not recommended.
+Q_GEN_ANAES_CPR_012 [E] What is the recommended dose and interval for epinephrine (adrenaline) during adult cardiac arrest?
+   *A. 1 mg IV/IO every 3-5 minutes
+    B. 3 mg IV every 10 minutes
+    C. 0.1 mg IV every 2 minutes
+    D. 10 mg IV as a single dose
+   key=A ref=AHA Guidelines for CPR & ECC 2020 — ACLS Pharmacology
+   concept: In adult cardiac arrest, epinephrine 1 mg IV/IO is given every 3-5 minutes; its alpha-adrenergic vasoconstriction raises aortic diastolic pressure and coronary perfusion pressure during CPR. High-dose or single large boluses are not recommended and may worsen outcomes, and the 0.1 mg dose corresponds to symptomatic bradycardia or anaphylaxis regimens, not arrest.
+Q_GEN_ANAES_CPR_013 [H] During resuscitation of a patient in ventricular fibrillation, when should the first dose of epinephrine be administered?
+    A. Immediately, before the first shock
+   *B. After the second shock has failed (during CPR following the second defibrillation)
+    C. Only after at least five shocks have been delivered
+    D. Epinephrine is contraindicated in ventricular fibrillation
+   key=B ref=AHA Guidelines for CPR & ECC 2020 — Adult Cardiac Arrest Algorithm
+   concept: Drug timing depends on the rhythm branch. For a shockable rhythm (VF/pVT), defibrillation is prioritised; epinephrine is given after the second shock fails, i.e. during CPR following the second defibrillation, not before the first shock. For non-shockable rhythms (asystole/PEA) epinephrine is given as early as possible. Epinephrine is not contraindicated in VF.
+Q_GEN_ANAES_CPR_014 [M] What is the first-dose regimen of amiodarone for shock-refractory ventricular fibrillation/pulseless VT in an adult?
+   *A. 300 mg IV/IO bolus, may repeat 150 mg
+    B. 150 mg IV followed by 300 mg IV
+    C. 50 mg IV infusion only
+    D. 5 mg/kg infused over 1 hour
+   key=A ref=AHA Guidelines for CPR & ECC 2020 — Antiarrhythmics in Cardiac Arrest
+   concept: Amiodarone is the first-line antiarrhythmic for shock-refractory VF/pVT: 300 mg IV/IO bolus after the third shock, with a repeat dose of 150 mg if needed. It prolongs action-potential duration and refractoriness. 'Reversed' dosing (150 then 300), infusion-only, or weight-based 5 mg/kg-over-an-hour regimens are incorrect for the arrest bolus.
+Q_GEN_ANAES_CPR_015 [H] Which statement about atropine use in cardiac arrest is correct?
+    A. Atropine 1 mg every 3 minutes is first-line for asystole
+    B. Atropine is first-line for pulseless ventricular tachycardia
+   *C. Atropine is no longer recommended for routine use in asystole/PEA
+    D. Atropine reliably converts ventricular fibrillation
+   key=C ref=AHA Guidelines for CPR & ECC 2020 — ACLS Updates
+   concept: Atropine was removed from the asystole/PEA algorithm in 2010 because no benefit was demonstrated; it is no longer recommended for routine use in cardiac arrest. Atropine remains useful for symptomatic bradycardia (0.5 mg boluses, max 3 mg). It has no role in pulseless VT and cannot convert VF, which requires immediate defibrillation.
+Q_GEN_ANAES_CPR_016 [M] A monitored patient develops polymorphic ventricular tachycardia (torsades de pointes) with a prolonged QT interval. Which drug is specifically indicated?
+    A. Adenosine
+    B. Calcium gluconate
+    C. Amiodarone bolus
+   *D. Magnesium sulfate
+   key=D ref=AHA Guidelines for CPR & ECC 2020 — Torsades de Pointes Management
+   concept: Torsades de pointes (polymorphic VT on a background of prolonged QT) is treated with IV magnesium sulfate (1-2 g), which stabilises the myocardium, together with correction of the underlying QT-prolonging cause. Adenosine is for SVT, calcium is for hyperkalaemia or calcium-channel-blocker toxicity, and amiodarone can further prolong the QT and worsen torsades.
+Q_GEN_ANAES_CPR_017 [H] In refractory VF/pulseless VT, if amiodarone is unavailable, which antiarrhythmic is an acceptable alternative?
+    A. Procainamide 500 mg bolus
+   *B. Lidocaine 1-1.5 mg/kg IV/IO
+    C. Verapamil 5 mg IV
+    D. Digoxin
+   key=B ref=AHA Guidelines for CPR & ECC 2020 — Antiarrhythmics in Cardiac Arrest
+   concept: Lidocaine (1-1.5 mg/kg IV/IO, repeat 0.5-0.75 mg/kg) is an acceptable alternative to amiodarone for shock-refractory VF/pVT when amiodarone is unavailable. Procainamide is not used as an arrest bolus, verapamil (a calcium-channel blocker) is dangerous in wide-complex VT and can precipitate collapse, and digoxin has no role in defibrillation-refractory arrest.
+Q_GEN_ANAES_CPR_018 [M] Which of the following is one of the reversible causes of cardiac arrest classified among the '5 Ts'?
+   *A. Tension pneumothorax
+    B. Hypoglycaemia
+    C. Hypertension
+    D. Tachycardia
+   key=A ref=AHA Guidelines for CPR & ECC 2020 — Reversible Causes (Hs and Ts)
+   concept: The reversible causes of arrest are grouped as 5 Hs (Hypoxia, Hypovolaemia, Hydrogen ion/acidosis, Hypo-/Hyperkalaemia, Hypothermia) and 5 Ts (Tension pneumothorax, Tamponade [cardiac], Toxins, Thrombosis-pulmonary, Thrombosis-coronary). Tension pneumothorax is a classic 'T'. Hypoglycaemia, hypertension and tachycardia are not part of this mnemonic.
+Q_GEN_ANAES_CPR_019 [M] Once an advanced airway is in place during adult CPR, how should compressions and ventilations be delivered?
+    A. Continue pausing compressions for 30:2 cycles
+    B. 1 breath every 3 seconds with paused compressions
+   *C. Continuous compressions with 1 breath every 6 seconds (10 breaths/min)
+    D. Continuous compressions with 20 breaths/min
+   key=C ref=AHA Guidelines for CPR & ECC 2020 — Ventilation with an Advanced Airway
+   concept: Once an advanced airway is placed, compressions become continuous (no 30:2 pause) and ventilations are decoupled at 1 breath every 6 seconds (10 breaths/min). Faster rates cause hyperventilation and haemodynamic compromise, while continuing 30:2 or ventilating at 20/min is incorrect after intubation or supraglottic-device placement. This maximises the compression fraction.
+Q_GEN_ANAES_CPR_020 [H] During CPR with continuous waveform capnography, a sudden sustained rise in end-tidal CO2 to approximately 35-40 mmHg most likely indicates:
+   *A. Return of spontaneous circulation (ROSC)
+    B. Oesophageal intubation
+    C. Tension pneumothorax
+    D. Hyperventilation
+   key=A ref=AHA Guidelines for CPR & ECC 2020 — Capnography During CPR
+   concept: Continuous waveform capnography monitors CPR quality and detects ROSC: an abrupt, sustained rise in end-tidal CO2, often to about 35-40 mmHg, reflects restored pulmonary blood flow and signals ROSC. Persistently low EtCO2 (<10 mmHg) after 20 minutes suggests a poor prognosis. A sudden fall toward zero indicates tube dislodgement or oesophageal placement, not ROSC.
+Q_GEN_ANAES_CPR_021 [H] In targeted temperature management after resuscitation of a comatose adult, the recommended target temperature range is:
+    A. 28-30 °C
+   *B. 32-36 °C, maintained for at least 24 hours
+    C. 37-38 °C
+    D. 39-40 °C
+   key=B ref=AHA Guidelines for CPR & ECC 2020 — Post-Cardiac-Arrest Care
+   concept: Targeted temperature management for comatose adults after ROSC involves selecting and holding a constant target between 32 °C and 36 °C for at least 24 hours, followed by active fever prevention, to improve neurological outcome. Deep hypothermia (28-30 °C) is not advised because of arrhythmia and coagulopathy risk, and normothermia/hyperthermia (37-40 °C) worsens brain injury.
+Q_GEN_ANAES_CPR_022 [H] Regarding oxygen therapy in the immediate post-ROSC period, the correct approach is to:
+    A. Keep FiO2 at 100% for the first 24 hours
+    B. Target an SpO2 of 100% at all times
+    C. Target a PaO2 above 300 mmHg
+   *D. Titrate oxygen to maintain SpO2 92-98%, avoiding hyperoxia
+   key=D ref=AHA Guidelines for CPR & ECC 2020 — Oxygenation After ROSC
+   concept: After ROSC, 100% oxygen should be weaned; hyperoxia (excess PaO2) promotes oxidative reperfusion injury and worsens outcome. Oxygen is titrated to maintain SpO2 in the 92-98% range, avoiding both hypoxia and hyperoxia. Targeting SpO2 of 100%, a PaO2 above 300 mmHg, or a fixed FiO2 of 1.0 for 24 hours is harmful and not recommended.
+Q_GEN_ANAES_CPR_023 [E] A conscious adult in a restaurant suddenly clutches the throat and cannot speak or cough. What is the immediate management?
+    A. Perform a blind finger sweep
+    B. Lie the patient down and give back slaps only
+   *C. Abdominal thrusts (Heimlich manoeuvre)
+    D. Immediate cricothyroidotomy
+   key=C ref=AHA Guidelines for CPR & ECC 2020 — Foreign-Body Airway Obstruction
+   concept: A conscious adult with complete foreign-body airway obstruction (unable to speak, cough or breathe) is treated with abdominal thrusts (Heimlich manoeuvre) until the object clears or the victim becomes unconscious, at which point CPR is started. Blind finger sweeps can push the object deeper and are discouraged, and an emergency surgical airway is a last resort, not first-line.
+Q_GEN_ANAES_CPR_024 [M] A 6-month-old infant is choking on a foreign body but is still conscious. The correct sequence of manoeuvres is:
+    A. Abdominal thrusts (Heimlich manoeuvre)
+   *B. Alternating 5 back blows with 5 chest thrusts
+    C. Blind finger sweeps to remove the object
+    D. Heimlich manoeuvre performed in the supine position
+   key=B ref=AHA Guidelines for CPR & ECC 2020 — Infant Foreign-Body Airway Obstruction
+   concept: In a choking conscious infant, alternate 5 back blows (between the scapulae, head-down) with 5 chest thrusts, repeating until relief or unconsciousness. Abdominal thrusts (Heimlich) are contraindicated in infants because the large, unprotected liver makes visceral injury likely. Blind finger sweeps are avoided; an object is removed only if it is directly visible.
+Q_GEN_ANAES_CPR_025 [H] During neonatal resuscitation, the recommended chest compression-to-ventilation ratio is:
+    A. 30:2
+    B. 15:2
+   *C. 3:1 (about 90 compressions and 30 breaths per minute)
+    D. 5:1
+   key=C ref=AHA/AAP Neonatal Resuscitation Program Guidelines 2020
+   concept: Neonatal resuscitation uses a 3:1 compression-to-ventilation ratio, delivering about 90 compressions and 30 breaths (120 events) per minute, because neonatal arrest is almost always asphyxial and effective ventilation is the priority. 30:2 and 15:2 are paediatric/adult ratios, and 5:1 is an obsolete ratio no longer used in any age group.
+Q_GEN_ANAES_CPR_026 [H] A woman at 34 weeks gestation suffers cardiac arrest. Which modification to standard resuscitation is appropriate?
+   *A. Manual left uterine displacement, and perimortem caesarean if no ROSC by ~4 minutes (aim to deliver by 5 minutes)
+    B. Place the patient fully prone during compressions
+    C. Withhold defibrillation because it is unsafe in pregnancy
+    D. Reduce compression depth in the third trimester
+   key=A ref=AHA Guidelines for CPR & ECC 2020 — Cardiac Arrest in Pregnancy
+   concept: Maternal cardiac-arrest modifications include continuous manual left uterine displacement to relieve aortocaval compression by the gravid uterus, and preparing for perimortem caesarean delivery if there is no ROSC by about 4 minutes, aiming for delivery by 5 minutes, which improves both maternal and fetal outcomes. Compression depth is standard, the patient is not placed prone, and defibrillation is safe in pregnancy.
+Q_S_039 [E] During adult basic life support for an unresponsive, pulseless patient (before an advanced airway is placed), the recommended chest-compression rate and compression-to-ventilation ratio are:
+    A. 60-80 per minute, ratio 15:2
+   *B. 100-120 per minute, ratio 30:2
+    C. 140-160 per minute, ratio 5:1
+    D. As fast as possible, with no ventilations
+   key=B ref=AHA 2025 BLS guidelines (verified 2026-07-04)
+   concept: High-quality adult CPR uses compressions at 100-120 per minute to a depth of 5-6 cm (2-2.4 inches) with full recoil, and a 30:2 compression-to-ventilation ratio (single or two rescuers) until an advanced airway is placed. Interruptions should be minimised.
+Q_S_040 [M] During an adult cardiac arrest, a rhythm check shows ventricular fibrillation. What is the single most important immediate intervention?
+   *A. Immediate defibrillation (an unsynchronised shock)
+    B. Synchronised cardioversion
+    C. Intravenous atropine
+    D. Carotid sinus massage
+   key=A ref=AHA 2025 ACLS guidelines
+   concept: Ventricular fibrillation and pulseless VT are 'shockable' rhythms - the priority is immediate defibrillation (an unsynchronised shock) followed by resumption of CPR; adrenaline 1 mg IV is given every 3-5 minutes and amiodarone after the third shock. Synchronised cardioversion is for unstable tachyarrhythmias with a pulse; atropine is used for symptomatic bradycardia.
+
+=== Anaesthesia / Local anaesthetics (max doses, toxicity)
+Q_GEN_ANAES_LA_001 [E] Which of the following local anaesthetics has an ESTER linkage?
+    A. Lignocaine
+   *B. Procaine
+    C. Bupivacaine
+    D. Ropivacaine
+   key=B ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Local Anesthetics
+   concept: Local anaesthetics are classified by their intermediate linkage. Esters include procaine, chloroprocaine, tetracaine, cocaine and benzocaine (a useful mnemonic is that esters have only one letter 'i' in the drug name before -caine). Amides include lignocaine, bupivacaine, ropivacaine, prilocaine and mepivacaine (they carry two 'i's). This matters clinically: esters are hydrolysed by plasma cholinesterase and their PABA metabolite causes true allergy, whereas amides are metabolised in the liver and rarely cause allergy.
+Q_GEN_ANAES_LA_002 [M] Amide local anaesthetics such as lignocaine and bupivacaine are primarily metabolised by:
+    A. Plasma pseudocholinesterase
+    B. Renal excretion in unchanged form
+   *C. Hepatic microsomal enzymes (cytochrome P450 / amidases)
+    D. Erythrocyte esterases
+   key=C ref=Stoelting's Pharmacology & Physiology in Anesthetic Practice, 5th ed — Local Anesthetics
+   concept: Amide local anaesthetics undergo hepatic metabolism by cytochrome P450 microsomal enzymes and amidases, so their clearance is markedly reduced in severe hepatic disease, low hepatic blood flow (e.g. heart failure, beta-blockade) or the neonate, raising the risk of toxicity. This contrasts with ester agents, which are rapidly hydrolysed by plasma cholinesterase. Only a negligible fraction is excreted unchanged by the kidney, so renal excretion of parent drug is not the main route.
+Q_GEN_ANAES_LA_003 [M] Ester local anaesthetics are rapidly broken down in the plasma by:
+   *A. Plasma cholinesterase (pseudocholinesterase)
+    B. Hepatic CYP3A4
+    C. Pulmonary endothelial peptidases
+    D. Renal tubular secretion
+   key=A ref=Katzung Basic & Clinical Pharmacology, 15th ed — Local Anesthetics
+   concept: Ester local anaesthetics are hydrolysed by plasma (pseudo)cholinesterase, giving them a very short plasma half-life (procaine ~1 minute). A key by-product is para-aminobenzoic acid (PABA), which accounts for the allergic potential of esters. Patients with atypical or deficient plasma cholinesterase (as also affects suxamethonium) clear ester agents slowly and are at higher risk of systemic toxicity. Amides, by contrast, are metabolised in the liver, not by plasma cholinesterase.
+Q_GEN_ANAES_LA_004 [M] The property of a local anaesthetic that primarily determines its SPEED OF ONSET is its:
+    A. Lipid solubility
+    B. Degree of protein binding
+    C. Molecular weight
+   *D. pKa
+   key=D ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Local Anesthetics
+   concept: Onset depends chiefly on pKa, which sets the proportion of drug in the un-ionized (lipid-soluble) form at physiological pH. Agents with a pKa closer to 7.4 (e.g. lignocaine pKa ~7.7–7.9) have a larger un-ionized fraction, cross the nerve membrane faster and act quicker than those with a higher pKa (bupivacaine ~8.1). By convention lipid solubility governs potency and protein binding governs duration. Chloroprocaine is the classic exception: despite a high pKa it acts fast because it is used in high concentration.
+Q_GEN_ANAES_LA_005 [H] The longer duration of action of bupivacaine compared with lignocaine is best explained by its greater:
+    A. pKa
+   *B. Plasma protein binding
+    C. Water solubility
+    D. Rate of hepatic metabolism
+   key=B ref=Miller's Anesthesia, 9th ed — Pharmacology of Local Anesthetics
+   concept: Duration of action correlates most closely with protein binding. Bupivacaine is about 95% protein-bound versus roughly 65% for lignocaine; the drug bound at the sodium-channel receptor dissociates slowly, so the block lasts longer. A higher pKa would if anything slow onset, not prolong action, and greater water solubility or faster metabolism would shorten duration. Adding a vasoconstrictor further prolongs a block by slowing systemic absorption from the injection site.
+Q_GEN_ANAES_LA_006 [M] The POTENCY of a local anaesthetic correlates best with its:
+   *A. Lipid solubility
+    B. pKa
+    C. Protein binding
+    D. Molecular weight
+   key=A ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Local Anesthetics
+   concept: Potency parallels lipid solubility: highly lipid-soluble agents (bupivacaine, tetracaine, etidocaine) penetrate the lipid nerve membrane readily and are effective at low concentrations, hence highly potent. In the standard framework pKa determines onset and protein binding determines duration, so those are not the primary correlates of potency. Molecular weight influences diffusion but is not the key determinant of intrinsic potency among clinical agents.
+Q_GEN_ANAES_LA_007 [E] The maximum safe dose of PLAIN lignocaine (without adrenaline) for infiltration in an adult is approximately:
+    A. 1 mg/kg
+    B. 2 mg/kg
+   *C. 3 mg/kg
+    D. 7 mg/kg
+   key=C ref=Ajay Yadav, Short Textbook of Anaesthesia, 7th ed — Local Anaesthetics
+   concept: Plain lignocaine has a maximum dose of about 3 mg/kg (some texts quote up to 4.5 mg/kg), corresponding to roughly 200–300 mg in an average adult. Adding adrenaline slows absorption and raises the ceiling to about 7 mg/kg (up to ~500 mg). Exceeding these limits risks local anaesthetic systemic toxicity (LAST). The 7 mg/kg figure specifically refers to the adrenaline-containing solution, not plain lignocaine.
+Q_GEN_ANAES_LA_008 [M] The generally accepted maximum safe dose of bupivacaine in an adult is approximately:
+    A. 1 mg/kg
+   *B. 2 mg/kg
+    C. 3 mg/kg
+    D. 4.5 mg/kg
+   key=B ref=Lee's Synopsis of Anaesthesia, 13th ed — Local Anaesthetic Agents
+   concept: The maximum dose of bupivacaine is about 2 mg/kg (roughly 150 mg in an adult), and unlike lignocaine, adding adrenaline increases this ceiling only marginally because bupivacaine's absorption is less adrenaline-dependent. The therapeutic margin is narrow because bupivacaine is intensely cardiotoxic, so accidental overdose or intravascular injection can cause refractory cardiac arrest. This is why dosing discipline and aspiration before injection are emphasised.
+Q_GEN_ANAES_LA_009 [E] Adrenaline is commonly added to a local anaesthetic solution mainly to:
+    A. Increase the pH and hasten onset
+    B. Lower the pKa of the drug
+    C. Provide additional analgesia by a central action
+   *D. Cause local vasoconstriction, prolonging the block and reducing systemic absorption
+   key=D ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Local Anesthetics (Additives)
+   concept: Adrenaline produces local vasoconstriction, which slows systemic absorption of the local anaesthetic. This prolongs the duration of the block, lowers the peak plasma concentration (reducing systemic toxicity), permits use of a larger total dose and reduces surgical bleeding in the field. A sudden tachycardia after injection can also act as an early marker of accidental intravascular placement. It does not raise pH, alter pKa, or provide any central analgesic effect.
+Q_GEN_ANAES_LA_010 [E] Adrenaline-containing local anaesthetic must be AVOIDED when performing a block of the:
+   *A. Fingers, toes, penis and ear (end-artery territories)
+    B. Anterior abdominal wall
+    C. Scalp
+    D. Thigh
+   key=A ref=Ajay Yadav, Short Textbook of Anaesthesia, 7th ed — Local Anaesthetics
+   concept: Structures supplied by end arteries with little collateral flow—digits, penis, ear pinna and the tip of the nose—must not receive adrenaline-containing solutions, because intense vasoconstriction can cause ischaemia and gangrene. Well-vascularised regions such as the scalp, abdominal wall and limb tolerate adrenaline. Adrenaline is also avoided in intravenous regional anaesthesia. This is a classic and frequently tested safety rule in regional anaesthesia.
+Q_GEN_ANAES_LA_011 [M] Local anaesthetics produce conduction block mainly by:
+    A. Opening voltage-gated potassium channels
+    B. Enhancing GABA-A receptor activity
+   *C. Blocking voltage-gated sodium channels from the intracellular side, preferentially in the open/inactivated state
+    D. Blocking voltage-gated calcium channels at the presynaptic terminal
+   key=C ref=Miller's Anesthesia, 9th ed — Pharmacology of Local Anesthetics
+   concept: Local anaesthetics bind the alpha-subunit of the voltage-gated sodium channel from its inner (cytoplasmic) aspect, preventing the sodium influx that generates and propagates the action potential. They act preferentially on channels in the open and inactivated states (state-dependent block). The drug must first cross the membrane in its un-ionized form and then act as the ionized cation inside the axon. They do not work through potassium channels, GABA receptors, or calcium channels as the primary mechanism.
+Q_GEN_ANAES_LA_012 [H] The phenomenon in which local anaesthetic block becomes more intense as the frequency of nerve firing increases is termed:
+    A. Tachyphylaxis
+   *B. Use-dependent (phasic) block
+    C. Wind-up phenomenon
+    D. Differential block
+   key=B ref=Stoelting's Pharmacology & Physiology in Anesthetic Practice, 5th ed — Local Anesthetics
+   concept: Local anaesthetics bind preferentially to sodium channels that are open or inactivated; the more frequently a nerve fires, the more often channels cycle into these states and the more drug gains access, deepening the block—this is use-dependent or phasic block. It underlies bupivacaine's cardiotoxicity, since the rapidly depolarising myocardium is especially vulnerable. Tachyphylaxis is a fall in effect with repeated dosing, wind-up is a spinal pain-facilitation phenomenon, and differential block refers to selective loss of fibre modalities.
+Q_GEN_ANAES_LA_013 [H] During the onset of spinal or epidural anaesthesia, which function is typically blocked FIRST?
+   *A. Autonomic (sympathetic) function
+    B. Motor power
+    C. Proprioception
+    D. Pressure sensation
+   key=A ref=Ajay Yadav, Short Textbook of Anaesthesia, 7th ed — Physiology of Nerve Block
+   concept: The classic sequence of differential nerve block is: autonomic (small myelinated B fibres) first, then pain and temperature (Adelta and unmyelinated C fibres), then touch and pressure, and finally motor function (large Aalpha fibres); recovery occurs in the reverse order. Smaller and more heavily myelinated fibres are blocked at lower drug concentrations. Clinically this is why the sympathetic block level in spinal anaesthesia lies about two segments above the sensory level, and motor block is last to appear and first to recover.
+Q_GEN_ANAES_LA_014 [H] In the management of local anaesthetic systemic toxicity (LAST), the recommended initial bolus of 20% lipid emulsion (Intralipid) is:
+    A. 0.15 mL/kg over 20 minutes
+    B. 0.5 mL/kg as a slow push
+    C. 1 mL/kg over 10 minutes
+   *D. 1.5 mL/kg over about 1 minute
+   key=D ref=ASRA Practice Advisory on Local Anesthetic Systemic Toxicity (as cited in Miller's Anesthesia, 9th ed)
+   concept: The ASRA protocol for LAST recommends a 20% lipid emulsion bolus of 1.5 mL/kg (lean body weight) over about 1 minute, followed by an infusion of 0.25 mL/kg/min, with the bolus repeated for persistent collapse and a maximum of roughly 10–12 mL/kg. Lipid emulsion acts as a 'lipid sink' that sequesters lipophilic drug (especially bupivacaine). Alongside this: stop injecting, call for help, secure the airway, treat seizures with benzodiazepines, give small adrenaline doses (<1 mcg/kg) and avoid vasopressin, calcium-channel and beta-blockers.
+Q_GEN_ANAES_LA_015 [H] Bupivacaine is considered the most cardiotoxic of the common local anaesthetics primarily because it:
+    A. Is an ester hydrolysed to PABA
+    B. Has very low protein binding
+   *C. Binds cardiac sodium channels avidly and dissociates slowly ("fast-in, slow-out"), giving a low CC/CNS ratio
+    D. Is metabolised to o-toluidine, which oxidises haemoglobin
+   key=C ref=Miller's Anesthesia, 9th ed — Local Anesthetic Systemic Toxicity
+   concept: Bupivacaine enters cardiac sodium channels rapidly but dissociates very slowly during diastole ('fast-in, slow-out'), so it accumulates and provokes re-entrant ventricular arrhythmias and refractory cardiac arrest. Its cardiovascular collapse to CNS toxicity (CC/CNS) dose ratio is low, meaning cardiac collapse can occur with little warning after CNS signs. It is an amide (not an ester), is highly protein-bound, and does not form o-toluidine (that is prilocaine). The R-enantiomer is chiefly responsible, which is why levobupivacaine and ropivacaine are safer.
+Q_GEN_ANAES_LA_016 [M] Which local anaesthetic is most classically associated with the development of methaemoglobinaemia?
+    A. Lignocaine
+   *B. Prilocaine
+    C. Bupivacaine
+    D. Procaine
+   key=B ref=Stoelting's Pharmacology & Physiology in Anesthetic Practice, 5th ed — Local Anesthetics
+   concept: Prilocaine is the amide most linked to methaemoglobinaemia because its metabolite o-toluidine oxidises haemoglobin iron from the ferrous (Fe2+) to the ferric (Fe3+) state. The effect is dose-related, typically after large doses (>600 mg). Benzocaine (an ester, often in topical sprays) is another important cause. Clinically the patient shows cyanosis unresponsive to oxygen, chocolate-brown blood, and a characteristic saturation gap between pulse oximetry and arterial oxygen tension. This is why prilocaine is used cautiously, especially in neonates.
+Q_GEN_ANAES_LA_017 [M] The first-line treatment for symptomatic local-anaesthetic-induced methaemoglobinaemia is:
+   *A. Methylene blue 1–2 mg/kg intravenously
+    B. Sodium nitrite infusion
+    C. Hyperbaric oxygen alone
+    D. Intravenous atropine
+   key=A ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Local Anesthetics
+   concept: Methylene blue 1–2 mg/kg IV is the treatment of choice. It is reduced by NADPH-methaemoglobin reductase to leucomethylene blue, which then reduces ferric methaemoglobin back to functional ferrous haemoglobin. An important caveat: in glucose-6-phosphate dehydrogenase (G6PD) deficiency methylene blue is ineffective and may precipitate haemolysis, so alternatives such as ascorbic acid or exchange transfusion are used. Sodium nitrite actually induces methaemoglobin (used in cyanide poisoning), so it is contraindicated here.
+Q_GEN_ANAES_LA_018 [H] A patient given a benzocaine topical spray for awake fibreoptic intubation develops cyanosis, an SpO2 of 85% that does not improve with 100% oxygen, and chocolate-brown arterial blood. The most likely diagnosis is:
+    A. Carbon monoxide poisoning
+    B. Local anaesthetic anaphylaxis
+    C. Acute pulmonary embolism
+   *D. Methaemoglobinaemia
+   key=D ref=Miller's Anesthesia, 9th ed — Adverse Effects of Local Anesthetics
+   concept: Benzocaine topical spray is a well-known cause of acquired methaemoglobinaemia. The combination of cyanosis, a fixed low pulse-oximeter reading (SpO2 tends to plateau around 85% regardless of supplemental oxygen because metHb absorbs both oximeter wavelengths), oxygen-refractory desaturation and chocolate-brown blood is characteristic. Co-oximetry confirms an elevated methaemoglobin fraction. Management is to stop the agent, give oxygen and administer methylene blue. CO poisoning and PE do not give chocolate-brown blood, and anaphylaxis presents differently.
+Q_GEN_ANAES_LA_019 [E] True allergic reactions are more common with ester local anaesthetics because they are metabolised to:
+    A. o-toluidine
+    B. Monoethylglycinexylidide
+   *C. Para-aminobenzoic acid (PABA)
+    D. Pipecolic acid
+   key=C ref=Katzung Basic & Clinical Pharmacology, 15th ed — Local Anesthetics
+   concept: Ester local anaesthetics are hydrolysed to para-aminobenzoic acid (PABA), a recognised allergen, so genuine hypersensitivity is more frequent with esters. True allergy to amides is rare; when it appears to occur it is often due to the preservative methylparaben, which is structurally similar to PABA. o-toluidine is the prilocaine metabolite causing methaemoglobinaemia, and monoethylglycinexylidide is a lignocaine metabolite—neither is the basis of ester allergy.
+Q_GEN_ANAES_LA_020 [M] In intravenous regional anaesthesia (Bier's block), which agent is CONTRAINDICATED because of its cardiotoxicity?
+    A. Preservative-free lignocaine
+   *B. Bupivacaine
+    C. Prilocaine
+    D. 0.5% lignocaine
+   key=B ref=Lee's Synopsis of Anaesthesia, 13th ed — Intravenous Regional Anaesthesia
+   concept: Bupivacaine is contraindicated in intravenous regional anaesthesia (Bier's block) because sudden release of the drug into the circulation on tourniquet deflation has caused fatal cardiac arrests. Preservative-free lignocaine (and prilocaine in some settings) is preferred. Safe practice includes reliable tourniquet inflation, keeping the cuff up for a minimum time (about 20–30 minutes) even if surgery finishes early, and cautious or cyclical deflation to limit the systemic bolus of drug.
+Q_GEN_ANAES_LA_021 [H] Which local anaesthetic has intrinsic vasoconstrictor activity (rather than causing vasodilatation)?
+   *A. Cocaine
+    B. Lignocaine
+    C. Bupivacaine
+    D. Procaine
+   key=A ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Local Anesthetics
+   concept: Cocaine is unique among local anaesthetics in producing vasoconstriction, which it achieves by blocking presynaptic reuptake of noradrenaline, potentiating sympathetic activity (also causing mydriasis). This makes it useful for topical anaesthesia of the vascular nasal mucosa in ENT surgery, but it carries risks of hypertension, tachyarrhythmias and myocardial ischaemia. Most other local anaesthetics cause vasodilatation, which is why adrenaline is co-administered; ropivacaine has only mild intrinsic vasoconstriction.
+Q_GEN_ANAES_LA_022 [M] EMLA cream is a eutectic mixture of which two agents?
+    A. Lignocaine 5% and tetracaine 5%
+    B. Lignocaine and adrenaline
+    C. Prilocaine and bupivacaine
+   *D. Lignocaine 2.5% and prilocaine 2.5%
+   key=D ref=Ajay Yadav, Short Textbook of Anaesthesia, 7th ed — Local Anaesthetics
+   concept: EMLA (Eutectic Mixture of Local Anaesthetics) contains lignocaine 2.5% and prilocaine 2.5%. Forming a eutectic mixture lowers the melting point so the actives exist as an oil at room temperature and can penetrate intact skin. It is applied under an occlusive dressing for about 45–60 minutes before venepuncture or minor skin procedures. Because it contains prilocaine, there is a risk of methaemoglobinaemia—particularly in neonates and infants—and it should not be used on mucous membranes or broken skin.
+Q_GEN_ANAES_LA_023 [M] Adding sodium bicarbonate to a local anaesthetic solution:
+    A. Prolongs the block by increasing protein binding
+    B. Reduces potency of the drug
+   *C. Hastens onset by increasing the un-ionized fraction of the drug
+    D. Produces local vasoconstriction
+   key=C ref=Miller's Anesthesia, 9th ed — Local Anesthetic Additives
+   concept: Alkalinisation with sodium bicarbonate raises the solution's pH toward the drug's pKa, shifting the equilibrium toward the lipid-soluble, un-ionized base. More un-ionized drug crosses the nerve membrane, so onset is faster and injection is often less painful. This principle also explains why local anaesthetics work poorly in infected, acidic tissue where more drug stays ionized. Excess bicarbonate can cause the anaesthetic to precipitate, so only small amounts are added; it does not vasoconstrict.
+Q_GEN_ANAES_LA_024 [H] Compared with racemic bupivacaine, ropivacaine is best characterised as:
+    A. Having greater motor block at equipotent low doses
+   *B. A pure S(-)-enantiomer that is less cardiotoxic and shows relatively more sensory than motor block
+    C. An ester agent metabolised by plasma cholinesterase
+    D. Shorter-acting than lignocaine
+   key=B ref=Stoelting's Pharmacology & Physiology in Anesthetic Practice, 5th ed — Local Anesthetics
+   concept: Ropivacaine is a pure S(-)-enantiomer (as is levobupivacaine), which reduces affinity for cardiac sodium channels and therefore lowers cardiotoxicity relative to racemic bupivacaine. It is slightly less potent, has mild intrinsic vasoconstrictor activity, and produces a useful sensory–motor differential (more sensory than motor block), making it popular for labour epidural analgesia. It is a long-acting amide (not an ester and not shorter than lignocaine) metabolised in the liver.
+Q_GEN_ANAES_LA_025 [M] In an acidotic fetus, local anaesthetic given to the mother tends to ACCUMULATE in the fetal circulation mainly because of:
+    A. Increased fetal plasma protein binding
+    B. Reduced placental transfer of the drug
+    C. Rapid ester hydrolysis in fetal plasma
+   *D. Ion trapping — the drug becomes ionized in acidic fetal plasma and cannot diffuse back across the placenta
+   key=D ref=Morgan & Mikhail's Clinical Anesthesiology, 6th ed — Obstetric Anesthesia / Local Anesthetics
+   concept: Local anaesthetics are weak bases that cross the placenta in their un-ionized form. In an acidotic (distressed) fetus the lower fetal pH shifts more drug into the ionized state, which cannot readily diffuse back across the placenta, so it accumulates fetally—this is 'ion trapping' and predisposes to neonatal toxicity. Highly protein-bound agents such as bupivacaine cross less, while chloroprocaine is rapidly hydrolysed and is regarded as one of the safer agents in labour when speed of clearance matters.
+Q_S_037 [M] What is the maximum recommended safe dose of lidocaine (lignocaine) WITH adrenaline (epinephrine) for infiltration anaesthesia in an adult?
+    A. 3 mg/kg
+    B. 4.5 mg/kg
+   *C. 7 mg/kg
+    D. 10 mg/kg
+   key=C ref=Morgan & Mikhail's Clinical Anesthesiology (verified 2026-07-04)
+   concept: Adrenaline causes vasoconstriction that slows systemic absorption, allowing a higher safe dose: lidocaine is limited to about 7 mg/kg WITH adrenaline versus about 4.5 mg/kg (often quoted as 3 mg/kg) plain. Exceeding this risks local anaesthetic systemic toxicity.
+Q_S_038 [H] Shortly after a large-volume bupivacaine field block, a patient develops circumoral tingling and tinnitus, then a seizure and a cardiac arrhythmia. In addition to standard resuscitation and airway support, which specific therapy is indicated for this local anaesthetic systemic toxicity (LAST)?
+   *A. Intravenous 20% lipid emulsion (Intralipid)
+    B. Intravenous flumazenil
+    C. Intravenous naloxone
+    D. Intravenous protamine
+   key=A ref=Morgan & Mikhail's Clinical Anesthesiology; ASRA LAST guidance
+   concept: LAST progresses from CNS excitation (perioral numbness, tinnitus, seizures) to cardiovascular collapse; bupivacaine is the most cardiotoxic local anaesthetic. Management: stop injection, secure airway/oxygen, treat seizures with a benzodiazepine, and give IV 20% lipid emulsion ('lipid rescue') with prolonged, modified ACLS.
+
+=== Anaesthesia / Preop assessment (ASA), airway management
+Q_S_035 [E] A patient with well-controlled hypertension on a single antihypertensive and no other systemic disease is scheduled for elective surgery. Under the American Society of Anesthesiologists (ASA) physical-status classification, this patient is:
+    A. ASA I
+   *B. ASA II
+    C. ASA III
+    D. ASA IV
+   key=B ref=Morgan & Mikhail's Clinical Anesthesiology; ASA physical status
+   concept: ASA II is a patient with mild, well-controlled systemic disease and no substantive functional limitation (e.g., well-controlled hypertension or diabetes, current smoker, mild obesity). ASA I is a normal healthy patient; ASA III has severe disease with functional limitation; ASA IV has severe disease that is a constant threat to life.
+Q_S_036 [E] For a healthy adult undergoing elective surgery under general anaesthesia, standard preoperative fasting guidelines recommend a minimum fasting time of:
+   *A. 2 hours for clear fluids and 6 hours for a light/solid meal
+    B. 30 minutes for everything
+    C. 12 hours for clear fluids
+    D. No preoperative fasting is required
+   key=A ref=Morgan & Mikhail's Clinical Anesthesiology; ASA fasting guidelines
+   concept: The '2-4-6' fasting rule reduces aspiration risk: 2 h for clear fluids, 4 h for breast milk, and 6 h for a light meal / formula / non-human milk (8 h for a large or fatty/fried meal). The concern is aspiration of gastric contents (Mendelson's syndrome).
+
+[57 shown of 57 unverified in scope]

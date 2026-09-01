@@ -1,0 +1,44 @@
+Q_MIC_HRP_015 | del | duplicate of Q_MIC_HRP_005, whose key already names the Paul-Bunnell test for infectious mononucleosis. The first item is retained
+Q_MIC_HRP_014 | del | duplicate of Q_MIC_HRP_007 on owl-eye intranuclear inclusions in cytomegalovirus infection. The first item is retained
+Q_MIC_HRP_004 | del | duplicate of Q_MIC_HRP_018, which gives the same reactivation from a dorsal root ganglion and additionally contrasts it with primary infection. The fuller item is retained
+Q_MIC_IMM_015 | del | duplicate of Q_MIC_IMM_008 on the enzyme-linked conjugate underlying ELISA. The first item is retained
+Q_MIC_HAI_004 | ref=Bio-Medical Waste Management Rules 2016, Schedule I; Park's Textbook of Preventive and Social Medicine 27e, Ch. Hospital Waste Management | the reference cited the Rules in short form with no schedule and no study source
+Q_MIC_HAI_007 | ref=NACO National Guidelines on HIV Post-Exposure Prophylaxis 2016; Park's Textbook of Preventive and Social Medicine 27e, Ch. AIDS | the guideline was named without a year or a supporting textbook chapter
+Q_MIC_HAI_012 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Hospital Acquired Infection; Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Hospital Infection | the Park's chapter was cited as hospital waste management for an item about hospital-acquired infection
+Q_MIC_HAI_014 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Hospital Acquired Infection; Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Hospital Infection | the Park's chapter was cited as hospital waste management for an item about hospital-acquired infection
+Q_MIC_HAI_015 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Hospital Acquired Infection; Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Hospital Infection | the Park's chapter was cited as hospital waste management for an item about hospital-acquired infection
+Q_MIC_HAI_016 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Hospital Acquired Infection; Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Hospital Infection | the Park's chapter was cited as hospital waste management for an item about hospital-acquired infection
+Q_MIC_HAI_018 | ref=Park's Textbook of Preventive and Social Medicine 27e, Ch. Hospital Acquired Infection; Ananthanarayan and Paniker's Textbook of Microbiology 11e, Ch. Hospital Infection | the Park's chapter was cited as hospital waste management for an item about hospital-acquired infection
+Q_MIC_HRP_005 | ok |
+Q_MIC_HRP_006 | ok |
+Q_MIC_HRP_007 | ok |
+Q_MIC_HRP_008 | ok |
+Q_MIC_HRP_009 | ok |
+Q_MIC_HRP_010 | ok |
+Q_MIC_HRP_011 | ok |
+Q_MIC_HRP_012 | ok |
+Q_MIC_HRP_016 | ok |
+Q_MIC_HRP_017 | ok |
+Q_MIC_HRP_018 | ok |
+Q_MIC_HAI_002 | ok |
+Q_MIC_HAI_005 | ok |
+Q_MIC_HAI_006 | ok |
+Q_MIC_HAI_010 | ok |
+Q_MIC_ICH_001 | ok |
+Q_MIC_ICH_003 | ok |
+Q_MIC_IMM_001 | ok |
+Q_MIC_IMM_002 | ok |
+Q_MIC_IMM_003 | ok |
+Q_MIC_IMM_004 | ok |
+Q_MIC_IMM_005 | ok |
+Q_MIC_IMM_006 | ok |
+Q_MIC_IMM_008 | ok |
+Q_MIC_IMM_009 | ok |
+Q_MIC_IMM_010 | ok |
+Q_MIC_IMM_011 | ok |
+Q_MIC_IMM_012 | ok |
+Q_MIC_IMM_013 | ok |
+Q_MIC_IMM_014 | ok |
+Q_MIC_IMM_016 | ok |
+Q_MIC_IMM_017 | ok |
+Q_MIC_IMM_018 | ok |

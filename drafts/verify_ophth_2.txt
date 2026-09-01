@@ -1,0 +1,36 @@
+Q_OP_RET_001 | del | duplicate of Q_h3d_034, which reaches the same central retinal artery occlusion diagnosis from a fuller vignette (atrial fibrillation, pale retina, cattle-trucking of arterioles). The vignette item is retained
+Q_OP_RET_008 | del | duplicate of Q_S_017, which describes the same photopsia, floaters and descending curtain of a rhegmatogenous retinal detachment in a myope. The vignette item is retained
+Q_h3d_034 | topic=Retina & vitreous: vascular occlusions, ARMD, retinoblastoma | misfiled: a central retinal artery occlusion sat under "Diabetic retinopathy, retinal detachment" while the plan has a topic that names vascular occlusions explicitly
+Q_OP_RET_003 | topic=Diabetic retinopathy, retinal detachment | misfiled: the hallmark of proliferative diabetic retinopathy belongs in the diabetic retinopathy topic rather than the general retina topic
+Q_OP_RET_009 | topic=Squint, amblyopia & neuro-ophthalmology (optic nerve, pupil, fields) | misfiled: distinguishing papilloedema from papillitis is a neuro-ophthalmology question, and the item's own reference already pointed to the neuro-ophthalmology chapter
+Q_PYQ_FMGE_2025JANP1_022 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Refractive Errors | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_051 | stem=A patient with eye strain is found to have unequal refractive power in different meridians, so that parallel rays come to focus as two separate focal lines rather than a single point, forming Sturm's conoid. Which refractive error is present?;;ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Refractive Errors | the stem said the patient "is shown an optical diagram", but the bank holds no diagram; the optics are already described in words, so the media reference was removed. Exam-paper-only reference replaced
+Q_PYQ_FMGE_2025JULP1_065 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Refractive Errors (pathological myopia) | reference cited only the exam paper; a study source added
+Q_h3d_033 | ref=AK Khurana Comprehensive Ophthalmology 8e, Ch. Accommodation and Presbyopia | the reference chapter simply repeated the book title and named no chapter
+Q_OP_TRA_010 | ok |
+Q_OP_RET_002 | ok |
+Q_OP_RET_004 | ok |
+Q_OP_RET_005 | ok |
+Q_OP_RET_006 | ok |
+Q_OP_RET_007 | ok |
+Q_OP_RET_010 | ok |
+Q_OP_SQU_001 | ok |
+Q_OP_SQU_002 | ok |
+Q_OP_SQU_003 | ok |
+Q_OP_SQU_004 | ok |
+Q_OP_SQU_005 | ok |
+Q_OP_SQU_006 | ok |
+Q_OP_SQU_007 | ok |
+Q_OP_SQU_008 | ok |
+Q_OP_SQU_009 | ok |
+Q_OP_SQU_010 | ok |
+Q_OP_UVE_001 | ok |
+Q_OP_UVE_002 | ok |
+Q_OP_UVE_003 | ok |
+Q_OP_UVE_004 | ok |
+Q_OP_UVE_005 | ok |
+Q_OP_UVE_006 | ok |
+Q_OP_UVE_007 | ok |
+Q_OP_UVE_008 | ok |
+Q_OP_UVE_009 | ok |
+Q_OP_UVE_010 | ok |

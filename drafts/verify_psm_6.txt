@@ -1,0 +1,44 @@
+Q_PSM_VPD_002 | del | duplicate of Q_PSM_VPD_013, which gives the same basic reproduction number and additionally the coverage it implies for elimination. The fuller item is retained
+Q_PSM_VBD_005 | del | duplicate of Q_PSM_VBD_012, which names the same sandfly vector and additionally the principal control measure. The fuller item is retained
+Q_PSM_WWB_001 | del | duplicate of Q_PSM_ENV_003 on the 0.5 mg per litre free residual chlorine after one hour of contact. The first item is retained
+Q_PSM_WWB_002 | del | duplicate of Q_PSM_ENV_001 on Escherichia coli as the indicator of faecal contamination of water. The first item is retained
+Q_PSM_OCC_018 | ok |
+Q_PSM_VPD_001 | ok |
+Q_PSM_VPD_003 | ok |
+Q_PSM_VPD_004 | ok |
+Q_PSM_VPD_005 | ok |
+Q_PSM_VPD_006 | ok |
+Q_PSM_VPD_007 | ok |
+Q_PSM_VPD_008 | ok |
+Q_PSM_VPD_010 | ok |
+Q_PSM_VPD_011 | ok |
+Q_PSM_VPD_012 | ok |
+Q_PSM_VPD_013 | ok |
+Q_PSM_VPD_014 | ok |
+Q_PSM_VPD_015 | ok |
+Q_PSM_VPD_016 | ok |
+Q_PSM_VPD_017 | ok |
+Q_PSM_VPD_018 | ok |
+Q_PSM_SDI_001 | ok |
+Q_PSM_SDI_002 | ok |
+Q_PSM_VBD_001 | ok |
+Q_PSM_VBD_002 | ok |
+Q_PSM_VBD_003 | ok |
+Q_PSM_VBD_004 | ok |
+Q_PSM_VBD_006 | ok |
+Q_PSM_VBD_007 | ok |
+Q_PSM_VBD_008 | ok |
+Q_PSM_VBD_009 | ok |
+Q_PSM_VBD_010 | ok |
+Q_PSM_VBD_011 | ok |
+Q_PSM_VBD_012 | ok |
+Q_PSM_VBD_013 | ok |
+Q_PSM_VBD_014 | ok |
+Q_PSM_VBD_015 | ok |
+Q_PSM_VBD_016 | ok |
+Q_PSM_VBD_017 | ok |
+Q_PSM_VBD_018 | ok |
+Q_PSM_WWB_003 | ok |
+Q_PSM_WWB_004 | ok |
+Q_PSM_WWB_005 | ok |
+Q_PSM_WWB_007 | ok |

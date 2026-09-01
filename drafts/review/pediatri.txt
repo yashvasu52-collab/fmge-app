@@ -1,0 +1,73 @@
+
+=== Pediatrics / Growth & development milestones
+Q_C_036 [E] A developmentally normal toddler is brought for a check-up. At what age is independent walking (without support) typically achieved?
+   *A. 12-15 months
+    B. 6 months
+    C. 24 months
+    D. 9 months
+   key=A ref=OP Ghai Essential Pediatrics 9e (Development milestones)
+   concept: Independent walking is usually achieved by 12-15 months (average about 13 months); failure to walk by 18 months warrants evaluation. For reference, a child sits without support at about 6 months and stands with support at about 9 months.
+Q_C_037 [E] A baby weighed 3 kg at birth. Assuming normal growth, what is the expected weight at 1 year of age?
+   *A. About 9 kg (triple the birth weight)
+    B. About 6 kg (double)
+    C. About 12 kg (quadruple)
+    D. About 15 kg
+   key=A ref=OP Ghai Essential Pediatrics 9e (Growth)
+   concept: Birth weight doubles by about 5 months, triples by 1 year and quadruples by 2 years, so a 3 kg newborn is expected to weigh about 9 kg at 1 year. A physiological weight loss of up to 10% is normal in the first week.
+Q_PYQ_FMGE_2025JULP2_117 [H] A 10-year-old child weighs 40 kg and has intellectual disability. The upper segment to lower segment (US:LS) ratio is 1.1:1. What is the most likely diagnosis?
+    A. Cretinism
+   *B. Rickets
+    C. Achondroplasia
+    D. Hypothyroidism
+   key=B ref=FMGE July 2025 Part 2 (real exam recall)
+   concept: The source keys rickets, arguing that an elevated US:LS ratio (1.1:1 vs the normal ~1.0 at age 10) reflects a shortened lower segment from long-bone disease. NOTE: this is disputed - rickets does not cause intellectual disability, whereas cretinism/congenital hypothyroidism classically gives BOTH an increased US:LS ratio AND mental retardation, so options A (cretinism) and D (hypothyroidism) are the stronger clinical fit and overlap with each other. Flagged for review.
+
+=== Pediatrics / Immunization & common infections
+Q_C_042 [H] An unimmunized 4-year-old has high fever, cough, coryza and conjunctivitis, with tiny bluish-white spots on an erythematous buccal mucosa, followed by a maculopapular rash that spreads from the face downward. Which statement is correct?
+   *A. The buccal spots are Koplik spots (pathognomonic of measles); the first measles-rubella dose is due at 9 months
+    B. These are Forchheimer spots of rubella; the vaccine is given at birth
+    C. This is scarlet fever and no vaccine exists
+    D. This is roseola and measles vaccine is given only at 5 years
+   key=A ref=OP Ghai Essential Pediatrics 9e / UIP schedule - web-verified 2026-07-04
+   concept: Koplik spots (grey-white spots on a red buccal mucosa) are pathognomonic of measles and precede the cephalocaudal maculopapular rash. In the Indian schedule the first measles-rubella (MR) dose is given at 9 completed months (second at 16-24 months). Pneumonia is the commonest cause of measles death.
+
+=== Pediatrics / Neonatal jaundice, sepsis, resuscitation
+Q_C_032 [M] A neonate with severe unconjugated hyperbilirubinaemia becomes lethargic and hypotonic, feeds poorly, and later develops a high-pitched cry and opisthotonus. Which structure is most characteristically damaged?
+   *A. Basal ganglia
+    B. Cerebellum
+    C. Spinal cord
+    D. Optic nerve
+   key=A ref=OP Ghai Essential Pediatrics 9e (Neonatal jaundice)
+   concept: Kernicterus is bilirubin encephalopathy: unconjugated (fat-soluble) bilirubin crosses the blood-brain barrier and deposits in the basal ganglia (and hippocampus and brainstem nuclei). It is prevented by timely phototherapy or exchange transfusion.
+Q_C_033 [E] The Apgar score used to assess a newborn at 1 and 5 minutes is based on five parameters. Which set correctly lists them?
+   *A. Heart rate, respiratory effort, muscle tone, reflex irritability, colour
+    B. Heart rate, blood pressure, temperature, colour, tone
+    C. Respiratory rate, oxygen saturation, tone, colour, reflexes
+    D. Heart rate, capillary refill, tone, cry, temperature
+   key=A ref=OP Ghai Essential Pediatrics 9e (Care of the newborn / resuscitation)
+   concept: Apgar scores five signs, each 0-2, at 1 and 5 minutes: Appearance (colour), Pulse (heart rate), Grimace (reflex irritability), Activity (muscle tone) and Respiration. It reflects the newborn's transition, but the decision to start resuscitation is guided immediately by heart rate and breathing, not by waiting for the Apgar.
+Q_C_034 [H] A newborn has excessive frothing and drooling and chokes and turns blue with the first feed. A nasogastric tube cannot be passed into the stomach and coils in the upper chest on X-ray. What is the most likely diagnosis?
+   *A. Oesophageal atresia with tracheo-oesophageal fistula
+    B. Choanal atresia
+    C. Congenital diaphragmatic hernia
+    D. Hypertrophic pyloric stenosis
+   key=A ref=OP Ghai Essential Pediatrics 9e / Bailey & Love (Paediatric surgery)
+   concept: Inability to pass a nasogastric tube (coiling in the upper pouch) with frothing and choking on feeds indicates oesophageal atresia, usually with a distal tracheo-oesophageal fistula, and is associated with the VACTERL anomalies. Pyloric stenosis presents at 3-6 weeks with non-bilious projectile vomiting.
+
+=== Pediatrics / PEM, breastfeeding, micronutrients
+Q_C_039 [M] A 2-year-old child has pitting pedal oedema, a distended abdomen with hepatomegaly, sparse depigmented ('flag-sign') hair and flaky skin, but is not severely wasted. This picture is most consistent with:
+   *A. Kwashiorkor
+    B. Marasmus
+    C. Vitamin C deficiency (scurvy)
+    D. Congestive cardiac failure
+   key=A ref=OP Ghai Essential Pediatrics 9e (Protein-energy malnutrition)
+   concept: Kwashiorkor is oedematous protein-energy malnutrition: bilateral pitting oedema, hepatomegaly (fatty liver), hair and skin changes and hypoalbuminaemia, with relatively preserved subcutaneous fat. Marasmus is severe wasting WITHOUT oedema ('old man' facies).
+Q_C_040 [E] A 3-year-old from a poor community has difficulty seeing in dim light, dry conjunctivae and triangular foamy grey spots on the bulbar conjunctiva. Which deficiency is responsible?
+   *A. Vitamin A
+    B. Vitamin D
+    C. Vitamin C
+    D. Vitamin B12
+   key=A ref=OP Ghai Essential Pediatrics 9e (Micronutrient deficiencies)
+   concept: Vitamin A deficiency causes night blindness (earliest symptom), conjunctival xerosis, Bitot's spots (the foamy grey triangular spots), keratomalacia and eventually blindness. It is a leading cause of preventable childhood blindness and is treated with high-dose vitamin A.
+
+[9 shown of 9 unverified in scope]

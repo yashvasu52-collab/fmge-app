@@ -1,0 +1,729 @@
+{
+ "questions": [
+  {
+   "id": "Q_MED_GN_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "E",
+   "stem": "The commonest cause of nephrotic syndrome in children is:",
+   "options": [
+    "Minimal change disease",
+    "Focal segmental glomerulosclerosis",
+    "Membranous nephropathy",
+    "Membranoproliferative glomerulonephritis"
+   ],
+   "correct": 0,
+   "concept": "Minimal change disease accounts for about 80% of childhood nephrotic syndrome, shows normal light microscopy with podocyte foot process effacement on electron microscopy, and responds well to corticosteroids.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "M",
+   "stem": "The commonest cause of nephrotic syndrome in adults worldwide is:",
+   "options": [
+    "Minimal change disease",
+    "Focal segmental glomerulosclerosis",
+    "Amyloidosis",
+    "Diabetic nephropathy"
+   ],
+   "correct": 1,
+   "concept": "Focal segmental glomerulosclerosis is the commonest primary cause of adult nephrotic syndrome, though diabetic nephropathy is the commonest cause overall when secondary causes are included.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "M",
+   "stem": "A child develops cola-coloured urine, periorbital oedema and hypertension two weeks after a sore throat. Complement studies would show:",
+   "options": [
+    "Normal C3 and C4",
+    "Low C4 with normal C3",
+    "Low C3 with normal or slightly low C4",
+    "Raised C3 and C4"
+   ],
+   "correct": 2,
+   "concept": "Post-streptococcal glomerulonephritis activates the alternative complement pathway, lowering C3 while C4 remains largely normal; C3 recovers within 6 to 8 weeks. Persistently low C3 beyond that suggests membranoproliferative disease.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "E",
+   "stem": "Anti-glomerular basement membrane antibody with linear IgG deposition on immunofluorescence and pulmonary haemorrhage defines:",
+   "options": [
+    "IgA nephropathy",
+    "Lupus nephritis",
+    "Granulomatosis with polyangiitis",
+    "Anti-GBM (Goodpasture) disease"
+   ],
+   "correct": 3,
+   "concept": "Anti-GBM disease produces a smooth linear ribbon of IgG along the basement membrane, in contrast to the granular pattern of immune complex disease and the pauci-immune pattern of ANCA vasculitis. Treatment is plasmapheresis with cyclophosphamide and steroids.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "M",
+   "stem": "The commonest primary glomerulonephritis worldwide is:",
+   "options": [
+    "Membranous nephropathy",
+    "IgA nephropathy",
+    "Minimal change disease",
+    "Post-infectious glomerulonephritis"
+   ],
+   "correct": 1,
+   "concept": "IgA nephropathy (Berger disease) is the commonest primary glomerulonephritis, classically presenting with synpharyngitic macroscopic haematuria within days of an upper respiratory infection, with mesangial IgA deposits.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "M",
+   "stem": "Which feature distinguishes nephritic from nephrotic syndrome?",
+   "options": [
+    "Proteinuria above 3.5 g per day",
+    "Hypoalbuminaemia",
+    "Red cell casts with hypertension and oliguria",
+    "Hyperlipidaemia"
+   ],
+   "correct": 2,
+   "concept": "Nephritic syndrome is defined by an active urinary sediment - dysmorphic red cells and red cell casts - with hypertension, oliguria and modest proteinuria. Heavy proteinuria, hypoalbuminaemia, oedema and hyperlipidaemia define nephrotic syndrome.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "E",
+   "stem": "The most important complication predisposing nephrotic patients to infection is loss of:",
+   "options": [
+    "Immunoglobulin G and complement factors",
+    "Fibrinogen",
+    "Transferrin",
+    "Thyroxine-binding globulin"
+   ],
+   "correct": 0,
+   "concept": "Urinary loss of IgG and complement components, particularly factor B, impairs opsonisation and predisposes to encapsulated organisms, notably pneumococcal peritonitis in children.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "H",
+   "stem": "A 55-year-old man with membranous nephropathy is most likely to have autoantibodies against:",
+   "options": [
+    "Nephrin",
+    "Podocin",
+    "Phospholipase A2 receptor (PLA2R)",
+    "Type IV collagen"
+   ],
+   "correct": 2,
+   "concept": "Autoantibodies against the M-type phospholipase A2 receptor on podocytes are found in about 70 to 80% of primary membranous nephropathy and are useful for diagnosis and monitoring. Subepithelial deposits give a spike-and-dome appearance.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "H",
+   "stem": "Nephrotic syndrome carries a high risk of thrombosis chiefly because of:",
+   "options": [
+    "Thrombocytopenia",
+    "Loss of antithrombin III in urine",
+    "Reduced fibrinogen synthesis",
+    "Raised protein C activity"
+   ],
+   "correct": 1,
+   "concept": "Urinary loss of antithrombin III together with increased hepatic synthesis of fibrinogen creates a hypercoagulable state; renal vein thrombosis is the classical complication and is commonest in membranous nephropathy.",
+   "reference": "HARR 21e, Glomerular Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_GN_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Glomerular disease & nephrotic syndrome",
+   "difficulty": "M",
+   "stem": "The treatment of choice for a 4-year-old child with typical steroid-sensitive nephrotic syndrome is:",
+   "options": [
+    "Cyclophosphamide",
+    "Oral prednisolone",
+    "Cyclosporine",
+    "Rituximab"
+   ],
+   "correct": 1,
+   "concept": "Oral prednisolone is first line in childhood nephrotic syndrome, and biopsy is reserved for atypical features such as age below 1 year, haematuria, hypertension, renal failure or steroid resistance.",
+   "reference": "Nelson 21e, Nephrotic Syndrome",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "E",
+   "stem": "Type 1 (distal) renal tubular acidosis characteristically causes:",
+   "options": [
+    "Hypokalaemia with nephrolithiasis and inability to acidify urine",
+    "Hyperkalaemia with acid urine",
+    "Isolated proteinuria",
+    "Metabolic alkalosis"
+   ],
+   "correct": 0,
+   "concept": "Distal RTA reflects failure of hydrogen ion secretion in the collecting duct, giving hyperchloraemic normal anion gap acidosis with inappropriately alkaline urine, hypokalaemia, hypercalciuria and calcium phosphate stones.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "M",
+   "stem": "Fanconi syndrome comprises:",
+   "options": [
+    "Distal RTA with deafness",
+    "Proximal tubular loss of glucose, amino acids, phosphate and bicarbonate",
+    "Isolated bicarbonate wasting",
+    "Salt-losing nephropathy with hyperkalaemia"
+   ],
+   "correct": 1,
+   "concept": "Fanconi syndrome is generalised proximal tubular dysfunction causing glycosuria, aminoaciduria, phosphaturia, uricosuria and type 2 RTA, with rickets or osteomalacia; causes include cystinosis, Wilson disease, myeloma and tenofovir.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "M",
+   "stem": "Type 4 renal tubular acidosis is distinguished from types 1 and 2 by the presence of:",
+   "options": [
+    "Hypokalaemia",
+    "Alkaline urine",
+    "Hyperkalaemia",
+    "Nephrocalcinosis"
+   ],
+   "correct": 2,
+   "concept": "Type 4 RTA results from aldosterone deficiency or resistance and is the only type with hyperkalaemia; it is commonly seen in diabetic nephropathy and with ACE inhibitors or potassium-sparing diuretics.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "E",
+   "stem": "Analgesic nephropathy is most classically associated with:",
+   "options": [
+    "Sterile pyuria and papillary necrosis",
+    "Nephrotic range proteinuria",
+    "Rapidly progressive glomerulonephritis",
+    "Renal artery stenosis"
+   ],
+   "correct": 0,
+   "concept": "Chronic combined analgesic abuse, particularly phenacetin-containing compounds, causes chronic interstitial nephritis with renal papillary necrosis, sterile pyuria and a raised risk of urothelial carcinoma.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "M",
+   "stem": "Acute interstitial nephritis due to a drug typically presents with:",
+   "options": [
+    "Nephrotic syndrome",
+    "Fever, rash, eosinophilia and white cell casts with acute kidney injury",
+    "Isolated haematuria",
+    "Hypertension with hypokalaemia"
+   ],
+   "correct": 1,
+   "concept": "Drug-induced acute interstitial nephritis, classically from penicillins, NSAIDs, rifampicin or proton pump inhibitors, gives fever, rash, peripheral eosinophilia, eosinophiluria and sterile pyuria with white cell casts. Withdrawal of the drug is the mainstay.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "M",
+   "stem": "In distal renal tubular acidosis the urinary anion gap is:",
+   "options": [
+    "Negative because of high ammonium excretion",
+    "Zero",
+    "Positive because of impaired ammonium excretion",
+    "Not calculable"
+   ],
+   "correct": 2,
+   "concept": "A positive urinary anion gap (sodium plus potassium minus chloride) indicates low urinary ammonium and therefore a renal cause of normal anion gap acidosis, whereas diarrhoeal bicarbonate loss gives a negative gap with appropriately high ammonium.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "E",
+   "stem": "The commonest indication for initiating maintenance dialysis in chronic kidney disease is:",
+   "options": [
+    "Refractory uraemic symptoms with volume overload or hyperkalaemia",
+    "Anaemia",
+    "Renal osteodystrophy",
+    "Hypertension"
+   ],
+   "correct": 0,
+   "concept": "Dialysis is started for uraemic symptoms, refractory fluid overload, hyperkalaemia, acidosis or pericarditis rather than for a fixed level of glomerular filtration rate; anaemia and bone disease are managed medically.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "H",
+   "stem": "Which is an absolute contraindication to peritoneal dialysis?",
+   "options": [
+    "Diabetes mellitus",
+    "Previous abdominal surgery",
+    "Severe respiratory disease",
+    "Documented loss of peritoneal membrane function or extensive adhesions"
+   ],
+   "correct": 3,
+   "concept": "Loss of peritoneal function or extensive intra-abdominal adhesions preclude peritoneal dialysis. Diabetes is in fact often well suited to it, and previous surgery is only a relative concern.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "H",
+   "stem": "Dialysis disequilibrium syndrome is caused by:",
+   "options": [
+    "Rapid urea removal creating a cerebral osmotic gradient and cerebral oedema",
+    "Aluminium toxicity",
+    "Complement activation by the membrane",
+    "Hypercalcaemia"
+   ],
+   "correct": 0,
+   "concept": "Rapid clearance of urea from blood leaves brain urea relatively high, drawing water into the brain and causing headache, nausea, confusion and seizures. It is prevented by short, slow initial sessions in patients with very high urea.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_RTA_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Tubulointerstitial disease, RTA & renal replacement therapy",
+   "difficulty": "M",
+   "stem": "The best long-term renal replacement option for a young patient with end-stage renal disease is:",
+   "options": [
+    "Haemodialysis three times weekly",
+    "Renal transplantation",
+    "Continuous ambulatory peritoneal dialysis",
+    "Conservative management"
+   ],
+   "correct": 1,
+   "concept": "Renal transplantation gives the best survival and quality of life in suitable candidates, with living related donation offering superior graft survival. Dialysis is a bridge to transplantation.",
+   "reference": "HARR 21e, Tubulointerstitial Diseases of the Kidney",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "E",
+   "stem": "The commonest cause of peripheral neuropathy worldwide is:",
+   "options": [
+    "Diabetes mellitus",
+    "Leprosy",
+    "Alcohol",
+    "Vitamin B12 deficiency"
+   ],
+   "correct": 0,
+   "concept": "Diabetes mellitus is the commonest cause of peripheral neuropathy, typically a symmetrical distal sensory polyneuropathy in a glove-and-stocking distribution. Leprosy remains the commonest cause of treatable neuropathy in endemic regions.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "M",
+   "stem": "Guillain-Barre syndrome most characteristically presents with:",
+   "options": [
+    "Descending flaccid paralysis with early sphincter involvement",
+    "Ascending symmetrical flaccid paralysis with areflexia and preserved sphincters",
+    "Spastic paraparesis with a sensory level",
+    "Proximal weakness with a heliotrope rash"
+   ],
+   "correct": 1,
+   "concept": "Guillain-Barre syndrome is an acute ascending symmetrical flaccid areflexic paralysis, often after Campylobacter jejuni infection, with sparing of sphincters and relatively minor sensory signs. Respiratory failure is the main danger.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "M",
+   "stem": "The characteristic cerebrospinal fluid finding in Guillain-Barre syndrome is:",
+   "options": [
+    "Raised cells with raised protein",
+    "Raised protein with normal cell count (albuminocytological dissociation)",
+    "Low glucose with raised cells",
+    "Normal protein with raised cells"
+   ],
+   "correct": 1,
+   "concept": "Albuminocytological dissociation - raised protein with a normal cell count - is characteristic, though it may be absent in the first week. More than 50 cells per microlitre should prompt a search for HIV or other causes.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "E",
+   "stem": "The treatment of choice for Guillain-Barre syndrome with rapidly progressive weakness is:",
+   "options": [
+    "High-dose corticosteroids",
+    "Intravenous immunoglobulin or plasmapheresis",
+    "Pyridostigmine",
+    "Acyclovir"
+   ],
+   "correct": 1,
+   "concept": "Intravenous immunoglobulin and plasma exchange are equally effective and are the mainstay; corticosteroids are ineffective and are not recommended. Serial vital capacity monitoring guides the need for ventilation.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "M",
+   "stem": "Myasthenia gravis is caused by antibodies most commonly directed against:",
+   "options": [
+    "Presynaptic voltage-gated calcium channels",
+    "Postsynaptic acetylcholine receptors",
+    "Voltage-gated potassium channels",
+    "Myelin basic protein"
+   ],
+   "correct": 1,
+   "concept": "About 85% of generalised myasthenia gravis patients have antibodies to the postsynaptic nicotinic acetylcholine receptor; most of the remainder have anti-MuSK antibodies. Weakness worsens with repeated activity and improves with rest.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "M",
+   "stem": "Which feature distinguishes Lambert-Eaton myasthenic syndrome from myasthenia gravis?",
+   "options": [
+    "Ptosis and diplopia",
+    "Fatigable weakness",
+    "Improvement of power with sustained or repeated exercise",
+    "Response to pyridostigmine"
+   ],
+   "correct": 2,
+   "concept": "In Lambert-Eaton syndrome, antibodies to presynaptic P/Q-type calcium channels reduce acetylcholine release, and power improves with brief exercise (post-tetanic potentiation), with an incremental response on high-frequency repetitive stimulation. It is often paraneoplastic with small cell lung cancer.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "E",
+   "stem": "The investigation of choice to confirm neuromuscular junction dysfunction in myasthenia gravis is:",
+   "options": [
+    "Repetitive nerve stimulation showing a decremental response",
+    "Nerve conduction velocity",
+    "Muscle biopsy",
+    "Creatine kinase estimation"
+   ],
+   "correct": 0,
+   "concept": "Low-frequency repetitive nerve stimulation shows a decremental response of more than 10%, and single-fibre EMG is the most sensitive electrophysiological test. Creatine kinase is normal, unlike in myopathy.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "H",
+   "stem": "All patients with newly diagnosed myasthenia gravis should undergo:",
+   "options": [
+    "Renal ultrasound",
+    "Lumbar puncture",
+    "Bone marrow examination",
+    "Computed tomography of the chest for thymoma"
+   ],
+   "correct": 3,
+   "concept": "About 10 to 15% of myasthenia patients have a thymoma and up to 65% thymic hyperplasia, so chest imaging is mandatory; thymectomy benefits patients with thymoma and many generalised seronegative-for-MuSK cases.",
+   "reference": "HARR 21e, Peripheral Neuropathy",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "H",
+   "stem": "Which drug should be avoided in a patient with myasthenia gravis?",
+   "options": [
+    "Pyridostigmine",
+    "Prednisolone",
+    "Aminoglycoside antibiotics",
+    "Azathioprine"
+   ],
+   "correct": 2,
+   "concept": "Aminoglycosides, along with quinine, quinolones, magnesium, beta blockers and neuromuscular blockers, impair neuromuscular transmission and can precipitate a myasthenic crisis.",
+   "reference": "KDT 8e, Aminoglycoside Antibiotics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_PN_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Peripheral neuropathy, GBS & myasthenia gravis",
+   "difficulty": "M",
+   "stem": "A patient with leprosy has a thickened ulnar nerve with claw hand. The nerve is most commonly involved at the:",
+   "options": [
+    "Wrist",
+    "Elbow, just above the medial epicondyle",
+    "Axilla",
+    "Mid-forearm"
+   ],
+   "correct": 1,
+   "concept": "In leprosy the ulnar nerve is the most frequently affected nerve and is thickened and tender about 2 to 5 cm proximal to the medial epicondyle, where it is superficial and cooler - bacilli favour cooler sites.",
+   "reference": "IADVL Textbook of Dermatology, Leprosy",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

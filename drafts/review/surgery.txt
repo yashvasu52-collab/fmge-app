@@ -1,0 +1,422 @@
+
+=== Surgery / Acute abdomen, appendicitis, obstruction
+Q_C_002 [M] A 45-year-old man on long-term NSAIDs develops sudden, severe, generalized abdominal pain. He has a rigid, board-like abdomen with absent bowel sounds. Which finding on an erect chest X-ray best confirms the likely diagnosis?
+    A. Multiple air-fluid levels
+   *B. Free gas under the diaphragm
+    C. Ground-glass appearance
+    D. Sentinel loop
+   key=B ref=Bailey & Love 27e (Peptic ulcer / Peritonitis)
+   concept: Sudden severe pain with board-like rigidity indicates a perforated peptic ulcer causing peritonitis. An erect chest X-ray shows free gas under the diaphragm (pneumoperitoneum) in most cases. Air-fluid levels suggest obstruction; a sentinel loop suggests pancreatitis.
+Q_C_003 [M] A 70-year-old chronically constipated man presents with gross abdominal distension, absolute constipation and colicky pain. Abdominal X-ray shows a massively dilated inverted 'U' (coffee-bean) loop arising from the pelvis and pointing to the right upper quadrant. What is the most likely diagnosis?
+   *A. Sigmoid volvulus
+    B. Intussusception
+    C. Caecal volvulus
+    D. Paralytic ileus
+   key=A ref=Bailey & Love 27e (Intestinal obstruction)
+   concept: Sigmoid volvulus is common in elderly, constipated patients; the twisted loop gives a 'coffee-bean' (omega) sign. If there is no gangrene or peritonitis, initial management is endoscopic decompression with a flatus tube; recurrent cases need sigmoid resection.
+
+=== Surgery / Breast lumps & carcinoma breast
+Q_C_009 [M] A 48-year-old woman presents with a discrete breast lump. According to the standard 'triple assessment', which combination should be used to evaluate it?
+   *A. Clinical examination + imaging (mammography/USG) + biopsy (core or FNAC)
+    B. Clinical examination + tumour markers + chest X-ray
+    C. Mammography + CT + bone scan
+    D. FNAC + CA 15-3 + PET scan
+   key=A ref=Bailey & Love 27e (The breast)
+   concept: Triple assessment = clinical examination + imaging (mammography and/or ultrasound) + pathology (core biopsy preferred; FNAC acceptable). It maximizes diagnostic accuracy for any breast lump. Mammography suits older women; ultrasound suits younger, dense breasts.
+
+=== Surgery / Gallstones, pancreatitis
+Q_C_007 [M] A 45-year-old man with heavy alcohol use has severe epigastric pain radiating to the back with vomiting. Which serum enzyme is the MOST specific for diagnosing acute pancreatitis?
+   *A. Serum lipase
+    B. Serum amylase
+    C. Alkaline phosphatase
+    D. Lactate dehydrogenase
+   key=A ref=Bailey & Love 27e (The pancreas)
+   concept: Both amylase and lipase rise in acute pancreatitis, but lipase is more specific and remains elevated longer. Gallstones and alcohol are the two commonest causes. Amylase may also rise in perforation, mesenteric ischaemia and salivary disease.
+
+=== Surgery / Hernias (inguinal, femoral)
+Q_C_005 [H] An elderly woman with a small femoral hernia develops fever and localized tenderness over the lump, but continues to pass stool and flatus with no abdominal distension. At operation only part of the circumference of the bowel wall (the antimesenteric border) is trapped and gangrenous. This is best described as:
+   *A. Richter's hernia
+    B. Littre's hernia
+    C. Maydl's hernia
+    D. Sliding hernia
+   key=A ref=Bailey & Love 27e (Hernias)
+   concept: In a Richter's hernia only part of the bowel-wall circumference is trapped, so it can strangulate and become gangrenous WITHOUT features of intestinal obstruction, a dangerous pitfall classically seen with femoral hernias. Littre's = Meckel's diverticulum in the sac; Maydl's = a W-shaped loop.
+Q_GEN_SURG_HERNIA_001 [E] A hernia is best defined as which of the following?
+   *A. An abnormal protrusion of a viscus, or part of a viscus, through a weakness or defect in the wall of the cavity that normally contains it
+    B. A localised collection of pus within the layers of the abdominal wall musculature
+    C. A saccular dilatation of an artery secondary to weakening of its wall
+    D. A full-thickness outpouching of the bowel wall into its own lumen
+   key=A ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: A hernia is the abnormal protrusion of a viscus or part of a viscus through a weakness or defect in the wall of the cavity that contains it, most often the abdominal wall. Option B describes an abscess, C an aneurysm and D a diverticulum/intraluminal lesion, none of which is a hernia. Every hernia classically has a sac (peritoneum), coverings and contents.
+Q_GEN_SURG_HERNIA_002 [E] An indirect inguinal hernia enters the inguinal canal through the deep inguinal ring. In relation to the inferior epigastric vessels, its neck lies:
+    A. Medial to the inferior epigastric vessels, through Hesselbach's triangle
+    B. Directly through the conjoint tendon, medial to the vessels
+   *C. Lateral to the inferior epigastric vessels, through the deep inguinal ring
+    D. Below the inguinal ligament, medial to the femoral vein
+   key=C ref=SRB's Manual of Surgery — Hernia
+   concept: An indirect inguinal hernia follows the path of the processus vaginalis and enters the deep (internal) ring, which lies lateral to the inferior epigastric vessels; hence its neck is lateral to them. A direct hernia bulges medial to the vessels through Hesselbach's triangle (options A and B), and option D describes a femoral hernia. This vessel relation is the key operative landmark separating the two inguinal types.
+Q_GEN_SURG_HERNIA_003 [M] A direct inguinal hernia protrudes through Hesselbach's (inguinal) triangle. Which option correctly states its boundaries?
+   *A. Medial: lateral border of rectus abdominis; lateral: inferior epigastric vessels; inferior (base): inguinal ligament
+    B. Medial: inferior epigastric vessels; lateral: rectus abdominis; base: pectineal ligament
+    C. Medial: inguinal ligament; lateral: lacunar ligament; base: pectineus muscle
+    D. Medial: rectus abdominis; lateral: sartorius; base: iliac crest
+   key=A ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: Hesselbach's triangle is bounded medially by the lateral border of rectus abdominis, laterally by the inferior epigastric vessels and inferiorly (its base) by the inguinal ligament; a direct inguinal hernia pushes through its floor (transversalis fascia). The remaining options transpose these structures or substitute femoral-canal and unrelated muscular boundaries, so they are incorrect.
+Q_GEN_SURG_HERNIA_004 [E] On examination, a groin swelling is found to lie above and medial to the pubic tubercle. This location is most consistent with which lesion?
+    A. Femoral hernia
+    B. Obturator hernia
+    C. Saphena varix
+   *D. Inguinal hernia
+   key=D ref=SRB's Manual of Surgery — Hernia
+   concept: Relation to the pubic tubercle is the classic bedside discriminator: an inguinal hernia lies above and medial to the pubic tubercle, whereas a femoral hernia lies below and lateral to it. An obturator hernia presents deep in the thigh/pelvis and a saphena varix lies at the saphenofemoral junction with a cough thrill, so neither fits this landmark. This single sign guides the whole differential.
+Q_GEN_SURG_HERNIA_005 [H] Assertion (A): Femoral hernias have a strong tendency to strangulate. Reason (R): The medial boundary of the femoral canal is the femoral vein. Select the most appropriate option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: Femoral hernias strangulate readily because the femoral ring/canal is bounded by rigid structures, notably the sharp lacunar (Gimbernat's) ligament medially, the inguinal ligament anteriorly and the pectineal (Cooper's) ligament posteriorly, giving a narrow unyielding neck. The assertion is therefore true, but the reason is false: the femoral vein is the LATERAL boundary, not the medial one. True assertion with a false reason gives option C.
+Q_GEN_SURG_HERNIA_006 [M] Which statement correctly describes a sliding hernia (hernia-en-glissade)?
+   *A. A retroperitoneal viscus (e.g. sigmoid colon, caecum or urinary bladder) forms part of the wall of the sac itself
+    B. The sac characteristically contains a Meckel's diverticulum
+    C. Only part of the circumference of the bowel wall is caught within the sac
+    D. Two bowel loops lie in the sac while the connecting loop strangulates inside the abdomen
+   key=A ref=SRB's Manual of Surgery — Hernia
+   concept: In a sliding hernia a retroperitoneal viscus (sigmoid colon on the left, caecum on the right, or the urinary bladder) slides down to form part of the wall of the sac rather than merely lying inside it. Option B describes Littre's hernia, C describes Richter's hernia and D describes Maydl's hernia. Recognising a sliding hernia is important to avoid inadvertently opening or injuring the viscus during sac dissection.
+Q_GEN_SURG_HERNIA_007 [H] In a Maydl's hernia (hernia-in-W), which loop of bowel is at greatest risk of strangulation?
+    A. The proximal loop lying within the sac
+    B. The distal loop lying within the sac
+   *C. The intermediate connecting loop that lies back within the abdominal cavity
+    D. No loop strangulates because the contents remain freely reducible
+   key=C ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: Maydl's hernia contains two loops within the sac arranged in a W, with an intervening (intermediate) loop that lies back inside the abdomen; it is this hidden intra-abdominal connecting loop whose blood supply is compromised and which strangulates. The intra-sac loops may appear viable, so the danger is missing the gangrenous loop that has retracted into the peritoneal cavity, making C correct.
+Q_GEN_SURG_HERNIA_008 [M] A Littre's hernia is characterised by the presence of which structure within the hernia sac?
+    A. The vermiform appendix
+    B. The urinary bladder
+    C. Only part of the circumference of the bowel wall
+   *D. A Meckel's diverticulum
+   key=D ref=SRB's Manual of Surgery — Hernia
+   concept: Littre's hernia is defined by a Meckel's diverticulum lying within the hernia sac. Option A (appendix) describes Amyand's hernia, B (bladder) points to a sliding hernia, and C (only part of the bowel circumference trapped) is Richter's hernia. A Littre's hernia may present with a localised abscess, fistula or diverticulitis rather than complete intestinal obstruction, which can delay diagnosis.
+Q_GEN_SURG_HERNIA_009 [H] During open repair of a right inguinal hernia in a 40-year-old man, the surgeon finds the vermiform appendix lying within the hernia sac. This is best termed:
+    A. Littre's hernia
+    B. Richter's hernia
+   *C. Amyand's hernia
+    D. Maydl's hernia
+   key=C ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: The presence of the vermiform appendix (inflamed or not) within a hernia sac, usually a right inguinal hernia, is termed Amyand's hernia. Littre's hernia contains a Meckel's diverticulum, Richter's traps only part of the bowel circumference, and Maydl's is the W-shaped double-loop hernia. Management of an Amyand's hernia depends on the degree of appendiceal inflammation, ranging from simple reduction to appendicectomy.
+Q_GEN_SURG_HERNIA_010 [M] A Spigelian hernia protrudes through a defect at which anatomical site?
+    A. The linea alba between the xiphisternum and the umbilicus
+    B. The inferior lumbar (Petit's) triangle
+    C. The obturator canal
+   *D. The spigelian fascia along the linea semilunaris, typically at or below the level of the arcuate line
+   key=D ref=SRB's Manual of Surgery — Hernia
+   concept: A Spigelian hernia herniates through the spigelian fascia along the linea semilunaris (the lateral border of the rectus sheath), characteristically at or just below the arcuate line where the posterior rectus sheath is deficient. It is typically interparietal, lying deep to the intact external oblique, which makes it hard to palpate. Options A, B and C describe epigastric, lumbar and obturator hernias respectively.
+Q_GEN_SURG_HERNIA_011 [H] An emaciated elderly woman presents with small-bowel obstruction and pain radiating down the medial aspect of the thigh to the knee, which eases when she flexes the hip. Which hernia is most likely?
+   *A. Obturator hernia, with the Howship-Romberg sign
+    B. Spigelian hernia
+    C. Femoral hernia
+    D. Inferior lumbar hernia
+   key=A ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: An obturator hernia passes through the obturator canal and classically affects thin, elderly, multiparous women (the little old lady's hernia). It presents with small-bowel obstruction plus the Howship-Romberg sign, pain along the medial thigh to the knee from obturator nerve compression that is relieved by hip flexion and worsened by extension/abduction. Its deep location causes late diagnosis, giving high strangulation and mortality rates.
+Q_GEN_SURG_HERNIA_012 [M] The inferior lumbar triangle, a site of Petit's lumbar hernia, is bounded by which of the following?
+    A. Quadratus lumborum, internal oblique and the 12th rib
+   *B. Latissimus dorsi, external oblique and the iliac crest
+    C. Rectus abdominis, inguinal ligament and the inferior epigastric vessels
+    D. Sacrospinalis, serratus posterior inferior and the 12th rib
+   key=B ref=SRB's Manual of Surgery — Hernia
+   concept: The inferior lumbar (Petit's) triangle is bounded by latissimus dorsi posteromedially, the external oblique anterolaterally and the iliac crest as its base; it is a site of lumbar hernia. Option A describes the superior lumbar (Grynfeltt-Lesshaft) triangle (12th rib, quadratus lumborum/internal oblique), which is actually the more common lumbar hernia site. Options C and D describe unrelated regions.
+Q_GEN_SURG_HERNIA_013 [E] A 1-year-old child has a small, easily reducible umbilical hernia noted since birth and is otherwise well. What is the most appropriate advice to the parents?
+    A. Urgent operation to prevent imminent strangulation
+    B. Immediate mesh repair of the defect
+   *C. Reassurance and observation, as most close spontaneously by about 2 years of age, with repair reserved for persistence beyond about 4-5 years, large defects or complications
+    D. Defer any herniotomy until after puberty regardless of symptoms
+   key=C ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: Paediatric umbilical hernias are common, usually reduce easily and close spontaneously in the great majority by about 2 years of age, so reassurance and observation are appropriate. Elective repair is reserved for persistence beyond roughly 4-5 years, a large or symptomatic defect, or complications. Strangulation is rare in children, so urgent surgery or immediate mesh repair is unwarranted, and mesh is avoided in small children.
+Q_GEN_SURG_HERNIA_014 [M] A pantaloon (saddle-bag) hernia is characterised by:
+    A. A sac containing both the testis and a loop of bowel
+   *B. Coexisting direct and indirect sacs on the same side, straddling the inferior epigastric vessels
+    C. A simultaneous femoral and inguinal sac on the same side
+    D. Bilateral indirect inguinal hernias
+   key=B ref=SRB's Manual of Surgery — Hernia
+   concept: A pantaloon (saddle-bag or dual) hernia has coexisting direct and indirect sacs on the same side that straddle the inferior epigastric vessels like the two legs of a pair of trousers. It is not a testis-containing sac, a combined femoral-inguinal hernia, or bilateral disease. Both the medial (direct) and lateral (indirect) components must be identified and dealt with at operation to prevent recurrence.
+Q_GEN_SURG_HERNIA_015 [M] A man with a long-standing reducible inguinal hernia presents with a sudden painful, tense, tender, irreducible swelling that has lost its cough impulse, together with vomiting and abdominal distension. The most appropriate management is:
+    A. Apply a truss and discharge with clinic review
+    B. List for elective repair in 6 weeks
+    C. Attempt firm manual reduction under sedation and manage as an outpatient
+   *D. Proceed to urgent (emergency) surgical exploration
+   key=D ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: Sudden pain, tenderness, tenseness, irreducibility with loss of cough impulse and features of obstruction (vomiting, distension) in a previously reducible hernia indicate strangulation, an ischaemic emergency requiring urgent operative exploration. A truss, elective delay or forced manual reduction is contraindicated: forced reduction risks perforation, peritonitis or reduction-en-masse (returning ischaemic bowel with its constricting neck into the abdomen).
+Q_GEN_SURG_HERNIA_016 [H] Assertion (A): A strangulated hernia is a surgical emergency. Reason (R): In strangulation the intestinal lumen is obstructed but the blood supply to the contents remains intact. Select the most appropriate option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=SRB's Manual of Surgery — Hernia
+   concept: A strangulated hernia is indeed a surgical emergency, so the assertion is true. The reason, however, is false: strangulation means the blood supply to the contents IS compromised, leading to ischaemia and gangrene. Luminal obstruction with an initially intact blood supply describes an OBSTRUCTED (not strangulated) hernia. A true assertion with a false reason gives option C.
+Q_GEN_SURG_HERNIA_017 [M] The Lichtenstein repair for inguinal hernia is best described as:
+    A. A pure-tissue, multilayered continuous suture repair using no prosthetic material
+   *B. An open, tension-free repair that reinforces the posterior wall with a prosthetic (polypropylene) mesh
+    C. A laparoscopic totally extraperitoneal mesh placement
+    D. Approximation of the conjoint tendon to the inguinal ligament with interrupted non-absorbable sutures
+   key=B ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: The Lichtenstein repair is the archetypal open tension-free hernioplasty, reinforcing the posterior inguinal wall with a flat prosthetic (usually polypropylene) mesh sutured over the defect. Option A describes the Shouldice repair, D the Bassini repair and C the laparoscopic TEP approach. The tension-free principle underlies its low recurrence rate compared with pure-tissue (sutured) repairs, making it a standard open technique.
+Q_GEN_SURG_HERNIA_018 [M] Among the pure tissue (non-mesh) repairs of inguinal hernia, which technique is associated with the lowest recurrence rate?
+   *A. Shouldice repair
+    B. Bassini repair
+    C. Halsted repair
+    D. Marcy repair
+   key=A ref=SRB's Manual of Surgery — Hernia
+   concept: Among pure-tissue (non-mesh) repairs, the Shouldice repair, a multilayered continuous double-breasting of the transversalis fascia and conjoint structures, has the lowest recurrence rate (around 1% in specialist hands) and is superior to the Bassini, Halsted and Marcy repairs. Tension-free mesh techniques (Lichtenstein or laparoscopic) generally achieve even lower recurrence and are now more widely used in adults.
+Q_GEN_SURG_HERNIA_019 [H] Assertion (A): In a totally extraperitoneal (TEP) repair the peritoneal cavity is routinely opened. Reason (R): A transabdominal preperitoneal (TAPP) repair begins by entering the peritoneal cavity before dissecting the preperitoneal space. Select the most appropriate option.
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: In a TEP repair the peritoneal cavity is NOT opened: the mesh is placed entirely in the preperitoneal (extraperitoneal) space, so the assertion is false. The reason is true, because TAPP does begin by entering the peritoneal cavity and then reflecting the peritoneum to reach the preperitoneal plane. A false assertion with a true reason gives option D. TEP avoids intraperitoneal entry and its adhesion/visceral-injury risks.
+Q_GEN_SURG_HERNIA_020 [E] A truss for an inguinal hernia is most appropriately indicated in which situation?
+    A. A strangulated hernia awaiting theatre
+   *B. A reducible hernia in a patient who is unfit for, or declines, surgery
+    C. An irreducible femoral hernia
+    D. As the definitive treatment of choice in all young, fit patients
+   key=B ref=SRB's Manual of Surgery — Hernia
+   concept: A truss is a mechanical appliance that holds a reducible hernia reduced; its main legitimate role is palliation in a patient who is unfit for or refuses surgery. It is contraindicated in irreducible, obstructed or strangulated hernias, where it may worsen the situation, and it is not the treatment of choice in fit patients, who should undergo operative repair. It must only be applied once the hernia is fully reduced.
+Q_GEN_SURG_HERNIA_021 [H] A 3-year-old boy has an uncomplicated indirect inguinal hernia. Which operation is appropriate?
+   *A. Herniotomy, that is high ligation and excision of the sac, alone
+    B. Lichtenstein mesh repair
+    C. Shouldice multilayered tissue repair
+    D. McEvedy high approach with Cooper's ligament repair
+   key=A ref=Bailey & Love's Short Practice of Surgery — The Paediatric Surgery / Hernias
+   concept: In children an inguinal hernia is almost always indirect and arises from a patent processus vaginalis, with a structurally normal canal and posterior wall. Therefore herniotomy, meaning high ligation and excision of the sac at the deep ring, alone is curative. Herniorrhaphy, prosthetic mesh (Lichtenstein/Shouldice) and femoral (McEvedy) techniques are unnecessary and inappropriate in this age group and are avoided.
+Q_GEN_SURG_HERNIA_022 [M] A strangulated femoral hernia needs emergency surgery and is likely to require bowel resection. Which surgical approach gives the best access for this?
+    A. Lockwood low (infra-inguinal) approach
+    B. Lotheissen trans-inguinal approach
+    C. Kocher's subcostal approach
+   *D. McEvedy high (supra-inguinal / preperitoneal) approach
+   key=D ref=SRB's Manual of Surgery — Hernia
+   concept: For a strangulated femoral hernia likely to need bowel resection, the McEvedy high (supra-inguinal/preperitoneal) approach is preferred because it gives excellent access to the sac neck and to the bowel for resection and anastomosis. The Lockwood low and Lotheissen trans-inguinal approaches are better suited to elective repair of an uncomplicated femoral hernia, and Kocher's incision is used for biliary surgery.
+Q_GEN_SURG_HERNIA_023 [M] A soft, bluish, compressible groin swelling disappears completely on lying down, transmits a cough impulse with a palpable fluid thrill, and is associated with varicose veins in the same limb. The most likely diagnosis is:
+    A. Femoral hernia
+   *B. Saphena varix
+    C. Psoas abscess
+    D. Enlarged inguinal lymph node
+   key=B ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall / Veins
+   concept: A saphena varix is a saccular dilatation of the long saphenous vein at the saphenofemoral junction: a soft, bluish, compressible groin swelling that disappears instantly on lying down or leg elevation, transmits a cough impulse with a fluid thrill (Cruveilhier's sign) and is associated with varicose veins. A femoral hernia is firmer and less reducible, a lymph node is firm and discrete, and a psoas abscess tracks down from spinal disease.
+Q_GEN_SURG_HERNIA_024 [M] Which nerve traverses the inguinal canal lying on top of the spermatic cord (outside the cord coverings) and is commonly injured during inguinal hernia repair?
+    A. Iliohypogastric nerve
+   *B. Ilioinguinal nerve
+    C. Genital branch of the genitofemoral nerve
+    D. Femoral branch of the genitofemoral nerve
+   key=B ref=SRB's Manual of Surgery — Hernia / Surgical Anatomy of the Inguinal Region
+   concept: The ilioinguinal nerve traverses the inguinal canal lying on top of the spermatic cord, outside the cord coverings, and exits through the superficial ring to supply the upper scrotum/labium and adjacent thigh; it is frequently injured or entrapped during hernia repair. The genital branch of the genitofemoral nerve runs within the cord (supplying cremaster), while the iliohypogastric and the femoral branch of the genitofemoral do not run on the cord in the canal.
+Q_GEN_SURG_HERNIA_025 [H] Six months after an open inguinal hernia repair, a man reports persistent burning pain and paraesthesia in the groin radiating to the root of the scrotum and medial thigh, with a patch of numbness in the same area. The most likely cause is:
+    A. Ischaemic orchitis
+    B. Recurrence of the hernia
+   *C. Injury or entrapment of the ilioinguinal nerve
+    D. Mesh infection
+   key=C ref=Bailey & Love's Short Practice of Surgery — Hernias, Umbilicus and Abdominal Wall
+   concept: Persistent burning pain, paraesthesia and a patch of numbness in the groin radiating to the scrotal root and medial thigh after inguinal hernia repair typically reflect ilioinguinal nerve injury or entrapment (in scar, suture or mesh), the commonest cause of chronic post-herniorrhaphy (inguinodynia) groin pain. Ischaemic orchitis causes a painful swollen testis, recurrence produces a reappearing reducible lump, and mesh infection shows local inflammatory signs.
+
+=== Surgery / Thyroid swellings & surgery
+Q_GEN_SURG_THYROID_001 [M] During thyroidectomy the recurrent laryngeal nerve must be identified. Which statement about its surgical course is correct?
+    A. It runs on the anterior surface of the thyroid lobe and is unrelated to the inferior thyroid artery
+    B. It descends into the larynx alongside the superior thyroid artery at the upper pole
+   *C. It ascends in the tracheo-oesophageal groove, has a variable relation to the inferior thyroid artery, and is most vulnerable near the ligament of Berry
+    D. It always passes superficial (anterior) to every branch of the inferior thyroid artery
+   key=C ref=Bailey & Love's Short Practice of Surgery — The Thyroid Gland
+   concept: The recurrent laryngeal nerve ascends in the tracheo-oesophageal groove and its relation to the inferior thyroid artery is variable — it may pass anterior to, posterior to, or between the branches — so the artery cannot be used as an infallible guide. It is most at risk close to the ligament of Berry, where it lies intimately applied to the gland just before entering the larynx behind the cricothyroid joint. Options A, B and D state fixed or false relations and are wrong.
+Q_GEN_SURG_THYROID_002 [M] To protect the external branch of the superior laryngeal nerve while mobilising the upper pole of the thyroid, the surgeon should:
+   *A. Ligate the branches of the superior thyroid artery individually, close to (on) the upper pole of the gland
+    B. Mass-ligate the superior thyroid pedicle high up, well away from the gland
+    C. Ligate the inferior thyroid artery in continuity on the carotid sheath
+    D. Divide the middle thyroid vein first and avoid touching the upper pole
+   key=A ref=SRB's Manual of Surgery — Thyroid Gland
+   concept: The external branch of the superior laryngeal nerve runs with the superior thyroid artery towards the cricothyroid muscle and lies close to the vessels near the upper pole. Ligating the arterial branches individually and low, right on the gland capsule, keeps the tie away from the nerve; a high mass ligature (option B) risks catching the nerve. The inferior thyroid artery (option C) relates to the recurrent laryngeal nerve, not this one, and option D ignores the pole altogether.
+Q_GEN_SURG_THYROID_003 [E] The thyroid gland develops embryologically as a median endodermal downgrowth. From which site does it originate?
+    A. From the third pharyngeal pouch, which also forms the inferior parathyroid glands
+   *B. From the foramen cecum at the junction of the anterior two-thirds and posterior one-third of the tongue, descending via the thyroglossal duct
+    C. From the ultimobranchial body derived from the fourth pharyngeal pouch
+    D. From the second pharyngeal arch mesoderm anterior to the hyoid bone
+   key=B ref=Bailey & Love's Short Practice of Surgery — The Thyroid Gland
+   concept: The median thyroid anlage arises as a diverticulum from the foramen cecum, located at the junction of the anterior two-thirds and posterior one-third of the tongue, then descends in front of the hyoid and larynx along the thyroglossal duct, which normally atrophies. Failure of descent gives a lingual thyroid and a persistent tract gives a thyroglossal cyst; the pyramidal lobe is its remnant. The parafollicular C-cells (option C, ultimobranchial body) and the parathyroids (option A) have separate origins.
+Q_GEN_SURG_THYROID_004 [M] A 12-year-old has a smooth, midline anterior neck swelling that moves upward on protrusion of the tongue and on swallowing. Which operation prevents recurrence?
+    A. Simple excision of the cyst alone through a transverse incision
+    B. Hemithyroidectomy with excision of the pyramidal lobe
+    C. Marsupialisation of the cyst and packing
+   *D. Sistrunk operation — excision of the cyst, the whole tract, and the central (body) portion of the hyoid bone
+   key=D ref=SRB's Manual of Surgery — Thyroglossal Cyst
+   concept: A midline swelling that rises with tongue protrusion is a thyroglossal cyst, because the tract is attached to the foramen cecum through the hyoid bone. Simple excision (option A) leaves the tract behind and recurs. The Sistrunk operation removes the cyst, the entire tract up to the foramen cecum and the central portion of the hyoid bone, which the tract passes behind, giving the lowest recurrence rate. Marsupialisation and hemithyroidectomy are inappropriate for this lesion.
+Q_GEN_SURG_THYROID_005 [E] Which single statement most accurately characterises papillary carcinoma of the thyroid?
+   *A. It is the commonest thyroid malignancy, spreads predominantly by lymphatics to cervical nodes, and carries the best prognosis
+    B. It is the commonest thyroid malignancy and spreads mainly by the bloodstream to bone and lung
+    C. It arises from parafollicular C-cells and secretes calcitonin
+    D. It is an undifferentiated tumour of elderly patients that is rapidly fatal
+   key=A ref=Bailey & Love's Short Practice of Surgery — The Thyroid Gland
+   concept: Papillary carcinoma is the most common thyroid malignancy and typically spreads via intrathyroidal and regional cervical lymphatics, yet despite frequent nodal involvement it has the best long-term prognosis of the thyroid cancers, especially in young patients. Haematogenous spread (option B) characterises follicular carcinoma, calcitonin-secreting C-cell origin (option C) is medullary carcinoma, and the elderly rapidly fatal undifferentiated tumour (option D) is anaplastic carcinoma.
+Q_GEN_SURG_THYROID_006 [M] Assertion (A): Follicular carcinoma of the thyroid cannot be diagnosed by fine-needle aspiration cytology (FNAC) alone. Reason (R): The distinction between a follicular adenoma and a follicular carcinoma rests on capsular and/or vascular invasion, which can only be demonstrated on histology of the whole capsule.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=SRB's Manual of Surgery — Thyroid Malignancy
+   concept: FNAC samples cells but not the tumour capsule, so it can report a follicular neoplasm but cannot separate a benign follicular adenoma from a follicular carcinoma; malignancy is defined by invasion through the capsule or into vessels, which requires examination of the entire capsule on paraffin histology (usually after diagnostic hemithyroidectomy). The reason therefore directly and correctly explains the assertion. Follicular carcinoma also spreads haematogenously to bone and lung rather than to nodes.
+Q_GEN_SURG_THYROID_007 [M] Which set of features correctly describes medullary carcinoma of the thyroid?
+    A. Arises from follicular cells; concentrates radioiodine; treated with I-131 ablation
+    B. Arises from follicular epithelium; produces thyroglobulin; spreads by lymphatics with excellent prognosis
+   *C. Arises from parafollicular C-cells; secretes calcitonin with amyloid stroma; associated with MEN 2 and RET proto-oncogene mutations
+    D. Arises from B-lymphocytes on a background of Hashimoto's thyroiditis
+   key=C ref=Bailey & Love's Short Practice of Surgery — The Thyroid Gland
+   concept: Medullary thyroid carcinoma arises from the neural-crest-derived parafollicular C-cells and secretes calcitonin, which deposits as amyloid in the stroma; carcinoembryonic antigen is a co-marker. About a quarter are familial as part of MEN 2A/2B, driven by germline RET proto-oncogene mutations, so genetic testing and screening for phaeochromocytoma are essential. It does not take up radioiodine (option A is false) because it is not of follicular origin (ruling out options A and B), and option D describes primary thyroid lymphoma.
+Q_GEN_SURG_THYROID_008 [M] A 72-year-old woman reports a hard neck mass that has enlarged rapidly over six weeks with new hoarseness and stridor; it is fixed to surrounding structures. Which diagnosis is most likely?
+    A. Papillary carcinoma
+   *B. Anaplastic (undifferentiated) carcinoma
+    C. Simple colloid goitre
+    D. Follicular adenoma
+   key=B ref=SRB's Manual of Surgery — Thyroid Malignancy
+   concept: A rapidly enlarging, hard, fixed thyroid mass in an elderly patient with pressure symptoms (hoarseness from recurrent laryngeal nerve involvement, stridor from tracheal compression) is characteristic of anaplastic carcinoma. It is one of the most aggressive human cancers, usually inoperable at presentation, and survival is typically only months; management is largely palliative, sometimes with isthmusectomy or tracheostomy to secure the airway. Papillary carcinoma (option A) and the benign lesions (options C and D) grow slowly and are not fixed or rapidly fatal.
+Q_GEN_SURG_THYROID_009 [H] A middle-aged woman has a stony-hard, woody thyroid swelling fixed to the trachea and strap muscles with dysphagia; she has known retroperitoneal fibrosis, and biopsy shows dense fibrosis extending beyond the gland with no malignant cells. What is the diagnosis and its surgical relevance?
+    A. Anaplastic carcinoma; requires total thyroidectomy with neck dissection
+    B. de Quervain's (subacute) thyroiditis; treat with total thyroidectomy
+    C. Papillary carcinoma; treat with radioiodine ablation
+   *D. Riedel's thyroiditis; surgery is limited to wedge/isthmus resection to relieve tracheal compression, with steroids or tamoxifen
+   key=D ref=Bailey & Love's Short Practice of Surgery — Thyroiditis
+   concept: Riedel's (invasive fibrous) thyroiditis is a rare disorder in which dense fibrosis replaces the gland and extends into adjacent strap muscles and trachea, producing a woody-hard fixed swelling that clinically mimics anaplastic carcinoma; it is now regarded as part of the IgG4-related fibrosclerosing spectrum and is associated with retroperitoneal and mediastinal fibrosis. Because it is benign and infiltrative, radical surgery is dangerous; treatment is a limited wedge or isthmus resection to relieve tracheal/oesophageal compression plus corticosteroids or tamoxifen. Options A, B and C misidentify the pathology and its management.
+Q_GEN_SURG_THYROID_010 [H] An elderly woman with long-standing Hashimoto's thyroiditis presents with a rapidly enlarging goitre over a few weeks. Core biopsy is most likely to show which malignancy, and what is its primary treatment?
+    A. Follicular carcinoma; treated by total thyroidectomy and radioiodine
+   *B. Primary thyroid non-Hodgkin (B-cell/MALT) lymphoma; treated chiefly by chemotherapy and radiotherapy rather than surgery
+    C. Medullary carcinoma; treated by total thyroidectomy and central node dissection
+    D. Anaplastic carcinoma; treated by radical total thyroidectomy
+   key=B ref=SRB's Manual of Surgery — Thyroid Malignancy
+   concept: Chronic lymphocytic (Hashimoto's) thyroiditis is the recognised background for primary thyroid lymphoma, almost always a non-Hodgkin B-cell type (often MALT-derived), classically in an older woman whose goitre suddenly enlarges. Diagnosis needs a core or open biopsy rather than FNAC, and the mainstay of treatment is chemotherapy (e.g. CHOP) with or without radiotherapy — thyroidectomy is not the primary treatment and is reserved for airway compromise or diagnosis. Options A, C and D name tumours unrelated to the Hashimoto background or mismanage the lymphoma.
+Q_GEN_SURG_THYROID_011 [E] A patient presents with a solitary thyroid nodule. What is the correct initial diagnostic approach?
+    A. Proceed directly to total thyroidectomy for histology
+    B. Start empirical thyroxine suppression and review in six months
+   *C. Measure serum TSH first; if it is suppressed, perform a radioisotope scan, and if TSH is normal or high, do ultrasound-guided FNAC
+    D. Order a CT neck with contrast as the first-line test
+   key=C ref=Bailey & Love's Short Practice of Surgery — The Solitary Thyroid Nodule
+   concept: Work-up of a solitary thyroid nodule begins with serum TSH. A suppressed TSH suggests an autonomously functioning nodule, so a radioisotope (technetium or iodine) scan is done — a hot nodule is almost always benign and does not need cytology. If TSH is normal or high the nodule is more likely cold/non-functioning, so ultrasound and ultrasound-guided FNAC (Bethesda reporting) guide management. Immediate surgery (option A), blind suppression (option B) and first-line contrast CT (option D, which also delays any needed radioiodine) are all inappropriate initial steps.
+Q_GEN_SURG_THYROID_012 [E] Assertion (A): A hyperfunctioning (hot) thyroid nodule on radioisotope scan seldom requires FNAC. Reason (R): Autonomously functioning (toxic) nodules are almost always benign.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=SRB's Manual of Surgery — Solitary Thyroid Nodule
+   concept: A hot nodule concentrates the isotope more than surrounding tissue and usually suppresses the rest of the gland; such autonomously functioning nodules carry a very low (roughly 1 percent) risk of malignancy, so cytology is generally unnecessary and management focuses on the hyperthyroidism (radioiodine, antithyroid drugs or lobectomy). Because the low malignant potential of hot nodules is precisely why FNAC is usually skipped, the reason correctly explains the assertion. In contrast, cold (non-functioning) nodules carry the higher malignancy risk and require FNAC.
+Q_GEN_SURG_THYROID_013 [H] On ultrasound, which combination of features is MOST suggestive of a malignant thyroid nodule?
+    A. Purely cystic nodule with a comet-tail artefact
+    B. Spongiform nodule with peripheral eggshell (rim) calcification
+   *C. Marked hypoechogenicity, punctate microcalcifications, irregular/spiculated margins and a taller-than-wide shape
+    D. Isoechoic nodule with a thin complete peripheral halo
+   key=C ref=Bailey & Love's Short Practice of Surgery — Investigation of the Thyroid
+   concept: Sonographic features that raise concern for thyroid malignancy include marked hypoechogenicity, punctate microcalcifications (often psammoma bodies in papillary carcinoma), irregular or spiculated (microlobulated) margins, a taller-than-wide shape in the transverse plane, and increased chaotic intranodular vascularity. Reassuring benign features — purely cystic content, comet-tail artefact, a spongiform pattern, peripheral eggshell calcification and a thin complete halo (options A, B and D) — argue against cancer and, together with size, drive the TIRADS decision to biopsy.
+Q_GEN_SURG_THYROID_014 [M] A patient with a large retrosternal goitre develops facial congestion, plethora and distended neck veins with a sense of suffocation when both arms are raised above the head. This finding is called:
+    A. Trousseau's sign
+   *B. Pemberton's sign, indicating obstruction at the thoracic inlet by the retrosternal goitre
+    C. Chvostek's sign
+    D. Marcus Gunn phenomenon
+   key=B ref=SRB's Manual of Surgery — Goitre / Retrosternal Goitre
+   concept: Pemberton's sign is elicited by asking the patient to raise both arms above the head; a retrosternal goitre is drawn up into the narrow thoracic inlet, compressing the great veins (and trachea), which produces facial congestion, plethora, cyanosis, distended neck veins and respiratory distress within a minute. It signals significant thoracic-inlet/SVC obstruction and favours surgery. Trousseau's and Chvostek's signs (options A and C) indicate hypocalcaemia, and the Marcus Gunn phenomenon is a pupillary/neurological sign, so they are unrelated.
+Q_GEN_SURG_THYROID_015 [E] A 62-year-old woman with a long-standing nodular goitre now has palpitations, weight loss and atrial fibrillation but NO exophthalmos or other eye signs, and the gland is lumpy rather than diffusely enlarged. The most likely diagnosis is:
+    A. Graves' disease
+    B. de Quervain's (subacute) thyroiditis
+    C. Riedel's thyroiditis
+   *D. Toxic multinodular goitre (Plummer's disease)
+   key=D ref=Bailey & Love's Short Practice of Surgery — Thyrotoxicosis
+   concept: A long-standing multinodular goitre that becomes overactive in an older patient, presenting with cardiac features such as atrial fibrillation and a lumpy (not diffuse) gland and, importantly, WITHOUT the eye signs of Graves' disease, is a toxic multinodular goitre (Plummer's disease). Graves' disease (option A) typically affects younger patients with diffuse enlargement and ophthalmopathy; de Quervain's (option B) is a painful, tender, post-viral self-limiting thyroiditis; and Riedel's (option C) produces a hard fibrotic, usually hypothyroid gland.
+Q_GEN_SURG_THYROID_016 [M] Assertion (A): In preparing a patient with Graves' disease for thyroidectomy, Lugol's iodine is given for about 10 days before surgery. Reason (R): Iodine reduces the size and vascularity of the thyroid gland (and inhibits hormone release), making the operation safer.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=SRB's Manual of Surgery — Preoperative Preparation in Thyrotoxicosis
+   concept: In Graves' disease the gland is rendered euthyroid with antithyroid drugs and a beta-blocker, and a short course of Lugol's iodine (potassium iodide) is added for roughly 10 days immediately before operation. Pharmacological iodine acutely inhibits hormone release and, importantly for the surgeon, decreases the vascularity and firms up the gland, reducing intra-operative bleeding. Because reduced size and vascularity are exactly why iodine is given preoperatively, the reason correctly explains the assertion; giving iodine long term would instead cause escape and worsening thyrotoxicosis.
+Q_GEN_SURG_THYROID_017 [H] Beyond simply slowing the heart rate, what additional benefit makes propranolol useful in preparing a thyrotoxic patient and in treating thyroid storm?
+    A. It permanently destroys thyroid follicular cells
+    B. It blocks organification of iodine within the thyroid
+    C. It stimulates parathyroid hormone secretion to prevent hypocalcaemia
+   *D. It inhibits the peripheral conversion of thyroxine (T4) to the more active tri-iodothyronine (T3)
+   key=D ref=Bailey & Love's Short Practice of Surgery — Thyrotoxicosis / Thyroid Crisis
+   concept: Propranolol controls the adrenergic features of thyrotoxicosis (tachycardia, tremor, anxiety) by beta-blockade, but in higher doses it also inhibits the peripheral 5'-deiodinase conversion of T4 to the more metabolically active T3, which is why it is valuable both in rapid preoperative control and in the acute management of thyroid storm. It does not ablate follicular cells (option A), blocking organification is the action of carbimazole/propylthiouracil (option B), and it has no role in parathyroid hormone or calcium regulation (option C).
+Q_GEN_SURG_THYROID_018 [H] A few hours after thyroidectomy in an inadequately prepared thyrotoxic patient, there is hyperpyrexia, severe tachycardia with atrial fibrillation, agitation and dehydration. What is the most appropriate management of this thyroid storm?
+    A. Immediate re-exploration of the neck to control bleeding
+    B. High-dose Lugol's iodine given alone as the single definitive treatment
+   *C. Propranolol, an antithyroid drug (propylthiouracil), iodine given after the antithyroid drug, hydrocortisone, active cooling and supportive fluids
+    D. Urgent intravenous calcium gluconate and observation
+   key=C ref=SRB's Manual of Surgery — Thyroid Crisis (Storm)
+   concept: Thyroid storm is a life-threatening exacerbation of thyrotoxicosis precipitated by surgery, infection or other stress in an inadequately prepared patient, with hyperpyrexia, marked tachyarrhythmia, agitation/delirium and dehydration. Treatment is combined and urgent: a beta-blocker (propranolol) for adrenergic control and to block T4-to-T3 conversion, an antithyroid drug (propylthiouracil, which also blocks conversion) given first, iodine added afterwards to block hormone release, hydrocortisone, active cooling, oxygen and fluid resuscitation. Re-exploration (option A) treats haematoma, iodine alone (option B) is inadequate, and IV calcium (option D) treats hypocalcaemia, a different complication.
+Q_GEN_SURG_THYROID_019 [M] Immediately after extubation following total thyroidectomy, a patient develops acute stridor and severe airway obstruction. Bilateral recurrent laryngeal nerve injury is suspected. Which statement is correct?
+    A. Both cords lie fully abducted, so the airway is wide and no action is needed
+   *B. Both cords tend to lie in the adducted/paramedian position, causing airway obstruction that often requires immediate re-intubation and possibly tracheostomy
+    C. The patient will be completely aphonic but breathe normally
+    D. It causes hypocalcaemic laryngospasm best treated with oral calcium tablets
+   key=B ref=Bailey & Love's Short Practice of Surgery — Complications of Thyroidectomy
+   concept: Bilateral recurrent laryngeal nerve injury paralyses the main abductors (posterior cricoarytenoids) so that, under the unopposed action of the intact external laryngeal/cricothyroid muscles, both cords tend to lie adducted in the paramedian position. This narrows the glottis and can cause acute stridor and airway obstruction on extubation, demanding immediate re-intubation and often a tracheostomy. Full abduction with a safe airway (option A) is false, the patient is not simply aphonic-but-comfortable (option C), and this is nerve injury, not hypocalcaemic laryngospasm (option D).
+Q_GEN_SURG_THYROID_020 [H] A patient is hoarse after thyroidectomy and laryngoscopy confirms a unilateral recurrent laryngeal nerve palsy. What is the expected cord position and clinical course?
+   *A. The affected cord lies in the paramedian position, causing hoarseness that often improves over weeks as the opposite cord compensates by crossing the midline
+    B. The affected cord lies fully abducted, producing complete permanent aphonia and a fixed airway obstruction
+    C. Both cords are paralysed, causing immediate life-threatening stridor
+    D. The cord fixes in the midline, permanently abolishing all voice and requiring emergency tracheostomy
+   key=A ref=SRB's Manual of Surgery — Recurrent Laryngeal Nerve Injury
+   concept: In a unilateral recurrent laryngeal nerve palsy the affected cord usually comes to lie in the paramedian position; the voice is hoarse or weak initially, but over weeks to months the opposite (normal) cord frequently compensates by crossing the midline to appose it, so the voice often improves and the airway generally remains adequate. Option C describes bilateral injury, while the fixed-abducted/permanent-aphonia and emergency-tracheostomy pictures (options B and D) overstate a single-nerve lesion and are incorrect.
+Q_GEN_SURG_THYROID_021 [H] Two hours after thyroidectomy the patient becomes distressed with a rapidly swelling, tense neck and worsening stridor. What is the correct immediate action?
+    A. Give intravenous calcium gluconate and reassure the patient
+    B. Order an urgent CT neck before doing anything
+    C. Nebulise adrenaline and continue observation
+   *D. Open the wound immediately at the bedside — remove the skin sutures/clips and evacuate the clot to relieve airway compression — then take the patient back to theatre
+   key=D ref=Bailey & Love's Short Practice of Surgery — Postoperative Haemorrhage after Thyroidectomy
+   concept: A tense, rapidly expanding neck swelling with respiratory distress soon after thyroidectomy is a reactionary/tension haematoma; the deep collection raises venous pressure and causes laryngeal oedema, so airway obstruction can develop faster than the visible swelling suggests. This is a surgical emergency: the wound must be opened at the bedside immediately, the skin clips/sutures removed and the clot evacuated to decompress the airway, after which the patient returns to theatre for haemostasis. Waiting for a CT (option B), and treatments aimed at hypocalcaemia or allergy (options A and C) waste critical time.
+Q_GEN_SURG_THYROID_022 [M] Which statement about the parathyroid glands is most relevant to preserving them during thyroidectomy?
+    A. The superior parathyroids are supplied only by the superior thyroid artery and the inferior ones only by the inferior thyroid artery
+    B. The parathyroids have no arterial supply and depend on diffusion, so ligation level is irrelevant
+   *C. Both superior and inferior parathyroids are supplied mainly by the inferior thyroid artery, so its branches should be ligated close to the thyroid capsule, and any devascularised gland can be autotransplanted into the sternocleidomastoid
+    D. The parathyroids are best preserved by mass ligation of the inferior thyroid artery trunk on the carotid sheath
+   key=C ref=SRB's Manual of Surgery — Parathyroid Preservation in Thyroidectomy
+   concept: Both the superior and inferior parathyroid glands derive their blood supply predominantly from the inferior thyroid artery (its branches). To preserve them, the surgeon ligates the terminal branches of the inferior thyroid artery close to (on) the thyroid capsule rather than dividing the main trunk laterally, which would devascularise the glands. A parathyroid that is inadvertently devascularised or removed can be diced and autotransplanted into the sternocleidomastoid to preserve function. Options A, B and D misstate the supply or advocate a trunk ligation that endangers the glands.
+Q_GEN_SURG_THYROID_023 [H] After total thyroidectomy and radioiodine ablation for differentiated (papillary/follicular) thyroid carcinoma, which serum marker is used to monitor for recurrence?
+    A. Serum calcitonin
+   *B. Serum thyroglobulin, which should become undetectable and, if it rises, indicates recurrent or residual tumour
+    C. Serum parathyroid hormone
+    D. Serum alpha-fetoprotein
+   key=B ref=Bailey & Love's Short Practice of Surgery — Follow-up of Thyroid Cancer
+   concept: Once all normal and malignant thyroid tissue has been removed by total thyroidectomy and radioiodine ablation, differentiated (papillary and follicular) carcinoma is followed with serum thyroglobulin, which is produced only by thyroid follicular tissue; it should fall to undetectable, and any subsequent rise signals residual or recurrent disease (anti-thyroglobulin antibodies must also be checked as they interfere with the assay). Calcitonin and CEA (option A) are the markers for medullary carcinoma, parathyroid hormone (option C) reflects the parathyroids, and alpha-fetoprotein (option D) is unrelated to thyroid cancer.
+Q_GEN_SURG_THYROID_024 [M] In differentiated thyroid carcinoma, which feature is an accepted indication for TOTAL thyroidectomy rather than a diagnostic lobectomy?
+    A. A solitary intrathyroidal papillary microcarcinoma under 1 cm in a young low-risk patient
+    B. A hot (autonomously functioning) benign nodule causing thyrotoxicosis
+    C. A simple colloid nodule with benign (Bethesda II) cytology
+   *D. A tumour larger than 4 cm, or with extrathyroidal extension, bilateral/multifocal disease, nodal or distant metastases, or a history of neck irradiation
+   key=D ref=SRB's Manual of Surgery — Management of Thyroid Carcinoma
+   concept: Total (or near-total) thyroidectomy is indicated in differentiated thyroid cancer when the tumour is large (generally more than 4 cm), shows extrathyroidal extension, is bilateral or multifocal, has lymph-node or distant metastases, or arises after previous neck irradiation, because it enables radioiodine ablation, thyroglobulin follow-up and TSH-suppressive thyroxine. Small unifocal low-risk cancers (option A) may be managed by lobectomy, while a benign hot nodule (option B) and a benign colloid nodule (option C) are not cancers requiring total thyroidectomy at all.
+
+=== Surgery / Trauma, shock, ATLS basics
+Q_C_012 [H] A 25-year-old trauma victim has a heart rate of 130/min, a measurable fall in systolic blood pressure, respiratory rate of 30/min, confusion and reduced urine output. Using the ATLS classification, this corresponds to approximately which class and volume of blood loss?
+   *A. Class III (30-40%, ~1500-2000 mL)
+    B. Class I (<15%)
+    C. Class II (15-30%)
+    D. Class IV (>40%)
+   key=A ref=ATLS 10th edition (Shock) - web-verified 2026-07-04
+   concept: Hypotension with marked tachycardia (120-140/min), tachypnoea and altered mental status defines Class III haemorrhagic shock (30-40% blood loss, ~1.5-2 L), the point at which blood pressure clearly falls. Class II has tachycardia with still-normal BP; Class IV is >40% with obtundation.
+Q_C_013 [M] After blunt chest trauma a patient becomes acutely breathless and hypotensive, with the trachea deviated to the left, absent breath sounds and hyperresonance on the right, and distended neck veins. What is the immediate management?
+   *A. Needle decompression on the right (2nd intercostal space, midclavicular line)
+    B. Urgent CT thorax
+    C. Wait and repeat chest X-ray in 1 hour
+    D. Pericardiocentesis
+   key=A ref=ATLS 10th edition / Bailey & Love 27e (Thoracic trauma)
+   concept: This is a tension pneumothorax, a clinical diagnosis needing IMMEDIATE needle decompression of the affected side (large-bore cannula, 2nd ICS midclavicular line, or the 4th/5th ICS anterior axillary line per updated ATLS), followed by a chest drain. Never delay for imaging.
+Q_PYQ_INICET_2025MAY_020 [M] A 40-year-old male presents to the emergency department with severe respiratory distress, BP 70/59 mmHg, tracheal deviation to the right, distended neck veins and absent breath sounds on the left side. These findings are suggestive of a tension pneumothorax. What is the most appropriate immediate next step in management?
+   *A. Perform needle thoracostomy immediately
+    B. CT Chest
+    C. Airway, breathing, and circulation (ABC) assessment
+    D. Chest tube insertion
+   key=A ref=INI-CET May 2025 (real exam recall)
+   concept: A tension pneumothorax with obstructive shock is a clinical diagnosis requiring immediate needle decompression (needle thoracostomy) without waiting for imaging, followed by a chest tube. NOTE: the scraped key said C (ABC assessment); although ATLS always frames care around ABC, once tension pneumothorax with shock is identified the specific life-saving next step is needle thoracostomy, so the intended answer is A - flagged.
+
+=== Surgery / Urinary stones, BPH, hematuria
+Q_PYQ_FMGE_2025JULP1_132 [M] A 13-year-old boy presents with right testicular pain 2 hours after being hit by a cricket ball. On examination there is severe testicular pain and an absent cremasteric reflex. What is the next step?
+   *A. USG Arterial Doppler
+    B. NSAIDS
+    C. USG Venous Doppler
+    D. Surgical exploration
+   key=A ref=FMGE July 2025 Part 1 (real exam recall)
+   concept: Acute severe testicular pain with an absent cremasteric reflex is testicular torsion until excluded. Colour Doppler US (arterial flow) is the first-line investigation when the diagnosis is uncertain, showing reduced/absent intratesticular flow. NOTE: the scraped key A (arterial Doppler) is defensible here given the trauma history, but with classic torsion signs many guidelines advise immediate surgical exploration (option D) without delaying for imaging - hence flagged as genuinely ambiguous.
+
+[58 shown of 58 unverified in scope]

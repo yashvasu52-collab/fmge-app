@@ -1,0 +1,44 @@
+Q_OBG_PTL_011 | del | duplicate of Q_OBG_PTL_002, whose key already lists respiratory distress, intraventricular haemorrhage and necrotising enterocolitis. The first item is retained
+Q_OBG_PRO_003 | del | duplicate of Q_OBG_ABL_020, which presents the same obstetric fistula from pressure necrosis as a case. The vignette is retained
+Q_OBG_AUB_001 | del | duplicate of Q_OBG_AUB_011, which gives thelarche as the first event within the whole pubertal sequence. The fuller item is retained
+Q_OBG_AUB_005 | del | duplicate of Q_OBG_AUB_015, which presents the same intrauterine adhesions as a case with the hormone challenge results. The vignette is retained
+Q_OBG_AUB_006 | del | duplicate of Q_OBG_MDP_001 on the PALM-COEIN placement of leiomyoma. The item that also names the submucosal subtype is retained
+Q_OBG_AUB_007 | del | duplicate of Q_OBG_AUB_017, which applies the same need for endometrial sampling to a woman with a thickened endometrium. The vignette is retained
+Q_OBG_PTL_009 | ok |
+Q_OBG_PTL_010 | ok |
+Q_OBG_PTL_013 | ok |
+Q_OBG_PTL_015 | ok |
+Q_OBG_PTL_016 | ok |
+Q_OBG_PTL_017 | ok |
+Q_OBG_PTL_018 | ok |
+Q_OBG_PTL_019 | ok |
+Q_OBG_PRO_002 | ok |
+Q_OBG_PRO_005 | ok |
+Q_OBG_PRO_006 | ok |
+Q_OBG_PRO_007 | ok |
+Q_OBG_PRO_008 | ok |
+Q_OBG_PRO_010 | ok |
+Q_OBG_PRO_012 | ok |
+Q_OBG_PRO_013 | ok |
+Q_OBG_PRO_014 | ok |
+Q_OBG_PRO_015 | ok |
+Q_OBG_PRO_016 | ok |
+Q_OBG_PRO_017 | ok |
+Q_OBG_PRO_018 | ok |
+Q_OBG_AUB_002 | ok |
+Q_OBG_AUB_003 | ok |
+Q_OBG_AUB_004 | ok |
+Q_OBG_AUB_008 | ok |
+Q_OBG_AUB_009 | ok |
+Q_OBG_AUB_011 | ok |
+Q_OBG_AUB_012 | ok |
+Q_OBG_AUB_013 | ok |
+Q_OBG_AUB_014 | ok |
+Q_OBG_AUB_015 | ok |
+Q_OBG_AUB_016 | ok |
+Q_OBG_AUB_017 | ok |
+Q_OBG_AUB_019 | ok |
+Q_OBG_PUE_001 | ok |
+Q_OBG_PUE_002 | ok |
+Q_OBG_PUE_003 | ok |
+Q_OBG_PUE_004 | ok |

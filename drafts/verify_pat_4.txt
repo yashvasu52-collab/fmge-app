@@ -1,0 +1,44 @@
+Q_PAT_GRN_013 | del | duplicate of Q_PAT_GRN_003 on the Ghon complex of primary pulmonary tuberculosis. The first item is retained
+Q_PAT_GRN_015 | del | duplicate of Q_PAT_GRN_006, whose key already attributes miliary tuberculosis to simultaneous haematogenous seeding. The first item is retained
+Q_PAT_HDN_011 | del | duplicate of Q_PAT_HDN_001 on the components of Virchow's triad. The first item is retained
+Q_PAT_HDN_002 | del | duplicate of Q_PAT_HDN_012, which gives the same lines of Zahn and additionally the chicken-fat appearance and attachment of a postmortem clot. The fuller item is retained
+Q_PAT_HDN_003 | del | duplicate of Q_PAT_HDN_013, which identifies the same haemorrhagic infarct and additionally explains why. The fuller item is retained
+Q_PAT_HDN_014 | del | duplicate of Q_PAT_HDN_004 on fat embolism syndrome 24 to 72 hours after a long bone fracture. The first item is retained
+Q_PAT_IMM_011 | del | duplicate of Q_PAT_IMM_004 on X-linked agammaglobulinaemia presenting after six months with absent B cells. The first item is retained
+Q_PAT_IMM_007 | del | duplicate of Q_PAT_IMM_012, which gives the same NADPH oxidase defect and additionally the catalase-positive organisms and the dihydrorhodamine test. The fuller item is retained
+Q_PAT_GRN_005 | ok |
+Q_PAT_GRN_006 | ok |
+Q_PAT_GRN_007 | ok |
+Q_PAT_GRN_008 | ok |
+Q_PAT_GRN_010 | ok |
+Q_PAT_GRN_011 | ok |
+Q_PAT_GRN_012 | ok |
+Q_PAT_GRN_014 | ok |
+Q_PAT_GRN_016 | ok |
+Q_PAT_HDN_001 | ok |
+Q_PAT_HDN_004 | ok |
+Q_PAT_HDN_005 | ok |
+Q_PAT_HDN_006 | ok |
+Q_PAT_HDN_007 | ok |
+Q_PAT_HDN_008 | ok |
+Q_PAT_HDN_009 | ok |
+Q_PAT_HDN_010 | ok |
+Q_PAT_HDN_012 | ok |
+Q_PAT_HDN_013 | ok |
+Q_PAT_HDN_016 | ok |
+Q_PAT_HAA_001 | ok |
+Q_PAT_HAA_002 | ok |
+Q_PAT_HAA_003 | ok |
+Q_PAT_HAA_004 | ok |
+Q_PAT_HAA_005 | ok |
+Q_PAT_HAA_006 | ok |
+Q_PAT_IMM_001 | ok |
+Q_PAT_IMM_002 | ok |
+Q_PAT_IMM_003 | ok |
+Q_PAT_IMM_004 | ok |
+Q_PAT_IMM_005 | ok |
+Q_PAT_IMM_006 | ok |
+Q_PAT_IMM_008 | ok |
+Q_PAT_IMM_009 | ok |
+Q_PAT_IMM_010 | ok |
+Q_PAT_IMM_012 | ok |

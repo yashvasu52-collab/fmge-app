@@ -1,0 +1,973 @@
+{
+ "questions": [
+  {
+   "id": "Q_SUR_OES_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "E",
+   "stem": "Progressive dysphagia to solids then liquids in an elderly smoker suggests:",
+   "options": [
+    "Carcinoma of the oesophagus",
+    "Achalasia cardia",
+    "Diffuse oesophageal spasm",
+    "Plummer-Vinson syndrome"
+   ],
+   "correct": 0,
+   "concept": "Mechanical obstruction causes dysphagia first to solids progressing to liquids with weight loss, whereas motility disorders such as achalasia cause dysphagia to both from the outset. Endoscopy with biopsy is the investigation of choice.",
+   "reference": "Bailey & Love 28e, Oesophagus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "M",
+   "stem": "Achalasia cardia is characterised manometrically by:",
+   "options": [
+    "Failure of relaxation of the lower oesophageal sphincter with absent peristalsis",
+    "Hypotensive lower oesophageal sphincter",
+    "Normal peristalsis",
+    "Uncoordinated high-amplitude contractions only"
+   ],
+   "correct": 0,
+   "concept": "Loss of inhibitory myenteric neurons produces a non-relaxing hypertensive sphincter with aperistalsis, giving a bird-beak appearance on barium swallow. Pneumatic dilatation, Heller myotomy or POEM are treatment options.",
+   "reference": "Bailey & Love 28e, Oesophagus",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "M",
+   "stem": "Barrett oesophagus is:",
+   "options": [
+    "Intestinal (columnar) metaplasia of the lower oesophagus predisposing to adenocarcinoma",
+    "Squamous metaplasia",
+    "A benign stricture",
+    "An oesophageal web"
+   ],
+   "correct": 0,
+   "concept": "Chronic acid reflux replaces squamous with specialised intestinal columnar epithelium, a premalignant change for adenocarcinoma requiring endoscopic surveillance; dysplasia is treated by radiofrequency ablation or resection.",
+   "reference": "Bailey & Love 28e, Oesophagus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "E",
+   "stem": "Plummer-Vinson (Paterson-Kelly) syndrome comprises:",
+   "options": [
+    "Dysphagia, iron deficiency anaemia and a postcricoid oesophageal web",
+    "Dysphagia, obesity and reflux",
+    "Dysphagia, jaundice and ascites",
+    "Dysphagia, goitre and tremor"
+   ],
+   "correct": 0,
+   "concept": "This syndrome of middle-aged women is a recognised premalignant condition for postcricoid squamous carcinoma. Iron replacement and dilatation of the web relieve symptoms.",
+   "reference": "Bailey & Love 28e, Oesophagus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "M",
+   "stem": "The commonest histological type of gastric carcinoma is:",
+   "options": [
+    "Adenocarcinoma",
+    "Squamous cell carcinoma",
+    "Lymphoma",
+    "Gastrointestinal stromal tumour"
+   ],
+   "correct": 0,
+   "concept": "Over 90% of gastric malignancies are adenocarcinoma, classified by Lauren into intestinal type, related to Helicobacter pylori and atrophic gastritis, and diffuse type with signet ring cells producing linitis plastica.",
+   "reference": "Bailey & Love 28e, Stomach",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "M",
+   "stem": "Virchow node, an enlarged left supraclavicular lymph node in gastric carcinoma, indicates:",
+   "options": [
+    "Advanced disease with distant nodal metastasis",
+    "Early operable disease",
+    "A benign reactive node",
+    "Local spread only"
+   ],
+   "correct": 0,
+   "concept": "Troisier sign, a palpable Virchow node, indicates metastatic spread via the thoracic duct and inoperability. Other signs of advanced disease are Sister Mary Joseph nodule, Krukenberg tumours and Blumer shelf.",
+   "reference": "Bailey & Love 28e, Stomach",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "E",
+   "stem": "Helicobacter pylori eradication is important in gastric disease because it:",
+   "options": [
+    "Reduces peptic ulcer recurrence and the risk of gastric carcinoma and MALT lymphoma",
+    "Cures all gastric cancers",
+    "Prevents reflux disease",
+    "Treats achalasia"
+   ],
+   "correct": 0,
+   "concept": "H. pylori is a class I carcinogen causing chronic gastritis, peptic ulcer, gastric adenocarcinoma and MALT lymphoma; eradication with triple or quadruple therapy heals ulcers, prevents recurrence and can regress early MALT lymphoma.",
+   "reference": "KDT 8e, Drugs for Peptic Ulcer",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "H",
+   "stem": "Krukenberg tumour refers to:",
+   "options": [
+    "Bilateral ovarian metastases with signet ring cells, classically from gastric carcinoma",
+    "A primary ovarian teratoma",
+    "A benign ovarian fibroma",
+    "A testicular tumour"
+   ],
+   "correct": 0,
+   "concept": "Transcoelomic and lymphatic spread from a gastric or colonic signet ring adenocarcinoma produces bilateral solid ovarian metastases with mucin-filled signet ring cells in a cellular stroma.",
+   "reference": "Bailey & Love 28e, Stomach",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "H",
+   "stem": "Boerhaave syndrome is:",
+   "options": [
+    "Spontaneous full-thickness oesophageal rupture after forceful vomiting",
+    "A mucosal tear at the gastro-oesophageal junction",
+    "A pharyngeal pouch",
+    "An oesophageal web"
+   ],
+   "correct": 0,
+   "concept": "Full-thickness rupture, usually of the left posterolateral distal oesophagus, causes severe chest pain, surgical emphysema and mediastinitis with high mortality. Mallory-Weiss tears are mucosal only and usually stop bleeding spontaneously.",
+   "reference": "Bailey & Love 28e, Oesophagus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_OES_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Oesophagus, stomach & gastric carcinoma",
+   "difficulty": "M",
+   "stem": "A pharyngeal (Zenker) pouch arises through:",
+   "options": [
+    "Killian dehiscence between thyropharyngeus and cricopharyngeus",
+    "The piriform fossa",
+    "The vallecula",
+    "The cricothyroid membrane"
+   ],
+   "correct": 0,
+   "concept": "A pulsion diverticulum herniates posteriorly through Killian dehiscence due to cricopharyngeal incoordination, causing dysphagia, regurgitation of undigested food, halitosis and gurgling. Endoscopic stapling or diverticulectomy with myotomy is curative.",
+   "reference": "Bailey & Love 28e, Oesophagus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "E",
+   "stem": "The commonest site of colorectal carcinoma is:",
+   "options": [
+    "The rectum and sigmoid colon",
+    "The caecum",
+    "The transverse colon",
+    "The splenic flexure"
+   ],
+   "correct": 0,
+   "concept": "About two-thirds of colorectal cancers arise in the rectosigmoid. Left-sided tumours present with obstruction and altered bowel habit with bleeding, while right-sided lesions present with anaemia and a mass because the lumen is wider and stool liquid.",
+   "reference": "Bailey & Love 28e, Colon and Rectum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "M",
+   "stem": "Familial adenomatous polyposis is characterised by:",
+   "options": [
+    "Autosomal dominant APC mutation with hundreds of colonic adenomas and near-certain malignancy",
+    "Autosomal recessive inheritance",
+    "Hamartomatous polyps",
+    "No malignant potential"
+   ],
+   "correct": 0,
+   "concept": "APC mutation on chromosome 5q causes hundreds to thousands of adenomas from adolescence with virtually 100% cancer risk by age 40, so prophylactic colectomy is required. Gardner and Turcot syndromes are variants.",
+   "reference": "Bailey & Love 28e, Colon and Rectum",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "M",
+   "stem": "Hirschsprung disease is confirmed by:",
+   "options": [
+    "Rectal biopsy showing absence of ganglion cells with hypertrophied nerve trunks",
+    "Barium enema alone",
+    "Anal manometry alone",
+    "Colonoscopy"
+   ],
+   "correct": 0,
+   "concept": "Full-thickness or suction rectal biopsy demonstrating aganglionosis in the submucosal and myenteric plexuses with hypertrophied cholinergic nerve trunks is diagnostic. Barium enema shows a transition zone and a reversed rectosigmoid index.",
+   "reference": "Bailey & Love 28e, Paediatric Surgery",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "E",
+   "stem": "The classical presentation of a fissure-in-ano is:",
+   "options": [
+    "Severe pain during and after defecation with bright red bleeding streaking the stool",
+    "Painless bleeding",
+    "Continuous discharge",
+    "A palpable mass"
+   ],
+   "correct": 0,
+   "concept": "An anal fissure, most often in the posterior midline, causes intense pain from sphincter spasm with minimal bright bleeding. Chronic fissures show a sentinel tag and hypertrophied papilla; treatment is stool softeners and topical diltiazem or GTN.",
+   "reference": "Bailey & Love 28e, Anal Canal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "M",
+   "stem": "Goodsall rule relates to:",
+   "options": [
+    "Predicting the course of an anal fistula tract from its external opening",
+    "Grading haemorrhoids",
+    "Staging rectal cancer",
+    "Assessing sphincter tone"
+   ],
+   "correct": 0,
+   "concept": "Goodsall rule states that an external opening anterior to the transverse anal line tracks radially to the anal canal, while a posterior opening curves to open in the posterior midline. Horseshoe fistulas follow the posterior pattern.",
+   "reference": "Bailey & Love 28e, Anal Canal",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "M",
+   "stem": "Second-degree haemorrhoids are defined as those that:",
+   "options": [
+    "Prolapse on straining and reduce spontaneously",
+    "Do not prolapse",
+    "Prolapse and require manual reduction",
+    "Remain permanently prolapsed"
+   ],
+   "correct": 0,
+   "concept": "First degree bleed without prolapse, second prolapse and reduce spontaneously, third need manual reduction and fourth are irreducible. Treatment escalates from diet and banding to haemorrhoidectomy.",
+   "reference": "Bailey & Love 28e, Anal Canal",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "E",
+   "stem": "Toxic megacolon is a life-threatening complication of:",
+   "options": [
+    "Ulcerative colitis and Clostridioides difficile colitis",
+    "Irritable bowel syndrome",
+    "Haemorrhoids",
+    "Anal fissure"
+   ],
+   "correct": 0,
+   "concept": "Transverse colon dilatation beyond 6 cm with systemic toxicity complicates severe colitis; barium enema and colonoscopy are contraindicated because of perforation risk. Failure to improve within 48 to 72 hours mandates colectomy.",
+   "reference": "Bailey & Love 28e, Inflammatory Bowel Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "H",
+   "stem": "Which feature distinguishes Crohn disease from ulcerative colitis?",
+   "options": [
+    "Transmural skip lesions with non-caseating granulomas and fistulae",
+    "Continuous mucosal disease from the rectum",
+    "Crypt abscesses only",
+    "Involvement limited to the colon"
+   ],
+   "correct": 0,
+   "concept": "Crohn disease is transmural with skip lesions anywhere from mouth to anus, granulomas, cobblestoning, strictures and fistulae, while ulcerative colitis is continuous mucosal inflammation from the rectum proximally with crypt abscesses and pseudopolyps.",
+   "reference": "Bailey & Love 28e, Inflammatory Bowel Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "H",
+   "stem": "Sigmoid volvulus characteristically shows which radiological sign?",
+   "options": [
+    "Coffee-bean or omega loop sign on plain abdominal radiograph",
+    "Double bubble",
+    "Thumbprinting",
+    "Rigler sign"
+   ],
+   "correct": 0,
+   "concept": "A massively distended sigmoid loop arising from the pelvis produces the coffee-bean appearance. Initial management is endoscopic decompression with a flatus tube, and elective sigmoid resection prevents recurrence unless gangrene demands urgent surgery.",
+   "reference": "Bailey & Love 28e, Intestinal Obstruction",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_SUR_COL_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Colon, rectum & anal canal disorders",
+   "difficulty": "M",
+   "stem": "Carcinoembryonic antigen in colorectal carcinoma is most useful for:",
+   "options": [
+    "Postoperative surveillance to detect recurrence",
+    "Screening the general population",
+    "Establishing the diagnosis",
+    "Determining histological grade"
+   ],
+   "correct": 0,
+   "concept": "CEA lacks sensitivity and specificity for screening or diagnosis, but a rising level after curative resection is a sensitive marker of recurrence. Screening is by faecal occult blood testing and colonoscopy.",
+   "reference": "Bailey & Love 28e, Colon and Rectum",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "E",
+   "stem": "Painless gross haematuria in an adult smoker should be investigated primarily for:",
+   "options": [
+    "Urothelial (transitional cell) carcinoma of the bladder",
+    "Urinary tract infection",
+    "Renal calculus",
+    "Benign prostatic hyperplasia"
+   ],
+   "correct": 0,
+   "concept": "Painless visible haematuria is bladder cancer until proven otherwise, especially in smokers and those exposed to aniline dyes and aromatic amines. Cystoscopy with upper tract imaging is mandatory.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "M",
+   "stem": "The classical triad of renal cell carcinoma is:",
+   "options": [
+    "Haematuria, flank pain and a palpable mass, present in only a minority",
+    "Fever, chills and dysuria",
+    "Frequency, urgency and nocturia",
+    "Anuria, oedema and hypertension"
+   ],
+   "correct": 0,
+   "concept": "The complete triad occurs in under 10% and indicates advanced disease. Renal cell carcinoma is notable for paraneoplastic syndromes - polycythaemia, hypercalcaemia, Stauffer syndrome - and spread along the renal vein into the inferior vena cava.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "M",
+   "stem": "The commonest testicular tumour in a young adult male is:",
+   "options": [
+    "Seminoma",
+    "Teratoma",
+    "Leydig cell tumour",
+    "Lymphoma"
+   ],
+   "correct": 0,
+   "concept": "Seminoma peaks at 30 to 40 years, is radiosensitive with excellent prognosis and may raise placental alkaline phosphatase but not alpha-fetoprotein. A raised AFP indicates a non-seminomatous element regardless of histology reported.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "E",
+   "stem": "The correct approach for a suspected testicular tumour is:",
+   "options": [
+    "Inguinal orchidectomy with high cord ligation, never trans-scrotal biopsy",
+    "Trans-scrotal biopsy first",
+    "Needle aspiration",
+    "Observation for six months"
+   ],
+   "correct": 0,
+   "concept": "A trans-scrotal approach violates lymphatic drainage planes and risks scrotal skin and inguinal node contamination, altering the pattern of spread. Tumour markers AFP, beta-hCG and LDH are taken before orchidectomy.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "M",
+   "stem": "A hydrocele is best distinguished from an inguinoscrotal hernia by:",
+   "options": [
+    "Ability to get above the swelling with a positive transillumination test",
+    "Cough impulse",
+    "Reducibility",
+    "Bowel sounds"
+   ],
+   "correct": 0,
+   "concept": "In a hydrocele the examining fingers can get above the swelling and it transilluminates brilliantly, whereas an inguinoscrotal hernia extends up into the inguinal canal with a cough impulse and may be reducible with bowel sounds.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "M",
+   "stem": "Sudden severe testicular pain in an adolescent with a high-riding transverse testis and absent cremasteric reflex indicates:",
+   "options": [
+    "Testicular torsion requiring emergency exploration within six hours",
+    "Epididymo-orchitis",
+    "Hydrocele",
+    "Varicocele"
+   ],
+   "correct": 0,
+   "concept": "Torsion is a surgical emergency as salvage falls sharply after 6 hours. A negative Prehn sign and absent cremasteric reflex favour torsion over epididymo-orchitis; exploration should not be delayed for imaging when suspicion is high.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "E",
+   "stem": "A left-sided varicocele of sudden onset in an older man should raise suspicion of:",
+   "options": [
+    "Left renal carcinoma obstructing the left testicular vein",
+    "Inguinal hernia",
+    "Hydrocele",
+    "Prostatitis"
+   ],
+   "correct": 0,
+   "concept": "The left testicular vein drains into the left renal vein, so a renal tumour invading it can obstruct drainage causing a new varicocele that does not empty on lying down. Ultrasound of the kidneys is indicated.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "H",
+   "stem": "Phimosis in an adult may predispose to:",
+   "options": [
+    "Squamous cell carcinoma of the penis",
+    "Testicular tumour",
+    "Bladder carcinoma",
+    "Renal calculi"
+   ],
+   "correct": 0,
+   "concept": "Chronic inflammation with retained smegma and inability to retract the foreskin is a risk factor for penile squamous carcinoma; neonatal circumcision is strongly protective. HPV infection is another important risk factor.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "H",
+   "stem": "Paraphimosis is a urological emergency because:",
+   "options": [
+    "The retracted tight foreskin forms a constricting band causing glans oedema and ischaemia",
+    "It causes urinary retention only",
+    "It leads to testicular torsion",
+    "It causes epididymitis"
+   ],
+   "correct": 0,
+   "concept": "A retracted phimotic ring acts as a tourniquet, producing progressive oedema and eventual necrosis of the glans. Manual reduction after compression, or a dorsal slit if that fails, is required urgently.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_URO_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Urology: renal, bladder & testicular tumours; hydrocele, phimosis",
+   "difficulty": "M",
+   "stem": "The commonest composition of urinary calculi is:",
+   "options": [
+    "Calcium oxalate",
+    "Uric acid",
+    "Struvite",
+    "Cystine"
+   ],
+   "correct": 0,
+   "concept": "Calcium oxalate accounts for about 70 to 80% of stones and is radio-opaque. Struvite (triple phosphate) stones form staghorn calculi with urease-producing Proteus infection, while uric acid stones are radiolucent and dissolve with urinary alkalinisation.",
+   "reference": "Bailey & Love 28e, Urology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_001",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "E",
+   "stem": "Intermittent claudication is characterised by:",
+   "options": [
+    "Calf pain on walking a fixed distance, relieved by rest",
+    "Pain at rest relieved by walking",
+    "Constant burning pain",
+    "Pain only at night in bed"
+   ],
+   "correct": 0,
+   "concept": "Claudication is reproducible exercise-induced muscle ischaemia relieved within minutes of rest. Progression to rest pain, typically in the forefoot at night and relieved by hanging the leg down, indicates critical limb ischaemia.",
+   "reference": "Bailey & Love 28e, Arterial Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_002",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "M",
+   "stem": "An ankle-brachial pressure index below 0.4 indicates:",
+   "options": [
+    "Critical limb ischaemia",
+    "Normal perfusion",
+    "Mild claudication",
+    "Venous disease"
+   ],
+   "correct": 0,
+   "concept": "An ABPI of 0.9 to 1.2 is normal, 0.5 to 0.9 indicates claudication and below 0.4 critical ischaemia. Falsely high values above 1.3 occur with calcified incompressible vessels in diabetes and chronic kidney disease.",
+   "reference": "Bailey & Love 28e, Arterial Disorders",
+   "tags": [
+    "#high-yield",
+    "#formula"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_003",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "M",
+   "stem": "The six Ps of acute limb ischaemia include all EXCEPT:",
+   "options": [
+    "Pyrexia",
+    "Pain",
+    "Pallor",
+    "Paralysis"
+   ],
+   "correct": 0,
+   "concept": "The six Ps are pain, pallor, pulselessness, paraesthesia, paralysis and perishing cold. Paralysis and sensory loss indicate a threatened limb requiring urgent revascularisation within about six hours.",
+   "reference": "Bailey & Love 28e, Arterial Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_004",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "E",
+   "stem": "Buerger disease (thromboangiitis obliterans) characteristically affects:",
+   "options": [
+    "Young male smokers, involving small and medium arteries of the limbs",
+    "Elderly diabetics",
+    "Young women",
+    "Large central arteries only"
+   ],
+   "correct": 0,
+   "concept": "Thromboangiitis obliterans is a segmental inflammatory thrombotic occlusion of small and medium vessels in young male heavy smokers, with migratory thrombophlebitis and Raynaud phenomenon. Absolute smoking cessation is the only effective treatment.",
+   "reference": "Bailey & Love 28e, Arterial Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_005",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "M",
+   "stem": "A venous ulcer characteristically occurs:",
+   "options": [
+    "In the gaiter area above the medial malleolus with surrounding lipodermatosclerosis",
+    "On the tips of the toes",
+    "Over the lateral malleolus with a punched-out edge",
+    "On the heel with painless deep necrosis"
+   ],
+   "correct": 0,
+   "concept": "Venous hypertension produces a shallow sloping ulcer in the gaiter area with haemosiderin pigmentation, varicose eczema and lipodermatosclerosis. Graduated compression after excluding arterial disease by ABPI is the mainstay.",
+   "reference": "Bailey & Love 28e, Venous Disorders",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_006",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "M",
+   "stem": "The Trendelenburg test in varicose veins assesses:",
+   "options": [
+    "Incompetence of the saphenofemoral junction and perforator valves",
+    "Deep venous patency",
+    "Arterial inflow",
+    "Lymphatic drainage"
+   ],
+   "correct": 0,
+   "concept": "After emptying the leg and occluding the saphenofemoral junction, rapid filling from above on release indicates junctional incompetence, while filling from below with the tourniquet in place indicates incompetent perforators. Perthes test assesses deep venous patency.",
+   "reference": "Bailey & Love 28e, Venous Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_007",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "E",
+   "stem": "An abdominal aortic aneurysm is generally considered for elective repair when its diameter exceeds:",
+   "options": [
+    "5.5 cm",
+    "3 cm",
+    "4 cm",
+    "8 cm"
+   ],
+   "correct": 0,
+   "concept": "Rupture risk rises steeply above 5.5 cm, at which point elective open or endovascular repair outweighs operative risk. Smaller aneurysms are monitored by ultrasound surveillance with blood pressure and smoking control.",
+   "reference": "Bailey & Love 28e, Arterial Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_008",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "H",
+   "stem": "The classical triad of a ruptured abdominal aortic aneurysm is:",
+   "options": [
+    "Abdominal or back pain, hypotension and a pulsatile abdominal mass",
+    "Fever, jaundice and pain",
+    "Vomiting, distension and constipation",
+    "Haematuria, fever and flank pain"
+   ],
+   "correct": 0,
+   "concept": "This triad in an older man demands immediate transfer to theatre; misdiagnosis as renal colic is a classic pitfall. Permissive hypotension is maintained until proximal control is achieved.",
+   "reference": "Bailey & Love 28e, Arterial Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_009",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "H",
+   "stem": "Subclavian steal syndrome results from:",
+   "options": [
+    "Proximal subclavian stenosis causing retrograde vertebral artery flow with arm exercise",
+    "Carotid stenosis",
+    "Aortic coarctation",
+    "Venous thrombosis"
+   ],
+   "correct": 0,
+   "concept": "Stenosis proximal to the vertebral origin causes blood to be siphoned retrogradely down the vertebral artery to supply the arm during exercise, producing posterior circulation symptoms - dizziness, diplopia, syncope - with a blood pressure difference between arms.",
+   "reference": "Bailey & Love 28e, Arterial Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_SUR_VAS_010",
+   "part": "B",
+   "subject": "Surgery",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Vascular surgery, varicose veins & peripheral arterial disease",
+   "difficulty": "M",
+   "stem": "The most important investigation before surgery for varicose veins is:",
+   "options": [
+    "Duplex ultrasound to map incompetence and confirm deep venous patency",
+    "Plain radiograph",
+    "Venography in all cases",
+    "CT angiography"
+   ],
+   "correct": 0,
+   "concept": "Duplex ultrasound identifies the sites of reflux and confirms the deep system is patent, since stripping superficial veins in a patient with deep venous obstruction would be harmful.",
+   "reference": "Bailey & Love 28e, Venous Disorders",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_OP_CNJ_001",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "E",
+   "stem": "A stye (hordeolum externum) is an acute infection of:",
+   "options": [
+    "The gland of Zeis or Moll at the lid margin",
+    "The meibomian gland",
+    "The lacrimal gland",
+    "The conjunctiva"
+   ],
+   "correct": 0,
+   "concept": "An external hordeolum is a staphylococcal abscess of the lash follicle and its associated glands, treated with hot compresses, lash epilation and topical antibiotics. Internal hordeolum involves the meibomian gland.",
+   "reference": "AK Khurana Ophthalmology 8e, Diseases of the Eyelids",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_002",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "M",
+   "stem": "A chalazion is:",
+   "options": [
+    "A chronic non-infective lipogranuloma of the meibomian gland",
+    "An acute abscess",
+    "A malignant tumour",
+    "A viral lesion"
+   ],
+   "correct": 0,
+   "concept": "Blocked meibomian secretion produces a painless firm nodule away from the lid margin. Incision and curettage from the conjunctival surface is standard; a recurrent chalazion in the elderly warrants biopsy to exclude sebaceous carcinoma.",
+   "reference": "AK Khurana Ophthalmology 8e, Diseases of the Eyelids",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_003",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "M",
+   "stem": "Cobblestone giant papillae on the upper tarsal conjunctiva with itching in a young boy in summer indicates:",
+   "options": [
+    "Vernal keratoconjunctivitis",
+    "Bacterial conjunctivitis",
+    "Trachoma",
+    "Viral conjunctivitis"
+   ],
+   "correct": 0,
+   "concept": "Vernal catarrh is a seasonal type I and IV hypersensitivity of young boys, with intense itching, ropy discharge, giant papillae and limbal Horner-Trantas dots. Mast cell stabilisers are the mainstay, steroids used sparingly.",
+   "reference": "AK Khurana Ophthalmology 8e, Conjunctiva",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_004",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "E",
+   "stem": "Ophthalmia neonatorum occurring within the first 48 hours of life is most likely due to:",
+   "options": [
+    "Chemical conjunctivitis from silver nitrate prophylaxis",
+    "Gonococcal infection",
+    "Chlamydial infection",
+    "Herpes simplex"
+   ],
+   "correct": 0,
+   "concept": "Timing guides aetiology: chemical within 1 to 2 days, gonococcal at 2 to 5 days with hyperacute purulent discharge threatening corneal perforation, and chlamydial at 5 to 14 days. Gonococcal disease is a medical emergency.",
+   "reference": "AK Khurana Ophthalmology 8e, Conjunctiva",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_005",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "M",
+   "stem": "A pterygium is:",
+   "options": [
+    "A triangular fibrovascular growth of conjunctiva encroaching onto the cornea, usually nasally",
+    "A corneal ulcer",
+    "A lid tumour",
+    "A lacrimal sac swelling"
+   ],
+   "correct": 0,
+   "concept": "Chronic ultraviolet and dust exposure drives pterygium formation, commonest nasally in the interpalpebral zone. Excision with conjunctival autograft has the lowest recurrence; a Stocker line of iron may mark its head.",
+   "reference": "AK Khurana Ophthalmology 8e, Conjunctiva",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_006",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "M",
+   "stem": "Watering of the eye with regurgitation of mucopurulent material on pressing over the lacrimal sac indicates:",
+   "options": [
+    "Chronic dacryocystitis with nasolacrimal duct block",
+    "Acute conjunctivitis",
+    "Dry eye",
+    "Trichiasis"
+   ],
+   "correct": 0,
+   "concept": "A positive regurgitation test confirms sac distension proximal to a nasolacrimal duct block. This is a source of infection and an absolute contraindication to intraocular surgery until treated by dacryocystorhinostomy.",
+   "reference": "AK Khurana Ophthalmology 8e, Lacrimal Apparatus",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_007",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "E",
+   "stem": "Congenital nasolacrimal duct obstruction in an infant is initially managed by:",
+   "options": [
+    "Massage over the lacrimal sac with topical antibiotics, as most resolve by one year",
+    "Immediate probing at birth",
+    "Immediate dacryocystorhinostomy",
+    "Observation without treatment"
+   ],
+   "correct": 0,
+   "concept": "Most membranous obstructions at the valve of Hasner open spontaneously; Criggler massage increases hydrostatic pressure to assist this. Probing is reserved for persistence beyond 9 to 12 months.",
+   "reference": "AK Khurana Ophthalmology 8e, Lacrimal Apparatus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_008",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "H",
+   "stem": "The Schirmer test measures:",
+   "options": [
+    "Aqueous tear production, with less than 10 mm wetting in 5 minutes suggesting dry eye",
+    "Tear film stability",
+    "Corneal sensation",
+    "Intraocular pressure"
+   ],
+   "correct": 0,
+   "concept": "Schirmer I without anaesthesia measures total secretion; tear film break-up time under 10 seconds assesses stability and indicates evaporative dry eye from meibomian gland dysfunction.",
+   "reference": "AK Khurana Ophthalmology 8e, Lacrimal Apparatus",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_009",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "H",
+   "stem": "Entropion causing trichiasis is most importantly complicated by:",
+   "options": [
+    "Corneal abrasion, ulceration and eventual opacity",
+    "Glaucoma",
+    "Cataract",
+    "Retinal detachment"
+   ],
+   "correct": 0,
+   "concept": "Inturned lashes abrade the cornea causing recurrent ulceration and scarring, a major blinding mechanism in cicatricial trachoma - which is why lid surgery is the S of the WHO SAFE strategy.",
+   "reference": "AK Khurana Ophthalmology 8e, Diseases of the Eyelids",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_CNJ_010",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Conjunctiva, lids & lacrimal apparatus",
+   "difficulty": "M",
+   "stem": "Ptosis with a dilated pupil and the eye deviated down and out indicates:",
+   "options": [
+    "Third cranial nerve palsy, requiring urgent exclusion of a posterior communicating artery aneurysm",
+    "Horner syndrome",
+    "Myasthenia gravis",
+    "Congenital ptosis"
+   ],
+   "correct": 0,
+   "concept": "Pupil-involving third nerve palsy suggests external compression, classically by an aneurysm, because parasympathetic fibres run superficially. Horner syndrome instead gives partial ptosis with a constricted pupil.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_001",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "E",
+   "stem": "Acute anterior uveitis characteristically presents with:",
+   "options": [
+    "Pain, photophobia, circumcorneal congestion and a small irregular pupil",
+    "Painless gradual visual loss",
+    "Purulent discharge",
+    "Itching"
+   ],
+   "correct": 0,
+   "concept": "Ciliary spasm causes pain and photophobia with ciliary injection, keratic precipitates, aqueous flare and cells, and posterior synechiae producing an irregular pupil. Cycloplegics and topical steroids are the mainstay.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_002",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "M",
+   "stem": "Anterior uveitis is most strongly associated with which HLA type?",
+   "options": [
+    "HLA-B27",
+    "HLA-DR4",
+    "HLA-B8",
+    "HLA-A3"
+   ],
+   "correct": 0,
+   "concept": "HLA-B27 associated acute anterior uveitis is typically unilateral, recurrent and alternating, occurring with ankylosing spondylitis, reactive arthritis, psoriatic arthritis and inflammatory bowel disease.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_003",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "M",
+   "stem": "Mutton-fat keratic precipitates indicate:",
+   "options": [
+    "Granulomatous uveitis, as in tuberculosis or sarcoidosis",
+    "Non-granulomatous uveitis",
+    "Bacterial keratitis",
+    "Glaucoma"
+   ],
+   "correct": 0,
+   "concept": "Large greasy precipitates of epithelioid cells and macrophages on the corneal endothelium indicate granulomatous inflammation, prompting a search for tuberculosis, sarcoidosis, syphilis or leprosy.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_004",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "E",
+   "stem": "Cycloplegics are used in anterior uveitis to:",
+   "options": [
+    "Relieve ciliary spasm and prevent posterior synechiae",
+    "Lower intraocular pressure",
+    "Constrict the pupil",
+    "Treat infection"
+   ],
+   "correct": 0,
+   "concept": "Atropine or homatropine rest the ciliary body relieving pain and keep the pupil dilated and mobile, preventing adhesions between iris and lens which would otherwise cause seclusio pupillae and secondary glaucoma.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_005",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "M",
+   "stem": "Sympathetic ophthalmitis is:",
+   "options": [
+    "Bilateral granulomatous panuveitis following penetrating injury to one eye",
+    "A unilateral infection",
+    "A retinal detachment",
+    "A corneal disease"
+   ],
+   "correct": 0,
+   "concept": "An autoimmune response to exposed uveal antigens after penetrating trauma or surgery threatens the uninjured sympathising eye, typically 2 weeks to 3 months later. Prompt enucleation of a blind injured eye within 10 days prevents it.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_006",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "M",
+   "stem": "Scleritis is distinguished from episcleritis by:",
+   "options": [
+    "Severe boring pain that disturbs sleep, with deep vessels not blanching on phenylephrine",
+    "Mild discomfort",
+    "Blanching with phenylephrine",
+    "Absence of systemic association"
+   ],
+   "correct": 0,
+   "concept": "Scleritis is intensely painful, may cause scleral thinning and perforation, and is strongly associated with rheumatoid arthritis and vasculitides, requiring systemic therapy. Episcleritis is mild and self-limiting.",
+   "reference": "AK Khurana Ophthalmology 8e, Sclera",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_007",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "E",
+   "stem": "Hypopyon uveitis with recurrent oral and genital ulceration suggests:",
+   "options": [
+    "Behcet disease",
+    "Sarcoidosis",
+    "Tuberculosis",
+    "Syphilis"
+   ],
+   "correct": 0,
+   "concept": "Behcet disease causes recurrent explosive non-granulomatous panuveitis with a mobile shifting hypopyon, retinal vasculitis, oral and genital aphthae, and pathergy. It requires systemic immunosuppression.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_008",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "H",
+   "stem": "Endophthalmitis following cataract surgery most commonly presents:",
+   "options": [
+    "Within a few days with pain, reduced vision and hypopyon",
+    "After one year",
+    "Painlessly",
+    "With itching only"
+   ],
+   "correct": 0,
+   "concept": "Acute postoperative endophthalmitis, usually from coagulase-negative staphylococci, is a sight-threatening emergency requiring urgent vitreous tap with intravitreal antibiotics. Delayed onset suggests Propionibacterium acnes.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_009",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "H",
+   "stem": "Cytomegalovirus retinitis in advanced HIV appears as:",
+   "options": [
+    "Pizza-pie fundus with haemorrhage and necrosis along vessels",
+    "A pale optic disc",
+    "Retinal detachment only",
+    "Vitreous haemorrhage"
+   ],
+   "correct": 0,
+   "concept": "CMV retinitis occurs at CD4 counts below 50, producing the characteristic brushfire or pizza-pie appearance of white necrosis with haemorrhage. Treatment is ganciclovir or valganciclovir with antiretroviral therapy.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_UVE_010",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Uveitis, scleritis & ocular inflammation",
+   "difficulty": "M",
+   "stem": "Complications of chronic anterior uveitis include all EXCEPT:",
+   "options": [
+    "Pterygium",
+    "Complicated cataract",
+    "Secondary glaucoma",
+    "Band-shaped keratopathy"
+   ],
+   "correct": 0,
+   "concept": "Persistent inflammation causes complicated cataract, secondary glaucoma from synechiae, band keratopathy from calcium deposition and cyclitic membrane with hypotony. Pterygium is caused by ultraviolet exposure and is unrelated.",
+   "reference": "AK Khurana Ophthalmology 8e, Uveal Tract",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_001",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "E",
+   "stem": "Sudden painless complete loss of vision with a cherry-red spot at the macula indicates:",
+   "options": [
+    "Central retinal artery occlusion",
+    "Central retinal vein occlusion",
+    "Retinal detachment",
+    "Vitreous haemorrhage"
+   ],
+   "correct": 0,
+   "concept": "The pale oedematous retina contrasts with the intact choroidal circulation at the fovea giving a cherry-red spot. It is an ocular emergency; irreversible damage occurs within about 90 minutes.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_002",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "M",
+   "stem": "A blood-and-thunder fundus with flame haemorrhages in all quadrants indicates:",
+   "options": [
+    "Central retinal vein occlusion",
+    "Central retinal artery occlusion",
+    "Diabetic retinopathy",
+    "Hypertensive retinopathy"
+   ],
+   "correct": 0,
+   "concept": "Venous obstruction causes widespread haemorrhages, dilated tortuous veins, cotton wool spots and disc oedema. The ischaemic type risks neovascular glaucoma at about 90 days - hence the term hundred-day glaucoma.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_003",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "M",
+   "stem": "The hallmark of proliferative diabetic retinopathy is:",
+   "options": [
+    "Neovascularisation of the disc or elsewhere",
+    "Microaneurysms",
+    "Hard exudates",
+    "Dot-blot haemorrhages"
+   ],
+   "correct": 0,
+   "concept": "New vessels from retinal ischaemia bleed into the vitreous and cause tractional detachment. Panretinal photocoagulation and anti-VEGF therapy are the treatments; the earlier changes are non-proliferative.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_004",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "E",
+   "stem": "Leucocoria in a child requires urgent exclusion of:",
+   "options": [
+    "Retinoblastoma",
+    "Refractive error",
+    "Conjunctivitis",
+    "Squint alone"
+   ],
+   "correct": 0,
+   "concept": "A white pupillary reflex, often with squint, is the commonest presentation of retinoblastoma, a life-threatening malignancy. Other causes include congenital cataract, Coats disease and persistent fetal vasculature.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_005",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "M",
+   "stem": "Hereditary retinoblastoma is characterised by:",
+   "options": [
+    "Bilateral multifocal tumours with germline RB1 mutation and risk of second malignancies",
+    "Unilateral disease only",
+    "No genetic basis",
+    "No risk of other tumours"
+   ],
+   "correct": 0,
+   "concept": "Germline RB1 mutation follows Knudson's two-hit model, causing earlier bilateral multifocal disease with a lifetime risk of osteosarcoma and other second cancers, so siblings and offspring require screening.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_006",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "M",
+   "stem": "Age-related macular degeneration typically causes:",
+   "options": [
+    "Progressive loss of central vision with preserved peripheral vision",
+    "Loss of peripheral vision",
+    "Sudden total blindness",
+    "Night blindness only"
+   ],
+   "correct": 0,
+   "concept": "Macular involvement destroys central acuity for reading and faces while navigational peripheral vision is retained. Dry ARMD shows drusen and atrophy; wet ARMD has choroidal neovascularisation treated with intravitreal anti-VEGF.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_007",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "E",
+   "stem": "Retinitis pigmentosa classically presents with:",
+   "options": [
+    "Night blindness with progressive constriction of visual fields and bone-spicule pigmentation",
+    "Central vision loss first",
+    "Sudden painless loss",
+    "Painful red eye"
+   ],
+   "correct": 0,
+   "concept": "Rod degeneration causes nyctalopia and ring scotoma progressing to tunnel vision, with waxy disc pallor, attenuated arterioles and perivascular bone-spicule pigment, and an extinguished electroretinogram.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_008",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "H",
+   "stem": "Rhegmatogenous retinal detachment is preceded by:",
+   "options": [
+    "Photopsia and floaters from a retinal break, then a curtain over the visual field",
+    "Painful red eye",
+    "Gradual central blurring",
+    "Itching"
+   ],
+   "correct": 0,
+   "concept": "A break allows liquefied vitreous under the neurosensory retina. Warning symptoms of flashes and sudden floaters warrant urgent examination, as prompt laser to a break prevents detachment. High myopia is a major risk factor.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_009",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "H",
+   "stem": "Papilloedema is distinguished from papillitis by:",
+   "options": [
+    "Preserved visual acuity in papilloedema despite a swollen disc",
+    "Marked early acuity loss",
+    "Unilateral involvement",
+    "Pain on eye movement"
+   ],
+   "correct": 0,
+   "concept": "Papilloedema from raised intracranial pressure is bilateral with normal acuity, enlarged blind spot and no pain, whereas papillitis is usually unilateral with marked acuity loss, a relative afferent pupillary defect and pain on movement.",
+   "reference": "AK Khurana Ophthalmology 8e, Neuro-ophthalmology",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OP_RET_010",
+   "part": "B",
+   "subject": "Ophthalmology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Retina & vitreous: vascular occlusions, ARMD, retinoblastoma",
+   "difficulty": "M",
+   "stem": "The commonest cause of vitreous haemorrhage in an adult in India is:",
+   "options": [
+    "Proliferative diabetic retinopathy",
+    "Trauma",
+    "Retinal tear",
+    "Hypertension"
+   ],
+   "correct": 0,
+   "concept": "Bleeding from fragile new vessels in proliferative diabetic retinopathy causes sudden painless loss with loss of the red reflex. Ultrasound B-scan assesses the retina when the fundus cannot be seen.",
+   "reference": "AK Khurana Ophthalmology 8e, Retina",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

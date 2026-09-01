@@ -1,0 +1,44 @@
+Q_OBG_MEN_013 | del | duplicate of Q_OBG_MEN_003 on vasomotor symptoms responding best to systemic oestrogen. The first item, which also notes the need for a progestogen, is retained
+Q_OBG_MUL_002 | del | duplicate of Q_OBG_MUL_011, which uses the same first-trimester membrane signs to establish chorionicity in a specific case. The applied item is retained
+Q_OBG_MUL_008 | del | duplicate of Q_OBG_MUL_019, which gives the same cord entanglement risk and additionally the delivery timing it dictates. The fuller item is retained
+Q_OBG_ANA_009 | ref=WHO Evaluating the Quality of Care for Severe Pregnancy Complications: the WHO Near-miss Approach 2011; Park's Textbook of Preventive and Social Medicine 27e, Ch. Maternal Mortality | the reference read "WHO Near-miss Approach; Park 27e" with no title, year or chapter
+Q_OBG_MEN_007 | ok |
+Q_OBG_MEN_008 | ok |
+Q_OBG_MEN_009 | ok |
+Q_OBG_MEN_010 | ok |
+Q_OBG_MEN_012 | ok |
+Q_OBG_MEN_015 | ok |
+Q_OBG_MEN_016 | ok |
+Q_OBG_MEN_019 | ok |
+Q_OBG_MDP_001 | ok |
+Q_OBG_MDP_002 | ok |
+Q_OBG_MDP_003 | ok |
+Q_OBG_MDP_005 | ok |
+Q_OBG_MUL_003 | ok |
+Q_OBG_MUL_004 | ok |
+Q_OBG_MUL_005 | ok |
+Q_OBG_MUL_006 | ok |
+Q_OBG_MUL_007 | ok |
+Q_OBG_MUL_009 | ok |
+Q_OBG_MUL_010 | ok |
+Q_OBG_MUL_011 | ok |
+Q_OBG_MUL_013 | ok |
+Q_OBG_MUL_014 | ok |
+Q_OBG_MUL_015 | ok |
+Q_OBG_MUL_016 | ok |
+Q_OBG_MUL_017 | ok |
+Q_OBG_MUL_018 | ok |
+Q_OBG_MUL_019 | ok |
+Q_OBG_ANA_001 | ok |
+Q_OBG_ANA_003 | ok |
+Q_OBG_ANA_004 | ok |
+Q_OBG_ANA_005 | ok |
+Q_OBG_ANA_007 | ok |
+Q_OBG_ANA_008 | ok |
+Q_OBG_ANA_010 | ok |
+Q_OBG_ANA_011 | ok |
+Q_OBG_ANA_012 | ok |
+Q_OBG_ANA_014 | ok |
+Q_OBG_ANA_015 | ok |
+Q_OBG_ANA_016 | ok |
+Q_OBG_ANA_017 | ok |

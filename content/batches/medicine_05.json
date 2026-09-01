@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_MED_HIV_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "E",
+   "stem": "The receptor used by HIV to enter CD4 lymphocytes, in addition to CD4 itself, is:",
+   "options": [
+    "CCR5 or CXCR4 co-receptor",
+    "Toll-like receptor 4",
+    "CD8",
+    "Fc gamma receptor"
+   ],
+   "correct": 0,
+   "concept": "Gp120 binds CD4 and then a chemokine co-receptor - CCR5 for macrophage-tropic strains transmitted early, CXCR4 for T-tropic strains later. Homozygous CCR5-delta32 deletion confers near-complete resistance.",
+   "reference": "HARR 21e, Human Immunodeficiency Virus Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "M",
+   "stem": "As per current national guidelines, antiretroviral therapy in an HIV-positive adult is started:",
+   "options": [
+    "Only when CD4 falls below 350",
+    "Only when CD4 falls below 200",
+    "At the time of diagnosis irrespective of CD4 count",
+    "Only in WHO stage 4 disease"
+   ],
+   "correct": 2,
+   "concept": "Test-and-treat is now universal: ART begins at diagnosis regardless of CD4 count or clinical stage, which reduces morbidity, mortality and transmission. The preferred first-line regimen in India is tenofovir, lamivudine and dolutegravir.",
+   "reference": "NACO National ART Guidelines",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "M",
+   "stem": "Cotrimoxazole prophylaxis against Pneumocystis pneumonia is indicated when the CD4 count falls below:",
+   "options": [
+    "500 per microlitre",
+    "350 per microlitre",
+    "200 per microlitre",
+    "50 per microlitre"
+   ],
+   "correct": 2,
+   "concept": "Primary prophylaxis with cotrimoxazole starts at a CD4 count below 200 per microlitre, and also protects against toxoplasmosis and some bacterial infections. It may be stopped once CD4 is sustained above 200 on ART.",
+   "reference": "HARR 21e, Human Immunodeficiency Virus Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "E",
+   "stem": "The commonest cause of a ring-enhancing space-occupying brain lesion in an AIDS patient is:",
+   "options": [
+    "Cerebral toxoplasmosis",
+    "Primary CNS lymphoma",
+    "Tuberculoma",
+    "Cryptococcoma"
+   ],
+   "correct": 0,
+   "concept": "Toxoplasma encephalitis typically gives multiple ring-enhancing lesions with a predilection for the basal ganglia; empirical pyrimethamine with sulfadiazine and folinic acid is standard, with lymphoma considered if there is no response.",
+   "reference": "HARR 21e, Human Immunodeficiency Virus Disease",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "M",
+   "stem": "Cryptococcal meningitis in AIDS is best diagnosed by:",
+   "options": [
+    "Gram stain",
+    "India ink preparation and cryptococcal antigen testing of cerebrospinal fluid",
+    "Ziehl-Neelsen stain",
+    "Blood culture only"
+   ],
+   "correct": 1,
+   "concept": "Cryptococcus neoformans is demonstrated by India ink showing capsulated budding yeast, with cryptococcal antigen being more sensitive; mucicarmine stains the capsule. Treatment is amphotericin B with flucytosine followed by fluconazole.",
+   "reference": "HARR 21e, Human Immunodeficiency Virus Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "M",
+   "stem": "Oral hairy leukoplakia in an HIV-positive patient is caused by:",
+   "options": [
+    "Candida albicans",
+    "Human papillomavirus",
+    "Epstein-Barr virus",
+    "Herpes simplex virus"
+   ],
+   "correct": 2,
+   "concept": "Oral hairy leukoplakia consists of corrugated white plaques on the lateral tongue that cannot be scraped off, caused by Epstein-Barr virus - unlike candidal thrush, which is removable.",
+   "reference": "HARR 21e, Human Immunodeficiency Virus Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "E",
+   "stem": "Which malignancy is an AIDS-defining illness associated with human herpesvirus 8?",
+   "options": [
+    "Kaposi sarcoma",
+    "Osteosarcoma",
+    "Renal cell carcinoma",
+    "Glioblastoma"
+   ],
+   "correct": 0,
+   "concept": "Kaposi sarcoma is driven by HHV-8 and appears as violaceous plaques or nodules on skin, palate and viscera. Cervical carcinoma and primary CNS lymphoma are the other AIDS-defining malignancies.",
+   "reference": "HARR 21e, Human Immunodeficiency Virus Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "H",
+   "stem": "Immune reconstitution inflammatory syndrome typically occurs:",
+   "options": [
+    "Before starting antiretroviral therapy",
+    "Within weeks to months of starting antiretroviral therapy as CD4 recovers",
+    "Only after 5 years of therapy",
+    "Only in treatment failure"
+   ],
+   "correct": 1,
+   "concept": "As immune function recovers, a paradoxical inflammatory worsening of a treated or subclinical infection - classically tuberculosis or cryptococcosis - occurs within weeks to months. ART is continued and steroids are given if severe.",
+   "reference": "HARR 21e, Human Immunodeficiency Virus Disease",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "H",
+   "stem": "Which antiretroviral drug is associated with proximal renal tubular dysfunction and reduced bone mineral density?",
+   "options": [
+    "Zidovudine",
+    "Nevirapine",
+    "Tenofovir disoproxil fumarate",
+    "Dolutegravir"
+   ],
+   "correct": 2,
+   "concept": "Tenofovir disoproxil fumarate causes proximal tubulopathy including Fanconi syndrome and reduces bone density; zidovudine causes anaemia and myopathy, nevirapine hepatitis and rash, and dolutegravir weight gain.",
+   "reference": "KDT 8e, Antiretroviral Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_HIV_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "HIV/AIDS: staging, ART & opportunistic infections",
+   "difficulty": "M",
+   "stem": "The window period for HIV infection refers to the interval between:",
+   "options": [
+    "Exposure and appearance of detectable antibody",
+    "Antibody appearance and AIDS",
+    "Diagnosis and treatment",
+    "Two successive CD4 measurements"
+   ],
+   "correct": 0,
+   "concept": "The window period is the interval after infection when the person is infectious but antibody tests are still negative; fourth-generation p24 antigen-antibody assays and nucleic acid testing shorten it considerably.",
+   "reference": "Park 27e, AIDS",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "E",
+   "stem": "Septic shock is currently defined as sepsis with:",
+   "options": [
+    "Persisting hypotension requiring vasopressors to maintain MAP 65 mmHg or more with lactate above 2 mmol/L",
+    "Fever above 39 degrees Celsius",
+    "A white cell count above 12,000",
+    "Any positive blood culture"
+   ],
+   "correct": 0,
+   "concept": "Sepsis-3 defines sepsis as life-threatening organ dysfunction (SOFA rise of 2 or more) from a dysregulated host response, and septic shock as vasopressor-dependent hypotension with hyperlactataemia despite adequate fluid resuscitation.",
+   "reference": "HARR 21e, Sepsis and Septic Shock",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "M",
+   "stem": "The single most important intervention that improves survival in septic shock is:",
+   "options": [
+    "Early appropriate antibiotics with source control and fluid resuscitation",
+    "Early administration of steroids",
+    "Immediate blood transfusion",
+    "Immediate intubation"
+   ],
+   "correct": 0,
+   "concept": "Each hour of delay in effective antibiotics increases mortality, so cultures are taken and broad-spectrum antibiotics given within the first hour together with 30 mL/kg of crystalloid and source control.",
+   "reference": "HARR 21e, Sepsis and Septic Shock",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "M",
+   "stem": "The vasopressor of first choice in septic shock is:",
+   "options": [
+    "Dopamine",
+    "Noradrenaline",
+    "Adrenaline",
+    "Phenylephrine"
+   ],
+   "correct": 1,
+   "concept": "Noradrenaline is first line because it raises mean arterial pressure through alpha-1 vasoconstriction with less tachyarrhythmia than dopamine; vasopressin is added as a second agent to spare the noradrenaline dose.",
+   "reference": "KDT 8e, Adrenergic Drugs",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "E",
+   "stem": "Fever of unknown origin is classically defined as fever above 38.3 degrees Celsius for at least:",
+   "options": [
+    "Three weeks with no diagnosis after appropriate investigation",
+    "Two days",
+    "One week",
+    "Six months"
+   ],
+   "correct": 0,
+   "concept": "The classical Petersdorf definition requires temperature above 38.3 degrees on several occasions for more than three weeks with no diagnosis after appropriate inpatient or outpatient investigation. Infection, malignancy and connective tissue disease are the three broad groups.",
+   "reference": "HARR 21e, Sepsis and Septic Shock",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "M",
+   "stem": "The commonest infective cause of fever of unknown origin in India is:",
+   "options": [
+    "Tuberculosis",
+    "Infective endocarditis",
+    "Malaria",
+    "Urinary tract infection"
+   ],
+   "correct": 0,
+   "concept": "Extrapulmonary and disseminated tuberculosis is the leading infective cause of prolonged fever in India, often with normal chest radiography, so tissue diagnosis and imaging of the abdomen are important.",
+   "reference": "Park 27e, Tuberculosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "M",
+   "stem": "Raised serum procalcitonin is most useful in:",
+   "options": [
+    "Distinguishing bacterial from viral infection and guiding antibiotic de-escalation",
+    "Diagnosing malignancy",
+    "Assessing renal function",
+    "Confirming tuberculosis"
+   ],
+   "correct": 0,
+   "concept": "Procalcitonin rises in bacterial sepsis and falls with resolution, so serial values help decide when antibiotics can safely be stopped - a key stewardship tool. It is not specific enough to start or withhold antibiotics alone.",
+   "reference": "HARR 21e, Sepsis and Septic Shock",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "E",
+   "stem": "The core principle of antimicrobial stewardship on receiving culture sensitivity results is:",
+   "options": [
+    "De-escalation to the narrowest effective agent",
+    "Adding a second broad-spectrum agent",
+    "Extending therapy to 6 weeks routinely",
+    "Switching to a newer antibiotic"
+   ],
+   "correct": 0,
+   "concept": "Stewardship means starting broad when the patient is septic and then de-escalating to the narrowest effective agent for the shortest adequate duration, which limits resistance, cost and Clostridioides difficile infection.",
+   "reference": "Park 27e, Hospital Acquired Infection",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "H",
+   "stem": "Which is a component of the quick SOFA (qSOFA) score?",
+   "options": [
+    "Serum lactate",
+    "Respiratory rate 22 or more per minute",
+    "White cell count",
+    "Temperature"
+   ],
+   "correct": 1,
+   "concept": "qSOFA uses three bedside items: respiratory rate 22 or more, altered mentation (GCS below 15) and systolic blood pressure 100 mmHg or less. Two or more identifies patients at risk of poor outcome without needing laboratory tests.",
+   "reference": "HARR 21e, Sepsis and Septic Shock",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "H",
+   "stem": "Empirical antibiotic cover for febrile neutropenia should include activity against:",
+   "options": [
+    "Pseudomonas aeruginosa",
+    "Anaerobes only",
+    "Mycobacteria",
+    "Fungi in all cases"
+   ],
+   "correct": 0,
+   "concept": "Antipseudomonal cover, for example piperacillin-tazobactam or cefepime, is mandatory within an hour of presentation because Pseudomonas bacteraemia in neutropenia is rapidly fatal. Antifungals are added for persistent fever after 4 to 7 days.",
+   "reference": "HARR 21e, Sepsis and Septic Shock",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_SEP_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Sepsis, fever of unknown origin & antimicrobial stewardship",
+   "difficulty": "M",
+   "stem": "A patient develops profuse diarrhoea after prolonged broad-spectrum antibiotics. The likely organism and treatment are:",
+   "options": [
+    "Clostridioides difficile treated with oral vancomycin or fidaxomicin",
+    "Vibrio cholerae treated with doxycycline",
+    "Shigella treated with ciprofloxacin",
+    "Rotavirus treated supportively"
+   ],
+   "correct": 0,
+   "concept": "Antibiotic-associated pseudomembranous colitis is caused by toxigenic Clostridioides difficile; the offending antibiotic is stopped and oral vancomycin or fidaxomicin given. Metronidazole is now second line.",
+   "reference": "KDT 8e, Antimicrobial Drugs",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_001",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "E",
+   "stem": "Leptospirosis is most commonly transmitted to humans through:",
+   "options": [
+    "Contact of abraded skin or mucosa with water contaminated by rodent urine",
+    "Mosquito bite",
+    "Inhalation of droplets",
+    "Sexual contact"
+   ],
+   "correct": 0,
+   "concept": "Leptospira interrogans is shed in rodent urine and penetrates abraded skin or mucous membranes during contact with contaminated flood water, making it an occupational and monsoon-related disease of farmers and sewage workers.",
+   "reference": "HARR 21e, Leptospirosis and Rickettsial Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_002",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "M",
+   "stem": "Weil's disease refers to severe leptospirosis with:",
+   "options": [
+    "Jaundice, acute kidney injury and haemorrhage",
+    "Meningitis alone",
+    "Pneumonia alone",
+    "Arthritis and rash"
+   ],
+   "correct": 0,
+   "concept": "Weil's disease is the icteric form with conjunctival suffusion, jaundice, acute kidney injury, thrombocytopenia and pulmonary haemorrhage; treatment is intravenous penicillin or ceftriaxone, with doxycycline for mild disease.",
+   "reference": "HARR 21e, Leptospirosis and Rickettsial Diseases",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_003",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "M",
+   "stem": "An eschar at the site of a mite bite with fever, lymphadenopathy and raised transaminases suggests:",
+   "options": [
+    "Scrub typhus",
+    "Dengue",
+    "Malaria",
+    "Enteric fever"
+   ],
+   "correct": 0,
+   "concept": "Orientia tsutsugamushi is transmitted by the chigger of the Leptotrombidium mite and produces a painless eschar with regional lymphadenopathy; doxycycline or azithromycin gives a dramatic response within 48 hours.",
+   "reference": "HARR 21e, Leptospirosis and Rickettsial Diseases",
+   "tags": [
+    "#high-yield",
+    "#image-based"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_004",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "E",
+   "stem": "The Weil-Felix test is used in the diagnosis of:",
+   "options": [
+    "Rickettsial infections",
+    "Leptospirosis",
+    "Brucellosis",
+    "Plague"
+   ],
+   "correct": 0,
+   "concept": "The Weil-Felix test detects antibodies cross-reacting with Proteus OX-19, OX-2 and OX-K antigens in rickettsial disease. It is cheap but insensitive and non-specific; immunofluorescence assay is the reference standard.",
+   "reference": "Ananthanarayan Microbiology, Rickettsiae",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_005",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "M",
+   "stem": "The drug of choice for scrub typhus in a non-pregnant adult is:",
+   "options": [
+    "Doxycycline",
+    "Amoxicillin",
+    "Ciprofloxacin",
+    "Cotrimoxazole"
+   ],
+   "correct": 0,
+   "concept": "Doxycycline is the drug of choice for all rickettsial infections, with azithromycin preferred in pregnancy and children. Beta-lactams are ineffective as these are obligate intracellular organisms.",
+   "reference": "KDT 8e, Tetracyclines",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_006",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "M",
+   "stem": "Brucellosis is characteristically associated with:",
+   "options": [
+    "Undulant fever with sacroiliitis and hepatosplenomegaly",
+    "Rose spots and constipation",
+    "Eschar and rash",
+    "Watery diarrhoea"
+   ],
+   "correct": 0,
+   "concept": "Brucellosis, acquired from unpasteurised milk or animal contact, causes undulant fever, drenching sweats, sacroiliitis and hepatosplenomegaly with a normal or low white cell count; treatment is doxycycline with rifampicin or streptomycin for six weeks.",
+   "reference": "HARR 21e, Leptospirosis and Rickettsial Diseases",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_007",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "E",
+   "stem": "The most important reservoir for rabies in India is:",
+   "options": [
+    "Dog",
+    "Rodent",
+    "Cattle",
+    "Pig"
+   ],
+   "correct": 0,
+   "concept": "The dog accounts for the overwhelming majority of human rabies in India. Rabies is virtually 100% fatal once symptomatic, so category III bites need wound washing, rabies immunoglobulin and a full vaccine course.",
+   "reference": "Park 27e, Rabies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_008",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "H",
+   "stem": "Negri bodies in rabies are found in the:",
+   "options": [
+    "Cytoplasm of neurons, especially hippocampal pyramidal and cerebellar Purkinje cells",
+    "Nucleus of hepatocytes",
+    "Cytoplasm of neutrophils",
+    "Nucleus of neurons"
+   ],
+   "correct": 0,
+   "concept": "Negri bodies are eosinophilic cytoplasmic inclusions of viral nucleocapsid, most abundant in hippocampal pyramidal cells and cerebellar Purkinje cells, and are pathognomonic though present in only about 70% of cases.",
+   "reference": "Ananthanarayan Microbiology, Rhabdoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_009",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "H",
+   "stem": "The vector of plague is:",
+   "options": [
+    "Xenopsylla cheopis flea",
+    "Anopheles mosquito",
+    "Tsetse fly",
+    "Sandfly"
+   ],
+   "correct": 0,
+   "concept": "Yersinia pestis is transmitted by the rat flea Xenopsylla cheopis, causing bubonic plague with a tender matted bubo; pneumonic plague spreads person to person by droplets and is the most lethal form.",
+   "reference": "Park 27e, Plague",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MED_ZOO_010",
+   "part": "B",
+   "subject": "Medicine",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Leptospirosis, rickettsial & scrub typhus; zoonoses",
+   "difficulty": "M",
+   "stem": "Which zoonosis is classically transmitted by contact with infected animal products and forms a painless black necrotic eschar?",
+   "options": [
+    "Cutaneous anthrax",
+    "Tularaemia",
+    "Glanders",
+    "Q fever"
+   ],
+   "correct": 0,
+   "concept": "Cutaneous anthrax from Bacillus anthracis produces a painless malignant pustule with a black eschar and marked oedema, typically in handlers of hides, wool or carcasses; treatment is ciprofloxacin or doxycycline.",
+   "reference": "Ananthanarayan Microbiology, Bacillus",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,971 @@
+{
+ "questions": [
+  {
+   "id": "Q_OBG_ANA_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "E",
+   "stem": "The commonest direct cause of maternal death in India is:",
+   "options": [
+    "Obstetric haemorrhage",
+    "Anaemia",
+    "Obstructed labour",
+    "Amniotic fluid embolism"
+   ],
+   "correct": 0,
+   "concept": "Postpartum haemorrhage is the leading direct cause of maternal death in India, followed by sepsis, hypertensive disorders and unsafe abortion. Anaemia is the most important indirect contributory cause.",
+   "reference": "Park 27e, Maternal Mortality",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "M",
+   "stem": "The maternal mortality ratio is expressed as maternal deaths per:",
+   "options": [
+    "100,000 live births",
+    "1,000 live births",
+    "1,000 population",
+    "100,000 population"
+   ],
+   "correct": 0,
+   "concept": "The maternal mortality ratio uses 100,000 live births as the denominator and counts deaths during pregnancy or within 42 days of termination from causes related to pregnancy, excluding accidental causes.",
+   "reference": "Park 27e, Health Indicators",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "M",
+   "stem": "The analgesic technique of choice for labour is:",
+   "options": [
+    "Lumbar epidural analgesia",
+    "General anaesthesia",
+    "Intramuscular pethidine",
+    "Paracervical block"
+   ],
+   "correct": 0,
+   "concept": "Continuous lumbar epidural gives the most effective pain relief with an awake mother, and is particularly valuable in cardiac disease and pre-eclampsia. It may modestly prolong the second stage and increase instrumental delivery.",
+   "reference": "Williams Obstetrics 26e, Obstetrical Analgesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "E",
+   "stem": "The preferred anaesthetic for an elective caesarean section is:",
+   "options": [
+    "Spinal (subarachnoid) block",
+    "General anaesthesia with intubation",
+    "Local infiltration",
+    "Ketamine alone"
+   ],
+   "correct": 0,
+   "concept": "Regional anaesthesia avoids the risks of failed intubation and aspiration, keeps the mother awake and gives better neonatal outcomes, so spinal block is standard. General anaesthesia is reserved for extreme urgency or contraindications to regional block.",
+   "reference": "Williams Obstetrics 26e, Obstetrical Anaesthesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "M",
+   "stem": "Mendelson syndrome refers to:",
+   "options": [
+    "Chemical aspiration pneumonitis from gastric contents during obstetric anaesthesia",
+    "Amniotic fluid embolism",
+    "Postpartum pituitary necrosis",
+    "Peripartum cardiomyopathy"
+   ],
+   "correct": 0,
+   "concept": "Aspiration of acidic gastric contents causes severe chemical pneumonitis with bronchospasm and hypoxia. Pregnant women are at high risk from a lax cardiac sphincter and delayed emptying, so fasting, antacids, H2 blockers and cricoid pressure are used.",
+   "reference": "Williams Obstetrics 26e, Obstetrical Anaesthesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "M",
+   "stem": "Supine hypotension syndrome in late pregnancy is caused by:",
+   "options": [
+    "Compression of the inferior vena cava by the gravid uterus reducing venous return",
+    "Vagal overactivity",
+    "Uterine contraction",
+    "Spinal cord compression"
+   ],
+   "correct": 0,
+   "concept": "In the supine position the gravid uterus compresses the inferior vena cava, reducing venous return, cardiac output and uterine perfusion, causing hypotension. Left lateral tilt relieves it and is routine during anaesthesia.",
+   "reference": "Ganong Review of Medical Physiology; Williams Obstetrics 26e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "E",
+   "stem": "The most important single intervention to reduce maternal mortality from haemorrhage at the community level is:",
+   "options": [
+    "Institutional delivery by a skilled birth attendant with referral linkage",
+    "Antenatal vitamin supplementation",
+    "Routine caesarean section",
+    "Home delivery by relatives"
+   ],
+   "correct": 0,
+   "concept": "Skilled attendance at birth with active third-stage management and functioning referral for emergency obstetric care is the cornerstone, supported by schemes such as Janani Suraksha Yojana and Janani Shishu Suraksha Karyakram.",
+   "reference": "Park 27e, Maternal Health",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "H",
+   "stem": "Amniotic fluid embolism classically presents with:",
+   "options": [
+    "Sudden hypoxia, cardiovascular collapse and disseminated intravascular coagulation",
+    "Gradual breathlessness over days",
+    "Isolated fever",
+    "Painless bleeding"
+   ],
+   "correct": 0,
+   "concept": "Amniotic fluid embolism causes abrupt hypoxia, hypotension and consumptive coagulopathy, often during or immediately after labour, with very high mortality. Management is supportive with aggressive resuscitation and blood product replacement.",
+   "reference": "Williams Obstetrics 26e, Amniotic Fluid Embolism",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "H",
+   "stem": "A near-miss maternal case is defined as a woman who:",
+   "options": [
+    "Survived a life-threatening complication during pregnancy, childbirth or within 42 days of termination",
+    "Died during labour",
+    "Had a normal delivery",
+    "Had a caesarean section"
+   ],
+   "correct": 0,
+   "concept": "Reviewing near-miss cases identifies gaps in care with far greater numbers than maternal deaths alone, making audit statistically useful and less blame-oriented; WHO defines it by organ-dysfunction criteria.",
+   "reference": "WHO Near-miss Approach; Park 27e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_ANA_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Obstetric analgesia & anaesthesia; maternal mortality",
+   "difficulty": "M",
+   "stem": "Pudendal nerve block is most useful for:",
+   "options": [
+    "Perineal analgesia for instrumental delivery and episiotomy repair",
+    "First stage labour pain",
+    "Caesarean section",
+    "Cervical dilatation pain"
+   ],
+   "correct": 0,
+   "concept": "The pudendal nerve carries somatic sensation from the perineum, so blocking it at the ischial spine relieves perineal pain for outlet forceps, vacuum and episiotomy, but does not relieve uterine contraction pain of the first stage.",
+   "reference": "Williams Obstetrics 26e, Obstetrical Analgesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "E",
+   "stem": "The commonest cause of vaginal discharge with a fishy odour and clue cells on microscopy is:",
+   "options": [
+    "Bacterial vaginosis",
+    "Candidiasis",
+    "Trichomoniasis",
+    "Gonorrhoea"
+   ],
+   "correct": 0,
+   "concept": "Bacterial vaginosis results from replacement of lactobacilli by Gardnerella and anaerobes, giving thin grey discharge, pH above 4.5, a positive whiff test and clue cells. Amsel criteria require three of four features; treatment is metronidazole.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Vaginal Discharge",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "M",
+   "stem": "A strawberry cervix with profuse frothy greenish discharge indicates:",
+   "options": [
+    "Trichomonas vaginalis",
+    "Candida albicans",
+    "Chlamydia trachomatis",
+    "Herpes simplex"
+   ],
+   "correct": 0,
+   "concept": "Trichomoniasis causes frothy offensive discharge with vulvovaginal itching and punctate cervical haemorrhages (strawberry cervix), with motile flagellates on wet mount. Both partners are treated with metronidazole.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Vaginal Discharge",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "M",
+   "stem": "Thick white curdy discharge with intense pruritus and pseudohyphae on KOH mount indicates:",
+   "options": [
+    "Vulvovaginal candidiasis",
+    "Bacterial vaginosis",
+    "Trichomoniasis",
+    "Atrophic vaginitis"
+   ],
+   "correct": 0,
+   "concept": "Candidal vaginitis gives adherent curdy plaques with vulval erythema and a normal vaginal pH below 4.5, and is common in diabetes, pregnancy, antibiotic use and immunosuppression. Topical or oral azoles are used.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Vaginal Discharge",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "E",
+   "stem": "The most serious long-term consequence of pelvic inflammatory disease is:",
+   "options": [
+    "Tubal infertility and ectopic pregnancy from tubal damage",
+    "Uterine prolapse",
+    "Endometrial carcinoma",
+    "Ovarian torsion"
+   ],
+   "correct": 0,
+   "concept": "Each episode of pelvic inflammatory disease roughly doubles the risk of tubal infertility and increases ectopic pregnancy risk six to ten-fold, along with chronic pelvic pain from adhesions - hence the emphasis on early empirical treatment.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, PID",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "M",
+   "stem": "Fitz-Hugh-Curtis syndrome refers to:",
+   "options": [
+    "Perihepatitis with violin-string adhesions complicating chlamydial or gonococcal PID",
+    "Tubo-ovarian abscess",
+    "Endometrial tuberculosis",
+    "Ovarian vein thrombosis"
+   ],
+   "correct": 0,
+   "concept": "Transperitoneal spread of Chlamydia or gonococcus to the liver capsule causes perihepatitis with right upper quadrant pain and characteristic violin-string adhesions seen at laparoscopy.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, PID",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "M",
+   "stem": "Empirical treatment of outpatient pelvic inflammatory disease should cover:",
+   "options": [
+    "Gonococcus, Chlamydia and anaerobes",
+    "Only gonococcus",
+    "Only Candida",
+    "Only anaerobes"
+   ],
+   "correct": 0,
+   "concept": "Standard regimens combine ceftriaxone for gonococcus with doxycycline for Chlamydia and metronidazole for anaerobes, started empirically because delay causes tubal damage and cultures are often negative.",
+   "reference": "KDT 8e; NACO STI Guidelines",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "E",
+   "stem": "A painless indurated genital ulcer with rubbery non-tender inguinal nodes is characteristic of:",
+   "options": [
+    "Primary syphilis",
+    "Chancroid",
+    "Herpes genitalis",
+    "Lymphogranuloma venereum"
+   ],
+   "correct": 0,
+   "concept": "The syphilitic chancre is single, painless, indurated with a clean base and firm rubbery painless lymphadenopathy. Chancroid gives multiple painful ragged ulcers with tender suppurative nodes, and herpes multiple painful vesicles.",
+   "reference": "NACO STI Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "H",
+   "stem": "Genital tuberculosis most commonly affects which part of the genital tract?",
+   "options": [
+    "The fallopian tubes",
+    "The cervix",
+    "The vulva",
+    "The vagina"
+   ],
+   "correct": 0,
+   "concept": "Haematogenous spread involves the fallopian tubes in 90 to 100% of genital tuberculosis, then the endometrium, and it is a leading cause of tubal infertility in India, often presenting with infertility, scanty menses or amenorrhoea.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Genital Tuberculosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "H",
+   "stem": "The syndromic approach to sexually transmitted infection management is preferred at primary level because it:",
+   "options": [
+    "Allows immediate treatment based on symptom clusters without laboratory facilities",
+    "Is cheaper than any other approach only",
+    "Eliminates the need for partner treatment",
+    "Guarantees an aetiological diagnosis"
+   ],
+   "correct": 0,
+   "concept": "Syndromic management treats all likely pathogens for a presenting syndrome at the first visit using colour-coded kits, avoiding loss to follow-up where laboratories are unavailable, and includes partner treatment, condoms and counselling.",
+   "reference": "NACO STI Guidelines; Park 27e",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PID_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Genital infections, PID & STIs in women",
+   "difficulty": "M",
+   "stem": "Human papillomavirus types most associated with cervical carcinoma are:",
+   "options": [
+    "16 and 18",
+    "6 and 11",
+    "1 and 2",
+    "31 and 33 only"
+   ],
+   "correct": 0,
+   "concept": "HPV 16 and 18 cause about 70% of cervical cancers, while types 6 and 11 cause genital warts. The quadrivalent and nonavalent vaccines are most effective before sexual debut, at 9 to 14 years.",
+   "reference": "Park 27e, Cancer Cervix",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "E",
+   "stem": "The most important support of the uterus preventing prolapse is:",
+   "options": [
+    "The cardinal (Mackenrodt) and uterosacral ligaments",
+    "The round ligament",
+    "The broad ligament",
+    "The ovarian ligament"
+   ],
+   "correct": 0,
+   "concept": "The cardinal and uterosacral ligaments with the levator ani and endopelvic fascia provide the principal support. The round and broad ligaments contribute little, which is why their plication alone does not correct prolapse.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Prolapse",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "M",
+   "stem": "A cystocele is a prolapse of the:",
+   "options": [
+    "Anterior vaginal wall with the bladder",
+    "Posterior vaginal wall with the rectum",
+    "Vaginal vault",
+    "Pouch of Douglas with small bowel"
+   ],
+   "correct": 0,
+   "concept": "Cystocele involves the anterior wall and bladder, rectocele the posterior wall and rectum, and enterocele the pouch of Douglas containing small bowel. The POP-Q system quantifies prolapse relative to the hymen.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Prolapse",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "M",
+   "stem": "The commonest cause of genitourinary fistula in India is:",
+   "options": [
+    "Obstructed labour with prolonged pressure necrosis",
+    "Radiotherapy",
+    "Malignancy",
+    "Pelvic surgery"
+   ],
+   "correct": 0,
+   "concept": "Prolonged obstructed labour causes ischaemic pressure necrosis of the bladder base against the symphysis, producing vesicovaginal fistula - a disease of inadequate obstetric care. In developed countries, gynaecological surgery is the leading cause.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Genital Fistula",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "E",
+   "stem": "Continuous involuntary urinary leakage with a normal urge to void suggests:",
+   "options": [
+    "Vesicovaginal fistula",
+    "Stress urinary incontinence",
+    "Urge incontinence",
+    "Overflow incontinence"
+   ],
+   "correct": 0,
+   "concept": "A fistula causes continuous leakage irrespective of position or effort, whereas stress incontinence leaks only on coughing or exertion and urge incontinence is preceded by a strong desire to void. Dye tests localise the fistula.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Genital Fistula",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "M",
+   "stem": "The treatment of choice for stress urinary incontinence not responding to pelvic floor exercises is:",
+   "options": [
+    "A mid-urethral sling procedure",
+    "Anticholinergic drugs",
+    "Long-term catheterisation",
+    "Vaginal oestrogen alone"
+   ],
+   "correct": 0,
+   "concept": "Mid-urethral tension-free tape restores urethral support and is the standard surgical treatment. Anticholinergics and beta-3 agonists treat overactive bladder with urge incontinence, not stress incontinence.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Urogynaecology",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "M",
+   "stem": "Overactive bladder with urge incontinence is best managed initially by:",
+   "options": [
+    "Bladder training with an antimuscarinic or mirabegron",
+    "Immediate sling surgery",
+    "Indwelling catheter",
+    "Hysterectomy"
+   ],
+   "correct": 0,
+   "concept": "Behavioural bladder retraining with fluid and caffeine modification, plus an antimuscarinic such as solifenacin or the beta-3 agonist mirabegron, is first line. Intravesical botulinum toxin is reserved for refractory cases.",
+   "reference": "KDT 8e, Drugs Acting on Bladder",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "E",
+   "stem": "A ring pessary is most appropriate for prolapse in a woman who:",
+   "options": [
+    "Is unfit for surgery, pregnant or wishes to defer operation",
+    "Has a vesicovaginal fistula",
+    "Has cervical carcinoma",
+    "Wants definitive cure"
+   ],
+   "correct": 0,
+   "concept": "A pessary provides mechanical support as a temporising or palliative measure in women unfit for or declining surgery, in pregnancy or in the puerperium, but requires periodic change and local oestrogen to prevent ulceration.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Prolapse",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "H",
+   "stem": "The Fothergill (Manchester) operation for prolapse involves:",
+   "options": [
+    "Cervical amputation with plication of the cardinal ligaments and colporrhaphy",
+    "Total hysterectomy",
+    "Sacrocolpopexy",
+    "Sling suspension"
+   ],
+   "correct": 0,
+   "concept": "The Manchester operation amputates the elongated cervix and plicates the cardinal ligaments anterior to the cervical stump with anterior and posterior repair, conserving the uterus but often causing cervical stenosis and infertility.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Prolapse",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "H",
+   "stem": "Vault prolapse following hysterectomy is best treated by:",
+   "options": [
+    "Abdominal or laparoscopic sacrocolpopexy",
+    "Anterior colporrhaphy",
+    "Repeat hysterectomy",
+    "Pessary only"
+   ],
+   "correct": 0,
+   "concept": "Sacrocolpopexy suspends the vault to the sacral promontory with mesh and has the best long-term durability; sacrospinous ligament fixation is the vaginal alternative. Prevention involves attaching the vault to the uterosacral ligaments at hysterectomy.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Prolapse",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_PRO_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Prolapse, urogynaecology & genital fistula",
+   "difficulty": "M",
+   "stem": "Decubitus ulcer on a long-standing procidentia is caused by:",
+   "options": [
+    "Venous congestion and friction of the dependent exposed vaginal mucosa",
+    "Malignant change",
+    "Bacterial infection alone",
+    "Radiation"
+   ],
+   "correct": 0,
+   "concept": "Chronic exposure with venous stasis produces a shallow ulcer that heals with rest, pessary and local oestrogen before surgery. Any indurated or non-healing ulcer requires biopsy to exclude carcinoma.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Prolapse",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_001",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "E",
+   "stem": "Menopause is diagnosed retrospectively after:",
+   "options": [
+    "Twelve consecutive months of amenorrhoea",
+    "Three months of amenorrhoea",
+    "Six months of amenorrhoea",
+    "A single raised FSH"
+   ],
+   "correct": 0,
+   "concept": "Menopause is the permanent cessation of menstruation confirmed after 12 months of amenorrhoea, occurring at a mean age of about 46 to 47 years in Indian women. Premature menopause is cessation before 40 years.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Menopause",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_002",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "M",
+   "stem": "The hormonal profile of the postmenopausal woman shows:",
+   "options": [
+    "High FSH and LH with low oestradiol",
+    "Low FSH with high oestradiol",
+    "Low FSH and low LH",
+    "High oestradiol and high progesterone"
+   ],
+   "correct": 0,
+   "concept": "Loss of ovarian follicles removes negative feedback, so FSH rises markedly - more than LH because inhibin B also falls - while oestradiol falls. An FSH above 40 IU/L supports the diagnosis.",
+   "reference": "Shaw's Textbook of Gynaecology 17e, Menopause",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_003",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "M",
+   "stem": "The most effective treatment for troublesome vasomotor symptoms of menopause is:",
+   "options": [
+    "Systemic oestrogen therapy, with a progestogen if the uterus is present",
+    "Calcium supplements",
+    "Bisphosphonates",
+    "Vaginal lubricants"
+   ],
+   "correct": 0,
+   "concept": "Systemic oestrogen is the most effective treatment for hot flushes and night sweats. A progestogen must be added in a woman with a uterus to prevent endometrial hyperplasia and carcinoma from unopposed oestrogen.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_004",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "E",
+   "stem": "The principal risk of unopposed oestrogen therapy in a woman with an intact uterus is:",
+   "options": [
+    "Endometrial hyperplasia and carcinoma",
+    "Ovarian torsion",
+    "Cervical carcinoma",
+    "Osteoporosis"
+   ],
+   "correct": 0,
+   "concept": "Unopposed oestrogen causes endometrial proliferation, hyperplasia and eventually carcinoma, so cyclical or continuous progestogen is mandatory. After hysterectomy, oestrogen alone is appropriate.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_005",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "M",
+   "stem": "Hormone therapy is contraindicated in a woman with:",
+   "options": [
+    "A history of oestrogen-receptor-positive breast carcinoma or active thromboembolism",
+    "Osteopenia",
+    "Vasomotor symptoms",
+    "Vaginal atrophy"
+   ],
+   "correct": 0,
+   "concept": "Absolute contraindications include hormone-dependent breast or endometrial cancer, active venous thromboembolism, active liver disease, undiagnosed vaginal bleeding and coronary or cerebrovascular disease.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_006",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "M",
+   "stem": "Osteoporosis is defined by a bone mineral density T-score of:",
+   "options": [
+    "Minus 2.5 or lower",
+    "Minus 1.0 or lower",
+    "Minus 1.5 or lower",
+    "Zero"
+   ],
+   "correct": 0,
+   "concept": "WHO defines osteopenia as a T-score between minus 1 and minus 2.5 and osteoporosis as minus 2.5 or below on DEXA at the hip or lumbar spine. A fragility fracture establishes clinical osteoporosis irrespective of the score.",
+   "reference": "HARR 21e, Osteoporosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_007",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "E",
+   "stem": "The first-line pharmacological treatment of postmenopausal osteoporosis is:",
+   "options": [
+    "A bisphosphonate with calcium and vitamin D",
+    "Oestrogen alone in all women",
+    "Calcitonin",
+    "Fluoride"
+   ],
+   "correct": 0,
+   "concept": "Bisphosphonates such as alendronate or zoledronate inhibit osteoclastic resorption and reduce vertebral and hip fracture risk, given with adequate calcium and vitamin D. Oral bisphosphonates must be taken upright and fasting to avoid oesophagitis.",
+   "reference": "KDT 8e, Drugs for Osteoporosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_008",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "H",
+   "stem": "The most feared adverse effect of prolonged bisphosphonate therapy is:",
+   "options": [
+    "Osteonecrosis of the jaw and atypical femoral fracture",
+    "Cataract",
+    "Hepatic failure",
+    "Pulmonary fibrosis"
+   ],
+   "correct": 0,
+   "concept": "Long-term suppression of bone turnover can cause osteonecrosis of the jaw, especially after dental extraction, and atypical subtrochanteric femoral fractures, prompting consideration of a drug holiday after 3 to 5 years.",
+   "reference": "KDT 8e, Drugs for Osteoporosis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_009",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "H",
+   "stem": "Raloxifene, a selective oestrogen receptor modulator, acts as:",
+   "options": [
+    "An agonist on bone with antagonist action on breast and endometrium",
+    "An agonist at all oestrogen receptors",
+    "An antagonist on bone",
+    "A progesterone agonist"
+   ],
+   "correct": 0,
+   "concept": "Raloxifene preserves bone density and reduces vertebral fracture and breast cancer risk while not stimulating the endometrium, but it worsens hot flushes and increases thromboembolic risk.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_OBG_MEN_010",
+   "part": "B",
+   "subject": "Obstetrics & Gynaecology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-08-31",
+   "topic": "Menopause, HRT & osteoporosis",
+   "difficulty": "M",
+   "stem": "Genitourinary syndrome of menopause with dyspareunia is best treated by:",
+   "options": [
+    "Low-dose local vaginal oestrogen",
+    "Systemic high-dose oestrogen only",
+    "Antibiotics",
+    "Bisphosphonates"
+   ],
+   "correct": 0,
+   "concept": "Local vaginal oestrogen restores epithelial thickness, vascularity and pH with minimal systemic absorption, making it suitable even when systemic therapy is undesirable. Non-hormonal moisturisers are an alternative.",
+   "reference": "KDT 8e, Sex Hormones",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

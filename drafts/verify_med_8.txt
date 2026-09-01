@@ -1,0 +1,48 @@
+Q_MED_MDN_004 | del | duplicate of Q_MED_PN_007 on the decremental response to repetitive nerve stimulation in myasthenia gravis. The item in the myasthenia topic is retained
+Q_MED_MDN_009 | del | duplicate of Q_MED_PN_006 on Lambert-Eaton syndrome improving with exercise. The item in the myasthenia topic is retained
+Q_MED_MDN_003 | topic=Peripheral neuropathy, GBS & myasthenia gravis | a myasthenia gravis item sat in the muscular dystrophies topic although the subject has a topic that names myasthenia
+Q_MED_MDN_005 | topic=Peripheral neuropathy, GBS & myasthenia gravis | a myasthenic crisis item sat in the muscular dystrophies topic although the subject has a topic that names myasthenia
+Q_MED_PAN_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute Liver Failure | the chapter bundled pancreatitis with liver failure; a liver failure item is cited to the liver failure chapter
+Q_MED_PAN_016 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute Liver Failure | a liver failure item was cited to the pancreatitis chapter
+Q_MED_PAN_018 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute Liver Failure | a liver failure item was cited to the pancreatitis chapter
+Q_MED_PAN_019 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Acute Liver Failure | a liver failure item was cited to the pancreatitis chapter
+Q_MED_PAN_015 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Malabsorption Syndromes | a malabsorption item was cited to the pancreatitis chapter
+Q_MED_PAN_017 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Malabsorption Syndromes | a malabsorption item was cited to the pancreatitis chapter
+Q_MED_PN_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 446 (Peripheral Neuropathy) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PN_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 446 (Peripheral Neuropathy) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PN_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 446 (Peripheral Neuropathy) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PN_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 446 (Peripheral Neuropathy) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PN_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 446 (Peripheral Neuropathy) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PN_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction | a neuromuscular junction item was cited to the peripheral neuropathy chapter
+Q_MED_PN_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction | a neuromuscular junction item was cited to the peripheral neuropathy chapter
+Q_MED_PN_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Myasthenia Gravis and Other Diseases of the Neuromuscular Junction | a neuromuscular junction item was cited to the peripheral neuropathy chapter
+Q_MED_PIT_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 373 (Disorders of the Anterior Pituitary) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PIT_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 373 (Disorders of the Anterior Pituitary) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PIT_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 373 (Disorders of the Anterior Pituitary) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PIT_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 373 (Disorders of the Anterior Pituitary) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_PIT_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis | a calcium and parathyroid item was cited to the anterior pituitary chapter
+Q_MED_PIT_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis | a calcium and parathyroid item was cited to the anterior pituitary chapter
+Q_MED_PIT_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis | a calcium and parathyroid item was cited to the anterior pituitary chapter
+Q_MED_PIT_014 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis | a calcium and parathyroid item was cited to the anterior pituitary chapter
+Q_MED_PIT_015 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis | a calcium and parathyroid item was cited to the anterior pituitary chapter
+Q_MED_PIT_018 | ref=Harrison's Principles of Internal Medicine 21e, Ch. Disorders of the Parathyroid Gland and Calcium Homeostasis | a calcium and parathyroid item was cited to the anterior pituitary chapter
+Q_MED_PAN_011 | ok |
+Q_MED_PAN_012 | ok |
+Q_MED_PAN_013 | ok |
+Q_MED_PAN_014 | ok |
+Q_MED_PN_009 | ok |
+Q_MED_PN_010 | ok |
+Q_MED_PN_011 | ok |
+Q_MED_PN_012 | ok |
+Q_MED_PN_013 | ok |
+Q_MED_PN_014 | ok |
+Q_MED_PN_015 | ok |
+Q_MED_PN_016 | ok |
+Q_MED_PN_017 | ok |
+Q_MED_PN_018 | ok |
+Q_MED_PN_019 | ok |
+Q_MED_PIT_003 | ok |
+Q_MED_PIT_011 | ok |
+Q_MED_PIT_012 | ok |
+Q_MED_PIT_016 | ok |
+Q_MED_PIT_017 | ok |

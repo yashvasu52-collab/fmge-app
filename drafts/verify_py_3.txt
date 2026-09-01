@@ -1,0 +1,44 @@
+Q_PY_GIT_011 | del | duplicate of Q_PY_GIT_001, whose key already states that parietal cells secrete intrinsic factor, with the ileal absorption site covered by Q_PY_GIT_004. Both of those are retained
+Q_PY_GIT_012 | del | duplicate of Q_PY_GIT_003 on secretin release by duodenal acid stimulating pancreatic bicarbonate. The first item is retained
+Q_PY_GIT_016 | del | duplicate of Q_PY_GIT_005 on bile salts being needed for fat and fat-soluble vitamin absorption. The first item is retained
+Q_PY_GIT_014 | del | duplicate of Q_PY_GIT_006 on the migrating motor complex sweeping residue between meals. The first item is retained
+Q_PY_GIT_009 | del | duplicate of Q_PY_GIT_019, which covers the same interrupted enterohepatic circulation and additionally why gallstones form. The fuller item is retained
+Q_h3d_012 | ref=Guyton and Hall Textbook of Medical Physiology 14e, Ch. Urine Formation by the Kidneys: Tubular Reabsorption and Secretion | the reference named the book with no chapter
+Q_A_019 | ref=Guyton and Hall Textbook of Medical Physiology 14e, Ch. The Pituitary Hormones and Their Control by the Hypothalamus | the chapter was recorded as "Physiology", a placeholder rather than a chapter
+Q_PYQ_FMGE_2024JUN_012 | ref=FMGE June 2024 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Female Physiology Before Pregnancy and Female Hormones | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP1_029 | ref=FMGE January 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Reproductive and Hormonal Functions of the Male | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JANP2_040 | ref=FMGE January 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Insulin, Glucagon and Diabetes Mellitus | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP1_088 | ref=FMGE July 2025 Part 1 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Female Physiology Before Pregnancy and Female Hormones | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_015 | ref=FMGE July 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Pregnancy and Lactation | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2025JULP2_025 | ref=FMGE July 2025 Part 2 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Thyroid Metabolic Hormones | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_016 | ref=FMGE January 2026 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Pregnancy and Lactation | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_026 | ref=FMGE January 2026 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Insulin, Glucagon and Diabetes Mellitus | exam-paper-only reference given a study source
+Q_PYQ_FMGE_2026JAN_029 | ref=FMGE January 2026 (real exam recall); Guyton and Hall Textbook of Medical Physiology 14e, Ch. Thyroid Metabolic Hormones | exam-paper-only reference given a study source
+Q_PY_GCU_002 | ok |
+Q_PY_GCU_003 | ok |
+Q_PY_GCU_004 | ok |
+Q_PY_GCU_005 | ok |
+Q_PY_GCU_006 | ok |
+Q_PY_GCU_007 | ok |
+Q_PY_GCU_008 | ok |
+Q_PY_GCU_009 | ok |
+Q_PY_GIT_001 | ok |
+Q_PY_GIT_002 | ok |
+Q_PY_GIT_003 | ok |
+Q_PY_GIT_004 | ok |
+Q_PY_GIT_005 | ok |
+Q_PY_GIT_006 | ok |
+Q_PY_GIT_007 | ok |
+Q_PY_GIT_008 | ok |
+Q_PY_GIT_010 | ok |
+Q_PY_GIT_013 | ok |
+Q_PY_GIT_015 | ok |
+Q_PY_GIT_017 | ok |
+Q_PY_GIT_018 | ok |
+Q_PY_GIT_019 | ok |
+Q_PY_HAF_001 | ok |
+Q_PY_HAF_002 | ok |
+Q_PY_HAF_003 | ok |
+Q_PY_HAF_004 | ok |
+Q_PY_HAF_005 | ok |
+Q_PY_HAF_006 | ok |

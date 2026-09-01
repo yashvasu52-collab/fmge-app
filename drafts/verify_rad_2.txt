@@ -1,0 +1,33 @@
+Q_PYQ_FMGE_2024JUN_035 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Radiobiology and Radiation Protection | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP2_081 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. The Chest (radiation pneumonitis) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_076 | ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Radiotherapy Physics | reference cited only the exam paper; a study source added
+Q_PYQ_INICET_2025MAY_030 | stem=Which imaging investigation should be avoided in pregnancy wherever an alternative exists, because it uses ionising radiation?;;ref=Sutton's Textbook of Radiology and Imaging 7e, Ch. Radiation Protection (imaging in pregnancy) | the stem said CT is "contraindicated" in pregnancy, which overstates it: it is a relative contraindication and is performed when the clinical need outweighs the fetal dose, as in major trauma or suspected pulmonary embolism. Reworded, and the exam-paper-only reference replaced
+Q_RD_NUC_002 | ok |
+Q_RD_NUC_003 | ok |
+Q_RD_NUC_004 | ok |
+Q_RD_NUC_005 | ok |
+Q_RD_NUC_006 | ok |
+Q_RD_NUC_007 | ok |
+Q_RD_NUC_008 | ok |
+Q_RD_NUC_009 | ok |
+Q_RD_NUC_010 | ok |
+Q_RD_OBS_001 | ok |
+Q_RD_OBS_002 | ok |
+Q_RD_OBS_003 | ok |
+Q_RD_OBS_004 | ok |
+Q_RD_OBS_005 | ok |
+Q_RD_OBS_006 | ok |
+Q_RD_OBS_007 | ok |
+Q_RD_OBS_008 | ok |
+Q_RD_OBS_009 | ok |
+Q_RD_OBS_010 | ok |
+Q_RD_SKL_001 | ok |
+Q_RD_SKL_002 | ok |
+Q_RD_SKL_003 | ok |
+Q_RD_SKL_004 | ok |
+Q_RD_SKL_005 | ok |
+Q_RD_SKL_006 | ok |
+Q_RD_SKL_007 | ok |
+Q_RD_SKL_008 | ok |
+Q_RD_SKL_009 | ok |
+Q_RD_SKL_010 | ok |

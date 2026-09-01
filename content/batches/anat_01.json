@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_AN_UL_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "E",
+   "stem": "The medial cord of the brachial plexus is derived from:",
+   "options": [
+    "The anterior division of the lower trunk (C8, T1)",
+    "The posterior divisions",
+    "The upper trunk",
+    "The middle trunk only"
+   ],
+   "correct": 0,
+   "concept": "Lateral and medial cords come from anterior divisions supplying flexors, and the posterior cord from posterior divisions supplying extensors, giving rise to the axillary and radial nerves.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "M",
+   "stem": "The structure most commonly damaged in a mid-shaft humeral fracture is:",
+   "options": [
+    "The radial nerve in the spiral groove",
+    "The median nerve",
+    "The ulnar nerve",
+    "The axillary nerve"
+   ],
+   "correct": 0,
+   "concept": "Radial nerve injury causes wrist drop with sensory loss over the first dorsal web space, but triceps is spared because its branches arise proximally. Most recover spontaneously.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "M",
+   "stem": "The contents of the cubital fossa from medial to lateral are:",
+   "options": [
+    "Median nerve, brachial artery, biceps tendon",
+    "Biceps tendon, brachial artery, median nerve",
+    "Brachial artery, median nerve, biceps tendon",
+    "Ulnar nerve, brachial artery, biceps tendon"
+   ],
+   "correct": 0,
+   "concept": "The mnemonic MBB runs medial to lateral. The ulnar nerve does not pass through the fossa, running instead behind the medial epicondyle, which is why it is spared in cubital fossa injuries.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "E",
+   "stem": "The axillary nerve is most at risk in:",
+   "options": [
+    "Surgical neck fracture of the humerus and shoulder dislocation",
+    "Mid-shaft fracture",
+    "Supracondylar fracture",
+    "Colles fracture"
+   ],
+   "correct": 0,
+   "concept": "Axillary nerve injury causes deltoid paralysis with loss of abduction beyond 15 degrees and sensory loss over the regimental badge area, which must be tested before and after reducing a dislocated shoulder.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "M",
+   "stem": "Infection in the mid-palmar space is important because it may spread:",
+   "options": [
+    "Proximally into the forearm through the carpal tunnel",
+    "Into the thorax",
+    "Into the axilla directly",
+    "To the elbow joint"
+   ],
+   "correct": 0,
+   "concept": "The palmar spaces communicate with the forearm space of Parona beneath flexor tendons, so untreated deep palmar infection tracks proximally. Early drainage prevents disabling tendon adhesion.",
+   "reference": "BD Chaurasia Human Anatomy 8e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "M",
+   "stem": "Ape thumb deformity with loss of opposition results from injury to:",
+   "options": [
+    "The median nerve",
+    "The ulnar nerve",
+    "The radial nerve",
+    "The axillary nerve"
+   ],
+   "correct": 0,
+   "concept": "The median nerve supplies the thenar muscles LOAF - lateral two lumbricals, opponens pollicis, abductor pollicis brevis and flexor pollicis brevis - so loss produces a flat adducted thumb.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "E",
+   "stem": "The boundaries of the anatomical snuffbox include the tendons of:",
+   "options": [
+    "Extensor pollicis longus medially, and abductor pollicis longus with extensor pollicis brevis laterally",
+    "Flexor tendons",
+    "Extensor digitorum",
+    "Palmaris longus"
+   ],
+   "correct": 0,
+   "concept": "The floor contains the scaphoid and trapezium with the radial artery crossing, so tenderness here after a fall indicates scaphoid fracture with its risk of avascular necrosis.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "H",
+   "stem": "The axillary lymph nodes receiving most of the lymph from the breast are the:",
+   "options": [
+    "Anterior (pectoral) group",
+    "Posterior group",
+    "Lateral group",
+    "Apical group only"
+   ],
+   "correct": 0,
+   "concept": "About 75% of breast lymph drains to axillary nodes, mainly the anterior group, and the rest to internal mammary nodes. This anatomy underlies axillary staging and sentinel node biopsy in breast cancer.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "H",
+   "stem": "Klumpke paralysis results from injury to:",
+   "options": [
+    "The lower trunk (C8, T1), causing claw hand and possibly Horner syndrome",
+    "The upper trunk",
+    "The posterior cord",
+    "The lateral cord"
+   ],
+   "correct": 0,
+   "concept": "Excessive abduction of the arm, as in grabbing something while falling, injures C8 and T1, paralysing intrinsic hand muscles. Involvement of T1 sympathetic fibres produces Horner syndrome.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_UL_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Upper limb: axilla, cubital fossa, hand spaces",
+   "difficulty": "M",
+   "stem": "The brachial artery is most commonly compressed in:",
+   "options": [
+    "Supracondylar fracture of the humerus in a child",
+    "Colles fracture",
+    "Shoulder dislocation",
+    "Clavicle fracture"
+   ],
+   "correct": 0,
+   "concept": "The proximal fragment displaces anteriorly, threatening the brachial artery and median nerve. Absent radial pulse with a pale cold hand demands urgent reduction to prevent Volkmann ischaemic contracture.",
+   "reference": "Snell Clinical Anatomy 10e, Upper Limb",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "E",
+   "stem": "The right lung differs from the left in having:",
+   "options": [
+    "Three lobes with two fissures",
+    "Two lobes",
+    "A lingula",
+    "A cardiac notch"
+   ],
+   "correct": 0,
+   "concept": "The right lung has upper, middle and lower lobes separated by oblique and horizontal fissures; the left has two lobes with the lingula representing the developmental equivalent of the middle lobe.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "M",
+   "stem": "Aspirated foreign bodies more commonly enter the right main bronchus because it is:",
+   "options": [
+    "Wider, shorter and more vertical than the left",
+    "Narrower",
+    "Longer",
+    "More horizontal"
+   ],
+   "correct": 0,
+   "concept": "This is also why aspiration pneumonia and lung abscess favour the right posterior upper lobe segment or superior segment of the lower lobe when supine.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "M",
+   "stem": "The structures passing through the diaphragm at the level of T10 are:",
+   "options": [
+    "The oesophagus and the vagus nerves",
+    "The aorta and thoracic duct",
+    "The inferior vena cava",
+    "The sympathetic trunk"
+   ],
+   "correct": 0,
+   "concept": "The mnemonic is I ate ten eggs at twelve - IVC at T8, oesophagus at T10, aorta at T12. The IVC opening lies in the central tendon, so it stays patent during contraction.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "E",
+   "stem": "The intercostal neurovascular bundle lies:",
+   "options": [
+    "In the subcostal groove at the lower border of the rib, in the order vein, artery, nerve from above downwards",
+    "At the upper border",
+    "In the middle",
+    "Outside the ribs"
+   ],
+   "correct": 0,
+   "concept": "This is why chest drains and needles are inserted just above the upper border of the lower rib, avoiding the bundle. The mnemonic VAN gives the order from superior to inferior.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "M",
+   "stem": "The phrenic nerve arises from:",
+   "options": [
+    "C3, C4 and C5 roots",
+    "C5 to T1",
+    "T1 to T4",
+    "C1 and C2"
+   ],
+   "correct": 0,
+   "concept": "C3, 4 and 5 keep the diaphragm alive. It carries motor supply to the diaphragm and sensation from the mediastinal and diaphragmatic pleura and pericardium, explaining shoulder tip referred pain.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "M",
+   "stem": "The pleural cavity extends inferiorly to which level in the midaxillary line?",
+   "options": [
+    "The tenth rib",
+    "The eighth rib",
+    "The twelfth rib",
+    "The sixth rib"
+   ],
+   "correct": 0,
+   "concept": "Pleura reaches rib 8 midclavicular, 10 midaxillary and 12 paravertebral, while the lung reaches two ribs higher. This explains why the pleura can be injured during renal or liver procedures.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "E",
+   "stem": "The bronchopulmonary segment is a surgically important unit because it:",
+   "options": [
+    "Has its own segmental bronchus and artery and can be resected independently",
+    "Shares an artery with adjacent segments",
+    "Has no bronchus",
+    "Cannot be resected"
+   ],
+   "correct": 0,
+   "concept": "Segmental veins lie in the intersegmental planes, guiding the surgeon during segmentectomy. There are 10 segments on the right and 8 to 10 on the left.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "H",
+   "stem": "The thoracic duct drains into:",
+   "options": [
+    "The junction of the left subclavian and left internal jugular veins",
+    "The right subclavian vein",
+    "The superior vena cava",
+    "The azygos vein"
+   ],
+   "correct": 0,
+   "concept": "It drains the whole body except the right upper quadrant, which drains via the right lymphatic duct. This anatomy explains Virchow node in gastric carcinoma and chylothorax after left-sided thoracic surgery.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "H",
+   "stem": "The right dome of the diaphragm is higher than the left because of:",
+   "options": [
+    "The bulk of the liver beneath it",
+    "The heart",
+    "The spleen",
+    "The stomach"
+   ],
+   "correct": 0,
+   "concept": "The right dome reaches the fifth rib and the left the fifth intercostal space, where the heart depresses it. This is relevant when interpreting chest radiographs and assessing diaphragmatic paralysis.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_TH_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Thorax: lungs, pleura, diaphragm",
+   "difficulty": "M",
+   "stem": "Referred pain to the tip of the shoulder from diaphragmatic irritation occurs because:",
+   "options": [
+    "The phrenic nerve (C3-C5) shares dermatomal supply with the supraclavicular nerves",
+    "Of direct spread",
+    "Of vagal reflex",
+    "Of muscular strain"
+   ],
+   "correct": 0,
+   "concept": "Blood or pus under the diaphragm, as in ruptured spleen or subphrenic abscess, causes Kehr sign of shoulder tip pain - a valuable clinical clue in the acute abdomen.",
+   "reference": "Snell Clinical Anatomy 10e, Thorax",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_001",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "E",
+   "stem": "The epiploic foramen (of Winslow) has as its anterior boundary:",
+   "options": [
+    "The free edge of the lesser omentum containing the portal triad",
+    "The inferior vena cava",
+    "The caudate lobe",
+    "The duodenum"
+   ],
+   "correct": 0,
+   "concept": "The portal vein, hepatic artery and bile duct lie in the anterior boundary, which is why the Pringle manoeuvre - compressing the free edge - controls bleeding from the liver.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_002",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "M",
+   "stem": "The portal vein is formed by union of:",
+   "options": [
+    "The superior mesenteric and splenic veins behind the neck of the pancreas",
+    "The inferior mesenteric and splenic veins",
+    "The hepatic veins",
+    "The renal veins"
+   ],
+   "correct": 0,
+   "concept": "The inferior mesenteric vein usually joins the splenic vein. The portal vein has no valves, so portal hypertension causes reversed flow through portosystemic anastomoses.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_003",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "M",
+   "stem": "Portosystemic anastomoses that become clinically important in portal hypertension include all EXCEPT:",
+   "options": [
+    "The femoral canal",
+    "The lower oesophagus",
+    "The rectum",
+    "The umbilicus"
+   ],
+   "correct": 0,
+   "concept": "Sites are the lower oesophagus giving varices, rectum giving haemorrhoids, umbilicus giving caput medusae and retroperitoneal veins. Femoral hernia relates to the femoral canal, not venous drainage.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_004",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "E",
+   "stem": "Calot's triangle is bounded by:",
+   "options": [
+    "The cystic duct, common hepatic duct and inferior surface of the liver",
+    "The cystic artery",
+    "The portal vein",
+    "The duodenum"
+   ],
+   "correct": 0,
+   "concept": "The cystic artery is the key content, not a boundary, and must be identified to obtain the critical view of safety before clipping during cholecystectomy - the principal safeguard against bile duct injury.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_005",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "M",
+   "stem": "The functional division of the liver into right and left lobes is determined by:",
+   "options": [
+    "Cantlie line running from the gallbladder fossa to the inferior vena cava",
+    "The falciform ligament",
+    "The ligamentum teres",
+    "The porta hepatis"
+   ],
+   "correct": 0,
+   "concept": "Anatomical lobes defined by the falciform ligament do not correspond to functional segments. Couinaud divides the liver into eight segments each with its own portal and hepatic venous supply, guiding resections.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_006",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "M",
+   "stem": "The foregut, midgut and hindgut are supplied respectively by:",
+   "options": [
+    "Coeliac, superior mesenteric and inferior mesenteric arteries",
+    "Superior mesenteric, coeliac and inferior mesenteric",
+    "Inferior mesenteric, coeliac and superior mesenteric",
+    "Renal, coeliac and mesenteric"
+   ],
+   "correct": 0,
+   "concept": "Referred pain follows this pattern: foregut pain is epigastric, midgut periumbilical and hindgut suprapubic - which explains the shift of appendicitis pain from umbilicus to right iliac fossa as the parietal peritoneum becomes involved.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_007",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "E",
+   "stem": "The lesser sac communicates with the greater sac through:",
+   "options": [
+    "The epiploic foramen",
+    "The inguinal canal",
+    "The femoral canal",
+    "The obturator foramen"
+   ],
+   "correct": 0,
+   "concept": "Fluid collections in the lesser sac, as in pancreatic pseudocyst, are relatively contained. The stomach and lesser omentum lie anteriorly and the pancreas posteriorly.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_008",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "H",
+   "stem": "In a supine patient, infected peritoneal fluid tends to collect in:",
+   "options": [
+    "The right subhepatic (Morison) pouch and the pelvis",
+    "The left subphrenic space only",
+    "The lesser sac only",
+    "The paracolic gutter only"
+   ],
+   "correct": 0,
+   "concept": "Morison pouch is the most dependent part of the peritoneal cavity in the supine position and is the first place examined on FAST scanning for free fluid after trauma.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_009",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "H",
+   "stem": "The bile duct in its supraduodenal course lies:",
+   "options": [
+    "In the free edge of the lesser omentum, anterior and to the right of the portal vein",
+    "Posterior to the portal vein",
+    "Within the pancreas only",
+    "Behind the inferior vena cava"
+   ],
+   "correct": 0,
+   "concept": "The hepatic artery lies to the left of the duct with the portal vein behind both. Knowing this arrangement is essential during cholecystectomy and in interpreting obstructive jaundice.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_AB_010",
+   "part": "A",
+   "subject": "Anatomy",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Abdomen: peritoneum, liver & biliary, portal system",
+   "difficulty": "M",
+   "stem": "McBurney point, the surface marking of the base of the appendix, lies at:",
+   "options": [
+    "The junction of the lateral one-third and medial two-thirds of a line from the anterior superior iliac spine to the umbilicus",
+    "The midpoint of the inguinal ligament",
+    "The midclavicular line at the costal margin",
+    "Two inches above the pubic symphysis"
+   ],
+   "correct": 0,
+   "concept": "The appendix base is constant even though the tip varies in position, being retrocaecal most commonly, then pelvic. Rebound tenderness here is a classic sign of appendicitis.",
+   "reference": "Snell Clinical Anatomy 10e, Abdomen",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

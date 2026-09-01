@@ -1,0 +1,731 @@
+{
+ "questions": [
+  {
+   "id": "Q_AN_GA_001",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "E",
+   "stem": "The intravenous induction agent of choice in a haemodynamically unstable trauma patient is:",
+   "options": [
+    "Ketamine",
+    "Propofol",
+    "Thiopentone",
+    "Midazolam"
+   ],
+   "correct": 0,
+   "concept": "Ketamine preserves or increases blood pressure through sympathetic stimulation, unlike propofol and thiopentone which cause vasodilatation and myocardial depression. It also provides analgesia and bronchodilatation.",
+   "reference": "KDT 8e, General Anaesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_002",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "M",
+   "stem": "Minimum alveolar concentration (MAC) is defined as the concentration preventing movement to a standard stimulus in:",
+   "options": [
+    "Fifty percent of subjects",
+    "Ninety-five percent",
+    "One hundred percent",
+    "Ten percent"
+   ],
+   "correct": 0,
+   "concept": "MAC is a measure of inhalational anaesthetic potency; lower MAC means greater potency. It is reduced by age, hypothermia, opioids and pregnancy, and increased by hyperthermia and chronic alcohol use.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Inhalational Anesthetics",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_003",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "M",
+   "stem": "Which inhalational agent has the lowest blood-gas partition coefficient and therefore the fastest induction?",
+   "options": [
+    "Desflurane",
+    "Halothane",
+    "Isoflurane",
+    "Ether"
+   ],
+   "correct": 0,
+   "concept": "A low blood-gas solubility means the alveolar partial pressure rises quickly, giving rapid induction and recovery. Halothane and ether are highly soluble and therefore slow.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Inhalational Anesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_004",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "E",
+   "stem": "Malignant hyperthermia is triggered by succinylcholine and volatile agents and is treated with:",
+   "options": [
+    "Dantrolene",
+    "Neostigmine",
+    "Atropine",
+    "Naloxone"
+   ],
+   "correct": 0,
+   "concept": "A ryanodine receptor mutation causes uncontrolled sarcoplasmic calcium release with rigidity, hypercarbia, hyperthermia and rhabdomyolysis. Dantrolene blocks calcium release and is life-saving alongside cooling and stopping the trigger.",
+   "reference": "KDT 8e, General Anaesthetics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_005",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "M",
+   "stem": "Propofol is characterised by:",
+   "options": [
+    "Rapid smooth induction and recovery with antiemetic properties but no analgesia",
+    "Marked analgesia",
+    "Slow recovery",
+    "Increased intracranial pressure"
+   ],
+   "correct": 0,
+   "concept": "Propofol gives clear-headed recovery with intrinsic antiemetic effect, but causes pain on injection, apnoea and hypotension, and provides no analgesia. Propofol infusion syndrome limits prolonged high-dose sedation.",
+   "reference": "KDT 8e, General Anaesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_006",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "M",
+   "stem": "Nitrous oxide is limited as a sole anaesthetic because:",
+   "options": [
+    "Its MAC exceeds 100 percent, so it cannot produce surgical anaesthesia alone",
+    "It is too potent",
+    "It causes malignant hyperthermia",
+    "It is highly soluble"
+   ],
+   "correct": 0,
+   "concept": "Nitrous oxide has excellent analgesia but a MAC of 104%, so it is used as an adjunct to reduce the requirement of other agents. It diffuses into air-filled cavities, contraindicating it in pneumothorax and bowel obstruction.",
+   "reference": "KDT 8e, General Anaesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_007",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "E",
+   "stem": "Emergence delirium with vivid unpleasant dreams is characteristic of:",
+   "options": [
+    "Ketamine",
+    "Propofol",
+    "Thiopentone",
+    "Sevoflurane"
+   ],
+   "correct": 0,
+   "concept": "Ketamine produces dissociative anaesthesia with emergence phenomena, reduced by premedication with a benzodiazepine and quiet recovery. It also raises intracranial and intraocular pressure and increases secretions.",
+   "reference": "KDT 8e, General Anaesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_008",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "H",
+   "stem": "Halothane hepatitis is thought to result from:",
+   "options": [
+    "An immune reaction to oxidative trifluoroacetyl metabolites binding hepatic proteins",
+    "Direct dose-related toxicity",
+    "Biliary obstruction",
+    "Hypoxia alone"
+   ],
+   "correct": 0,
+   "concept": "Repeated exposure, obesity, middle age and female sex increase risk of this rare but often fatal massive hepatic necrosis, which is why halothane has been largely replaced by newer agents.",
+   "reference": "KDT 8e, General Anaesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_009",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "H",
+   "stem": "The second gas effect refers to:",
+   "options": [
+    "Acceleration of uptake of a second anaesthetic gas by high-volume uptake of nitrous oxide",
+    "Slowed uptake",
+    "Diffusion hypoxia",
+    "Rebreathing"
+   ],
+   "correct": 0,
+   "concept": "Rapid absorption of large volumes of nitrous oxide concentrates the remaining alveolar gases, speeding uptake of the accompanying volatile agent. Conversely, diffusion hypoxia occurs at the end when nitrous oxide floods back into alveoli.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Inhalational Anesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_GA_010",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "General anaesthetics: IV induction & inhalational agents",
+   "difficulty": "M",
+   "stem": "Thiopentone is contraindicated in:",
+   "options": [
+    "Acute intermittent porphyria",
+    "Hypertension",
+    "Asthma treated with steroids",
+    "Diabetes"
+   ],
+   "correct": 0,
+   "concept": "Barbiturates induce ALA synthase, precipitating acute porphyric crises. Thiopentone is also avoided in airway obstruction and severe hypovolaemia because of apnoea and profound hypotension.",
+   "reference": "KDT 8e, General Anaesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_001",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "E",
+   "stem": "Succinylcholine is a:",
+   "options": [
+    "Depolarising neuromuscular blocker producing fasciculations followed by flaccid paralysis",
+    "Non-depolarising blocker",
+    "Competitive antagonist",
+    "Anticholinesterase"
+   ],
+   "correct": 0,
+   "concept": "Succinylcholine binds and persistently depolarises the motor end plate, giving the fastest onset and shortest duration, ideal for rapid sequence induction. Its block is not reversed by neostigmine.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_002",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "M",
+   "stem": "Succinylcholine is contraindicated in burns and spinal cord injury after 24 to 48 hours because of:",
+   "options": [
+    "Extrajunctional receptor proliferation causing life-threatening hyperkalaemia",
+    "Prolonged apnoea",
+    "Malignant hyperthermia only",
+    "Bradycardia"
+   ],
+   "correct": 0,
+   "concept": "Upregulated extrajunctional acetylcholine receptors release massive potassium on depolarisation, causing cardiac arrest. Other contraindications include hyperkalaemia, myopathies and a history of malignant hyperthermia.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_003",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "M",
+   "stem": "Prolonged apnoea after succinylcholine suggests:",
+   "options": [
+    "Atypical (deficient) pseudocholinesterase",
+    "Renal failure",
+    "Hepatic failure",
+    "Hyperkalaemia"
+   ],
+   "correct": 0,
+   "concept": "Succinylcholine is hydrolysed by plasma cholinesterase; genetic variants prolong block for hours, assessed by the dibucaine number. Management is continued ventilation until spontaneous recovery.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_004",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "E",
+   "stem": "Non-depolarising neuromuscular blockade is reversed by:",
+   "options": [
+    "Neostigmine with glycopyrrolate, or sugammadex for aminosteroid agents",
+    "Succinylcholine",
+    "Atropine alone",
+    "Naloxone"
+   ],
+   "correct": 0,
+   "concept": "Neostigmine raises synaptic acetylcholine to outcompete the blocker, and an antimuscarinic is co-administered to prevent bradycardia and secretions. Sugammadex directly encapsulates rocuronium and vecuronium.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_005",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "M",
+   "stem": "The neuromuscular blocker of choice in renal and hepatic failure is:",
+   "options": [
+    "Atracurium or cisatracurium, eliminated by Hofmann degradation",
+    "Pancuronium",
+    "Vecuronium",
+    "Rocuronium"
+   ],
+   "correct": 0,
+   "concept": "Hofmann elimination is spontaneous degradation at body pH and temperature, independent of renal or hepatic function, making atracurium ideal in organ failure. Laudanosine accumulation is a theoretical concern.",
+   "reference": "KDT 8e, Skeletal Muscle Relaxants",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_006",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "M",
+   "stem": "Pulse oximetry gives falsely normal readings in:",
+   "options": [
+    "Carbon monoxide poisoning",
+    "Hypothermia",
+    "Anaemia",
+    "Hypotension"
+   ],
+   "correct": 0,
+   "concept": "Carboxyhaemoglobin absorbs light similarly to oxyhaemoglobin, so saturation appears normal despite severe tissue hypoxia; co-oximetry is required. Methaemoglobinaemia drives the reading towards 85% regardless of true saturation.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Patient Monitors",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_007",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "E",
+   "stem": "Capnography during anaesthesia is the most reliable monitor for confirming:",
+   "options": [
+    "Correct tracheal placement of the endotracheal tube",
+    "Depth of anaesthesia",
+    "Muscle relaxation",
+    "Blood loss"
+   ],
+   "correct": 0,
+   "concept": "A sustained end-tidal carbon dioxide waveform over several breaths confirms tracheal rather than oesophageal intubation. A sudden fall suggests disconnection, cardiac arrest or pulmonary embolism.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Patient Monitors",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_008",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "H",
+   "stem": "The Bain circuit is a modification of which Mapleson system?",
+   "options": [
+    "Mapleson D",
+    "Mapleson A",
+    "Mapleson C",
+    "Mapleson F"
+   ],
+   "correct": 0,
+   "concept": "The Bain is a coaxial Mapleson D, efficient for controlled ventilation. Mapleson A (Magill) is most efficient for spontaneous ventilation, and Jackson-Rees (Mapleson F) is used in children.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Breathing Systems",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_009",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "H",
+   "stem": "Soda lime in the circle absorber removes carbon dioxide and is exhausted when:",
+   "options": [
+    "The indicator dye changes colour and inspired carbon dioxide rises",
+    "The canister feels cold",
+    "Oxygen falls",
+    "Pressure rises"
+   ],
+   "correct": 0,
+   "concept": "Soda lime, mainly calcium hydroxide with sodium hydroxide, generates heat and moisture as it absorbs carbon dioxide; ethyl violet indicator changes colour on exhaustion. Rising inspired carbon dioxide on capnography confirms it.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Breathing Systems",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_MR_010",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Muscle relaxants, monitoring, anaesthesia machine & breathing circuits",
+   "difficulty": "M",
+   "stem": "The train-of-four ratio is used to assess:",
+   "options": [
+    "Adequacy of neuromuscular blockade and its reversal",
+    "Depth of anaesthesia",
+    "Analgesia",
+    "Cardiac output"
+   ],
+   "correct": 0,
+   "concept": "Four supramaximal stimuli at 2 Hz produce progressive fade with non-depolarising block; a ratio above 0.9 indicates adequate recovery for safe extubation. Depolarising block shows uniform reduction without fade.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Patient Monitors",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_001",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "E",
+   "stem": "Spinal anaesthesia is administered into the subarachnoid space below which vertebral level to avoid cord injury?",
+   "options": [
+    "L2 in adults",
+    "T12",
+    "L5 only",
+    "S1"
+   ],
+   "correct": 0,
+   "concept": "The spinal cord ends at L1-L2 in adults and L3 in infants, so injection is made at L3-4 or L4-5, identified by Tuffier's line joining the iliac crests.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Spinal Anesthesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_002",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "M",
+   "stem": "The commonest complication of spinal anaesthesia is:",
+   "options": [
+    "Hypotension from sympathetic blockade",
+    "Total spinal",
+    "Meningitis",
+    "Nerve injury"
+   ],
+   "correct": 0,
+   "concept": "Sympathetic block causes vasodilatation with hypotension and bradycardia if cardioaccelerator fibres at T1-T4 are involved, managed by fluid preloading, vasopressors and left lateral tilt in pregnancy.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Spinal Anesthesia",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_003",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "M",
+   "stem": "Post-dural puncture headache is characteristically:",
+   "options": [
+    "Postural, worse on sitting and relieved by lying flat",
+    "Worse lying flat",
+    "Non-postural",
+    "Associated with fever"
+   ],
+   "correct": 0,
+   "concept": "Cerebrospinal fluid leak causes traction on meninges giving a postural fronto-occipital headache, commoner with large-bore cutting needles and in young women. Treatment is bed rest, fluids, caffeine and an epidural blood patch if severe.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Spinal Anesthesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_004",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "E",
+   "stem": "Epidural anaesthesia differs from spinal anaesthesia in that it:",
+   "options": [
+    "Has slower onset, uses larger drug volumes and allows continuous catheter techniques",
+    "Has faster onset",
+    "Uses smaller volumes",
+    "Cannot be continued postoperatively"
+   ],
+   "correct": 0,
+   "concept": "The epidural space requires 10 to 20 mL of local anaesthetic acting on nerve roots, giving slower segmental onset but permitting catheter top-ups for labour and postoperative analgesia.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Epidural Anesthesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_005",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "M",
+   "stem": "Absolute contraindications to central neuraxial block include:",
+   "options": [
+    "Patient refusal, coagulopathy, raised intracranial pressure and infection at the site",
+    "Hypertension",
+    "Diabetes",
+    "Obesity"
+   ],
+   "correct": 0,
+   "concept": "Coagulopathy risks epidural haematoma with permanent paraplegia, and dural puncture with raised intracranial pressure risks coning. Local sepsis risks meningitis, and refusal is always absolute.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Regional Anesthesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_006",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "M",
+   "stem": "Local anaesthetic systemic toxicity presents initially with:",
+   "options": [
+    "Perioral tingling, tinnitus and metallic taste before seizures and cardiac arrest",
+    "Immediate cardiac arrest",
+    "Rash only",
+    "Hypertension"
+   ],
+   "correct": 0,
+   "concept": "Central nervous system excitation precedes cardiovascular collapse, with bupivacaine notably cardiotoxic and resistant to resuscitation. Intravenous lipid emulsion is the specific rescue therapy alongside standard resuscitation.",
+   "reference": "KDT 8e, Local Anaesthetics",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_007",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "E",
+   "stem": "Adrenaline is added to local anaesthetic solutions to:",
+   "options": [
+    "Prolong action and reduce systemic absorption and bleeding",
+    "Speed onset only",
+    "Increase toxicity",
+    "Provide analgesia"
+   ],
+   "correct": 0,
+   "concept": "Vasoconstriction slows absorption, prolonging block and raising the maximum safe dose from 3 to 7 mg/kg for lignocaine. It must be avoided in end-artery areas such as digits, penis, nose and ear pinna.",
+   "reference": "KDT 8e, Local Anaesthetics",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_008",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "H",
+   "stem": "Horner syndrome after an interscalene brachial plexus block indicates:",
+   "options": [
+    "Spread of local anaesthetic to the stellate ganglion",
+    "Phrenic nerve palsy",
+    "Total spinal",
+    "Vascular injection"
+   ],
+   "correct": 0,
+   "concept": "Stellate ganglion involvement gives ptosis, miosis and anhidrosis; ipsilateral phrenic nerve palsy occurs in nearly all interscalene blocks, so it is avoided in significant respiratory disease. Both are self-limiting.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Peripheral Nerve Blocks",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_009",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "H",
+   "stem": "Cauda equina syndrome after spinal anaesthesia has been associated with:",
+   "options": [
+    "Continuous spinal microcatheters with concentrated hyperbaric lignocaine",
+    "Bupivacaine at standard dose",
+    "Single-shot technique",
+    "Adrenaline"
+   ],
+   "correct": 0,
+   "concept": "Maldistribution with pooling of concentrated local anaesthetic around sacral roots causes bowel, bladder and sensory deficits. Concentrated lignocaine for spinal use has therefore been largely abandoned.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Spinal Anesthesia",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_AN_RA_010",
+   "part": "B",
+   "subject": "Anaesthesia",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Regional, spinal & epidural anaesthesia; postoperative care, pain & complications",
+   "difficulty": "M",
+   "stem": "Patient-controlled analgesia is considered safe because:",
+   "options": [
+    "Sedation precedes respiratory depression, so an oversedated patient stops pressing the button",
+    "The dose is fixed",
+    "It uses non-opioids",
+    "It has no lockout"
+   ],
+   "correct": 0,
+   "concept": "The inherent negative feedback requires that only the patient operates the device; proxy administration by relatives removes this safeguard and is the commonest cause of PCA-related respiratory depression.",
+   "reference": "Morgan & Mikhail Clinical Anesthesiology 6e, Postoperative Pain",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

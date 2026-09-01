@@ -1,0 +1,44 @@
+Q_h3d_013 | del | duplicate of Q_PY_LNG_018 on why 100 percent oxygen fails to correct a true shunt, and it cited a textbook outside the bank's source set with no chapter. The retained item gives the mechanism
+Q_PY_REN_001 | del | duplicate of Q_PY_REN_011 on the proximal tubule reabsorbing about two-thirds of filtered sodium. The item that also notes isosmotic reabsorption is retained
+Q_PY_REN_003 | del | duplicate of Q_PY_GCU_007 on the renal threshold for glucose of about 180 mg per dL. The first item is retained
+Q_PY_REN_005 | del | duplicate of Q_PY_GCU_005 on countercurrent multiplication generating the medullary gradient. The first item is retained
+Q_PY_REN_007 | del | duplicate of Q_PY_REN_014, which names ammonium as the main buffer and additionally its upregulation in chronic acidosis. The fuller item is retained
+Q_PY_REN_009 | del | duplicate of Q_PY_REN_017 on the pontine micturition centre coordinating the reflex. The item that also notes cortical control is retained
+Q_PY_REN_012 | del | duplicate of Q_h3d_012 on furosemide inhibiting the Na-K-2Cl cotransporter of the thick ascending limb. The vignette is retained
+Q_PY_REP_003 | del | duplicate of Q_PY_REP_017 on progesterone raising basal body temperature after ovulation. The item that names the hypothalamic site is retained
+Q_PY_REP_006 | del | duplicate of Q_PY_REP_014, which tests the same oestrogen and progesterone block on prolactin from the other side. The postpartum item is retained
+Q_PY_REP_015 | del | duplicate of Q_PY_REP_007, whose key already gives oxytocin for milk ejection alongside prolactin. The first item is retained
+Q_PY_REP_011 | del | duplicate of Q_PY_HAF_004 on oestradiol provoking the mid-cycle luteinising hormone surge. The first item is retained
+Q_PY_REP_018 | del | duplicate of Q_PYQ_FMGE_2025JANP1_029 on inhibin suppressing follicle-stimulating hormone. The real exam recall is retained
+Q_PY_RSP_003 | del | duplicate of Q_PY_OCT_006, whose key already gives the initial hyperventilation with respiratory alkalosis at altitude. The fuller item is retained
+Q_PY_RSP_005 | del | duplicate of Q_PY_OCT_006, whose key already gives the polycythaemia and raised 2,3-bisphosphoglycerate of acclimatisation. The fuller item is retained
+Q_PY_OCT_009 | ok |
+Q_PY_REN_004 | ok |
+Q_PY_REN_006 | ok |
+Q_PY_REN_008 | ok |
+Q_PY_REN_010 | ok |
+Q_PY_REN_011 | ok |
+Q_PY_REN_013 | ok |
+Q_PY_REN_014 | ok |
+Q_PY_REN_015 | ok |
+Q_PY_REN_016 | ok |
+Q_PY_REN_017 | ok |
+Q_PY_REN_018 | ok |
+Q_PY_REN_019 | ok |
+Q_PY_REP_004 | ok |
+Q_PY_REP_005 | ok |
+Q_PY_REP_007 | ok |
+Q_PY_REP_008 | ok |
+Q_PY_REP_009 | ok |
+Q_PY_REP_010 | ok |
+Q_PY_REP_012 | ok |
+Q_PY_REP_014 | ok |
+Q_PY_REP_016 | ok |
+Q_PY_REP_017 | ok |
+Q_PY_REP_019 | ok |
+Q_PY_RSP_001 | ok |
+Q_PY_RSP_002 | ok |
+Q_PY_RSP_004 | ok |
+Q_PY_RSP_006 | ok |
+Q_PY_RSP_007 | ok |
+Q_PY_RSP_008 | ok |

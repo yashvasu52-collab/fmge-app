@@ -1,0 +1,44 @@
+Q_MED_ANE_003 | del | duplicate of Q_MED_ANE_015 on the iron profile of anaemia of chronic disease. The item that contrasts it with iron deficiency is retained
+Q_MED_ARR_013 | del | duplicate of Q_MED_ARR_006 on Wenckebach second degree block. The first item is retained
+Q_MED_ARR_012 | del | duplicate of Q_MED_ARR_002, whose stem already gives the atrial rate of about 300 in flutter. The first item is retained
+Q_MED_COAG_015 | del | duplicate of Q_MED_COAG_003 on the coagulation profile of disseminated intravascular coagulation. The first item is retained
+Q_MED_ANE_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 97 (Iron Deficiency and Other Hypoproliferative Anemias); Park's Textbook of Preventive and Social Medicine 27e, Ch. Occupational Health | a Medicine item on basophilic stippling was sourced only to a community medicine textbook
+Q_MED_ARR_007 | ref=American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care 2020, Advanced Cardiovascular Life Support; Harrison's Principles of Internal Medicine 21e, Ch. 250 (Cardiac Arrest and Sudden Cardiac Death) | the reference abbreviated both sources and gave no year
+Q_MED_ANE_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 97 (Iron Deficiency and Other Hypoproliferative Anemias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ANE_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 97 (Iron Deficiency and Other Hypoproliferative Anemias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ANE_007 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 99 (Disorders of Hemoglobin) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ANE_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 99 (Disorders of Hemoglobin) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ANE_010 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 98 (Hemolytic Anemias and Anemia from Acute Blood Loss) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ARR_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 249 (The Tachyarrhythmias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ARR_002 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 249 (The Tachyarrhythmias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ARR_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 249 (The Tachyarrhythmias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ARR_008 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 249 (The Tachyarrhythmias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ARR_009 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 249 (The Tachyarrhythmias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ARR_006 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 248 (The Bradyarrhythmias) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COAG_001 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 65 (Disorders of Coagulation and Thrombosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COAG_003 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 65 (Disorders of Coagulation and Thrombosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COAG_004 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 65 (Disorders of Coagulation and Thrombosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_COAG_005 | ref=Harrison's Principles of Internal Medicine 21e, Ch. 65 (Disorders of Coagulation and Thrombosis) | the chapter was given as a descriptive title rather than the numbered chapter used elsewhere in the topic
+Q_MED_ADC_001 | ok |
+Q_MED_ADC_002 | ok |
+Q_MED_ADC_003 | ok |
+Q_MED_ADC_004 | ok |
+Q_MED_ADC_005 | ok |
+Q_MED_ADC_006 | ok |
+Q_MED_ADC_007 | ok |
+Q_MED_ADC_008 | ok |
+Q_MED_ADC_009 | ok |
+Q_MED_ANE_012 | ok |
+Q_MED_ANE_013 | ok |
+Q_MED_ANE_015 | ok |
+Q_MED_ANE_016 | ok |
+Q_MED_ANE_017 | ok |
+Q_MED_ARR_004 | ok |
+Q_MED_ARR_010 | ok |
+Q_MED_ARR_015 | ok |
+Q_MED_ARR_018 | ok |
+Q_MED_ARR_019 | ok |
+Q_MED_COAG_007 | ok |
+Q_MED_COAG_008 | ok |
+Q_MED_COAG_010 | ok |
+Q_MED_COAG_013 | ok |

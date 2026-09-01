@@ -1,0 +1,33 @@
+Q_h3d_037 | del | duplicate of Q_PS_CHI_005 on clozapine requiring white cell monitoring for agranulocytosis. The pharmacology item is retained
+Q_PS_SOM_001 | del | duplicate of Q_PYQ_FMGE_2025JANP2_024, which after correction describes the same conversion disorder in a vignette and additionally names la belle indifference. The vignette item is retained
+Q_PS_SOM_002 | del | duplicate of Q_PYQ_FMGE_2026JUN_026, which after refiling into this topic covers the same illness anxiety disorder in a vignette. The vignette item is retained
+Q_PS_SOM_004 | del | duplicate of Q_PYQ_FMGE_2025JULP1_055, which after refiling into this topic covers the same dissociative amnesia in a vignette. The vignette item is retained
+Q_PYQ_FMGE_2025JANP2_018 | topic=Psychiatric history, mental status examination & classification (ICD/DSM);;ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Psychiatric History and Examination | misfiled: identifying circumstantial speech is a disorder of thought form assessed on mental status examination, and sat under "Schizophrenia & psychosis". Refiled, and the exam-paper-only reference replaced
+Q_PYQ_FMGE_2024JUN_034 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Schizophrenia (passivity phenomena) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JANP1_032 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Schizophrenia (negative symptoms) | reference cited only the exam paper; a study source added
+Q_PYQ_FMGE_2025JULP1_060 | ref=Ahuja A Short Textbook of Psychiatry 8e, Ch. Schizophrenia (types of delusion) | reference cited only the exam paper; a study source added
+Q_PS_MSE_009 | ok |
+Q_PS_MSE_010 | ok |
+Q_PS_MSE_011 | ok |
+Q_PS_MSE_012 | ok |
+Q_PS_MSE_013 | ok |
+Q_PS_MSE_014 | ok |
+Q_PS_MSE_015 | ok |
+Q_PS_MSE_016 | ok |
+Q_PS_MSE_017 | ok |
+Q_PS_MSE_018 | ok |
+Q_PS_SOM_003 | ok |
+Q_PS_SOM_005 | ok |
+Q_PS_SOM_006 | ok |
+Q_PS_SOM_007 | ok |
+Q_PS_SOM_008 | ok |
+Q_PS_SOM_009 | ok |
+Q_PS_SOM_010 | ok |
+Q_PS_SOM_011 | ok |
+Q_PS_SOM_012 | ok |
+Q_PS_SOM_013 | ok |
+Q_PS_SOM_014 | ok |
+Q_PS_SOM_015 | ok |
+Q_PS_SOM_016 | ok |
+Q_PS_SOM_017 | ok |
+Q_PS_SOM_018 | ok |

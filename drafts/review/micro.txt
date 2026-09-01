@@ -1,0 +1,578 @@
+
+=== Microbiology / Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas
+Q_c1_056 [E] A patient in a cholera outbreak has profuse painless 'rice-water' stools and severe dehydration. The single most important, life-saving intervention is?
+   *A. Oral/intravenous rehydration therapy
+    B. Intravenous antibiotics alone
+    C. Antimotility agents
+    D. Antiemetics
+   key=A ref=Ananthanarayan & Paniker 10e, Ch. Vibrio
+   concept: Cholera kills through dehydration, so rapid fluid and electrolyte replacement (ORS or IV fluids) is life-saving. Cholera toxin raises intracellular cAMP causing massive chloride/water secretion; antibiotics (e.g. doxycycline) are only an adjunct to shorten shedding.
+
+=== Microbiology / Gram-positive: Staph, Strep, toxins
+Q_c1_054 [E] A rising anti-streptolysin O (ASO) titre following pharyngitis supports recent infection with?
+   *A. Streptococcus pyogenes (Group A)
+    B. Staphylococcus aureus
+    C. Streptococcus pneumoniae
+    D. Enterococcus faecalis
+   key=A ref=Ananthanarayan & Paniker 10e, Ch. Streptococcus
+   concept: ASO antibodies rise after Group A beta-hemolytic streptococcal (S. pyogenes) infection and are used to support a diagnosis of rheumatic fever or post-streptococcal glomerulonephritis. S. pyogenes is bacitracin-sensitive.
+
+=== Microbiology / HIV: virology, diagnosis, opportunistic infections
+Q_GEN_MICRO_VIR_HIV_001 [E] Human immunodeficiency virus (HIV) is an enveloped RNA virus that establishes lifelong infection. To which family and genus does it belong?
+    A. Family Herpesviridae, an enveloped double-stranded DNA virus
+   *B. Family Retroviridae, genus Lentivirus
+    C. Family Orthomyxoviridae, a segmented RNA virus
+    D. Family Flaviviridae, genus Hepacivirus
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Human Immunodeficiency Virus
+   concept: HIV is a retrovirus of the genus Lentivirus (subfamily Orthoretrovirinae), named for its 'slow' course; it carries reverse transcriptase and integrates a DNA provirus into the host genome. Herpesviridae are dsDNA viruses (HHV-8, EBV, CMV cause HIV-related disease but are not HIV); Orthomyxoviridae is influenza (segmented RNA); Flaviviridae/Hepacivirus is hepatitis C — none is a retrovirus.
+Q_GEN_MICRO_VIR_HIV_002 [M] Which statement best describes the genome packaged within a mature HIV virion?
+    A. A single molecule of negative-sense single-stranded RNA
+    B. Double-stranded DNA transcribed directly by host RNA polymerase
+   *C. Two identical copies of positive-sense single-stranded RNA (a diploid genome)
+    D. Eight separate segments of single-stranded RNA
+   key=C ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Retroviruses (HIV)
+   concept: HIV is unique in being effectively 'diploid', packaging two identical copies of positive-sense (+) single-stranded RNA of about 9.7 kb each. Despite being positive-sense, the RNA is not translated directly on entry; reverse transcriptase first copies it into double-stranded DNA (provirus) that integrates into host DNA. A single negative-sense molecule describes rhabdo/paramyxoviruses, dsDNA is not the virion form, and eight RNA segments describe influenza A.
+Q_GEN_MICRO_VIR_HIV_003 [M] The HIV gag gene encodes a p55 polyprotein that is later cleaved to yield which group of viral components?
+   *A. The core structural proteins — matrix (p17), capsid (p24) and nucleocapsid (p7)
+    B. The envelope glycoproteins gp120 and gp41
+    C. The enzymes reverse transcriptase, integrase and protease
+    D. The regulatory proteins Tat and Rev
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — HIV: morphology and genome
+   concept: gag encodes the internal structural proteins: p17 matrix lining the envelope, p24 capsid forming the conical core, and p7/p9 nucleocapsid binding the RNA. p24 is the antigen detected earliest in serum and by fourth-generation combo assays. The envelope glycoproteins gp120/gp41 arise from env, the enzymes reverse transcriptase/integrase/protease from pol, and Tat and Rev are regulatory (non-structural) gene products — none is a gag product.
+Q_GEN_MICRO_VIR_HIV_004 [H] The three virally encoded enzymes essential to HIV replication are products of the pol gene. Which of the following enzymes is NOT encoded by HIV?
+    A. Reverse transcriptase (RNA-dependent DNA polymerase)
+    B. Integrase
+    C. Protease (an aspartyl protease)
+   *D. Neuraminidase
+   key=D ref=Jawetz, Melnick & Adelberg's Medical Microbiology — HIV genome and enzymes
+   concept: pol encodes reverse transcriptase (transcribes RNA to DNA, with RNase-H activity), integrase (inserts proviral DNA into the host chromosome) and a protease (cleaves gag and gag-pol polyproteins during maturation) — the classic antiretroviral drug targets alongside entry/fusion. Neuraminidase is an influenza surface enzyme (the oseltamivir target) and has no role in HIV, which uses gp120/gp41 rather than a neuraminidase for its life cycle.
+Q_GEN_MICRO_VIR_HIV_005 [M] The HIV env gene product gp160 is cleaved into two glycoproteins. Which pairing of glycoprotein to function is correct?
+   *A. gp120 mediates attachment to the CD4 receptor; gp41 mediates fusion of viral and cell membranes
+    B. gp120 mediates membrane fusion; gp41 binds the CD4 receptor
+    C. gp120 is the transmembrane anchor; gp41 is reverse transcriptase
+    D. Both gp120 and gp41 are internal capsid proteins
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — HIV envelope glycoproteins
+   concept: env's precursor gp160 is cleaved into surface gp120 (SU), which binds CD4 and then a co-receptor (CCR5 or CXCR4), and transmembrane gp41 (TM), which drives fusion of the viral envelope with the host membrane; gp41 is the target of the fusion inhibitor enfuvirtide. Reversing their roles is wrong, gp41 is not an enzyme, and neither is an internal capsid protein — that internal core role belongs to p24 from gag.
+Q_GEN_MICRO_VIR_HIV_006 [M] Regarding HIV-2 compared with HIV-1, which statement is correct?
+    A. HIV-2 causes the global pandemic and spreads faster than HIV-1
+   *B. HIV-2 is largely confined to West Africa, is less transmissible, and progresses to AIDS more slowly
+    C. HIV-2 is fully susceptible to all non-nucleoside reverse transcriptase inhibitors (NNRTIs)
+    D. HIV-2 shares more than 90% genome homology with HIV-1
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — HIV-1 and HIV-2
+   concept: HIV-2 is endemic in West Africa, is less transmissible, carries lower viral loads and has a longer latent period with slower progression to AIDS; genetically it is closer to SIV (only about 40-50% homology with HIV-1). Importantly, HIV-2 is intrinsically resistant to NNRTIs and to enfuvirtide, so option C is false. HIV-1 group M, not HIV-2, drives the worldwide pandemic, making option A wrong.
+Q_GEN_MICRO_VIR_HIV_007 [M] Assertion (A): HIV shows extremely high genetic variability, which is a major obstacle to vaccine development. Reason (R): HIV reverse transcriptase is error-prone and lacks 3'-to-5' exonuclease proofreading activity. Select the correct option.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Jawetz, Melnick & Adelberg's Medical Microbiology — HIV variability and reverse transcriptase
+   concept: HIV reverse transcriptase has no 3'-to-5' exonuclease proofreading, so it introduces roughly one error per genome per replication cycle; combined with rapid viral turnover and recombination between the two RNA copies, this generates enormous quasispecies diversity that drives immune escape, drug resistance and vaccine failure. Thus both statements are true and R is precisely the mechanism explaining A, making option A correct.
+Q_GEN_MICRO_VIR_HIV_008 [M] After HIV enters a CD4 cell, which molecular event is directly catalysed by reverse transcriptase and forms the target of nucleoside analogues such as zidovudine?
+    A. Cleavage of the gag-pol polyprotein into mature enzymes
+    B. Insertion of proviral DNA into the host chromosome
+   *C. Synthesis of double-stranded DNA from the viral single-stranded RNA template
+    D. Budding of assembled virions through the plasma membrane
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — HIV replication cycle
+   concept: Reverse transcriptase is an RNA-dependent DNA polymerase that copies the (+)ssRNA genome into complementary DNA and then double-stranded DNA, while its RNase-H activity degrades the original RNA template; this step is inhibited by NRTIs such as zidovudine and by NNRTIs. Polyprotein cleavage is the job of protease, chromosomal insertion is performed by integrase, and budding is a late assembly event — none of these is catalysed by reverse transcriptase.
+Q_GEN_MICRO_VIR_HIV_009 [H] Enfuvirtide, an antiretroviral peptide, blocks HIV at which step of its replication cycle?
+    A. Reverse transcription of viral RNA
+   *B. Fusion of the viral envelope with the host cell membrane by binding gp41
+    C. Integration of proviral DNA into the host genome
+    D. Proteolytic maturation of the assembled virion
+   key=B ref=Jawetz, Melnick & Adelberg's Medical Microbiology — antiretroviral drug targets
+   concept: Enfuvirtide (T-20) is a fusion inhibitor that binds the HR1 region of gp41, preventing the conformational change that fuses the viral envelope with the cell membrane after gp120 engages CD4 and its co-receptor; entry is therefore blocked. Maraviroc, a distinct entry inhibitor, instead blocks the CCR5 co-receptor. Reverse transcription is blocked by NRTIs/NNRTIs, integration by integrase inhibitors, and maturation by protease inhibitors — not by enfuvirtide.
+Q_GEN_MICRO_VIR_HIV_010 [H] Protease inhibitors (e.g., ritonavir, lopinavir) exert their antiviral effect by producing which outcome?
+    A. Preventing viral RNA from being reverse-transcribed into DNA
+    B. Blocking gp120 binding to the CCR5 co-receptor
+    C. Stopping proviral DNA from integrating into host DNA
+   *D. Preventing cleavage of gag-pol polyproteins, yielding immature non-infectious virions
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — HIV protease and protease inhibitors
+   concept: HIV protease is an aspartyl protease that cleaves the gag and gag-pol polyproteins into functional structural proteins and enzymes during and just after budding; inhibiting it produces immature, non-infectious virions. It acts at a late maturation step, distinct from reverse transcription (blocked by NRTIs/NNRTIs), co-receptor entry (blocked by maraviroc) and integration (blocked by integrase inhibitors) described in the other options.
+Q_GEN_MICRO_VIR_HIV_011 [E] A fourth-generation HIV screening immunoassay ('combo' assay) is superior to earlier antibody-only tests mainly because it additionally detects which marker, allowing earlier diagnosis?
+   *A. The p24 core antigen, in addition to HIV-1/2 antibodies
+    B. gp41 antibody only
+    C. The CD4 lymphocyte count
+    D. Proviral DNA within lymphocytes
+   key=A ref=Jawetz, Melnick & Adelberg's Medical Microbiology — HIV laboratory diagnosis
+   concept: Fourth-generation combo assays detect both HIV-1/2 antibodies and the p24 capsid antigen. Because p24 antigen appears roughly 2-3 weeks after infection — before antibodies become detectable — the combo assay shortens the window period compared with first- to third-generation antibody-only tests. It does not measure CD4 counts (an immune marker by flow cytometry) or proviral DNA (a separate NAT/PCR technique), and detecting a single antibody such as gp41 alone offers no such advantage.
+Q_GEN_MICRO_VIR_HIV_012 [M] A man exposed to HIV 10 days ago is anxious and requests testing. A standard antibody-based rapid test is negative. Which explanation and next step is most appropriate?
+    A. He is definitely uninfected; no further testing is required
+    B. Antibody tests are never useful in HIV and should be abandoned
+    C. He can be reassured that antibodies reliably appear within 24 hours of exposure
+   *D. He may be in the 'window period' before antibodies are detectable; a p24 antigen/nucleic acid (NAT) test or repeat testing after the window is advised
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — window period and HIV testing
+   concept: The window period is the interval between infection and the appearance of detectable markers; antibodies can take 3-12 weeks, so an early antibody test may be falsely negative while the person is already viraemic and highly infectious. p24 antigen (detectable from about 2-3 weeks) or HIV RNA/NAT (from about 1-2 weeks) identifies infection sooner, and antibody testing should be repeated after the window. Declaring him uninfected or claiming 24-hour seroconversion is incorrect.
+Q_GEN_MICRO_VIR_HIV_013 [H] In the conventional serial HIV testing algorithm, a repeatedly reactive ELISA is traditionally confirmed by Western blot. A Western blot is interpreted as POSITIVE when antibodies are detected against which of the following?
+    A. Any single band anywhere on the strip
+    B. The p24 band alone
+   *C. At least two bands including an envelope glycoprotein (e.g., gp160/gp120/gp41), per standard criteria
+    D. Only host cellular proteins
+   key=C ref=Jawetz, Melnick & Adelberg's Medical Microbiology — confirmatory Western blot
+   concept: Western blot separates HIV proteins (env gp160/gp120/gp41, gag p24/p55, pol p31/p51/p66) so specific antibodies can be identified. A result is called positive only when defined criteria are met — typically reactivity to at least two bands including at least one envelope glycoprotein (for example gp41 plus gp120/160). A single band is 'indeterminate', p24 alone is insufficient, and reactivity to host proteins is non-specific. Nucleic acid testing is now often used as an alternative confirmatory/supplemental assay.
+Q_GEN_MICRO_VIR_HIV_014 [H] Under the NACO (India) HIV testing framework, the strategy used to DIAGNOSE HIV infection in an asymptomatic individual (e.g., at a voluntary counselling and testing centre) requires:
+    A. A single reactive rapid/ELISA test, after which the person is declared HIV positive
+   *B. Three sequential tests using different antigens or principles, all of which must be reactive
+    C. Two tests used only for transfusion/blood-bank screening
+    D. A CD4 count below 200 cells/µL as the sole diagnostic criterion
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — NACO/WHO HIV testing strategies
+   concept: NACO adapts the WHO strategies. Strategy I (one test) is for blood/organ safety and surveillance, where a single reactive result suffices for that purpose. Strategy II (up to two tests) covers surveillance and diagnosis of symptomatic patients. Strategy III (three tests using different antigen preparations or principles, all reactive) diagnoses asymptomatic individuals so that false positives are minimised. A single reactive test never confirms diagnosis, and a CD4 count stages disease rather than diagnosing infection.
+Q_GEN_MICRO_VIR_HIV_015 [M] A patient stable on antiretroviral therapy needs monitoring of treatment response. Which laboratory test is the most appropriate PRIMARY marker of the virological response to ART?
+    A. Fourth-generation p24 antigen/antibody combo test
+    B. HIV Western blot
+   *C. Plasma HIV-1 RNA viral load by quantitative PCR
+    D. Tuberculin (Mantoux) skin test
+   key=C ref=Harrison's Principles of Internal Medicine — HIV: monitoring viral load
+   concept: Plasma HIV-1 RNA (viral load) measured by quantitative RT-PCR directly quantifies circulating virus and is the key marker of virological response — the goal of ART is an undetectable viral load, and a rising load signals treatment failure, resistance or poor adherence. CD4 count tracks immune recovery rather than viral suppression. Serological tests (combo assay, Western blot) merely confirm infection and remain positive during treatment, so they cannot monitor response; the tuberculin test screens for TB, not HIV.
+Q_GEN_MICRO_VIR_HIV_016 [E] Independent of clinical symptoms, an HIV-infected adult is classified as having AIDS (severe immunosuppression) when the CD4+ T-lymphocyte count falls below which threshold?
+    A. Below 500 cells/µL
+   *B. Below 200 cells/µL
+    C. Below 750 cells/µL
+    D. Below 50 cells/µL
+   key=B ref=Harrison's Principles of Internal Medicine — HIV/AIDS: CD4 staging
+   concept: A CD4 count below 200 cells/µL is itself AIDS-defining (CDC category 3), reflecting the level at which opportunistic infections such as Pneumocystis pneumonia become common; the normal CD4 count is about 500-1500/µL. A count below 500 indicates only moderate immunosuppression, not AIDS; below 50 marks very advanced disease with risk of CMV and disseminated MAC but is not the defining cut-off; 750 lies within/near the normal range.
+Q_GEN_MICRO_VIR_HIV_017 [E] At which CD4 count should primary prophylaxis against Pneumocystis jirovecii pneumonia be started, and with which drug of choice?
+   *A. CD4 < 200 cells/µL — co-trimoxazole (trimethoprim-sulfamethoxazole)
+    B. CD4 < 50 cells/µL — azithromycin
+    C. CD4 < 350 cells/µL — fluconazole
+    D. CD4 < 100 cells/µL — isoniazid
+   key=A ref=Harrison's Principles of Internal Medicine — opportunistic infection prophylaxis in HIV
+   concept: Primary Pneumocystis (PCP) prophylaxis is indicated once the CD4 count falls below 200 cells/µL (or with oral candidiasis or another AIDS-defining illness), and the drug of choice is co-trimoxazole, which conveniently also protects against toxoplasmosis. Azithromycin is used for MAC prophylaxis (CD4 < 50), fluconazole for cryptococcal disease, and isoniazid for TB preventive therapy — each addresses a different pathogen and threshold.
+Q_GEN_MICRO_VIR_HIV_018 [M] An HIV patient with a CD4 count of 80 cells/µL presents with fever, headache and focal seizures. Contrast CT shows multiple ring-enhancing lesions in the basal ganglia; Toxoplasma IgG is positive. The most likely organism is:
+    A. Cryptococcus neoformans
+    B. JC virus
+   *C. Toxoplasma gondii
+    D. Mycobacterium avium complex
+   key=C ref=Harrison's Principles of Internal Medicine — cerebral toxoplasmosis in HIV
+   concept: In advanced HIV (CD4 < 100), multiple ring-enhancing lesions with a predilection for the basal ganglia and grey-white junction, in a Toxoplasma-IgG-seropositive patient, are classic for cerebral toxoplasmosis due to reactivation; empirical pyrimethamine-sulfadiazine is standard. Cryptococcus causes meningitis rather than ring lesions, JC virus causes PML with non-enhancing white-matter demyelination, and MAC causes disseminated febrile illness — not focal brain lesions. Primary CNS lymphoma is the main radiological mimic.
+Q_GEN_MICRO_VIR_HIV_019 [M] An AIDS patient (CD4 60/µL) has two weeks of headache, fever and neck stiffness. CSF microscopy with India ink shows round budding yeast surrounded by a wide clear halo. The most useful CONFIRMATORY rapid test on CSF/serum is:
+    A. Ziehl-Neelsen acid-fast stain
+    B. Tuberculin (Mantoux) test
+    C. KOH mount for septate hyphae
+   *D. Cryptococcal antigen (CrAg) latex agglutination / lateral-flow assay
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — Cryptococcus neoformans
+   concept: The wide clear halo on India ink represents the polysaccharide capsule of Cryptococcus neoformans, the commonest cause of fungal meningitis in advanced HIV. Detection of the capsular polysaccharide by the cryptococcal antigen (CrAg) latex agglutination or lateral-flow assay on CSF/serum is highly sensitive and specific and is the confirmatory test of choice. Acid-fast staining targets mycobacteria, the Mantoux test screens for TB, and KOH-visible septate hyphae suggest moulds such as Aspergillus — none identifies Cryptococcus.
+Q_GEN_MICRO_VIR_HIV_020 [H] A patient with very advanced AIDS (CD4 30/µL) complains of floaters and progressive painless visual loss. Fundoscopy reveals perivascular yellow-white retinal infiltrates with haemorrhages ('pizza-pie' appearance). The most likely cause is:
+    A. Toxoplasma chorioretinitis
+   *B. Cytomegalovirus (CMV) retinitis
+    C. Herpes zoster ophthalmicus
+    D. Candida endophthalmitis
+   key=B ref=Harrison's Principles of Internal Medicine — CMV retinitis in AIDS
+   concept: CMV retinitis is the classic sight-threatening opportunistic infection at CD4 < 50, producing the characteristic 'pizza-pie' (or 'cheese-and-ketchup') fundus of yellow-white necrotising retinitis with perivascular haemorrhages and exudates; it is treated with ganciclovir/valganciclovir. Toxoplasma chorioretinitis usually shows a focal lesion beside an old scar, herpes zoster ophthalmicus involves the trigeminal dermatome with pain and vesicles, and Candida endophthalmitis produces fluffy vitreous 'string-of-pearls' lesions in candidaemia — not the pizza-pie pattern.
+Q_GEN_MICRO_VIR_HIV_021 [H] An AIDS patient with a CD4 count of 25/µL has persistent fever, night sweats, weight loss, anaemia and hepatosplenomegaly. Blood cultures on special media grow an acid-fast organism, and there are no pulmonary cavities. The most likely diagnosis is:
+   *A. Disseminated Mycobacterium avium complex (MAC) infection
+    B. Pulmonary Pneumocystis jirovecii pneumonia
+    C. Cerebral toxoplasmosis
+    D. Oesophageal candidiasis
+   key=A ref=Harrison's Principles of Internal Medicine — disseminated Mycobacterium avium complex
+   concept: Disseminated MAC (M. avium-intracellulare) is a late opportunistic infection appearing at CD4 < 50, presenting with high fever, night sweats, weight loss, anaemia, hepatosplenomegaly and positive mycobacterial blood cultures WITHOUT the cavitary pulmonary disease typical of M. tuberculosis. Azithromycin is used for prophylaxis when CD4 < 50. PCP is a pneumonia, toxoplasmosis is focal CNS disease, and candidiasis causes mucosal/oesophageal lesions — none matches a disseminated febrile mycobacteraemia.
+Q_GEN_MICRO_VIR_HIV_022 [H] Progressive multifocal leukoencephalopathy (PML) — a demyelinating disease of advanced AIDS with progressive focal deficits and non-enhancing white-matter lesions on MRI — is caused by reactivation of which virus?
+    A. Human herpesvirus 8 (HHV-8)
+    B. Epstein-Barr virus (EBV)
+   *C. JC polyomavirus
+    D. Cytomegalovirus (CMV)
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — JC virus and PML
+   concept: PML results from reactivation of the JC polyomavirus, which infects and destroys oligodendrocytes, causing progressive multifocal demyelination with focal neurological deficits and characteristically non-enhancing white-matter lesions without mass effect; there is no specific antiviral, and immune reconstitution with ART is the mainstay of management. HHV-8 causes Kaposi sarcoma, EBV is linked to primary CNS lymphoma and oral hairy leukoplakia, and CMV causes retinitis/colitis — not PML.
+Q_GEN_MICRO_VIR_HIV_023 [E] Kaposi sarcoma, the most common HIV-associated malignancy, is caused by co-infection with which virus?
+    A. Human papillomavirus (HPV)
+    B. Epstein-Barr virus (EBV)
+    C. Hepatitis B virus (HBV)
+   *D. Human herpesvirus 8 (HHV-8 / Kaposi sarcoma-associated herpesvirus)
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — HHV-8 and Kaposi sarcoma
+   concept: Kaposi sarcoma is an angioproliferative, AIDS-defining tumour driven by human herpesvirus 8 (HHV-8, also called KSHV). Other HIV-related cancers have distinct viral causes: EBV underlies primary CNS lymphoma and Burkitt lymphoma, HPV drives cervical and anal carcinoma, and HBV/HCV cause hepatocellular carcinoma — but none of these causes Kaposi sarcoma, which is specifically HHV-8-related.
+Q_c1_063 [H] An HIV patient with a CD4 count of 150 cells/uL develops progressive exertional dyspnea, a dry cough, bilateral perihilar infiltrates and a markedly raised serum LDH. The most likely opportunistic infection is?
+   *A. Pneumocystis jirovecii pneumonia (PCP)
+    B. Cytomegalovirus retinitis
+    C. Mycobacterium avium complex
+    D. Cryptococcal meningitis
+   key=A ref=Ananthanarayan & Paniker 10e, Ch. HIV / Opportunistic Infections
+   concept: PCP typically occurs when CD4 falls below 200: insidious dry cough, exertional dyspnea, diffuse interstitial infiltrates and a high LDH. Cotrimoxazole is used for treatment and for prophylaxis once CD4 is below 200. CMV/MAC usually occur at CD4 below 50.
+
+=== Microbiology / Hepatitis viruses (serology markers)
+Q_GEN_MICRO_VIR_HEP_001 [E] A stool sample from a child with acute icteric hepatitis is examined virologically. The agent responsible for hepatitis A is best classified as which type of virus?
+    A. An enveloped, double-stranded DNA virus of the family Hepadnaviridae
+    B. An enveloped, single-stranded RNA virus of the family Flaviviridae
+   *C. A non-enveloped, single-stranded (positive-sense) RNA virus of the family Picornaviridae
+    D. A non-enveloped, double-stranded RNA virus of the family Reoviridae
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis Viruses
+   concept: HAV is a small (27 nm) non-enveloped icosahedral virus with a single-stranded positive-sense RNA genome, classified in family Picornaviridae, genus Hepatovirus; its lack of an envelope makes it stable to acid, ether and heat, which favours feco-oral spread. Hepadnaviridae (dsDNA) is HBV, Flaviviridae (enveloped ssRNA) is HCV, and Reoviridae (dsRNA) is unrelated to the hepatitis viruses.
+Q_GEN_MICRO_VIR_HEP_002 [M] A 7-year-old boy presents with 5 days of fever, anorexia, dark urine and jaundice after a picnic. Serology shows IgM anti-HAV positive and IgG anti-HAV negative. Which conclusion is correct?
+   *A. This indicates acute, recent hepatitis A infection
+    B. This indicates past infection with lifelong immunity
+    C. This indicates successful hepatitis A vaccination
+    D. This indicates chronic hepatitis A carriage
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis A Virus
+   concept: IgM anti-HAV appears at the onset of symptoms and persists for about 3-6 months, so its presence signifies acute or recent HAV infection; IgG anti-HAV rises later and denotes past infection or vaccination with lifelong immunity. Because IgG is still negative here, this is an early acute infection rather than recovery or vaccination. HAV has no chronic carrier state, which excludes option D.
+Q_GEN_MICRO_VIR_HEP_003 [E] Which statement correctly describes the hepatitis A vaccine in routine use?
+    A. It is a live attenuated oral vaccine similar to the oral polio vaccine
+   *B. It is a formalin-inactivated (killed) whole-virus vaccine given intramuscularly
+    C. It is a recombinant surface-antigen (subunit) vaccine produced in yeast
+    D. It is a toxoid prepared by formaldehyde treatment of a bacterial exotoxin
+   key=B ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Hepatitis Viruses
+   concept: The widely used hepatitis A vaccine is a formalin-inactivated whole-virus preparation grown in cell culture and given intramuscularly, inducing durable protective anti-HAV. The recombinant yeast-derived surface-antigen vaccine describes hepatitis B, and toxoids are bacterial products (diphtheria/tetanus). A live attenuated HAV vaccine exists only in limited settings and is not the standard product being referenced.
+Q_GEN_MICRO_VIR_HEP_004 [E] Hepatitis B virus is unique among the human hepatitis viruses in its genome and replication strategy. It is correctly classified as:
+    A. A non-enveloped, positive-sense ssRNA virus (Picornaviridae)
+    B. An enveloped, negative-sense ssRNA virus (Orthomyxoviridae)
+    C. A non-enveloped, linear dsDNA virus (Adenoviridae)
+   *D. An enveloped, partially double-stranded (circular) DNA virus (Hepadnaviridae)
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis B Virus
+   concept: HBV belongs to family Hepadnaviridae; its 42 nm enveloped Dane particle carries a small partially double-stranded, circular DNA genome and a virus-encoded polymerase with reverse-transcriptase activity, making it the only DNA virus among the hepatitis agents. Picornaviridae (HAV) and Flaviviridae (HCV) are RNA viruses, and the remaining options misassign HBV to unrelated virus families.
+Q_GEN_MICRO_VIR_HEP_005 [M] On electron microscopy of serum from a hepatitis B patient, three particles are seen: 22 nm spheres, 22 nm filaments/tubules, and larger 42 nm double-shelled particles. The 42 nm double-shelled particle represents:
+   *A. The complete, infectious HBV virion (Dane particle)
+    B. Non-infectious excess surface (HBsAg) coat material
+    C. Free hepatitis B core antigen released from lysed hepatocytes
+    D. Delta (hepatitis D) virions coated with HBsAg
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis B Virus (Morphology)
+   concept: The 42 nm double-shelled Dane particle is the complete, infectious HBV virion, comprising an outer HBsAg envelope enclosing the nucleocapsid (HBcAg), the partially dsDNA genome and DNA polymerase. The far more numerous 22 nm spheres and filaments are surplus, non-infectious HBsAg produced in excess. Free HBcAg is not found in serum, and delta virions require separate HDV RNA, which excludes those options.
+Q_GEN_MICRO_VIR_HEP_006 [H] Assertion (A): Although hepatitis B virus carries a DNA genome, its replication requires the enzyme reverse transcriptase. Reason (R): HBV copies its genome directly by semiconservative DNA-to-DNA replication without any RNA intermediate. Select the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+   *C. A is true, but R is false
+    D. A is false, but R is true
+   key=C ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Hepatitis B Virus (Replication)
+   concept: The assertion is true: HBV, despite being a DNA virus, transcribes a full-length pregenomic RNA that is then reverse-transcribed back into DNA by the reverse-transcriptase activity of its polymerase. The reason is false because replication is NOT a direct DNA-to-DNA process; it obligately passes through a pregenomic RNA intermediate. Hence A is true and R is false, giving option C.
+Q_GEN_MICRO_VIR_HEP_007 [H] In the serological diagnosis of hepatitis B, all of the following markers can be detected free in the patient's serum EXCEPT:
+    A. HBsAg (surface antigen)
+   *B. HBcAg (core antigen)
+    C. HBeAg (e antigen)
+    D. HBV-DNA
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis B Antigens
+   concept: HBcAg (core antigen) is not found free in serum because it remains sequestered within the hepatocyte nucleus and within the core of assembled Dane particles; only the corresponding anti-HBc antibody is measured serologically. In contrast, HBsAg, the secreted HBeAg, and circulating HBV-DNA are all readily detectable in serum and form the backbone of HBV serology and viral-load testing.
+Q_GEN_MICRO_VIR_HEP_008 [M] An asymptomatic 40-year-old blood donor has HBsAg negative, anti-HBs positive, and total anti-HBc (predominantly IgG) positive; HBeAg and IgM anti-HBc are negative. The most accurate interpretation is:
+    A. Response to hepatitis B vaccination
+    B. Acute hepatitis B in the window period
+    C. Chronic hepatitis B carrier state
+   *D. Immunity due to past, resolved natural HBV infection
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — Interpretation of HBV Markers
+   concept: The combination of anti-HBs positivity WITH anti-HBc (IgG) positivity indicates recovery from, and immunity after, a past natural HBV infection — the immune system has encountered the whole virus, hence the anti-HBc. Vaccine-induced immunity produces anti-HBs alone with anti-HBc negative, which excludes option A. Absence of HBsAg and IgM anti-HBc rules out chronic carriage and acute or window-period infection.
+Q_GEN_MICRO_VIR_HEP_009 [H] A cirrhotic patient is HBsAg negative and anti-HBs negative but anti-HBc (total) positive; sensitive PCR detects low-level HBV-DNA in serum and liver. This picture is best termed:
+    A. False-positive anti-HBc with no true infection
+    B. Resolved infection with sterilising immunity
+   *C. Occult hepatitis B infection
+    D. Acute hepatitis B in the window period
+   key=C ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Occult Hepatitis B
+   concept: Occult HBV infection is defined by detectable HBV-DNA in serum or liver in a person who is HBsAg negative, most often anti-HBc positive (with or without anti-HBs). Persistent covalently closed circular DNA (cccDNA) sustains low-level replication, posing risks of reactivation on immunosuppression and of transmission via transfusion or transplant. Detectable DNA excludes a mere false-positive or a truly sterilising resolved infection, and the chronic setting excludes an acute window period.
+Q_GEN_MICRO_VIR_HEP_010 [H] A patient with long-standing HBsAg positivity has persistently raised ALT and a high serum HBV-DNA, yet HBeAg is negative and anti-HBe is positive. The best explanation for active disease despite a negative HBeAg is:
+   *A. Precore / basal-core-promoter mutant (HBeAg-negative chronic hepatitis B)
+    B. Inactive carrier state with no significant liver disease
+    C. Recent successful seroconversion to a fully resolved infection
+    D. Acute co-infection with hepatitis A virus
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis B (Mutants)
+   concept: A precore (classically the G1896A stop-codon) or basal-core-promoter mutation abolishes or reduces HBeAg production, so the patient is HBeAg negative and anti-HBe positive yet continues active viral replication with high HBV-DNA and ongoing hepatitis — HBeAg-negative chronic hepatitis B. The high DNA and raised ALT exclude an inactive carrier (low DNA, normal ALT) or a resolved infection, and HAV co-infection would not sustain HBV replication.
+Q_GEN_MICRO_VIR_HEP_011 [M] A patient with HBeAg-negative chronic hepatitis B is started on tenofovir. Which single laboratory test is the most appropriate for monitoring the virological response to antiviral therapy?
+    A. Serial qualitative HBsAg detection by ELISA
+   *B. Serial quantitative HBV-DNA by real-time PCR (viral load)
+    C. Repeated total anti-HBc antibody titres
+    D. Repeated IgM anti-HBc titres
+   key=B ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Laboratory Diagnosis of Viral Hepatitis
+   concept: Quantitative HBV-DNA measured by real-time PCR (viral load) directly reflects the level of viral replication and is the standard marker for monitoring the response to nucleos(t)ide analogues such as tenofovir — a falling DNA level signals success. HBsAg stays positive for long periods, total anti-HBc reflects past exposure rather than replication, and IgM anti-HBc marks acute infection or flares rather than a quantitative treatment response.
+Q_GEN_MICRO_VIR_HEP_012 [M] Assertion (A): During the window period of acute hepatitis B, IgM anti-HBc may be the only detectable serological marker of infection. Reason (R): The window period is the interval after anti-HBs has appeared but before HBsAg has disappeared from serum. Select the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+   *C. A is true, but R is false
+    D. A is false, but R is true
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — Window Period in Hepatitis B
+   concept: The assertion is true: in the window period HBsAg has already cleared while anti-HBs has not yet risen, so IgM anti-HBc is often the sole marker of recent infection. The reason is false because it reverses the sequence — the window is the gap AFTER HBsAg disappears and BEFORE anti-HBs appears, not the other way round. Therefore A is true and R is false, giving option C.
+Q_GEN_MICRO_VIR_HEP_013 [M] In highly endemic regions of Asia, what is the predominant route by which the pool of chronic hepatitis B infection is maintained?
+   *A. Perinatal (mother-to-child) transmission around the time of birth
+    B. Contaminated drinking water (feco-oral spread)
+    C. Respiratory droplet spread between household contacts
+    D. Exclusively adult sexual transmission
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — Epidemiology of Hepatitis B
+   concept: In high-prevalence areas such as much of Asia, HBV is chiefly propagated by perinatal (vertical) transmission from HBsAg/HBeAg-positive mothers to their newborns, mostly at the time of delivery through blood and secretion contact rather than transplacentally. Because neonatal infection carries about a 90% chronicity risk, this route perpetuates the chronic reservoir. HBV is blood-borne and sexually transmitted, not feco-oral (that is HAV/HEV) or droplet-spread.
+Q_GEN_MICRO_VIR_HEP_014 [H] Assertion (A): Adults who acquire acute hepatitis B infection progress to chronic infection in about 90% of cases. Reason (R): The risk of progression to chronic HBV infection is inversely related to the age at which the infection is acquired. Select the correct option.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true, but R is false
+   *D. A is false, but R is true
+   key=D ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Natural History of Hepatitis B
+   concept: The assertion is false: immunocompetent adults clear HBV in the great majority of cases, with only about 5% becoming chronic; it is neonates and infants who become chronic in roughly 90%. The reason is true — chronicity risk is inversely related to age at infection because the immature, tolerised neonatal immune system fails to clear the virus. Thus A is false while R is true, giving option D.
+Q_GEN_MICRO_VIR_HEP_015 [M] A baby is born to a mother who is HBsAg positive. To most effectively prevent perinatal hepatitis B transmission, the newborn should receive:
+    A. Hepatitis B vaccine alone, starting at 6 weeks with the routine schedule
+   *B. Hepatitis B immunoglobulin (HBIG) PLUS hepatitis B vaccine within 12 hours of birth
+    C. Hepatitis B immunoglobulin (HBIG) alone, with no vaccine
+    D. A course of oral tenofovir given to the neonate for 6 months
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Prophylaxis of Hepatitis B
+   concept: Infants of HBsAg-positive mothers should receive both passive immunisation with hepatitis B immunoglobulin (HBIG) and the first dose of hepatitis B vaccine within 12 hours of birth (at separate sites), followed by completion of the vaccine series — combined active-passive prophylaxis prevents about 90-95% of perinatal transmission. Vaccine alone or delayed dosing is less effective, HBIG alone gives only transient protection, and neonatal antivirals are not standard prophylaxis.
+Q_GEN_MICRO_VIR_HEP_016 [H] A nurse sustains a deep needlestick injury from a hollow-bore needle used on a source patient who is co-infected with HBV (HBeAg positive), HCV and HIV. Per single percutaneous exposure, transmission risk is HIGHEST for which of these viruses?
+   *A. Hepatitis B virus
+    B. Hepatitis C virus
+    C. Human immunodeficiency virus
+    D. The transmission risk is identical for all three
+   key=A ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Occupational Exposure to Blood-borne Viruses
+   concept: Per-exposure transmission risk after a percutaneous injury is highest for HBV, reaching roughly 30% when the source is HBeAg positive, compared with about 3% for HCV and about 0.3% for HIV — a useful 30/3/0.3 rule of thumb reflecting the very high circulating titres of HBV. This is why post-exposure HBV prophylaxis (vaccine and/or HBIG) is emphasised; the risks are clearly not equal across the three viruses.
+Q_GEN_MICRO_VIR_HEP_017 [E] Hepatitis C virus is correctly classified as:
+    A. A non-enveloped, single-stranded RNA virus of family Picornaviridae
+    B. An enveloped, partially double-stranded DNA virus of family Hepadnaviridae
+   *C. An enveloped, single-stranded positive-sense RNA virus of family Flaviviridae
+    D. A non-enveloped, single-stranded RNA virus of family Hepeviridae
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis C Virus
+   concept: HCV is an enveloped virus with a single-stranded positive-sense RNA genome, placed in family Flaviviridae (genus Hepacivirus); its error-prone RNA polymerase generates extensive genetic diversity (six major genotypes and quasispecies), which underlies its high chronicity and the absence of a vaccine. Picornaviridae is HAV, Hepadnaviridae is HBV, and Hepeviridae is HEV, which excludes the other options.
+Q_GEN_MICRO_VIR_HEP_018 [M] A blood donor screens positive for anti-HCV antibody by ELISA. Which test should be performed next to confirm current, active HCV infection (viraemia)?
+    A. Repeat the anti-HCV ELISA on a fresh sample
+    B. Measure IgM anti-HCV to prove recent infection
+    C. Test for HCV core antigen by a rapid card test only
+   *D. Detect and quantify HCV-RNA by PCR (nucleic acid testing)
+   key=D ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Laboratory Diagnosis of Hepatitis C
+   concept: A positive anti-HCV ELISA indicates exposure but cannot distinguish current infection from a resolved past one, and false positives occur; active viraemia is confirmed by detecting HCV-RNA using PCR / nucleic-acid testing, which also provides viral load and guides therapy. Simply repeating the antibody test does not prove viraemia, there is no reliable IgM anti-HCV assay for staging, and RNA quantitation — not a card test alone — is the confirmatory standard.
+Q_GEN_MICRO_VIR_HEP_019 [H] Regarding the natural history of, and prophylaxis against, hepatitis C, which statement is correct?
+    A. Fewer than 10% of infections become chronic, and an effective vaccine is available
+   *B. The majority (around 80%) of infections become chronic, and no effective vaccine is available
+    C. Chronicity is rare, but lifelong protective immunity follows a single infection
+    D. It is transmitted mainly by the feco-oral route and causes water-borne epidemics
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis C (Clinical Features)
+   concept: HCV has the highest chronicity among the hepatitis viruses: roughly 80% (commonly quoted as 55-85%) of acute infections persist as chronic infection, a major cause of cirrhosis and hepatocellular carcinoma. Because of marked genomic variability (quasispecies) no effective vaccine exists, and prior infection does not confer solid protective immunity. HCV is blood-borne/parenteral, not feco-oral, which excludes options A, C and D.
+Q_GEN_MICRO_VIR_HEP_020 [M] Hepatitis D (delta) virus is described as a 'defective' virus because it:
+    A. Lacks any nucleic acid and consists only of protein
+    B. Cannot replicate its genome without a co-infecting retrovirus
+   *C. Requires HBsAg from hepatitis B virus to form its envelope and become infectious
+    D. Can infect only cells that have been transformed by a DNA tumour virus
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis D (Delta) Virus
+   concept: HDV is a defective, sub-viral agent with a small circular single-stranded RNA genome and the delta antigen, but it lacks genes for its own envelope; it therefore needs the helper hepatitis B virus to supply HBsAg as its coat, so HDV infection occurs only in HBsAg-positive individuals. It does contain RNA (excluding a prion-like protein-only option) and depends specifically on HBV, not on a retrovirus or a DNA tumour virus.
+Q_GEN_MICRO_VIR_HEP_021 [H] A previously healthy adult develops acute hepatitis. Serology shows IgM anti-HBc positive, HBsAg positive AND IgM anti-HDV positive. This pattern is most consistent with:
+    A. HDV superinfection of a long-standing chronic HBV carrier
+    B. Isolated acute hepatitis D in a person never exposed to HBV
+    C. Chronic hepatitis B with an unrelated false-positive delta result
+   *D. Simultaneous acute HBV-HDV co-infection
+   key=D ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Hepatitis D Co-infection vs Superinfection
+   concept: The simultaneous presence of IgM anti-HBc (marking ACUTE HBV) together with IgM anti-HDV indicates that HBV and HDV were acquired at the same time — acute co-infection, which is usually self-limited with a low rate of chronicity. Superinfection instead occurs in an established chronic carrier, where anti-HBc would be IgG (not IgM); HDV cannot infect without HBsAg, which excludes isolated delta infection, and the IgM anti-HBc excludes a purely chronic picture.
+Q_GEN_MICRO_VIR_HEP_022 [E] Which set of features correctly characterises hepatitis E virus?
+   *A. Non-enveloped single-stranded RNA virus (Hepeviridae), transmitted by the feco-oral / water-borne route
+    B. Enveloped double-stranded DNA virus (Hepadnaviridae), transmitted parenterally
+    C. Enveloped single-stranded RNA virus (Flaviviridae), transmitted sexually
+    D. Defective RNA virus requiring HBsAg, transmitted vertically
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — Hepatitis E Virus
+   concept: HEV is a small non-enveloped virus with a single-stranded positive-sense RNA genome, classified in family Hepeviridae; like HAV it spreads by the feco-oral route, characteristically through faecally contaminated water causing large epidemics, and is diagnosed by IgM anti-HEV. Genotypes 1 and 2 are human/water-borne while genotypes 3 and 4 are zoonotic (pigs). The other options describe HBV, HCV and HDV respectively.
+Q_GEN_MICRO_VIR_HEP_023 [M] Among the five human hepatitis viruses (A, B, C, D and E), which one has a DNA genome, the rest being RNA viruses?
+    A. Hepatitis A virus
+   *B. Hepatitis B virus
+    C. Hepatitis C virus
+    D. Hepatitis E virus
+   key=B ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Comparative Features of Hepatitis Viruses
+   concept: Hepatitis B virus is the only DNA virus among the hepatitis agents, carrying a partially double-stranded circular DNA genome (Hepadnaviridae); hepatitis A (Picornaviridae), C (Flaviviridae), D (the delta agent) and E (Hepeviridae) are all RNA viruses. A quick memory aid is that only 'B' breaks the RNA pattern, which also explains why HBV alone is the target of nucleos(t)ide analogues that act on reverse transcription.
+Q_c1_059 [E] A blood donor's hepatitis B panel shows: HBsAg negative, anti-HBs positive, anti-HBc negative. This pattern most likely indicates?
+    A. Acute hepatitis B
+    B. Chronic carrier state
+   *C. Immunity due to vaccination
+    D. Window period of acute infection
+   key=C ref=Ananthanarayan & Paniker 10e, Ch. Hepatitis Viruses
+   concept: Vaccination produces isolated anti-HBs positivity WITH anti-HBc negative (the vaccine contains only surface antigen). Immunity from natural infection shows anti-HBs AND anti-HBc positive; a carrier is HBsAg positive.
+Q_c1_060 [H] A patient with recent acute hepatitis is HBsAg negative AND anti-HBs negative. Which single serological marker confirms recent hepatitis B infection during this 'window period'?
+    A. HBeAg
+   *B. Anti-HBc IgM
+    C. Anti-HBs
+    D. Absence of HBV DNA
+   key=B ref=Ananthanarayan & Paniker 10e, Ch. Hepatitis B Serology
+   concept: In the window period HBsAg has cleared but anti-HBs has not yet appeared; anti-HBc IgM is the only positive marker and confirms recent/acute infection. This is a classic exam trap.
+
+=== Microbiology / Immunoglobulins, complement, hypersensitivity
+Q_PYQ_FMGE_2024JUN_013 [H] A 27-year-old pregnant female in her first trimester presents to the OPD for a regular antenatal checkup. During blood type screening, potential ABO incompatibility is discussed. The healthcare provider explains that certain antibody types are less concerning than others during pregnancy. ABO incompatibility does not occur due to which antibody in her case?
+    A. IgA
+    B. IgG
+   *C. IgD
+    D. IgM
+   key=C ref=FMGE June 2024 (real exam recall)
+   concept: ABO haemolytic disease of the newborn is caused by maternal IgG anti-A/anti-B crossing the placenta; naturally occurring ABO isohaemagglutinins are IgM, and IgD is not a blood-group antibody at all, so incompatibility never arises from IgD. NOTE: the wording is ambiguous - the inferred key is IgD (the isotype never involved in ABO antibodies), but a reader focused on placental transfer could defensibly pick IgM (does not cross the placenta), so this item is flagged for manual review.
+Q_c1_052 [H] A patient with recurrent disseminated Neisseria (meningococcal and gonococcal) infections most likely has a deficiency of which complement components?
+    A. C1 esterase inhibitor
+   *B. Terminal complement components C5-C9 (membrane attack complex)
+    C. C3 alone
+    D. Mannose-binding lectin only
+   key=B ref=Ananthanarayan & Paniker 10e, Ch. Complement System
+   concept: Deficiency of the terminal complement components (C5-C9), which form the membrane attack complex, specifically predisposes to recurrent Neisseria infections. C1-esterase-inhibitor deficiency instead causes hereditary angioedema.
+
+=== Microbiology / Malaria & other protozoa
+Q_c1_065 [E] A patient has fever paroxysms recurring every 72 hours (quartan periodicity). Which Plasmodium species is most likely?
+    A. Plasmodium vivax
+    B. Plasmodium falciparum
+   *C. Plasmodium malariae
+    D. Plasmodium ovale
+   key=C ref=Ananthanarayan & Paniker 10e, Ch. Plasmodium (Malaria)
+   concept: P. malariae causes quartan (72-hour) fever cycles. P. vivax and P. ovale cause benign tertian (48-hour) fever, and P. falciparum causes malignant tertian malaria. Periodicity reflects the erythrocytic schizogony cycle length.
+
+=== Microbiology / Mycobacteria (TB, leprosy) & lab diagnosis
+Q_GEN_MICRO_BACT_TB_001 [E] The acid-fast property of Mycobacterium tuberculosis — its ability to resist decolourisation by acid-alcohol after staining with carbol fuchsin — is attributed primarily to which component of its cell wall?
+    A. A thick outer capsule of hyaluronic acid
+    B. Teichoic acid cross-linked to peptidoglycan
+   *C. Long-chain mycolic acids in a waxy, high-lipid cell wall
+    D. Lipopolysaccharide (endotoxin) in an outer membrane
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — Mycobacterium tuberculosis
+   concept: Acid-fastness is due to the exceptionally high lipid content of the mycobacterial cell wall, dominated by long-chain (C60-C90) mycolic acids covalently linked to the arabinogalactan-peptidoglycan skeleton; this waxy coat traps carbol fuchsin and resists 20% sulphuric-acid-alcohol decolourisation. Hyaluronic-acid capsules belong to streptococci, teichoic acid to Gram-positive cocci, and LPS/endotoxin to Gram-negative outer membranes — none confer acid-fastness.
+Q_GEN_MICRO_BACT_TB_002 [E] Mycobacterium tuberculosis shows a marked predilection for the apices of the lungs and grows preferentially in the upper part of a Lowenstein-Jensen slant. This behaviour is best explained by the fact that the organism is:
+   *A. An obligate (strict) aerobe
+    B. A facultative anaerobe
+    C. A capnophile requiring 5-10% CO2
+    D. A microaerophile
+   key=A ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Mycobacteria
+   concept: M. tuberculosis is a strict (obligate) aerobe, so it thrives where oxygen tension is highest — the well-ventilated lung apices and the exposed upper surface of a culture slant. This aerobic requirement, coupled with a slow generation time (~15-20 hours), underlies the classic upper-lobe cavitary disease. It is not a facultative anaerobe or microaerophile, and although added CO2 modestly aids primary isolation it is not an obligate capnophile like some fastidious organisms.
+Q_GEN_MICRO_BACT_TB_003 [H] On smears from virulent strains of M. tuberculosis the bacilli line up in parallel, rope-like 'serpentine cords'. The surface glycolipid responsible for this cord formation and correlated with virulence is:
+    A. Lipoarabinomannan (LAM)
+   *B. Cord factor (trehalose 6,6'-dimycolate)
+    C. Wax D (mycolyl-arabinogalactan-peptidoglycan)
+    D. Phosphatidylinositol mannoside
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Mycobacterium tuberculosis (Virulence factors)
+   concept: Cord factor is trehalose 6,6'-dimycolate (TDM), a glycolipid of the cell surface that causes virulent tubercle bacilli to grow as intertwined serpentine cords; it is toxic to mammalian cells, inhibits leukocyte migration, and contributes to granuloma formation. LAM modulates the host immune response and phosphatidylinositol mannosides anchor LAM, but neither produces cords; Wax D acts as an adjuvant (Freund's), not the cording factor.
+Q_GEN_MICRO_BACT_TB_004 [M] A slow-growing acid-fast isolate is being biochemically identified. Which combination of results most strongly supports Mycobacterium tuberculosis rather than a non-tuberculous mycobacterium?
+    A. Niacin negative, nitrate negative, heat-stable catalase
+    B. Niacin negative, urease negative, arylsulfatase positive
+    C. Niacin positive, nitrate positive, arylsulfatase positive at 3 days
+   *D. Niacin positive, nitrate reduction positive, catalase heat-labile (negative at 68°C)
+   key=D ref=Bailey & Scott's Diagnostic Microbiology — Mycobacteria (Biochemical identification)
+   concept: M. tuberculosis characteristically accumulates niacin (positive niacin test), reduces nitrate to nitrite (nitrate positive), and possesses a weak catalase that is heat-labile — destroyed after heating to 68°C at pH 7, so it is 68°C-catalase negative. Most NTM are niacin negative and many have a heat-stable catalase; rapid arylsulfatase positivity at 3 days points instead to rapid growers such as M. fortuitum, making the other combinations wrong.
+Q_GEN_MICRO_BACT_TB_005 [E] In the classical Ziehl-Neelsen technique for demonstrating acid-fast bacilli, the primary stain applied with the aid of heat is:
+   *A. Carbol fuchsin
+    B. Methylene blue
+    C. Malachite green
+    D. Crystal violet
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — Laboratory diagnosis of tuberculosis
+   concept: In Ziehl-Neelsen staining the primary stain is carbol fuchsin (basic fuchsin in phenol), driven into the waxy cell wall by heating until vapours rise; the smear is then decolourised with acid-alcohol (e.g., 20% H2SO4) and counterstained with methylene blue, so acid-fast bacilli appear red against a blue background. Malachite green is used in Lowenstein-Jensen medium and spore staining, and crystal violet is the primary dye of the Gram stain — not of ZN.
+Q_GEN_MICRO_BACT_TB_006 [M] A laboratory wants an acid-fast staining method that avoids the fire/heating step of conventional Ziehl-Neelsen. Which modification achieves this by using a more concentrated carbol fuchsin plus a wetting agent, requiring no heat?
+    A. Auramine-rhodamine fluorescent method
+   *B. Kinyoun (cold) acid-fast stain
+    C. Fite-Faraco stain
+    D. Albert's stain
+   key=B ref=Bailey & Scott's Diagnostic Microbiology — Acid-fast staining methods
+   concept: The Kinyoun method is the 'cold' acid-fast stain: it raises the concentration of basic fuchsin and phenol and adds a wetting agent (e.g., tergitol) so the dye penetrates the waxy wall without heating. Auramine-rhodamine is a fluorochrome method needing a fluorescence microscope, Fite-Faraco is a weak-acid modification for M. leprae/Nocardia, and Albert's stain demonstrates metachromatic granules of Corynebacterium diphtheriae — none is simply a heat-free ZN.
+Q_GEN_MICRO_BACT_TB_007 [M] A high-volume TB laboratory switches from Ziehl-Neelsen to auramine-rhodamine fluorescence microscopy for sputum smears. The principal advantage that improves case detection is that fluorescence microscopy:
+    A. Distinguishes live from dead bacilli reliably
+    B. Confirms rifampicin resistance directly
+   *C. Allows scanning at lower magnification so smears are read faster with higher sensitivity
+    D. Requires no decolourisation step
+   key=C ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Laboratory diagnosis of mycobacteria
+   concept: Auramine-rhodamine binds mycolic acids and makes bacilli glow bright yellow-green against a dark background; because bright objects are seen at lower magnification, a larger field is scanned per view, so slides are examined faster and more sensitively than by ZN (bacilli are easier to spot at low loads). It cannot judge viability, does not detect rifampicin resistance (a molecular function of Xpert/LPA), and it still requires acid-alcohol decolourisation.
+Q_GEN_MICRO_BACT_TB_008 [M] Branching, filamentous Gram-positive organisms from a lung abscess are decolourised by routine 20% sulphuric-acid Ziehl-Neelsen but retain the stain when a weaker (1%) acid is used. This 'modified acid-fast' (partial acid-fastness) is most characteristic of:
+    A. Actinomyces israelii
+    B. Mycobacterium tuberculosis
+    C. Streptomyces species
+   *D. Nocardia species
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — Nocardia (modified acid-fast stain)
+   concept: Nocardia is only partially (weakly) acid-fast: its lower mycolic-acid content means it is decolourised by the strong acid of standard ZN but retains carbol fuchsin when a modified stain with weak (1%) sulphuric acid is used. M. tuberculosis is fully acid-fast even with strong acid. Actinomyces and Streptomyces are branching filaments too but are not acid-fast at all, so weak-acid retention specifically flags Nocardia.
+Q_GEN_MICRO_BACT_TB_009 [E] On Lowenstein-Jensen medium, colonies of Mycobacterium tuberculosis are classically described as:
+    A. Smooth, moist, mucoid and grey within 24-48 hours
+   *B. Dry, rough, wrinkled and buff-coloured after several weeks
+    C. Flat, spreading with a 'medusa head' edge in 1-2 days
+    D. Small, translucent, non-pigmented within 3-5 days
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Culture of tubercle bacilli
+   concept: M. tuberculosis grows slowly (2-8 weeks) on egg-based Lowenstein-Jensen medium, forming characteristic 'rough, tough and buff' colonies — dry, wrinkled/raised, adherent and pale buff (cream) in colour. Rapid 24-48 hour growth of moist grey or medusa-head colonies describes ordinary fast-growing bacteria (e.g., Bacillus), and small non-pigmented colonies in 3-5 days would suggest a rapidly growing mycobacterium, not classic M. tuberculosis.
+Q_GEN_MICRO_BACT_TB_010 [M] A clinician needs the fastest culture-based confirmation of M. tuberculosis with drug-susceptibility testing. Compared with solid Lowenstein-Jensen medium, an automated liquid system such as the MGIT (Mycobacteria Growth Indicator Tube) offers which key advantage?
+   *A. Detects mycobacterial growth in about 1-2 weeks rather than several weeks
+    B. Eliminates the need for prior sputum decontamination
+    C. Identifies the species without any supplementary testing
+    D. Removes the requirement for biosafety containment
+   key=A ref=Bailey & Scott's Diagnostic Microbiology — Liquid culture systems for mycobacteria
+   concept: Liquid culture systems (MGIT, BACTEC) detect metabolic growth via an oxygen-quenched fluorescent sensor within roughly 1-2 weeks — substantially faster than the 3-8 weeks needed for visible colonies on solid LJ — and support rapid liquid drug-susceptibility testing. They still require Petroff/NALC-NaOH decontamination of sputum, still need identification tests (e.g., MPT64 antigen or probes) to name the species, and being live-culture systems still demand full biosafety containment.
+Q_GEN_MICRO_BACT_TB_011 [M] Before inoculating sputum onto Lowenstein-Jensen medium, Petroff's method is used. The chemical basis of this pre-treatment is that:
+    A. Oxalic acid selectively concentrates Pseudomonas-contaminated specimens
+   *B. 4% NaOH liquefies the specimen and kills faster-growing contaminants while tubercle bacilli survive
+    C. Chlorhexidine sterilises the sample completely before culture
+    D. 5% oxalic acid decolourises the smear for staining
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Concentration and decontamination of specimens
+   concept: Petroff's method uses 4% sodium hydroxide to digest (liquefy) mucoid sputum and decontaminate it: the relatively resistant, lipid-rich tubercle bacilli survive brief alkali exposure while the more delicate commensal/contaminating flora are killed, allowing selective isolation on culture. The specimen is then neutralised and concentrated by centrifugation. Oxalic acid is reserved for Pseudomonas-contaminated samples, and complete sterilisation would kill the mycobacteria too, so those options are wrong.
+Q_GEN_MICRO_BACT_TB_012 [H] Lowenstein-Jensen medium contains coagulated egg, glycerol, asparagine, mineral salts and malachite green. The specific role of malachite green in this medium is to:
+    A. Provide the sole carbon source for mycobacterial growth
+    B. Neutralise toxic fatty acids in the specimen
+    C. Act as a pH indicator that turns yellow on acid production
+   *D. Inhibit growth of contaminating bacteria (selective agent) and impart colour
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — Lowenstein-Jensen medium
+   concept: Malachite green is the selective (inhibitory) ingredient of Lowenstein-Jensen medium: it suppresses growth of contaminating commensal bacteria while permitting slow-growing mycobacteria to develop, and it also gives the medium its green colour against which buff colonies stand out. Glycerol/asparagine supply carbon and nitrogen (not malachite green), and although some formulations add serum/charcoal or albumin to neutralise toxic fatty acids, that is not malachite green's function, and it is not a pH indicator.
+Q_GEN_MICRO_BACT_TB_013 [M] A reference laboratory processes a culture isolate on a line probe assay (e.g., GenoType MTBDRplus). Compared with the initial rapid cartridge NAAT, the distinctive capability of this reverse-hybridisation strip assay is that it:
+    A. Grows the organism to confirm viability
+   *B. Simultaneously detects mutations conferring both rifampicin AND isoniazid resistance
+    C. Detects only rifampicin resistance via the rpoB gene
+    D. Provides a phenotypic minimum inhibitory concentration
+   key=B ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Molecular detection of drug resistance (line probe assay)
+   concept: Line probe assays amplify mycobacterial DNA and hybridise it to immobilised wild-type and mutant probes on a strip; the first-line MTBDRplus detects rpoB mutations (rifampicin) together with katG and inhA mutations (isoniazid), so it reports both drugs at once, unlike a single-drug rifampicin cartridge test. It is a molecular, not culture, method (no viability/MIC output), and detecting only rpoB understates its dual first-line coverage; second-line LPA (MTBDRsl) extends to fluoroquinolone/aminoglycoside loci.
+Q_GEN_MICRO_BACT_TB_014 [H] Isoniazid is a prodrug that must be activated inside the mycobacterium before it can block mycolic acid synthesis. High-level isoniazid resistance most commonly results from mutation of which gene, whose product normally activates the drug?
+   *A. katG (catalase-peroxidase)
+    B. rpoB (RNA polymerase beta subunit)
+    C. embB (arabinosyl transferase)
+    D. pncA (pyrazinamidase)
+   key=A ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Mechanisms of antimycobacterial drug resistance
+   concept: Isoniazid must be activated by the mycobacterial catalase-peroxidase encoded by katG; loss-of-function katG mutations prevent activation and cause high-level INH resistance, while mutations in inhA (the enoyl-ACP reductase target/promoter) give low-level resistance with ethionamide cross-resistance. rpoB mutations underlie rifampicin resistance, embB confers ethambutol resistance, and pncA mutations cause pyrazinamide resistance — none activate isoniazid.
+Q_GEN_MICRO_BACT_TB_015 [H] Rapid molecular assays for rifampicin resistance in M. tuberculosis target a short hot-spot region of a single gene, because most resistance mutations cluster there. This gene encodes the drug's target, the:
+    A. DNA gyrase A subunit (gyrA)
+    B. 30S ribosomal protein S12 (rpsL)
+   *C. Beta subunit of RNA polymerase (rpoB)
+    D. Arabinosyl transferase (embB)
+   key=C ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Rifampicin resistance (rpoB)
+   concept: Rifampicin binds the beta subunit of DNA-dependent RNA polymerase; about 95% of resistant strains carry mutations within the 81-bp rifampicin-resistance-determining region (RRDR) of rpoB, which is why cartridge NAAT and line probe assays interrogate that hot-spot. gyrA mutations cause fluoroquinolone resistance, rpsL underlies streptomycin resistance, and embB confers ethambutol resistance — so those are the wrong targets for a rifampicin assay.
+Q_GEN_MICRO_BACT_TB_016 [M] In the laboratory classification of drug resistance, an isolate is defined as multidrug-resistant TB (MDR-TB) when it is resistant to at least:
+    A. Any two first-line anti-TB drugs
+    B. Rifampicin alone
+    C. Isoniazid alone
+   *D. Both isoniazid and rifampicin
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — Drug resistance in tuberculosis
+   concept: MDR-TB is defined by in-vitro resistance to at least the two most powerful first-line agents — isoniazid AND rifampicin — regardless of resistance to other drugs. Resistance to rifampicin alone is termed rifampicin-resistant (RR) TB and is often used as a surrogate marker, and isoniazid mono-resistance is not MDR; 'any two first-line drugs' is too loose because the definition specifically requires INH plus RIF. Extensively drug-resistant TB adds fluoroquinolone plus further second-line resistance.
+Q_GEN_MICRO_BACT_TB_017 [E] The Mantoux tuberculin test, in which purified protein derivative (PPD/RT23) is injected intradermally and read at 48-72 hours, is an in-vivo demonstration of:
+    A. Immediate (type I) IgE-mediated hypersensitivity
+   *B. Delayed (type IV) cell-mediated hypersensitivity
+    C. Antibody-mediated (type II) cytotoxicity
+    D. Immune-complex (type III) hypersensitivity
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Tuberculin test
+   concept: The tuberculin (Mantoux) reaction is the prototype of delayed-type (type IV), cell-mediated hypersensitivity: previously sensitised T cells recognise PPD antigens and recruit macrophages, producing an indurated response that peaks at 48-72 hours (hence the delayed reading and measurement of induration, not erythema). It is not antibody-dependent, so type I (IgE/immediate), type II (cytotoxic) and type III (immune-complex) mechanisms do not explain it.
+Q_GEN_MICRO_BACT_TB_018 [M] A child with confirmed miliary tuberculosis has a completely negative Mantoux test. Which explanation best accounts for this false-negative tuberculin reaction?
+   *A. Anergy from overwhelming/disseminated infection depressing cell-mediated immunity
+    B. Prior BCG vaccination boosting the response
+    C. Recent recovery from a mild bacterial pharyngitis
+    D. Use of a fresh, potent PPD RT23 preparation
+   key=A ref=Ananthanarayan and Paniker's Textbook of Microbiology — Tuberculin test (false-negative reactions)
+   concept: Overwhelming disease such as miliary or advanced TB can suppress cell-mediated immunity, producing anergy and a falsely negative tuberculin test despite active infection; other causes of false negatives include HIV/immunosuppression, corticosteroids, measles or other viral illness, sarcoidosis, malnutrition, and testing within the early window before hypersensitivity develops. BCG vaccination and a potent fresh antigen would tend to enhance, not abolish, the reaction, and an ordinary bacterial pharyngitis does not typically cause anergy.
+Q_GEN_MICRO_BACT_TB_019 [H] Assertion (A): Interferon-gamma release assays (IGRAs) remain positive-specific for TB infection even in BCG-vaccinated individuals. Reason (R): IGRAs use the antigens ESAT-6 and CFP-10, encoded in the RD1 region that is deleted from the BCG strain and absent from most non-tuberculous mycobacteria.
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Interferon-gamma release assays
+   concept: IGRAs measure interferon-gamma released by sensitised T cells stimulated with M. tuberculosis-specific peptides ESAT-6 and CFP-10 (and TB7.7). These are encoded within the RD1 (region of difference 1) genomic segment, which was lost during attenuation of BCG (M. bovis BCG) and is absent from most NTM; therefore prior BCG vaccination does not cause false positives, making the reason the correct explanation of the assertion. A few NTM (e.g., M. kansasii, M. marinum) retain RD1, but the principle holds for BCG.
+Q_GEN_MICRO_BACT_TB_020 [M] In Runyon's classification of non-tuberculous mycobacteria, an organism that produces yellow-orange pigment ONLY after exposure to light belongs to which group, exemplified by which species?
+    A. Group II scotochromogens — Mycobacterium scrofulaceum
+    B. Group III non-photochromogens — Mycobacterium avium complex
+    C. Group IV rapid growers — Mycobacterium fortuitum
+   *D. Group I photochromogens — Mycobacterium kansasii
+   key=D ref=Ananthanarayan and Paniker's Textbook of Microbiology — Non-tuberculous (atypical) mycobacteria: Runyon classification
+   concept: Runyon Group I photochromogens produce pigment only after light exposure and are slow growers; the classic examples are M. kansasii (pulmonary disease) and M. marinum (swimming-pool/fish-tank granuloma). Group II scotochromogens (M. scrofulaceum, M. gordonae) make pigment in both light and dark; Group III non-photochromogens (M. avium complex, M. ulcerans) make little/no pigment; and Group IV are rapid growers — so only Group I fits light-dependent pigmentation.
+Q_GEN_MICRO_BACT_TB_021 [H] Several patients develop injection-site and post-surgical wound abscesses; cultures yield acid-fast bacilli that form visible colonies on subculture within 3-7 days. These features point to which category of mycobacteria?
+   *A. Rapidly growing mycobacteria (Runyon Group IV) such as M. fortuitum, M. chelonae, M. abscessus
+    B. Mycobacterium tuberculosis complex
+    C. Mycobacterium leprae
+    D. Scotochromogens such as M. gordonae
+   key=A ref=Bailey & Scott's Diagnostic Microbiology — Rapidly growing mycobacteria
+   concept: Runyon Group IV rapid growers (M. fortuitum, M. chelonae, M. abscessus) produce visible colonies within 7 days and are notorious for iatrogenic skin and soft-tissue infections — injection abscesses, post-surgical wound and catheter-related infections, and contaminated-instrument outbreaks. M. tuberculosis and scotochromogens are slow growers (weeks), and M. leprae cannot be cultured on artificial media at all, so the rapid subculture growth with wound abscesses specifically indicates the rapid growers.
+Q_GEN_MICRO_BACT_TB_022 [M] A patient with advanced AIDS and a CD4 count below 50 cells/µL develops disseminated infection with fever, weight loss and diarrhoea; blood cultures grow a slow-growing, non-photochromogenic acid-fast organism. The most likely causative mycobacterium is:
+    A. Mycobacterium marinum
+   *B. Mycobacterium avium complex (MAC)
+    C. Mycobacterium scrofulaceum
+    D. Mycobacterium ulcerans
+   key=B ref=Jawetz, Melnick & Adelberg's Medical Microbiology — Mycobacterium avium complex
+   concept: Mycobacterium avium complex (M. avium plus M. intracellulare) is the classic cause of disseminated non-tuberculous mycobacterial disease in advanced AIDS (CD4 < 50), presenting with fever, wasting, diarrhoea and mycobacteraemia; it is a slow-growing, non-photochromogenic (Runyon Group III) organism recoverable from blood. M. marinum causes localised skin granulomas, M. scrofulaceum causes cervical lymphadenitis in children, and M. ulcerans causes Buruli ulcer — not disseminated AIDS disease.
+Q_GEN_MICRO_BACT_TB_023 [H] Mycobacterium leprae cannot be grown on any artificial (cell-free) culture medium. Which experimental system is used to propagate it and yields large numbers of bacilli for study?
+    A. Chick embryo yolk sac
+   *B. The nine-banded armadillo (and mouse footpad)
+    C. Buffered charcoal-yeast extract agar
+    D. Middlebrook 7H11 agar with OADC
+   key=B ref=Ananthanarayan and Paniker's Textbook of Microbiology — Mycobacterium leprae (cultivation)
+   concept: M. leprae is non-cultivable in vitro; it is propagated in vivo, classically in the mouse footpad (Shepard's model, small yields) and especially in the nine-banded armadillo, whose low core body temperature favours growth and produces enormous bacillary loads for antigen and drug studies. Chick embryo yolk sac is used for rickettsiae/chlamydiae, buffered charcoal-yeast extract for Legionella, and Middlebrook 7H11 grows cultivable mycobacteria — none supports M. leprae.
+Q_GEN_MICRO_BACT_TB_024 [H] In a slit-skin smear from a leprosy patient stained by the Fite-Faraco method, the index that expresses the PERCENTAGE of uniformly (solid) stained bacilli and thereby reflects the proportion of viable organisms is the:
+    A. Bacterial Index (BI)
+    B. Lepromin (Mitsuda) index
+   *C. Morphological Index (MI)
+    D. Ridley-Jopling index
+   key=C ref=Ananthanarayan and Paniker's Textbook of Microbiology — Laboratory diagnosis of leprosy (bacterial and morphological index)
+   concept: The Morphological Index (MI) is the percentage of uniformly, solidly stained bacilli out of the total counted; solid-staining forms are considered viable, so a falling MI on treatment indicates response and reduced infectivity. The Bacterial Index (BI) grades total bacillary density (live plus dead/fragmented) on Ridley's 0-6+ logarithmic scale. The lepromin test is a prognostic (not diagnostic) tool assessing cell-mediated immunity, and Ridley-Jopling is a clinico-pathological classification, not a smear count.
+Q_c1_058 [M] A leprosy patient has numerous symmetrical skin nodules, a 'leonine facies', abundant acid-fast bacilli in slit-skin smears, and a negative lepromin test. This represents which pole of the disease?
+    A. Tuberculoid (paucibacillary)
+   *B. Lepromatous (multibacillary)
+    C. Indeterminate leprosy
+    D. Borderline tuberculoid
+   key=B ref=Ananthanarayan & Paniker 10e, Ch. Mycobacterium leprae
+   concept: Lepromatous leprosy reflects poor cell-mediated immunity: multibacillary, symmetric lesions, leonine facies, and a NEGATIVE lepromin test. Tuberculoid leprosy has good CMI — paucibacillary, few asymmetric lesions, and a positive lepromin test.
+
+=== Microbiology / Sterilization, disinfection, stains, culture media
+Q_c1_049 [E] The most reliable method to sterilize culture media and heat-stable surgical instruments, effective even against bacterial spores, is autoclaving at?
+    A. 100 C for 10 minutes
+   *B. 121 C at 15 lb/sq inch for 15 minutes
+    C. 60 C for 30 minutes
+    D. Dry heat at 100 C for 1 hour
+   key=B ref=Ananthanarayan & Paniker 10e, Ch. Sterilization & Disinfection
+   concept: Autoclaving uses saturated steam at 121 C and 15 psi for 15 minutes; moist heat kills spores by coagulating proteins. Sterilization is checked with Bacillus stearothermophilus (Geobacillus) spore strips as the biological indicator.
+
+[80 shown of 80 unverified in scope]

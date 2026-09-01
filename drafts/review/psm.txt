@@ -1,0 +1,776 @@
+
+=== PSM (Community Medicine) / Biostatistics: tests & distributions
+Q_GEN_PSM_BIOSTAT_001 [E] In hospital records, patients are grouped by ABO blood group (A, B, AB, O). What scale of measurement does this variable represent?
+    A. Ordinal, because the categories can be meaningfully ranked from low to high
+    B. Ratio, because it has a true zero and permits meaningful ratios
+   *C. Nominal, because the categories are merely labels with no inherent order
+    D. Interval, because equal differences between categories are meaningful
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Biostatistics: types of data
+   concept: Blood group is a qualitative categorical variable whose categories (A, B, AB, O) are names/labels with no natural order or magnitude, so it is nominal. Ordinal data require a meaningful rank order (e.g., disease stage); interval data have ordered categories with equal, meaningful gaps but no true zero (e.g., temperature in Celsius); ratio data add a true zero permitting ratios (e.g., weight). None of these applies to blood group, hence nominal.
+Q_GEN_PSM_BIOSTAT_002 [M] Cancer is commonly recorded using TNM stages I, II, III and IV. Which type of data does the stage variable represent?
+    A. Nominal data, since the stages are unordered categories
+   *B. Ordinal data, since the categories have a natural rank order but unequal or undefined intervals
+    C. Continuous ratio data, since stage IV is exactly twice stage II
+    D. Discrete interval data with equal spacing between the stages
+   key=B ref=Mahajan's Methods in Biostatistics — types of data and scales of measurement
+   concept: TNM stage has a meaningful order (I < II < III < IV reflecting increasing anatomical extent), which makes it ordinal; but the 'distance' between consecutive stages is neither equal nor quantifiable, so it is not interval or ratio, and stage IV is not '2x stage II'. Being ordered, it is not nominal. Ordinal data are best summarized by the median and analysed with non-parametric tests rather than means and t-tests.
+Q_GEN_PSM_BIOSTAT_003 [E] Household monthly incomes in a community are highly right-skewed by a few very wealthy families. Which measure of central tendency best represents the 'typical' income?
+   *A. Median, because it is not distorted by extreme high values
+    B. Mean, because it uses every observation and is therefore most accurate here
+    C. Mode, because income is a continuous variable
+    D. Range, because it captures the spread of incomes
+   key=A ref=Park's Textbook of Preventive and Social Medicine — measures of central tendency
+   concept: In a skewed distribution the mean is pulled toward the long tail (here inflated by a few very high incomes), so it overstates the 'typical' value. The median (the 50th percentile) is resistant to extreme values and best reflects the centre of skewed data, which is why income is usually reported as a median. Mode is unreliable for continuous income, and range is a measure of dispersion, not central tendency.
+Q_GEN_PSM_BIOSTAT_004 [H] Serum cholesterol has mean 200 mg/dL with SD 30 mg/dL; body weight in the same group has mean 50 kg with SD 5 kg. Which variable shows greater relative variability?
+    A. Body weight, because its absolute SD is proportionately closer to its mean value
+    B. They are equal, because the coefficient of variation ignores the mean
+    C. Cannot be compared because the units (mg/dL vs kg) differ
+   *D. Cholesterol, because its coefficient of variation (15%) exceeds that of weight (10%)
+   key=D ref=Mahajan's Methods in Biostatistics — coefficient of variation
+   concept: To compare spread across variables with different units or means, use the coefficient of variation, CV = (SD/mean) x 100, which is unitless. Cholesterol CV = 30/200 x 100 = 15%; weight CV = 5/50 x 100 = 10%; therefore cholesterol is relatively more variable. Absolute SDs (30 vs 5) cannot be compared across different units, which is precisely why the CV is needed; the CV explicitly uses the mean, so it is not 'ignored'.
+Q_GEN_PSM_BIOSTAT_005 [E] Assertion (A): In a normal distribution the mean, median and mode are equal. Reason (R): A normal distribution is perfectly symmetrical (bell-shaped) about its mean.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true, but R is false
+    D. A is false, but R is true
+   key=A ref=Park's Textbook of Preventive and Social Medicine — the normal distribution and its properties
+   concept: Both statements are true and the reason correctly explains the assertion. A normal distribution is perfectly symmetrical about its mean; this symmetry forces the mean, median and mode to fall at the same central point, so mean = median = mode. In a skewed distribution the symmetry is lost and these three measures separate (the mean is dragged toward the tail). Hence symmetry is the direct cause of their coincidence, so R explains A.
+Q_GEN_PSM_BIOSTAT_006 [M] Birth weights in a population are normally distributed with mean 3.0 kg and SD 0.4 kg. Approximately 68% of newborns weigh between which limits?
+    A. 2.2 kg and 3.8 kg
+   *B. 2.6 kg and 3.4 kg
+    C. 1.8 kg and 4.2 kg
+    D. 2.9 kg and 3.1 kg
+   key=B ref=Mahajan's Methods in Biostatistics — normal distribution and the empirical rule
+   concept: By the empirical rule, about 68% of values in a normal distribution lie within plus or minus 1 SD of the mean. Here mean +/- 1 SD = 3.0 +/- 0.4 = 2.6 to 3.4 kg. The interval 2.2-3.8 kg is mean +/- 2 SD (about 95%), and 1.8-4.2 kg is mean +/- 3 SD (about 99.7%); 2.9-3.1 kg is far narrower than 1 SD and would capture far less than 68% of newborns.
+Q_GEN_PSM_BIOSTAT_007 [M] In a population, serum cholesterol is normally distributed with mean 200 mg/dL and SD 25 mg/dL. A patient's value is 250 mg/dL. What is the standard normal (Z) score, and what does it indicate?
+   *A. Z = +2.0; the value lies 2 SD above the mean
+    B. Z = +2.5; the value lies 2.5 SD above the mean
+    C. Z = +50; the value is 50 units above the mean
+    D. Z = +0.5; the value is half an SD above the mean
+   key=A ref=Park's Textbook of Preventive and Social Medicine — standard normal deviate (Z score)
+   concept: Z = (x - mean)/SD = (250 - 200)/25 = 50/25 = +2.0, meaning the observation lies exactly 2 standard deviations above the mean. Z = 2.5 would require SD = 20; Z = 50 forgets to divide by the SD; Z = 0.5 divides incorrectly. A Z of +2 corresponds to roughly the 97.7th percentile, so only about 2.3% of the population would have a higher cholesterol than this patient.
+Q_GEN_PSM_BIOSTAT_008 [H] A student scores 70 in Anatomy (class mean 60, SD 5) and 80 in Physiology (class mean 70, SD 10). Relative to classmates, in which subject did the student perform better?
+    A. Physiology, because the raw score of 80 is higher than 70
+    B. Equal, because the student was 10 marks above the mean in both subjects
+    C. Physiology, because its larger SD indicates a tougher paper
+   *D. Anatomy, because its Z-score (+2.0) exceeds that of Physiology (+1.0)
+   key=D ref=Mahajan's Methods in Biostatistics — Z scores and comparison across distributions
+   concept: Standardizing removes scale differences: Anatomy Z = (70 - 60)/5 = +2.0; Physiology Z = (80 - 70)/10 = +1.0. Although the raw Physiology mark (80) is higher and the absolute deviation is 10 in both subjects, the student is 2 SD above the mean in Anatomy versus only 1 SD in Physiology, so the relative standing is better in Anatomy. Comparing raw marks or absolute deviations across different distributions is misleading; Z scores make them comparable.
+Q_GEN_PSM_BIOSTAT_009 [M] A 2-year-old boy's weight is plotted on a growth chart and falls exactly on the 25th percentile. What does this mean?
+    A. The child weighs 25% of the expected weight for his age
+    B. 25% of children of the same age and sex weigh more than this boy
+   *C. 75% of children of the same age and sex weigh more than this boy
+    D. The child's weight is 25 units below the population mean
+   key=C ref=Park's Textbook of Preventive and Social Medicine — percentiles and growth monitoring
+   concept: A percentile gives the position of a value within a distribution: the 25th percentile means 25% of the reference population lies at or below this weight, and therefore 75% lie above it. It is not '25% of expected weight' (that confuses a percentile with a percentage of a target), and it does not state a fixed number of units from the mean. On growth charts, tracking steadily along one percentile is generally more reassuring than the absolute percentile itself.
+Q_GEN_PSM_BIOSTAT_010 [M] Assertion (A): The standard error of the mean (SEM) measures the scatter of individual observations within a sample. Reason (R): The SEM is calculated as the standard deviation divided by the square root of the sample size.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+    C. A is true, but R is false
+   *D. A is false, but R is true
+   key=D ref=Mahajan's Methods in Biostatistics — standard deviation vs standard error of the mean
+   concept: The assertion is false but the reason is true. The SEM does not describe the scatter of individual observations — that is the role of the standard deviation (SD). The SEM (= SD divided by the square root of n) instead describes the precision of the sample mean as an estimate of the population mean, and it shrinks as sample size rises. The formula SEM = SD/sqrt(n) is itself correct, so R is true while A misattributes the meaning of the SEM.
+Q_GEN_PSM_BIOSTAT_011 [H] A sample of 100 adults has a mean fasting glucose of 95 mg/dL with a standard deviation of 20 mg/dL. What is the standard error of the mean?
+   *A. 2 mg/dL
+    B. 20 mg/dL
+    C. 0.2 mg/dL
+    D. 10 mg/dL
+   key=A ref=Park's Textbook of Preventive and Social Medicine — standard error of the mean
+   concept: SEM = SD / sqrt(n) = 20 / sqrt(100) = 20/10 = 2 mg/dL. The value 20 is the SD (the spread of individuals, not of the mean); 0.2 wrongly divides by n instead of sqrt(n); 10 arbitrarily halves the SD. Because the SEM shrinks with the square root of n, quadrupling the sample size to 400 would halve the SEM to 1 mg/dL, tightening the confidence interval around the estimated mean.
+Q_GEN_PSM_BIOSTAT_012 [H] In a large sample the mean diastolic blood pressure is 80 mmHg with a standard error of the mean of 2.5 mmHg. What is the approximate 95% confidence interval for the true mean?
+    A. 77.5 to 82.5 mmHg
+    B. 70.0 to 90.0 mmHg
+   *C. 75.1 to 84.9 mmHg
+    D. 80 plus or minus 2.5, i.e., the SEM itself is the interval
+   key=C ref=Mahajan's Methods in Biostatistics — confidence interval for a mean
+   concept: A 95% CI for a mean = sample mean +/- 1.96 x SEM = 80 +/- 1.96 x 2.5 = 80 +/- 4.9 = 75.1 to 84.9 mmHg. Option A uses only 1 SEM (about a 68% interval, the wrong multiplier); option B uses roughly 4 SEM, far too wide; option D confuses the SEM with the interval itself. Interpretation: we are 95% confident the true population mean diastolic BP lies within 75.1-84.9 mmHg.
+Q_GEN_PSM_BIOSTAT_013 [E] In hypothesis testing, what does the null hypothesis (H0) typically state?
+    A. That the new treatment is superior to the standard treatment
+   *B. That there is no difference or no association between the groups being compared
+    C. That the study has adequate power to detect a difference
+    D. That the observed result reflects a real effect rather than chance
+   key=B ref=Park's Textbook of Preventive and Social Medicine — tests of significance, null hypothesis
+   concept: The null hypothesis (H0) is the hypothesis of no difference, no effect, or no association — for example, that two treatments are equally effective. The alternative hypothesis (H1) states that a difference or association does exist (options A and D describe H1). Statistical tests assess the evidence against H0; power is a property of the study design, not a hypothesis. We either reject or fail to reject H0, and we never 'prove' it true.
+Q_GEN_PSM_BIOSTAT_014 [M] A trial concludes that a drug works when in reality it has no effect. This error, and the probability of committing it, are termed:
+    A. Type II error; probability denoted by beta
+    B. Random error; probability given by the p-value
+    C. Systematic error; probability equal to 1 minus alpha
+   *D. Type I error; probability denoted by alpha
+   key=D ref=Mahajan's Methods in Biostatistics — Type I and Type II errors
+   concept: Rejecting a true null hypothesis (concluding an effect exists when it does not) is a Type I, or false-positive, error, whose probability is alpha — conventionally set at 0.05. A Type II error (beta) is the opposite: failing to detect a real effect (false negative). Alpha is the significance level chosen in advance; the p-value is the observed probability compared against alpha, not the definition of the error. Type I/II errors are distinct from systematic (bias) error.
+Q_GEN_PSM_BIOSTAT_015 [H] Assertion (A): Increasing the sample size increases the statistical power of a study. Reason (R): A larger sample size lowers alpha, the Type I error rate, below the chosen significance level.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is NOT the correct explanation of A
+   *C. A is true, but R is false
+    D. A is false, but R is true
+   key=C ref=Park's Textbook of Preventive and Social Medicine — power of a study, sample size
+   concept: The assertion is true but the reason is false. Increasing the sample size does raise statistical power, but it does so by reducing the standard error and hence the Type II error rate (beta), not by lowering alpha. Alpha (the significance level, e.g., 0.05) is fixed a priori by the investigator and is unchanged by sample size. Power = 1 - beta; larger n, a larger effect size and lower variability all increase power, so A is true while R is false.
+Q_GEN_PSM_BIOSTAT_016 [M] In a study comparing two means the p-value is 0.03 with alpha set at 0.05. Which interpretation is correct?
+    A. There is a 3% probability that the null hypothesis is true
+    B. The result is not statistically significant, so we accept the null hypothesis
+   *C. If the null hypothesis were true, a result at least as extreme would occur 3% of the time; since 0.03 < 0.05 we reject the null
+    D. There is a 97% probability that the alternative hypothesis is true
+   key=C ref=Mahajan's Methods in Biostatistics — p-value and level of significance
+   concept: The p-value is the probability of obtaining a result at least as extreme as that observed, assuming the null hypothesis is true. It is NOT the probability that H0 or H1 is true — options A and D commit this common misinterpretation. Since 0.03 is less than alpha 0.05, the result is statistically significant and we reject H0 (option B states the opposite). A small p-value shows the data are unlikely under H0 but says nothing about the size of the effect.
+Q_GEN_PSM_BIOSTAT_017 [M] Systolic blood pressure is measured in the same 30 patients before and after 8 weeks of a new drug; the values are approximately normally distributed. Which test best compares the before and after means?
+    A. Unpaired (independent-samples) t-test
+   *B. Paired t-test
+    C. Chi-square test of independence
+    D. One-way ANOVA
+   key=B ref=Park's Textbook of Preventive and Social Medicine — paired vs unpaired t-test
+   concept: The two measurements come from the SAME individuals (before vs after), so the observations are paired/related; with approximately normal, continuous data the correct parametric test is the paired t-test, which analyses the mean of the within-person differences. An unpaired t-test assumes two independent groups. Chi-square is for categorical data, and one-way ANOVA compares three or more independent groups. For non-normal paired data the Wilcoxon signed-rank test is the non-parametric alternative.
+Q_GEN_PSM_BIOSTAT_018 [H] Researchers compare serum bilirubin between two independent groups of patients. The data are markedly right-skewed and the samples are small. Which test is most appropriate?
+    A. Paired t-test on the raw values
+    B. One-way ANOVA
+    C. Pearson correlation coefficient
+   *D. Mann-Whitney U (Wilcoxon rank-sum) test
+   key=D ref=Mahajan's Methods in Biostatistics — non-parametric tests, Mann-Whitney U
+   concept: With two INDEPENDENT groups, continuous but markedly skewed (non-normal) data, and small samples, the parametric t-test's normality assumption fails, so the non-parametric Mann-Whitney U test (equivalently the Wilcoxon rank-sum test), which compares distributions using ranks, is appropriate. A paired t-test requires matched observations (not the case here); ANOVA compares three or more groups and assumes normality; Pearson correlation measures association between two variables, not a between-group difference.
+Q_GEN_PSM_BIOSTAT_019 [H] A 2x2 table relates exposure to outcome, but the total sample is only 18 and several expected cell counts are below 5. Which test of association is most appropriate?
+   *A. Fisher's exact test
+    B. Chi-square test without any correction
+    C. Unpaired t-test
+    D. Pearson correlation coefficient
+   key=A ref=Park's Textbook of Preventive and Social Medicine — chi-square test and Fisher's exact test
+   concept: The chi-square test is unreliable when expected cell counts are small (a common rule: more than 20% of cells with expected count under 5, or any expected count under 1). With such small numbers in a 2x2 table, Fisher's exact test, which computes the exact probability, is preferred. An uncorrected chi-square would be invalid here (Yates' correction is only a partial fix). A t-test compares means of continuous data and Pearson correlation measures linear association between two continuous variables — neither suits a 2x2 categorical association.
+Q_GEN_PSM_BIOSTAT_020 [M] An investigator wants to quantify the linear relationship between height and weight, both continuous and approximately normally distributed, in 200 adults. Which statistic is most appropriate, and what is its possible range?
+    A. Chi-square statistic, ranging from 0 to infinity
+    B. Relative risk, ranging from 0 to infinity
+   *C. Pearson correlation coefficient (r), ranging from -1 to +1
+    D. Spearman rank correlation, appropriate here only because the data are normal
+   key=C ref=Mahajan's Methods in Biostatistics — correlation coefficient (Pearson)
+   concept: For the linear association between two continuous, approximately normal variables, the Pearson correlation coefficient r is appropriate; r ranges from -1 (perfect negative) through 0 (no linear relationship) to +1 (perfect positive). Spearman's rho is the rank-based choice for ordinal or non-normal/monotonic data — it is NOT preferred simply because the data are normal (option D is self-contradictory). Chi-square (categorical data) and relative risk (a risk ratio) are not measures of linear correlation.
+Q_GEN_PSM_BIOSTAT_021 [M] A researcher wishes to assess the association between two ordinal variables — pain severity graded 1-4 and a 1-5 patient-satisfaction rating. Which correlation coefficient is most appropriate?
+    A. Pearson correlation coefficient
+   *B. Spearman rank correlation coefficient
+    C. Odds ratio
+    D. Coefficient of variation
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Spearman rank correlation
+   concept: For ordinal (ranked) data — or for continuous data that are non-normal or related in a monotonic but non-linear way — the non-parametric Spearman rank correlation coefficient (rho) is appropriate, as it operates on ranks rather than raw values. Pearson's r assumes continuous, normally distributed, linearly related variables, so it is unsuitable for graded scales. The odds ratio measures association between binary variables, and the coefficient of variation is a measure of relative dispersion, not correlation.
+Q_GEN_PSM_BIOSTAT_022 [H] In a regression of blood pressure on age, the Pearson correlation coefficient is r = 0.6. What proportion of the variation in blood pressure is explained by age?
+    A. 60%, because r directly gives the explained variation
+    B. 80%, because it equals 1 minus r
+    C. 40%, because unexplained variation equals r
+   *D. 36%, because the coefficient of determination r-squared = 0.36
+   key=D ref=Mahajan's Methods in Biostatistics — coefficient of determination (r-squared) and regression
+   concept: The coefficient of determination is r-squared, the fraction of the variance in the outcome explained by the predictor: r-squared = 0.6 x 0.6 = 0.36, i.e., 36% of the variation in blood pressure is explained by age (the remaining 64% is due to other factors and error). r itself (0.6) measures the strength and direction of the linear association but overstates 'explained variation'; the '1 minus r' and 'r as unexplained variation' options misuse the relationship. Squaring makes r-squared <= |r| when |r| < 1.
+Q_GEN_PSM_BIOSTAT_023 [E] Which statement correctly distinguishes incidence from prevalence?
+   *A. Incidence measures NEW cases arising over a period; prevalence measures ALL existing (old plus new) cases at a point or over a period
+    B. Incidence measures existing cases, while prevalence measures only new cases
+    C. Incidence and prevalence are always numerically identical for chronic diseases
+    D. Prevalence is a rate with time in its denominator, whereas incidence is a static proportion with no time element
+   key=A ref=Park's Textbook of Preventive and Social Medicine — incidence and prevalence
+   concept: Incidence quantifies the number of NEW cases developing in a defined population over a specified time period (a measure of risk or rate of occurrence). Prevalence counts ALL cases existing (old plus new) at a given point (point prevalence) or over an interval (period prevalence), reflecting disease burden. Prevalence is approximately incidence x average duration, so for a long-duration chronic disease prevalence exceeds incidence — they are not identical. Option D reverses the time relationship: it is incidence that inherently carries a time dimension.
+
+=== PSM (Community Medicine) / Demography, family planning, MCH indicators
+Q_GEN_PSM_DEMOG_FP_001 [M] Assertion (A): India is currently placed in the "late expanding" stage of the demographic cycle. Reason (R): In the late expanding stage, both the birth rate and the death rate remain persistently high, producing a stable population.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+   *C. A is true but R is false
+    D. A is false but R is true
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: Park describes five stages of the demographic cycle: high stationary (high birth + high death), early expanding (death falls, birth stays high), late expanding (birth begins to fall, death low — India is here), low stationary (both low), and declining (death exceeds birth). The Reason wrongly describes the FIRST (high stationary) stage; in late expanding the death rate is already low while the birth rate is declining, so A is true but R is false. India's stage placement is change-prone as fertility approaches replacement — verify current TFR against latest NFHS/SRS.
+Q_GEN_PSM_DEMOG_FP_002 [E] A population age-sex pyramid with a very broad base that tapers steeply towards the apex is MOST characteristic of which type of population?
+    A. A constrictive (contracting) population with a low birth rate
+   *B. An expansive population with a high birth rate and a young age structure
+    C. A stationary population where births roughly equal deaths
+    D. An ageing population with a high proportion of the elderly
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The shape of a population pyramid encodes fertility and mortality history. A broad-based, steeply tapering (triangular) pyramid signals an expansive population: a high birth rate feeds large young cohorts at the base while higher mortality trims the older bars — typical of developing/high-fertility settings. A constrictive pyramid narrows at the base (declining births), and a stationary pyramid has near-vertical sides with a rounded top. Recognising the young base is key to understanding the demographic dividend, in which a bulge of working-age adults can boost the economy if productively employed.
+Q_GEN_PSM_DEMOG_FP_003 [E] The population census in India, which enumerates the entire population, is conducted at what interval?
+    A. Every 5 years (quinquennial)
+   *B. Every 10 years (decennial)
+    C. Every 7 years
+    D. Every year (annual)
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The census is a complete, direct, individual and periodic enumeration of the whole population; in India it has been carried out decennially (every 10 years) without interruption since 1881, most recently in 2011. It is distinct from the vital-statistics system: the Civil Registration System (CRS) records births and deaths continuously, while the Sample Registration System (SRS) estimates vital rates on a sample basis between censuses. The scheduled census has been change-prone recently (the 2021 round was delayed) — verify the latest completed census year before quoting figures.
+Q_GEN_PSM_DEMOG_FP_004 [M] What is the PRIMARY function of the Sample Registration System (SRS) in India?
+   *A. To provide reliable estimates of birth rate, death rate and infant mortality rate on a sample basis using a dual-record system
+    B. To legally register every birth and death occurring in the country as a compulsory civil requirement
+    C. To carry out the complete decennial enumeration of the entire population
+    D. To register and follow up all eligible couples for family planning services
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The SRS is a large-scale, continuous demographic survey that yields dependable estimates of fertility and mortality indicators (CBR, CDR, IMR, MMR, TFR) at national and state level between censuses. It works on a DUAL-RECORD system: a resident part-time enumerator does continuous recording of vital events, and an independent half-yearly retrospective survey cross-checks these; discrepancies are field-verified. This differs from the Civil Registration System (compulsory legal registration of each event under the RBD Act) and from the census (complete enumeration). Reported SRS figures update annually — flag them as verify-latest.
+Q_GEN_PSM_DEMOG_FP_005 [M] Total Fertility Rate (TFR) is BEST defined as:
+    A. The number of live births per 1000 mid-year population in a given year
+    B. The number of live births per 1000 women aged 15–49 years in a given year
+    C. The average number of daughters a woman would bear during her reproductive life
+   *D. The average number of children a woman would bear if she passed through her reproductive years (15–49) experiencing the current age-specific fertility rates
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: TFR is a synthetic cohort measure: it sums the age-specific fertility rates across the reproductive span and is read as the average number of children a woman would have if current fertility patterns persisted. It is superior to the crude birth rate (option A) because it removes the effect of population age-sex structure, and unlike the general fertility rate (option B, births per 1000 women 15–49) it captures completed fertility. Option C describes the gross reproduction rate (daughters only). A TFR of about 2.1 is the replacement level; India's current TFR is change-prone near replacement — verify against the latest NFHS/SRS.
+Q_GEN_PSM_DEMOG_FP_006 [H] Which statement correctly distinguishes the Gross Reproduction Rate (GRR) from the Net Reproduction Rate (NRR)?
+    A. GRR counts total children (both sexes); NRR counts only sons surviving to adulthood
+    B. GRR accounts for female mortality before the end of the reproductive period, whereas NRR ignores it
+   *C. GRR is the average number of daughters a woman would bear at current fertility, IGNORING mortality; NRR is the same but ADJUSTED for the mortality of females before they complete the reproductive period
+    D. GRR and NRR are identical measures and the terms are interchangeable
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: Both are female-replacement measures counting DAUGHTERS. GRR is the average number of daughters a woman would have if she survived through her whole reproductive period at current age-specific fertility — it assumes NO mortality. NRR corrects this by factoring in the probability that a female child survives to and through the childbearing ages, so NRR is always ≤ GRR. NRR is the more realistic index of generational replacement; NRR = 1 means each generation of mothers is exactly replaced by an equal generation of daughters. Option B reverses the relationship, and option A confuses the sex counted (daughters, not sons).
+Q_GEN_PSM_DEMOG_FP_007 [E] The Crude Birth Rate (CBR) is calculated as:
+    A. Total live births in a year ÷ number of married women aged 15–45, × 1000
+   *B. Number of live births during a year ÷ estimated mid-year population, × 1000
+    C. Number of live births ÷ number of women aged 15–49, × 1000
+    D. Number of live births ÷ total pregnancies in the year, × 100
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: CBR = (number of live births in a year / estimated mid-year population) × 1000. It is 'crude' because the denominator is the whole population, including men, children and the elderly who cannot give birth, so it is heavily influenced by age-sex composition and is a poor tool for comparing fertility across dissimilar populations. Option C describes the general fertility rate (denominator = women 15–49). For like-for-like comparison, age-specific fertility rates, GFR or TFR are preferred. India's CBR is a change-prone SRS figure — verify the latest release rather than quoting a fixed number.
+Q_GEN_PSM_DEMOG_FP_008 [M] Assertion (A): The crude death rate is not a satisfactory measure for comparing mortality between two different countries. Reason (R): The crude death rate is strongly influenced by the age and sex composition of the population.
+   *A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The crude death rate (deaths per 1000 mid-year population) mixes together populations with very different age structures: a country with many elderly people will show a high CDR even with excellent health services, while a youthful population may show a deceptively low CDR. Because age-sex composition drives the crude rate, direct comparison is misleading — hence standardization (direct or indirect) or age-specific/cause-specific rates are used for valid comparison. Here A is true and R is not only true but is the precise reason A holds, so both are true and R correctly explains A.
+Q_GEN_PSM_DEMOG_FP_009 [H] In the DIRECT method of age-standardization of death rates, what is done?
+   *A. The age-specific death rates of each study population are applied to a chosen standard population's age structure to yield comparable standardized rates
+    B. The age-specific death rates of a standard population are applied to the age structure of each study population
+    C. The crude death rates of both populations are simply averaged together
+    D. Only the deaths in the 15–49 year age group are compared between the two populations
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: Standardization removes the confounding effect of differing age structures so two populations' mortality can be fairly compared. In the DIRECT method you need the age-specific death rates of each study population; these observed rates are applied to a single 'standard' population's age distribution, generating the number of deaths that WOULD occur if both populations had that same structure, and hence directly comparable standardized rates. The INDIRECT method (option B, giving the Standardized Mortality Ratio) is used instead when age-specific rates of the study population are unavailable but the age distribution is known. Option A is the correct description of the direct method.
+Q_GEN_PSM_DEMOG_FP_010 [M] The neonatal mortality rate is defined as the number of deaths of:
+    A. Live-born infants under 1 year of age per 1000 live births in a year
+    B. Stillbirths plus deaths in the first week per 1000 total births
+   *C. Live-born infants under 28 days of age per 1000 live births in a year
+    D. Children between 1 and 4 years of age per 1000 children in that age group
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
+   concept: Neonatal mortality rate = (deaths of live-born infants under 28 days of age in a year / total live births in that year) × 1000. It is subdivided into EARLY neonatal (first 7 days, dominated by endogenous/prenatal causes such as prematurity, birth asphyxia and congenital anomalies) and LATE neonatal (7–28 days, more exogenous causes like infection). In India neonatal deaths make up the largest share of infant mortality, so newborn survival is the key lever for lowering IMR. Option A is the infant mortality rate, option B is perinatal mortality, and option D relates to the child (1–4 yr) death rate. India's NMR is change-prone — verify latest SRS.
+Q_GEN_PSM_DEMOG_FP_011 [H] The perinatal mortality rate is conventionally expressed as:
+    A. Deaths under 28 days per 1000 live births
+    B. Maternal deaths per 100,000 live births
+    C. Infant deaths per 1000 live births
+   *D. Late foetal deaths (stillbirths of ≥28 weeks/≥1000 g) plus early neonatal deaths (first 7 days) per 1000 total births
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
+   concept: The perinatal period bridges late pregnancy and the first week of life. The perinatal mortality rate = [(late foetal deaths at ≥28 weeks gestation, i.e. stillbirths) + (early neonatal deaths in the first 7 days)] per 1000 TOTAL births (live births + stillbirths). Uniquely, its numerator and denominator both include stillbirths, unlike infant/neonatal rates that use only live births. It is a sensitive index of the quality of antenatal, intranatal and immediate newborn care and of maternal health, capturing losses often missed by other indices. Options A, B and C describe neonatal, maternal and infant mortality respectively.
+Q_GEN_PSM_DEMOG_FP_012 [M] The Maternal Mortality Ratio (MMR) in India is conventionally expressed per how many live births, and its recent SRS value is approximately:
+   *A. Per 100,000 live births; approximately 97 (SRS 2018–20 — verify latest)
+    B. Per 1000 live births; approximately 40
+    C. Per 1000 mid-year population; approximately 6
+    D. Per 10,000 pregnancies; approximately 250
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
+   concept: The Maternal Mortality RATIO relates maternal deaths (death of a woman while pregnant or within 42 days of termination of pregnancy from causes related to or aggravated by the pregnancy/its management, excluding accidental/incidental causes) to the number of live births, conventionally per 100,000 live births. India's SRS estimate has fallen steadily and was around 97 for 2018–20 — this is a change-prone figure that must be verified against the latest SRS special bulletin. Note the distinction from the maternal mortality RATE (per 100,000 women of reproductive age) and the lifetime risk measure.
+Q_GEN_PSM_DEMOG_FP_013 [H] Assertion (A): The under-five mortality rate is expressed as the number of such deaths per 1000 mid-year population. Reason (R): The under-five mortality rate reflects the probability of a child dying before reaching its fifth birthday.
+    A. Both A and R are true, and R is the correct explanation of A
+    B. Both A and R are true, but R is not the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
+   concept: The under-five mortality rate is the probability (expressed per 1000 LIVE BIRTHS, not per mid-year population) that a child born in a given year dies before completing 5 years, given current age-specific mortality. It is a key composite indicator of child health, nutrition and socioeconomic development and is a Sustainable Development Goal target. The Reason correctly states what the indicator measures, but the Assertion misstates the denominator (it is live births, not mid-year population), so A is false while R is true. India's U5MR is change-prone — verify the latest SRS estimate.
+Q_GEN_PSM_DEMOG_FP_014 [M] The dependency ratio is BEST expressed as:
+    A. Population aged 15–64 years ÷ population aged 0–14 years, × 100
+   *B. (Population aged 0–14 years + population aged 65 years and above) ÷ population aged 15–64 years, × 100
+    C. Number of females ÷ number of males, × 1000
+    D. Population aged 65 years and above ÷ total population, × 100
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The dependency ratio compares the economically 'dependent' population (children under 15 and older adults 65+) with the working-age population (15–64): ratio = [(0–14) + (65+)] / (15–64) × 100. It is split into a young (child) dependency ratio and an old (aged) dependency ratio. A high young-dependency burden is typical of high-fertility populations, while a falling total ratio creates the 'demographic dividend' window; a rising old-dependency ratio signals population ageing. Option C is the sex ratio and option D is the proportion elderly — related but distinct indicators of population structure.
+Q_GEN_PSM_DEMOG_FP_015 [E] In India, the sex ratio is conventionally defined as the number of females per 1000 males. According to the 2011 Census, the overall sex ratio was approximately:
+    A. 1000 females per 1000 males
+    B. 1020 females per 1000 males
+   *C. 943 females per 1000 males (Census 2011 — verify latest)
+    D. 870 females per 1000 males
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: In India the sex ratio is expressed as the number of females per 1000 males (the reciprocal of the convention used in some other countries). The 2011 Census recorded an overall sex ratio of about 943, while the child sex ratio (0–6 years) was lower at around 919, reflecting son-preference and sex-selective practices that the PC-PNDT Act seeks to curb. These are change-prone census-linked figures (the next full census will revise them) — always flag the census year and verify the latest available value before quoting.
+Q_GEN_PSM_DEMOG_FP_016 [M] Life expectancy at birth in India is currently approximately (flag as change-prone — verify latest SRS):
+    A. About 50 years
+    B. About 55 years
+    C. About 62 years
+   *D. About 69–70 years, with females generally living a few years longer than males
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: Expectation of life at birth is the average number of years a newborn would live if current age-specific mortality persisted; it is derived from a life table and is a sensitive summary index of a population's overall mortality and development. In India it has risen dramatically from around 32 years at independence to roughly 69–70 years in recent SRS estimates, with female life expectancy typically a few years higher than male. This is a change-prone figure updated with each SRS abridged life-table release — verify the exact latest value rather than relying on a fixed number.
+Q_GEN_PSM_DEMOG_FP_017 [E] A woman is counselled about the copper intrauterine device Cu-T 380A for spacing. What is its approved effective lifespan?
+   *A. Up to 10 years
+    B. 6 months
+    C. 1 year
+    D. 25 years
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The Cu-T 380A is a long-acting reversible copper-bearing intrauterine device approved for use for up to 10 years, making it one of the most cost-effective spacing methods. Copper IUDs act mainly by preventing FERTILIZATION: released copper ions are toxic to sperm and impair sperm motility/viability, and the device induces a sterile inflammatory endometrial reaction hostile to sperm and ova — they are NOT primarily abortifacient. Contraindications include pregnancy, active pelvic infection/PID, unexplained vaginal bleeding and distorted uterine cavity. Copper IUDs can also serve as emergency contraception if inserted within 5 days of unprotected intercourse.
+Q_GEN_PSM_DEMOG_FP_018 [H] A 34-year-old woman requests combined oral contraceptive pills. Which of the following is an ABSOLUTE contraindication to combined (oestrogen-containing) OCPs?
+    A. Mild iron-deficiency anaemia
+   *B. Past history of confirmed venous thromboembolism (deep vein thrombosis / pulmonary embolism)
+    C. A regular 28-day menstrual cycle
+    D. History of a single uncomplicated urinary tract infection last year
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: Combined OCPs work chiefly by suppressing the mid-cycle LH/FSH surge and thus inhibiting ovulation, plus thickening cervical mucus and altering the endometrium. Their oestrogen component is prothrombotic, so a past or current venous thromboembolism (DVT/PE), history of stroke or ischaemic heart disease, known thrombogenic mutations, active liver disease, current breast cancer, uncontrolled hypertension, migraine with aura, and smoking in a woman over 35 are recognised absolute contraindications (WHO MEC category 4). In such women progestogen-only methods or non-hormonal options such as the copper IUD are preferred. The other options are not contraindications.
+Q_GEN_PSM_DEMOG_FP_019 [M] A woman opts for the injectable contraceptive DMPA (depot medroxyprogesterone acetate). At what interval is it administered?
+    A. Once every week
+    B. Once every month
+   *C. Once every 3 months (12 weeks)
+    D. Once every 12 months
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: DMPA (depot medroxyprogesterone acetate) is a progestogen-only injectable given 150 mg intramuscularly once every 3 months (12 weeks); a subcutaneous 104 mg formulation exists. It acts mainly by inhibiting ovulation, thickening cervical mucus and thinning the endometrium. Being oestrogen-free it can be used in many women for whom combined pills are contraindicated and during lactation. Notable considerations include menstrual disturbance/amenorrhoea, a reversible but sometimes delayed return of fertility after stopping, and a reversible decrease in bone mineral density with long-term use. NET-EN is another injectable given every 2 months.
+Q_GEN_PSM_DEMOG_FP_020 [H] For the Lactational Amenorrhoea Method (LAM) to be relied upon as an effective contraceptive, ALL of the following conditions must be met EXCEPT which combination is required?
+    A. The mother is menstruating regularly again
+    B. The infant is older than 12 months
+    C. The mother has resumed mixed/complementary feeding of the infant
+   *D. The mother is fully or nearly fully breastfeeding, is amenorrhoeic, AND the infant is under 6 months of age
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: LAM relies on lactation-induced suppression of ovulation and is up to about 98% effective only when THREE conditions hold simultaneously: (1) the mother is exclusively or nearly exclusively breastfeeding (frequent day and night feeds), (2) she remains amenorrhoeic (no return of menstruation), and (3) the infant is under 6 months old. If ANY one fails — menses return, breastfeeding is reduced/complemented, or the baby reaches 6 months — effectiveness falls and another method should be started. Options A, B and C each describe a situation in which LAM is NO LONGER reliable, so the required combination is that stated in D.
+Q_GEN_PSM_DEMOG_FP_021 [M] A woman presents after an episode of unprotected intercourse and requests emergency contraception with levonorgestrel pills. These are most effective when taken within what time window?
+    A. Within 6 hours only
+   *B. Within 72 hours (3 days) of unprotected intercourse, the sooner the better
+    C. Only after the next expected period
+    D. Any time up to 3 weeks later
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: Levonorgestrel-based emergency contraception (1.5 mg as a single dose or 0.75 mg × 2) is licensed for use within 72 hours (3 days) of unprotected intercourse, with efficacy being greatest the earlier it is taken. It works chiefly by delaying or inhibiting ovulation and is NOT effective once implantation has occurred (it does not disrupt an established pregnancy). The copper IUD is the most effective emergency method and can be inserted up to 5 days after intercourse. Emergency contraception is a back-up, not a routine method; counsel on ongoing regular contraception afterwards.
+Q_GEN_PSM_DEMOG_FP_022 [H] A man undergoes vasectomy for terminal contraception. What advice regarding contraception must be given immediately afterwards?
+   *A. He is not immediately sterile; an alternative contraceptive must be used until azoospermia is confirmed (about 3 months or roughly 20–30 ejaculations)
+    B. He is completely sterile from the moment the procedure is finished
+    C. Sterility is guaranteed within 24 hours of the operation
+    D. He will never regain fertility and no follow-up semen check is ever needed
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: Vasectomy is a permanent (terminal) method achieved by ligating/occluding the vas deferens, but it is NOT effective immediately: viable sperm persist in the distal reproductive tract for some time. The couple must therefore use an additional contraceptive method until azoospermia is documented, usually after about 3 months or roughly 20–30 ejaculations, confirmed by semen examination. Vasectomy is simpler, safer and cheaper than female tubectomy. It does not affect libido, erection or ejaculate volume appreciably. Tubectomy (female sterilization) can be done as interval, post-partum or concurrent-with-caesarean procedures.
+Q_GEN_PSM_DEMOG_FP_023 [M] The Couple Protection Rate (CPR) is defined as:
+    A. The proportion of the total population using any health service in a year
+    B. The number of live births prevented per 1000 eligible couples
+   *C. The percentage of eligible couples effectively protected against childbirth by one or another approved family-planning method at a given time
+    D. The percentage of pregnant women who complete at least four antenatal visits
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The Couple Protection Rate is an outcome indicator of a family-planning programme: it is the percentage of eligible couples (typically the currently married couple with the wife of reproductive age, conventionally 15–45 years) who are effectively protected from childbirth by an approved contraceptive method — sterilization, IUD, condom, oral pills, injectables — at a given point in time. A CPR of around 60% is regarded as the level needed to bring the net reproduction rate to 1 (population stabilization). It measures programme reach, unlike unmet need which measures the gap between desired and actual contraceptive use.
+Q_GEN_PSM_DEMOG_FP_024 [H] Which of the following BEST describes a key objective of India's National Population Policy (NPP) 2000?
+    A. To immediately reduce the population to zero growth within one year
+    B. To make sterilization compulsory for all couples with two children
+    C. To ban all forms of temporary contraception nationwide
+   *D. To bring the Total Fertility Rate to the replacement level (about 2.1) and achieve a stable population by around 2045, consistent with sustainable development (verify targets)
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Demography and Family Planning
+   concept: The NPP 2000 set objectives on three horizons: the IMMEDIATE objective was to address unmet needs for contraception, health infrastructure and personnel; the MEDIUM-TERM objective was to bring the Total Fertility Rate down to replacement level (about 2.1) by 2010 through inter-sectoral operational strategies; and the LONG-TERM objective was to achieve a stable population by around 2045 at a level consistent with sustainable economic growth and social development. The policy is voluntary and target-free at the individual level, explicitly rejecting coercion (options B and C are wrong). Specific NPP targets/dates are change-prone policy facts — verify against the official document.
+Q_PYQ_FMGE_2025JULP2_137 [H] In a family with three siblings, the eldest sibling moves out of the household and a new (third) child is born. What is this change in the family structure called?
+    A. Formation
+    B. Contraction
+   *C. Complete extension
+    D. Extension
+   key=C ref=FMGE July 2025 Part 2 (real exam recall)
+   concept: In the family life cycle, extension is the phase of adding members (births) while contraction is losing them (children leaving). NOTE: this scenario mixes both (the eldest leaves while a new child is born) and the source's definition of 'complete extension' (multi-generational overlap) is non-standard, so the mapping is genuinely ambiguous. Keyed answer C retained but flagged for review.
+
+=== PSM (Community Medicine) / Epidemiology & control: TB, malaria, HIV
+Q_GEN_PSM_COMMDIS_001 [E] The classic epidemiological triad describing the interaction of factors necessary for disease causation comprises which of the following?
+   *A. Agent, host and environment
+    B. Time, place and person
+    C. Host, reservoir and portal of exit
+    D. Susceptibility, exposure and outcome
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Principles of Epidemiology and Epidemiologic Methods
+   concept: The epidemiological (agent-host-environment) triad is the classic model of disease causation: an infectious agent, a susceptible host, and a favourable environment interacting over time. Option B (time, place, person) lists the variables of DESCRIPTIVE epidemiology, not causation; option C lists elements of the chain of infection; option D lists cohort-study concepts. Understanding the triad underpins all communicable-disease control, because breaking any one arm — reducing the agent, raising host immunity, or modifying the environment — interrupts transmission.
+Q_GEN_PSM_COMMDIS_002 [E] In infectious-disease control, 'sterilization' is BEST defined as:
+    A. The destruction of vegetative pathogens but not necessarily bacterial spores
+   *B. The complete destruction or removal of all forms of microbial life, including bacterial spores
+    C. The physical removal of visible dirt and organic material from a surface
+    D. The killing of microorganisms on living tissue such as skin
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Disinfection
+   concept: Sterilization is the complete destruction or removal of ALL microorganisms, including highly resistant bacterial spores (e.g., autoclaving, ethylene oxide). Option A describes disinfection (kills vegetative pathogens, may spare spores); option C is cleaning (physical removal of soil); option D is antisepsis, which by definition is applied to living tissue. This hierarchy — sterilization above high-level disinfection above antisepsis and simple cleaning — governs instrument reprocessing and hospital infection control.
+Q_GEN_PSM_COMMDIS_003 [E] The BCG vaccine used in India's Universal Immunization Programme belongs to which category of vaccine?
+    A. Killed (inactivated) whole-cell vaccine
+    B. Toxoid
+   *C. Live attenuated vaccine
+    D. Polysaccharide conjugate vaccine
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Immunization and Immunizing Agents
+   concept: BCG (Bacille Calmette-Guerin) is a LIVE attenuated vaccine derived from Mycobacterium bovis (the Danish 1331 strain is used in India). Being live, it is heat- and light-sensitive, must be reconstituted, and is contraindicated in overt immunodeficiency. Option A (killed), B (toxoid, e.g., tetanus/diphtheria), and D (polysaccharide conjugate, e.g., Hib/pneumococcal) are other vaccine classes. Under UIP, BCG is given at birth and protects mainly against severe childhood TB such as miliary TB and tuberculous meningitis, not adult pulmonary disease.
+Q_GEN_PSM_COMMDIS_004 [E] As per current WHO status, which human infectious disease is the ONLY one to have been certified globally eradicated?
+    A. Poliomyelitis
+    B. Measles
+    C. Neonatal tetanus
+   *D. Smallpox
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases
+   concept: Smallpox is the ONLY human disease certified globally eradicated (WHO, 1980); rinderpest, an animal disease, is the only other eradicated infection. Eradication means permanent worldwide reduction of incidence to zero so that intervention measures can cease — distinct from ELIMINATION (interruption of transmission in a defined area, e.g., polio-free India certified 2014, or neonatal tetanus elimination) where importation risk persists and interventions must continue. Poliomyelitis and measles are targeted for eradication/elimination but are not yet globally eradicated.
+Q_GEN_PSM_COMMDIS_005 [E] Under India's National Immunization Schedule, the birth dose of hepatitis B vaccine should ideally be given within how long of birth?
+   *A. Within 24 hours of birth
+    B. Within 72 hours of birth
+    C. Within 2 weeks of birth
+    D. Only at 6 weeks along with pentavalent vaccine
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Immunization / National Immunization Schedule
+   concept: Under India's National Immunization Schedule the hepatitis B birth dose should be given as early as possible, ideally WITHIN 24 HOURS of birth, to prevent perinatal (vertical) transmission; the remaining hepatitis B doses are then given as part of the pentavalent vaccine at 6, 10 and 14 weeks. Timeliness of the birth dose is a key hepatitis B control indicator. Options B and C are too late to reliably block perinatal transmission, and option D omits the crucial birth dose. Verify the exact schedule against the current national immunization schedule, which is periodically revised.
+Q_GEN_PSM_COMMDIS_006 [M] The time interval between the onset of symptoms in a primary case and the onset of symptoms in a secondary case infected by that primary case is termed the:
+    A. Incubation period
+   *B. Serial interval
+    C. Latent period
+    D. Generation time
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Dynamics of Disease Transmission
+   concept: The SERIAL INTERVAL is the time between symptom onset in a primary case and symptom onset in the secondary case(s) it infects; because it is directly observable, it is widely used to estimate transmission dynamics and to time quarantine. Contrast: the incubation period is infection-to-symptom-onset within one person; the latent (pre-infectious) period relates to when a person becomes infectious after infection; and the generation time is the interval from infection of the primary case to infection of the secondary case. These intervals are frequently confused in examinations.
+Q_GEN_PSM_COMMDIS_007 [M] The secondary attack rate is BEST expressed as the number of exposed persons developing the disease within the range of the incubation period, as a proportion of:
+    A. The total population of the community
+    B. All primary cases in the outbreak
+   *C. The total number of susceptible contacts exposed to the primary case
+    D. The total number of people ever infected during the outbreak
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Dynamics of Disease Transmission
+   concept: Secondary attack rate (SAR) = number of exposed contacts developing disease within one incubation period divided by the total number of SUSCEPTIBLE contacts exposed to the primary case, times 100. It measures infectiousness/communicability and the impact of interventions within closed groups such as households. Option A gives an overall community attack/incidence rate, not SAR; primary cases (B) and all cumulative infections (D) are not the correct denominator. Immune contacts are excluded from the denominator, since only susceptibles are at risk of becoming secondary cases.
+Q_GEN_PSM_COMMDIS_008 [M] A cluster of dengue cases is reported from an urban colony in September, and the medical officer plans vector control. Which mosquito, breeding in clean stored/collected water in and around houses, is the principal transmitter of dengue in India?
+    A. Anopheles culicifacies
+    B. Culex quinquefasciatus
+    C. Phlebotomus argentipes
+   *D. Aedes aegypti
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (Dengue Syndrome)
+   concept: Aedes aegypti is the principal urban vector of dengue (and of chikungunya and Zika) in India; it is a day-biting mosquito that breeds in clean, stored or collected water in and around houses (coolers, tyres, discarded containers), which is why source reduction and elimination of breeding sites are the mainstay of control. Anopheles culicifacies transmits rural malaria, Culex quinquefasciatus transmits bancroftian filariasis and Japanese encephalitis, and Phlebotomus (sandfly) transmits kala-azar. Vector-borne disease control now sits under NCVBDC (formerly NVBDCP).
+Q_GEN_PSM_COMMDIS_009 [M] The Mass Drug Administration (MDA) strategy under India's lymphatic filariasis elimination programme uses which drug combination for annual single-dose therapy?
+   *A. Diethylcarbamazine (DEC) plus albendazole
+    B. Chloroquine plus primaquine
+    C. Rifampicin plus dapsone
+    D. Praziquantel alone
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (Lymphatic Filariasis)
+   concept: DEC (diethylcarbamazine) plus albendazole, given annually as a single-dose Mass Drug Administration to the eligible population, is the core strategy of India's lymphatic filariasis elimination programme; triple-drug therapy (IDA = ivermectin + DEC + albendazole) is being rolled out in selected districts to accelerate elimination. Option C (rifampicin + dapsone) relates to leprosy multidrug therapy, and the other combinations treat malaria/schistosomiasis. MDA to suppress microfilaraemia plus morbidity management aims to interrupt transmission; verify the current IDA district list, which is change-prone.
+Q_GEN_PSM_COMMDIS_010 [M] A 40-year-old man with sputum-positive pulmonary TB is started on treatment under NTEP. His household includes his wife, two children under 5 years, and his HIV-positive brother. After active TB is ruled out, TB preventive treatment (TPT) is MOST clearly indicated for which of the following?
+    A. Only the wife
+   *B. The under-5 child contacts and the HIV-positive household contact
+    C. No one, since the index case is already on treatment
+    D. Only tuberculin-positive adults over 60 years
+   key=B ref=Park's Textbook of Preventive and Social Medicine — National Tuberculosis Elimination Programme (NTEP)
+   concept: Under NTEP, after active disease is excluded, TB preventive treatment is strongly indicated for household contacts — especially children under 5 years — of a pulmonary TB case and for all people living with HIV, because their risk of progressing from latent infection to active disease is high. The programme has been progressively expanding TPT to ALL household contacts irrespective of age, a change-prone policy to verify against current NTEP/national TPT guidelines. That the index case is on treatment does not remove contacts' need for evaluation and prophylaxis.
+Q_GEN_PSM_COMMDIS_011 [M] The Ni-kshay Poshan Yojana under NTEP provides notified tuberculosis patients with which of the following?
+    A. Free anti-tuberculosis drugs only
+    B. A one-time cash award given on completion of cure
+   *C. A monthly Direct Benefit Transfer for nutritional support during anti-TB treatment
+    D. Free chest radiography and CBNAAT testing
+   key=C ref=Park's Textbook of Preventive and Social Medicine — National Tuberculosis Elimination Programme (NTEP)
+   concept: Ni-kshay Poshan Yojana provides notified TB patients a monthly Direct Benefit Transfer for nutritional support throughout anti-TB treatment, addressing the strong TB-undernutrition link and improving adherence and outcomes; it is over and above free drugs and diagnostics (which are provided anyway, so options A and D are wrong). The monthly amount is change-prone — it was enhanced under the scheme's revision (reportedly to a higher figure with effect from late 2024) — so verify the current amount and eligibility against the latest NTEP circular. It is not a one-time award.
+Q_GEN_PSM_COMMDIS_012 [M] Under India's malaria surveillance, the Annual Parasite Incidence (API) is calculated as:
+    A. Number of blood slides examined per 100 population per year
+    B. Percentage of blood slides found positive out of those examined
+    C. Proportion of Plasmodium falciparum cases among all positive cases
+   *D. Number of confirmed malaria cases per 1000 population per year
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (Malaria)
+   concept: Annual Parasite Incidence (API) = number of confirmed malaria cases per 1000 population per year; it is the principal indicator for stratifying areas and tracking progress toward elimination (an API below 1 is a key sub-district target). Option A defines the Annual Blood Examination Rate (ABER), option B the Slide Positivity Rate (SPR), and option C the P. falciparum proportion. These NCVBDC/NVBDCP surveillance indicators are frequently tested together and are interpreted jointly, since a low ABER can artificially depress the API through under-detection.
+Q_GEN_PSM_COMMDIS_013 [M] India's National Framework for Malaria Elimination targets elimination of malaria (zero indigenous cases) by which year?
+   *A. 2030
+    B. 2025
+    C. 2027
+    D. 2035
+   key=A ref=Park's Textbook of Preventive and Social Medicine — National Vector Borne Disease Control (Malaria Elimination)
+   concept: India's National Framework for Malaria Elimination (2016-2030) and subsequent strategic plans target a malaria-free India (zero indigenous cases) by 2030, aligned with the WHO Global Technical Strategy and the Asia-Pacific elimination goal. Districts are stratified by API into categories, each with tailored interventions such as IRS, LLINs, surveillance and radical treatment. This target year is a change-prone national-programme fact — verify against the latest NCVBDC framework. Options 2025, 2027 and 2035 are distractors reflecting other milestone or interim years.
+Q_GEN_PSM_COMMDIS_014 [M] A hospital reviews four documented HIV exposures. Which single exposure carries the HIGHEST per-exposure probability of HIV transmission?
+    A. A percutaneous needle-stick injury from an HIV-positive source
+   *B. Transfusion of one unit of HIV-infected whole blood
+    C. A single episode of receptive vaginal intercourse
+    D. A single episode of insertive vaginal intercourse
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (AIDS/HIV)
+   concept: Per-exposure HIV transmission risk is HIGHEST for transfusion of infected blood (roughly 90-95% per unit), far exceeding perinatal transmission (about 15-45% without intervention), percutaneous needle-stick injury (about 0.3%), and sexual exposures (receptive vaginal roughly 0.1-0.2%, insertive lower still). This is why blood-bank screening and safe transfusion are among the most efficient single control interventions, and why occupational needle-stick, though greatly feared, carries a comparatively low per-event risk. Cumulative sexual exposure nonetheless drives most infections globally.
+Q_GEN_PSM_COMMDIS_015 [M] The UNAIDS '95-95-95' targets are: 95% of people living with HIV knowing their status, 95% of those diagnosed on antiretroviral therapy, and 95% of those on therapy achieving which of the following?
+    A. A CD4 count above 500 cells/microlitre
+    B. Ongoing cotrimoxazole prophylaxis
+   *C. Viral suppression (an undetectable viral load)
+    D. A negative confirmatory (Western blot) test
+   key=C ref=Park's Textbook of Preventive and Social Medicine — National AIDS Control Programme (NACP)
+   concept: The UNAIDS 95-95-95 targets aim for 95% of people living with HIV to know their status, 95% of those diagnosed to be on antiretroviral therapy, and 95% of those on ART to achieve VIRAL SUPPRESSION (an undetectable viral load), which both improves survival and, through 'undetectable equals untransmittable', reduces onward transmission. These superseded the earlier 90-90-90 targets (for 2020), so the exact figures are change-prone and should be verified against current NACP/UNAIDS goals. CD4 count, cotrimoxazole, and confirmatory testing are not the third '95'.
+Q_GEN_PSM_COMMDIS_016 [M] A mother brings her healthy 9-month-old infant, immunised so far exactly per the National Immunization Schedule, to the clinic. Which vaccine dose is due at this visit?
+    A. Birth dose of OPV and BCG
+    B. First dose of pentavalent (DPT-HepB-Hib) vaccine
+    C. Second booster dose of DPT
+   *D. First dose of measles-rubella (MR) vaccine
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Immunization / National Immunization Schedule
+   concept: At 9 completed months, a fully immunised infant is due the FIRST dose of measles-rubella (MR) vaccine under the National Immunization Schedule (given with Vitamin A, plus JE-1 in endemic districts and the PCV booster). BCG, OPV-0 and hepatitis B birth dose are given at birth; pentavalent (DPT-HepB-Hib) with OPV/fIPV is given at 6, 10 and 14 weeks; DPT/OPV boosters follow at 16-24 months and 5-6 years. India replaced standalone measles vaccine with MR. Verify the exact schedule against the current national immunization schedule, which is periodically revised.
+Q_GEN_PSM_COMMDIS_017 [H] For a disease with a basic reproduction number (R0) of 5 in a homogeneously mixing population, the herd immunity threshold using Hc = 1 - 1/R0 is approximately:
+   *A. 80%
+    B. 50%
+    C. 20%
+    D. 95%
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Dynamics of Disease Transmission (Herd Immunity)
+   concept: For a homogeneously mixing population and an effective vaccine, the herd immunity threshold Hc = 1 - 1/R0. With R0 = 5, Hc = 1 - 1/5 = 0.8, i.e. about 80% of the population must be immune to interrupt sustained transmission. Option 20% equals 1/R0 (the susceptible fraction remaining at equilibrium), 50% corresponds to R0 = 2, and 95% corresponds to R0 = 20. The higher the R0, the higher the immunity coverage needed — the epidemiological basis for setting national immunization coverage goals for each disease.
+Q_GEN_PSM_COMMDIS_018 [H] Which of the following statements about the Annual Risk of Tuberculosis Infection (ARTI) is CORRECT?
+    A. It is measured directly from sputum smear microscopy of symptomatic patients
+   *B. It is estimated from tuberculin (Mantoux) surveys and reflects the trend of TB transmission in a community
+    C. A rising ARTI indicates that the TB control programme is succeeding
+    D. It measures the proportion of drug-resistant tuberculosis cases
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (Tuberculosis)
+   concept: ARTI (Annual Risk of Tuberculosis Infection) is the probability of acquiring new TB infection in one year; it is estimated INDIRECTLY from tuberculin (Mantoux) surveys in children (the prevalence of infection is converted into an annual risk) and is a sensitive index of the trend of TB transmission in the community. It is not derived from sputum microscopy (option A) or drug-resistance data (option D), and a FALLING — not rising — ARTI indicates programme success (option C is wrong). Historically about a 1% ARTI corresponded to a substantial smear-positive case load.
+Q_GEN_PSM_COMMDIS_019 [H] In malaria surveillance, the Annual Blood Examination Rate (ABER) represents:
+    A. The percentage of blood slides found positive out of those examined
+    B. The number of confirmed malaria cases per 1000 population per year
+   *C. The number of blood slides examined per 100 population per year
+    D. The proportion of Plasmodium falciparum among all positive cases
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (Malaria)
+   concept: The Annual Blood Examination Rate (ABER) is the number of blood slides (or rapid tests) examined per 100 population per year — an operational indicator of the intensity of malaria surveillance, with an adequacy target generally around 10% or more. It is distinct from the Slide Positivity Rate (positives among those examined, option A), the API (confirmed cases per 1000 population, option B), and the P. falciparum proportion (option D). A low ABER can mask true burden through under-detection, so ABER is always interpreted alongside SPR and API under NCVBDC surveillance.
+Q_GEN_PSM_COMMDIS_020 [H] Which of the following statements regarding the public-health rationale for using primaquine in malaria is CORRECT?
+    A. Primaquine is the drug of choice for rapidly clearing asexual parasites during an acute severe attack
+    B. A single dose of primaquine gives durable causal chemoprophylaxis for travellers for several months
+    C. Primaquine reduces the emergence of chloroquine resistance in P. falciparum
+   *D. Primaquine acts on P. vivax hypnozoites (preventing relapse) and on P. falciparum gametocytes (reducing transmission)
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (Malaria)
+   concept: Primaquine, an 8-aminoquinoline, is given for its public-health / transmission-control value: it kills the dormant liver hypnozoites of P. vivax (and P. ovale), preventing relapses (radical cure), and it is gametocytocidal against P. falciparum, reducing onward transmission to mosquitoes. It is NOT the rapid blood schizonticide for the acute attack (that role belongs to chloroquine or ACT, so option A is wrong), it is not durable prophylaxis (option B), and it does not affect chloroquine resistance (option C). G6PD status must be checked, as primaquine can precipitate haemolysis.
+Q_GEN_PSM_COMMDIS_021 [H] Under the WHO/India multi-dose Open Vial Policy, an opened vial of which of the following must be discarded at the end of the immunization session (and cannot be kept for reuse)?
+   *A. Reconstituted BCG and measles-rubella (MR) vaccine
+    B. Oral polio vaccine (OPV)
+    C. DPT vaccine
+    D. Hepatitis B vaccine
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Immunization / Cold Chain and Open Vial Policy
+   concept: Under the WHO/India multi-dose Open Vial Policy, opened vials of OPV, DPT, TT, DT, hepatitis B and liquid pentavalent (preservative-containing) may be reused for up to 28 days if storage and labelling conditions are met. However, RECONSTITUTED vaccines — BCG and measles/MR (and live JE) — must be discarded at the end of the session or within about 4 hours, whichever is earlier, because they contain no preservative and readily support contamination once reconstituted. The policy reduces vaccine wastage while protecting safety; verify specifics against current national cold-chain guidelines.
+Q_GEN_PSM_COMMDIS_022 [H] Which of the following statements about circulating vaccine-derived poliovirus (cVDPV) is CORRECT?
+    A. It arises from the injectable inactivated polio vaccine (IPV)
+   *B. It results from prolonged circulation and genetic reversion of the attenuated virus in oral polio vaccine (OPV) among under-immunised populations
+    C. Being vaccine-derived, it cannot cause paralysis
+    D. Its occurrence is unrelated to population immunity levels
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (Poliomyelitis)
+   concept: Circulating vaccine-derived poliovirus (cVDPV) results from prolonged person-to-person circulation of the live attenuated virus in ORAL polio vaccine (OPV) within under-immunised populations, allowing it to regain neurovirulence and transmissibility — hence it CAN cause paralysis (option C wrong) and IS driven by low population immunity (option D wrong). It does not arise from injectable IPV, which is killed (option A wrong). This risk is why the world is shifting from OPV toward IPV; India uses IPV in the schedule alongside pulse polio campaigns, and cVDPV surveillance is central to the polio endgame strategy.
+Q_GEN_PSM_COMMDIS_023 [H] At the Primary Health Centre level, the Ice-Lined Refrigerator (ILR) is used to store most vaccines at which temperature range?
+    A. -25 C to -15 C
+    B. -70 C
+   *C. +2 C to +8 C
+    D. +15 C to +25 C
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Immunization / Cold Chain
+   concept: The Ice-Lined Refrigerator (ILR) stores vaccines at +2 C to +8 C and is used for FREEZE-SENSITIVE vaccines (DPT, TT, hepatitis B, pentavalent, IPV and diluents) at the PHC level. The Deep Freezer (-25 C to -15 C, option A) stores OPV and measles/MR stock. Freezing damages adsorbed (alum-containing) vaccines, so these must never be placed in the deep freezer, while heat-labile live vaccines tolerate freezing. Correct cold-chain equipment and temperature ranges are core UIP knowledge; verify equipment norms against current national cold-chain guidelines.
+Q_GEN_PSM_COMMDIS_024 [H] India's HIV Sentinel Surveillance has traditionally used which group as a proxy to estimate HIV prevalence trends in the general (low-risk) population?
+    A. Voluntary blood donors
+    B. Female sex workers only
+    C. Tuberculosis patients
+   *D. Pregnant women attending antenatal clinics
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Epidemiology of Communicable Diseases (AIDS/HIV) / HIV Sentinel Surveillance
+   concept: India's HIV Sentinel Surveillance (HSS), run by NACO since 1998, uses pregnant women attending ANTENATAL CLINICS as a proxy to estimate HIV prevalence trends in the general low-risk population, complemented by high-risk group sites (female sex workers, MSM, injecting drug users, migrants, truckers). Voluntary blood donors are a pre-screened, non-representative group and TB patients are a special population, so neither serves as the general-population proxy. HSS data, together with integrated behavioural and biological surveillance, feed the national HIV estimates under NACP.
+Q_c1_095 [E] In the epidemiology of tuberculosis, the most important source of infection in the community is?
+   *A. A sputum smear-positive pulmonary TB patient
+    B. A patient with extrapulmonary TB
+    C. An asymptomatic close contact
+    D. Contaminated drinking water
+   key=A ref=Park's Textbook of PSM 27e, Tuberculosis
+   concept: A sputum smear-positive ('open') pulmonary TB case is the most infectious source, spreading Mycobacterium tuberculosis via droplet nuclei. Prompt diagnosis and treatment of such cases is the cornerstone of TB control.
+
+=== PSM (Community Medicine) / National health programs (NHM, NTEP, etc.)
+Q_c1_097 [M] Control of dengue, malaria, filariasis, kala-azar, chikungunya and Japanese encephalitis in India falls chiefly under which national programme?
+    A. National AIDS Control Programme (NACP)
+   *B. National Vector Borne Disease Control Programme (NVBDCP)
+    C. National Leprosy Eradication Programme (NLEP)
+    D. National Tuberculosis Elimination Programme (NTEP)
+   key=B ref=Park's Textbook of PSM 27e, National Health Programmes
+   concept: The NVBDCP covers the six vector-borne diseases: malaria, dengue, chikungunya, lymphatic filariasis, kala-azar and Japanese encephalitis. Note: the programme's directorate has recently been reorganised as the National Center for Vector Borne Diseases Control (NCVBDC) — verify the current name against the latest MoHFW source.
+Q_h3b_044 [H] Under India's national tuberculosis programme, a newly diagnosed pulmonary TB patient is to begin supervised treatment. Which statement about the current programme's diagnostic and treatment strategy is authored here for confirmation against the latest guidelines?
+    A. It relies only on sputum microscopy and thrice-weekly therapy, with no molecular testing
+    B. It uses chest X-ray alone to confirm every case
+    C. It provides no treatment-adherence support
+   *D. The programme (now NTEP) uses rapid molecular tests such as CBNAAT/Truenat for diagnosis and daily fixed-dose-combination therapy under supervised DOTS
+   key=D ref=National TB Elimination Programme (NTEP), MoHFW, India - CONFIRM current guidelines
+   concept: VERIFY: confirm the CURRENT programme name, diagnostic algorithm and drug regimen (NTEP, formerly RNTCP) against the latest MoHFW/NTEP guidelines before trusting this key, as programme names, schedules and targets are revised periodically. As authored, NTEP emphasises rapid molecular diagnostics (CBNAAT/Truenat) and daily fixed-dose-combination therapy under supervised DOTS.
+Q_h3b_045 [M] A newly posted medical officer is briefed on the Integrated Child Development Services (ICDS) scheme delivered through the Anganwadi centre. Which package of services is authored here as ICDS's core offering, for confirmation against current guidelines?
+   *A. Supplementary nutrition, immunization, health check-up, referral services, nutrition and health education, and pre-school non-formal education
+    B. Only supplementary nutrition to pregnant women
+    C. Only immunization of under-fives
+    D. Only hospital treatment of severe acute malnutrition
+   key=A ref=ICDS scheme, Ministry of Women & Child Development, India - CONFIRM current package
+   concept: VERIFY: confirm the current ICDS service package and beneficiary definitions against the latest Ministry of Women & Child Development guidelines, as scheme details are periodically revised. As authored, ICDS delivers six services via the Anganwadi - supplementary nutrition, immunization, health check-up, referral, nutrition and health education, and pre-school non-formal education - targeting under-6 children plus pregnant and lactating women.
+
+=== PSM (Community Medicine) / National immunization schedule
+Q_c1_093 [E] The pentavalent vaccine used in India's UIP protects against five diseases. Which combination is correct?
+   *A. Diphtheria, Pertussis, Tetanus, Hepatitis B and Haemophilus influenzae type b
+    B. Measles, Mumps, Rubella, Polio and Tuberculosis
+    C. Cholera, Typhoid, Tetanus, Diphtheria and Polio
+    D. Hepatitis A, B, C, D and E
+   key=A ref=MoHFW/UIP National Immunization Schedule — https://nhm.gov.in/New_Updates_2018/NHM_Components/Immunization/report/National_%20Immunization_Schedule.pdf
+   concept: Pentavalent vaccine = DPT (diphtheria, pertussis, tetanus) + Hepatitis B + Haemophilus influenzae type b (Hib). It is given at 6, 10 and 14 weeks under the UIP.
+Q_h3b_041 [M] Under India's Universal Immunization Programme, a mother brings her newborn on the day of birth after an institutional delivery. Which set of vaccines is scheduled to be given at birth?
+   *A. BCG, oral polio vaccine (OPV-0) and the hepatitis B birth dose
+    B. DPT, OPV and measles
+    C. BCG and measles-rubella only
+    D. Pentavalent and rotavirus only
+   key=A ref=National Immunization Schedule, UIP (MoHFW, India) - CONFIRM current schedule
+   concept: VERIFY: confirm against the CURRENT National Immunization Schedule (MoHFW / UIP) before trusting this key, as the birth-dose composition and timing are periodically revised. As authored, the institutional-delivery birth dose comprises BCG, OPV-0 and the hepatitis B birth dose; DPT/pentavalent and measles-containing doses are given later in infancy.
+
+=== PSM (Community Medicine) / Nutritional requirements & deficiency diseases
+Q_c1_099 [M] A 2-year-old has bilateral pedal edema, a 'moon face', hepatomegaly, sparse discolored hair and 'flaky-paint' skin desquamation, with weight about 70% of expected. The diagnosis is?
+    A. Marasmus
+   *B. Kwashiorkor
+    C. Nutritional marasmus with severe wasting only
+    D. Vitamin C deficiency (scurvy)
+   key=B ref=Park's Textbook of PSM 27e, Protein-Energy Malnutrition
+   concept: Kwashiorkor is severe protein deficiency with edema, hepatomegaly (fatty liver), dermatosis ('flaky paint'), hair changes and weight 60-80% of expected WITH edema. Marasmus is severe energy deficit with gross wasting, no edema, and weight below 60%.
+
+=== PSM (Community Medicine) / Screening: sensitivity/specificity/PPV
+Q_GEN_PSM_EPI_SCREEN_001 [E] Specificity of a screening test is best described as which ability, expressed by which formula?
+    A. Its ability to correctly identify people who truly HAVE the disease; TP / (TP + FN)
+   *B. Its ability to correctly identify people who truly do NOT have the disease; TN / (TN + FP)
+    C. The probability of disease given a positive test; TP / (TP + FP)
+    D. The probability of being disease-free given a negative test; TN / (TN + FN)
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Specificity = TN / (TN + FP) is the true-negative rate, the proportion of genuinely non-diseased people the test correctly labels negative. Option A is sensitivity (TP/(TP+FN)), C is the positive predictive value, and D is the negative predictive value, so only B pairs the correct definition with the correct formula.
+Q_GEN_PSM_EPI_SCREEN_002 [E] In a screening programme, the positive predictive value (PPV) answers which question for an individual whose test is positive?
+    A. What proportion of all diseased persons will the test detect (its detection rate)?
+    B. What proportion of non-diseased persons will correctly test negative?
+   *C. Given a positive test, what is the probability that the person actually has the disease, i.e. TP / (TP + FP)?
+    D. Given a negative test, what is the probability the person is truly free of disease?
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Positive predictive value = TP / (TP + FP) is the post-test probability of disease given a positive result and it rises with prevalence. Option A describes sensitivity (the detection rate), B is specificity, and D is the negative predictive value; only C states the PPV correctly.
+Q_GEN_PSM_EPI_SCREEN_003 [E] The negative predictive value (NPV) of a diagnostic test is calculated as which of the following?
+   *A. TN / (TN + FN)
+    B. TN / (TN + FP)
+    C. TP / (TP + FN)
+    D. TP / (TP + FP)
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: NPV = TN / (TN + FN): among all who test negative, the fraction who are truly free of disease. Option B is specificity (TN/(TN+FP)), C is sensitivity (TP/(TP+FN)), and D is PPV (TP/(TP+FP)). Predictive values use the row totals of test result, whereas sensitivity and specificity use the column totals of true disease status.
+Q_GEN_PSM_EPI_SCREEN_004 [E] The overall accuracy of a test, i.e. the proportion of ALL results that are correctly classified, is given by which formula?
+    A. (TP + FP) / N
+    B. (FP + FN) / N
+    C. TP / (TP + TN)
+   *D. (TP + TN) / (TP + TN + FP + FN)
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Accuracy = (TP + TN) / (TP + TN + FP + FN) is the fraction of all classifications that are correct. Option B is the complementary misclassification (error) rate, A wrongly adds false positives to true positives, and C is not a standard index; hence D is correct.
+Q_GEN_PSM_EPI_SCREEN_005 [E] Reproducibility (reliability) of a screening test refers to which of the following?
+    A. The degree to which the test agrees with the gold standard and measures the true value
+   *B. The consistency of the test in giving the same result on repeat testing under the same conditions
+    C. The proportion of diseased individuals that the test detects
+    D. The probability of disease among those who test positive
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Reliability (reproducibility/precision) is consistency of results on repeat testing and is degraded by random error; for categorical results it is quantified by Cohen's kappa. Validity/accuracy (option A) is agreement with the gold standard and is degraded by systematic error. C is sensitivity and D is PPV, so B is correct.
+Q_GEN_PSM_EPI_SCREEN_006 [M] The positive likelihood ratio (LR+) of a diagnostic test is defined as which expression?
+   *A. Sensitivity / (1 - Specificity)
+    B. (1 - Sensitivity) / Specificity
+    C. Specificity / (1 - Sensitivity)
+    D. (1 - Specificity) / Sensitivity
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: LR+ = sensitivity / (1 - specificity) is the true-positive rate divided by the false-positive rate; values above 10 strongly rule disease IN and, being derived from sensitivity and specificity, it is prevalence-independent. Option B is the negative likelihood ratio, and C and D are not valid likelihood-ratio formulae; hence A.
+Q_GEN_PSM_EPI_SCREEN_007 [M] The negative likelihood ratio (LR-), which strongly rules OUT disease when very low, equals which expression?
+    A. Sensitivity / (1 - Specificity)
+    B. Specificity / (1 - Sensitivity)
+   *C. (1 - Sensitivity) / Specificity
+    D. (1 - Specificity) / (1 - Sensitivity)
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: LR- = (1 - sensitivity) / specificity is the false-negative rate divided by the true-negative rate; values below 0.1 strongly rule disease OUT. Option A is the positive likelihood ratio, while B and D are not valid definitions; hence C is the negative likelihood ratio.
+Q_GEN_PSM_EPI_SCREEN_008 [M] Assertion (A): The positive predictive value (PPV) is an intrinsic property of a test that does not change with disease prevalence. Reason (R): As prevalence rises, the ratio of true positives to false positives among those who test positive increases. Choose the correct option:
+    A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+   *D. A is false but R is true
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: The Assertion is FALSE: predictive values are not intrinsic, unlike sensitivity and specificity; PPV rises as prevalence rises even when sensitivity and specificity are fixed. The Reason is TRUE, because higher prevalence increases the true-positive-to-false-positive ratio. A true Reason with a false Assertion corresponds to option D.
+Q_GEN_PSM_EPI_SCREEN_009 [M] Assertion (A): As the prevalence of disease increases, the negative predictive value (NPV) of a fixed test decreases. Reason (R): At higher prevalence, a greater proportion of those who test negative are actually false negatives. Choose the correct option:
+   *A. Both A and R are true and R is the correct explanation of A
+    B. Both A and R are true but R is NOT the correct explanation of A
+    C. A is true but R is false
+    D. A is false but R is true
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Both statements are TRUE and the Reason explains the Assertion: at higher prevalence more diseased people exist, so among the test-negatives a larger share are false negatives, which drives NPV down. Because R is the correct mechanism, the answer is A. In summary, as prevalence rises PPV increases while NPV decreases.
+Q_GEN_PSM_EPI_SCREEN_010 [M] In sequential (two-step / serial) testing a person is called positive only if BOTH tests are positive. Compared with either test used alone, this strategy:
+    A. Increases net sensitivity and NPV but decreases specificity
+   *B. Increases net specificity and PPV but decreases sensitivity
+    C. Increases both sensitivity and specificity
+    D. Decreases both sensitivity and specificity
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Serial testing (both tests must be positive) removes false positives, raising net specificity and PPV, but it adds false negatives, lowering net sensitivity, so option B is correct. Parallel testing produces the opposite pattern described in A. Options C and D are impossible under a rule that requires agreement of both tests.
+Q_GEN_PSM_EPI_SCREEN_011 [M] A clinician orders two tests simultaneously and treats the patient as positive if EITHER test is positive (parallel testing). This approach:
+    A. Increases specificity and PPV but lowers sensitivity
+    B. Leaves both sensitivity and specificity unchanged
+    C. Increases both sensitivity and specificity equally
+   *D. Increases net sensitivity and NPV but lowers specificity
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Parallel/simultaneous testing labels the patient positive if either test is positive, which minimises missed cases: net sensitivity and NPV rise while specificity falls because more false positives are accepted, so option D is correct. This is preferred in emergencies where missing disease is dangerous. Option A describes serial testing; B and C are wrong.
+Q_GEN_PSM_EPI_SCREEN_012 [M] A new screening test is applied to 500 people, of whom 150 truly have the disease by gold standard. The test is positive in 135 of the diseased persons and in 70 of the non-diseased persons. What is the sensitivity of the test?
+    A. 66%
+    B. 77%
+   *C. 90%
+    D. 96%
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Sensitivity = TP / (TP + FN). Of the 150 diseased people, 135 test positive so TP = 135 and FN = 150 - 135 = 15; sensitivity = 135 / 150 = 0.90 = 90%. The 70 false positives among non-diseased people do not enter the sensitivity calculation, so the answer is C (90%).
+Q_GEN_PSM_EPI_SCREEN_013 [M] Using the same data (500 people screened, 150 truly diseased, the test positive in 135 diseased persons and in 70 non-diseased persons), what is the specificity of the test?
+   *A. 80%
+    B. 90%
+    C. 75%
+    D. 66%
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Non-diseased persons = 500 - 150 = 350. False positives = 70, so true negatives TN = 350 - 70 = 280. Specificity = TN / (TN + FP) = 280 / 350 = 0.80 = 80%. Diseased counts do not affect specificity, so the answer is A (80%).
+Q_GEN_PSM_EPI_SCREEN_014 [H] A screening test has a sensitivity of 90% and a specificity of 80%. What is its positive likelihood ratio (LR+)?
+    A. 0.125
+    B. 1.13
+   *C. 4.5
+    D. 8.0
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: LR+ = sensitivity / (1 - specificity) = 0.90 / (1 - 0.80) = 0.90 / 0.20 = 4.5. Option A (0.125) is instead the negative likelihood ratio LR- = (1 - 0.90) / 0.80 = 0.10 / 0.80. Options B and D do not follow from the formula, so the answer is C (4.5).
+Q_GEN_PSM_EPI_SCREEN_015 [H] In a community of 2000 people the prevalence of a disease is 10%. A screening test with sensitivity 90% and specificity 80% is applied to everyone. What is the positive predictive value (PPV)?
+    A. 90%
+   *B. 33.3%
+    C. 50%
+    D. 18%
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Prevalence 10% of 2000 = 200 diseased. Sensitivity 90% gives TP = 180 and FN = 20. Non-diseased = 1800; specificity 80% gives TN = 1440 and FP = 360. PPV = TP / (TP + FP) = 180 / (180 + 360) = 180 / 540 = 0.333 = 33.3%. Low prevalence keeps PPV low despite good sensitivity and specificity, so the answer is B.
+Q_GEN_PSM_EPI_SCREEN_016 [H] For the same 2000-person community (prevalence 10%, sensitivity 90%, specificity 80%), what is the approximate negative predictive value (NPV)?
+    A. 80%
+    B. 66.7%
+    C. 90%
+   *D. 98.6%
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Using the same table, true negatives TN = 1440 and false negatives FN = 20. NPV = TN / (TN + FN) = 1440 / (1440 + 20) = 1440 / 1460 = 0.986 = 98.6%. In low-prevalence settings the NPV stays high because very few diseased individuals exist to be missed, so the answer is D.
+Q_GEN_PSM_EPI_SCREEN_017 [M] Youden's index (J), used to identify the best cutoff on an ROC curve, is calculated as which expression?
+    A. Sensitivity + Specificity
+   *B. Sensitivity + Specificity - 1
+    C. (Sensitivity + Specificity) / 2
+    D. Sensitivity x Specificity
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Youden's index J = Sensitivity + Specificity - 1, ranging from 0 to 1. The optimal cutoff maximises J, which geometrically is the ROC point lying farthest above the chance diagonal. J = 0 means a useless test and J = 1 a perfect one. Options A, C and D are not the standard formula, so the answer is B.
+Q_GEN_PSM_EPI_SCREEN_018 [M] A Receiver Operating Characteristic (ROC) curve is constructed by plotting which of the following?
+   *A. Sensitivity (true-positive rate) on the y-axis against 1 - specificity (false-positive rate) on the x-axis, across all cutoffs
+    B. Positive predictive value against negative predictive value at different prevalences
+    C. Incidence against prevalence across time
+    D. Sensitivity against specificity at a single fixed threshold
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: An ROC curve plots sensitivity (true-positive rate) on the y-axis versus 1 - specificity (false-positive rate) on the x-axis over all possible cutoffs; the area under the curve (AUC) measures discrimination and the top-left corner represents the ideal test. Options B, C and D misstate the axes, so the answer is A.
+Q_GEN_PSM_EPI_SCREEN_019 [H] For a continuous screening marker (for example fasting blood glucose used to detect diabetes), LOWERING the diagnostic cutoff value will:
+    A. Increase specificity and decrease sensitivity
+    B. Increase both sensitivity and specificity
+   *C. Increase sensitivity and decrease specificity
+    D. Change neither, affecting only the prevalence
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Lowering the cutoff labels more people positive, capturing more true cases so sensitivity rises, but it also generates more false positives so specificity falls, which is option C. Raising the cutoff reverses this. This unavoidable sensitivity-specificity trade-off is exactly what the ROC curve depicts. Prevalence is a population property unaffected by the cutoff.
+Q_GEN_PSM_EPI_SCREEN_020 [H] According to Wilson and Jungner's criteria for a worthwhile screening programme, which of the following is NOT a required criterion?
+    A. The condition should be an important health problem
+    B. There should be a recognizable latent or early symptomatic stage
+    C. There should be an accepted, effective treatment for patients with recognized disease
+   *D. The disease should be rare, rapidly fatal, and lack any detectable preclinical phase
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Wilson and Jungner require an important, sufficiently common condition with a recognizable latent or early stage, a suitable acceptable and valid test, an accepted effective treatment, facilities for diagnosis and treatment, and a favourable cost balance. A rare, rapidly fatal disease with no detectable preclinical phase (very short sojourn time) is UNSUITABLE for screening, so D is NOT a criterion.
+Q_GEN_PSM_EPI_SCREEN_021 [M] A patient attends a clinic for an upper respiratory infection, and the physician takes the opportunity to also measure the patient's blood pressure. This form of screening is termed:
+   *A. Opportunistic screening
+    B. Mass screening
+    C. Multiphasic screening
+    D. Targeted (selective) screening
+   key=A ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Opportunistic screening tests a person who has contacted the health system for an unrelated reason, such as checking blood pressure during a visit for a cold. Mass screening covers a whole population, targeted or selective screening focuses on defined high-risk groups, and multiphasic screening applies several tests at one sitting, so the answer is A.
+Q_GEN_PSM_EPI_SCREEN_022 [H] Screening appears to improve survival simply because disease is diagnosed EARLIER, adding the interval between early detection and the usual clinical diagnosis to the measured survival time without postponing death. This spurious effect is called:
+    A. Length-time bias
+   *B. Lead-time bias
+    C. Volunteer (selection) bias
+    D. Overdiagnosis
+   key=B ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Lead-time bias occurs when earlier detection lengthens the measured time from diagnosis to death without actually changing the date of death, falsely inflating survival credited to screening. Length-time bias (A) is the over-representation of indolent cases, C is selection bias from healthy volunteers, and D is overdiagnosis, so the answer is B.
+Q_GEN_PSM_EPI_SCREEN_023 [H] Screening programmes preferentially detect slowly progressive, less aggressive cases that spend longer in the detectable preclinical phase, making screen-detected disease appear to have a better prognosis. This is known as:
+    A. Lead-time bias
+    B. Recall bias
+   *C. Length-time bias
+    D. Confounding
+   key=C ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Length-time bias arises because slowly growing tumours have a longer sojourn (detectable preclinical) phase and are therefore over-sampled at any screening round, making screen-detected disease look more benign than it truly is. Lead-time bias (A) is about earlier diagnosis, and overdiagnosis is its extreme form, so the answer is C.
+Q_GEN_PSM_EPI_SCREEN_024 [H] Screening detects a condition (for example some indolent prostate cancers) that would never have caused symptoms or death during the person's lifetime. This is best described as:
+    A. A false-positive result
+    B. Lead-time bias
+    C. Poor test sensitivity
+   *D. Overdiagnosis
+   key=D ref=Park's Textbook of Preventive and Social Medicine — Screening for Disease
+   concept: Overdiagnosis is the true-positive detection of disease that would never have become clinically significant during the person's life, as with some indolent prostate cancers. Because the disease is genuinely present it is NOT a false positive, yet it still leads to unnecessary treatment; it is the extreme of length-time bias, so the answer is D.
+Q_c1_089 [H] A test with fixed high sensitivity and specificity is applied to a population with VERY LOW disease prevalence. What happens to the positive predictive value (PPV)?
+    A. PPV increases
+   *B. PPV decreases
+    C. PPV is unchanged
+    D. PPV becomes 100%
+   key=B ref=Park's Textbook of PSM 27e, Screening / Validity
+   concept: PPV depends on prevalence: when prevalence is low, most positive results are false positives, so PPV falls even for a good test. Sensitivity and specificity are intrinsic to the test and do not change with prevalence; NPV rises when prevalence is low.
+Q_c1_090 [E] For a good SCREENING test (to detect disease early in apparently healthy people), which characteristic is most desirable?
+   *A. High sensitivity (few false negatives)
+    B. Low sensitivity
+    C. A high false-negative rate
+    D. High cost
+   key=A ref=Park's Textbook of PSM 27e, Screening
+   concept: Screening tests should be highly sensitive so that few true cases are missed (few false negatives). Confirmatory/diagnostic tests emphasize high specificity. Screening also follows the Wilson-Jungner criteria (important disease, latent stage, suitable test, accepted treatment, facilities available).
+
+=== PSM (Community Medicine) / Study designs; incidence vs prevalence
+Q_c1_086 [M] To study risk factors for a RARE cancer efficiently, which study design is most appropriate, and which measure of association does it yield?
+    A. Cohort study; relative risk
+   *B. Case-control study; odds ratio
+    C. Cross-sectional study; prevalence ratio
+    D. Randomized controlled trial; number needed to treat
+   key=B ref=Park's Textbook of Preventive & Social Medicine 27e, Epidemiology
+   concept: A case-control (retrospective) study is efficient for rare diseases: it starts with cases and controls and looks back at exposures, yielding an odds ratio. Cohort studies measure incidence and relative risk but are inefficient for rare outcomes.
+Q_c1_087 [E] The number of NEW cases of a disease occurring in a defined population over a specified period is called?
+    A. Prevalence
+   *B. Incidence
+    C. Secondary attack rate
+    D. Case fatality rate
+   key=B ref=Park's Textbook of PSM 27e, Epidemiology
+   concept: Incidence counts new cases over a period; prevalence counts all existing (old plus new) cases at a point or period. They are linked approximately by Prevalence = Incidence x Duration, so chronic diseases have high prevalence.
+
+=== PSM (Community Medicine) / Water/waste, biomedical waste, vital statistics
+Q_h3b_035 [H] A photograph shows colour-coded biomedical-waste bins in a hospital operating under India's Bio-Medical Waste Management Rules, 2016. Used needles, syringes with fixed needles and scalpel blades (sharps) should be discarded into which colour-coded, puncture-proof container?
+    A. A yellow bag
+    B. A red bag
+   *C. A white (translucent) puncture-proof container
+    D. A blue container
+   key=C ref=Bio-Medical Waste Management Rules, 2016 (India) - CONFIRM current amended schedule
+   concept: VERIFY: confirm against the CURRENT Bio-Medical Waste Management Rules 2016 (as amended) colour code before trusting this key, as categories are policy-set and periodically revised. As authored: sharps (needles, blades) go to a WHITE translucent puncture-proof container; yellow = anatomical/soiled/pathological waste; red = contaminated recyclable plastics (tubing, IV sets); blue = discarded glassware and metallic implants.
+
+[108 shown of 108 unverified in scope]

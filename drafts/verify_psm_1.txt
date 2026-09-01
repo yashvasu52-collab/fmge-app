@@ -1,0 +1,44 @@
+Q_PS_CAU_004 | del | duplicate of Q_PSM_ACB_005, which illustrates the same recall bias with a concrete example. The vignette is retained
+Q_PSM_CHI_002 | del | duplicate of Q_PSM_CHI_018, which gives the same neonatal share of infant deaths and additionally why it is now the limiting factor. The fuller item is retained
+Q_PSM_CON_011 | del | duplicate of Q_PSM_CON_003 on specific protection by immunisation being primary prevention. The first item is retained
+Q_PSM_CON_004 | del | duplicate of Q_PSM_CON_014, which applies the iceberg phenomenon to a serological survey and draws the control implication. The applied item is retained
+Q_PSM_CON_010 | del | duplicate of Q_PSM_CON_013 on rehabilitation being tertiary prevention. The item that names disability limitation is retained
+Q_PSM_ACB_003 | ok |
+Q_PSM_ACB_004 | ok |
+Q_PSM_ACB_005 | ok |
+Q_PSM_ACB_006 | ok |
+Q_PSM_ACB_008 | ok |
+Q_PS_CAU_001 | ok |
+Q_PS_CAU_002 | ok |
+Q_PS_CAU_003 | ok |
+Q_PS_CAU_005 | ok |
+Q_PS_CAU_006 | ok |
+Q_PS_CAU_007 | ok |
+Q_PS_CAU_008 | ok |
+Q_PS_CAU_009 | ok |
+Q_PS_CAU_010 | ok |
+Q_PSM_CHI_003 | ok |
+Q_PSM_CHI_004 | ok |
+Q_PSM_CHI_005 | ok |
+Q_PSM_CHI_006 | ok |
+Q_PSM_CHI_007 | ok |
+Q_PSM_CHI_008 | ok |
+Q_PSM_CHI_009 | ok |
+Q_PSM_CHI_010 | ok |
+Q_PSM_CHI_011 | ok |
+Q_PSM_CHI_012 | ok |
+Q_PSM_CHI_013 | ok |
+Q_PSM_CHI_015 | ok |
+Q_PSM_CHI_016 | ok |
+Q_PSM_CHI_017 | ok |
+Q_PSM_CHI_018 | ok |
+Q_PSM_CON_001 | ok |
+Q_PSM_CON_002 | ok |
+Q_PSM_CON_003 | ok |
+Q_PSM_CON_006 | ok |
+Q_PSM_CON_007 | ok |
+Q_PSM_CON_008 | ok |
+Q_PSM_CON_009 | ok |
+Q_PSM_CON_012 | ok |
+Q_PSM_CON_013 | ok |
+Q_PSM_CON_014 | ok |

@@ -1,0 +1,34 @@
+Q_OBG_PRO_004 | del | duplicate of Q_PYQ_FMGE_2025JANP1_108 on vesicovaginal fistula presenting as continuous urinary leakage after obstructed labour. The exam-recall item is retained and refiled to the urogynaecology topic
+Q_PYQ_FMGE_2025JANP1_108 | topic=Prolapse, urogynaecology & genital fistula | misfiled: an obstetric vesicovaginal fistula sat under "Antenatal care & normal labour" while the plan has a topic that names genital fistula explicitly
+Q_PYQ_FMGE_2025JANP2_129 | del | my earlier rewrite of this item to epidemic dropsy duplicated Q_PSM_NUT_013, which already asks which mustard oil adulterant causes it. Deleted
+Q_BC_IEM_001 | del | my earlier rewrite of this item to maple syrup urine disease duplicated Q_GEN_BIOCHEM_AA_016, which already covers branched-chain alpha-ketoacid dehydrogenase deficiency. Deleted
+Q_GEN_BIOCHEM_LIPID_003 | del | duplicate of Q_PYQ_FMGE_2025JULP2_046 on medium-chain acyl-CoA dehydrogenase deficiency presenting with non-ketotic hypoglycaemia. The exam-recall item is retained
+Q_AN_TH_002 | del | duplicate of Q_GEN_ANAT_THORAX_016 on why an aspirated foreign body enters the right main bronchus. The fuller item is retained
+Q_PY_RSP_009 | del | duplicate of Q_PY_OCT_001 on what shifts the oxyhaemoglobin dissociation curve to the right. The oxygen transport topic is the correct home and is retained
+Q_MED_NUT_015 | del | duplicate of Q_GEN_MED_RESP_TB_012 on isoniazid-induced peripheral neuropathy prevented by pyridoxine. The tuberculosis item is retained
+Q_MIC_NEI_003 | del | duplicate of Q_c1_052 on terminal complement deficiency causing recurrent Neisseria infection. The complement item is retained
+Q_PSM_VPD_009 | del | duplicate of Q_c1d_006 on a single sharp epidemic peak indicating a point-source outbreak; this item's stem was also garbled, opening "The epidemiological triad concept of an epidemic curve". The clean item is retained
+Q_PYQ_FMGE_2025JANP2_055 | topic=Nasal polyps, granulomatous disease & tumours of nose and PNS | misfiled: juvenile nasopharyngeal angiofibroma is a nasal tumour and sat under "Sinusitis, epistaxis, DNS"
+Q_MED_SEP_009 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_MED_PNA_015 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_GEN_ANAT_EMBRYO_004 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_AN_SK_006 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JULP2_109 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_AN_HN_001 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_BC_NUC_004 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_BC_OXP_006 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PS_MSE_005 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PS_DEL_002 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_ENT_NAS_014 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2024JAN_012 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JANP1_133 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_PHY_006 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_DX_010 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_DX_004 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_IND_001 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_MED_003 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_OBG_IND_012 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PSM_NUT_013 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PYQ_FMGE_2025JULP2_046 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_PY_OCT_001 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed
+Q_GEN_ANAT_THORAX_016 | ok | reviewed against a cross-topic duplicate candidate; answer, topic and reference confirmed

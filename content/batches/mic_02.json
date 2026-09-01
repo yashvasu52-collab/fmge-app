@@ -1,0 +1,732 @@
+{
+ "questions": [
+  {
+   "id": "Q_MIC_SPI_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "E",
+   "stem": "Treponema pallidum is best visualised by:",
+   "options": [
+    "Dark ground microscopy of exudate from a lesion",
+    "Gram stain",
+    "Ziehl-Neelsen stain",
+    "Routine culture"
+   ],
+   "correct": 0,
+   "concept": "T. pallidum is too slender to be seen on Gram stain and cannot be cultured on artificial media, so dark ground microscopy showing corkscrew motility, or PCR and serology, are used.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "M",
+   "stem": "VDRL and RPR tests for syphilis are:",
+   "options": [
+    "Non-treponemal tests useful for screening and monitoring treatment response",
+    "Confirmatory tests",
+    "Specific for treponemes",
+    "Unaffected by treatment"
+   ],
+   "correct": 0,
+   "concept": "Non-treponemal tests detect antibody to cardiolipin, become negative after successful treatment and so track response, but give biological false positives in pregnancy, SLE, leprosy and malaria. TPHA and FTA-ABS confirm and stay positive for life.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "M",
+   "stem": "The prozone phenomenon in VDRL testing causes:",
+   "options": [
+    "A false negative result due to antibody excess in secondary syphilis",
+    "A false positive",
+    "No effect",
+    "Increased sensitivity"
+   ],
+   "correct": 0,
+   "concept": "Excess antibody prevents lattice formation, giving a falsely negative undiluted test; serial dilution of the serum reveals the true positive. It occurs classically in secondary syphilis when titres are highest.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "E",
+   "stem": "The drug of choice for all stages of syphilis is:",
+   "options": [
+    "Benzathine penicillin G",
+    "Azithromycin",
+    "Ciprofloxacin",
+    "Metronidazole"
+   ],
+   "correct": 0,
+   "concept": "Penicillin remains uniformly effective with no documented resistance; neurosyphilis requires aqueous crystalline penicillin. Penicillin-allergic pregnant women must be desensitised as no alternative reliably protects the fetus.",
+   "reference": "KDT 8e, Penicillins",
+   "tags": [
+    "#high-yield",
+    "#DoC"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "M",
+   "stem": "The Jarisch-Herxheimer reaction after treating syphilis is caused by:",
+   "options": [
+    "Release of treponemal antigens causing fever, myalgia and worsening rash within hours",
+    "An allergic reaction to penicillin",
+    "Superinfection",
+    "Drug toxicity"
+   ],
+   "correct": 0,
+   "concept": "Massive spirochaete lysis releases lipoproteins triggering cytokine release with fever, chills and exacerbation of lesions in the first 24 hours. It is self-limiting and managed with antipyretics; it is not an allergy and treatment continues.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "M",
+   "stem": "Leptospira is best cultured in which medium?",
+   "options": [
+    "EMJH (Ellinghausen-McCullough-Johnson-Harris) medium",
+    "MacConkey agar",
+    "Blood agar",
+    "Lowenstein-Jensen medium"
+   ],
+   "correct": 0,
+   "concept": "Leptospires are fastidious aerobic spirochaetes grown in EMJH semisolid medium, though culture is slow. Diagnosis is usually by IgM ELISA, with the microscopic agglutination test as the reference standard.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "E",
+   "stem": "Lyme disease is caused by and transmitted by:",
+   "options": [
+    "Borrelia burgdorferi transmitted by Ixodes ticks",
+    "Borrelia recurrentis by lice",
+    "Leptospira by rodents",
+    "Treponema by sexual contact"
+   ],
+   "correct": 0,
+   "concept": "Lyme disease begins with erythema chronicum migrans, a target-shaped expanding rash, followed by neurological, cardiac and arthritic manifestations. Doxycycline is first line in adults.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "H",
+   "stem": "Relapsing fever due to Borrelia recurrentis shows recurrent febrile episodes because of:",
+   "options": [
+    "Antigenic variation of surface proteins evading the immune response",
+    "Reinfection",
+    "Drug resistance",
+    "Immunosuppression"
+   ],
+   "correct": 0,
+   "concept": "Programmed rearrangement of variable major protein genes generates new antigenic variants after each antibody response, producing successive waves of bacteraemia and fever until the immune system exhausts the variant repertoire.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "H",
+   "stem": "Congenital syphilis manifestations include all EXCEPT:",
+   "options": [
+    "Cataract",
+    "Hutchinson teeth",
+    "Interstitial keratitis",
+    "Sensorineural deafness"
+   ],
+   "correct": 0,
+   "concept": "Hutchinson triad is notched incisors, interstitial keratitis and eighth nerve deafness, with saddle nose, saber shins and mulberry molars. Cataract is characteristic of congenital rubella, not syphilis.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_SPI_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Spirochaetes: syphilis, leptospira, borrelia",
+   "difficulty": "M",
+   "stem": "The chancre of primary syphilis is characteristically:",
+   "options": [
+    "Single, painless and indurated with a clean base",
+    "Multiple and painful",
+    "Soft with ragged edges",
+    "Purulent"
+   ],
+   "correct": 0,
+   "concept": "The hard chancre appears about three weeks after exposure and heals spontaneously, with painless rubbery lymphadenopathy. Chancroid caused by Haemophilus ducreyi produces multiple painful soft ulcers with tender suppurative nodes.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Spirochaetes",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "E",
+   "stem": "Rabies virus reaches the central nervous system by:",
+   "options": [
+    "Retrograde axonal transport along peripheral nerves",
+    "Haematogenous spread",
+    "Lymphatic spread",
+    "Direct extension"
+   ],
+   "correct": 0,
+   "concept": "The virus binds acetylcholine receptors at the neuromuscular junction and travels centripetally along axons, which is why it evades the immune system and why post-exposure prophylaxis works only before the virus reaches nerves.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Rhabdoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "M",
+   "stem": "Post-exposure prophylaxis for a category III rabies exposure requires:",
+   "options": [
+    "Thorough wound washing, rabies immunoglobulin infiltrated into the wound, and a full vaccine course",
+    "Vaccine alone",
+    "Immunoglobulin alone",
+    "Observation of the animal only"
+   ],
+   "correct": 0,
+   "concept": "Category III means transdermal bites, scratches with bleeding or mucosal contamination, requiring immediate washing with soap and water for 15 minutes, local infiltration of immunoglobulin and vaccination. Category II needs washing and vaccine only.",
+   "reference": "Park 27e, Rabies",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "M",
+   "stem": "The intradermal rabies vaccination regimen is preferred in India because it:",
+   "options": [
+    "Uses less vaccine at lower cost with equivalent immunogenicity",
+    "Is more immunogenic",
+    "Requires fewer visits",
+    "Does not need immunoglobulin"
+   ],
+   "correct": 0,
+   "concept": "Intradermal regimens use one-fifth of the intramuscular dose per site, greatly reducing cost in a high-burden setting, and are endorsed by WHO. Immunoglobulin is still required for category III exposures.",
+   "reference": "Park 27e, Rabies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "E",
+   "stem": "Poliovirus is transmitted principally by:",
+   "options": [
+    "The faeco-oral route",
+    "Droplet inhalation",
+    "Vector bites",
+    "Blood transfusion"
+   ],
+   "correct": 0,
+   "concept": "Poliovirus replicates in the oropharynx and gut, spreading faeco-orally, so sanitation and immunisation are central to control. Fewer than 1% of infections cause paralytic disease, which is why surveillance depends on acute flaccid paralysis reporting.",
+   "reference": "Park 27e, Poliomyelitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "M",
+   "stem": "Vaccine-associated paralytic poliomyelitis is a risk of:",
+   "options": [
+    "Oral polio vaccine, because it contains live attenuated virus that can revert",
+    "Inactivated polio vaccine",
+    "Both equally",
+    "Neither"
+   ],
+   "correct": 0,
+   "concept": "OPV can revert to neurovirulence, causing VAPP and circulating vaccine-derived polioviruses, which is why IPV has been introduced into the routine schedule and the endgame strategy phases out live vaccine.",
+   "reference": "Park 27e, Poliomyelitis",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "M",
+   "stem": "The advantage of oral polio vaccine over inactivated vaccine in an endemic setting is that it:",
+   "options": [
+    "Induces gut mucosal immunity and provides contact immunity to unvaccinated persons",
+    "Is safer",
+    "Is more heat stable",
+    "Requires no cold chain"
+   ],
+   "correct": 0,
+   "concept": "OPV produces secretory IgA in the intestine interrupting wild virus transmission, and vaccine virus spreads to close contacts extending herd protection. IPV produces excellent humoral but limited intestinal immunity.",
+   "reference": "Park 27e, Poliomyelitis",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "E",
+   "stem": "Hand, foot and mouth disease in children is most commonly caused by:",
+   "options": [
+    "Coxsackievirus A16 and enterovirus 71",
+    "Poliovirus",
+    "Measles virus",
+    "Parvovirus B19"
+   ],
+   "correct": 0,
+   "concept": "Coxsackie A16 causes a self-limiting illness with oral ulcers and vesicles on hands and feet, while enterovirus 71 is associated with more severe neurological complications including brainstem encephalitis.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Picornaviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "H",
+   "stem": "Negri bodies are absent in what proportion of rabies cases, limiting their diagnostic value?",
+   "options": [
+    "About 20 to 30 percent",
+    "None",
+    "Ninety percent",
+    "Fifty percent"
+   ],
+   "correct": 0,
+   "concept": "Negri bodies are demonstrable in roughly 70 to 80% of cases, so their absence does not exclude rabies. Direct fluorescent antibody testing of brain tissue is the reference standard, with antemortem testing of saliva, skin biopsy and CSF by PCR.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Rhabdoviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "H",
+   "stem": "Herpangina, with vesicles on the soft palate and fever in a child, is caused by:",
+   "options": [
+    "Coxsackievirus group A",
+    "Herpes simplex virus",
+    "Adenovirus",
+    "Rhinovirus"
+   ],
+   "correct": 0,
+   "concept": "Despite the name, herpangina is enteroviral, not herpetic, producing painful posterior oropharyngeal vesicles and ulcers. Herpetic gingivostomatitis affects the anterior mouth and gums with marked gingival inflammation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Picornaviruses",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_RAB_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Rabies, polio & enteroviruses",
+   "difficulty": "M",
+   "stem": "Rabies is essentially 100 percent fatal once symptoms appear, which is why:",
+   "options": [
+    "Prompt post-exposure prophylaxis and pre-exposure vaccination of high-risk groups are essential",
+    "Treatment is curative",
+    "Vaccination is unnecessary",
+    "Observation alone is adequate"
+   ],
+   "correct": 0,
+   "concept": "There is no effective treatment once encephalitis develops, so prevention is everything: wound care, immunoglobulin and vaccine after exposure, and pre-exposure vaccination for veterinarians, animal handlers and laboratory workers.",
+   "reference": "Park 27e, Rabies",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_001",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "E",
+   "stem": "The single most effective measure to prevent hospital-acquired infection is:",
+   "options": [
+    "Hand hygiene",
+    "Prophylactic antibiotics",
+    "Isolation of all patients",
+    "Ultraviolet sterilisation of wards"
+   ],
+   "correct": 0,
+   "concept": "Hand hygiene at the WHO five moments, using alcohol-based rub or soap and water, remains the single most effective and cost-effective intervention. Compliance rather than knowledge is usually the limiting factor.",
+   "reference": "Park 27e, Hospital Acquired Infection",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_002",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "M",
+   "stem": "The commonest hospital-acquired infection overall is:",
+   "options": [
+    "Urinary tract infection, mostly catheter-associated",
+    "Surgical site infection",
+    "Pneumonia",
+    "Bloodstream infection"
+   ],
+   "correct": 0,
+   "concept": "Catheter-associated urinary tract infection is the commonest, preventable by avoiding unnecessary catheterisation, aseptic insertion, closed drainage and prompt removal. Ventilator-associated pneumonia carries the highest mortality.",
+   "reference": "Park 27e, Hospital Acquired Infection",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_003",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "M",
+   "stem": "Under Indian Biomedical Waste Management Rules, anatomical waste and soiled waste are discarded in which colour bag?",
+   "options": [
+    "Yellow",
+    "Red",
+    "White",
+    "Blue"
+   ],
+   "correct": 0,
+   "concept": "Yellow takes human and animal anatomical, soiled and expired medicinal waste for incineration. Red takes contaminated recyclable plastics, white puncture-proof containers take sharps, and blue takes glassware and metallic implants.",
+   "reference": "BMW Management Rules 2016; Park 27e",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_004",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "E",
+   "stem": "Needles and sharps are discarded into:",
+   "options": [
+    "A white translucent puncture-proof container",
+    "A yellow bag",
+    "A red bag",
+    "A blue bag"
+   ],
+   "correct": 0,
+   "concept": "Sharps go into white puncture-proof, leak-proof, tamper-proof containers. Needles must never be recapped by two hands; a needle destroyer or single-handed scoop technique is used to prevent needlestick injury.",
+   "reference": "BMW Management Rules 2016",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_005",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "M",
+   "stem": "The autoclave is validated as effective by:",
+   "options": [
+    "A biological indicator using spores of Geobacillus stearothermophilus",
+    "Colour change of tape only",
+    "Visual inspection",
+    "Time recording alone"
+   ],
+   "correct": 0,
+   "concept": "Chemical indicators such as autoclave tape show only that the item was processed, whereas biological indicators using heat-resistant spores prove sterilising conditions were achieved - the definitive validation.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Sterilisation and Disinfection",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_006",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "M",
+   "stem": "Standard precautions are applied:",
+   "options": [
+    "To all patients regardless of known infection status",
+    "Only to HIV positive patients",
+    "Only in operating theatres",
+    "Only during outbreaks"
+   ],
+   "correct": 0,
+   "concept": "Standard precautions treat all blood and body fluids as potentially infectious, comprising hand hygiene, appropriate personal protective equipment, safe injection practice and safe waste handling, supplemented by transmission-based precautions when indicated.",
+   "reference": "Park 27e, Hospital Acquired Infection",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_007",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "E",
+   "stem": "Following a needlestick injury from a known HIV-positive source, post-exposure prophylaxis should be started:",
+   "options": [
+    "As soon as possible, ideally within 2 hours and certainly within 72 hours",
+    "After 1 week",
+    "Only if seroconversion occurs",
+    "After 30 days"
+   ],
+   "correct": 0,
+   "concept": "PEP with a three-drug regimen for 28 days is most effective when started within hours; efficacy falls sharply with delay and it is not offered beyond 72 hours. Baseline and follow-up testing is done at 6 weeks, 3 and 6 months.",
+   "reference": "NACO PEP Guidelines",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_008",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "H",
+   "stem": "The risk of transmission after a single percutaneous needlestick from an infected source is highest for:",
+   "options": [
+    "Hepatitis B",
+    "Hepatitis C",
+    "HIV",
+    "All are equal"
+   ],
+   "correct": 0,
+   "concept": "Approximate risks are 30% for hepatitis B in a non-immune person, 3% for hepatitis C and 0.3% for HIV - which is why hepatitis B vaccination of health workers is mandatory and highly effective.",
+   "reference": "Park 27e, Hospital Acquired Infection",
+   "tags": [
+    "#high-yield",
+    "#PYQ"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_009",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "H",
+   "stem": "High-level disinfection of endoscopes is usually achieved with:",
+   "options": [
+    "Glutaraldehyde or ortho-phthalaldehyde",
+    "Seventy percent alcohol",
+    "Soap and water",
+    "Hypochlorite 1 percent"
+   ],
+   "correct": 0,
+   "concept": "Heat-sensitive instruments that contact mucous membranes are semi-critical items requiring high-level disinfection, killing all organisms except large numbers of spores. Critical items entering sterile tissue must be sterilised, usually by autoclaving.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Sterilisation and Disinfection",
+   "tags": [
+    "#high-yield"
+   ]
+  },
+  {
+   "id": "Q_MIC_HAI_010",
+   "part": "A",
+   "subject": "Microbiology",
+   "source": "ai",
+   "verified": "Y",
+   "verified_by": "model-review",
+   "verified_on": "2026-09-01",
+   "topic": "Hospital-acquired infection, biomedical waste & infection control",
+   "difficulty": "M",
+   "stem": "One percent sodium hypochlorite is recommended for:",
+   "options": [
+    "Decontaminating blood spills and laboratory surfaces",
+    "Skin antisepsis",
+    "Sterilising instruments",
+    "Hand rub"
+   ],
+   "correct": 0,
+   "concept": "Hypochlorite is a cheap broad-spectrum disinfectant effective against HIV and hepatitis viruses, used for spills and surfaces, but it corrodes metals and is inactivated by organic matter, so gross soiling is removed first.",
+   "reference": "Ananthanarayan & Paniker Microbiology 11e, Sterilisation and Disinfection",
+   "tags": [
+    "#high-yield"
+   ]
+  }
+ ]
+}

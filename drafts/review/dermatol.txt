@@ -1,0 +1,400 @@
+
+=== Dermatology / Leprosy (types, lepra reactions)
+Q_GEN_DERM_LEPROSY_001 [E] Leprosy (Hansen's disease) is caused by which of the following organisms?
+    A. Mycobacterium tuberculosis
+   *B. Mycobacterium leprae
+    C. Mycobacterium ulcerans
+    D. Mycobacterium marinum
+   key=B ref=IADVL Textbook of Dermatology — Leprosy (Hansen's Disease)
+   concept: Leprosy is caused by Mycobacterium leprae, an obligate intracellular acid-fast bacillus and the first bacterium identified as a cause of human disease (Hansen, 1873). It cannot be grown on artificial media (propagated in the mouse foot-pad and nine-banded armadillo), has the longest generation time of any bacterium (~12-14 days), and is thermophile-averse, favouring cool superficial skin and peripheral nerves. Distractors: M. ulcerans causes Buruli ulcer, M. marinum causes fish-tank/swimming-pool granuloma, and M. tuberculosis causes tuberculosis.
+Q_GEN_DERM_LEPROSY_002 [E] Because M. leprae prefers cooler tissues, leprosy lesions characteristically SPARE which of the following relatively warm body areas?
+    A. Ear lobes
+    B. Dorsum of the hands
+   *C. Axilla
+    D. Extensor surface of the forearm
+   key=C ref=Neena Khanna — Illustrated Synopsis of Dermatology & STD, Leprosy
+   concept: M. leprae grows optimally at cooler temperatures (~27-30°C), so lesions favour cool, superficial, acral sites: ear lobes, dorsa of hands and feet, extensor limbs, face, and nerves where they run superficially over bone. Warm, well-perfused, covered or midline regions are characteristically spared — the axillae, groin, perineum, hairy scalp, and the warm midline of the back (sometimes called 'immune zones'). Recognising this temperature-dependent distribution helps separate leprosy from other hypopigmenting dermatoses.
+Q_GEN_DERM_LEPROSY_003 [M] In tuberculoid (TT) leprosy on the Ridley-Jopling spectrum, the host immune response is BEST characterised as:
+   *A. Strong Th1 cell-mediated response with well-formed epithelioid granulomas and a low (paucibacillary) load
+    B. Strong Th2 humoral response with foamy macrophages and a high bacillary load
+    C. Complete absence of cell-mediated immunity with abundant bacilli in skin
+    D. Predominant IgE-driven response with a heavy eosinophilic infiltrate
+   key=A ref=IADVL Textbook of Dermatology — Immunology of Leprosy / Ridley-Jopling Spectrum
+   concept: The Ridley-Jopling spectrum is governed by cell-mediated immunity. The tuberculoid (TT) pole shows a vigorous Th1 response (IFN-γ, IL-2) producing well-formed epithelioid-cell granulomas with Langhans giant cells and dense lymphocytes, few or no demonstrable bacilli (paucibacillary), and a positive lepromin test. The lepromatous (LL) pole is the mirror image — Th2 dominance, foamy (Virchow) macrophages stuffed with bacilli, and a negative lepromin test. Leprosy is not IgE/eosinophil driven, excluding option D.
+Q_GEN_DERM_LEPROSY_004 [M] A skin biopsy in lepromatous leprosy (LL) would MOST characteristically show:
+    A. Well-formed epithelioid granulomas with only rare bacilli
+    B. Caseating necrosis surrounded by Langhans giant cells
+    C. A non-specific perivascular lymphocytic infiltrate only
+   *D. Sheets of foamy macrophages (Virchow/lepra cells) laden with acid-fast bacilli, separated from the epidermis by a clear grenz zone
+   key=D ref=IADVL Textbook of Dermatology — Histopathology of Leprosy
+   concept: LL leprosy reflects failed cell-mediated immunity (Th2 skew): macrophages ingest but cannot kill M. leprae, becoming foamy 'Virchow/lepra cells' packed with bacilli in clumps (globi), giving a very high bacillary index. A clear subepidermal band of uninvolved dermis (the 'grenz zone') separates the infiltrate from a flattened, atrophic epidermis. Option A describes the tuberculoid pole; caseation (option B) is a feature of tuberculosis, not leprosy; option C is too non-specific for the classic LL picture.
+Q_GEN_DERM_LEPROSY_005 [H] Which statement about the lepromin (Mitsuda) test is CORRECT?
+    A. It is a diagnostic test that is positive in all forms of leprosy
+   *B. It is positive in tuberculoid (TT) leprosy and negative in lepromatous (LL) leprosy, reflecting cell-mediated immunity, and is used for classification/prognosis rather than diagnosis
+    C. It is positive in lepromatous and negative in tuberculoid leprosy
+    D. It becomes positive only during a type 2 (ENL) reaction
+   key=B ref=Neena Khanna — Illustrated Synopsis of Dermatology & STD, Lepromin Test
+   concept: The lepromin test measures the host's cell-mediated immunity to M. leprae antigen, not the presence of infection, so it is NOT diagnostic — even healthy immunocompetent contacts can be positive. It is strongly positive at the tuberculoid (TT) pole (intact CMI, granuloma formation) and negative at the lepromatous (LL) pole (immunological anergy), grading progressively across BT-BB-BL. The late Mitsuda reaction (read at ~21-28 days) is used for classification and prognosis, making option B correct and A/C/D wrong.
+Q_GEN_DERM_LEPROSY_006 [E] According to WHO, diagnosis of leprosy rests on at least one of three cardinal signs. Which of the following is NOT one of these cardinal signs?
+    A. A hypopigmented or reddish skin patch with definite loss of sensation
+    B. A thickened or enlarged peripheral nerve with loss of sensory/motor function
+   *C. A positive lepromin (Mitsuda) test
+    D. Demonstration of acid-fast bacilli in a slit-skin smear
+   key=C ref=WHO Guidelines for the Diagnosis, Treatment and Prevention of Leprosy (2018)
+   concept: WHO defines the diagnosis of leprosy by the presence of at least one of THREE cardinal signs: (1) a hypopigmented or reddish patch with definite sensory loss; (2) a thickened or enlarged peripheral nerve with loss of sensation and/or weakness of the muscles it supplies; and (3) presence of acid-fast bacilli in a slit-skin smear. The lepromin test measures host immunity, not infection, so it is used for classification and prognosis but is explicitly NOT a diagnostic cardinal sign — making option C the exception.
+Q_GEN_DERM_LEPROSY_007 [M] A leprosy patient has a thickened ulnar nerve at the elbow, sensory loss over the little and medial half of the ring finger, and hyperextension at the MCP joints with flexion at the IP joints of the 4th and 5th fingers. This deformity is:
+   *A. Ulnar (partial) claw hand
+    B. Ape-thumb deformity from median nerve palsy
+    C. Wrist drop from radial nerve palsy
+    D. Foot drop from common peroneal palsy
+   key=A ref=IADVL Textbook of Dermatology — Nerve Involvement and Deformities in Leprosy
+   concept: The ulnar nerve is the most commonly involved nerve trunk in leprosy; damage where it lies superficially at the elbow causes sensory loss over the little and medial ring finger and wasting/weakness of the intrinsic hand muscles (interossei, medial two lumbricals, hypothenar). Loss of the medial lumbricals produces the 'partial claw hand' — MCP hyperextension with IP flexion of the 4th and 5th fingers. A combined ulnar+median palsy extends clawing to all fingers ('complete claw'); radial palsy gives wrist drop; peroneal gives foot drop.
+Q_GEN_DERM_LEPROSY_008 [M] A leprosy patient develops inability to dorsiflex and evert the foot, a high-stepping gait, and sensory loss over the dorsum of the foot. The nerve MOST likely involved is the:
+    A. Posterior tibial nerve
+    B. Sural nerve
+    C. Femoral nerve
+   *D. Common peroneal (lateral popliteal) nerve
+   key=D ref=IADVL Textbook of Dermatology — Peripheral Nerve Involvement in Leprosy
+   concept: The common peroneal (lateral popliteal) nerve is frequently thickened in leprosy as it winds superficially around the neck of the fibula — a cool, exposed site. Its involvement weakens dorsiflexion and eversion, producing foot drop with a compensatory high-stepping gait and sensory loss over the dorsum of the foot and lateral leg. The posterior tibial nerve supplies the sole, so its damage instead causes plantar anaesthesia, clawing of toes, and trophic plantar ulcers. The sural nerve is purely sensory; the femoral nerve is not a leprosy predilection site.
+Q_GEN_DERM_LEPROSY_009 [H] Which peripheral nerve, commonly thickened in leprosy, is a PURELY SENSORY nerve that can often be seen and rolled beneath the skin as it crosses the sternocleidomastoid?
+    A. Facial nerve
+   *B. Greater auricular nerve
+    C. Ulnar nerve
+    D. Radial cutaneous nerve
+   key=B ref=Neena Khanna — Illustrated Synopsis of Dermatology & STD, Nerve Examination in Leprosy
+   concept: Nerves commonly thickened in leprosy include the ulnar, median, common peroneal, posterior tibial, radial cutaneous, facial and greater auricular nerves. The greater auricular nerve is a purely sensory branch of the cervical plexus (C2-C3) that runs superficially across the sternocleidomastoid — when enlarged it can be both seen and palpably rolled under the skin, a classic bedside sign. The facial nerve is motor (its zygomatic branch damage causes lagophthalmos); the ulnar and radial cutaneous are mixed/limb nerves and are not the answer here.
+Q_GEN_DERM_LEPROSY_010 [M] A leprosy patient develops a painless, deep, punched-out ulcer over a metatarsal head on the sole. The PRIMARY underlying mechanism is:
+    A. Ischaemia due to a small-vessel vasculitis
+    B. Direct bacillary destruction of the skin
+   *C. Loss of protective (pain) sensation leading to repeated unnoticed trauma
+    D. Immune-complex deposition in dermal vessels
+   key=C ref=IADVL Textbook of Dermatology — Disability and Trophic Ulcers in Leprosy
+   concept: Trophic (neuropathic/plantar) ulcers in leprosy arise from anaesthesia — loss of protective pain and pressure sensation (posterior tibial nerve damage) means repeated trauma over weight-bearing points (metatarsal heads, heel) goes unnoticed, producing painless, deep, punched-out ulcers. They are a marker of established nerve damage and disability, not active infection or vasculitis. Management centres on protective/customised footwear, meticulous wound care, off-loading and preventing further trauma, not on antibacterial escalation alone.
+Q_GEN_DERM_LEPROSY_011 [M] The WHO multidrug therapy (MDT) regimen classically used for adult PAUCIBACILLARY (PB) leprosy consists of:
+   *A. Rifampicin 600 mg once monthly (supervised) plus dapsone 100 mg daily, for 6 months
+    B. Rifampicin 600 mg once monthly plus dapsone 100 mg daily plus clofazimine, for 12 months
+    C. Dapsone 100 mg daily alone for 6 months
+    D. Rifampicin 600 mg daily plus dapsone 100 mg daily for 6 months
+   key=A ref=WHO Guidelines for the Diagnosis, Treatment and Prevention of Leprosy (2018); NLEP guidelines
+   concept: The classic WHO adult PB MDT is rifampicin 600 mg once monthly (supervised) plus dapsone 100 mg daily, given for 6 months. Rifampicin is given monthly (not daily) to limit toxicity and cost while retaining potent bactericidal effect. IMPORTANT change-prone program fact: WHO's 2018 guideline recommends a UNIFORM three-drug regimen (adding clofazimine) for BOTH PB and MB, so many current NLEP programmes now use rifampicin+dapsone+clofazimine for PB too — verify against the current WHO/NLEP edition before quoting.
+Q_GEN_DERM_LEPROSY_012 [M] The standard WHO multidrug therapy (MDT) for adult MULTIBACILLARY (MB) leprosy is:
+    A. Rifampicin monthly plus dapsone daily for 6 months
+    B. Rifampicin daily plus dapsone daily plus clofazimine daily for 12 months
+    C. Dapsone plus clofazimine daily for 24 months
+   *D. Rifampicin 600 mg monthly (supervised) + clofazimine 300 mg monthly (supervised) + clofazimine 50 mg daily + dapsone 100 mg daily, for 12 months
+   key=D ref=WHO Guidelines for the Diagnosis, Treatment and Prevention of Leprosy (2018); NLEP guidelines
+   concept: The WHO adult MB MDT is: rifampicin 600 mg once monthly (supervised) + clofazimine 300 mg once monthly (supervised), together with clofazimine 50 mg daily + dapsone 100 mg daily, given for 12 months. The monthly rifampicin and monthly clofazimine are the supervised 'pulse' doses. The older MB regimen ran for 24 months but was shortened to 12 months. Note duration/regimen details are periodically revised — verify against the current WHO/NLEP edition. Option A is the PB regimen; rifampicin is monthly, not daily (excluding B).
+Q_GEN_DERM_LEPROSY_013 [H] A patient has a SINGLE skin lesion of leprosy with no peripheral nerve trunk involvement. Which single-dose regimen has been used by WHO for this presentation?
+    A. Rifampicin + dapsone + clofazimine as a single combined dose
+   *B. Rifampicin 600 mg + ofloxacin 400 mg + minocycline 100 mg (ROM) as a single dose
+    C. Dapsone 100 mg as a single dose
+    D. Rifampicin 600 mg as a single dose alone
+   key=B ref=WHO Guidelines for the Diagnosis, Treatment and Prevention of Leprosy (2018)
+   concept: For single-lesion paucibacillary leprosy (one patch, no nerve trunk involvement), WHO previously endorsed a single supervised dose of ROM: Rifampicin 600 mg + Ofloxacin 400 mg + Minocycline 100 mg. Change-prone caveat: current WHO (2018) guidance favours standard 6-month PB MDT even for single lesions in many programmes, so single-dose ROM is now of limited/declining use — verify against the current edition. Ofloxacin and minocycline (with clarithromycin) also serve as second-line agents for rifampicin resistance or intolerance.
+Q_GEN_DERM_LEPROSY_014 [M] A borderline leprosy patient on MDT develops acute inflammation of existing skin lesions together with a NEW motor deficit from acute neuritis (a type 1 reversal reaction). The most appropriate first-line treatment is:
+    A. Stop MDT and start thalidomide
+    B. High-dose clofazimine alone
+   *C. Systemic corticosteroids (e.g., prednisolone) while continuing MDT
+    D. NSAIDs alone with observation
+   key=C ref=IADVL Textbook of Dermatology — Lepra Reactions (Type 1 / Reversal Reaction)
+   concept: Type 1 (reversal) reactions are delayed cell-mediated (type IV) immunological upgrades occurring in borderline leprosy, causing acute inflammation of existing lesions and — critically — acute neuritis that can cause permanent nerve damage. Because deficits may become irreversible, first-line treatment is systemic corticosteroids (e.g., prednisolone, tapered over several weeks to months) to reduce nerve inflammation, WHILE antileprosy MDT is continued uninterrupted. Thalidomide (option A) is reserved for type 2/ENL reactions, not type 1; NSAIDs/clofazimine alone are inadequate for neuritis.
+Q_GEN_DERM_LEPROSY_015 [M] Erythema nodosum leprosum (type 2 lepra reaction) is BEST characterised as:
+   *A. An immune-complex-mediated (type III hypersensitivity) reaction seen in lepromatous/borderline-lepromatous leprosy, with crops of tender erythematous nodules, fever and systemic features
+    B. A type IV cell-mediated reaction occurring only in tuberculoid leprosy
+    C. An IgE-mediated type I hypersensitivity reaction
+    D. Simple bacterial abscess formation from secondary infection
+   key=A ref=IADVL Textbook of Dermatology — Lepra Reactions (Type 2 / Erythema Nodosum Leprosum)
+   concept: Erythema nodosum leprosum (ENL, type 2 reaction) is an immune-complex-mediated (type III hypersensitivity) phenomenon occurring in high-bacillary-load forms (LL and BL), driven by antigen release and circulating immune complexes with a neutrophilic dermal infiltrate. It presents with recurrent crops of tender, erythematous subcutaneous nodules plus systemic features — fever, malaise, arthralgia, iridocyclitis, orchitis, lymphadenopathy and neuritis. Type 1 reactions, by contrast, are type IV cell-mediated events seen in borderline disease, distinguishing them from ENL.
+Q_GEN_DERM_LEPROSY_016 [H] Thalidomide is highly effective for severe, recurrent erythema nodosum leprosum, but its use is ABSOLUTELY contraindicated in which situation?
+    A. Elderly male patients
+    B. Patients already receiving clofazimine
+    C. Patients with coexisting diabetes mellitus
+   *D. Women of child-bearing potential / pregnancy, owing to severe teratogenicity
+   key=D ref=WHO Guidelines for the Diagnosis, Treatment and Prevention of Leprosy — Management of ENL
+   concept: Thalidomide is very effective for severe, recurrent or steroid-dependent ENL (type 2 reaction), acting largely through TNF-α suppression. It is ABSOLUTELY contraindicated in pregnancy and in women of child-bearing potential without stringent contraception because it is a potent teratogen causing phocomelia and other limb-reduction defects (the historic thalidomide disaster). Other adverse effects include peripheral neuropathy, drowsiness and constipation. Safer alternatives for ENL include systemic corticosteroids and high-dose clofazimine, especially in women who may conceive.
+Q_GEN_DERM_LEPROSY_017 [M] The most important dose-related adverse effect of dapsone, especially in a G6PD-deficient patient, is:
+    A. Reddish-black skin hyperpigmentation
+   *B. Haemolytic anaemia (with methaemoglobinaemia)
+    C. Orange discoloration of urine and sweat
+    D. Symmetrical peripheral sensory neuropathy
+   key=B ref=IADVL Textbook of Dermatology — Antileprosy Drugs and Adverse Effects (Dapsone)
+   concept: Dapsone characteristically produces dose-related oxidative haemolysis and methaemoglobinaemia, which are markedly worse in G6PD-deficient individuals — so G6PD status should be checked before starting where feasible. Other dapsone effects include dapsone hypersensitivity syndrome (a DRESS-like reaction weeks after starting) and agranulocytosis. Reddish-black skin pigmentation (option A) is caused by clofazimine; orange discoloration of body fluids (option C) is caused by rifampicin; significant peripheral neuropathy (option D) is not a typical dapsone effect.
+Q_GEN_DERM_LEPROSY_018 [H] About five weeks after starting MDT, a leprosy patient develops fever, a widespread morbilliform rash, facial oedema, generalised lymphadenopathy, hepatitis and marked eosinophilia. The MOST likely cause is:
+    A. Type 1 (reversal) lepra reaction
+    B. Erythema nodosum leprosum (type 2 reaction)
+   *C. Dapsone hypersensitivity syndrome
+    D. Rifampicin-induced flu-like syndrome
+   key=C ref=IADVL Textbook of Dermatology — Dapsone Hypersensitivity (Dapsone Syndrome)
+   concept: Dapsone hypersensitivity syndrome (a DRESS-type reaction) typically appears 4-6 weeks after starting dapsone and presents with fever, a morbilliform or exfoliative rash, facial oedema, lymphadenopathy, hepatitis and eosinophilia (sometimes a mononucleosis-like picture). Management is IMMEDIATE dapsone withdrawal plus systemic corticosteroids; untreated it can be fatal. It is distinguished from lepra reactions, which involve inflammation of skin lesions/nerves rather than a diffuse drug-rash morphology, and from rifampicin's transient flu-like syndrome seen with intermittent dosing.
+Q_GEN_DERM_LEPROSY_019 [E] A well-known and largely reversible adverse effect of clofazimine used in MDT is:
+   *A. Reddish-brown to bluish-black hyperpigmentation of the skin and lesions
+    B. Haemolytic anaemia in G6PD deficiency
+    C. Nephrotoxicity
+    D. Irreversible ototoxicity
+   key=A ref=Neena Khanna — Illustrated Synopsis of Dermatology & STD, Antileprosy Drugs (Clofazimine)
+   concept: Clofazimine characteristically causes a dose-dependent reddish-brown to bluish-black discoloration of the skin (most marked over lesions and sun-exposed areas), along with dryness/ichthyosis, and reddish discoloration of urine, sweat and conjunctivae; this pigmentation is cosmetically distressing but reversible over months to years after stopping and is a common cause of poor compliance. High doses can also cause GI/enteropathy effects. Haemolysis (option B) is a dapsone effect; nephrotoxicity and ototoxicity are not typical MDT adverse effects.
+Q_GEN_DERM_LEPROSY_020 [H] In the WHO disability grading for leprosy, GRADE 2 disability of the hand or foot refers to:
+    A. No anaesthesia and no visible deformity
+    B. Anaesthesia present but no visible deformity or damage
+    C. Loss of eyebrows (madarosis) only
+   *D. Visible deformity or damage of the hand/foot (e.g., ulcer, claw hand, foot drop, resorption)
+   key=D ref=WHO Guidelines for the Diagnosis, Treatment and Prevention of Leprosy — Disability Grading
+   concept: WHO disability grading for hands and feet: Grade 0 = no anaesthesia and no visible deformity/damage; Grade 1 = loss of protective sensation (anaesthesia) present but NO visible deformity or damage; Grade 2 = VISIBLE deformity or damage — e.g., trophic ulcer, claw hand, foot drop, or resorption/shortening of digits. For the eye: Grade 1 = eye problems present but vision not severely affected; Grade 2 = severe visual impairment, lagophthalmos, or corneal changes. The Grade 2 disability rate is a key programme monitoring indicator.
+Q_GEN_DERM_LEPROSY_021 [E] A child presents with a hypopigmented patch. Which single feature would MOST strongly favour leprosy over pityriasis alba or vitiligo?
+    A. Fine surface scaling within the patch
+   *B. Definite loss of sensation within the patch
+    C. Complete, chalky-white depigmentation
+    D. Location on the cheeks
+   key=B ref=Neena Khanna — Illustrated Synopsis of Dermatology & STD, Differential Diagnosis of Hypopigmented Macules
+   concept: The key discriminator of a leprosy patch is DEFINITE loss of sensation (touch, temperature and/or pain) within it, often accompanied by dryness (loss of sweating), loss of hair, and sometimes a palpably thickened feeding nerve. Vitiligo is chalky-white DEPIGMENTATION with entirely intact sensation; pityriasis alba shows scaly HYPOpigmentation with intact sensation, typically on children's cheeks. Other sensation-intact mimics include pityriasis versicolor, post-inflammatory hypopigmentation and naevus depigmentosus — none of which is anaesthetic.
+Q_GEN_DERM_LEPROSY_022 [H] A patient with a history of prolonged dapsone monotherapy develops multiple shiny, well-defined, dome-shaped cutaneous and subcutaneous nodules on apparently normal skin; smears show a very high bacillary load with spindle-shaped histiocytes. The diagnosis is:
+    A. Erythema nodosum leprosum
+    B. Borderline tuberculoid leprosy
+   *C. Histoid leprosy
+    D. Lucio phenomenon
+   key=C ref=IADVL Textbook of Dermatology — Histoid Leprosy
+   concept: Histoid leprosy is a distinct multibacillary variant, classically associated with dapsone monotherapy/resistance or irregular treatment, though it can arise de novo. It presents with characteristic shiny, firm, well-circumscribed, dome-shaped cutaneous and subcutaneous nodules and plaques on apparently NORMAL-looking skin. Histology shows interlacing spindle-shaped ('histoid') histiocytes packed with abundant acid-fast bacilli (very high bacillary index). It is not a reaction (unlike ENL or Lucio phenomenon) and is heavily bacillated, unlike the paucibacillary borderline tuberculoid form.
+Q_GEN_DERM_LEPROSY_023 [H] A patient with untreated diffuse, non-nodular lepromatous (Lucio) leprosy develops painful, jagged/angulated, stellate purpuric skin lesions that necrose and ulcerate. This severe reaction is termed:
+   *A. Lucio phenomenon
+    B. Type 1 (reversal) reaction
+    C. Erythema nodosum leprosum
+    D. Histoid transformation
+   key=A ref=IADVL Textbook of Dermatology — Lucio Leprosy and the Lucio Phenomenon
+   concept: The Lucio phenomenon is a severe necrotizing reaction — essentially a cutaneous vasculitis/thrombotic vaso-occlusion with extensive endothelial invasion by bacilli — occurring in untreated diffuse, non-nodular lepromatous ('Lucio') leprosy, most classically reported from Mexico and Central America. It produces painful, sharply angulated/jagged, stellate purpuric plaques that undergo necrosis into irregular ulcers healing with atrophic scars; secondary sepsis can be fatal. It differs from ENL (crops of tender nodules) and from type 1 reactions (inflammation of existing lesions with neuritis).
+Q_GEN_DERM_LEPROSY_024 [M] A leprosy patient is unable to fully close one eye (lagophthalmos), placing the cornea at risk of exposure keratitis. This is MOST directly due to involvement of the:
+    A. Sensory branch of the trigeminal (V) nerve
+    B. Oculomotor (III) nerve
+    C. Optic (II) nerve
+   *D. Zygomatic/temporal branches of the facial (VII) nerve supplying orbicularis oculi
+   key=D ref=IADVL Textbook of Dermatology — Ocular Complications and Facial Nerve Involvement in Leprosy
+   concept: Lagophthalmos (inability to fully close the eye) in leprosy results from paralysis of the orbicularis oculi due to involvement of the zygomatic and temporal branches of the facial (VII) nerve. The eye cannot be closed or blinked properly, leading to exposure keratitis, corneal ulceration and potentially blindness — hence eye protection, lubrication and lid-care are vital. Coexisting corneal anaesthesia from trigeminal (V) involvement compounds the risk. Lagophthalmos with visual threat constitutes a WHO grade-2 (eye) disability; the optic and oculomotor nerves are not the mechanism.
+Q_S_024 [E] According to the WHO operational classification (based on the number of skin lesions), a patient with 3 hypopigmented anaesthetic skin patches and a negative slit-skin smear is classified and treated as:
+    A. Multibacillary leprosy - 12 months of MDT
+   *B. Paucibacillary leprosy - 6 months of MDT
+    C. Not leprosy - no treatment
+    D. Lepromatous leprosy - lifelong dapsone
+   key=B ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD; WHO leprosy guidelines (verified 2026-07-04)
+   concept: WHO operational classification: paucibacillary leprosy = 1-5 skin lesions (smear-negative), treated with 6 months of rifampicin + dapsone; multibacillary leprosy = more than 5 lesions (or a positive skin smear), treated with 12 months of rifampicin + dapsone + clofazimine.
+Q_S_025 [M] A patient with borderline leprosy on multidrug therapy develops, over a few days, acute painful swelling and redness of existing skin lesions together with sudden nerve pain, tenderness and a new nerve deficit. This is best described as:
+    A. Type 2 reaction (erythema nodosum leprosum)
+   *B. Type 1 (reversal) reaction
+    C. Lucio phenomenon
+    D. Dapsone hypersensitivity syndrome
+   key=B ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD
+   concept: A type 1 (reversal) reaction is a type IV cell-mediated reaction seen in borderline leprosy: existing lesions become acutely inflamed and nerves become tender with sudden deficit (neuritis) - a medical emergency treated with corticosteroids. Type 2 reaction (ENL) is a type III immune-complex phenomenon with crops of tender nodules and systemic upset, seen in lepromatous/borderline-lepromatous disease.
+
+=== Dermatology / Pemphigus vs pemphigoid; STDs
+Q_S_028 [H] A 50-year-old presents with flaccid blisters and painful oral erosions; lateral pressure on normal-looking skin shears off the epidermis (Nikolsky's sign positive). Which set of findings correctly fits pemphigus vulgaris (rather than bullous pemphigoid)?
+    A. Subepidermal blister, Nikolsky negative, IgG against BP180/BP230
+   *B. Intraepidermal (suprabasal) blister, Nikolsky positive, IgG against desmoglein 3
+    C. Subepidermal blister, linear IgA at the basement membrane
+    D. Intraepidermal blister, Nikolsky negative, no autoantibodies
+   key=B ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD
+   concept: Pemphigus vulgaris: intraepidermal (suprabasal) acantholytic blister, flaccid bullae, Nikolsky positive, autoantibodies against desmoglein 3 (with a 'fish-net' intercellular IgG pattern on direct immunofluorescence). Bullous pemphigoid: tense subepidermal blisters, Nikolsky negative, antibodies against hemidesmosomal BP180/BP230 with linear IgG/C3 along the basement membrane.
+Q_S_029 [E] A young man presents about 3 weeks after unprotected intercourse with a single, painless, indurated genital ulcer that has a clean base, together with non-tender inguinal lymphadenopathy. The most likely diagnosis is:
+    A. Chancroid (Haemophilus ducreyi)
+   *B. Primary syphilis (Treponema pallidum) - a hard chancre
+    C. Genital herpes (HSV)
+    D. Lymphogranuloma venereum
+   key=B ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD
+   concept: Primary syphilis presents as a solitary, painless, indurated ulcer with a clean base (the hard chancre) plus non-tender ('shotty') lymphadenopathy, roughly 3 weeks after exposure. Chancroid is painful with a ragged, undermined edge and tender suppurative nodes; herpes causes grouped painful vesicles and ulcers.
+
+=== Dermatology / Psoriasis, lichen planus
+Q_GEN_DERM_PAPULOSQ_001 [E] Which of the following is the single most common clinical type of psoriasis, presenting as symmetrical, well-demarcated erythematous plaques with adherent silvery scale over the elbows, knees, scalp and lumbosacral region?
+    A. Guttate psoriasis
+    B. Generalized pustular psoriasis
+   *C. Chronic plaque psoriasis (psoriasis vulgaris)
+    D. Erythrodermic psoriasis
+   key=C ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD, 6th ed. — Papulosquamous Disorders (Psoriasis)
+   concept: Chronic plaque psoriasis (psoriasis vulgaris) accounts for roughly 80-90% of cases and is the classic presentation: symmetrical, well-demarcated erythematous plaques with adherent silvery-white scale over extensor surfaces (elbows, knees), scalp and lumbosacral area. Guttate, generalized pustular and erythrodermic forms are far less common and are distinguished by their morphology and acuity, making chronic plaque the single most common type.
+Q_GEN_DERM_PAPULOSQ_002 [M] A patient with known psoriasis notices that new plaques have appeared exactly along the line of a recent surgical scar and along a linear scratch. This tendency of lesions to arise at sites of trauma is best termed:
+   *A. Koebner (isomorphic) phenomenon
+    B. Nikolsky sign
+    C. Darier sign
+    D. Auspitz sign
+   key=A ref=IADVL Textbook of Dermatology — Psoriasis (clinical signs; Koebner phenomenon)
+   concept: The Koebner (isomorphic) phenomenon is the development of lesions of an existing dermatosis at sites of trauma such as a scratch, scar or surgical wound, appearing along the line of injury; it is characteristically seen in psoriasis, lichen planus, vitiligo and viral warts. The Nikolsky sign (epidermal shearing) belongs to pemphigus, Darier sign (wheal on rubbing) to mastocytosis, and Auspitz sign (pinpoint bleeding on scale removal) to psoriatic scale, so Koebner is the correct term for the response described.
+Q_GEN_DERM_PAPULOSQ_003 [M] Nail involvement is common in psoriasis. Which of the following nail changes is the most frequent and reflects disease of the proximal nail matrix?
+    A. Dorsal pterygium
+    B. Longitudinal melanonychia
+    C. Beau's lines
+   *D. Irregular pitting of the nail plate
+   key=D ref=Rook's Textbook of Dermatology, 9th ed. — Psoriasis (nail disease)
+   concept: Nail disease occurs in up to half of psoriatics and correlates with psoriatic arthritis. Irregular pitting of the nail plate is the most common finding and reflects psoriasis of the proximal nail matrix, where parakeratotic cells are shed leaving surface depressions. The 'oil-drop' sign, subungual hyperkeratosis and onycholysis arise from nail-bed disease, while dorsal pterygium is typical of lichen planus, longitudinal melanonychia of melanocytic activation, and Beau's lines of systemic illness.
+Q_GEN_DERM_PAPULOSQ_004 [H] On skin biopsy of a psoriatic plaque, collections of neutrophils are seen within the parakeratotic stratum corneum. This histological finding is known as:
+    A. Pautrier microabscess
+   *B. Munro microabscess
+    C. Civatte body
+    D. Max Joseph space
+   key=B ref=Fitzpatrick's Dermatology, 9th ed. — Psoriasis (histopathology)
+   concept: The Munro microabscess is a collection of neutrophils within the parakeratotic stratum corneum and is a hallmark of psoriasis, together with the spongiform pustule of Kogoj (neutrophils in the upper spinous layer), regular acanthosis with elongated rete ridges, thinning of the suprapapillary plates and dilated dermal papillary capillaries. A Pautrier microabscess (intraepidermal atypical lymphocytes) points to mycosis fungoides, Civatte bodies indicate lichen planus, and the Max Joseph space is a lichen planus cleft, so Munro is correct.
+Q_GEN_DERM_PAPULOSQ_005 [M] Which cytokine pathway is now regarded as the central driver of psoriasis and the principal target of modern biologic therapy?
+   *A. The IL-23 / Th17 / IL-17 axis
+    B. The IL-4 / IL-13 (Th2) axis
+    C. IgE-mediated type I hypersensitivity
+    D. The IL-5 / eosinophil axis
+   key=A ref=Fitzpatrick's Dermatology, 9th ed. — Psoriasis (pathogenesis; IL-23/IL-17 axis)
+   concept: The central immunopathogenic pathway of psoriasis is the IL-23/Th17/IL-17 axis: dendritic-cell-derived IL-23 sustains Th17 cells that secrete IL-17 and IL-22, driving keratinocyte hyperproliferation, with TNF-alpha amplifying the loop. This underlies biologics targeting IL-17 (secukinumab), IL-23 (guselkumab) and TNF. The IL-4/IL-13 (Th2) axis drives atopic dermatitis, IL-5 drives eosinophilic disease, and IgE-mediated type I hypersensitivity underlies urticaria, not psoriasis.
+Q_GEN_DERM_PAPULOSQ_006 [M] Which of the following drugs is most classically associated with precipitating or aggravating psoriasis?
+    A. Cetirizine
+    B. Omeprazole
+   *C. Lithium
+    D. Amoxicillin
+   key=C ref=IADVL Textbook of Dermatology — Psoriasis (aggravating/precipitating drugs)
+   concept: Several systemic drugs can precipitate or aggravate psoriasis; the classic offenders are lithium, beta-blockers, antimalarials (chloroquine/hydroxychloroquine), NSAIDs, ACE inhibitors and interferons, while abrupt systemic corticosteroid withdrawal can trigger pustular flares. Lithium is the most consistently implicated of the options given. Cetirizine, omeprazole and amoxicillin are not recognised as psoriasis-exacerbating drugs, making lithium the best answer.
+Q_GEN_DERM_PAPULOSQ_007 [H] A man with long-standing plaque psoriasis is given oral prednisolone for back pain. As the steroid is tapered he develops high fever, malaise and waves of sterile pustules erupting on tender erythematous skin. The most likely diagnosis is:
+    A. Acute generalized exanthematous pustulosis (AGEP)
+   *B. Von Zumbusch generalized pustular psoriasis
+    C. Staphylococcal scalded skin syndrome
+    D. Dermatitis herpetiformis
+   key=B ref=Rook's Textbook of Dermatology, 9th ed. — Pustular psoriasis (von Zumbusch)
+   concept: Von Zumbusch generalized pustular psoriasis is an acute, potentially life-threatening flare in which sheets of sterile pustules erupt on tender erythematous skin with high fever, leukocytosis and malaise; abrupt withdrawal of systemic corticosteroids is a classic trigger in a known psoriatic. AGEP is drug-induced and arises within days of a new drug (often an antibiotic), staphylococcal scalded skin shows toxin-mediated superficial peeling, and dermatitis herpetiformis is an intensely itchy vesicular eruption of coeliac disease.
+Q_GEN_DERM_PAPULOSQ_008 [M] A patient with erythrodermic psoriasis involving almost the entire body surface is admitted. Which of the following systemic complications is the chief reason this condition is a dermatological emergency?
+    A. Acute angle-closure glaucoma
+    B. Nephrogenic diabetes insipidus
+    C. Hypercoagulable ischaemic stroke
+   *D. Hypothermia and high-output cardiac failure
+   key=D ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD, 6th ed. — Erythroderma and erythrodermic psoriasis
+   concept: Erythrodermic psoriasis involves more than 90% of the body surface with confluent erythema and scaling, disrupting the skin barrier and thermoregulation. Widespread cutaneous vasodilation causes heat and fluid loss with resulting hypothermia, dehydration, electrolyte disturbance, protein loss and high-output cardiac failure, plus a risk of secondary sepsis. These systemic consequences, not glaucoma, diabetes insipidus or stroke, are what make erythroderma an emergency requiring admission.
+Q_GEN_DERM_PAPULOSQ_009 [M] A patient presents with smooth, shiny, well-demarcated erythematous plaques bearing little or no scale in the axillae, groin and natal cleft, often mistaken for a fungal intertrigo. Which variant of psoriasis is this?
+   *A. Inverse (flexural) psoriasis
+    B. Nummular eczema
+    C. Guttate psoriasis
+    D. Erythrodermic psoriasis
+   key=A ref=IADVL Textbook of Dermatology — Psoriasis (flexural/inverse psoriasis)
+   concept: Inverse (flexural) psoriasis affects the body folds - axillae, groin, inframammary area and natal cleft - where moisture and friction leave the plaques smooth, shiny and well demarcated with little or no scale, so they are often mistaken for intertrigo or candidiasis. Nummular eczema produces coin-shaped exudative plaques on the limbs, guttate psoriasis shows scattered small drop-like papules, and erythroderma is generalised; the flexural, glazed, minimally scaly morphology defines inverse psoriasis.
+Q_GEN_DERM_PAPULOSQ_010 [H] A patient with psoriasis and rheumatoid-factor-negative arthritis affecting the distal interphalangeal joints, with a 'sausage' digit, has a destructive deformity on X-ray. Which radiographic finding is characteristic of psoriatic arthritis?
+    A. Symmetric marginal erosions with pannus
+   *B. 'Pencil-in-cup' deformity
+    C. Chondrocalcinosis of the menisci
+    D. Large osteophytes with subchondral sclerosis
+   key=B ref=Fitzpatrick's Dermatology, 9th ed. — Psoriatic arthritis
+   concept: Psoriatic arthritis is a seronegative (RF-negative) spondyloarthropathy; distal interphalangeal involvement and dactylitis ('sausage digit') are characteristic, and progressive osteolysis produces the classic 'pencil-in-cup' deformity, seen in the destructive arthritis mutilans form. Symmetric marginal erosions with pannus typify rheumatoid arthritis, chondrocalcinosis suggests CPPD, and osteophytes with subchondral sclerosis indicate osteoarthritis, so pencil-in-cup is the psoriatic hallmark.
+Q_GEN_DERM_PAPULOSQ_011 [M] During treatment of psoriasis a pale, blanched halo is noticed surrounding several resolving plaques (the Woronoff ring). This ring is best described as:
+    A. A pustular rim at the plaque margin
+    B. A hyperpigmented collarette of scale
+   *C. A pale, blanched ring of skin surrounding the plaque
+    D. Central clearing producing an annular lesion
+   key=C ref=Rook's Textbook of Dermatology, 9th ed. — Psoriasis (clinical features; Woronoff ring)
+   concept: The Woronoff ring is a pale, blanched halo of skin that appears around a psoriatic plaque, typically during resolution after phototherapy or topical treatment, and is attributed to local down-regulation of prostaglandins with cutaneous vasoconstriction. It is not a pustular margin, a scaly collarette, or central clearing; recognising this benign perilesional blanching prevents it being mistaken for spreading disease or a treatment reaction.
+Q_GEN_DERM_PAPULOSQ_012 [M] Which of the following topical antipsoriatic agents is a synthetic vitamin D3 analogue that inhibits keratinocyte proliferation and promotes differentiation?
+    A. Coal tar
+    B. Dithranol (anthralin)
+    C. Tacrolimus
+   *D. Calcipotriol
+   key=D ref=IADVL Textbook of Dermatology — Psoriasis (topical vitamin D analogues)
+   concept: Calcipotriol (calcipotriene) is a synthetic vitamin D3 analogue that binds the vitamin D receptor to inhibit keratinocyte proliferation and promote differentiation, and is a first-line topical agent for plaque psoriasis, often combined with a potent corticosteroid. Coal tar and dithranol (anthralin) are older keratolytic/antiproliferative agents, and tacrolimus is a calcineurin inhibitor used mainly for facial and flexural disease, so calcipotriol is the vitamin D analogue.
+Q_GEN_DERM_PAPULOSQ_013 [H] Regarding methotrexate used for severe psoriasis, which one of the following statements about its important adverse effects is correct?
+    A. Anaphylaxis occurs predictably with every dose
+   *B. Cumulative dose-related hepatic fibrosis and cirrhosis require liver monitoring
+    C. Gingival hyperplasia is its characteristic toxicity
+    D. It causes corneal verticillata requiring annual ophthalmology
+   key=B ref=IADVL Textbook of Dermatology — Systemic therapy of psoriasis (methotrexate)
+   concept: Methotrexate, a dihydrofolate-reductase inhibitor, is used for severe psoriasis and psoriatic arthritis; its most important long-term concern is cumulative dose-related hepatic fibrosis and cirrhosis, so liver function and fibrosis markers must be monitored, with folic acid supplementation. Acute pneumonitis and myelosuppression are other true risks, but per-dose anaphylaxis, gingival hyperplasia (ciclosporin/phenytoin) and corneal verticillata (amiodarone/chloroquine) are not features of methotrexate.
+Q_GEN_DERM_PAPULOSQ_014 [E] The Psoriasis Area and Severity Index (PASI) is widely used to grade disease. What does it primarily quantify?
+   *A. The extent and severity of skin psoriasis (erythema, induration, scaling and area involved)
+    B. The severity of joint damage in psoriatic arthritis
+    C. Nail matrix involvement severity only
+    D. The patient-reported itch and quality of life
+   key=A ref=Fitzpatrick's Dermatology, 9th ed. — Psoriasis severity assessment (PASI)
+   concept: The Psoriasis Area and Severity Index (PASI) is the standard tool for grading disease burden in trials and practice; it scores the intensity of erythema, induration (thickness) and scaling in each of four body regions and weights them by the percentage area involved to yield a single score (0-72). It does not measure joint damage, isolated nail disease, or patient-reported itch and quality of life, which are captured by other instruments.
+Q_GEN_DERM_PAPULOSQ_015 [E] The classic 'six Ps' description of the typical lesions of lichen planus refers to which set of features?
+    A. Painful, pale, pedunculated pustules
+    B. Purpuric, palpable, painless plaques
+   *C. Pruritic, purple, polygonal, planar papules and plaques
+    D. Pigmented, papillomatous, pedunculated papules
+   key=C ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD, 6th ed. — Lichen Planus
+   concept: The classic mnemonic for lichen planus is the six Ps: Pruritic, Purple (violaceous), Polygonal, Planar (flat-topped), Papules and Plaques, typically over the flexor wrists, forearms and ankles. The other option sets describe unrelated morphologies - pedunculated pustules, purpuric plaques or pigmented papillomatous papules - none of which fit lichen planus, so the pruritic, purple, polygonal, planar description is correct.
+Q_GEN_DERM_PAPULOSQ_016 [M] Which one of the following statements about erosive oral lichen planus is correct?
+    A. It is always caused by Candida albicans infection
+    B. It reliably resolves within a few days without sequelae
+    C. It is entirely benign with no malignant potential whatsoever
+   *D. It carries a small but definite risk of oral squamous cell carcinoma
+   key=D ref=IADVL Textbook of Dermatology — Oral lichen planus
+   concept: Oral lichen planus most often shows an asymptomatic reticular (Wickham) network on the buccal mucosa, but the erosive/ulcerative form is painful and, importantly, carries a small but recognised risk of transformation to oral squamous cell carcinoma, so it warrants monitoring and biopsy of non-healing lesions. It is not caused by Candida, does not reliably resolve within days, and is not entirely without malignant potential, making the SCC-risk statement correct.
+Q_GEN_DERM_PAPULOSQ_017 [H] A middle-aged woman has patchy scalp hair loss with perifollicular erythema and follicular hyperkeratosis; affected areas show loss of the follicular openings (scarring). The most likely diagnosis is:
+   *A. Lichen planopilaris (a scarring alopecia)
+    B. Alopecia areata
+    C. Telogen effluvium
+    D. Tinea capitis
+   key=A ref=Rook's Textbook of Dermatology, 9th ed. — Lichen planopilaris and cicatricial alopecias
+   concept: Lichen planopilaris is lichen planus of the hair follicle, producing perifollicular erythema and follicular hyperkeratosis that progress to patchy scarring (cicatricial) alopecia with loss of follicular ostia; frontal fibrosing alopecia is a clinical variant. Alopecia areata gives smooth non-scarring patches with exclamation-mark hairs, telogen effluvium is diffuse non-scarring shedding, and tinea capitis shows scaling with broken hairs and fungal positivity, so lichen planopilaris is the scarring cause described.
+Q_GEN_DERM_PAPULOSQ_018 [M] Which nail change is most characteristic of lichen planus?
+    A. Oil-drop (salmon-patch) discoloration
+   *B. Dorsal pterygium
+    C. Coarse regular pitting
+    D. Splinter haemorrhages
+   key=B ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD, 6th ed. — Lichen Planus (nail changes)
+   concept: Nail lichen planus classically causes longitudinal ridging and thinning and, most characteristically, a dorsal pterygium - a wing-like scarring adhesion of the proximal nail fold to the nail bed caused by focal matrix destruction, which can lead to permanent nail loss. The oil-drop sign and coarse pitting are features of psoriasis and splinter haemorrhages of trauma or endocarditis, so dorsal pterygium is the sign specific to lichen planus.
+Q_GEN_DERM_PAPULOSQ_019 [E] Lichen planus, especially its oral and erosive forms, is epidemiologically associated with chronic infection by which of the following viruses?
+    A. Hepatitis A virus
+    B. Hepatitis B virus
+   *C. Hepatitis C virus
+    D. Human immunodeficiency virus
+   key=C ref=IADVL Textbook of Dermatology — Lichen planus (systemic associations; hepatitis C)
+   concept: Lichen planus, particularly its oral and erosive forms, has a well-documented epidemiological association with chronic hepatitis C virus infection, and screening for HCV is often recommended in appropriate settings. Hepatitis A is a self-limiting enteric infection, hepatitis B is more strongly linked with polyarteritis nodosa and membranous nephropathy, and HIV has other cutaneous associations, so hepatitis C is the correct link with lichen planus.
+Q_GEN_DERM_PAPULOSQ_020 [H] Which one of the following histopathological patterns is characteristic of lichen planus?
+    A. Parakeratosis with intracorneal neutrophilic (Munro) microabscesses
+    B. Subepidermal blister with neutrophilic papillary microabscesses
+    C. Acantholysis with a 'row of tombstones' basal layer
+   *D. Band-like lymphocytic infiltrate at the dermoepidermal junction with sawtooth rete ridges
+   key=D ref=Fitzpatrick's Dermatology, 9th ed. — Lichen planus (histopathology)
+   concept: The histology of lichen planus shows compact hyperkeratosis WITHOUT parakeratosis, wedge-shaped hypergranulosis, irregular sawtooth acanthosis of the rete ridges, a dense band-like (lichenoid) lymphocytic infiltrate hugging the dermoepidermal junction, basal-cell vacuolar degeneration and apoptotic Civatte (colloid) bodies. Parakeratosis with Munro microabscesses defines psoriasis, subepidermal neutrophilic microabscesses suggest dermatitis herpetiformis, and a 'row of tombstones' acantholysis indicates pemphigus vulgaris.
+Q_GEN_DERM_PAPULOSQ_021 [M] A photodistributed lichenoid eruption that spares the mucosa develops in an elderly hypertensive patient and clears after a medication is stopped. Which of the following drugs is a recognised cause of a lichenoid drug eruption?
+   *A. Thiazide diuretic
+    B. Amlodipine
+    C. Metformin
+    D. Loratadine
+   key=A ref=Rook's Textbook of Dermatology, 9th ed. — Lichenoid drug eruptions
+   concept: Lichenoid drug eruptions mimic idiopathic lichen planus but are often more eczematous or photodistributed and tend to spare the mucosa, resolving on drug withdrawal. Classic culprits include thiazide diuretics, antimalarials, gold, penicillamine, beta-blockers, ACE inhibitors and NSAIDs. Among the options a thiazide diuretic is the recognised trigger, whereas amlodipine, metformin and loratadine are not typical causes of lichenoid eruptions.
+Q_GEN_DERM_PAPULOSQ_022 [H] A patient has thick, hyperkeratotic, warty violaceous plaques on both shins that are intensely itchy and have persisted for years. The most likely diagnosis is:
+    A. Psoriasis vulgaris
+   *B. Hypertrophic lichen planus
+    C. Lichen sclerosus
+    D. Stasis dermatitis
+   key=B ref=IADVL Textbook of Dermatology — Lichen planus (hypertrophic variant)
+   concept: Hypertrophic lichen planus presents as thick, hyperkeratotic, verrucous violaceous plaques, most often on the shins and ankles, that are intensely pruritic and chronic; long-standing lesions carry a small risk of squamous cell carcinoma. Psoriasis of the shins shows silvery scale rather than violaceous hyperkeratosis, lichen sclerosus produces atrophic porcelain-white patches, and stasis dermatitis shows haemosiderin pigment and oedema, so hypertrophic lichen planus best fits the description.
+Q_GEN_DERM_PAPULOSQ_023 [M] Reactivation of which of the following viruses is most strongly implicated in the pathogenesis of pityriasis rosea?
+    A. Human herpesvirus 8 (HHV-8)
+    B. Human papillomavirus (HPV)
+    C. Parvovirus B19
+   *D. Human herpesviruses 6 and 7 (HHV-6 and HHV-7)
+   key=D ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD, 6th ed. — Pityriasis rosea
+   concept: Pityriasis rosea is a self-limiting papulosquamous eruption whose pathogenesis is most strongly linked to systemic reactivation of the human herpesviruses HHV-6 and HHV-7, supported by detection of viral DNA and occasional prodromal symptoms. It resolves spontaneously over 6-8 weeks and needs only reassurance and symptomatic care. HHV-8 causes Kaposi sarcoma, HPV causes warts, and parvovirus B19 causes erythema infectiosum, so HHV-6/7 is the correct association.
+Q_GEN_DERM_PAPULOSQ_024 [H] A patient has an orange-red scaling eruption with follicular keratotic papules, waxy orange palms and soles, and sharply outlined 'islands' of normal skin within the erythema. The most likely diagnosis is:
+   *A. Pityriasis rubra pilaris
+    B. Psoriasis vulgaris
+    C. Mycosis fungoides
+    D. Erythrodermic atopic dermatitis
+   key=A ref=Rook's Textbook of Dermatology, 9th ed. — Pityriasis rubra pilaris
+   concept: Pityriasis rubra pilaris is characterised by orange-red (salmon) scaly plaques, follicular keratotic papules giving a nutmeg-grater feel on the dorsa of the fingers, a waxy orange palmoplantar keratoderma and, most distinctively, sharply demarcated 'islands of sparing' (nappes claires) of normal skin within the erythema, often with cephalocaudal spread. Psoriasis, mycosis fungoides and erythrodermic atopic dermatitis lack these islands of sparing and the orange hue, making pityriasis rubra pilaris the diagnosis.
+Q_GEN_DERM_PAPULOSQ_025 [E] Erythema with greasy yellowish scales over the scalp, eyebrows and nasolabial folds is characteristic of seborrhoeic dermatitis. Which organism is central to its pathogenesis?
+    A. Staphylococcus aureus
+    B. Trichophyton rubrum
+   *C. Malassezia (Pityrosporum) yeast
+    D. Sarcoptes scabiei
+   key=C ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD, 6th ed. — Seborrhoeic dermatitis
+   concept: Seborrhoeic dermatitis produces erythematous patches with greasy yellowish scales in sebum-rich areas - scalp (dandruff), eyebrows, nasolabial folds, ears and central chest - and is driven by an inflammatory response to Malassezia (Pityrosporum) yeasts, which is why antifungals such as ketoconazole are effective. It is characteristically severe and extensive in Parkinson's disease and HIV/AIDS. Trichophyton, Sarcoptes and Staphylococcus cause tinea, scabies and pyoderma respectively, not seborrhoeic dermatitis.
+Q_GEN_DERM_PAPULOSQ_026 [H] A patient with long-standing patches and plaques develops erythroderma, generalised lymphadenopathy and circulating atypical CD4+ lymphocytes with cerebriform nuclei. The most likely diagnosis is:
+    A. Erythrodermic psoriasis
+   *B. Sézary syndrome
+    C. DRESS syndrome
+    D. Pemphigus foliaceus
+   key=B ref=Fitzpatrick's Dermatology, 9th ed. — Cutaneous T-cell lymphoma (mycosis fungoides and Sézary syndrome)
+   concept: Sézary syndrome is the leukaemic, erythrodermic variant of cutaneous T-cell lymphoma, defined by the triad of erythroderma, generalised lymphadenopathy and circulating atypical CD4+ T cells with cerebriform (Sézary) nuclei, often evolving from long-standing mycosis fungoides patches and plaques. Erythrodermic psoriasis, DRESS and pemphigus foliaceus can also cause widespread skin disease but lack the circulating cerebriform lymphocytes, so Sézary syndrome fits the described picture.
+Q_S_026 [E] A young man has well-demarcated erythematous plaques covered by silvery-white scales over the extensor surfaces of the elbows and knees and the scalp. Gently removing the scale produces pinpoint bleeding points. This sign is called:
+    A. Nikolsky's sign
+   *B. Auspitz's sign
+    C. Darier's sign
+    D. Koebner's phenomenon
+   key=B ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD
+   concept: Auspitz's sign (pinpoint bleeding on removing the scale) reflects the thinned suprapapillary epidermis and dilated dermal papillary capillaries of psoriasis. Koebner's phenomenon (new lesions at sites of trauma) also occurs; Munro microabscesses are the histological hallmark.
+Q_S_027 [M] A middle-aged woman has intensely pruritic, flat-topped, violaceous, polygonal papules on the flexor aspect of the wrists, with fine white lacy lines over the papules and on the buccal mucosa. These white lines are called:
+   *A. Wickham's striae
+    B. Auspitz's sign
+    C. Nikolsky's sign
+    D. Gottron's papules
+   key=A ref=Neena Khanna, Illustrated Synopsis of Dermatology & STD
+   concept: Lichen planus is remembered by the '6 Ps': pruritic, purple (violaceous), polygonal, planar (flat-topped) papules/plaques. Wickham's striae (a fine white lacy network) are characteristic. The flexor wrists and buccal mucosa (reticular oral lichen planus) are typical sites, and the Koebner phenomenon is positive.
+
+[56 shown of 56 unverified in scope]

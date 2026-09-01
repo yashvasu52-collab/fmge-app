@@ -1,0 +1,64 @@
+Q_MIC_IMM_007 | del | duplicate of Q_MIC_ICH_002 on the classical complement pathway being activated by antigen-antibody complexes. The immunoglobulins/complement topic is the better home and is retained
+Q_BC_CHO_007 | del | duplicate of Q_A_022 on phosphofructokinase-1 as the rate-limiting glycolytic enzyme. Q_A_022 sits in the glycolysis topic, which is the correct home, and is retained
+Q_PYQ_FMGE_2026JUN_040 | del | my earlier rewrite of this item to TP53 duplicated Q_PAT_CAR_002, which already asks the most commonly mutated gene in human cancers and sits in the carcinogenesis topic. Deleted
+Q_PY_REN_002 | del | duplicate of Q_PY_GCU_001 on inulin as the ideal GFR marker. The GFR and clearance topic is the correct home and is retained
+Q_h3a_022 | del | duplicate of Q_MIC_SPC_002 on blood culture giving the highest yield in the first week of enteric fever; this item was also internally inconsistent, placing the patient in the SECOND week while asking about the FIRST. The specimen-collection item is retained
+Q_c1d_003 | del | duplicate of Q_MED_ARR_011 on atrial fibrillation from an irregularly irregular rhythm with absent P waves; this item was also misfiled under heart failure and valvular disease rather than arrhythmias. The arrhythmia item is retained
+Q_PYQ_FMGE_2025JULP2_101 | del | duplicate of Q_MIC_CLO_013 on Clostridium perfringens causing gas gangrene. The Clostridia topic is the correct home and is retained
+Q_PSM_HCD_009 | del | duplicate of Q_PSM_PLN_001 on the Bhore Committee recommendations. The health planning and committees topic is the correct home and is retained
+Q_BC_IEM_003 | del | my earlier rewrite of this item to Tay-Sachs duplicated Q_GEN_BIOCHEM_LIPID_023, which already covers hexosaminidase A deficiency. Deleted
+Q_MED_HTN_014 | del | duplicate of Q_PYQ_FMGE_2026JAN_009 on plasma free metanephrines confirming phaeochromocytoma. The adrenal disorders item is retained
+Q_MED_CMP_007 | del | duplicate of Q_PYQ_FMGE_2026JAN_032 on the continuous machinery murmur of patent ductus arteriosus. The exam-recall item is retained
+Q_PED_RDS_006 | del | duplicate of Q_C_034 on oesophageal atresia with tracheo-oesophageal fistula presenting with frothing and choking on the first feed. The fuller item is retained
+Q_PAT_LNG_008 | del | duplicate of Q_PAT_GRN_009 on non-caseating granulomas indicating sarcoidosis. The granulomatous disease topic is the correct home and is retained
+Q_MED_RA_009 | del | duplicate of Q_MED_COAG_018 on antiphospholipid syndrome from a prolonged APTT that fails to correct on mixing with recurrent fetal loss and thrombosis. The coagulation item is retained because the question turns on the mixing study
+Q_h3c_026 | del | duplicate of Q_PED_DIA_013 on classifying "some dehydration" and treating with supervised ORS under Plan B; this item was also misfiled under immunisation and common infections. The fluid and electrolyte therapy item is retained
+Q_PYQ_FMGE_2026JAN_034 | del | duplicate of Q_PAT_LNG_003 on squamous cell carcinoma being the lung cancer most associated with smoking. The lung pathology topic is the better home and is retained
+Q_h3b_028 | del | duplicate of Q_MED_PLE_011 on a lymphocytic exudative effusion with high adenosine deaminase indicating tuberculous pleural effusion. The pleural effusion topic is the better home and is retained
+Q_OBG_THI_006 | del | duplicate of Q_C_018 on uterine atony being the commonest cause of primary postpartum haemorrhage. The postpartum haemorrhage topic is the correct home and is retained
+Q_GEN_PHAR_CHEMO_TB_023 | del | duplicate of Q_PH_ANT_015 on clofazimine causing reddish-brown skin discolouration; this item was also misfiled under anti-TB drugs when clofazimine is an antileprotic. The antileprotics item is retained
+Q_GEN_PSM_COMMDIS_001 | del | duplicate of Q_PSM_CON_005 on the epidemiological triad of agent, host and environment. The concepts of health and disease topic is the correct home and is retained
+Q_BC_INT_017 | del | duplicate of Q_GEN_BIOCHEM_CHO_002 on fructose 2,6-bisphosphate as the key allosteric regulator. The glycolysis topic is the correct home and is retained
+Q_PYQ_FMGE_2025JULP2_090 | del | duplicate of Q_MED_ZOO_005 on doxycycline for scrub typhus; this item was also misfiled under dengue, malaria and enteric fever. The rickettsial topic is the correct home and is retained
+Q_PYQ_FMGE_2025JANP1_124 | del | duplicate of Q_PAT_SKN_013 on basal cell carcinoma with peripheral palisading of basaloid cells. The skin pathology topic is the better home and is retained
+Q_PYQ_FMGE_2025JANP2_132 | del | duplicate of Q_MED_CMP_018 on Takotsubo cardiomyopathy with apical ballooning after emotional stress. The cardiomyopathy topic is the better home and is retained
+Q_AN_UL_006 | del | duplicate of Q_PYQ_FMGE_2026JUN_011, which identifies the median nerve from loss of index finger flexion and thumb opposition. The exam-recall item is retained
+Q_PY_MUS_007 | del | duplicate of Q_A_012 on acetylcholine acting at nicotinic receptors at the neuromuscular junction. The action potential and neuromuscular transmission topic is the correct home and is retained
+Q_PYQ_FMGE_2024JUN_030 | del | duplicate of Q_PH_DIU_013 on acetazolamide for acute mountain sickness; this item was also misfiled under antihypertensives. The diuretics topic is the correct home and is retained
+Q_c1_028 | del | duplicate of Q_PYQ_FMGE_2025JANP1_009 on phenytoin causing gum hypertrophy. The antiepileptics topic is the better home and is retained
+Q_GEN_PHAR_CVS_HF_ARR_004 | del | duplicate of Q_PYQ_FMGE_2025JANP1_046 on SGLT2 inhibitors in a diabetic with cardiac and renal disease. The insulin and oral hypoglycaemics topic is the better home and is retained
+Q_MIC_ICH_002 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_A_022 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PAT_CAR_002 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PY_GCU_001 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MIC_SPC_002 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_ARR_011 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MIC_CLO_013 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PSM_PLN_001 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PAT_GRN_009 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_COAG_018 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PED_DIA_013 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PAT_LNG_003 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_PLE_011 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PH_ANT_015 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PSM_CON_005 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_ZOO_005 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PAT_SKN_013 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_CMP_018 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PYQ_FMGE_2026JUN_011 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_A_012 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PH_DIU_013 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_AN_TH_005 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_AN_PP_003 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_IE_006 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_PLE_002 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_SEP_005 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_BC_TRN_012 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_ENT_AUD_002 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_OBG_PH_002 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_OBG_AUB_018 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PED_ARI_003 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_PED_NEU_004 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_PE_008 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_MED_HTN_011 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
+Q_ENT_AUD_008 | ok | reviewed against a cross-topic duplicate candidate in the same subject; answer, topic and reference confirmed
