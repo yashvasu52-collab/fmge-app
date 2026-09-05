@@ -102,6 +102,7 @@
 
   /* ---- overlays: solution / test / results ---- */
   .over{position:absolute;inset:0;background:var(--bg);z-index:80;display:none;flex-direction:column} .over.active{display:flex}
+  #solOver{z-index:85} /* can be opened from within the attempt-review overlay -- must paint above it */
   .ohead{flex:none;height:52px;display:flex;align-items:center;gap:10px;padding:0 16px;border-bottom:1px solid var(--border);background:var(--surface)}
   .obody{flex:1;overflow-y:auto;padding:18px} .ofoot{flex:none;display:flex;align-items:center;gap:9px;padding:11px 14px;background:var(--surface);border-top:1px solid var(--border)} .ofoot .sp{flex:1}
   .tbtn{width:34px;height:34px;border-radius:10px;border:1px solid var(--border);background:var(--surface);display:grid;place-items:center;font-size:15px;cursor:pointer;color:var(--ink)}
@@ -152,17 +153,17 @@
 
     <!-- APP -->
     <div class="layer hidden" id="app">
-      <div class="apphead"><div class="brand"><span class="mk" style="width:26px;height:26px;font-size:13px">🎯</span> FMGE Coach</div><span class="streak">🔥 4</span><div class="av" onclick="nav('profile')">Y</div></div>
+      <div class="apphead"><div class="brand"><span class="mk" style="width:26px;height:26px;font-size:13px">🎯</span> FMGE Coach</div><span class="streak" id="streakPill">🔥 4</span><div class="av" onclick="nav('profile')">Y</div></div>
 
       <div class="stage">
         <!-- HOME -->
         <section class="screen active" id="s-home">
           <div class="hero">
             <div class="g">Good afternoon, Yash 🌱</div>
-            <h1>You're <b>+26</b> from a pass.</h1>
-            <div class="today">Today: <b>20 timed Pathology questions</b> — your weakest backbone.</div>
-            <button class="btn" onclick="startSubject('Pathology',20,20)">Start today's set ▸</button>
-            <div class="progbar"><div class="track"><span class="fill" style="width:59%"></span><span class="mark" style="left:50%"></span></div><div class="lbls"><span>0</span><span>Projected 176 · pass 150 ✓</span><span>300</span></div></div>
+            <h1>You're <b id="heroDelta">+26</b> from a pass.</h1>
+            <div class="today" id="heroToday">Today: <b>20 timed Pathology questions</b> — your weakest backbone.</div>
+            <button class="btn" id="heroStartBtn" onclick="startSubject('Pathology',20,20)">Start today's set ▸</button>
+            <div class="progbar"><div class="track"><span class="fill" id="homeFill" style="width:59%"></span><span class="mark" style="left:50%"></span></div><div class="lbls"><span>0</span><span id="homeProgLbl">Projected 176 · pass 150 ✓</span><span>300</span></div></div>
           </div>
 
           <div class="sec">Question of the day</div>
@@ -183,8 +184,8 @@
 
           <div class="sec">Progress to 150 <span class="all" onclick="nav('progress')">Details ›</span></div>
           <div class="card kpi" style="padding:14px">
-            <div class="kpiC"><div class="n g">176</div><div class="l">Projected / 300</div></div>
-            <div class="kpiC"><div class="n">45%</div><div class="l">Concepts mastered</div></div>
+            <div class="kpiC"><div class="n g" id="kpiProjHome">176</div><div class="l">Projected / 300</div></div>
+            <div class="kpiC"><div class="n" id="kpiMasteryHome">45%</div><div class="l">Concepts mastered</div></div>
           </div>
         </section>
 
@@ -194,6 +195,7 @@
           <div class="card listcard">
             <div class="row" onclick="startGrand('tests/2026-08-18_c4_A.json',150)"><div class="ic">📝</div><div class="t"><b>Grand Test — Part A</b><p>150 Q · ⏱ 150 min · Pre &amp; Para</p></div><span class="go">▸</span></div>
             <div class="row" onclick="startGrand('tests/2026-08-18_c4_B.json',150)"><div class="ic">📝</div><div class="t"><b>Grand Test — Part B</b><p>150 Q · ⏱ 150 min · Clinical</p></div><span class="go">▸</span></div>
+            <div class="row" onclick="location.href='marrow.html'"><div class="ic">📖</div><div class="t"><b>Marrow test</b><p>18 subjects · pick a chapter · untimed, answer-and-explain</p></div><span class="go">▸</span></div>
           </div>
           <div class="sec">QBank by subject</div>
           <div class="card listcard" id="qbankSubs"><div class="row"><div class="t"><span class="muted">Loading subjects…</span></div></div></div>
@@ -209,19 +211,13 @@
         <section class="screen" id="s-progress">
           <div class="sec">Where you stand</div>
           <div class="card kpi" style="padding:14px">
-            <div class="kpiC"><div class="n g">+26</div><div class="l">from a pass (150)</div></div>
-            <div class="kpiC"><div class="n">176</div><div class="l">Projected / 300</div></div>
-            <div class="kpiC"><div class="n">45%</div><div class="l">Mastered</div></div>
-            <div class="kpiC"><div class="n">4🔥</div><div class="l">Day streak</div></div>
+            <div class="kpiC"><div class="n g" id="kpiDeltaProg">+26</div><div class="l">from a pass (150)</div></div>
+            <div class="kpiC"><div class="n" id="kpiProjProg">176</div><div class="l">Projected / 300</div></div>
+            <div class="kpiC"><div class="n" id="kpiMasteryProg">45%</div><div class="l">Mastered</div></div>
+            <div class="kpiC"><div class="n" id="kpiStreakProg">4🔥</div><div class="l">Day streak</div></div>
           </div>
           <div class="sec">Subjects (weak → strong)</div>
-          <div class="card bars">
-            <div class="bar"><span class="name">Ophthalmology</span><span class="track"><span class="fill" style="width:25%;background:var(--red)"></span></span><span class="pct">25%</span></div>
-            <div class="bar"><span class="name">Biochemistry</span><span class="track"><span class="fill" style="width:44%;background:var(--amber)"></span></span><span class="pct">44%</span></div>
-            <div class="bar"><span class="name">Pathology</span><span class="track"><span class="fill" style="width:49%;background:var(--amber)"></span></span><span class="pct">49%</span></div>
-            <div class="bar"><span class="name">Pharmacology</span><span class="track"><span class="fill" style="width:58%;background:var(--accent)"></span></span><span class="pct">58%</span></div>
-            <div class="bar"><span class="name">OBG</span><span class="track"><span class="fill" style="width:93%;background:var(--green)"></span></span><span class="pct">93%</span></div>
-          </div>
+          <div class="card bars" id="progBars"></div>
           <div class="sec">Your mistakes</div>
           <div class="card listcard"><div class="row" onclick="startMistakes()"><div class="ic">⚑</div><div class="t"><b id="mrevCount">No mistakes yet</b><p>Auto-collected from your wrong answers · tap to re-test</p></div><span class="go">▸</span></div></div>
         </section>
@@ -233,19 +229,20 @@
             <b style="font-size:18px">Yash</b>
             <div class="muted" style="font-size:12.5px">+91 ·····90 · Free plan</div>
             <div style="display:flex;gap:8px;justify-content:center;margin-top:12px;flex-wrap:wrap">
-              <span class="pill clin">🎯 Exam 9 Jan 2027</span><span class="pill mid">⏳ 142 days left</span>
+              <span class="pill clin">🎯 Exam 31 Oct 2026</span><span class="pill mid" id="daysPill">⏳ — days left</span>
             </div>
           </div>
           <div class="card kpi" style="padding:14px;margin-top:12px">
-            <div class="kpiC"><div class="n g">+26</div><div class="l">from pass (150)</div></div>
-            <div class="kpiC"><div class="n">176</div><div class="l">projected / 300</div></div>
-            <div class="kpiC"><div class="n">4🔥</div><div class="l">day streak</div></div>
+            <div class="kpiC"><div class="n g" id="kpiDeltaProf">+26</div><div class="l">from pass (150)</div></div>
+            <div class="kpiC"><div class="n" id="kpiProjProf">176</div><div class="l">projected / 300</div></div>
+            <div class="kpiC"><div class="n" id="kpiStreakProf">4🔥</div><div class="l">day streak</div></div>
             <div class="kpiC"><div class="n" id="pfMist">0</div><div class="l">to revise</div></div>
           </div>
+          <div class="sec">Score trend</div>
+          <div class="card" style="padding:14px" id="trendBox"></div>
           <div class="sec">Attempt history</div>
-          <div class="card listcard">
+          <div class="card listcard" id="attemptHistoryCard">
             <div class="row"><div class="ic">📄</div><div class="t"><b>June 2026 · real exam</b><p>114 / 300 · fail</p></div></div>
-            <div class="row"><div class="ic">📝</div><div class="t"><b>Practice cycles</b><p>4 done · projected 176</p></div></div>
           </div>
           <div class="sec">Plan</div>
           <div class="card listcard"><div class="row"><div class="ic">✨</div><div class="t"><b>Free plan</b><p>Grand Tests · QBank · Question of the Day</p></div><span class="go">Upgrade ›</span></div></div>
@@ -318,6 +315,18 @@
       </div>
     </div>
 
+    <!-- PROGRESS DRILL-DOWN: subject -> chapter -> topic -->
+    <div class="over" id="drillOver">
+      <div class="ohead"><button class="tbtn" onclick="backDrill()">‹</button><b id="drillTitle" style="font-size:15px">Subject</b><span style="width:34px"></span></div>
+      <div class="obody"><div class="card bars" id="drillBody"></div></div>
+    </div>
+
+    <!-- ATTEMPT REVIEW: wrong answers for one past attempt, tap one for full solution -->
+    <div class="over" id="attemptReviewOver">
+      <div class="ohead"><button class="tbtn" onclick="closeAttemptReview()">‹</button><b id="reviewTitle" style="font-size:15px">Attempt</b><span style="width:34px"></span></div>
+      <div class="obody"><div class="card listcard" id="reviewBody"></div></div>
+    </div>
+
   </div><!-- /device -->
 
 <script>
@@ -326,18 +335,24 @@
   function backToLogin(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('v-login').classList.remove('hidden');}
   function fillOtp(){document.querySelectorAll('#otpRow input').forEach((el,i)=>el.value=window._otp[i]);}
   document.querySelectorAll('#otpRow input').forEach((el,i,a)=>el.addEventListener('input',()=>{if(el.value&&i<3)a[i+1].focus();}));
-  function login(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('app').classList.remove('hidden');loadQod();preload();}
+  function login(){document.getElementById('v-otp').classList.add('hidden');document.getElementById('app').classList.remove('hidden');recordActiveDay();preload();}
   function logout(){document.getElementById('app').classList.add('hidden');document.getElementById('v-login').classList.remove('hidden');document.getElementById('phone').value='';document.getElementById('getOtp').disabled=true;}
-  function nav(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('s-'+id).classList.add('active');document.querySelectorAll('.bnav button').forEach((b,i)=>b.classList.toggle('active',['home','practice','progress','profile'][i]===id));document.querySelector('.stage').scrollTop=0;refreshMistakeCounts();}
-  async function loadQod(){try{const d=await(await fetch('qod.json?v='+Date.now())).json();window.QOD=d;
-    const part=d.part==='A'?'Pre & Para-clinical':'Clinical';const diff={E:'Easy',M:'Medium',H:'Hard'}[d.difficulty]||'';
-    document.getElementById('qodTop').innerHTML=`<span class="pill clin">${d.subject} · ${part}</span>`+(diff?`<span class="pill mid" style="margin-left:5px">${diff}</span>`:'');
-    document.getElementById('qodQ').textContent=d.stem;
-    document.getElementById('qOpts').innerHTML=d.options.map((o,i)=>`<div class="opt" data-i="${i}"><span class="k">${'ABCD'[i]}</span> ${o}</div>`).join('');
+  function nav(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('s-'+id).classList.add('active');document.querySelectorAll('.bnav button').forEach((b,i)=>b.classList.toggle('active',['home','practice','progress','profile'][i]===id));document.querySelector('.stage').scrollTop=0;refreshMistakeCounts();renderHomeStats();}
+  // Question of the day: no backend/cron, so "changes every day" = a deterministic pick keyed
+  // off the calendar date from the already-loaded qbank pool -- stable all day, different
+  // tomorrow, never needs manual maintenance.
+  function dayIndex(){const d=new Date();const start=new Date(d.getFullYear(),0,0);return Math.floor((d-start)/86400000);}
+  function renderQod(){
+    if(!ALLQ.length){document.getElementById('qodQ').textContent="Open from the live link to load today's question.";return;}
+    const q=ALLQ[dayIndex()%ALLQ.length];window.QOD=Object.assign({},q);
+    const part=q.part==='A'?'Pre & Para-clinical':'Clinical';const diff={E:'Easy',M:'Medium',H:'Hard'}[q.difficulty]||'';
+    document.getElementById('qodTop').innerHTML=`<span class="pill clin">${q.subject} · ${part}</span>`+(diff?`<span class="pill mid" style="margin-left:5px">${diff}</span>`:'');
+    document.getElementById('qodQ').textContent=q.stem;
+    document.getElementById('qOpts').innerHTML=q.options.map((o,i)=>`<div class="opt" data-i="${i}"><span class="k">${'ABCD'[i]}</span> ${o}</div>`).join('');
     document.querySelectorAll('#qOpts .opt').forEach(o=>o.onclick=()=>{const p=+o.dataset.i;window.QOD._pick=p;
-      document.querySelectorAll('#qOpts .opt').forEach((x,i)=>{x.classList.remove('correct','wrong');if(i===d.correct)x.classList.add('correct');else if(i===p)x.classList.add('wrong');});
-      const g=document.getElementById('qHist');g.classList.remove('hidden');g.textContent=(p===d.correct?'✅ Correct. ':'✗ Correct answer: '+'ABCD'[d.correct]+') ')+d.options[d.correct];});
-    }catch(e){document.getElementById('qodQ').textContent="Open from the live link to load today's question.";}}
+      document.querySelectorAll('#qOpts .opt').forEach((x,i)=>{x.classList.remove('correct','wrong');if(i===q.correct)x.classList.add('correct');else if(i===p)x.classList.add('wrong');});
+      const g=document.getElementById('qHist');g.classList.remove('hidden');g.textContent=(p===q.correct?'✅ Correct. ':'✗ Correct answer: '+'ABCD'[q.correct]+') ')+q.options[q.correct];});
+  }
   function qodSolution(){const q=window.QOD;if(!q)return openSol();renderSol({stem:q.stem,opts:q.options,correct:q.correct,ans:(q._pick==null?null:q._pick),subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty});}
   function openSol(){document.getElementById('solOver').classList.add('active');}
   function closeSol(){document.getElementById('solOver').classList.remove('active');}
@@ -345,19 +360,177 @@
   let N=20,MIN=20,Q=[],cur=0,TEST=null;
   function beginFlow(name){cur=0;document.getElementById('tName').textContent=name;document.getElementById('flow-test').classList.add('active');renderQ();startTimer();}
   function startTest(name,count,mins){TEST={token:'demo',part:'-',name};N=count||20;MIN=mins||20;Q=[];for(let i=0;i<N;i++)Q.push({stem:`(${i+1}) A biopsy shows features of ${SUBS[i%SUBS.length].toLowerCase()}. Which statement is most accurate?`,opts:['First option','Second option','Third option','Fourth option'],correct:0,subject:SUBS[i%SUBS.length],ans:null,marked:false});beginFlow(name);}
-  async function startGrand(file,mins){try{const r=await fetch(file+'?v='+Date.now());if(!r.ok)throw 0;const d=await r.json();TEST={token:d.token,part:d.part,name:d.name};N=d.size;MIN=d.time_limit_min||mins;Q=d.questions.map(q=>({stem:q.stem,opts:q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,n:q.n,ans:null,marked:false}));beginFlow(d.name);}catch(e){alert('Could not load the paper. Open the app from the live link (…github.io) — browsers block loading local files over file://.');}}
+  async function startGrand(file,mins){try{const r=await fetch(file+'?v='+Date.now());if(!r.ok)throw 0;const d=await r.json();TEST={token:d.token,part:d.part,name:d.name,kind:'grand'};N=d.size;MIN=d.time_limit_min||mins;Q=d.questions.map(q=>({stem:q.stem,opts:q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,n:q.n,ans:null,marked:false}));beginFlow(d.name);}catch(e){alert('Could not load the paper. Open the app from the live link (…github.io) — browsers block loading local files over file://.');}}
   let ALLQ=[];
-  async function preload(){try{const d=await(await fetch('qbank.json?v='+Date.now())).json();ALLQ=d.questions.map(q=>({stem:q.stem,options:q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,verified:q.verified,n:q.id}));renderSubjects();}catch(e){}refreshMistakeCounts();}
-  function renderSubjects(){const c={};ALLQ.forEach(q=>c[q.subject]=(c[q.subject]||0)+1);const el=document.getElementById('qbankSubs');if(!el)return;const rows=Object.entries(c).sort((a,b)=>b[1]-a[1]);el.innerHTML=rows.map(([s,n])=>`<div class="row" data-sub="${s.replace(/"/g,'&quot;')}"><div class="ic">📚</div><div class="t"><b>${s}</b><p>${n} questions</p></div><span class="go">▸</span></div>`).join('')||'<div class="row"><div class="t"><span class="muted">Open from the live link to load subjects.</span></div></div>';el.querySelectorAll('.row[data-sub]').forEach(r=>r.onclick=()=>startSubject(r.getAttribute('data-sub')));}
-  function startFromPool(pool,name,mins,part){if(!pool.length){alert('Questions still loading — open from the live link and try again in a moment.');return;}TEST={token:'2026-08-18_c4',part:part||name,name};N=pool.length;MIN=mins||Math.max(10,N);Q=pool.map(q=>({stem:q.stem,opts:q.opts||q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,verified:q.verified,n:q.n,ans:null,marked:false}));beginFlow(name);}
-  function startSubject(subject,limit,mins){let pool=ALLQ.filter(q=>q.subject===subject);if(limit)pool=pool.slice(0,limit);startFromPool(pool,(limit?'Today · ':'')+subject+(limit?'':' · QBank'),mins,subject);}
-  function startCustom(){const pool=ALLQ.slice().sort(()=>Math.random()-0.5).slice(0,25);startFromPool(pool,'Custom · 25 mixed',25,'custom');}
+  const SUBJECT_ICONS={'Anaesthesia':'💉','Anatomy':'🦴','Biochemistry':'🧪','Dermatology':'🧴','ENT':'👂','Forensic Medicine (FMT)':'⚖️','Medicine':'🩺','Microbiology':'🦠','Obstetrics & Gynaecology':'🤰','Ophthalmology':'👁️','Orthopedics':'🦵','PSM (Community Medicine)':'🌍','Pathology':'🔬','Pediatrics':'👶','Pharmacology':'💊','Physiology':'⚡','Psychiatry':'🧠','Radiology':'🩻','Surgery':'🔪'};
+  async function preload(){try{const d=await(await fetch('qbank.json?v='+Date.now())).json();ALLQ=d.questions.map(q=>({stem:q.stem,options:q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,verified:q.verified,part:q.part,n:q.id}));renderSubjects();}catch(e){}renderQod();await ensureHistorySeeded();refreshMistakeCounts();renderHomeStats();}
+  function renderSubjects(){const c={};ALLQ.forEach(q=>c[q.subject]=(c[q.subject]||0)+1);const el=document.getElementById('qbankSubs');if(!el)return;const rows=Object.entries(c).sort((a,b)=>b[1]-a[1]);el.innerHTML=rows.map(([s,n])=>`<div class="row" data-sub="${s.replace(/"/g,'&quot;')}"><div class="ic">${SUBJECT_ICONS[s]||'📚'}</div><div class="t"><b>${s}</b><p>${n} questions</p></div><span class="go">▸</span></div>`).join('')||'<div class="row"><div class="t"><span class="muted">Open from the live link to load subjects.</span></div></div>';el.querySelectorAll('.row[data-sub]').forEach(r=>r.onclick=()=>startSubject(r.getAttribute('data-sub')));}
+  function startFromPool(pool,name,mins,part,kind){if(!pool.length){alert('Questions still loading — open from the live link and try again in a moment.');return;}TEST={token:'2026-08-18_c4',part:part||name,name,kind:kind||'other'};N=pool.length;MIN=mins||Math.max(10,N);Q=pool.map(q=>({stem:q.stem,opts:q.opts||q.options,correct:q.correct,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,verified:q.verified,n:q.n,ans:null,marked:false}));beginFlow(name);}
+  function startSubject(subject,limit,mins){let pool=ALLQ.filter(q=>q.subject===subject);if(limit)pool=pool.slice(0,limit);startFromPool(pool,(limit?'Today · ':'')+subject+(limit?'':' · QBank'),mins,subject,'subject');}
+  function startCustom(){const pool=ALLQ.slice().sort(()=>Math.random()-0.5).slice(0,25);startFromPool(pool,'Custom · 25 mixed',25,'custom','custom');}
   // ---- mistakes (browser-persisted; the coach loop) ----
   function getMistakes(){try{return JSON.parse(localStorage.getItem('fmge_mistakes')||'[]');}catch(e){return[];}}
   function saveMistakes(a){localStorage.setItem('fmge_mistakes',JSON.stringify(a.slice(-200)));}
   function recordWrong(list){const seen=new Set(getMistakes().map(m=>m.stem));const add=list.filter(m=>!seen.has(m.stem));if(add.length){saveMistakes(getMistakes().concat(add));}refreshMistakeCounts();}
   function refreshMistakeCounts(){const n=getMistakes().length;const t1=n?(n+' concepts to revise'):'Take a test — wrong answers collect here';['mrev1','mrevCount'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=t1;});const p=document.getElementById('pfMist');if(p)p.textContent=n;const m2=document.getElementById('mrev2');if(m2)m2.textContent=n?(n+' concepts saved'):'Re-test what you got wrong';}
-  function startMistakes(){const m=getMistakes();if(!m.length){alert('No mistakes yet — take a test and your wrong answers collect here automatically, so you can re-test them.');return;}startFromPool(m.map(q=>Object.assign({},q)),'Mistakes & revision',Math.max(10,m.length),'revise');}
+  function startMistakes(){const m=getMistakes();if(!m.length){alert('No mistakes yet — take a test and your wrong answers collect here automatically, so you can re-test them.');return;}startFromPool(m.map(q=>Object.assign({},q)),'Mistakes & revision',Math.max(10,m.length),'revise','revise');}
+  // ---- attempts, streak & derived progress (localStorage, same pattern as mistakes) ----
+  const EXAM_DATE=new Date('2026-10-31T00:00:00');
+  function daysUntilExam(){return Math.max(0,Math.ceil((EXAM_DATE-new Date())/86400000));}
+  function getActiveDays(){try{return JSON.parse(localStorage.getItem('fmge_activedays')||'[]');}catch(e){return[];}}
+  function recordActiveDay(){const today=new Date().toISOString().slice(0,10);const days=getActiveDays();if(!days.includes(today)){days.push(today);localStorage.setItem('fmge_activedays',JSON.stringify(days.slice(-400)));}}
+  function computeStreak(){const days=new Set(getActiveDays());const oneDay=86400000;const today=new Date();today.setHours(0,0,0,0);let anchor=null;for(let back=0;back<=1;back++){const d=new Date(today.getTime()-back*oneDay);if(days.has(d.toISOString().slice(0,10))){anchor=d;break;}}if(!anchor)return 0;let streak=0,cursor=anchor;while(days.has(cursor.toISOString().slice(0,10))){streak++;cursor=new Date(cursor.getTime()-oneDay);}return streak;}
+  function getAttempts(){try{return JSON.parse(localStorage.getItem('fmge_attempts')||'[]');}catch(e){return[];}}
+  function saveAttemptRecord(rec){const a=getAttempts();a.push(rec);localStorage.setItem('fmge_attempts',JSON.stringify(a.slice(-300)));}
+  function aggregateBySubject(){const agg={};getAttempts().forEach(a=>{Object.entries(a.bySub||{}).forEach(([s,o])=>{const e=agg[s]=agg[s]||{c:0,t:0};e.c+=o.c;e.t+=o.t;});});return Object.entries(agg).map(([subject,o])=>({subject,pct:Math.round(100*o.c/o.t),n:o.t})).sort((a,b)=>a.pct-b.pct);}
+  function aggregateByTopic(){const agg={};getAttempts().forEach(a=>{Object.entries(a.byTopic||{}).forEach(([t,o])=>{const e=agg[t]=agg[t]||{c:0,t:0,subject:o.subject};e.c+=o.c;e.t+=o.t;});});return Object.entries(agg).map(([topic,o])=>({topic,subject:o.subject,pct:Math.round(100*o.c/o.t),n:o.t})).sort((a,b)=>a.pct-b.pct);}
+  let SYLLABUS=null;
+  async function loadSyllabus(){if(SYLLABUS)return SYLLABUS;try{SYLLABUS=await(await fetch('syllabus.json?v='+Date.now())).json();}catch(e){SYLLABUS={};}return SYLLABUS;}
+  async function aggregateByChapter(subject){
+    const syl=await loadSyllabus();const subSyl=syl[subject];
+    const mine=aggregateByTopic().filter(t=>t.subject===subject);const byName={};mine.forEach(t=>byName[t.topic]=t);
+    const chapters=[];const used=new Set();
+    (subSyl?subSyl.chapters:[]).forEach(ch=>{let c=0,t=0;ch.topics.forEach(top=>{const m=byName[top.name];if(m){used.add(top.name);c+=Math.round(m.pct*m.n/100);t+=m.n;}});if(t)chapters.push({chapter:ch.name,pct:Math.round(100*c/t),n:t});});
+    let oc=0,ot=0;mine.forEach(m=>{if(!used.has(m.topic)){oc+=Math.round(m.pct*m.n/100);ot+=m.n;}});if(ot)chapters.push({chapter:'Other topics',pct:Math.round(100*oc/ot),n:ot});
+    return chapters.sort((a,b)=>a.pct-b.pct);
+  }
+  // Loads history_seed.json once. If fmge_attempts is empty, adopts it wholesale. If it's
+  // non-empty but contains an older-shaped seed record (e.g. seeded before wrongQids existed),
+  // replaces just that record with the fresh one -- never touches/duplicates real live attempts.
+  async function ensureHistorySeeded(){
+    try{
+      const seed=await(await fetch('history_seed.json?v='+Date.now())).json();
+      const cur=getAttempts();
+      const key=a=>a.date+'|'+a.name;
+      const seedMap={};seed.forEach(s=>seedMap[key(s)]=s);
+      let merged,changed=false;
+      if(!cur.length){merged=seed.slice();changed=true;}
+      else{merged=cur.map(a=>{const s=seedMap[key(a)];if(s&&!a.wrongQids){changed=true;return s;}return a;});}
+      if(changed){
+        localStorage.setItem('fmge_attempts',JSON.stringify(merged));
+        const days=[...new Set(seed.map(a=>a.date.slice(0,10)))];
+        const existing=getActiveDays();
+        localStorage.setItem('fmge_activedays',JSON.stringify([...new Set([...existing,...days])].slice(-400)));
+      }
+    }catch(e){}
+  }
+  function computeProjected(){const attempts=getAttempts();if(!attempts.length)return null;const grand=attempts.filter(a=>a.kind==='grand');const pool=grand.length?grand:attempts;const avg=pool.reduce((s,a)=>s+a.pct,0)/pool.length;return Math.round(avg/100*300);}
+  function computeMastery(){const attempts=getAttempts();if(!attempts.length)return null;let c=0,t=0;attempts.forEach(a=>{c+=a.score;t+=a.total;});return t?Math.round(100*c/t):null;}
+  function renderHomeStats(){
+    const streak=computeStreak(),proj=computeProjected(),mastery=computeMastery(),bySubj=aggregateBySubject(),attempts=getAttempts();
+    const dp=document.getElementById('daysPill');if(dp)dp.textContent='⏳ '+daysUntilExam()+' days left';
+    const sp=document.getElementById('streakPill');if(sp)sp.textContent='🔥 '+streak;
+    const heroDelta=document.getElementById('heroDelta'),heroToday=document.getElementById('heroToday'),startBtn=document.getElementById('heroStartBtn');
+    if(proj==null){
+      if(heroDelta)heroDelta.textContent='—';
+      if(heroToday)heroToday.innerHTML='Take your first test to get a personalised plan.';
+      if(startBtn){startBtn.textContent='Go to Practice ▸';startBtn.onclick=()=>nav('practice');}
+    }else{
+      const delta=proj-150;
+      if(heroDelta)heroDelta.textContent=(delta>=0?'+':'')+delta;
+      const weakest=bySubj[0];
+      if(heroToday)heroToday.innerHTML=weakest?('Today: <b>20 timed '+weakest.subject+' questions</b> — your weakest backbone.'):'Keep going — take another test to refine your plan.';
+      if(startBtn && weakest){startBtn.textContent="Start today's set ▸";startBtn.onclick=()=>startSubject(weakest.subject,20,20);}
+    }
+    const fill=document.getElementById('homeFill'),lbl=document.getElementById('homeProgLbl');
+    if(proj==null){if(fill)fill.style.width='0%';if(lbl)lbl.textContent='Take a test to see your projection';}
+    else{if(fill)fill.style.width=Math.min(100,Math.round(proj/300*100))+'%';if(lbl)lbl.textContent='Projected '+proj+' · pass 150 '+(proj>=150?'✓':'');}
+    const projText=proj==null?'—':proj,masteryText=mastery==null?'—%':mastery+'%',deltaText=proj==null?'—':((proj-150>=0?'+':'')+(proj-150));
+    ['kpiProjHome','kpiProjProg','kpiProjProf'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=projText;});
+    ['kpiMasteryHome','kpiMasteryProg'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=masteryText;});
+    ['kpiDeltaProg','kpiDeltaProf'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=deltaText;});
+    ['kpiStreakProg','kpiStreakProf'].forEach(id=>{const e=document.getElementById(id);if(e)e.textContent=streak+'🔥';});
+    const barsEl=document.getElementById('progBars');
+    if(barsEl){
+      barsEl.innerHTML=bySubj.length?bySubj.slice(0,8).map(b=>`<div class="bar" style="cursor:pointer" data-subject="${b.subject.replace(/"/g,'&quot;')}"><span class="name">${b.subject}</span><span class="track"><span class="fill" style="width:${b.pct}%;background:${b.pct<50?'var(--red)':b.pct<70?'var(--amber)':'var(--green)'}"></span></span><span class="pct">${b.pct}%</span></div>`).join(''):'<div class="muted" style="padding:8px">Take a test to see your subject breakdown.</div>';
+      barsEl.querySelectorAll('.bar[data-subject]').forEach(b=>b.onclick=()=>openDrill(b.dataset.subject));
+    }
+    renderAttemptHistory(attempts);
+    renderTrend(attempts);
+  }
+  function barRow(name,pct,onClick){return `<div class="bar"${onClick?' style="cursor:pointer" data-n="'+name.replace(/"/g,'&quot;')+'"':''}><span class="name">${name}</span><span class="track"><span class="fill" style="width:${pct}%;background:${pct<50?'var(--red)':pct<70?'var(--amber)':'var(--green)'}"></span></span><span class="pct">${pct}%</span></div>`;}
+  function renderDrillList(items,onTap){
+    const el=document.getElementById('drillBody');
+    el.innerHTML=items.length?items.map(it=>barRow(it.name,it.pct,onTap)).join(''):'<div class="muted" style="padding:8px">No data yet.</div>';
+    if(onTap)el.querySelectorAll('.bar[data-n]').forEach(b=>b.onclick=()=>onTap(b.dataset.n));
+  }
+  async function topicsForChapter(subject,chapterName){
+    const syl=await loadSyllabus();const subSyl=syl[subject];
+    const mine=aggregateByTopic().filter(t=>t.subject===subject);
+    if(chapterName==='Other topics'){
+      const known=new Set();(subSyl?subSyl.chapters:[]).forEach(ch=>ch.topics.forEach(t=>known.add(t.name)));
+      return mine.filter(t=>!known.has(t.topic)).sort((a,b)=>a.pct-b.pct);
+    }
+    const ch=(subSyl?subSyl.chapters:[]).find(c=>c.name===chapterName);
+    if(!ch)return[];
+    const byName={};mine.forEach(t=>byName[t.topic]=t);
+    return ch.topics.map(t=>byName[t.name]).filter(Boolean).sort((a,b)=>a.pct-b.pct);
+  }
+  let drillSubject=null,drillChapter=null;
+  async function openDrill(subject){
+    drillSubject=subject;drillChapter=null;
+    document.getElementById('drillTitle').textContent=subject;
+    document.getElementById('drillOver').classList.add('active');
+    const chapters=await aggregateByChapter(subject);
+    renderDrillList(chapters.map(c=>({name:c.chapter,pct:c.pct})),openDrillChapter);
+  }
+  async function openDrillChapter(chapterName){
+    drillChapter=chapterName;
+    document.getElementById('drillTitle').textContent=drillSubject+' · '+chapterName;
+    const topics=await topicsForChapter(drillSubject,chapterName);
+    renderDrillList(topics.map(t=>({name:t.topic,pct:t.pct})),null);
+  }
+  function backDrill(){if(drillChapter){drillChapter=null;openDrill(drillSubject);}else closeDrill();}
+  function closeDrill(){document.getElementById('drillOver').classList.remove('active');}
+  function renderAttemptHistory(attempts){
+    const card=document.getElementById('attemptHistoryCard');if(!card)return;
+    const staticRow=card.querySelector('.row');
+    const rows=attempts.map((a,i)=>({a,i})).reverse().map(({a,i})=>{const d=new Date(a.date).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'});
+      return `<div class="row" data-idx="${i}"><div class="ic">📝</div><div class="t"><b>${a.name}</b><p>${d} — ${a.score}/${a.total} (${a.pct}%)</p></div><span class="go">▸</span></div>`;}).join('');
+    card.innerHTML=(staticRow?staticRow.outerHTML:'')+(rows||'<div class="row"><div class="t"><span class="muted">Take a test to start your first cycle</span></div></div>');
+    card.querySelectorAll('.row[data-idx]').forEach(r=>r.onclick=()=>openAttemptReview(+r.dataset.idx));
+  }
+  function openAttemptReview(idx){
+    const a=getAttempts()[idx];if(!a)return;
+    document.getElementById('reviewTitle').textContent=a.name;
+    const wq=a.wrongQids||[];
+    const body=document.getElementById('reviewBody');
+    body.innerHTML=wq.length?wq.map((w,i)=>{
+      const q=ALLQ.find(x=>x.n===w.qid);
+      return `<div class="row"${q?' data-i="'+i+'"':''}><div class="t"><b>✗ Q${i+1}${q?(' · '+q.subject):''}</b><p>You ${w.choice||'—'} · Correct ${w.correct}${q?'':' (question no longer in bank)'}</p></div><span class="go">${q?'See ›':''}</span></div>`;
+    }).join(''):'<div class="row"><div class="t"><b>No wrong answers 🎉</b></div></div>';
+    body.querySelectorAll('.row[data-i]').forEach(r=>r.onclick=()=>{
+      const w=wq[+r.dataset.i],q=ALLQ.find(x=>x.n===w.qid);if(!q)return;
+      renderSol({stem:q.stem,opts:q.options,correct:q.correct,ans:w.choice?'ABCDEFGH'.indexOf(w.choice):null,subject:q.subject,topic:q.topic,concept:q.concept,reference:q.reference,difficulty:q.difficulty,verified:q.verified});
+    });
+    document.getElementById('attemptReviewOver').classList.add('active');
+  }
+  function closeAttemptReview(){document.getElementById('attemptReviewOver').classList.remove('active');}
+  function renderTrend(attempts){
+    const box=document.getElementById('trendBox');if(!box)return;
+    if(attempts.length<2){box.innerHTML='<div class="muted" style="text-align:center;font-size:12px">Take a few tests to see your trend</div>';return;}
+    const recent=attempts.slice(-10);
+    const vals=recent.map(a=>Math.round(a.pct/100*300));
+    const w=300,h=100,padX=16,padY=18,max=300;
+    const stepX=recent.length>1?(w-2*padX)/(recent.length-1):0;
+    const pts=vals.map((v,i)=>[padX+i*stepX,h-padY-(v/max)*(h-2*padY)]);
+    const passY=h-padY-(150/max)*(h-2*padY);
+    const line=pts.map(p=>p.join(',')).join(' ');
+    const area=`${pts[0][0]},${h-padY} ${line} ${pts[pts.length-1][0]},${h-padY}`;
+    const dots=pts.map((p,i)=>`<circle cx="${p[0]}" cy="${p[1]}" r="4" fill="#fff" stroke="var(--accent)" stroke-width="2.5"/>`+
+      `<text x="${p[0]}" y="${p[1]-9}" font-size="9" font-weight="700" fill="var(--accent-ink)" text-anchor="middle">${vals[i]}</text>`).join('');
+    const labels=recent.map(a=>`<span style="font-size:10px;color:var(--muted);font-weight:600">${a.name}</span>`).join('');
+    box.innerHTML=`<svg width="100%" height="100" viewBox="0 0 ${w} ${h}">`+
+      `<defs><linearGradient id="trendGrad" x1="0" y1="0" x2="0" y2="1">`+
+      `<stop offset="0%" stop-color="var(--accent)" stop-opacity="0.22"/><stop offset="100%" stop-color="var(--accent)" stop-opacity="0"/>`+
+      `</linearGradient></defs>`+
+      `<line x1="${padX}" y1="${passY}" x2="${w-padX}" y2="${passY}" stroke="var(--green)" stroke-width="1" stroke-dasharray="3,3"/>`+
+      `<text x="${w-padX}" y="${passY-4}" font-size="8" fill="var(--green)" text-anchor="end" font-weight="700">pass 150</text>`+
+      `<polygon points="${area}" fill="url(#trendGrad)"/>`+
+      `<polyline points="${line}" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>`+
+      dots+`</svg>`+
+      `<div style="display:flex;justify-content:space-between;margin-top:2px;padding:0 ${padX}px">${labels}</div>`;
+  }
   function quitTest(){document.getElementById('flow-test').classList.remove('active');stopTimer();}
   function renderQ(){const q=Q[cur];document.getElementById('qnum').textContent='Q'+(cur+1);document.getElementById('stem').textContent=q.stem;document.getElementById('prog').textContent=`Q${cur+1} of ${N}`;document.getElementById('navPill').textContent='▦ '+(cur+1)+'/'+N;const box=document.getElementById('opts');box.innerHTML='';['A','B','C','D'].forEach((k,i)=>{const d=document.createElement('div');d.className='opt'+(q.ans===i?' sel':'');d.style.cursor='pointer';d.innerHTML=`<span class="k">${k}</span> ${q.opts[i]}`;d.onclick=()=>{q.ans=i;renderQ();};box.appendChild(d);});const m=document.getElementById('markBtn');m.textContent=q.marked?'★ Marked':'★ Mark';m.style.color=q.marked?'var(--amber)':'';document.getElementById('nextBtn').textContent=cur===N-1?'Submit ✓':'Next ▸';}
   function qnav(d){cur=Math.max(0,Math.min(N-1,cur+d));renderQ();}
@@ -366,8 +539,10 @@
   function openSheet(){const g=document.getElementById('navgrid');g.innerHTML='';for(let i=0;i<N;i++){const b=document.createElement('button');b.textContent=i+1;if(Q[i].marked)b.classList.add('marked');else if(Q[i].ans!=null)b.classList.add('answered');b.onclick=()=>{cur=i;renderQ();closeSheet();};g.appendChild(b);}document.getElementById('sheet').classList.add('active');}
   function closeSheet(){document.getElementById('sheet').classList.remove('active');}
   function submitTest(){closeSheet();stopTimer();
-    let sc=0;const bySub={},wrong=[];
-    Q.forEach((q,i)=>{const ok=q.ans===q.correct;if(ok)sc++;const s=q.subject||'—';(bySub[s]=bySub[s]||{c:0,t:0}).t++;if(ok)bySub[s].c++;if(!ok)wrong.push({i,q});});
+    let sc=0;const bySub={},byTopic={},wrong=[];
+    Q.forEach((q,i)=>{const ok=q.ans===q.correct;if(ok)sc++;const s=q.subject||'—';(bySub[s]=bySub[s]||{c:0,t:0}).t++;if(ok)bySub[s].c++;
+      if(q.topic){const t=byTopic[q.topic]=byTopic[q.topic]||{c:0,t:0,subject:s};t.t++;if(ok)t.c++;}
+      if(!ok)wrong.push({i,q});});
     document.getElementById('resScore').textContent=sc;document.getElementById('resTot').textContent='/'+N;
     const pct=Math.round(100*sc/N),dlt=document.getElementById('resDelta');
     dlt.textContent=(pct>=50?'✅ ':'◔ ')+pct+'% correct';dlt.style.background=pct>=50?'var(--green-soft)':'var(--red-soft)';dlt.style.color=pct>=50?'var(--green)':'var(--red)';
@@ -375,6 +550,9 @@
     document.getElementById('resBars').innerHTML=bars.map(b=>`<div class="bar"><span class="name">${b.s}</span><span class="track"><span class="fill" style="width:${b.p}%;background:${b.p<50?'var(--red)':b.p<70?'var(--amber)':'var(--green)'}"></span></span><span class="pct">${b.p}%</span></div>`).join('')||'<div class="muted" style="padding:8px">—</div>';
     document.getElementById('resReview').innerHTML=wrong.length?wrong.slice(0,50).map(w=>`<div class="row" onclick="openSolFor(${w.i})"><div class="t"><b>✗ Q${w.i+1} · ${w.q.subject}</b><p>You ${w.q.ans==null?'—':'ABCD'[w.q.ans]} · Correct ${'ABCD'[w.q.correct]}</p></div><span class="go">See ›</span></div>`).join(''):'<div class="row"><div class="t"><b>No wrong answers 🎉</b></div></div>';
     recordWrong(wrong.map(w=>({stem:w.q.stem,opts:w.q.opts,correct:w.q.correct,subject:w.q.subject,topic:w.q.topic,concept:w.q.concept,reference:w.q.reference,difficulty:w.q.difficulty,n:w.q.n})));
+    const wrongQids=wrong.filter(w=>w.q.n!=null).map(w=>({qid:w.q.n,choice:w.q.ans==null?null:'ABCD'[w.q.ans],correct:'ABCD'[w.q.correct]}));
+    saveAttemptRecord({date:new Date().toISOString(),name:TEST?TEST.name:'Test',kind:TEST?TEST.kind:'other',score:sc,total:N,pct,bySub,byTopic,wrongQids});
+    renderHomeStats();
     document.getElementById('flow-test').classList.remove('active');document.getElementById('flow-results').classList.add('active');}
   function closeResults(){document.getElementById('flow-results').classList.remove('active');}
   function renderSol(q){

@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Marrow module: local-only, personal-study-source content, never publish
+/marrow

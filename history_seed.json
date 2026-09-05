@@ -1,0 +1,2588 @@
+[
+  {
+    "date": "2026-07-04T00:00:00.000Z",
+    "name": "Cycle 1",
+    "kind": "grand",
+    "score": 51,
+    "total": 100,
+    "pct": 51.0,
+    "bySub": {
+      "Microbiology": {
+        "c": 12,
+        "t": 18
+      },
+      "Pathology": {
+        "c": 10,
+        "t": 24
+      },
+      "Pharmacology": {
+        "c": 12,
+        "t": 24
+      },
+      "Medicine": {
+        "c": 8,
+        "t": 20
+      },
+      "PSM (Community Medicine)": {
+        "c": 9,
+        "t": 14
+      }
+    },
+    "byTopic": {
+      "Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas": {
+        "c": 2,
+        "t": 2,
+        "subject": "Microbiology"
+      },
+      "Gram-positive: Staph, Strep, toxins": {
+        "c": 1,
+        "t": 3,
+        "subject": "Microbiology"
+      },
+      "Mycobacteria (TB, leprosy) & lab diagnosis": {
+        "c": 0,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Sterilization, disinfection, stains, culture media": {
+        "c": 1,
+        "t": 2,
+        "subject": "Microbiology"
+      },
+      "Immunoglobulins, complement, hypersensitivity": {
+        "c": 2,
+        "t": 2,
+        "subject": "Microbiology"
+      },
+      "Medically important fungi": {
+        "c": 1,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Malaria & other protozoa": {
+        "c": 2,
+        "t": 2,
+        "subject": "Microbiology"
+      },
+      "Hepatitis viruses (serology markers)": {
+        "c": 2,
+        "t": 3,
+        "subject": "Microbiology"
+      },
+      "HIV: virology, diagnosis, opportunistic infections": {
+        "c": 1,
+        "t": 2,
+        "subject": "Microbiology"
+      },
+      "Cell injury, adaptation, necrosis vs apoptosis": {
+        "c": 1,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "Hypersensitivity, autoimmunity, amyloidosis": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Acute & chronic inflammation, healing/repair": {
+        "c": 1,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "Neoplasia: grading vs staging, tumor markers": {
+        "c": 1,
+        "t": 3,
+        "subject": "Pathology"
+      },
+      "Anemias (micro/macro/hemolytic)": {
+        "c": 2,
+        "t": 4,
+        "subject": "Pathology"
+      },
+      "Bleeding & coagulation disorders": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Leukemias (acute/chronic) & basic classification": {
+        "c": 1,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "Lymphomas (Hodgkin vs NHL), Reed-Sternberg": {
+        "c": 2,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "CNS tumors & basics": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Atherosclerosis, MI, vasculitis": {
+        "c": 0,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "Cirrhosis, hepatitis, jaundice patterns": {
+        "c": 0,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "Glomerulonephritis, nephrotic vs nephritic": {
+        "c": 0,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "Adrenergic agonists/antagonists": {
+        "c": 1,
+        "t": 2,
+        "subject": "Pharmacology"
+      },
+      "Cholinergic & anticholinergic drugs": {
+        "c": 0,
+        "t": 2,
+        "subject": "Pharmacology"
+      },
+      "Antibiotics: classes, MOA, resistance, DoC": {
+        "c": 1,
+        "t": 3,
+        "subject": "Pharmacology"
+      },
+      "Antivirals, antifungals, antimalarials, anticancer": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Anti-TB drugs & ADRs": {
+        "c": 2,
+        "t": 2,
+        "subject": "Pharmacology"
+      },
+      "Antiepileptics": {
+        "c": 2,
+        "t": 2,
+        "subject": "Pharmacology"
+      },
+      "General & local anaesthetics, opioids": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antipsychotics, antidepressants": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Heart failure, antiarrhythmics, antianginals": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antihypertensives": {
+        "c": 1,
+        "t": 2,
+        "subject": "Pharmacology"
+      },
+      "Insulin/OHAs, thyroid, corticosteroids": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "ADRs, enzyme inducers/inhibitors": {
+        "c": 2,
+        "t": 2,
+        "subject": "Pharmacology"
+      },
+      "Pharmacokinetics/dynamics, receptors": {
+        "c": 1,
+        "t": 4,
+        "subject": "Pharmacology"
+      },
+      "Heart failure & valvular disease": {
+        "c": 1,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "IHD / acute MI: diagnosis & management": {
+        "c": 1,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "Diabetes mellitus: diagnosis, complications, mgmt": {
+        "c": 0,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "Thyroid disorders": {
+        "c": 0,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "Cirrhosis, hepatitis, GI bleed, IBD/PUD": {
+        "c": 0,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "Dengue, malaria, enteric fever": {
+        "c": 0,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "AKI/CKD & electrolyte/acid-base disorders": {
+        "c": 2,
+        "t": 3,
+        "subject": "Medicine"
+      },
+      "Stroke, epilepsy, meningitis": {
+        "c": 1,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "COPD & asthma": {
+        "c": 2,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "Pulmonary TB: diagnosis & regimens": {
+        "c": 1,
+        "t": 3,
+        "subject": "Medicine"
+      },
+      "Biostatistics: tests & distributions": {
+        "c": 2,
+        "t": 2,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Epidemiology & control: TB, malaria, HIV": {
+        "c": 0,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Demography, family planning, MCH indicators": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Water/waste, biomedical waste, vital statistics": {
+        "c": 0,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Study designs; incidence vs prevalence": {
+        "c": 1,
+        "t": 3,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Screening: sensitivity/specificity/PPV": {
+        "c": 2,
+        "t": 3,
+        "subject": "PSM (Community Medicine)"
+      },
+      "National immunization schedule": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Nutritional requirements & deficiency diseases": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "National health programs (NHM, NTEP, etc.)": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      }
+    },
+    "wrongQids": [
+      {
+        "qid": "Q_c1d_010",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_053",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_057",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_050",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_061",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_062",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_002",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_004",
+        "choice": "A",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_005",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_007",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_011",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_012",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_014",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_024",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_018",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_019",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_022",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_023",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_020",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_021",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_031",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_029",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_030",
+        "choice": "D",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_042",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_043",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_047",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_039",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_035",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_034",
+        "choice": "C",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_c1d_004",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1d_005",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_025",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_069",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_067",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_074",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_077",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_078",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_085",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_083",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_084",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_079",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_081",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_072",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_073",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_094",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_101",
+        "choice": "A",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1d_006",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_086",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_088",
+        "choice": "C",
+        "correct": "A"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-06T00:00:00.000Z",
+    "name": "Cycle 2",
+    "kind": "grand",
+    "score": 55,
+    "total": 100,
+    "pct": 55.0,
+    "bySub": {
+      "Anatomy": {
+        "c": 4,
+        "t": 7
+      },
+      "Biochemistry": {
+        "c": 4,
+        "t": 6
+      },
+      "Forensic Medicine (FMT)": {
+        "c": 1,
+        "t": 1
+      },
+      "Microbiology": {
+        "c": 5,
+        "t": 10
+      },
+      "Pathology": {
+        "c": 4,
+        "t": 14
+      },
+      "Pharmacology": {
+        "c": 8,
+        "t": 14
+      },
+      "Physiology": {
+        "c": 2,
+        "t": 6
+      },
+      "Medicine": {
+        "c": 9,
+        "t": 15
+      },
+      "Obstetrics & Gynaecology": {
+        "c": 5,
+        "t": 6
+      },
+      "PSM (Community Medicine)": {
+        "c": 6,
+        "t": 10
+      },
+      "Pediatrics": {
+        "c": 2,
+        "t": 4
+      },
+      "Surgery": {
+        "c": 5,
+        "t": 7
+      }
+    },
+    "byTopic": {
+      "Inguinal canal, GIT relations": {
+        "c": 1,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Cranial nerves & nuclei": {
+        "c": 0,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Pharyngeal arches, germ-layer derivatives": {
+        "c": 0,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Brachial plexus & nerve injuries (radial/median/ulnar)": {
+        "c": 1,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Lower limb: femoral/sciatic nerve, foot drop": {
+        "c": 1,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Spinal cord tracts & lesions": {
+        "c": 0,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Mediastinum, heart & great vessels": {
+        "c": 1,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Amino acid metabolism & urea cycle": {
+        "c": 0,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "Glycolysis, TCA, gluconeogenesis (key enzymes)": {
+        "c": 1,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "Inborn errors of metabolism": {
+        "c": 0,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "Lipid metabolism & lipoproteins": {
+        "c": 1,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "DNA/RNA, replication, mutations": {
+        "c": 1,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "Vitamins & deficiency diseases": {
+        "c": 1,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "Death, postmortem changes (rigor/livor/algor)": {
+        "c": 1,
+        "t": 1,
+        "subject": "Forensic Medicine (FMT)"
+      },
+      "Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas": {
+        "c": 1,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Gram-positive: Staph, Strep, toxins": {
+        "c": 1,
+        "t": 2,
+        "subject": "Microbiology"
+      },
+      "Mycobacteria (TB, leprosy) & lab diagnosis": {
+        "c": 0,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Sterilization, disinfection, stains, culture media": {
+        "c": 0,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Immunoglobulins, complement, hypersensitivity": {
+        "c": 1,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Medically important fungi": {
+        "c": 1,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Malaria & other protozoa": {
+        "c": 1,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Hepatitis viruses (serology markers)": {
+        "c": 0,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "HIV: virology, diagnosis, opportunistic infections": {
+        "c": 0,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Cell injury, adaptation, necrosis vs apoptosis": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Hypersensitivity, autoimmunity, amyloidosis": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Acute & chronic inflammation, healing/repair": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Neoplasia: grading vs staging, tumor markers": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Anemias (micro/macro/hemolytic)": {
+        "c": 1,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "Bleeding & coagulation disorders": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Leukemias (acute/chronic) & basic classification": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Lymphomas (Hodgkin vs NHL), Reed-Sternberg": {
+        "c": 2,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "CNS tumors & basics": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Atherosclerosis, MI, vasculitis": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Cirrhosis, hepatitis, jaundice patterns": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Glomerulonephritis, nephrotic vs nephritic": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Adrenergic agonists/antagonists": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Cholinergic & anticholinergic drugs": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antibiotics: classes, MOA, resistance, DoC": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antivirals, antifungals, antimalarials, anticancer": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Anti-TB drugs & ADRs": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antiepileptics": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "General & local anaesthetics, opioids": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antipsychotics, antidepressants": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Heart failure, antiarrhythmics, antianginals": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antihypertensives": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Insulin/OHAs, thyroid, corticosteroids": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "ADRs, enzyme inducers/inhibitors": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Pharmacokinetics/dynamics, receptors": {
+        "c": 0,
+        "t": 2,
+        "subject": "Pharmacology"
+      },
+      "Synapses, reflexes, ascending/descending pathways": {
+        "c": 0,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "Cardiac cycle, ECG basis, BP regulation": {
+        "c": 1,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "Hormone actions & feedback": {
+        "c": 0,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "Action potential & neuromuscular junction": {
+        "c": 0,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "GFR, clearance, urine concentration": {
+        "c": 0,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "O2/CO2 transport, hypoxia": {
+        "c": 1,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "Heart failure & valvular disease": {
+        "c": 1,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "IHD / acute MI: diagnosis & management": {
+        "c": 1,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "Diabetes mellitus: diagnosis, complications, mgmt": {
+        "c": 0,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "Thyroid disorders": {
+        "c": 1,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "Cirrhosis, hepatitis, GI bleed, IBD/PUD": {
+        "c": 0,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "Dengue, malaria, enteric fever": {
+        "c": 0,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "AKI/CKD & electrolyte/acid-base disorders": {
+        "c": 2,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "Stroke, epilepsy, meningitis": {
+        "c": 1,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "COPD & asthma": {
+        "c": 2,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "Pulmonary TB: diagnosis & regimens": {
+        "c": 1,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "Antenatal care & normal labour": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Contraception": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Preeclampsia/eclampsia, APH": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Menstrual disorders, PCOS, fibroids": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Ca cervix / endometrium / ovary; screening": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Postpartum haemorrhage": {
+        "c": 0,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Biostatistics: tests & distributions": {
+        "c": 1,
+        "t": 2,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Epidemiology & control: TB, malaria, HIV": {
+        "c": 0,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Demography, family planning, MCH indicators": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Water/waste, biomedical waste, vital statistics": {
+        "c": 0,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Study designs; incidence vs prevalence": {
+        "c": 0,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Screening: sensitivity/specificity/PPV": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "National immunization schedule": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Nutritional requirements & deficiency diseases": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "National health programs (NHM, NTEP, etc.)": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Growth & development milestones": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pediatrics"
+      },
+      "Immunization & common infections": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pediatrics"
+      },
+      "Neonatal jaundice, sepsis, resuscitation": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pediatrics"
+      },
+      "PEM, breastfeeding, micronutrients": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pediatrics"
+      },
+      "Acute abdomen, appendicitis, obstruction": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Breast lumps & carcinoma breast": {
+        "c": 0,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Hernias (inguinal, femoral)": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Gallstones, pancreatitis": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Thyroid swellings & surgery": {
+        "c": 0,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Trauma, shock, ATLS basics": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Urinary stones, BPH, hematuria": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      }
+    },
+    "wrongQids": [
+      {
+        "qid": "Q_A_008",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_A_011",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_A_010",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_A_025",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_A_031",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_053",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_057",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_050",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_061",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_062",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_001",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_003",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_005",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_010",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_017",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_013",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_024",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_018",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_022",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_020",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_031",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_029",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_035",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_034",
+        "choice": "B",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_c1d_004",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1d_005",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_A_021",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_A_019",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_A_012",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_A_015",
+        "choice": "A",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_069",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_067",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_074",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_085",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_083",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_072",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_018",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1d_007",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_094",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_101",
+        "choice": "A",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1d_006",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_035",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_031",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_008",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_010",
+        "choice": "B",
+        "correct": "A"
+      }
+    ]
+  },
+  {
+    "date": "2026-07-07T00:00:00.000Z",
+    "name": "Cycle 3",
+    "kind": "grand",
+    "score": 176,
+    "total": 300,
+    "pct": 58.7,
+    "bySub": {
+      "Anatomy": {
+        "c": 10,
+        "t": 14
+      },
+      "Biochemistry": {
+        "c": 4,
+        "t": 9
+      },
+      "Forensic Medicine (FMT)": {
+        "c": 7,
+        "t": 12
+      },
+      "Microbiology": {
+        "c": 18,
+        "t": 32
+      },
+      "Pathology": {
+        "c": 19,
+        "t": 39
+      },
+      "Pharmacology": {
+        "c": 23,
+        "t": 40
+      },
+      "Physiology": {
+        "c": 7,
+        "t": 12
+      },
+      "Anaesthesia": {
+        "c": 1,
+        "t": 5
+      },
+      "Dermatology": {
+        "c": 1,
+        "t": 4
+      },
+      "ENT": {
+        "c": 3,
+        "t": 5
+      },
+      "Medicine": {
+        "c": 29,
+        "t": 46
+      },
+      "Obstetrics & Gynaecology": {
+        "c": 13,
+        "t": 14
+      },
+      "Ophthalmology": {
+        "c": 2,
+        "t": 8
+      },
+      "Orthopedics": {
+        "c": 2,
+        "t": 5
+      },
+      "PSM (Community Medicine)": {
+        "c": 18,
+        "t": 28
+      },
+      "Pediatrics": {
+        "c": 7,
+        "t": 10
+      },
+      "Psychiatry": {
+        "c": 3,
+        "t": 5
+      },
+      "Radiology": {
+        "c": 4,
+        "t": 4
+      },
+      "Surgery": {
+        "c": 5,
+        "t": 8
+      }
+    },
+    "byTopic": {
+      "Inguinal canal, GIT relations": {
+        "c": 1,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Cranial nerves & nuclei": {
+        "c": 2,
+        "t": 3,
+        "subject": "Anatomy"
+      },
+      "Pharyngeal arches, germ-layer derivatives": {
+        "c": 2,
+        "t": 2,
+        "subject": "Anatomy"
+      },
+      "Brachial plexus & nerve injuries (radial/median/ulnar)": {
+        "c": 2,
+        "t": 4,
+        "subject": "Anatomy"
+      },
+      "Lower limb: femoral/sciatic nerve, foot drop": {
+        "c": 1,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Spinal cord tracts & lesions": {
+        "c": 2,
+        "t": 2,
+        "subject": "Anatomy"
+      },
+      "Mediastinum, heart & great vessels": {
+        "c": 0,
+        "t": 1,
+        "subject": "Anatomy"
+      },
+      "Amino acid metabolism & urea cycle": {
+        "c": 0,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "Glycolysis, TCA, gluconeogenesis (key enzymes)": {
+        "c": 2,
+        "t": 2,
+        "subject": "Biochemistry"
+      },
+      "Inborn errors of metabolism": {
+        "c": 0,
+        "t": 2,
+        "subject": "Biochemistry"
+      },
+      "Lipid metabolism & lipoproteins": {
+        "c": 1,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "DNA/RNA, replication, mutations": {
+        "c": 1,
+        "t": 1,
+        "subject": "Biochemistry"
+      },
+      "Vitamins & deficiency diseases": {
+        "c": 0,
+        "t": 2,
+        "subject": "Biochemistry"
+      },
+      "Asphyxial deaths (hanging, drowning)": {
+        "c": 2,
+        "t": 2,
+        "subject": "Forensic Medicine (FMT)"
+      },
+      "Wounds, firearm & mechanical injuries": {
+        "c": 1,
+        "t": 2,
+        "subject": "Forensic Medicine (FMT)"
+      },
+      "Legal procedure, consent, key IPC sections": {
+        "c": 1,
+        "t": 3,
+        "subject": "Forensic Medicine (FMT)"
+      },
+      "Death, postmortem changes (rigor/livor/algor)": {
+        "c": 2,
+        "t": 2,
+        "subject": "Forensic Medicine (FMT)"
+      },
+      "Common poisons (OPC, corrosives, snakebite)": {
+        "c": 1,
+        "t": 3,
+        "subject": "Forensic Medicine (FMT)"
+      },
+      "Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas": {
+        "c": 3,
+        "t": 4,
+        "subject": "Microbiology"
+      },
+      "Gram-positive: Staph, Strep, toxins": {
+        "c": 4,
+        "t": 5,
+        "subject": "Microbiology"
+      },
+      "Mycobacteria (TB, leprosy) & lab diagnosis": {
+        "c": 3,
+        "t": 4,
+        "subject": "Microbiology"
+      },
+      "Sterilization, disinfection, stains, culture media": {
+        "c": 3,
+        "t": 4,
+        "subject": "Microbiology"
+      },
+      "Immunoglobulins, complement, hypersensitivity": {
+        "c": 2,
+        "t": 3,
+        "subject": "Microbiology"
+      },
+      "Medically important fungi": {
+        "c": 1,
+        "t": 1,
+        "subject": "Microbiology"
+      },
+      "Malaria & other protozoa": {
+        "c": 1,
+        "t": 4,
+        "subject": "Microbiology"
+      },
+      "Hepatitis viruses (serology markers)": {
+        "c": 0,
+        "t": 4,
+        "subject": "Microbiology"
+      },
+      "HIV: virology, diagnosis, opportunistic infections": {
+        "c": 1,
+        "t": 3,
+        "subject": "Microbiology"
+      },
+      "Cell injury, adaptation, necrosis vs apoptosis": {
+        "c": 1,
+        "t": 4,
+        "subject": "Pathology"
+      },
+      "Hypersensitivity, autoimmunity, amyloidosis": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Acute & chronic inflammation, healing/repair": {
+        "c": 1,
+        "t": 4,
+        "subject": "Pathology"
+      },
+      "Neoplasia: grading vs staging, tumor markers": {
+        "c": 2,
+        "t": 4,
+        "subject": "Pathology"
+      },
+      "Anemias (micro/macro/hemolytic)": {
+        "c": 3,
+        "t": 6,
+        "subject": "Pathology"
+      },
+      "Bleeding & coagulation disorders": {
+        "c": 1,
+        "t": 3,
+        "subject": "Pathology"
+      },
+      "Leukemias (acute/chronic) & basic classification": {
+        "c": 1,
+        "t": 3,
+        "subject": "Pathology"
+      },
+      "Lymphomas (Hodgkin vs NHL), Reed-Sternberg": {
+        "c": 2,
+        "t": 2,
+        "subject": "Pathology"
+      },
+      "CNS tumors & basics": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pathology"
+      },
+      "Atherosclerosis, MI, vasculitis": {
+        "c": 1,
+        "t": 3,
+        "subject": "Pathology"
+      },
+      "Cirrhosis, hepatitis, jaundice patterns": {
+        "c": 3,
+        "t": 4,
+        "subject": "Pathology"
+      },
+      "Glomerulonephritis, nephrotic vs nephritic": {
+        "c": 2,
+        "t": 4,
+        "subject": "Pathology"
+      },
+      "Adrenergic agonists/antagonists": {
+        "c": 1,
+        "t": 3,
+        "subject": "Pharmacology"
+      },
+      "Cholinergic & anticholinergic drugs": {
+        "c": 2,
+        "t": 4,
+        "subject": "Pharmacology"
+      },
+      "Antibiotics: classes, MOA, resistance, DoC": {
+        "c": 2,
+        "t": 5,
+        "subject": "Pharmacology"
+      },
+      "Antivirals, antifungals, antimalarials, anticancer": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Anti-TB drugs & ADRs": {
+        "c": 4,
+        "t": 4,
+        "subject": "Pharmacology"
+      },
+      "Antiepileptics": {
+        "c": 3,
+        "t": 3,
+        "subject": "Pharmacology"
+      },
+      "General & local anaesthetics, opioids": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Antipsychotics, antidepressants": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "Heart failure, antiarrhythmics, antianginals": {
+        "c": 3,
+        "t": 4,
+        "subject": "Pharmacology"
+      },
+      "Antihypertensives": {
+        "c": 1,
+        "t": 4,
+        "subject": "Pharmacology"
+      },
+      "Insulin/OHAs, thyroid, corticosteroids": {
+        "c": 0,
+        "t": 1,
+        "subject": "Pharmacology"
+      },
+      "ADRs, enzyme inducers/inhibitors": {
+        "c": 1,
+        "t": 3,
+        "subject": "Pharmacology"
+      },
+      "Pharmacokinetics/dynamics, receptors": {
+        "c": 4,
+        "t": 6,
+        "subject": "Pharmacology"
+      },
+      "Synapses, reflexes, ascending/descending pathways": {
+        "c": 0,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "Cardiac cycle, ECG basis, BP regulation": {
+        "c": 1,
+        "t": 2,
+        "subject": "Physiology"
+      },
+      "Hormone actions & feedback": {
+        "c": 3,
+        "t": 3,
+        "subject": "Physiology"
+      },
+      "Action potential & neuromuscular junction": {
+        "c": 1,
+        "t": 1,
+        "subject": "Physiology"
+      },
+      "GFR, clearance, urine concentration": {
+        "c": 2,
+        "t": 3,
+        "subject": "Physiology"
+      },
+      "O2/CO2 transport, hypoxia": {
+        "c": 0,
+        "t": 2,
+        "subject": "Physiology"
+      },
+      "Preop assessment (ASA), airway management": {
+        "c": 0,
+        "t": 1,
+        "subject": "Anaesthesia"
+      },
+      "CPR / BLS-ACLS basics": {
+        "c": 0,
+        "t": 1,
+        "subject": "Anaesthesia"
+      },
+      "Local anaesthetics (max doses, toxicity)": {
+        "c": 1,
+        "t": 3,
+        "subject": "Anaesthesia"
+      },
+      "Pemphigus vs pemphigoid; STDs": {
+        "c": 0,
+        "t": 1,
+        "subject": "Dermatology"
+      },
+      "Leprosy (types, lepra reactions)": {
+        "c": 0,
+        "t": 2,
+        "subject": "Dermatology"
+      },
+      "Psoriasis, lichen planus": {
+        "c": 1,
+        "t": 1,
+        "subject": "Dermatology"
+      },
+      "Otitis media, CSOM, hearing loss": {
+        "c": 1,
+        "t": 3,
+        "subject": "ENT"
+      },
+      "Sinusitis, epistaxis, DNS": {
+        "c": 1,
+        "t": 1,
+        "subject": "ENT"
+      },
+      "Tonsillitis, carcinoma larynx": {
+        "c": 1,
+        "t": 1,
+        "subject": "ENT"
+      },
+      "Heart failure & valvular disease": {
+        "c": 2,
+        "t": 2,
+        "subject": "Medicine"
+      },
+      "IHD / acute MI: diagnosis & management": {
+        "c": 3,
+        "t": 7,
+        "subject": "Medicine"
+      },
+      "Adrenal disorders: Cushing's, Conn's, Addison's": {
+        "c": 2,
+        "t": 3,
+        "subject": "Medicine"
+      },
+      "Diabetes mellitus: diagnosis, complications, mgmt": {
+        "c": 3,
+        "t": 5,
+        "subject": "Medicine"
+      },
+      "Thyroid disorders": {
+        "c": 2,
+        "t": 3,
+        "subject": "Medicine"
+      },
+      "Cirrhosis, hepatitis, GI bleed, IBD/PUD": {
+        "c": 0,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "Dengue, malaria, enteric fever": {
+        "c": 2,
+        "t": 4,
+        "subject": "Medicine"
+      },
+      "AKI/CKD & electrolyte/acid-base disorders": {
+        "c": 4,
+        "t": 6,
+        "subject": "Medicine"
+      },
+      "Muscular dystrophies & neuromuscular disorders": {
+        "c": 0,
+        "t": 1,
+        "subject": "Medicine"
+      },
+      "Stroke, epilepsy, meningitis": {
+        "c": 4,
+        "t": 4,
+        "subject": "Medicine"
+      },
+      "COPD & asthma": {
+        "c": 3,
+        "t": 5,
+        "subject": "Medicine"
+      },
+      "Pulmonary TB: diagnosis & regimens": {
+        "c": 4,
+        "t": 5,
+        "subject": "Medicine"
+      },
+      "Antenatal care & normal labour": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Contraception": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Preeclampsia/eclampsia, APH": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Menstrual disorders, PCOS, fibroids": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Ca cervix / endometrium / ovary; screening": {
+        "c": 1,
+        "t": 1,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Postpartum haemorrhage": {
+        "c": 3,
+        "t": 4,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Abortion, ectopic pregnancy, recurrent pregnancy loss": {
+        "c": 5,
+        "t": 5,
+        "subject": "Obstetrics & Gynaecology"
+      },
+      "Cataract": {
+        "c": 0,
+        "t": 1,
+        "subject": "Ophthalmology"
+      },
+      "Glaucoma": {
+        "c": 1,
+        "t": 3,
+        "subject": "Ophthalmology"
+      },
+      "Refractive errors": {
+        "c": 1,
+        "t": 1,
+        "subject": "Ophthalmology"
+      },
+      "Diabetic retinopathy, retinal detachment": {
+        "c": 0,
+        "t": 3,
+        "subject": "Ophthalmology"
+      },
+      "Specific fractures (Colles, NOF, supracondylar) & healing": {
+        "c": 1,
+        "t": 3,
+        "subject": "Orthopedics"
+      },
+      "Osteomyelitis & TB spine": {
+        "c": 0,
+        "t": 1,
+        "subject": "Orthopedics"
+      },
+      "Bone tumours; CTEV, DDH": {
+        "c": 1,
+        "t": 1,
+        "subject": "Orthopedics"
+      },
+      "Biostatistics: tests & distributions": {
+        "c": 1,
+        "t": 2,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Epidemiology & control: TB, malaria, HIV": {
+        "c": 1,
+        "t": 4,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Demography, family planning, MCH indicators": {
+        "c": 1,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Water/waste, biomedical waste, vital statistics": {
+        "c": 0,
+        "t": 1,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Study designs; incidence vs prevalence": {
+        "c": 3,
+        "t": 6,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Screening: sensitivity/specificity/PPV": {
+        "c": 1,
+        "t": 3,
+        "subject": "PSM (Community Medicine)"
+      },
+      "National immunization schedule": {
+        "c": 3,
+        "t": 3,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Nutritional requirements & deficiency diseases": {
+        "c": 4,
+        "t": 4,
+        "subject": "PSM (Community Medicine)"
+      },
+      "National health programs (NHM, NTEP, etc.)": {
+        "c": 4,
+        "t": 4,
+        "subject": "PSM (Community Medicine)"
+      },
+      "Growth & development milestones": {
+        "c": 3,
+        "t": 3,
+        "subject": "Pediatrics"
+      },
+      "Immunization & common infections": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pediatrics"
+      },
+      "Neonatal jaundice, sepsis, resuscitation": {
+        "c": 2,
+        "t": 5,
+        "subject": "Pediatrics"
+      },
+      "PEM, breastfeeding, micronutrients": {
+        "c": 1,
+        "t": 1,
+        "subject": "Pediatrics"
+      },
+      "Anxiety disorders & substance use": {
+        "c": 0,
+        "t": 1,
+        "subject": "Psychiatry"
+      },
+      "Depression & bipolar disorder": {
+        "c": 2,
+        "t": 2,
+        "subject": "Psychiatry"
+      },
+      "Schizophrenia & psychosis": {
+        "c": 1,
+        "t": 2,
+        "subject": "Psychiatry"
+      },
+      "Chest X-ray signs": {
+        "c": 1,
+        "t": 1,
+        "subject": "Radiology"
+      },
+      "Choice of imaging modality; contrast": {
+        "c": 2,
+        "t": 2,
+        "subject": "Radiology"
+      },
+      "Radiation safety & principles": {
+        "c": 1,
+        "t": 1,
+        "subject": "Radiology"
+      },
+      "Acute abdomen, appendicitis, obstruction": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Breast lumps & carcinoma breast": {
+        "c": 1,
+        "t": 2,
+        "subject": "Surgery"
+      },
+      "Hernias (inguinal, femoral)": {
+        "c": 0,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Gallstones, pancreatitis": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Thyroid swellings & surgery": {
+        "c": 0,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Trauma, shock, ATLS basics": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      },
+      "Urinary stones, BPH, hematuria": {
+        "c": 1,
+        "t": 1,
+        "subject": "Surgery"
+      }
+    },
+    "wrongQids": [
+      {
+        "qid": "Q_A_008",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_A_002",
+        "choice": "A",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_A_003",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_007",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_014",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_016",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_A_031",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_019",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_A_028",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_A_034",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_022",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_A_040",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_024",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_A_038",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_022",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_023",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_026",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_028",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_029",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_065",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3a_032",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_033",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_059",
+        "choice": "D",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1_060",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_061",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3a_034",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_062",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_035",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_002",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_001",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_002",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_004",
+        "choice": "A",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3a_005",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_006",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_007",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3a_007",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_010",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_011",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_009",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_010",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_011",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_014",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_012",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_019",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_016",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_017",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_021",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_019",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_032",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_036",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_030",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3a_037",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_042",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_044",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_040",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_047",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_036",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_033",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_049",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3a_050",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_048",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_028",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3a_052",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3m_002",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_025",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_008",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_009",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_A_016",
+        "choice": "A",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_h3m_004",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_013",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_044",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_045",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_046",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_S_038",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_038",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_039",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_S_025",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_S_007",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_S_008",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_068",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_003",
+        "choice": "A",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3b_004",
+        "choice": "A",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_h3b_005",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_008",
+        "choice": "B",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_c1_076",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_010",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_012",
+        "choice": "B",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_c1_085",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_084",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3b_015",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_c1d_001",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_017",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3b_020",
+        "choice": "A",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_c1_071",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_025",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_073",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_019",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_031",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_032",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_S_014",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_034",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_S_016",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_S_017",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_025",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_S_002",
+        "choice": "D",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3d_026",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1d_007",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_c1_095",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3b_031",
+        "choice": "D",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3b_032",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_101",
+        "choice": "D",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_h3m_003",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_086",
+        "choice": "A",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_038",
+        "choice": "D",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_c1_089",
+        "choice": "C",
+        "correct": "B"
+      },
+      {
+        "qid": "Q_h3b_039",
+        "choice": "B",
+        "correct": "C"
+      },
+      {
+        "qid": "Q_C_032",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_034",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3c_024",
+        "choice": "A",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_h3d_035",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3d_037",
+        "choice": "C",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_h3c_029",
+        "choice": "C",
+        "correct": "D"
+      },
+      {
+        "qid": "Q_C_004",
+        "choice": "B",
+        "correct": "A"
+      },
+      {
+        "qid": "Q_C_010",
+        "choice": "C",
+        "correct": "A"
+      }
+    ]
+  }
+]

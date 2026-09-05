@@ -1,0 +1,804 @@
+{
+  "Pathology": {
+    "chapters": [
+      {
+        "name": "General Pathology",
+        "topics": [
+          {
+            "id": "PATH_GEN_CELLINJURY",
+            "name": "Cell injury, adaptation, necrosis vs apoptosis"
+          },
+          {
+            "id": "PATH_GEN_INFLAMM",
+            "name": "Acute & chronic inflammation, healing/repair"
+          },
+          {
+            "id": "PATH_GEN_NEOPLASIA",
+            "name": "Neoplasia: grading vs staging, tumor markers"
+          },
+          {
+            "id": "PATH_GEN_IMMUNO",
+            "name": "Hypersensitivity, autoimmunity, amyloidosis"
+          }
+        ]
+      },
+      {
+        "name": "Hematology",
+        "topics": [
+          {
+            "id": "PATH_HEM_ANEMIA",
+            "name": "Anemias (micro/macro/hemolytic)"
+          },
+          {
+            "id": "PATH_HEM_LEUKEMIA",
+            "name": "Leukemias (acute/chronic) & basic classification"
+          },
+          {
+            "id": "PATH_HEM_LYMPHOMA",
+            "name": "Lymphomas (Hodgkin vs NHL), Reed-Sternberg"
+          },
+          {
+            "id": "PATH_HEM_COAG",
+            "name": "Bleeding & coagulation disorders"
+          }
+        ]
+      },
+      {
+        "name": "Systemic Pathology",
+        "topics": [
+          {
+            "id": "PATH_SYS_CVS",
+            "name": "Atherosclerosis, MI, vasculitis"
+          },
+          {
+            "id": "PATH_SYS_RENAL",
+            "name": "Glomerulonephritis, nephrotic vs nephritic"
+          },
+          {
+            "id": "PATH_SYS_LIVER",
+            "name": "Cirrhosis, hepatitis, jaundice patterns"
+          },
+          {
+            "id": "PATH_SYS_CNS",
+            "name": "CNS tumors & basics"
+          }
+        ]
+      }
+    ]
+  },
+  "Pharmacology": {
+    "chapters": [
+      {
+        "name": "General Pharmacology",
+        "topics": [
+          {
+            "id": "PHAR_GEN_PKPD",
+            "name": "Pharmacokinetics/dynamics, receptors"
+          },
+          {
+            "id": "PHAR_GEN_ADR",
+            "name": "ADRs, enzyme inducers/inhibitors"
+          }
+        ]
+      },
+      {
+        "name": "Autonomic Nervous System",
+        "topics": [
+          {
+            "id": "PHAR_ANS_CHOL",
+            "name": "Cholinergic & anticholinergic drugs"
+          },
+          {
+            "id": "PHAR_ANS_ADREN",
+            "name": "Adrenergic agonists/antagonists"
+          }
+        ]
+      },
+      {
+        "name": "CVS",
+        "topics": [
+          {
+            "id": "PHAR_CVS_HTN",
+            "name": "Antihypertensives"
+          },
+          {
+            "id": "PHAR_CVS_HF_ARR",
+            "name": "Heart failure, antiarrhythmics, antianginals"
+          }
+        ]
+      },
+      {
+        "name": "CNS",
+        "topics": [
+          {
+            "id": "PHAR_CNS_AED",
+            "name": "Antiepileptics"
+          },
+          {
+            "id": "PHAR_CNS_PSYCH",
+            "name": "Antipsychotics, antidepressants"
+          },
+          {
+            "id": "PHAR_CNS_ANES",
+            "name": "General & local anaesthetics, opioids"
+          }
+        ]
+      },
+      {
+        "name": "Chemotherapy",
+        "topics": [
+          {
+            "id": "PHAR_CHEMO_ABX",
+            "name": "Antibiotics: classes, MOA, resistance, DoC"
+          },
+          {
+            "id": "PHAR_CHEMO_TB",
+            "name": "Anti-TB drugs & ADRs"
+          },
+          {
+            "id": "PHAR_CHEMO_OTHER",
+            "name": "Antivirals, antifungals, antimalarials, anticancer"
+          }
+        ]
+      },
+      {
+        "name": "Endocrine & Autacoids",
+        "topics": [
+          {
+            "id": "PHAR_ENDO",
+            "name": "Insulin/OHAs, thyroid, corticosteroids"
+          }
+        ]
+      }
+    ]
+  },
+  "Microbiology": {
+    "chapters": [
+      {
+        "name": "General Microbiology & Immunology",
+        "topics": [
+          {
+            "id": "MICRO_GEN_STERILE",
+            "name": "Sterilization, disinfection, stains, culture media"
+          },
+          {
+            "id": "MICRO_IMMUNO",
+            "name": "Immunoglobulins, complement, hypersensitivity"
+          }
+        ]
+      },
+      {
+        "name": "Bacteriology",
+        "topics": [
+          {
+            "id": "MICRO_BACT_GPOS",
+            "name": "Gram-positive: Staph, Strep, toxins"
+          },
+          {
+            "id": "MICRO_BACT_GNEG",
+            "name": "Gram-negative: E.coli, Salmonella, Vibrio, Pseudomonas"
+          },
+          {
+            "id": "MICRO_BACT_TB",
+            "name": "Mycobacteria (TB, leprosy) & lab diagnosis"
+          }
+        ]
+      },
+      {
+        "name": "Virology",
+        "topics": [
+          {
+            "id": "MICRO_VIR_HEP",
+            "name": "Hepatitis viruses (serology markers)"
+          },
+          {
+            "id": "MICRO_VIR_HIV",
+            "name": "HIV: virology, diagnosis, opportunistic infections"
+          }
+        ]
+      },
+      {
+        "name": "Parasitology & Mycology",
+        "topics": [
+          {
+            "id": "MICRO_PARA_MALARIA",
+            "name": "Malaria & other protozoa"
+          },
+          {
+            "id": "MICRO_MYCO",
+            "name": "Medically important fungi"
+          }
+        ]
+      }
+    ]
+  },
+  "Medicine": {
+    "chapters": [
+      {
+        "name": "Cardiology",
+        "topics": [
+          {
+            "id": "MED_CVS_IHD",
+            "name": "IHD / acute MI: diagnosis & management"
+          },
+          {
+            "id": "MED_CVS_HF",
+            "name": "Heart failure & valvular disease"
+          }
+        ]
+      },
+      {
+        "name": "Respiratory",
+        "topics": [
+          {
+            "id": "MED_RESP_COPD",
+            "name": "COPD & asthma"
+          },
+          {
+            "id": "MED_RESP_TB",
+            "name": "Pulmonary TB: diagnosis & regimens"
+          }
+        ]
+      },
+      {
+        "name": "Endocrinology",
+        "topics": [
+          {
+            "id": "MED_ENDO_DM",
+            "name": "Diabetes mellitus: diagnosis, complications, mgmt"
+          },
+          {
+            "id": "MED_ENDO_THYROID",
+            "name": "Thyroid disorders"
+          },
+          {
+            "id": "MED_ENDO_ADRENAL",
+            "name": "Adrenal disorders: Cushing's, Conn's, Addison's"
+          }
+        ]
+      },
+      {
+        "name": "Nephrology & Electrolytes",
+        "topics": [
+          {
+            "id": "MED_NEPH_ELEC",
+            "name": "AKI/CKD & electrolyte/acid-base disorders"
+          }
+        ]
+      },
+      {
+        "name": "Neurology",
+        "topics": [
+          {
+            "id": "MED_NEURO_STROKE",
+            "name": "Stroke, epilepsy, meningitis"
+          },
+          {
+            "id": "MED_NEURO_NMD",
+            "name": "Muscular dystrophies & neuromuscular disorders"
+          }
+        ]
+      },
+      {
+        "name": "Infectious Disease",
+        "topics": [
+          {
+            "id": "MED_ID_TROPICAL",
+            "name": "Dengue, malaria, enteric fever"
+          }
+        ]
+      },
+      {
+        "name": "Gastroenterology",
+        "topics": [
+          {
+            "id": "MED_GIT_LIVER",
+            "name": "Cirrhosis, hepatitis, GI bleed, IBD/PUD"
+          }
+        ]
+      }
+    ]
+  },
+  "PSM (Community Medicine)": {
+    "chapters": [
+      {
+        "name": "Epidemiology & Biostatistics",
+        "topics": [
+          {
+            "id": "PSM_EPI_DESIGNS",
+            "name": "Study designs; incidence vs prevalence"
+          },
+          {
+            "id": "PSM_EPI_SCREEN",
+            "name": "Screening: sensitivity/specificity/PPV"
+          },
+          {
+            "id": "PSM_BIOSTAT",
+            "name": "Biostatistics: tests & distributions"
+          }
+        ]
+      },
+      {
+        "name": "Communicable Diseases & Immunization",
+        "topics": [
+          {
+            "id": "PSM_IMMUNIZATION",
+            "name": "National immunization schedule"
+          },
+          {
+            "id": "PSM_COMMDIS",
+            "name": "Epidemiology & control: TB, malaria, HIV"
+          }
+        ]
+      },
+      {
+        "name": "National Health Programs",
+        "topics": [
+          {
+            "id": "PSM_PROGRAMS",
+            "name": "National health programs (NHM, NTEP, etc.)"
+          }
+        ]
+      },
+      {
+        "name": "Nutrition",
+        "topics": [
+          {
+            "id": "PSM_NUTRITION",
+            "name": "Nutritional requirements & deficiency diseases"
+          }
+        ]
+      },
+      {
+        "name": "Demography, MCH & Environment",
+        "topics": [
+          {
+            "id": "PSM_DEMOG_FP",
+            "name": "Demography, family planning, MCH indicators"
+          },
+          {
+            "id": "PSM_ENV_BMW",
+            "name": "Water/waste, biomedical waste, vital statistics"
+          }
+        ]
+      }
+    ]
+  },
+  "Anatomy": {
+    "chapters": [
+      {
+        "name": "Limbs",
+        "topics": [
+          {
+            "id": "ANAT_LIMB_BRACHIAL",
+            "name": "Brachial plexus & nerve injuries (radial/median/ulnar)"
+          },
+          {
+            "id": "ANAT_LIMB_LOWER",
+            "name": "Lower limb: femoral/sciatic nerve, foot drop"
+          }
+        ]
+      },
+      {
+        "name": "Thorax, Abdomen & Pelvis",
+        "topics": [
+          {
+            "id": "ANAT_THORAX",
+            "name": "Mediastinum, heart & great vessels"
+          },
+          {
+            "id": "ANAT_ABDOMEN",
+            "name": "Inguinal canal, GIT relations"
+          }
+        ]
+      },
+      {
+        "name": "Head, Neck & Neuroanatomy",
+        "topics": [
+          {
+            "id": "ANAT_CN",
+            "name": "Cranial nerves & nuclei"
+          },
+          {
+            "id": "ANAT_NEURO_TRACTS",
+            "name": "Spinal cord tracts & lesions"
+          }
+        ]
+      },
+      {
+        "name": "Embryology",
+        "topics": [
+          {
+            "id": "ANAT_EMBRYO",
+            "name": "Pharyngeal arches, germ-layer derivatives"
+          }
+        ]
+      }
+    ]
+  },
+  "Physiology": {
+    "chapters": [
+      {
+        "name": "Nerve-Muscle & CVS",
+        "topics": [
+          {
+            "id": "PHYSIO_NMJ",
+            "name": "Action potential & neuromuscular junction"
+          },
+          {
+            "id": "PHYSIO_CVS",
+            "name": "Cardiac cycle, ECG basis, BP regulation"
+          }
+        ]
+      },
+      {
+        "name": "Respiratory & Renal",
+        "topics": [
+          {
+            "id": "PHYSIO_RESP",
+            "name": "O2/CO2 transport, hypoxia"
+          },
+          {
+            "id": "PHYSIO_RENAL",
+            "name": "GFR, clearance, urine concentration"
+          }
+        ]
+      },
+      {
+        "name": "Endocrine & CNS",
+        "topics": [
+          {
+            "id": "PHYSIO_ENDO",
+            "name": "Hormone actions & feedback"
+          },
+          {
+            "id": "PHYSIO_CNS",
+            "name": "Synapses, reflexes, ascending/descending pathways"
+          }
+        ]
+      }
+    ]
+  },
+  "Biochemistry": {
+    "chapters": [
+      {
+        "name": "Metabolism",
+        "topics": [
+          {
+            "id": "BIOCHEM_CHO",
+            "name": "Glycolysis, TCA, gluconeogenesis (key enzymes)"
+          },
+          {
+            "id": "BIOCHEM_LIPID",
+            "name": "Lipid metabolism & lipoproteins"
+          },
+          {
+            "id": "BIOCHEM_AA",
+            "name": "Amino acid metabolism & urea cycle"
+          }
+        ]
+      },
+      {
+        "name": "Vitamins & Molecular Biology",
+        "topics": [
+          {
+            "id": "BIOCHEM_VIT",
+            "name": "Vitamins & deficiency diseases"
+          },
+          {
+            "id": "BIOCHEM_MOLBIO",
+            "name": "DNA/RNA, replication, mutations"
+          },
+          {
+            "id": "BIOCHEM_IEM",
+            "name": "Inborn errors of metabolism"
+          }
+        ]
+      }
+    ]
+  },
+  "Forensic Medicine (FMT)": {
+    "chapters": [
+      {
+        "name": "Thanatology & Injuries",
+        "topics": [
+          {
+            "id": "FMT_THANATOLOGY",
+            "name": "Death, postmortem changes (rigor/livor/algor)"
+          },
+          {
+            "id": "FMT_INJURY",
+            "name": "Wounds, firearm & mechanical injuries"
+          },
+          {
+            "id": "FMT_ASPHYXIA",
+            "name": "Asphyxial deaths (hanging, drowning)"
+          }
+        ]
+      },
+      {
+        "name": "Toxicology & Law",
+        "topics": [
+          {
+            "id": "FMT_TOXICOLOGY",
+            "name": "Common poisons (OPC, corrosives, snakebite)"
+          },
+          {
+            "id": "FMT_LAW",
+            "name": "Legal procedure, consent, key IPC sections"
+          }
+        ]
+      }
+    ]
+  },
+  "Surgery": {
+    "chapters": [
+      {
+        "name": "GI & Hepatobiliary",
+        "topics": [
+          {
+            "id": "SURG_ACUTE_ABDOMEN",
+            "name": "Acute abdomen, appendicitis, obstruction"
+          },
+          {
+            "id": "SURG_HERNIA",
+            "name": "Hernias (inguinal, femoral)"
+          },
+          {
+            "id": "SURG_HPB",
+            "name": "Gallstones, pancreatitis"
+          }
+        ]
+      },
+      {
+        "name": "Breast, Endocrine & Trauma",
+        "topics": [
+          {
+            "id": "SURG_BREAST",
+            "name": "Breast lumps & carcinoma breast"
+          },
+          {
+            "id": "SURG_THYROID",
+            "name": "Thyroid swellings & surgery"
+          },
+          {
+            "id": "SURG_TRAUMA",
+            "name": "Trauma, shock, ATLS basics"
+          }
+        ]
+      },
+      {
+        "name": "Urology",
+        "topics": [
+          {
+            "id": "SURG_URO",
+            "name": "Urinary stones, BPH, hematuria"
+          }
+        ]
+      }
+    ]
+  },
+  "Obstetrics & Gynaecology": {
+    "chapters": [
+      {
+        "name": "Obstetrics",
+        "topics": [
+          {
+            "id": "OBG_ANC_LABOR",
+            "name": "Antenatal care & normal labour"
+          },
+          {
+            "id": "OBG_PPH",
+            "name": "Postpartum haemorrhage"
+          },
+          {
+            "id": "OBG_HTN_PREG",
+            "name": "Preeclampsia/eclampsia, APH"
+          },
+          {
+            "id": "OBG_PREG_LOSS",
+            "name": "Abortion, ectopic pregnancy, recurrent pregnancy loss"
+          }
+        ]
+      },
+      {
+        "name": "Gynaecology",
+        "topics": [
+          {
+            "id": "OBG_CONTRA",
+            "name": "Contraception"
+          },
+          {
+            "id": "OBG_MENSTRUAL",
+            "name": "Menstrual disorders, PCOS, fibroids"
+          },
+          {
+            "id": "OBG_ONCO",
+            "name": "Ca cervix / endometrium / ovary; screening"
+          }
+        ]
+      }
+    ]
+  },
+  "Pediatrics": {
+    "chapters": [
+      {
+        "name": "Neonatology & Growth",
+        "topics": [
+          {
+            "id": "PEDS_NEONATE",
+            "name": "Neonatal jaundice, sepsis, resuscitation"
+          },
+          {
+            "id": "PEDS_GROWTH",
+            "name": "Growth & development milestones"
+          }
+        ]
+      },
+      {
+        "name": "Nutrition & Infectious",
+        "topics": [
+          {
+            "id": "PEDS_NUTRITION",
+            "name": "PEM, breastfeeding, micronutrients"
+          },
+          {
+            "id": "PEDS_IMMUNO_ID",
+            "name": "Immunization & common infections"
+          }
+        ]
+      }
+    ]
+  },
+  "Orthopedics": {
+    "chapters": [
+      {
+        "name": "Fractures & Bone Disease",
+        "topics": [
+          {
+            "id": "ORTHO_FRACTURES",
+            "name": "Specific fractures (Colles, NOF, supracondylar) & healing"
+          },
+          {
+            "id": "ORTHO_INFECTION",
+            "name": "Osteomyelitis & TB spine"
+          },
+          {
+            "id": "ORTHO_TUMOR_CONG",
+            "name": "Bone tumours; CTEV, DDH"
+          }
+        ]
+      }
+    ]
+  },
+  "ENT": {
+    "chapters": [
+      {
+        "name": "Ear, Nose & Throat",
+        "topics": [
+          {
+            "id": "ENT_EAR",
+            "name": "Otitis media, CSOM, hearing loss"
+          },
+          {
+            "id": "ENT_NOSE",
+            "name": "Sinusitis, epistaxis, DNS"
+          },
+          {
+            "id": "ENT_THROAT",
+            "name": "Tonsillitis, carcinoma larynx"
+          }
+        ]
+      }
+    ]
+  },
+  "Ophthalmology": {
+    "chapters": [
+      {
+        "name": "Lens, Glaucoma & Retina",
+        "topics": [
+          {
+            "id": "OPHTH_CATARACT",
+            "name": "Cataract"
+          },
+          {
+            "id": "OPHTH_GLAUCOMA",
+            "name": "Glaucoma"
+          },
+          {
+            "id": "OPHTH_RETINA",
+            "name": "Diabetic retinopathy, retinal detachment"
+          },
+          {
+            "id": "OPHTH_REFRACT",
+            "name": "Refractive errors"
+          }
+        ]
+      }
+    ]
+  },
+  "Psychiatry": {
+    "chapters": [
+      {
+        "name": "Major Disorders",
+        "topics": [
+          {
+            "id": "PSYCH_MOOD",
+            "name": "Depression & bipolar disorder"
+          },
+          {
+            "id": "PSYCH_SCHIZO",
+            "name": "Schizophrenia & psychosis"
+          },
+          {
+            "id": "PSYCH_ANX_SUBS",
+            "name": "Anxiety disorders & substance use"
+          }
+        ]
+      }
+    ]
+  },
+  "Dermatology": {
+    "chapters": [
+      {
+        "name": "Infections & Immune",
+        "topics": [
+          {
+            "id": "DERM_LEPROSY",
+            "name": "Leprosy (types, lepra reactions)"
+          },
+          {
+            "id": "DERM_PAPULOSQ",
+            "name": "Psoriasis, lichen planus"
+          },
+          {
+            "id": "DERM_BULLOUS_STD",
+            "name": "Pemphigus vs pemphigoid; STDs"
+          }
+        ]
+      }
+    ]
+  },
+  "Radiology": {
+    "chapters": [
+      {
+        "name": "Imaging Principles",
+        "topics": [
+          {
+            "id": "RADIO_MODALITY",
+            "name": "Choice of imaging modality; contrast"
+          },
+          {
+            "id": "RADIO_CHEST",
+            "name": "Chest X-ray signs"
+          },
+          {
+            "id": "RADIO_SAFETY",
+            "name": "Radiation safety & principles"
+          }
+        ]
+      }
+    ]
+  },
+  "Anaesthesia": {
+    "chapters": [
+      {
+        "name": "Airway, Agents & Resuscitation",
+        "topics": [
+          {
+            "id": "ANAES_AIRWAY",
+            "name": "Preop assessment (ASA), airway management"
+          },
+          {
+            "id": "ANAES_LA",
+            "name": "Local anaesthetics (max doses, toxicity)"
+          },
+          {
+            "id": "ANAES_CPR",
+            "name": "CPR / BLS-ACLS basics"
+          }
+        ]
+      }
+    ]
+  }
+}
