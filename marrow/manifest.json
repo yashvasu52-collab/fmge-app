@@ -1,0 +1,128 @@
+[
+  {
+    "key": "anaesthesia_ed8",
+    "file": "anaesthesia_ed8.json",
+    "title": "Anaesthesia",
+    "chapters": 25,
+    "questions": 551
+  },
+  {
+    "key": "anatomy_ed8",
+    "file": "anatomy_ed8.json",
+    "title": "Anatomy",
+    "chapters": 63,
+    "questions": 1115
+  },
+  {
+    "key": "biochemistry_ed8",
+    "file": "biochemistry_ed8.json",
+    "title": "Biochemistry",
+    "chapters": 28,
+    "questions": 582
+  },
+  {
+    "key": "dermatology_ed8",
+    "file": "dermatology_ed8.json",
+    "title": "Dermatology",
+    "chapters": 23,
+    "questions": 510
+  },
+  {
+    "key": "ent_ed8",
+    "file": "ent_ed8.json",
+    "title": "ENT",
+    "chapters": 38,
+    "questions": 703
+  },
+  {
+    "key": "forensic_medicine_ed8",
+    "file": "forensic_medicine_ed8.json",
+    "title": "Forensic Medicine",
+    "chapters": 21,
+    "questions": 436
+  },
+  {
+    "key": "medicine_ed8",
+    "file": "medicine_ed8.json",
+    "title": "Medicine",
+    "chapters": 104,
+    "questions": 1868
+  },
+  {
+    "key": "microbiology_ed8",
+    "file": "microbiology_ed8.json",
+    "title": "Microbiology",
+    "chapters": 35,
+    "questions": 616
+  },
+  {
+    "key": "obgyn_ed8",
+    "file": "obgyn_ed8.json",
+    "title": "OBGYN",
+    "chapters": 47,
+    "questions": 989
+  },
+  {
+    "key": "ophthalmology_ed8",
+    "file": "ophthalmology_ed8.json",
+    "title": "Ophthalmology",
+    "chapters": 28,
+    "questions": 634
+  },
+  {
+    "key": "orthopaedics_ed8",
+    "file": "orthopaedics_ed8.json",
+    "title": "Orthopaedics",
+    "chapters": 31,
+    "questions": 501
+  },
+  {
+    "key": "psm_ed8",
+    "file": "psm_ed8.json",
+    "title": "PSM",
+    "chapters": 64,
+    "questions": 1319
+  },
+  {
+    "key": "pathology_ed8",
+    "file": "pathology_ed8.json",
+    "title": "Pathology",
+    "chapters": 71,
+    "questions": 1405
+  },
+  {
+    "key": "pediatrics_ed8",
+    "file": "pediatrics_ed8.json",
+    "title": "Pediatrics",
+    "chapters": 39,
+    "questions": 800
+  },
+  {
+    "key": "pharmacology_ed8",
+    "file": "pharmacology_ed8.json",
+    "title": "Pharmacology",
+    "chapters": 67,
+    "questions": 1332
+  },
+  {
+    "key": "psychiatry_ed8",
+    "file": "psychiatry_ed8.json",
+    "title": "Psychiatry",
+    "chapters": 33,
+    "questions": 434
+  },
+  {
+    "key": "radiology_ed8",
+    "file": "radiology_ed8.json",
+    "title": "Radiology",
+    "chapters": 15,
+    "questions": 311
+  },
+  {
+    "key": "surgery_ed8",
+    "file": "surgery_ed8.json",
+    "title": "Surgery",
+    "chapters": 54,
+    "questions": 1256
+  }
+]
