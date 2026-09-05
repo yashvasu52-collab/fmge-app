@@ -129,7 +129,8 @@
 
   function goBack(){
     if(document.getElementById('s-chapters').classList.contains('active')){renderSubjects();return;}
-    location.href='index.html';
+    // Marrow is only ever entered from the Practice tab -- return there, not the Home default.
+    location.href='index.html#practice';
   }
 
   async function init(){
@@ -171,18 +172,24 @@
     }
   }
 
+  let reviewingFromResults=false;
+
   function startChapterQuiz(no){
     curChapter=curBank.chapters.find(c=>c.no===no);
     if(!curChapter||!curChapter.questions.length)return;
     curQuestions=curChapter.questions;
     answers=curQuestions.map(()=>null);
     curQIndex=0;
+    reviewingFromResults=false;
     document.getElementById('quizTitle').textContent='Ch '+String(curChapter.no).padStart(2,'0')+' · '+curChapter.title;
     renderQ();
     document.getElementById('quizOver').classList.add('active');
   }
 
-  function quitQuiz(){document.getElementById('quizOver').classList.remove('active');}
+  function quitQuiz(){
+    document.getElementById('quizOver').classList.remove('active');
+    if(reviewingFromResults){reviewingFromResults=false;document.getElementById('resultsOver').classList.add('active');}
+  }
 
   function imgTag(im){return `<img class="qimg" src="marrow/${im.file}" loading="lazy" alt="question image ${im.ref}">`;}
 
@@ -286,6 +293,7 @@
 
   function reviewQuestion(i){
     document.getElementById('resultsOver').classList.remove('active');
+    reviewingFromResults=true;
     curQIndex=i;renderQ();
     document.getElementById('quizOver').classList.add('active');
   }
@@ -293,7 +301,9 @@
   function retakeChapter(){
     document.getElementById('resultsOver').classList.remove('active');
     answers=curQuestions.map(()=>null);
-    curQIndex=0;renderQ();
+    curQIndex=0;
+    reviewingFromResults=false;
+    renderQ();
     document.getElementById('quizOver').classList.add('active');
   }
 
